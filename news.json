@@ -1,7 +1,111 @@
 {
-  "updated": "2026-03-30T21:27:47.083612+00:00",
+  "updated": "2026-03-30T23:53:48.888978+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9b3492937860",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Women use a higher-pitched voice when speaking to unfamiliar dogs",
+      "summary": "When speaking to a strange dog, female owners instinctively raise their vocal pitch to signal friendly intentions. A recent study reveals how familiarity, dog size, and social context shift human speech and facial expressions.",
+      "aiSummary": "When speaking to a strange dog, female owners instinctively raise their vocal pitch to signal friendly intentions. A recent study reveals how familiarity, dog size, and social context shift human speech and facial expressions.",
+      "keyPoints": [
+        "When speaking to a strange dog, female owners instinctively raise their vocal pi",
+        "A recent study reveals how familiarity, dog size, and social context shift human"
+      ],
+      "url": "https://www.psypost.org/women-use-a-higher-pitched-voice-when-speaking-to-unfamiliar-dogs-2026-03-26/",
+      "featured": true
+    },
+    {
+      "id": "864af1a72c0c",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+      "summary": "arXiv:2603.25747v1 Announce Type: new Abstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomous decision-makers introduces substantial unintentional behavioral safety risks. However, the absenc",
+      "aiSummary": "arXiv:2603.25747v1 Announce Type: new Abstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomous decision-makers introduces substantial unintentional behavioral safety risks. To address this gap, we present BeSafe-Bench (BSB), a benchmark for exposing behavioral safety risks of situated agents in functional environments, covering four representative domains: Web, Mobile, Embodied VLM, and Embodied VLA. Evaluating 13 popular agents reveals a concerning trend: even the best-performing agent completes fewer than 40% of tasks while fully adhering to safety constraints, and strong task performance frequently coincides with severe safety violations.",
+      "keyPoints": [
+        "Evaluating 13 popular agents reveals a concerning trend: even the best-performin",
+        "25747v1 Announce Type: new Abstract: The rapid evolution of Large Multimodal Mod",
+        "However, the absence of a comprehensive safety benchmark remains a major bottlen",
+        "To address this gap, we present BeSafe-Bench (BSB), a benchmark for exposing beh"
+      ],
+      "url": "https://arxiv.org/abs/2603.25747",
+      "featured": false
+    },
+    {
+      "id": "109577129af3",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
+      "summary": "arXiv:2603.26005v1 Announce Type: new Abstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from data and cope with the complexity and uncertainty of large-scale building clusters. However, most exi",
+      "aiSummary": "arXiv:2603.26005v1 Announce Type: new Abstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from data and cope with the complexity and uncertainty of large-scale building clusters. However, most existing simulation environments prioritize building-side performance metrics and lack systematic evaluation of grid-level impacts, while their experimental workflows still rely heavily on manual configuration and substantial programming expertise. Experimental results demonstrate that AutoB2G can effectively enable automated simulator implementations, coordinating B2G interactions to improve grid-side performance metrics.",
+      "keyPoints": [
+        "experimental workflows still rely heavily on manual configuration and substantia",
+        "26005v1 Announce Type: new Abstract: The growing availability of building operat",
+        "However, most existing simulation environments prioritize building-side performa",
+        "Therefore, this paper proposes AutoB2G, an automated building-grid co-simulation"
+      ],
+      "url": "https://arxiv.org/abs/2603.26005",
+      "featured": false
+    },
+    {
+      "id": "7a7de1767a2f",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "What teens eat could be affecting their mental health more than we thought",
+      "summary": "What teens eat might matter more for their mental health than previously thought. A sweeping review of nearly 20 studies found that healthier diets are often linked to fewer depressive symptoms, while poor eating habits may go hand in hand with greater psychological distress. Interestingly, focusing",
+      "aiSummary": "What teens eat might matter more for their mental health than previously thought. A sweeping review of nearly 20 studies found that healthier diets are often linked to fewer depressive symptoms, while poor eating habits may go hand in hand with greater psychological distress. Interestingly, focusing on whole dietary patterns—not just individual nutrients—showed more consistent benefits, suggesting that overall eating habits could play a meaningful role during this critical stage of brain development.",
+      "keyPoints": [
+        "What teens eat might matter more for their mental health than previously thought",
+        "A sweeping review of nearly 20 studies found that healthier diets are often link",
+        "Interestingly, focusing on whole dietary patterns—not just individual nutrients—"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/03/260328043602.htm",
+      "featured": false
+    },
+    {
+      "id": "a13c36087b32",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "This new therapy turns off pain without opioids or addiction",
+      "summary": "Scientists have developed a new gene therapy that quiets pain at its source in the brain—without the addictive risks of opioids. Using AI to map how pain is processed, they created a targeted “off switch” that mimics morphine’s benefits but skips its dangerous side effects. In early tests, it delive",
+      "aiSummary": "Scientists have developed a new gene therapy that quiets pain at its source in the brain—without the addictive risks of opioids. Using AI to map how pain is processed, they created a targeted “off switch” that mimics morphine’s benefits but skips its dangerous side effects. The discovery could mark a major step toward safer, non-addictive pain treatments.",
+      "keyPoints": [
+        "Scientists have developed a new gene therapy that quiets pain at its source in t",
+        "Using AI to map how pain is processed, they created a targeted “off switch” that",
+        "In early tests, it delivered lasting relief without affecting normal sensations",
+        "The discovery could mark a major step toward safer, non-addictive pain treatment"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/03/260328043558.htm",
+      "featured": false
+    },
+    {
+      "id": "f7c9fcb491e7",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
+      "summary": "After a stroke, the brain may do something surprisingly hopeful—it can “refresh” parts of itself. Researchers analyzing brain scans from over 500 stroke survivors found that while the damaged side of the brain appears to age faster, the opposite, unaffected side can actually look younger. This unexp",
+      "aiSummary": "After a stroke, the brain may do something surprisingly hopeful—it can “refresh” parts of itself. Researchers analyzing brain scans from over 500 stroke survivors found that while the damaged side of the brain appears to age faster, the opposite, unaffected side can actually look younger. This unexpected shift seems to reflect the brain’s effort to rewire itself, strengthening healthy regions to compensate for lost function.",
+      "keyPoints": [
+        "After a stroke, the brain may do something surprisingly hopeful—it can “refresh”",
+        "Researchers analyzing brain scans from over 500 stroke survivors found that whil",
+        "This unexpected shift seems to reflect the brain’s effort to rewire itself, stre"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/03/260328043556.htm",
+      "featured": false
+    },
     {
       "id": "2730636d57e4",
       "tag": "psych",
@@ -16,7 +120,7 @@
         "A new study reveals how science communicators achieve viral success online"
       ],
       "url": "https://www.psypost.org/how-science-goes-viral-the-hidden-rules-of-tiktok-instagram-and-youtube/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a79bf22ebaaa",
@@ -246,109 +350,6 @@
         "” I beg pardon, but there is no mistake"
       ],
       "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "381971e27c77",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "14일 전 / 14d ago",
-      "title": "Facts and the Fight for Moral High Ground",
-      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry communit",
-      "aiSummary": "In addition to these arguments over moral standards, participants in the Story Station were fighting over who deserved to be protected, who deserved to be defended against wrongs, and who deserved to be listened to about matters of right and wrong. A white woman with decades of experience in her field, Howarth started by introducing her organization and its mission: “The environmental health researchers, physicians, and public health professionals of the CEET work every day on environmental health issues that affect our region and recognize the value of scientific evidence to establish and maintain public policy protective of human health.” From this you might glean that Howarth and CEET were on the side of community members like Sylvia Bennett and Sonya Sanders, who believed that illnesses in the Gray’s Ferry neighborhood were connected to pollution from the refinery. The report then invoked another set of public health researchers, in this case from Drexel University, citing their claim that exposures to air pollutants increased respiratory disease among people living near refineries in particular.",
-      "keyPoints": [
-        "trial facilities on their own.",
-        "In southwest Philadelphia in August 2019, a young Black man sat down on a foldin",
-        "My name is Ricky,” he said into a camera",
-        "“I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the re"
-      ],
-      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
-      "featured": false
-    },
-    {
-      "id": "42952918014f",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "14일 전 / 14d ago",
-      "title": "What It’s Like to Be…a Lineman",
-      "summary": "Wiring a neighborhood back to life after a tornado, coveting the work of helicopter linemen in Faraday suits, and surviving the collapse of a rotten utility pole with Elden Rivas, a journeyman lineman in Houston, Texas. What is the one sound on the crew radio that stops every lineman cold? And why d",
-      "aiSummary": "Wiring a neighborhood back to life after a tornado, coveting the work of helicopter linemen in Faraday suits, and surviving the collapse of a rotten utility pole with Elden Rivas, a journeyman lineman in Houston, Texas. Behavioral Scientist serves as a distribution partner with episodes released every other week. The post What Its Like to Bea Lineman appeared first on Behavioral Scientist .",
-      "keyPoints": [
-        "Wiring a neighborhood back to life after a tornado, coveting the work of helicop",
-        "What is the one sound on the crew radio that stops every lineman cold",
-        "And why does a squirrel on a transformer mean easy money",
-        "[buzzsprout episode='18809906' player='true'] View the episode transcript About "
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-lineman/",
-      "featured": false
-    },
-    {
-      "id": "8ceeb6ccef5e",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "29일 전 / 29d ago",
-      "title": "What It Takes to Make Good Decisions: Judgment, Not Calculation",
-      "summary": "Consider the following. A young child, having received a playhouse as a gift and finding its interior too dark, asks her mother how she makes their house so light. “By flipping a switch,” says the mother. The child finds a spare switch in the basement, hangs it on the playhouse wall, and flips it, b",
-      "aiSummary": "It is also a paradigm in the sense used by philosopher Thomas Kuhn in his landmark book The Structure of Scientific Revolutions, in which he suggests that scientific paradigms establish both the problems to be solved and the methods of inquiry to be used in formulating a solution to those problems. By keeping background information skeletal, researchers make decision problems seem more similar to one another than they really are, and more simple than they really are. Quantification can turn any decision into a “no-brainer.” But making decisions is what brains are for.",
-      "keyPoints": [
-        "RCT)—to quantify the options and attributes, the probabilities and values, and t",
-        "Consider the following",
-        "A young child, having received a playhouse as a gift and finding its interior to",
-        "“By flipping a switch,” says the mother"
-      ],
-      "url": "https://behavioralscientist.org/what-it-takes-to-make-good-decisions-judgment-not-calculation/",
-      "featured": false
-    },
-    {
-      "id": "3954dc69b8af",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Glyphosate: A common weedkiller may induce anxiety by disrupting gut bacteria",
-      "summary": "Rats exposed to widely approved levels of a common herbicide developed hypervigilance and an unnatural fear of harmless objects. The effect seems driven by the chemical's ability to kill mood-regulating bacteria in the digestive tract.",
-      "aiSummary": "Rats exposed to widely approved levels of a common herbicide developed hypervigilance and an unnatural fear of harmless objects. The effect seems driven by the chemical's ability to kill mood-regulating bacteria in the digestive tract.",
-      "keyPoints": [
-        "Rats exposed to widely approved levels of a common herbicide developed hypervigi",
-        "The effect seems driven by the chemical's ability to kill mood-regulating bacter"
-      ],
-      "url": "https://www.psypost.org/a-popular-weedkiller-may-induce-anxiety-by-disrupting-gut-bacteria-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "a822fe61e1e0",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Psychopathic traits are linked to a lack of physical and emotional connection during face-to-face interactions",
-      "summary": "A new study reveals that people with psychopathic traits can accurately judge another person's emotions. However, they show a distinct inability to physically and emotionally resonate with those feelings.",
-      "aiSummary": "A new study reveals that people with psychopathic traits can accurately judge another person's emotions. However, they show a distinct inability to physically and emotionally resonate with those feelings.",
-      "keyPoints": [
-        "A new study reveals that people with psychopathic traits can accurately judge an",
-        "However, they show a distinct inability to physically and emotionally resonate w"
-      ],
-      "url": "https://www.psypost.org/psychopathic-traits-are-linked-to-a-lack-of-physical-and-emotional-connection-during-face-to-face-interactions/",
-      "featured": false
-    },
-    {
-      "id": "527643040fdb",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "9시간 전 / 9h ago",
-      "title": "Just a few minutes of effort could lower your risk of 8 major diseases",
-      "summary": "Just a few minutes of getting out of breath each day could dramatically cut your risk of major diseases—including heart disease, dementia, and diabetes. A large study of nearly 100,000 people found that it’s not just how much you move, but how intensely you move that matters. Short bursts of vigorou",
-      "aiSummary": "Just a few minutes of getting out of breath each day could dramatically cut your risk of major diseases—including heart disease, dementia, and diabetes. A large study of nearly 100,000 people found that it’s not just how much you move, but how intensely you move that matters. Short bursts of vigorous activity—like rushing for a bus or climbing stairs quickly—were linked to striking reductions in disease risk, especially for inflammatory conditions and brain health.",
-      "keyPoints": [
-        "A large study of nearly 100,000 people found that it’s not just how much you mov",
-        "Just a few minutes of getting out of breath each day could dramatically cut your",
-        "Short bursts of vigorous activity—like rushing for a bus or climbing stairs quic"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
       "featured": false
     }
   ]
