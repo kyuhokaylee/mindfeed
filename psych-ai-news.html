@@ -8,7 +8,7 @@
 <meta name="theme-color" content="#0d0f12">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="MindFeed">
 <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Noto+Serif+KR:wght@400;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -40,7 +40,12 @@
     --radius-sm: 8px;
   }
  
-  html { scroll-behavior: smooth; }
+  html {
+    scroll-behavior: smooth;
+    /* PWA 상태바 Safe Area */
+    padding-top: env(safe-area-inset-top);
+    background-color: #0d0f12;
+  }
  
   body {
     background: var(--bg);
@@ -49,8 +54,6 @@
     font-size: 15px;
     line-height: 1.7;
     min-height: 100vh;
-    padding-left: env(safe-area-inset-left);
-    padding-right: env(safe-area-inset-right);
   }
  
   /* ===== HEADER ===== */
@@ -58,15 +61,12 @@
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(13,15,18,0.92);
-    backdrop-filter: blur(16px);
+    background: #0d0f12;
     border-bottom: 0.5px solid var(--border2);
     padding: 0 24px;
-    padding-top: env(safe-area-inset-top);
-    height: calc(60px + env(safe-area-inset-top));
+    height: 60px;
     display: flex;
-    align-items: flex-end;
-    padding-bottom: 10px;
+    align-items: center;
     gap: 20px;
   }
  
@@ -98,7 +98,7 @@
   }
  
   .logo-sub {
-    font-size: 11px;
+    font-size: 15px;
     color: var(--muted);
     letter-spacing: 0.5px;
   }
@@ -115,7 +115,7 @@
     align-items: center;
     gap: 6px;
     font-family: var(--font-mono);
-    font-size: 11px;
+    font-size: 15px;
     color: var(--accent);
     background: rgba(110,231,183,0.08);
     border: 0.5px solid rgba(110,231,183,0.2);
@@ -143,7 +143,7 @@
     padding: 7px 14px;
     border-radius: var(--radius-sm);
     font-family: var(--font-main);
-    font-size: 13px;
+    font-size: 15px;
     cursor: pointer;
     transition: all 0.2s;
     display: flex;
@@ -167,7 +167,7 @@
   .filter-bar::-webkit-scrollbar { display: none; }
  
   .filter-label {
-    font-size: 12px;
+    font-size: 14px;
     color: var(--muted);
     font-family: var(--font-mono);
     white-space: nowrap;
@@ -177,7 +177,7 @@
   .filter-chip {
     padding: 5px 14px;
     border-radius: 20px;
-    font-size: 12px;
+    font-size: 14px;
     border: 0.5px solid var(--border2);
     background: transparent;
     color: var(--muted);
@@ -209,12 +209,12 @@
     .container { grid-template-columns: 1fr; padding: 16px 14px 90px; }
     .sidebar { display: none; }
     .container > main { min-width: 0; }
-    header { padding: 0 16px; padding-top: env(safe-area-inset-top); height: calc(54px + env(safe-area-inset-top)); }
+    header { padding: 0 16px; height: 54px; }
     .logo-sub { display: none; }
     .live-badge { display: none; }
-    .refresh-btn { padding: 6px 10px; font-size: 12px; }
+    .refresh-btn { padding: 6px 10px; font-size: 14px; }
     .filter-bar { padding: 10px 14px; gap: 8px; }
-    .filter-chip { padding: 5px 11px; font-size: 11px; }
+    .filter-chip { padding: 5px 11px; font-size: 15px; }
     .filter-label { display: none; }
     .news-card { padding: 16px; }
     .featured-card { padding: 18px; }
@@ -257,7 +257,7 @@
     }
     .bottom-nav-item.active { color: var(--accent); }
     .bottom-nav-icon { font-size: 20px; line-height: 1; }
-    .bottom-nav-label { font-size: 10px; font-family: var(--font-mono); }
+    .bottom-nav-label { font-size: 14px; font-family: var(--font-mono); }
   }
  
   /* ===== PWA INSTALL BANNER ===== */
@@ -274,13 +274,13 @@
   }
   .install-banner.visible { display: flex; }
   .install-banner-text { flex: 1; }
-  .install-banner-title { font-size: 13px; color: var(--text); margin-bottom: 2px; }
-  .install-banner-sub { font-size: 11px; color: var(--muted); font-family: var(--font-mono); }
+  .install-banner-title { font-size: 15px; color: var(--text); margin-bottom: 2px; }
+  .install-banner-sub { font-size: 15px; color: var(--muted); font-family: var(--font-mono); }
   .install-btn {
     background: rgba(110,231,183,0.15);
     border: 0.5px solid rgba(110,231,183,0.3);
     color: var(--accent);
-    font-size: 12px;
+    font-size: 14px;
     font-family: var(--font-mono);
     padding: 7px 14px;
     border-radius: 20px;
@@ -312,7 +312,7 @@
   }
  
   .feed-title {
-    font-size: 13px;
+    font-size: 15px;
     color: var(--muted);
     font-family: var(--font-mono);
   }
@@ -321,7 +321,7 @@
     background: var(--surface2);
     border: 0.5px solid var(--border2);
     color: var(--muted);
-    font-size: 12px;
+    font-size: 14px;
     padding: 5px 10px;
     border-radius: var(--radius-sm);
     font-family: var(--font-mono);
@@ -351,6 +351,35 @@
     transition: background 0.2s;
   }
  
+  .card-thumbnail {
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 14px;
+    flex-shrink: 0;
+    background: #0a0a0a;
+  }
+ 
+  .card-thumbnail svg {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+ 
+  .featured-thumbnail {
+    width: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 14px;
+    background: #0a0a0a;
+  }
+ 
+  .featured-thumbnail svg {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+ 
   .news-card:hover { border-color: var(--border2); background: var(--surface2); }
   .news-card:hover::before { background: var(--accent); }
  
@@ -363,7 +392,7 @@
   }
  
   .tag {
-    font-size: 11px;
+    font-size: 15px;
     font-family: var(--font-mono);
     padding: 3px 8px;
     border-radius: 4px;
@@ -376,13 +405,13 @@
   .tag-behav { background: var(--tag-behav); color: var(--tag-behav-text); }
  
   .card-source {
-    font-size: 11px;
+    font-size: 15px;
     color: var(--muted);
     font-family: var(--font-mono);
   }
  
   .card-time {
-    font-size: 11px;
+    font-size: 15px;
     color: var(--muted);
     margin-left: auto;
   }
@@ -398,7 +427,7 @@
   }
   .card-title .title-en {
     display: block;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 400;
     color: var(--muted);
     font-family: var(--font-main);
@@ -406,7 +435,7 @@
   }
  
   .card-summary {
-    font-size: 13px;
+    font-size: 15px;
     color: var(--muted);
     line-height: 1.65;
     margin-bottom: 14px;
@@ -426,7 +455,7 @@
     display: flex;
     align-items: center;
     gap: 6px;
-    font-size: 12px;
+    font-size: 14px;
     font-family: var(--font-mono);
     color: var(--accent2);
     background: rgba(147,197,253,0.07);
@@ -448,7 +477,7 @@
     display: flex;
     align-items: center;
     gap: 5px;
-    font-size: 12px;
+    font-size: 14px;
     color: var(--muted);
     background: none;
     border: none;
@@ -463,7 +492,7 @@
  
   .read-link {
     margin-left: auto;
-    font-size: 12px;
+    font-size: 14px;
     font-family: var(--font-mono);
     color: var(--muted);
     text-decoration: none;
@@ -489,14 +518,14 @@
     display: flex;
     align-items: center;
     gap: 7px;
-    font-size: 11px;
+    font-size: 15px;
     font-family: var(--font-mono);
     color: var(--accent2);
     margin-bottom: 10px;
   }
  
   .ai-panel-body {
-    font-size: 13px;
+    font-size: 15px;
     color: #b0bac8;
     line-height: 1.8;
     white-space: pre-line;
@@ -508,7 +537,7 @@
     margin: 12px 0;
   }
   .ai-lang-label {
-    font-size: 10px;
+    font-size: 14px;
     font-family: var(--font-mono);
     color: rgba(147,197,253,0.5);
     letter-spacing: 0.5px;
@@ -519,7 +548,7 @@
     display: flex;
     align-items: center;
     gap: 8px;
-    font-size: 13px;
+    font-size: 15px;
     color: var(--muted);
     font-family: var(--font-mono);
   }
@@ -542,7 +571,7 @@
   .key-point {
     display: flex;
     gap: 8px;
-    font-size: 12px;
+    font-size: 14px;
     color: #9ca8b8;
     margin-bottom: 5px;
   }
@@ -565,7 +594,7 @@
   }
  
   .sidebar-title {
-    font-size: 12px;
+    font-size: 14px;
     font-family: var(--font-mono);
     color: var(--muted);
     text-transform: uppercase;
@@ -606,7 +635,7 @@
   }
  
   .stat-label {
-    font-size: 11px;
+    font-size: 15px;
     color: var(--muted);
   }
  
@@ -625,14 +654,14 @@
  
   .trend-rank {
     font-family: var(--font-mono);
-    font-size: 12px;
+    font-size: 14px;
     color: var(--muted);
     min-width: 20px;
     margin-top: 2px;
   }
  
   .trend-keyword {
-    font-size: 13px;
+    font-size: 15px;
     color: var(--text);
     transition: color 0.15s;
     line-height: 1.4;
@@ -641,7 +670,7 @@
   .trend-count {
     margin-left: auto;
     font-family: var(--font-mono);
-    font-size: 11px;
+    font-size: 15px;
     color: var(--muted);
     white-space: nowrap;
   }
@@ -652,7 +681,7 @@
     gap: 10px;
     padding: 8px 0;
     border-bottom: 0.5px solid var(--border);
-    font-size: 13px;
+    font-size: 15px;
   }
   .source-item:last-child { border-bottom: none; }
  
@@ -666,7 +695,7 @@
   .source-count {
     margin-left: auto;
     font-family: var(--font-mono);
-    font-size: 11px;
+    font-size: 15px;
     color: var(--muted);
   }
  
@@ -689,7 +718,7 @@
     top: 16px;
     right: 16px;
     font-family: var(--font-mono);
-    font-size: 10px;
+    font-size: 14px;
     color: var(--accent);
     letter-spacing: 1px;
     background: rgba(110,231,183,0.1);
@@ -712,7 +741,7 @@
   }
  
   .featured-summary {
-    font-size: 13px;
+    font-size: 15px;
     color: #8a9aaa;
     line-height: 1.65;
     margin-bottom: 14px;
@@ -737,7 +766,7 @@
     background: var(--surface2);
     border: 0.5px solid var(--border2);
     color: var(--text);
-    font-size: 13px;
+    font-size: 15px;
     font-family: var(--font-mono);
     padding: 10px 20px;
     border-radius: 20px;
@@ -890,7 +919,7 @@ const NEWS_DATA = [
     id: 1,
     featured: true,
     tag: 'ai',
-    tagLabel: `AI 연구 / AI Research`,
+    thumbnail: `<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">   <rect width="320" height="180" fill="#1a1a2e"/>   <!-- Panel divider line -->   <line x1="160" y1="0" x2="160" y2="180" stroke="#333" stroke-width="2"/>   <!-- Panel labels -->   <rect x="0" y="0" width="160" height="180" fill="#1a1a2e"/>   <rect x="160" y="0" width="160" height="180" fill="#12122a"/>    <!-- PANEL 1: Human therapist -->   <!-- Couch -->   <rect x="10" y="130" width="130" height="18" rx="6" fill="#3a2a1a"/>   <rect x="10" y="118" width="20" height="30" rx="4" fill="#3a2a1a"/>   <rect x="120" y="118" width="20" height="30" rx="4" fill="#3a2a1a"/>   <!-- Patient lying down -->   <ellipse cx="75" cy="122" rx="35" ry="8" fill="#2a1a0a" opacity="0.5"/>   <circle cx="110" cy="115" r="10" fill="#f5c5a3"/>   <rect x="76" y="113" width="34" height="12" rx="4" fill="#4a6a9a"/>   <!-- Therapist sitting -->   <circle cx="30" cy="105" r="10" fill="#f5c5a3"/>   <rect x="22" y="115" width="16" height="20" rx="4" fill="#6a4a8a"/>   <!-- Speech bubble from therapist - BORED -->   <rect x="38" y="82" width="76" height="26" rx="8" fill="#2a2a4a"/>   <rect x="38" y="82" width="76" height="26" rx="8" fill="none" stroke="#555" stroke-width="1"/>   <polygon points="44,108 38,116 52,108" fill="#2a2a4a"/>   <text x="76" y="97" text-anchor="middle" font-size="10.5" fill="#aaa">음... 그래서요?</text>   <text x="76" y="107" text-anchor="middle" font-size="11" fill="#777">Uh-huh... go on.</text>   <!-- Zzz from therapist -->   <text x="120" y="95" font-size="11" fill="#666">z</text>   <text x="128" y="87" font-size="11" fill="#555">z</text>   <!-- Panel 1 caption -->   <rect x="5" y="155" width="150" height="20" rx="4" fill="#111"/>   <text x="80" y="168" text-anchor="middle" font-size="10" fill="#888">인간 치료사 / Human Therapist</text>    <!-- PANEL 2: AI therapist -->   <!-- Robot/screen -->   <rect x="185" y="90" width="50" height="50" rx="8" fill="#1a3a5a"/>   <rect x="185" y="90" width="50" height="50" rx="8" fill="none" stroke="#93c5fd" stroke-width="1.5"/>   <!-- Screen face -->   <circle cx="200" cy="110" r="5" fill="#93c5fd" opacity="0.9"/>   <circle cx="220" cy="110" r="5" fill="#93c5fd" opacity="0.9"/>   <path d="M198 122 Q210 130 222 122" fill="none" stroke="#93c5fd" stroke-width="2"/>   <!-- Heart particles from AI -->   <text x="242" y="105" font-size="12" fill="#f9a8d4">♥</text>   <text x="254" y="95" font-size="11" fill="#f9a8d4" opacity="0.7">♥</text>   <text x="264" y="108" font-size="11" fill="#f9a8d4" opacity="0.5">♥</text>   <!-- Patient (moved, amazed) -->   <circle cx="260" cy="135" r="10" fill="#f5c5a3"/>   <rect x="252" y="145" width="16" height="15" rx="4" fill="#4a6a9a"/>   <!-- Patient speech bubble -->   <rect x="168" y="60" width="84" height="26" rx="8" fill="#1a3a1a"/>   <rect x="168" y="60" width="84" height="26" rx="8" fill="none" stroke="#6ee7b7" stroke-width="1"/>   <polygon points="248,86 256,94 240,86" fill="#1a3a1a"/>   <text x="210" y="75" text-anchor="middle" font-size="10.5" fill="#6ee7b7">드디어 공감받았어!</text>   <text x="210" y="85" text-anchor="middle" font-size="11" fill="#4a9a6a">Finally understood! 😭</text>   <!-- Stars around patient -->   <text x="168" y="130" font-size="10" fill="#fbbf24">★</text>   <text x="300" y="125" font-size="10" fill="#fbbf24">★</text>   <!-- Score badge -->   <rect x="168" y="155" width="70" height="20" rx="4" fill="#0a2a1a"/>   <text x="203" y="168" text-anchor="middle" font-size="10" fill="#6ee7b7">공감점수 +12% ↑</text>   <!-- Panel 2 caption -->   <rect x="245" y="155" width="70" height="20" rx="4" fill="#111"/>   <text x="280" y="168" text-anchor="middle" font-size="10" fill="#93c5fd">AI 챗봇 / AI Bot</text> </svg>`,    tagLabel: `AI 연구 / AI Research`,
     source: `Nature Human Behaviour`,
     time: `2시간 전 / 2h ago`,
     title: `ChatGPT, 심리치료사 공감 점수에서 인간 치료사 상회 — 6,000명 대상 무작위 대조 시험\nChatGPT Surpasses Human Therapists in Empathy — RCT with 6,000 Participants`,
@@ -902,7 +931,7 @@ const NEWS_DATA = [
   {
     id: 2,
     tag: 'psych',
-    tagLabel: `심리학 / Psychology`,
+    thumbnail: `<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">   <rect width="320" height="180" fill="#0a0a1a"/>   <line x1="160" y1="0" x2="160" y2="180" stroke="#222" stroke-width="2"/>    <!-- PANEL 1: Before - nightmare -->   <rect x="0" y="0" width="160" height="180" fill="#1a0a0a"/>   <!-- Bed -->   <rect x="10" y="125" width="140" height="20" rx="5" fill="#3a1a1a"/>   <rect x="10" y="110" width="30" height="35" rx="4" fill="#3a1a1a"/>   <!-- Person in bed, scared -->   <circle cx="80" cy="108" r="13" fill="#f5c5a3"/>   <rect x="30" y="120" width="110" height="10" rx="5" fill="#2a0a0a"/>   <!-- Sweat drops -->   <text x="50" y="92" font-size="10" fill="#93c5fd" opacity="0.7">💧</text>   <text x="96" y="88" font-size="10" fill="#93c5fd" opacity="0.6">💧</text>   <!-- Scary nightmare cloud above -->   <ellipse cx="80" cy="60" rx="45" ry="28" fill="#2a0a0a"/>   <ellipse cx="80" cy="60" rx="45" ry="28" fill="none" stroke="#ff4444" stroke-width="1" stroke-dasharray="4 2" opacity="0.6"/>   <text x="80" y="55" text-anchor="middle" font-size="16">👹</text>   <text x="80" y="70" text-anchor="middle" font-size="11" fill="#ff6666">PTSD 악몽</text>   <!-- Exclamation -->   <text x="100" y="102" font-size="14" fill="#ff4444">!</text>   <!-- Caption -->   <rect x="5" y="155" width="150" height="20" rx="4" fill="#1a0808"/>   <text x="80" y="168" text-anchor="middle" font-size="10" fill="#ff6666">치료 전 / Before TMR</text>    <!-- PANEL 2: After TMR - peaceful sleep -->   <rect x="160" y="0" width="160" height="180" fill="#0a0a1a"/>   <!-- Bed -->   <rect x="170" y="125" width="140" height="20" rx="5" fill="#1a1a3a"/>   <rect x="170" y="110" width="30" height="35" rx="4" fill="#1a1a3a"/>   <!-- Person sleeping peacefully -->   <circle cx="240" cy="108" r="13" fill="#f5c5a3"/>   <rect x="190" y="120" width="110" height="10" rx="5" fill="#0a0a2a"/>   <!-- Smile on face -->   <path d="M234 112 Q240 118 246 112" fill="none" stroke="#c4b5fd" stroke-width="1.5"/>   <!-- ZZZ peaceful -->   <text x="256" y="98" font-size="10" fill="#c4b5fd" opacity="0.8">z</text>   <text x="266" y="88" font-size="10" fill="#c4b5fd" opacity="0.6">z</text>   <text x="274" y="80" font-size="6" fill="#c4b5fd" opacity="0.4">z</text>   <!-- Sound waves (TMR) gently from speaker -->   <rect x="168" y="55" width="20" height="28" rx="4" fill="#1a1a3a" stroke="#c4b5fd" stroke-width="0.8" opacity="0.6"/>   <text x="178" y="73" text-anchor="middle" font-size="10">🔊</text>   <!-- Gentle waves -->   <path d="M192 65 Q200 60 208 65 Q216 70 224 65" fill="none" stroke="#c4b5fd" stroke-width="1" opacity="0.5"/>   <path d="M192 72 Q200 67 208 72 Q216 77 224 72" fill="none" stroke="#c4b5fd" stroke-width="0.8" opacity="0.3"/>   <!-- Tiny scary monster, now tiny -->   <ellipse cx="300" cy="70" rx="14" ry="10" fill="#2a0a0a" opacity="0.5"/>   <text x="300" y="74" text-anchor="middle" font-size="11">👹</text>   <text x="300" y="84" text-anchor="middle" font-size="11" fill="#888">작아짐...</text>   <!-- Arrow showing shrink -->   <text x="268" y="74" font-size="10" fill="#6ee7b7">→</text>   <!-- 47% badge -->   <rect x="170" y="94" width="54" height="18" rx="5" fill="#0a2a1a"/>   <text x="197" y="106" text-anchor="middle" font-size="11" fill="#6ee7b7">-47% 😊</text>   <!-- Caption -->   <rect x="165" y="155" width="150" height="20" rx="4" fill="#0a0a1a"/>   <text x="240" y="168" text-anchor="middle" font-size="10" fill="#6ee7b7">4주 후 / After 4 Weeks</text> </svg>`,    tagLabel: `심리학 / Psychology`,
     source: `Psychological Science`,
     time: `4시간 전 / 4h ago`,
     title: `수면 중 공포 기억 재활성화로 PTSD 증상 47% 감소 — 새로운 비약물 치료법 가능성\nReactivating Fear Memories During Sleep Reduces PTSD Symptoms by 47%`,
@@ -914,7 +943,7 @@ const NEWS_DATA = [
   {
     id: 3,
     tag: 'neuro',
-    tagLabel: `신경과학 / Neuroscience`,
+    thumbnail: `<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">   <rect width="320" height="180" fill="#0a0a18"/>   <line x1="160" y1="0" x2="160" y2="180" stroke="#222" stroke-width="2"/>    <!-- PANEL 1: Brain sends alert -->   <rect x="0" y="0" width="160" height="180" fill="#0d0d1a"/>   <!-- Person with device on head -->   <circle cx="70" cy="80" r="32" fill="#1a1a30" stroke="#c4b5fd" stroke-width="1" opacity="0.7"/>   <!-- Brain squiggle inside -->   <path d="M52 78 Q60 68 70 76 Q80 68 88 78" fill="none" stroke="#c4b5fd" stroke-width="1.5" opacity="0.6"/>   <path d="M48 85 Q55 78 62 84" fill="none" stroke="#c4b5fd" stroke-width="1" opacity="0.4"/>   <!-- Face below brain (person) -->   <circle cx="70" cy="118" r="14" fill="#f5c5a3"/>   <!-- Small device on top of head -->   <rect x="62" y="50" width="16" height="10" rx="3" fill="#f9a8d4" stroke="#f9a8d4" stroke-width="0.5" opacity="0.8"/>   <!-- Signal from device -->   <path d="M78 55 Q95 40 118 48" stroke="#f9a8d4" stroke-width="1.5" stroke-dasharray="3 2" opacity="0.7"/>   <!-- Alert bubble -->   <rect x="100" y="30" width="52" height="36" rx="8" fill="#2a0a1a"/>   <rect x="100" y="30" width="52" height="36" rx="8" fill="none" stroke="#f9a8d4" stroke-width="1"/>   <text x="126" y="46" text-anchor="middle" font-size="11">⚠️</text>   <text x="126" y="58" text-anchor="middle" font-size="11.5" fill="#f9a8d4">24h 전!</text>   <!-- Person looks OK -->   <path d="M64 122 Q70 128 76 122" fill="none" stroke="#888" stroke-width="1.5"/>   <text x="70" y="148" text-anchor="middle" font-size="10" fill="#888">지금은 괜찮아</text>   <!-- Caption -->   <rect x="5" y="158" width="150" height="18" rx="4" fill="#0d0d1a"/>   <text x="80" y="170" text-anchor="middle" font-size="10" fill="#c4b5fd">뇌가 먼저 알아챔 / Brain detects</text>    <!-- PANEL 2: Prevention via DBS -->   <rect x="160" y="0" width="160" height="180" fill="#0a120a"/>   <!-- Same person, device activating -->   <circle cx="240" cy="80" r="32" fill="#1a2a1a" stroke="#6ee7b7" stroke-width="1" opacity="0.7"/>   <path d="M222 78 Q230 68 240 76 Q250 68 258 78" fill="none" stroke="#6ee7b7" stroke-width="1.5" opacity="0.6"/>   <circle cx="240" cy="118" r="14" fill="#f5c5a3"/>   <!-- Device flashing green -->   <rect x="232" y="50" width="16" height="10" rx="3" fill="#6ee7b7"/>   <circle cx="240" cy="55" r="6" fill="none" stroke="#6ee7b7" stroke-width="1" opacity="0.4"/>   <circle cx="240" cy="55" r="10" fill="none" stroke="#6ee7b7" stroke-width="0.6" opacity="0.2"/>   <!-- Zap into brain -->   <text x="236" y="74" font-size="12" fill="#fbbf24">⚡</text>   <!-- Happy face -->   <path d="M234 122 Q240 130 246 122" fill="none" stroke="#6ee7b7" stroke-width="2"/>   <circle cx="235" cy="114" r="2" fill="#6ee7b7" opacity="0.8"/>   <circle cx="245" cy="114" r="2" fill="#6ee7b7" opacity="0.8"/>   <!-- Speech bubble -->   <rect x="168" y="28" width="82" height="30" rx="8" fill="#0a2a0a"/>   <rect x="168" y="28" width="82" height="30" rx="8" fill="none" stroke="#6ee7b7" stroke-width="1"/>   <polygon points="222,58 230,66 214,58" fill="#0a2a0a"/>   <text x="209" y="42" text-anchor="middle" font-size="10" fill="#6ee7b7">오늘도 괜찮다!</text>   <text x="209" y="52" text-anchor="middle" font-size="11" fill="#4a8a4a">Prevented! 😄</text>   <!-- Stars -->   <text x="168" y="118" font-size="10" fill="#fbbf24">✦</text>   <text x="300" y="110" font-size="10" fill="#fbbf24">✦</text>   <!-- Caption -->   <rect x="165" y="158" width="150" height="18" rx="4" fill="#0a120a"/>   <text x="240" y="170" text-anchor="middle" font-size="10" fill="#6ee7b7">DBS로 예방 / Prevented!</text> </svg>`,    tagLabel: `신경과학 / Neuroscience`,
     source: `Science`,
     time: `6시간 전 / 6h ago`,
     title: `뇌-컴퓨터 인터페이스(BCI)로 감정 상태 실시간 해석 — 우울증 조기 경보 시스템 개발\nBCI Decodes Emotional States in Real Time — Early Warning System for Depression`,
@@ -926,7 +955,7 @@ const NEWS_DATA = [
   {
     id: 4,
     tag: 'behav',
-    tagLabel: `행동과학 / Behavioral Science`,
+    thumbnail: `<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">   <rect width="320" height="180" fill="#0f0d08"/>   <line x1="160" y1="0" x2="160" y2="180" stroke="#222" stroke-width="2"/>    <!-- PANEL 1: Pavlov's dog classic -->   <rect x="0" y="0" width="160" height="180" fill="#1a1408"/>   <!-- Bell (old school) -->   <ellipse cx="30" cy="40" rx="16" ry="20" fill="#fbbf24" opacity="0.4"/>   <rect x="22" y="58" width="16" height="6" rx="2" fill="#fbbf24" opacity="0.5"/>   <ellipse cx="30" cy="63" rx="4" ry="4" fill="#fbbf24" opacity="0.6"/>   <text x="30" y="20" text-anchor="middle" font-size="10" fill="#fbbf24" opacity="0.7">🔔</text>   <!-- Sound waves from bell -->   <path d="M46 42 Q55 35 64 42" fill="none" stroke="#fbbf24" stroke-width="1" opacity="0.4" stroke-dasharray="3 2"/>   <!-- Classic dog -->   <ellipse cx="110" cy="130" rx="30" ry="16" fill="#8B6914" opacity="0.7"/>   <circle cx="90" cy="118" r="14" fill="#8B6914" opacity="0.8"/>   <!-- Dog eyes -->   <circle cx="86" cy="114" r="2.5" fill="#111"/>   <circle cx="94" cy="114" r="2.5" fill="#111"/>   <!-- Dog tongue (drooling) -->   <path d="M86 122 Q90 130 94 122" fill="#f9a8d4" stroke="#f9a8d4" stroke-width="0.5"/>   <path d="M88 122 Q90 134 92 126" fill="#f9a8d4"/>   <!-- Dog ears -->   <ellipse cx="84" cy="108" rx="7" ry="10" fill="#6B4914" opacity="0.8"/>   <ellipse cx="96" cy="108" rx="7" ry="10" fill="#6B4914" opacity="0.8"/>   <!-- Drool drops -->   <text x="80" y="145" font-size="10" fill="#93c5fd" opacity="0.7">💧💧💧</text>   <!-- Label: 파블로프 1901 -->   <rect x="5" y="25" width="68" height="16" rx="4" fill="#1a1000"/>   <text x="39" y="36" text-anchor="middle" font-size="10" fill="#fbbf24">파블로프 1901</text>   <!-- Caption -->   <rect x="5" y="158" width="150" height="18" rx="4" fill="#1a1000"/>   <text x="80" y="170" text-anchor="middle" font-size="10" fill="#fbbf24">고전 조건화 / Classic</text>    <!-- PANEL 2: Modern human = same dog -->   <rect x="160" y="0" width="160" height="180" fill="#0f0d08"/>   <!-- Phone -->   <rect x="200" y="30" width="36" height="60" rx="7" fill="#1a1810"/>   <rect x="200" y="30" width="36" height="60" rx="7" fill="none" stroke="#fbbf24" stroke-width="1" opacity="0.7"/>   <rect x="204" y="36" width="28" height="44" rx="3" fill="#0d0f12"/>   <!-- Notification on phone -->   <rect x="207" y="42" width="22" height="8" rx="2" fill="#fbbf24" opacity="0.5"/>   <text x="218" y="48" text-anchor="middle" font-size="6" fill="#fbbf24">💬 1</text>   <!-- Ding! -->   <text x="243" y="55" font-size="11" fill="#fbbf24">🔔</text>   <path d="M252 50 Q258 44 264 50" fill="none" stroke="#fbbf24" stroke-width="1" opacity="0.5" stroke-dasharray="2 2"/>   <!-- Modern human - same drooling reaction -->   <circle cx="275" cy="110" r="15" fill="#f5c5a3"/>   <!-- Same dog-like eyes -->   <circle cx="270" cy="106" r="2.5" fill="#111"/>   <circle cx="280" cy="106" r="2.5" fill="#111"/>   <!-- Drooling tongue -->   <path d="M269 116 Q275 124 281 116" fill="#f9a8d4" stroke="#f9a8d4" stroke-width="0.5"/>   <path d="M272 116 Q275 126 278 120" fill="#f9a8d4"/>   <!-- Drool -->   <text x="262" y="136" font-size="10" fill="#93c5fd" opacity="0.7">💧💧💧</text>   <!-- Label: 현대인 2025 -->   <rect x="165" y="25" width="68" height="16" rx="4" fill="#1a1000"/>   <text x="199" y="36" text-anchor="middle" font-size="10" fill="#fbbf24">현대인 2025</text>   <!-- Speed badge -->   <rect x="165" y="150" width="60" height="22" rx="5" fill="#1a1000"/>   <text x="195" y="162" text-anchor="middle" font-size="11" fill="#fbbf24">3× 빠름!</text>   <text x="195" y="170" text-anchor="middle" font-size="11" fill="#888">3x faster</text>   <!-- = sign between panels at middle -->   <text x="168" y="118" text-anchor="middle" font-size="18" fill="#fbbf24" opacity="0.8">=</text> </svg>`,    tagLabel: `행동과학 / Behavioral Science`,
     source: `PNAS`,
     time: `8시간 전 / 8h ago`,
     title: `소셜미디어 알림음 조건화 효과, 파블로프 조건화보다 빠른 습관 형성 속도 확인\nSmartphone Notification Sounds Condition Behavior 3x Faster Than Pavlovian Conditioning`,
@@ -938,7 +967,7 @@ const NEWS_DATA = [
   {
     id: 5,
     tag: 'ai',
-    tagLabel: `AI 연구 / AI Research`,
+    thumbnail: `<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">   <rect width="320" height="180" fill="#0d0f12"/>   <line x1="160" y1="0" x2="160" y2="180" stroke="#222" stroke-width="2"/>    <!-- PANEL 1: Researcher tests GPT-4 personality -->   <rect x="0" y="0" width="160" height="180" fill="#0d0f18"/>   <!-- Researcher character -->   <circle cx="35" cy="75" r="13" fill="#f5c5a3"/>   <rect x="27" y="88" width="16" height="22" rx="4" fill="#4a6a8a"/>   <!-- Clipboard/questionnaire -->   <rect x="50" y="62" width="50" height="60" rx="4" fill="#eee" opacity="0.9"/>   <rect x="54" y="68" width="40" height="4" rx="1" fill="#333" opacity="0.5"/>   <rect x="54" y="76" width="34" height="3" rx="1" fill="#333" opacity="0.4"/>   <rect x="54" y="83" width="38" height="3" rx="1" fill="#333" opacity="0.4"/>   <rect x="54" y="90" width="28" height="3" rx="1" fill="#333" opacity="0.4"/>   <text x="75" y="112" text-anchor="middle" font-size="11" fill="#555">Big Five</text>   <!-- Pen -->   <rect x="100" y="60" width="4" height="26" rx="2" fill="#f9a8d4" transform="rotate(-20, 102, 73)"/>   <!-- Speech bubble: "성격 테스트 해봐!" -->   <rect x="4" y="32" width="98" height="30" rx="8" fill="#1a1a3a"/>   <rect x="4" y="32" width="98" height="30" rx="8" fill="none" stroke="#93c5fd" stroke-width="1"/>   <polygon points="28,62 22,70 36,62" fill="#1a1a3a"/>   <text x="53" y="46" text-anchor="middle" font-size="10" fill="#93c5fd">성격 테스트 해봐!</text>   <text x="53" y="57" text-anchor="middle" font-size="11" fill="#6a8aaa">Take personality test!</text>   <!-- GPT box -->   <rect x="105" y="90" width="50" height="42" rx="8" fill="#1a2a1a"/>   <rect x="105" y="90" width="50" height="42" rx="8" fill="none" stroke="#6ee7b7" stroke-width="1"/>   <text x="130" y="108" text-anchor="middle" font-size="10" fill="#6ee7b7">GPT-4</text>   <text x="130" y="120" text-anchor="middle" font-size="10">🤖</text>   <text x="130" y="128" text-anchor="middle" font-size="11" fill="#4a8a6a">성실성 ↑↑</text>   <!-- Caption -->   <rect x="5" y="158" width="150" height="18" rx="4" fill="#0d0f18"/>   <text x="80" y="170" text-anchor="middle" font-size="10" fill="#93c5fd">1회차 / Test #1</text>    <!-- PANEL 2: 100th time, same result -->   <rect x="160" y="0" width="160" height="180" fill="#0d0f18"/>   <!-- Exhausted researcher (100 tests later) -->   <circle cx="195" cy="75" r="13" fill="#f5c5a3"/>   <rect x="187" y="88" width="16" height="22" rx="4" fill="#4a6a8a"/>   <!-- Tired eyes, sweat -->   <text x="188" y="71" font-size="6" fill="#333">—  —</text>   <text x="202" y="72" font-size="10" fill="#93c5fd" opacity="0.7">💧</text>   <!-- Stack of papers (100 tests) -->   <rect x="215" y="85" width="52" height="6" rx="1" fill="#ddd" opacity="0.6"/>   <rect x="215" y="80" width="52" height="6" rx="1" fill="#eee" opacity="0.7"/>   <rect x="215" y="75" width="52" height="6" rx="1" fill="#fff" opacity="0.8"/>   <text x="241" y="73" text-anchor="middle" font-size="11" fill="#555">× 100!</text>   <!-- GPT-4 box - same face -->   <rect x="262" y="100" width="50" height="42" rx="8" fill="#1a2a1a"/>   <rect x="262" y="100" width="50" height="42" rx="8" fill="none" stroke="#6ee7b7" stroke-width="1"/>   <text x="287" y="118" text-anchor="middle" font-size="10" fill="#6ee7b7">GPT-4</text>   <text x="287" y="130" text-anchor="middle" font-size="10">🤖</text>   <text x="287" y="138" text-anchor="middle" font-size="11" fill="#4a8a6a">성실성 ↑↑</text>   <!-- Same result badge -->   <rect x="165" y="52" width="84" height="26" rx="8" fill="#0a2a0a"/>   <rect x="165" y="52" width="84" height="26" rx="8" fill="none" stroke="#6ee7b7" stroke-width="1"/>   <text x="207" y="66" text-anchor="middle" font-size="10" fill="#6ee7b7">또 똑같아...!</text>   <text x="207" y="76" text-anchor="middle" font-size="11" fill="#4a8a6a">r = 0.91 🤯</text>   <!-- Caption -->   <rect x="165" y="158" width="150" height="18" rx="4" fill="#0d0f18"/>   <text x="240" y="170" text-anchor="middle" font-size="10" fill="#6ee7b7">100회차도 같음 / Same!</text> </svg>`,    tagLabel: `AI 연구 / AI Research`,
     source: `arXiv (심리학 / Psychology)`,
     time: `10시간 전 / 10h ago`,
     title: `LLM의 인격 일관성 — GPT-4는 Big Five 성격 검사에서 안정적 프로파일 유지\nLLM Personality Consistency — GPT-4 Maintains Stable Big Five Profile`,
@@ -950,7 +979,7 @@ const NEWS_DATA = [
   {
     id: 6,
     tag: 'psych',
-    tagLabel: `심리학 / Psychology`,
+    thumbnail: `<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">   <rect width="320" height="180" fill="#080f08"/>   <line x1="160" y1="0" x2="160" y2="180" stroke="#222" stroke-width="2"/>    <!-- PANEL 1: Before meditation - amygdala RAGING -->   <rect x="0" y="0" width="160" height="180" fill="#1a0808"/>   <!-- Person stressed -->   <circle cx="50" cy="105" r="14" fill="#f5c5a3"/>   <!-- Stressed face -->   <path d="M44 112 Q50 108 56 112" fill="none" stroke="#333" stroke-width="1.5"/>   <circle cx="45" cy="100" r="2" fill="#333"/>   <circle cx="55" cy="100" r="2" fill="#333"/>   <!-- Sweat -->   <text x="38" y="96" font-size="10" fill="#93c5fd">💧</text>   <text x="58" y="92" font-size="11" fill="#93c5fd">💧</text>   <!-- Amygdala on fire -->   <ellipse cx="110" cy="90" rx="32" ry="24" fill="#2a0808"/>   <ellipse cx="110" cy="90" rx="32" ry="24" fill="none" stroke="#ff4444" stroke-width="1.5"/>   <text x="110" y="85" text-anchor="middle" font-size="11">🔥</text>   <text x="110" y="100" text-anchor="middle" font-size="10" fill="#ff6666">편도체</text>   <text x="110" y="110" text-anchor="middle" font-size="11" fill="#cc4444">AMYGDALA</text>   <!-- Fire sparks -->   <text x="138" y="72" font-size="10" fill="#ff6644">🔥</text>   <text x="80" y="68" font-size="10" fill="#ff4444">🔥</text>   <!-- Thought bubble: anxious thoughts -->   <ellipse cx="80" cy="55" rx="28" ry="20" fill="#2a0808" opacity="0.8"/>   <ellipse cx="80" cy="55" rx="28" ry="20" fill="none" stroke="#ff4444" stroke-width="0.8" opacity="0.6"/>   <text x="80" y="50" text-anchor="middle" font-size="10">😱😱😱</text>   <text x="80" y="62" text-anchor="middle" font-size="11" fill="#ff6666">불안!</text>   <!-- Caption -->   <rect x="5" y="158" width="150" height="18" rx="4" fill="#1a0808"/>   <text x="80" y="170" text-anchor="middle" font-size="10" fill="#ff6666">명상 전 / Before MBSR</text>    <!-- PANEL 2: After 8 weeks - amygdala zen -->   <rect x="160" y="0" width="160" height="180" fill="#081208"/>   <!-- Person meditating peacefully -->   <circle cx="215" cy="110" r="14" fill="#f5c5a3"/>   <!-- Zen face -->   <path d="M209 116 Q215 122 221 116" fill="none" stroke="#6ee7b7" stroke-width="1.5"/>   <text x="210" y="107" font-size="5" fill="#444">~ ~</text>   <!-- Meditation pose -->   <text x="215" y="138" text-anchor="middle" font-size="18" opacity="0.7">🧘</text>   <!-- Lotus/aura circles -->   <circle cx="215" cy="118" r="22" fill="none" stroke="#6ee7b7" stroke-width="0.5" opacity="0.3" stroke-dasharray="4 3"/>   <circle cx="215" cy="118" r="30" fill="none" stroke="#6ee7b7" stroke-width="0.3" opacity="0.2" stroke-dasharray="4 3"/>   <!-- Amygdala calm & small -->   <ellipse cx="278" cy="90" rx="22" ry="16" fill="#0a2a0a"/>   <ellipse cx="278" cy="90" rx="22" ry="16" fill="none" stroke="#6ee7b7" stroke-width="1.2"/>   <text x="278" y="88" text-anchor="middle" font-size="14">😌</text>   <text x="278" y="102" text-anchor="middle" font-size="11" fill="#6ee7b7">-20%</text>   <!-- Calm thought bubble -->   <ellipse cx="248" cy="52" rx="28" ry="18" fill="#0a2a0a" opacity="0.8"/>   <ellipse cx="248" cy="52" rx="28" ry="18" fill="none" stroke="#6ee7b7" stroke-width="0.8" opacity="0.5"/>   <text x="248" y="48" text-anchor="middle" font-size="11">🌸✨</text>   <text x="248" y="60" text-anchor="middle" font-size="11" fill="#6ee7b7">평온~</text>   <!-- 8 weeks badge -->   <rect x="163" y="25" width="60" height="22" rx="5" fill="#0a2a0a"/>   <text x="193" y="38" text-anchor="middle" font-size="10" fill="#6ee7b7">8주 후!</text>   <text x="193" y="45" text-anchor="middle" font-size="11" fill="#4a8a4a">8 weeks</text>   <!-- Caption -->   <rect x="165" y="158" width="150" height="18" rx="4" fill="#081208"/>   <text x="240" y="170" text-anchor="middle" font-size="10" fill="#6ee7b7">명상 후 / After MBSR ✨</text> </svg>`,    tagLabel: `심리학 / Psychology`,
     source: `Journal of Personality`,
     time: `12시간 전 / 12h ago`,
     title: `마음챙김 명상 8주 프로그램, 편도체 반응성 20% 감소 — fMRI 메타분석\n8-Week Mindfulness Program Reduces Amygdala Reactivity by 20% — fMRI Meta-Analysis`,
@@ -994,6 +1023,7 @@ function renderCard(item) {
   if (item.featured) {
     return `
     <div class="featured-card" id="card-${item.id}">
+      ${item.thumbnail ? `<div class="featured-thumbnail">${item.thumbnail}</div>` : ''}
       <div class="card-meta">
         <span class="tag ${tagClass}">${item.tagLabel}</span>
         <span class="card-source">${item.source}</span>
@@ -1017,6 +1047,7 @@ function renderCard(item) {
  
   return `
   <div class="news-card" id="card-${item.id}">
+    ${item.thumbnail ? `<div class="card-thumbnail">${item.thumbnail}</div>` : ''}
     <div class="card-meta">
       <span class="tag ${tagClass}">${item.tagLabel}</span>
       <span class="card-source">${item.source}</span>
