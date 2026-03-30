@@ -49,6 +49,8 @@
     font-size: 15px;
     line-height: 1.7;
     min-height: 100vh;
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
   }
  
   /* ===== HEADER ===== */
@@ -60,9 +62,11 @@
     backdrop-filter: blur(16px);
     border-bottom: 0.5px solid var(--border2);
     padding: 0 24px;
-    height: 60px;
+    padding-top: env(safe-area-inset-top);
+    height: calc(60px + env(safe-area-inset-top));
     display: flex;
-    align-items: center;
+    align-items: flex-end;
+    padding-bottom: 10px;
     gap: 20px;
   }
  
@@ -205,7 +209,7 @@
     .container { grid-template-columns: 1fr; padding: 16px 14px 90px; }
     .sidebar { display: none; }
     .container > main { min-width: 0; }
-    header { padding: 0 16px; height: 54px; }
+    header { padding: 0 16px; padding-top: env(safe-area-inset-top); height: calc(54px + env(safe-area-inset-top)); }
     .logo-sub { display: none; }
     .live-badge { display: none; }
     .refresh-btn { padding: 6px 10px; font-size: 12px; }
