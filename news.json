@@ -1,7 +1,167 @@
 {
-  "updated": "2026-03-30T18:07:47.144005+00:00",
+  "updated": "2026-03-30T21:27:47.083612+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2730636d57e4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Researchers break down the digital habits of science influencers",
+      "summary": "A new study reveals how science communicators achieve viral success online. Researchers found that adapting to platform-specific behaviors—from quick facts on TikTok to deep irony on YouTube—determines whether educational videos attract a wide audience.",
+      "aiSummary": "A new study reveals how science communicators achieve viral success online. Researchers found that adapting to platform-specific behaviors—from quick facts on TikTok to deep irony on YouTube—determines whether educational videos attract a wide audience.",
+      "keyPoints": [
+        "Researchers found that adapting to platform-specific behaviors—from quick facts ",
+        "A new study reveals how science communicators achieve viral success online"
+      ],
+      "url": "https://www.psypost.org/how-science-goes-viral-the-hidden-rules-of-tiktok-instagram-and-youtube/",
+      "featured": true
+    },
+    {
+      "id": "a79bf22ebaaa",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
+      "summary": "arXiv:2603.26076v1 Announce Type: new Abstract: Documentation of airport operations is inherently complex due to extensive technical terminology, rigorous regulations, proprietary regional information, and fragmented communication across multiple stakeholders. The resulting data silos and semantic i",
+      "aiSummary": "The resulting data silos and semantic inconsistencies present a significant impediment to the Total Airport Management (TAM) initiative. This paper presents a methodological framework for constructing a domain-grounded, machine-readable Knowledge Graph (KG) through a dual-stage fusion of symbolic Knowledge Engineering (KE) and generative Large Language Models (LLMs). To ensure the high-fidelity provenance required in airport operations, the proposed framework fuses a probabilistic model for discovery and a deterministic algorithm for anchoring every extraction to its ground source.",
+      "keyPoints": [
+        "26076v1 Announce Type: new Abstract: Documentation of airport operations is inhe",
+        "The resulting data silos and semantic inconsistencies present a significant impe",
+        "This paper presents a methodological framework for constructing a domain-grounde",
+        "The framework employs a scaffolded fusion strategy in which expert-curated KE st"
+      ],
+      "url": "https://arxiv.org/abs/2603.26076",
+      "featured": false
+    },
+    {
+      "id": "ec741406dba9",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+      "summary": "arXiv:2603.26266v1 Announce Type: new Abstract: Large vision-language models have endowed GUI agents with strong general capabilities for interface understanding and interaction. However, due to insufficient exposure to domain-specific software operation data during training, these agents exhibit si",
+      "aiSummary": "arXiv:2603.26266v1 Announce Type: new Abstract: Large vision-language models have endowed GUI agents with strong general capabilities for interface understanding and interaction. However, due to insufficient exposure to domain-specific software operation data during training, these agents exhibit significant domain bias - they lack familiarity with the specific operation workflows (planning) and UI element layouts (grounding) of particular applications, limiting their real-world task performance. It consistently yields over 5% improvements and reduces execution steps - without modifying any model parameters or architecture - validating GUIDE as an architecture-agnostic enhancement to bridge GUI agent domain bias.",
+      "keyPoints": [
+        "It consistently yields over 5% improvements and reduces execution steps - withou",
+        "experiments on OSWorld demonstrate GUIDE's generality as a plug-and-play compone",
+        "26266v1 Announce Type: new Abstract: Large vision-language models have endowed G",
+        "However, due to insufficient exposure to domain-specific software operation data"
+      ],
+      "url": "https://arxiv.org/abs/2603.26266",
+      "featured": false
+    },
+    {
+      "id": "7fe39e7acb27",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "Empowering Epidemic Response: The Role of Reinforcement Learning in Infectious Disease Control",
+      "summary": "arXiv:2603.25771v1 Announce Type: new Abstract: Reinforcement learning (RL), owing to its adaptability to various dynamic systems in many real-world scenarios and the capability of maximizing long-term outcomes under different constraints, has been used in infectious disease control to optimize the ",
+      "aiSummary": "arXiv:2603.25771v1 Announce Type: new Abstract: Reinforcement learning (RL), owing to its adaptability to various dynamic systems in many real-world scenarios and the capability of maximizing long-term outcomes under different constraints, has been used in infectious disease control to optimize the intervention strategies for controlling infectious disease spread and responding to outbreaks in recent years. Therefore, this paper aims to provide a concise review and discussion of the latest literature on how RL approaches have been used to assist in controlling the spread and outbreaks of infectious diseases, covering several critical topics addressing public health demands: resource allocation, balancing between lives and livelihoods, mixed policy of multiple interventions, and inter-regional coordinated control. Finally, we conclude the paper with a discussion of several potential directions for future research.",
+      "keyPoints": [
+        "surveys exclusively discuss this topic, that is, the development and application",
+        "25771v1 Announce Type: new Abstract: Reinforcement learning (RL), owing to its a",
+        "The potential of RL for assisting public health sectors in preventing and contro",
+        "However, few surveys exclusively discuss this topic, that is, the development an"
+      ],
+      "url": "https://arxiv.org/abs/2603.25771",
+      "featured": false
+    },
+    {
+      "id": "80409e0a44cc",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater Level Prediction at Arbitrary Locations",
+      "summary": "arXiv:2603.25779v1 Announce Type: new Abstract: Groundwater represents a key element of the water cycle, yet it exhibits intricate and context-dependent relationships that make its modeling a challenging task. Theory-based models have been the cornerstone of scientific understanding. However, their ",
+      "aiSummary": "arXiv:2603.25779v1 Announce Type: new Abstract: Groundwater represents a key element of the water cycle, yet it exhibits intricate and context-dependent relationships that make its modeling a challenging task. We proposed an attention-based pure deep learning model, named STAINet, to predict weekly groundwater levels at an arbitrary and variable number of locations, leveraging both spatially sparse groundwater measurements and spatially dense weather information. The STAINet-ILB performed the best, achieving overwhelming test performances in a rollout setting (median MAPE 0.16%, KGE 0.58).",
+      "keyPoints": [
+        "25779v1 Announce Type: new Abstract: Groundwater represents a key element of the",
+        "Theory-based models have been the cornerstone of scientific understanding",
+        "However, their computational demands, simplifying assumptions, and calibration r",
+        "In recent years, data-driven models have emerged as powerful alternatives"
+      ],
+      "url": "https://arxiv.org/abs/2603.25779",
+      "featured": false
+    },
+    {
+      "id": "9ad53d8eaed0",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "MAGNET: Autonomous Expert Model Generation via Decentralized Autoresearch and BitNet Training",
+      "summary": "arXiv:2603.25813v1 Announce Type: new Abstract: We present MAGNET (Model Autonomously Growing Network), a decentralized system for autonomous generation, training, and serving of domain-expert language models across commodity hardware. MAGNET integrates four components: (1) autoresearch, an autonomo",
+      "aiSummary": "arXiv:2603.25813v1 Announce Type: new Abstract: We present MAGNET (Model Autonomously Growing Network), a decentralized system for autonomous generation, training, and serving of domain-expert language models across commodity hardware. MAGNET integrates four components: (1) autoresearch, an autonomous ML research pipeline that automates dataset generation, hyperparameter exploration, evaluation, and error-driven iteration; (2) BitNet b1.58 ternary training, enabling CPU-native inference via bitnet.cpp without GPU hardware; (3) DiLoCo-based distributed merging for communication-efficient aggregation of domain specialists; and (4) on-chain contribution tracking on the HOOTi EVM chain. We validate autoresearch through three case studies: video safety classification (balanced accuracy 0.9287 to 0.9851), cryptocurrency directional prediction (41% to 54.9% hit rate), and BitNet hyperparameter optimization (10-phase sweep, -16.7% validation loss).",
+      "keyPoints": [
+        "9851), cryptocurrency directional prediction (41% to 54",
+        "25813v1 Announce Type: new Abstract: We present MAGNET (Model Autonomously Growi",
+        "MAGNET integrates four components: (1) autoresearch, an autonomous ML research p",
+        "58 ternary training, enabling CPU-native inference via bitnet"
+      ],
+      "url": "https://arxiv.org/abs/2603.25813",
+      "featured": false
+    },
+    {
+      "id": "bee2a93e40c4",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "A Compression Perspective on Simplicity Bias",
+      "summary": "arXiv:2603.25839v1 Announce Type: new Abstract: Deep neural networks exhibit a simplicity bias, a well-documented tendency to favor simple functions over complex ones. In this work, we cast new light on this phenomenon through the lens of the Minimum Description Length principle, formalizing supervi",
+      "aiSummary": "arXiv:2603.25839v1 Announce Type: new Abstract: Deep neural networks exhibit a simplicity bias, a well-documented tendency to favor simple functions over complex ones. Our theory explains how simplicity bias governs feature selection in neural networks through a fundamental trade-off between model complexity (the cost of describing the hypothesis) and predictive power (the cost of describing the data). Our framework predicts that as the amount of available training data increases, learners transition through qualitatively different features -- from simple spurious shortcuts to complex features -- only when the reduction in data encoding cost justifies the increased model complexity.",
+      "keyPoints": [
+        "25839v1 Announce Type: new Abstract: Deep neural networks exhibit a simplicity b",
+        "In this work, we cast new light on this phenomenon through the lens of the Minim",
+        "Our theory explains how simplicity bias governs feature selection in neural netw",
+        "Our framework predicts that as the amount of available training data increases, "
+      ],
+      "url": "https://arxiv.org/abs/2603.25839",
+      "featured": false
+    },
+    {
+      "id": "7c58853c5a29",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "17시간 전 / 17h ago",
+      "title": "Longitudinal Boundary Sharpness Coefficient Slopes Predict Time to Alzheimer's Disease Conversion in Mild Cognitive Impairment: A Survival Analysis Using the ADNI Cohort",
+      "summary": "arXiv:2603.26007v1 Announce Type: new Abstract: Predicting whether someone with mild cognitive impairment (MCI) will progress to Alzheimer's disease (AD) is crucial in the early stages of neurodegeneration. This uncertainty limits enrollment in clinical trials and delays urgent treatment. The Bounda",
+      "aiSummary": "arXiv:2603.26007v1 Announce Type: new Abstract: Predicting whether someone with mild cognitive impairment (MCI) will progress to Alzheimer's disease (AD) is crucial in the early stages of neurodegeneration. Previous studies have used CNN and RNN models that reached 96.0% accuracy for AD classification and 84.2% for MCI conversion, but those approaches disregard specific regions within the brain. The Random Survival Forest trained on BSC slopes achieved a test C-index of 0.63, a 163% improvement over baseline parametric models (test C-index: 0.24).",
+      "keyPoints": [
+        "trials and delays urgent treatment.",
+        "26007v1 Announce Type: new Abstract: Predicting whether someone with mild cognit",
+        "This uncertainty limits enrollment in clinical trials and delays urgent treatmen",
+        "The Boundary Sharpness Coefficient (BSC) measures how well-defined the gray-whit"
+      ],
+      "url": "https://arxiv.org/abs/2603.26007",
+      "featured": false
+    },
+    {
+      "id": "24b3f32ae6cd",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "17시간 전 / 17h ago",
+      "title": "On the RAID dataset of perceptual responses: analysis and statistical causes",
+      "summary": "arXiv:2603.26267v1 Announce Type: new Abstract: This work analyzes the RAID dataset to evaluate human responses to affine image distortions, including rotation, translation, scaling, and Gaussian noise. Using Mean Squared Error (MSE), the study establishes human detection thresholds for these distor",
+      "aiSummary": "arXiv:2603.26267v1 Announce Type: new Abstract: This work analyzes the RAID dataset to evaluate human responses to affine image distortions, including rotation, translation, scaling, and Gaussian noise. Statistical analysis with ANOVA and Tukey Kramer tests reveals that observers are significantly more sensitive to Gaussian noise, which consistently produced the lowest detection thresholds. Finally, the study employs the PixelCNN model to show that image probability significantly correlates with detection thresholds for most distortions, suggesting that statistical likelihood affects human visual tolerance.",
+      "keyPoints": [
+        "26267v1 Announce Type: new Abstract: This work analyzes the RAID dataset to eval",
+        "Using Mean Squared Error (MSE), the study establishes human detection thresholds",
+        "Statistical analysis with ANOVA and Tukey Kramer tests reveals that observers ar",
+        "Fourier analysis further shows that high-frequency components act as a visual ma"
+      ],
+      "url": "https://arxiv.org/abs/2603.26267",
+      "featured": false
+    },
     {
       "id": "631e51439a45",
       "tag": "psych",
@@ -16,7 +176,7 @@
         "A new longitudinal study reveals that depressed elderly individuals are nearly f"
       ],
       "url": "https://www.psypost.org/depressed-elderly-adults-are-almost-5-times-more-likely-to-develop-alzheimers/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2537dbb6516a",
@@ -189,157 +349,6 @@
         "Short bursts of vigorous activity—like rushing for a bus or climbing stairs quic"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
-      "featured": false
-    },
-    {
-      "id": "7a7de1767a2f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "What teens eat could be affecting their mental health more than we thought",
-      "summary": "What teens eat might matter more for their mental health than previously thought. A sweeping review of nearly 20 studies found that healthier diets are often linked to fewer depressive symptoms, while poor eating habits may go hand in hand with greater psychological distress. Interestingly, focusing",
-      "aiSummary": "What teens eat might matter more for their mental health than previously thought. A sweeping review of nearly 20 studies found that healthier diets are often linked to fewer depressive symptoms, while poor eating habits may go hand in hand with greater psychological distress. Interestingly, focusing on whole dietary patterns—not just individual nutrients—showed more consistent benefits, suggesting that overall eating habits could play a meaningful role during this critical stage of brain development.",
-      "keyPoints": [
-        "What teens eat might matter more for their mental health than previously thought",
-        "A sweeping review of nearly 20 studies found that healthier diets are often link",
-        "Interestingly, focusing on whole dietary patterns—not just individual nutrients—"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043602.htm",
-      "featured": false
-    },
-    {
-      "id": "a13c36087b32",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "This new therapy turns off pain without opioids or addiction",
-      "summary": "Scientists have developed a new gene therapy that quiets pain at its source in the brain—without the addictive risks of opioids. Using AI to map how pain is processed, they created a targeted “off switch” that mimics morphine’s benefits but skips its dangerous side effects. In early tests, it delive",
-      "aiSummary": "Scientists have developed a new gene therapy that quiets pain at its source in the brain—without the addictive risks of opioids. Using AI to map how pain is processed, they created a targeted “off switch” that mimics morphine’s benefits but skips its dangerous side effects. The discovery could mark a major step toward safer, non-addictive pain treatments.",
-      "keyPoints": [
-        "Scientists have developed a new gene therapy that quiets pain at its source in t",
-        "Using AI to map how pain is processed, they created a targeted “off switch” that",
-        "In early tests, it delivered lasting relief without affecting normal sensations",
-        "The discovery could mark a major step toward safer, non-addictive pain treatment"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043558.htm",
-      "featured": false
-    },
-    {
-      "id": "f7c9fcb491e7",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
-      "summary": "After a stroke, the brain may do something surprisingly hopeful—it can “refresh” parts of itself. Researchers analyzing brain scans from over 500 stroke survivors found that while the damaged side of the brain appears to age faster, the opposite, unaffected side can actually look younger. This unexp",
-      "aiSummary": "After a stroke, the brain may do something surprisingly hopeful—it can “refresh” parts of itself. Researchers analyzing brain scans from over 500 stroke survivors found that while the damaged side of the brain appears to age faster, the opposite, unaffected side can actually look younger. This unexpected shift seems to reflect the brain’s effort to rewire itself, strengthening healthy regions to compensate for lost function.",
-      "keyPoints": [
-        "After a stroke, the brain may do something surprisingly hopeful—it can “refresh”",
-        "Researchers analyzing brain scans from over 500 stroke survivors found that whil",
-        "This unexpected shift seems to reflect the brain’s effort to rewire itself, stre"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043556.htm",
-      "featured": false
-    },
-    {
-      "id": "67ac4316d74d",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "ChatGPT acts as a “cognitive crutch” that weakens memory, new research suggests",
-      "summary": "A recent experiment provides evidence that relying on artificial intelligence to study tends to reduce how much information students remember weeks later.",
-      "aiSummary": "A recent experiment provides evidence that relying on artificial intelligence to study tends to reduce how much information students remember weeks later.",
-      "keyPoints": [
-        "experiment provides evidence that relying on artificial intelligence to study te",
-        "A recent experiment provides evidence that relying on artificial intelligence to"
-      ],
-      "url": "https://www.psypost.org/chatgpt-acts-as-a-cognitive-crutch-that-weakens-memory-new-research-suggests/",
-      "featured": false
-    },
-    {
-      "id": "4dbb278620c9",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "10시간 전 / 10h ago",
-      "title": "Electronic dance music events appear to provide a mental health boost for women over 40",
-      "summary": "A new study explores why female music fans over 40 continue to attend dance clubs and festivals. Despite facing occasional social judgments, older women report that electronic dance music greatly improves their mental and physical well-being.",
-      "aiSummary": "A new study explores why female music fans over 40 continue to attend dance clubs and festivals. Despite facing occasional social judgments, older women report that electronic dance music greatly improves their mental and physical well-being.",
-      "keyPoints": [
-        "A new study explores why female music fans over 40 continue to attend dance club",
-        "Despite facing occasional social judgments, older women report that electronic d"
-      ],
-      "url": "https://www.psypost.org/electronic-dance-music-appears-to-provide-a-mental-health-boost-for-women-over-40/",
-      "featured": false
-    },
-    {
-      "id": "57b1d9a5a778",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "12시간 전 / 12h ago",
-      "title": "The psychological difference between playing video games to relax and playing to win",
-      "summary": "Video games offer adults a popular way to unwind, but new research shows that playing to win is linked to higher anxiety. The findings reveal how gaming motivations differ by gender and shape our mental health.",
-      "aiSummary": "Video games offer adults a popular way to unwind, but new research shows that playing to win is linked to higher anxiety. The findings reveal how gaming motivations differ by gender and shape our mental health.",
-      "keyPoints": [
-        "Video games offer adults a popular way to unwind, but new research shows that pl",
-        "The findings reveal how gaming motivations differ by gender and shape our mental"
-      ],
-      "url": "https://www.psypost.org/playing-video-games-to-win-is-associated-with-higher-anxiety-levels-2026-03-20/",
-      "featured": false
-    },
-    {
-      "id": "92d09c7ebd1a",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "14시간 전 / 14h ago",
-      "title": "Women who hate men: Study finds similarities in gendered hate speech on Reddit",
-      "summary": "A new analysis of extremist Reddit communities reveals that online groups dedicated to hating men share identical language patterns and emotional characteristics with groups dedicated to hating women, suggesting toxicity transcends the gender of the perpetrator.",
-      "aiSummary": "A new analysis of extremist Reddit communities reveals that online groups dedicated to hating men share identical language patterns and emotional characteristics with groups dedicated to hating women, suggesting toxicity transcends the gender of the perpetrator.",
-      "keyPoints": [
-        "A new analysis of extremist Reddit communities reveals that online groups dedica"
-      ],
-      "url": "https://www.psypost.org/women-who-hate-men-study-finds-similarities-in-gendered-online-hate-speech-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "864af1a72c0c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "6시간 전 / 6h ago",
-      "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
-      "summary": "arXiv:2603.25747v1 Announce Type: new Abstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomous decision-makers introduces substantial unintentional behavioral safety risks. However, the absenc",
-      "aiSummary": "arXiv:2603.25747v1 Announce Type: new Abstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomous decision-makers introduces substantial unintentional behavioral safety risks. To address this gap, we present BeSafe-Bench (BSB), a benchmark for exposing behavioral safety risks of situated agents in functional environments, covering four representative domains: Web, Mobile, Embodied VLM, and Embodied VLA. Evaluating 13 popular agents reveals a concerning trend: even the best-performing agent completes fewer than 40% of tasks while fully adhering to safety constraints, and strong task performance frequently coincides with severe safety violations.",
-      "keyPoints": [
-        "Evaluating 13 popular agents reveals a concerning trend: even the best-performin",
-        "25747v1 Announce Type: new Abstract: The rapid evolution of Large Multimodal Mod",
-        "However, the absence of a comprehensive safety benchmark remains a major bottlen",
-        "To address this gap, we present BeSafe-Bench (BSB), a benchmark for exposing beh"
-      ],
-      "url": "https://arxiv.org/abs/2603.25747",
-      "featured": false
-    },
-    {
-      "id": "109577129af3",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "6시간 전 / 6h ago",
-      "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
-      "summary": "arXiv:2603.26005v1 Announce Type: new Abstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from data and cope with the complexity and uncertainty of large-scale building clusters. However, most exi",
-      "aiSummary": "arXiv:2603.26005v1 Announce Type: new Abstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from data and cope with the complexity and uncertainty of large-scale building clusters. However, most existing simulation environments prioritize building-side performance metrics and lack systematic evaluation of grid-level impacts, while their experimental workflows still rely heavily on manual configuration and substantial programming expertise. Experimental results demonstrate that AutoB2G can effectively enable automated simulator implementations, coordinating B2G interactions to improve grid-side performance metrics.",
-      "keyPoints": [
-        "experimental workflows still rely heavily on manual configuration and substantia",
-        "26005v1 Announce Type: new Abstract: The growing availability of building operat",
-        "However, most existing simulation environments prioritize building-side performa",
-        "Therefore, this paper proposes AutoB2G, an automated building-grid co-simulation"
-      ],
-      "url": "https://arxiv.org/abs/2603.26005",
       "featured": false
     }
   ]
