@@ -1,31 +1,29 @@
 name: Fetch Psychology & AI News
-
+ 
 on:
   schedule:
     - cron: '0 * * * *'   # 매시간 정각 실행
-  workflow_dispatch:        # 수동 실행도 가능
-
+  workflow_dispatch:        # 수동 실행 가능
+ 
 jobs:
   fetch-and-update:
     runs-on: ubuntu-latest
-
+ 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+ 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
+ 
       - name: Install dependencies
-        run: pip install requests feedparser anthropic
-
-      - name: Fetch news and generate summaries
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: pip install feedparser requests
+ 
+      - name: Fetch news
         run: python fetch_news.py
-
+ 
       - name: Commit and push news.json
         run: |
           git config user.name  "github-actions[bot]"
