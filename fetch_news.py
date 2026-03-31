@@ -49,7 +49,7 @@ def call_claude(prompt: str, api_key: str, max_tokens: int = 1200) -> str:
             "anthropic-version": "2023-06-01",
         },
         json={
-            "model": "claude-haiku-4-5-20251001",
+            "model": "claude-haiku-4-5",
             "max_tokens": max_tokens,
             "messages": [{"role": "user", "content": prompt}],
         },
