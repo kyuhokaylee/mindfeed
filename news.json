@@ -1,7 +1,39 @@
 {
-  "updated": "2026-03-31T09:48:10.134285+00:00",
+  "updated": "2026-03-31T12:09:12.813845+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d393a1d990b9",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "How a twin study untangled the surprising roots of authoritarian political beliefs",
+      "titleKo": "",
+      "summary": "People with more formal schooling are reliably less likely to hold authoritarian political views. A new study of Norwegian twins reveals that childhood environments and genetics largely explain this link, though education itself still plays a role.",
+      "aiSummary": "People with more formal schooling are reliably less likely to hold authoritarian political views. A new study of Norwegian twins reveals that childhood environments and genetics largely explain this link, though education itself still plays a role.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People with more formal schooling are reliably less likely to hold authoritarian political views. A new study of Norwegian twins reveals that childhood environments and genetics largely explain this link, though education itself still plays a role.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/twin-study-untangles-the-links-between-higher-education-and-authoritarian-attitu/",
+      "featured": true
+    },
+    {
+      "id": "fb53118beacc",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Lifting weights can slow down biological brain aging in older adults",
+      "titleKo": "",
+      "summary": "A new study published in GeroScience suggests that older adults who lift weights can actively slow down their biological brain aging. These findings provide evidence that regular strength training tends to keep the mind younger and healthier.",
+      "aiSummary": "A new study published in GeroScience suggests that older adults who lift weights can actively slow down their biological brain aging. These findings provide evidence that regular strength training tends to keep the mind younger and healthier.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study published in GeroScience suggests that older adults who lift weights can actively slow down their biological brain aging. These findings provide evidence that regular strength training tends to keep the mind younger and healthier.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/lifting-weights-can-slow-down-biological-brain-aging-in-older-adults/",
+      "featured": false
+    },
     {
       "id": "9b3492937860",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "When speaking to a strange dog, female owners instinctively raise their vocal pitch to signal friendly intentions. A recent study reveals how familiarity, dog size, and social context shift human speech and facial expressions.",
       "keyPoints": [],
       "url": "https://www.psypost.org/women-use-a-higher-pitched-voice-when-speaking-to-unfamiliar-dogs-2026-03-26/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2730636d57e4",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
-      "featured": false
-    },
-    {
-      "id": "7a7de1767a2f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "What teens eat could be affecting their mental health more than we thought",
-      "titleKo": "",
-      "summary": "What teens eat might matter more for their mental health than previously thought. A sweeping review of nearly 20 studies found that healthier diets are often linked to fewer depressive symptoms, while poor eating habits may go hand in hand with greater psychological distress. Interestingly, focusing on whole dietary patterns—not just individual nutrients—showed more consistent benefits, suggesting that overall eating habits could play a meaningful role during this critical stage of brain development.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043602.htm",
-      "featured": false
-    },
-    {
-      "id": "a13c36087b32",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "This new therapy turns off pain without opioids or addiction",
-      "titleKo": "",
-      "summary": "Scientists have developed a new gene therapy that quiets pain at its source in the brain—without the addictive risks of opioids. Using AI to map how pain is processed, they created a targeted “off switch” that mimics morphine’s benefits but skips its dangerous side effects. In early tests, it delivered lasting relief without affecting normal sensations. The discovery could mark a major step toward safer, non-addictive pain treatments.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043558.htm",
       "featured": false
     }
   ]
