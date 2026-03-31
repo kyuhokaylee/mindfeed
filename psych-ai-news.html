@@ -13,7 +13,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Noto+Serif+KR:wght@400;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
- 
+
   :root {
     --bg: #0d0f12;
     --surface: #161a1f;
@@ -39,14 +39,14 @@
     --radius: 12px;
     --radius-sm: 8px;
   }
- 
+
   html {
     scroll-behavior: smooth;
     /* PWA 상태바 Safe Area */
     padding-top: env(safe-area-inset-top);
     background-color: #0d0f12;
   }
- 
+
   body {
     background: var(--bg);
     color: var(--text);
@@ -55,7 +55,7 @@
     line-height: 1.7;
     min-height: 100vh;
   }
- 
+
   /* ===== HEADER ===== */
   header {
     position: sticky;
@@ -69,14 +69,14 @@
     align-items: center;
     gap: 20px;
   }
- 
+
   .logo {
     display: flex;
     align-items: center;
     gap: 10px;
     text-decoration: none;
   }
- 
+
   .logo-icon {
     width: 32px;
     height: 32px;
@@ -88,7 +88,7 @@
     font-size: 16px;
     flex-shrink: 0;
   }
- 
+
   .logo-text {
     font-family: var(--font-mono);
     font-weight: 500;
@@ -96,20 +96,20 @@
     color: var(--text);
     letter-spacing: -0.3px;
   }
- 
+
   .logo-sub {
     font-size: 15px;
     color: var(--muted);
     letter-spacing: 0.5px;
   }
- 
+
   .header-right {
     margin-left: auto;
     display: flex;
     align-items: center;
     gap: 12px;
   }
- 
+
   .live-badge {
     display: flex;
     align-items: center;
@@ -122,7 +122,7 @@
     border-radius: 20px;
     padding: 4px 10px;
   }
- 
+
   .live-dot {
     width: 6px;
     height: 6px;
@@ -130,12 +130,12 @@
     border-radius: 50%;
     animation: pulse 2s infinite;
   }
- 
+
   @keyframes pulse {
     0%, 100% { opacity: 1; transform: scale(1); }
     50% { opacity: 0.4; transform: scale(0.8); }
   }
- 
+
   .refresh-btn {
     background: var(--surface2);
     border: 0.5px solid var(--border2);
@@ -150,10 +150,10 @@
     align-items: center;
     gap: 6px;
   }
- 
+
   .refresh-btn:hover { background: #252d38; border-color: var(--border2); }
   .refresh-btn:active { transform: scale(0.97); }
- 
+
   /* ===== FILTER BAR ===== */
   .filter-bar {
     padding: 14px 24px;
@@ -165,7 +165,7 @@
     scrollbar-width: none;
   }
   .filter-bar::-webkit-scrollbar { display: none; }
- 
+
   .filter-label {
     font-size: 14px;
     color: var(--muted);
@@ -173,7 +173,7 @@
     white-space: nowrap;
     margin-right: 4px;
   }
- 
+
   .filter-chip {
     padding: 5px 14px;
     border-radius: 20px;
@@ -186,15 +186,15 @@
     white-space: nowrap;
     font-family: var(--font-main);
   }
- 
+
   .filter-chip:hover { border-color: rgba(255,255,255,0.25); color: var(--text); }
- 
+
   .filter-chip.active {
     background: rgba(110,231,183,0.1);
     border-color: rgba(110,231,183,0.35);
     color: var(--accent);
   }
- 
+
   /* ===== LAYOUT ===== */
   .container {
     max-width: 1100px;
@@ -204,7 +204,7 @@
     grid-template-columns: 1fr 320px;
     gap: 28px;
   }
- 
+
   @media (max-width: 820px) {
     .container { grid-template-columns: 1fr; padding: 16px 14px 90px; }
     .sidebar { display: none; }
@@ -223,10 +223,10 @@
     .scroll-top { bottom: 80px; }
     .toast { bottom: 80px; }
   }
- 
+
   /* ===== BOTTOM NAV (mobile only) ===== */
   .bottom-nav { display: none; }
- 
+
   @media (max-width: 820px) {
     .bottom-nav {
       display: flex;
@@ -259,7 +259,7 @@
     .bottom-nav-icon { font-size: 20px; line-height: 1; }
     .bottom-nav-label { font-size: 14px; font-family: var(--font-mono); }
   }
- 
+
   /* ===== PWA INSTALL BANNER ===== */
   .install-banner {
     display: none;
@@ -296,13 +296,13 @@
     cursor: pointer; padding: 4px; line-height: 1;
     -webkit-tap-highlight-color: transparent;
   }
- 
+
   @media (max-width: 820px) {
     .ai-summary-btn, .save-btn { min-height: 36px; }
     .news-card:active { background: var(--surface2); }
     .featured-card:active { border-color: rgba(110,231,183,0.4); }
   }
- 
+
   /* ===== FEED ===== */
   .feed-header {
     display: flex;
@@ -310,13 +310,13 @@
     justify-content: space-between;
     margin-bottom: 20px;
   }
- 
+
   .feed-title {
     font-size: 15px;
     color: var(--muted);
     font-family: var(--font-mono);
   }
- 
+
   .sort-select {
     background: var(--surface2);
     border: 0.5px solid var(--border2);
@@ -327,7 +327,7 @@
     font-family: var(--font-mono);
     cursor: pointer;
   }
- 
+
   .news-card {
     background: var(--surface);
     border: 0.5px solid var(--border);
@@ -339,7 +339,7 @@
     position: relative;
     overflow: hidden;
   }
- 
+
   .news-card::before {
     content: '';
     position: absolute;
@@ -350,7 +350,7 @@
     background: transparent;
     transition: background 0.2s;
   }
- 
+
   .card-thumbnail {
     width: 100%;
     border-radius: 10px;
@@ -359,13 +359,13 @@
     flex-shrink: 0;
     background: #0a0a0a;
   }
- 
+
   .card-thumbnail svg {
     width: 100%;
     height: auto;
     display: block;
   }
- 
+
   .featured-thumbnail {
     width: 100%;
     border-radius: 12px;
@@ -373,16 +373,16 @@
     margin-bottom: 14px;
     background: #0a0a0a;
   }
- 
+
   .featured-thumbnail svg {
     width: 100%;
     height: auto;
     display: block;
   }
- 
+
   .news-card:hover { border-color: var(--border2); background: var(--surface2); }
   .news-card:hover::before { background: var(--accent); }
- 
+
   .card-meta {
     display: flex;
     align-items: center;
@@ -390,7 +390,7 @@
     margin-bottom: 10px;
     flex-wrap: wrap;
   }
- 
+
   .tag {
     font-size: 15px;
     font-family: var(--font-mono);
@@ -398,24 +398,24 @@
     border-radius: 4px;
     font-weight: 500;
   }
- 
+
   .tag-psych { background: var(--tag-psych); color: var(--tag-psych-text); }
   .tag-ai { background: var(--tag-ai); color: var(--tag-ai-text); }
   .tag-neuro { background: var(--tag-neuro); color: var(--tag-neuro-text); }
   .tag-behav { background: var(--tag-behav); color: var(--tag-behav-text); }
- 
+
   .card-source {
     font-size: 15px;
     color: var(--muted);
     font-family: var(--font-mono);
   }
- 
+
   .card-time {
     font-size: 15px;
     color: var(--muted);
     margin-left: auto;
   }
- 
+
   .card-title {
     font-family: var(--font-serif);
     font-size: 16px;
@@ -433,7 +433,7 @@
     font-family: var(--font-main);
     margin-top: 3px;
   }
- 
+
   .card-summary {
     font-size: 15px;
     color: var(--muted);
@@ -444,13 +444,13 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
- 
+
   .card-footer {
     display: flex;
     align-items: center;
     gap: 12px;
   }
- 
+
   .ai-summary-btn {
     display: flex;
     align-items: center;
@@ -465,14 +465,14 @@
     cursor: pointer;
     transition: all 0.18s;
   }
- 
+
   .ai-summary-btn:hover { background: rgba(147,197,253,0.13); }
   .ai-summary-btn.cached {
     color: var(--accent);
     background: rgba(110,231,183,0.07);
     border-color: rgba(110,231,183,0.2);
   }
- 
+
   .save-btn {
     display: flex;
     align-items: center;
@@ -486,10 +486,10 @@
     border-radius: var(--radius-sm);
     transition: color 0.18s;
   }
- 
+
   .save-btn:hover { color: var(--accent3); }
   .save-btn.saved { color: var(--accent3); }
- 
+
   .read-link {
     margin-left: auto;
     font-size: 14px;
@@ -499,7 +499,7 @@
     transition: color 0.18s;
   }
   .read-link:hover { color: var(--text); }
- 
+
   /* AI Summary Panel */
   .ai-panel {
     background: rgba(147,197,253,0.04);
@@ -509,11 +509,11 @@
     margin-top: 12px;
     display: none;
   }
- 
+
   .ai-panel.open { display: block; animation: fadeIn 0.25s ease; }
- 
+
   @keyframes fadeIn { from { opacity: 0; transform: translateY(-4px); } to { opacity: 1; transform: translateY(0); } }
- 
+
   .ai-panel-header {
     display: flex;
     align-items: center;
@@ -523,7 +523,7 @@
     color: var(--accent2);
     margin-bottom: 10px;
   }
- 
+
   .ai-panel-body {
     font-size: 15px;
     color: #b0bac8;
@@ -543,7 +543,7 @@
     letter-spacing: 0.5px;
     margin-bottom: 6px;
   }
- 
+
   .ai-loading {
     display: flex;
     align-items: center;
@@ -552,22 +552,22 @@
     color: var(--muted);
     font-family: var(--font-mono);
   }
- 
+
   .dots span {
     display: inline-block;
     animation: blink 1.2s infinite;
   }
   .dots span:nth-child(2) { animation-delay: 0.2s; }
   .dots span:nth-child(3) { animation-delay: 0.4s; }
- 
+
   @keyframes blink { 0%, 80%, 100% { opacity: 0.2; } 40% { opacity: 1; } }
- 
+
   .key-points {
     margin-top: 10px;
     padding-top: 10px;
     border-top: 0.5px solid rgba(147,197,253,0.1);
   }
- 
+
   .key-point {
     display: flex;
     gap: 8px;
@@ -575,16 +575,16 @@
     color: #9ca8b8;
     margin-bottom: 5px;
   }
- 
+
   .key-point::before {
     content: '▸';
     color: var(--accent2);
     flex-shrink: 0;
   }
- 
+
   /* ===== SIDEBAR ===== */
   .sidebar { }
- 
+
   .sidebar-section {
     background: var(--surface);
     border: 0.5px solid var(--border);
@@ -592,7 +592,7 @@
     padding: 18px;
     margin-bottom: 18px;
   }
- 
+
   .sidebar-title {
     font-size: 14px;
     font-family: var(--font-mono);
@@ -604,27 +604,27 @@
     align-items: center;
     gap: 8px;
   }
- 
+
   .sidebar-title::after {
     content: '';
     flex: 1;
     height: 0.5px;
     background: var(--border);
   }
- 
+
   .stat-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 10px;
   }
- 
+
   .stat-card {
     background: var(--surface2);
     border-radius: var(--radius-sm);
     padding: 12px;
     text-align: center;
   }
- 
+
   .stat-num {
     font-family: var(--font-mono);
     font-size: 22px;
@@ -633,12 +633,12 @@
     line-height: 1;
     margin-bottom: 4px;
   }
- 
+
   .stat-label {
     font-size: 15px;
     color: var(--muted);
   }
- 
+
   .trend-item {
     display: flex;
     align-items: flex-start;
@@ -651,7 +651,7 @@
   .trend-item:last-child { border-bottom: none; padding-bottom: 0; }
   .trend-item:first-child { padding-top: 0; }
   .trend-item:hover .trend-keyword { color: var(--accent); }
- 
+
   .trend-rank {
     font-family: var(--font-mono);
     font-size: 14px;
@@ -659,14 +659,14 @@
     min-width: 20px;
     margin-top: 2px;
   }
- 
+
   .trend-keyword {
     font-size: 15px;
     color: var(--text);
     transition: color 0.15s;
     line-height: 1.4;
   }
- 
+
   .trend-count {
     margin-left: auto;
     font-family: var(--font-mono);
@@ -674,7 +674,7 @@
     color: var(--muted);
     white-space: nowrap;
   }
- 
+
   .source-item {
     display: flex;
     align-items: center;
@@ -684,21 +684,21 @@
     font-size: 15px;
   }
   .source-item:last-child { border-bottom: none; }
- 
+
   .source-dot {
     width: 8px;
     height: 8px;
     border-radius: 50%;
     flex-shrink: 0;
   }
- 
+
   .source-count {
     margin-left: auto;
     font-family: var(--font-mono);
     font-size: 15px;
     color: var(--muted);
   }
- 
+
   /* FEATURED CARD */
   .featured-card {
     background: linear-gradient(135deg, #0f2a1e 0%, #0f1e2a 100%);
@@ -711,7 +711,7 @@
     position: relative;
     overflow: hidden;
   }
- 
+
   .featured-card::after {
     content: 'FEATURED';
     position: absolute;
@@ -726,9 +726,9 @@
     border-radius: 4px;
     border: 0.5px solid rgba(110,231,183,0.2);
   }
- 
+
   .featured-card:hover { border-color: rgba(110,231,183,0.4); }
- 
+
   .featured-title {
     font-family: var(--font-serif);
     font-size: 19px;
@@ -739,14 +739,14 @@
     padding-right: 80px;
     white-space: pre-line;
   }
- 
+
   .featured-summary {
     font-size: 15px;
     color: #8a9aaa;
     line-height: 1.65;
     margin-bottom: 14px;
   }
- 
+
   /* Loading skeleton */
   .skeleton {
     background: linear-gradient(90deg, var(--surface) 25%, var(--surface2) 50%, var(--surface) 75%);
@@ -754,9 +754,9 @@
     animation: shimmer 1.5s infinite;
     border-radius: 4px;
   }
- 
+
   @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
- 
+
   /* Toast */
   .toast {
     position: fixed;
@@ -773,9 +773,9 @@
     z-index: 999;
     transition: transform 0.3s ease;
   }
- 
+
   .toast.show { transform: translateX(-50%) translateY(0); }
- 
+
   /* Scroll top btn */
   .scroll-top {
     position: fixed;
@@ -800,7 +800,7 @@
 </style>
 </head>
 <body>
- 
+
 <header>
   <a href="#" class="logo">
     <div class="logo-icon">🧠</div>
@@ -820,7 +820,7 @@
     </button>
   </div>
 </header>
- 
+
 <div class="install-banner" id="installBanner">
   <div class="install-banner-text">
     <div class="install-banner-title">🧠 홈 화면에 추가 / Add to Home Screen</div>
@@ -829,7 +829,7 @@
   <button class="install-btn" id="installBtn">Install / 추가</button>
   <button class="install-close" onclick="document.getElementById('installBanner').classList.remove('visible')">×</button>
 </div>
- 
+
 <div class="filter-bar">
   <span class="filter-label">필터:</span>
   <button class="filter-chip active" onclick="setFilter(this, 'all')">전체 / All</button>
@@ -839,7 +839,7 @@
   <button class="filter-chip" onclick="setFilter(this, 'behav')">📊 행동과학 / Behavioral Sci</button>
   <button class="filter-chip" onclick="setFilter(this, 'saved')">★ 저장됨 / Saved</button>
 </div>
- 
+
 <div class="container">
   <main>
     <div class="feed-header">
@@ -852,7 +852,7 @@
     </div>
     <div id="feed-container"></div>
   </main>
- 
+
   <aside class="sidebar">
     <div class="sidebar-section">
       <div class="sidebar-title">오늘의 통계 / Today's Stats</div>
@@ -875,22 +875,22 @@
         </div>
       </div>
     </div>
- 
+
     <div class="sidebar-section">
       <div class="sidebar-title">트렌딩 키워드 / Trending</div>
       <div id="trend-list"></div>
     </div>
- 
+
     <div class="sidebar-section">
       <div class="sidebar-title">수집 소스 / Sources</div>
       <div id="source-list"></div>
     </div>
   </aside>
 </div>
- 
+
 <div class="toast" id="toast"></div>
 <button class="scroll-top" id="scrollTopBtn" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
- 
+
 <nav class="bottom-nav">
   <button class="bottom-nav-item active" onclick="setBottomNav(this,'all')">
     <span class="bottom-nav-icon">📰</span>
@@ -913,23 +913,23 @@
     <span class="bottom-nav-label">저장됨</span>
   </button>
 </nav>
- 
+
 <script>
 // ── 뉴스 데이터 (news.json에서 로드) ───────────────────────────
 let NEWS_DATA = [];
- 
+
 async function loadNews() {
   const feedContainer = document.getElementById('feed-container');
   const countEl = document.getElementById('feed-count');
   countEl.textContent = '뉴스 불러오는 중... / Loading...';
- 
+
   try {
     // GitHub Pages에서 같은 경로의 news.json 로드
     const res = await fetch('news.json?t=' + Date.now());
     if (!res.ok) throw new Error('fetch failed');
     const data = await res.json();
     const rawArticles = data.articles || [];
- 
+
     // tag별 썸네일 순환 할당
     const COMIC_THUMBS = {
       ai:    ['<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIwIDE4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiPiAgIDxyZWN0IHdpZHRoPSIzMjAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMWExYTJlIi8+ICAgPCEtLSBQYW5lbCBkaXZpZGVyIGxpbmUgLS0+ICAgPGxpbmUgeDE9IjE2MCIgeTE9IjAiIHgyPSIxNjAiIHkyPSIxODAiIHN0cm9rZT0iIzMzMyIgc3Ryb2tlLXdpZHRoPSIyIi8+ICAgPCEtLSBQYW5lbCBsYWJlbHMgLS0+ICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxODAiIGZpbGw9IiMxYTFhMmUiLz4gICA8cmVjdCB4PSIxNjAiIHk9IjAiIHdpZHRoPSIxNjAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMTIxMjJhIi8+ICAgIDwhLS0gUEFORUwgMTogSHVtYW4gdGhlcmFwaXN0IC0tPiAgIDwhLS0gQ291Y2ggLS0+ICAgPHJlY3QgeD0iMTAiIHk9IjEzMCIgd2lkdGg9IjEzMCIgaGVpZ2h0PSIxOCIgcng9IjYiIGZpbGw9IiMzYTJhMWEiLz4gICA8cmVjdCB4PSIxMCIgeT0iMTE4IiB3aWR0aD0iMjAiIGhlaWdodD0iMzAiIHJ4PSI0IiBmaWxsPSIjM2EyYTFhIi8+ICAgPHJlY3QgeD0iMTIwIiB5PSIxMTgiIHdpZHRoPSIyMCIgaGVpZ2h0PSIzMCIgcng9IjQiIGZpbGw9IiMzYTJhMWEiLz4gICA8IS0tIFBhdGllbnQgbHlpbmcgZG93biAtLT4gICA8ZWxsaXBzZSBjeD0iNzUiIGN5PSIxMjIiIHJ4PSIzNSIgcnk9IjgiIGZpbGw9IiMyYTFhMGEiIG9wYWNpdHk9IjAuNSIvPiAgIDxjaXJjbGUgY3g9IjExMCIgY3k9IjExNSIgcj0iMTAiIGZpbGw9IiNmNWM1YTMiLz4gICA8cmVjdCB4PSI3NiIgeT0iMTEzIiB3aWR0aD0iMzQiIGhlaWdodD0iMTIiIHJ4PSI0IiBmaWxsPSIjNGE2YTlhIi8+ICAgPCEtLSBUaGVyYXBpc3Qgc2l0dGluZyAtLT4gICA8Y2lyY2xlIGN4PSIzMCIgY3k9IjEwNSIgcj0iMTAiIGZpbGw9IiNmNWM1YTMiLz4gICA8cmVjdCB4PSIyMiIgeT0iMTE1IiB3aWR0aD0iMTYiIGhlaWdodD0iMjAiIHJ4PSI0IiBmaWxsPSIjNmE0YThhIi8+ICAgPCEtLSBTcGVlY2ggYnViYmxlIGZyb20gdGhlcmFwaXN0IC0gQk9SRUQgLS0+ICAgPHJlY3QgeD0iMzgiIHk9IjgyIiB3aWR0aD0iNzYiIGhlaWdodD0iMjYiIHJ4PSI4IiBmaWxsPSIjMmEyYTRhIi8+ICAgPHJlY3QgeD0iMzgiIHk9IjgyIiB3aWR0aD0iNzYiIGhlaWdodD0iMjYiIHJ4PSI4IiBmaWxsPSJub25lIiBzdHJva2U9IiM1NTUiIHN0cm9rZS13aWR0aD0iMSIvPiAgIDxwb2x5Z29uIHBvaW50cz0iNDQsMTA4IDM4LDExNiA1MiwxMDgiIGZpbGw9IiMyYTJhNGEiLz4gICA8dGV4dCB4PSI3NiIgeT0iOTciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAuNSIgZmlsbD0iI2FhYSI+7J2MLi4uIOq3uOuemOyEnOyalD88L3RleHQ+ICAgPHRleHQgeD0iNzYiIHk9IjEwNyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzc3NyI+VWgtaHVoLi4uIGdvIG9uLjwvdGV4dD4gICA8IS0tIFp6eiBmcm9tIHRoZXJhcGlzdCAtLT4gICA8dGV4dCB4PSIxMjAiIHk9Ijk1IiBmb250LXNpemU9IjExIiBmaWxsPSIjNjY2Ij56PC90ZXh0PiAgIDx0ZXh0IHg9IjEyOCIgeT0iODciIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM1NTUiPno8L3RleHQ+ICAgPCEtLSBQYW5lbCAxIGNhcHRpb24gLS0+ICAgPHJlY3QgeD0iNSIgeT0iMTU1IiB3aWR0aD0iMTUwIiBoZWlnaHQ9IjIwIiByeD0iNCIgZmlsbD0iIzExMSIvPiAgIDx0ZXh0IHg9IjgwIiB5PSIxNjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM4ODgiPuyduOqwhCDsuZjro4zsgqwgLyBIdW1hbiBUaGVyYXBpc3Q8L3RleHQ+ICAgIDwhLS0gUEFORUwgMjogQUkgdGhlcmFwaXN0IC0tPiAgIDwhLS0gUm9ib3Qvc2NyZWVuIC0tPiAgIDxyZWN0IHg9IjE4NSIgeT0iOTAiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgcng9IjgiIGZpbGw9IiMxYTNhNWEiLz4gICA8cmVjdCB4PSIxODUiIHk9IjkwIiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHJ4PSI4IiBmaWxsPSJub25lIiBzdHJva2U9IiM5M2M1ZmQiIHN0cm9rZS13aWR0aD0iMS41Ii8+ICAgPCEtLSBTY3JlZW4gZmFjZSAtLT4gICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSIxMTAiIHI9IjUiIGZpbGw9IiM5M2M1ZmQiIG9wYWNpdHk9IjAuOSIvPiAgIDxjaXJjbGUgY3g9IjIyMCIgY3k9IjExMCIgcj0iNSIgZmlsbD0iIzkzYzVmZCIgb3BhY2l0eT0iMC45Ii8+ICAgPHBhdGggZD0iTTE5OCAxMjIgUTIxMCAxMzAgMjIyIDEyMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTNjNWZkIiBzdHJva2Utd2lkdGg9IjIiLz4gICA8IS0tIEhlYXJ0IHBhcnRpY2xlcyBmcm9tIEFJIC0tPiAgIDx0ZXh0IHg9IjI0MiIgeT0iMTA1IiBmb250LXNpemU9IjEyIiBmaWxsPSIjZjlhOGQ0Ij7imaU8L3RleHQ+ICAgPHRleHQgeD0iMjU0IiB5PSI5NSIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2Y5YThkNCIgb3BhY2l0eT0iMC43Ij7imaU8L3RleHQ+ICAgPHRleHQgeD0iMjY0IiB5PSIxMDgiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNmOWE4ZDQiIG9wYWNpdHk9IjAuNSI+4pmlPC90ZXh0PiAgIDwhLS0gUGF0aWVudCAobW92ZWQsIGFtYXplZCkgLS0+ICAgPGNpcmNsZSBjeD0iMjYwIiBjeT0iMTM1IiByPSIxMCIgZmlsbD0iI2Y1YzVhMyIvPiAgIDxyZWN0IHg9IjI1MiIgeT0iMTQ1IiB3aWR0aD0iMTYiIGhlaWdodD0iMTUiIHJ4PSI0IiBmaWxsPSIjNGE2YTlhIi8+ICAgPCEtLSBQYXRpZW50IHNwZWVjaCBidWJibGUgLS0+ICAgPHJlY3QgeD0iMTY4IiB5PSI2MCIgd2lkdGg9Ijg0IiBoZWlnaHQ9IjI2IiByeD0iOCIgZmlsbD0iIzFhM2ExYSIvPiAgIDxyZWN0IHg9IjE2OCIgeT0iNjAiIHdpZHRoPSI4NCIgaGVpZ2h0PSIyNiIgcng9IjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZlZTdiNyIgc3Ryb2tlLXdpZHRoPSIxIi8+ICAgPHBvbHlnb24gcG9pbnRzPSIyNDgsODYgMjU2LDk0IDI0MCw4NiIgZmlsbD0iIzFhM2ExYSIvPiAgIDx0ZXh0IHg9IjIxMCIgeT0iNzUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAuNSIgZmlsbD0iIzZlZTdiNyI+65Oc65SU7Ja0IOqzteqwkOuwm+yVmOyWtCE8L3RleHQ+ICAgPHRleHQgeD0iMjEwIiB5PSI4NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzRhOWE2YSI+RmluYWxseSB1bmRlcnN0b29kISDwn5itPC90ZXh0PiAgIDwhLS0gU3RhcnMgYXJvdW5kIHBhdGllbnQgLS0+ICAgPHRleHQgeD0iMTY4IiB5PSIxMzAiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiNmYmJmMjQiPuKYhTwvdGV4dD4gICA8dGV4dCB4PSIzMDAiIHk9IjEyNSIgZm9udC1zaXplPSIxMCIgZmlsbD0iI2ZiYmYyNCI+4piFPC90ZXh0PiAgIDwhLS0gU2NvcmUgYmFkZ2UgLS0+ICAgPHJlY3QgeD0iMTY4IiB5PSIxNTUiIHdpZHRoPSI3MCIgaGVpZ2h0PSIyMCIgcng9IjQiIGZpbGw9IiMwYTJhMWEiLz4gICA8dGV4dCB4PSIyMDMiIHk9IjE2OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzZlZTdiNyI+6rO16rCQ7KCQ7IiYICsxMiUg4oaRPC90ZXh0PiAgIDwhLS0gUGFuZWwgMiBjYXB0aW9uIC0tPiAgIDxyZWN0IHg9IjI0NSIgeT0iMTU1IiB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHJ4PSI0IiBmaWxsPSIjMTExIi8+ICAgPHRleHQgeD0iMjgwIiB5PSIxNjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5M2M1ZmQiPkFJIOyxl+u0hyAvIEFJIEJvdDwvdGV4dD4gPC9zdmc+" style="width:100%;height:auto;display:block;border-radius:10px;" loading="lazy" alt="comic">',
@@ -940,14 +940,14 @@ async function loadNews() {
       behav: ['<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIwIDE4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiPiAgIDxyZWN0IHdpZHRoPSIzMjAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMGYwZDA4Ii8+ICAgPGxpbmUgeDE9IjE2MCIgeTE9IjAiIHgyPSIxNjAiIHkyPSIxODAiIHN0cm9rZT0iIzIyMiIgc3Ryb2tlLXdpZHRoPSIyIi8+ICAgIDwhLS0gUEFORUwgMTogUGF2bG92J3MgZG9nIGNsYXNzaWMgLS0+ICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIxODAiIGZpbGw9IiMxYTE0MDgiLz4gICA8IS0tIEJlbGwgKG9sZCBzY2hvb2wpIC0tPiAgIDxlbGxpcHNlIGN4PSIzMCIgY3k9IjQwIiByeD0iMTYiIHJ5PSIyMCIgZmlsbD0iI2ZiYmYyNCIgb3BhY2l0eT0iMC40Ii8+ICAgPHJlY3QgeD0iMjIiIHk9IjU4IiB3aWR0aD0iMTYiIGhlaWdodD0iNiIgcng9IjIiIGZpbGw9IiNmYmJmMjQiIG9wYWNpdHk9IjAuNSIvPiAgIDxlbGxpcHNlIGN4PSIzMCIgY3k9IjYzIiByeD0iNCIgcnk9IjQiIGZpbGw9IiNmYmJmMjQiIG9wYWNpdHk9IjAuNiIvPiAgIDx0ZXh0IHg9IjMwIiB5PSIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iI2ZiYmYyNCIgb3BhY2l0eT0iMC43Ij7wn5SUPC90ZXh0PiAgIDwhLS0gU291bmQgd2F2ZXMgZnJvbSBiZWxsIC0tPiAgIDxwYXRoIGQ9Ik00NiA0MiBRNTUgMzUgNjQgNDIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjQiIHN0cm9rZS1kYXNoYXJyYXk9IjMgMiIvPiAgIDwhLS0gQ2xhc3NpYyBkb2cgLS0+ICAgPGVsbGlwc2UgY3g9IjExMCIgY3k9IjEzMCIgcng9IjMwIiByeT0iMTYiIGZpbGw9IiM4QjY5MTQiIG9wYWNpdHk9IjAuNyIvPiAgIDxjaXJjbGUgY3g9IjkwIiBjeT0iMTE4IiByPSIxNCIgZmlsbD0iIzhCNjkxNCIgb3BhY2l0eT0iMC44Ii8+ICAgPCEtLSBEb2cgZXllcyAtLT4gICA8Y2lyY2xlIGN4PSI4NiIgY3k9IjExNCIgcj0iMi41IiBmaWxsPSIjMTExIi8+ICAgPGNpcmNsZSBjeD0iOTQiIGN5PSIxMTQiIHI9IjIuNSIgZmlsbD0iIzExMSIvPiAgIDwhLS0gRG9nIHRvbmd1ZSAoZHJvb2xpbmcpIC0tPiAgIDxwYXRoIGQ9Ik04NiAxMjIgUTkwIDEzMCA5NCAxMjIiIGZpbGw9IiNmOWE4ZDQiIHN0cm9rZT0iI2Y5YThkNCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4gICA8cGF0aCBkPSJNODggMTIyIFE5MCAxMzQgOTIgMTI2IiBmaWxsPSIjZjlhOGQ0Ii8+ICAgPCEtLSBEb2cgZWFycyAtLT4gICA8ZWxsaXBzZSBjeD0iODQiIGN5PSIxMDgiIHJ4PSI3IiByeT0iMTAiIGZpbGw9IiM2QjQ5MTQiIG9wYWNpdHk9IjAuOCIvPiAgIDxlbGxpcHNlIGN4PSI5NiIgY3k9IjEwOCIgcng9IjciIHJ5PSIxMCIgZmlsbD0iIzZCNDkxNCIgb3BhY2l0eT0iMC44Ii8+ICAgPCEtLSBEcm9vbCBkcm9wcyAtLT4gICA8dGV4dCB4PSI4MCIgeT0iMTQ1IiBmb250LXNpemU9IjEwIiBmaWxsPSIjOTNjNWZkIiBvcGFjaXR5PSIwLjciPvCfkqfwn5Kn8J+SpzwvdGV4dD4gICA8IS0tIExhYmVsOiDtjIzruJTroZztlIQgMTkwMSAtLT4gICA8cmVjdCB4PSI1IiB5PSIyNSIgd2lkdGg9IjY4IiBoZWlnaHQ9IjE2IiByeD0iNCIgZmlsbD0iIzFhMTAwMCIvPiAgIDx0ZXh0IHg9IjM5IiB5PSIzNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iI2ZiYmYyNCI+7YyM67iU66Gc7ZSEIDE5MDE8L3RleHQ+ICAgPCEtLSBDYXB0aW9uIC0tPiAgIDxyZWN0IHg9IjUiIHk9IjE1OCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxOCIgcng9IjQiIGZpbGw9IiMxYTEwMDAiLz4gICA8dGV4dCB4PSI4MCIgeT0iMTcwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjZmJiZjI0Ij7qs6DsoIQg7KGw6rG07ZmUIC8gQ2xhc3NpYzwvdGV4dD4gICAgPCEtLSBQQU5FTCAyOiBNb2Rlcm4gaHVtYW4gPSBzYW1lIGRvZyAtLT4gICA8cmVjdCB4PSIxNjAiIHk9IjAiIHdpZHRoPSIxNjAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMGYwZDA4Ii8+ICAgPCEtLSBQaG9uZSAtLT4gICA8cmVjdCB4PSIyMDAiIHk9IjMwIiB3aWR0aD0iMzYiIGhlaWdodD0iNjAiIHJ4PSI3IiBmaWxsPSIjMWExODEwIi8+ICAgPHJlY3QgeD0iMjAwIiB5PSIzMCIgd2lkdGg9IjM2IiBoZWlnaHQ9IjYwIiByeD0iNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmJiZjI0IiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuNyIvPiAgIDxyZWN0IHg9IjIwNCIgeT0iMzYiIHdpZHRoPSIyOCIgaGVpZ2h0PSI0NCIgcng9IjMiIGZpbGw9IiMwZDBmMTIiLz4gICA8IS0tIE5vdGlmaWNhdGlvbiBvbiBwaG9uZSAtLT4gICA8cmVjdCB4PSIyMDciIHk9IjQyIiB3aWR0aD0iMjIiIGhlaWdodD0iOCIgcng9IjIiIGZpbGw9IiNmYmJmMjQiIG9wYWNpdHk9IjAuNSIvPiAgIDx0ZXh0IHg9IjIxOCIgeT0iNDgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iNiIgZmlsbD0iI2ZiYmYyNCI+8J+SrCAxPC90ZXh0PiAgIDwhLS0gRGluZyEgLS0+ICAgPHRleHQgeD0iMjQzIiB5PSI1NSIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2ZiYmYyNCI+8J+UlDwvdGV4dD4gICA8cGF0aCBkPSJNMjUyIDUwIFEyNTggNDQgMjY0IDUwIiBmaWxsPSJub25lIiBzdHJva2U9IiNmYmJmMjQiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC41IiBzdHJva2UtZGFzaGFycmF5PSIyIDIiLz4gICA8IS0tIE1vZGVybiBodW1hbiAtIHNhbWUgZHJvb2xpbmcgcmVhY3Rpb24gLS0+ICAgPGNpcmNsZSBjeD0iMjc1IiBjeT0iMTEwIiByPSIxNSIgZmlsbD0iI2Y1YzVhMyIvPiAgIDwhLS0gU2FtZSBkb2ctbGlrZSBleWVzIC0tPiAgIDxjaXJjbGUgY3g9IjI3MCIgY3k9IjEwNiIgcj0iMi41IiBmaWxsPSIjMTExIi8+ICAgPGNpcmNsZSBjeD0iMjgwIiBjeT0iMTA2IiByPSIyLjUiIGZpbGw9IiMxMTEiLz4gICA8IS0tIERyb29saW5nIHRvbmd1ZSAtLT4gICA8cGF0aCBkPSJNMjY5IDExNiBRMjc1IDEyNCAyODEgMTE2IiBmaWxsPSIjZjlhOGQ0IiBzdHJva2U9IiNmOWE4ZDQiIHN0cm9rZS13aWR0aD0iMC41Ii8+ICAgPHBhdGggZD0iTTI3MiAxMTYgUTI3NSAxMjYgMjc4IDEyMCIgZmlsbD0iI2Y5YThkNCIvPiAgIDwhLS0gRHJvb2wgLS0+ICAgPHRleHQgeD0iMjYyIiB5PSIxMzYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5M2M1ZmQiIG9wYWNpdHk9IjAuNyI+8J+Sp/Cfkqfwn5KnPC90ZXh0PiAgIDwhLS0gTGFiZWw6IO2YhOuMgOyduCAyMDI1IC0tPiAgIDxyZWN0IHg9IjE2NSIgeT0iMjUiIHdpZHRoPSI2OCIgaGVpZ2h0PSIxNiIgcng9IjQiIGZpbGw9IiMxYTEwMDAiLz4gICA8dGV4dCB4PSIxOTkiIHk9IjM2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjZmJiZjI0Ij7tmITrjIDsnbggMjAyNTwvdGV4dD4gICA8IS0tIFNwZWVkIGJhZGdlIC0tPiAgIDxyZWN0IHg9IjE2NSIgeT0iMTUwIiB3aWR0aD0iNjAiIGhlaWdodD0iMjIiIHJ4PSI1IiBmaWxsPSIjMWExMDAwIi8+ICAgPHRleHQgeD0iMTk1IiB5PSIxNjIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNmYmJmMjQiPjPDlyDruaDrpoQhPC90ZXh0PiAgIDx0ZXh0IHg9IjE5NSIgeT0iMTcwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjODg4Ij4zeCBmYXN0ZXI8L3RleHQ+ICAgPCEtLSA9IHNpZ24gYmV0d2VlbiBwYW5lbHMgYXQgbWlkZGxlIC0tPiAgIDx0ZXh0IHg9IjE2OCIgeT0iMTE4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE4IiBmaWxsPSIjZmJiZjI0IiBvcGFjaXR5PSIwLjgiPj08L3RleHQ+IDwvc3ZnPg==" style="width:100%;height:auto;display:block;border-radius:10px;" loading="lazy" alt="comic">'],
     };
     const tagCounters = {ai:0, psych:0, neuro:0, behav:0};
- 
+
     NEWS_DATA = rawArticles.map((a, idx) => {
       // 썸네일 순환 할당
       const pool = COMIC_THUMBS[a.tag] || COMIC_THUMBS['ai'];
       const tc   = tagCounters[a.tag] || 0;
       a.thumbnail = pool[tc % pool.length];
       tagCounters[a.tag] = tc + 1;
- 
+
       // aiSummary 한/영 분리 (영어만 있으면 한국어 섹션 숨김)
       if (a.aiSummary && !a.aiSummary.includes('\n\n')) {
         // 영어 본문만 있는 경우 — 그대로 사용
@@ -961,7 +961,7 @@ async function loadNews() {
       }
       return a;
     });
- 
+
     // 업데이트 시각 표시
     if (data.updated) {
       const updatedAt = new Date(data.updated);
@@ -975,13 +975,13 @@ async function loadNews() {
     console.warn('news.json 로드 실패, 샘플 데이터 사용:', e);
     NEWS_DATA = SAMPLE_DATA;
   }
- 
+
   renderFeed();
   renderTrends();
   renderSources();
   setTimeout(startPrefetch, 1500);
 }
- 
+
 // ── 샘플 데이터 (news.json 없을 때 폴백) ────────────────────────
 const SAMPLE_DATA = [
   {
@@ -1064,7 +1064,7 @@ const SAMPLE_DATA = [
     url: '#'
   }
 ];
- 
+
 const TRENDS = [
   { keyword: 'AI 심리치료 / AI Psychotherapy', count: '127건' },
   { keyword: '수면 기억 공고화 / Sleep Memory Consolidation', count: '89건' },
@@ -1073,7 +1073,7 @@ const TRENDS = [
   { keyword: 'LLM 의인화 / LLM Anthropomorphism', count: '58건' },
   { keyword: 'MBSR 뇌 변화 / MBSR Brain Changes', count: '51건' },
 ];
- 
+
 const SOURCES = [
   { name: 'Nature Human Behaviour', count: 14, color: '#6ee7b7' },
   { name: 'Psychological Science', count: 11, color: '#93c5fd' },
@@ -1081,20 +1081,20 @@ const SOURCES = [
   { name: 'arXiv 심리·인지', count: 22, color: '#fbbf24' },
   { name: 'PsyPost 뉴스', count: 38, color: '#f9a8d4' },
 ];
- 
+
 let savedIds = new Set();
 let currentFilter = 'all';
 let currentSort = 'latest';
- 
+
 function getTagClass(tag) {
   const map = { psych: 'tag-psych', ai: 'tag-ai', neuro: 'tag-neuro', behav: 'tag-behav' };
   return map[tag] || 'tag-psych';
 }
- 
+
 function renderCard(item) {
   const isSaved = savedIds.has(String(item.id));
   const tagClass = getTagClass(item.tag);
- 
+
   if (item.featured) {
     return `
     <div class="featured-card" id="card-${item.id}">
@@ -1119,7 +1119,7 @@ function renderCard(item) {
       </div>
     </div>`;
   }
- 
+
   return `
   <div class="news-card" id="card-${item.id}">
     ${item.thumbnail ? item.thumbnail : ''}
@@ -1143,61 +1143,58 @@ function renderCard(item) {
     </div>
   </div>`;
 }
- 
+
 function renderFeed() {
   let items = [...NEWS_DATA];
- 
+
   if (currentFilter !== 'all' && currentFilter !== 'saved') {
     items = items.filter(i => i.tag === currentFilter);
   }
   if (currentFilter === 'saved') {
     items = items.filter(i => savedIds.has(i.id));
   }
- 
+
   const container = document.getElementById('feed-container');
   const countEl = document.getElementById('feed-count');
- 
+
   if (items.length === 0) {
     container.innerHTML = `<div style="text-align:center;padding:48px;color:var(--muted);font-family:var(--font-mono);font-size:13px;">저장된 뉴스가 없습니다</div>`;
     countEl.textContent = `0건`;
     return;
   }
- 
+
   countEl.textContent = `오늘의 뉴스 · ${items.length}건`;
   container.innerHTML = items.map(renderCard).join('');
- 
+
   document.getElementById('stat-total').textContent = NEWS_DATA.length;
   document.getElementById('stat-ai').textContent = NEWS_DATA.length;
   document.getElementById('stat-journals').textContent = '12';
   document.getElementById('stat-saved').textContent = savedIds.size;
 }
- 
+
 function buildSummaryHTML(item, summary) {
-  // news.json 기사는 aiSummaryKo/En 필드 활용
-  const koText = item.aiSummaryKo || (() => {
-    const parts = summary.split('\n\n');
-    const half  = Math.ceil(parts.length / 2);
-    return parts.slice(0, half).join('\n\n');
-  })();
-  const enText = item.aiSummaryEn || (() => {
-    const parts = summary.split('\n\n');
-    const half  = Math.ceil(parts.length / 2);
-    return parts.slice(half).join('\n\n');
-  })();
   const points = (item.keyPoints || []).map(p => `<div class="key-point">${p}</div>`).join('');
+  // summaryCache에 저장된 값은 한국어 번역 결과
+  // item.aiSummary는 영어 원문 추출 요약
+  const isKorean = /[가-힣]/.test(summary);
+
   return `
-    ${koText ? `<div class="ai-lang-label">한국어 KO</div><p>${koText}</p><hr class="ai-panel-divider">` : ''}
-    <div class="ai-lang-label">English EN</div>
-    <p>${enText || summary}</p>
+    ${isKorean
+      ? `<div class="ai-lang-label">한국어 요약 KO</div><p>${summary}</p>
+         <hr class="ai-panel-divider">
+         <div class="ai-lang-label">영어 원문 EN</div>
+         <p style="font-size:13px;color:#7a8290">${item.aiSummary || item.summary || ''}</p>`
+      : `<div class="ai-lang-label">English EN</div><p>${summary}</p>`
+    }
     ${points ? `<div class="key-points">
       <div style="font-size:11px;color:var(--muted);font-family:var(--font-mono);margin-bottom:8px;">핵심 포인트 / Key Points</div>
       ${points}
     </div>` : ''}`;
 }
- 
+
 // Cache: pre-generate summaries for all cards on page load
 const summaryCache = {};
- 
+
 async function prefetchSummary(item) {
   if (summaryCache[item.id]) return;
   summaryCache[item.id] = 'loading';
@@ -1210,7 +1207,7 @@ async function prefetchSummary(item) {
         max_tokens: 1000,
         messages: [{
           role: "user",
-          content: `다음 심리학/AI 뉴스를 한국어와 영어로 각각 3-4문장씩 요약해주세요. 핵심 연구결과와 의의에 집중하고, 일반인도 이해할 수 있게 설명해주세요. 한국어 요약 후 빈 줄 두 개, 그 다음 영어 요약을 써주세요.\n\n제목: ${item.title}\n\n내용: ${item.summary}`
+          content: `다음 심리학/AI 뉴스 기사를 한국어로 3-4문장으로 요약해주세요. 핵심 연구결과, 방법론, 의의를 포함하고 일반인도 이해할 수 있게 쉽게 설명해주세요. 한국어 요약만 작성하고 다른 말은 붙이지 마세요.\n\n제목: ${item.title}\n\n내용: ${item.summary}`
         }]
       })
     });
@@ -1220,7 +1217,7 @@ async function prefetchSummary(item) {
     summaryCache[item.id] = item.aiSummary;
   }
 }
- 
+
 function startPrefetch() {
   // Stagger prefetch requests to avoid rate limiting
   NEWS_DATA.forEach((item, i) => {
@@ -1232,52 +1229,47 @@ function startPrefetch() {
     }, i * 800);
   });
 }
- 
+
 function toggleAI(id, e) {
   e.stopPropagation();
   const panel = document.getElementById(`ai-${id}`);
   const bodyEl = document.getElementById(`ai-body-${id}`);
   const item = NEWS_DATA.find(i => String(i.id) === String(id));
- 
+
   if (panel.classList.contains('open')) {
     panel.classList.remove('open');
     return;
   }
- 
+
   panel.classList.add('open');
- 
+
   // Already cached and ready?
   if (summaryCache[id] && summaryCache[id] !== 'loading') {
     bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[id]);
     return;
   }
- 
-  // news.json 기사는 aiSummary가 이미 있으므로 캐시에 미리 넣기
-  if (!summaryCache[id] && item.aiSummary) {
-    summaryCache[id] = item.aiSummary;
-  }
- 
-  // 캐시 있으면 즉시 표시
+
+  // 캐시 있으면 즉시 표시 (이미 번역된 한국어)
   if (summaryCache[id] && summaryCache[id] !== 'loading') {
     bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[id]);
     return;
   }
- 
+
   // Show loading, then wait for cache or fetch directly
   bodyEl.innerHTML = `<div class="ai-loading">요약 생성 중 / Generating<span class="dots"><span>.</span><span>.</span><span>.</span></span></div>`;
- 
+
   const poll = setInterval(() => {
     if (summaryCache[id] && summaryCache[id] !== 'loading') {
       clearInterval(poll);
       bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[id]);
     }
   }, 300);
- 
+
   // Fallback: if not prefetched yet, fetch immediately
   if (!summaryCache[id]) {
     prefetchSummary(item);
   }
- 
+
   // Safety timeout — use built-in summary after 12s
   setTimeout(() => {
     clearInterval(poll);
@@ -1287,7 +1279,7 @@ function toggleAI(id, e) {
     }
   }, 12000);
 }
- 
+
 function toggleSave(id, e) {
   e.stopPropagation();
   const strId = String(id);
@@ -1301,20 +1293,20 @@ function toggleSave(id, e) {
   document.getElementById('stat-saved').textContent = savedIds.size;
   renderFeed();
 }
- 
+
 function setFilter(btn, filter) {
   document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
   btn.classList.add('active');
   currentFilter = filter;
   renderFeed();
 }
- 
+
 function sortFeed(val) {
   currentSort = val;
   showToast('정렬 기준이 변경되었습니다');
   renderFeed();
 }
- 
+
 async function refreshFeed() {
   const btn = document.querySelector('.refresh-btn');
   btn.textContent = '↻ 업데이트 중...';
@@ -1324,14 +1316,14 @@ async function refreshFeed() {
   btn.disabled = false;
   showToast('✓ 최신 뉴스로 업데이트됐습니다 / Updated!');
 }
- 
+
 function showToast(msg) {
   const t = document.getElementById('toast');
   t.textContent = msg;
   t.classList.add('show');
   setTimeout(() => t.classList.remove('show'), 2500);
 }
- 
+
 function renderTrends() {
   document.getElementById('trend-list').innerHTML = TRENDS.map((t, i) => `
     <div class="trend-item" onclick="showToast('${t.keyword} 검색 중...')">
@@ -1340,7 +1332,7 @@ function renderTrends() {
       <span class="trend-count">${t.count}</span>
     </div>`).join('');
 }
- 
+
 function renderSources() {
   document.getElementById('source-list').innerHTML = SOURCES.map(s => `
     <div class="source-item">
@@ -1349,12 +1341,12 @@ function renderSources() {
       <span class="source-count">${s.count}건</span>
     </div>`).join('');
 }
- 
+
 window.addEventListener('scroll', () => {
   const btn = document.getElementById('scrollTopBtn');
   btn.classList.toggle('visible', window.scrollY > 400);
 });
- 
+
 // Bottom nav sync with filter
 function setBottomNav(btn, filter) {
   document.querySelectorAll('.bottom-nav-item').forEach(b => b.classList.remove('active'));
@@ -1368,7 +1360,7 @@ function setBottomNav(btn, filter) {
   currentFilter = filter;
   renderFeed();
 }
- 
+
 // PWA install prompt
 let deferredPrompt = null;
 window.addEventListener('beforeinstallprompt', (e) => {
@@ -1376,7 +1368,7 @@ window.addEventListener('beforeinstallprompt', (e) => {
   deferredPrompt = e;
   document.getElementById('installBanner').classList.add('visible');
 });
- 
+
 document.getElementById('installBtn').addEventListener('click', async () => {
   if (deferredPrompt) {
     deferredPrompt.prompt();
@@ -1391,7 +1383,7 @@ document.getElementById('installBtn').addEventListener('click', async () => {
     showToast('Safari 메뉴 → 홈 화면에 추가를 눌러주세요');
   }
 });
- 
+
 // iOS: show banner if in Safari (not standalone)
 const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
 const isStandalone = window.navigator.standalone;
@@ -1400,7 +1392,7 @@ if (isIOS && !isStandalone) {
     document.getElementById('installBanner').classList.add('visible');
   }, 2000);
 }
- 
+
 // Service Worker for offline
 if ('serviceWorker' in navigator) {
   const swCode = `
@@ -1413,13 +1405,12 @@ if ('serviceWorker' in navigator) {
   const swUrl = URL.createObjectURL(blob);
   navigator.serviceWorker.register(swUrl).catch(() => {});
 }
- 
+
 // news.json에서 뉴스 로드 후 렌더링
 loadNews();
- 
+
 // 10분마다 자동 새로고침
 setInterval(loadNews, 10 * 60 * 1000);
 </script>
 </body>
 </html>
- 
