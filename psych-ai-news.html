@@ -1096,6 +1096,7 @@ const SOURCES = [
 let savedIds = new Set();
 let currentFilter = 'all';
 let currentSort = 'latest';
+const summaryCache = {};
 
 function getTagClass(tag) {
   const map = { psych: 'tag-psych', ai: 'tag-ai', neuro: 'tag-neuro', behav: 'tag-behav' };
