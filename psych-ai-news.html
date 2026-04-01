@@ -1227,28 +1227,14 @@ function buildSummaryHTML(item, summary) {
 
 
 async function prefetchSummary(item) {
+  // news.json에 이미 요약이 있으면 캐시에 저장만 함
   const pid = NEWS_DATA.indexOf(item);
   if (summaryCache[pid] !== undefined) return;
-  summaryCache[pid] = 'loading';
-  try {
-    const response = await fetch("https://api.anthropic.com/v1/messages", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        model: "claude-haiku-4-5",
-        max_tokens: 2000,
-        messages: [{
-          role: "user",
-          content: `다음 심리학/AI 뉴스 기사를 아래 형식으로 작성하세요.\n\n[한국어 요약]\n5-6문장: 연구 배경, 방법, 핵심 결과(수치 포함), 의의를 포함. 일반인도 이해할 수 있게 쉽게 설명.\n\n[English Summary]\n5-6 sentences: background, methodology, key findings with numbers, significance.\n\n제목: ${item.title}\n\n내용: ${item.summary}`
-        }]
-      })
-    });
-    const data = await response.json();
-    summaryCache[pid] = data.content?.[0]?.text || item.aiSummary || '';
-  } catch (err) {
-    summaryCache[pid] = item.aiSummary || '';
-  }
+  // CORS 제한으로 GitHub Pages에서는 Anthropic API 직접 호출 불가
+  // news.json의 데이터를 그대로 사용
+  summaryCache[pid] = '__USE_CACHED__';
 }
+
 
 function startPrefetch() {
   // Stagger prefetch requests to avoid rate limiting
@@ -1256,7 +1242,8 @@ function startPrefetch() {
     setTimeout(async () => {
       await prefetchSummary(item);
       // Mark button as ready
-      const btn = document.querySelector(`[onclick="toggleAI(${cardIdx}, event)"]`);
+      // 버튼 캐시 표시 (인덱스 기반)
+      const btn = document.querySelector(`[onclick="toggleAI(${i}, event)"]`);
       if (btn) btn.classList.add('cached');
     }, i * 800);
   });
@@ -1278,7 +1265,7 @@ function toggleAI(idx, e) {
   panel.classList.add('open');
 
   // 1순위: 캐시
-  if (summaryCache[idx] && summaryCache[idx] !== 'loading') {
+  if (summaryCache[idx] && summaryCache[idx] !== 'loading' && summaryCache[idx] !== '__USE_CACHED__') {
     bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[idx]);
     return;
   }
