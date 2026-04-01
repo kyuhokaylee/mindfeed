@@ -947,9 +947,6 @@ async function loadNews() {
     const tagCounters = {ai:0, psych:0, neuro:0, behav:0};
 
     NEWS_DATA = rawArticles.map((a, idx) => {
-      // 해시 id 대신 안전한 숫자 인덱스 id 부여
-      a.originalId = a.id;
-      a.id = 'art_' + idx;
       // 썸네일 순환 할당
       const pool = COMIC_THUMBS[a.tag] || COMIC_THUMBS['ai'];
       const tc   = tagCounters[a.tag] || 0;
@@ -1105,13 +1102,14 @@ function getTagClass(tag) {
   return map[tag] || 'tag-psych';
 }
 
-function renderCard(item) {
+function renderCard(item, nIdx) {
+  const cardIdx = (nIdx !== undefined) ? nIdx : NEWS_DATA.indexOf(item);
   const isSaved = savedIds.has(String(item.id));
   const tagClass = getTagClass(item.tag);
 
   if (item.featured) {
     return `
-    <div class="featured-card" id="card-${item.id}">
+    <div class="featured-card" id="card-idx-${cardIdx}">
       ${item.thumbnail ? item.thumbnail : ''}
       <div class="card-meta">
         <span class="tag ${tagClass}">${item.tagLabel}</span>
@@ -1122,21 +1120,21 @@ function renderCard(item) {
       ${item.titleKo ? `<div style="font-size:13px;color:var(--muted);margin:-8px 0 10px;line-height:1.4;padding-right:80px">${item.title}</div>` : ''}
       <div class="featured-summary">${item.summary}</div>
       <div class="card-footer">
-        <button class="ai-summary-btn" onclick="toggleAI('${item.id}', event)">✦ AI 요약 / Summary</button>
-        <button class="save-btn ${isSaved ? 'saved' : ''}" onclick="toggleSave('${item.id}', event)">
+        <button class="ai-summary-btn" onclick="toggleAI(${cardIdx}, event)">✦ AI 요약 / Summary</button>
+        <button class="save-btn ${isSaved ? 'saved' : ''}" onclick="toggleSave(${cardIdx}, event)">
           ${isSaved ? '★' : '☆'} ${isSaved ? '저장됨' : '저장'}
         </button>
         <a href="${item.url}" class="read-link" onclick="event.stopPropagation()">원문 →</a>
       </div>
-      <div class="ai-panel" id="ai-${item.id}">
+      <div class="ai-panel" id="ai-idx-${cardIdx}">
         <div class="ai-panel-header">✦ Claude AI 요약 / Summary</div>
-        <div class="ai-panel-body" id="ai-body-${item.id}"></div>
+        <div class="ai-panel-body" id="ai-body-idx-${cardIdx}"></div>
       </div>
     </div>`;
   }
 
   return `
-  <div class="news-card" id="card-${item.id}">
+  <div class="news-card" id="card-idx-${cardIdx}">
     ${item.thumbnail ? item.thumbnail : ''}
     <div class="card-meta">
       <span class="tag ${tagClass}">${item.tagLabel}</span>
@@ -1147,15 +1145,15 @@ function renderCard(item) {
     ${item.titleKo ? `<div style="font-size:12px;color:var(--muted);margin:-6px 0 8px;line-height:1.4">${item.title}</div>` : ''}
     <div class="card-summary">${item.summary}</div>
     <div class="card-footer">
-      <button class="ai-summary-btn" onclick="toggleAI('${item.id}', event)">✦ AI 요약 / Summary</button>
-      <button class="save-btn ${isSaved ? 'saved' : ''}" onclick="toggleSave('${item.id}', event)">
+      <button class="ai-summary-btn" onclick="toggleAI(${cardIdx}, event)">✦ AI 요약 / Summary</button>
+      <button class="save-btn ${isSaved ? 'saved' : ''}" onclick="toggleSave(${cardIdx}, event)">
         ${isSaved ? '★' : '☆'} ${isSaved ? '저장됨' : '저장'}
       </button>
       <a href="${item.url}" class="read-link" onclick="event.stopPropagation()">원문 →</a>
     </div>
-    <div class="ai-panel" id="ai-${item.id}">
+    <div class="ai-panel" id="ai-idx-${cardIdx}">
       <div class="ai-panel-header">✦ Claude AI 요약</div>
-      <div class="ai-panel-body" id="ai-body-${item.id}"></div>
+      <div class="ai-panel-body" id="ai-body-idx-${cardIdx}"></div>
     </div>
   </div>`;
 }
@@ -1180,7 +1178,7 @@ function renderFeed() {
   }
 
   countEl.textContent = `오늘의 뉴스 · ${items.length}건`;
-  container.innerHTML = items.map(renderCard).join('');
+  container.innerHTML = items.map((item, idx) => renderCard(item, NEWS_DATA.indexOf(item))).join('');
 
   document.getElementById('stat-total').textContent = NEWS_DATA.length;
   document.getElementById('stat-ai').textContent = NEWS_DATA.length;
@@ -1228,8 +1226,8 @@ function buildSummaryHTML(item, summary) {
 
 
 async function prefetchSummary(item) {
-  const pid = String(item.id);
-  if (summaryCache[pid]) return;
+  const pid = NEWS_DATA.indexOf(item);
+  if (summaryCache[pid] !== undefined) return;
   summaryCache[pid] = 'loading';
   try {
     const response = await fetch("https://api.anthropic.com/v1/messages", {
@@ -1245,9 +1243,9 @@ async function prefetchSummary(item) {
       })
     });
     const data = await response.json();
-    summaryCache[pid] = data.content?.[0]?.text || item.aiSummary;
+    summaryCache[pid] = data.content?.[0]?.text || item.aiSummary || '';
   } catch (err) {
-    summaryCache[pid] = item.aiSummary;
+    summaryCache[pid] = item.aiSummary || '';
   }
 }
 
@@ -1257,32 +1255,30 @@ function startPrefetch() {
     setTimeout(async () => {
       await prefetchSummary(item);
       // Mark button as ready
-      const btn = document.querySelector(`[onclick="toggleAI('${item.id}', event)"]`);
+      const btn = document.querySelector(`[onclick="toggleAI(${cardIdx}, event)"]`);
       if (btn) btn.classList.add('cached');
     }, i * 800);
   });
 }
 
-function toggleAI(id, e) {
+function toggleAI(idx, e) {
   e.stopPropagation();
-  const sid = String(id);
-  const panel = document.getElementById('ai-' + sid);
-  const bodyEl = document.getElementById('ai-body-' + sid);
+  const panel = document.getElementById('ai-idx-' + idx);
+  const bodyEl = document.getElementById('ai-body-idx-' + idx);
   if (!panel || !bodyEl) return;
 
-  const item = NEWS_DATA.find(i => String(i.id) === sid);
+  const item = NEWS_DATA[idx];
   if (!item) return;
 
-  // 닫기
   if (panel.classList.contains('open')) {
     panel.classList.remove('open');
     return;
   }
   panel.classList.add('open');
 
-  // 1순위: 캐시된 Claude API 요약
-  if (summaryCache[sid] && summaryCache[sid] !== 'loading') {
-    bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[sid]);
+  // 1순위: 캐시
+  if (summaryCache[idx] && summaryCache[idx] !== 'loading') {
+    bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[idx]);
     return;
   }
 
@@ -1292,50 +1288,47 @@ function toggleAI(id, e) {
     return;
   }
 
-  // 3순위: aiSummaryEn만 있으면 영어 먼저 보여주고 백그라운드에서 한국어 생성
+  // 3순위: aiSummaryEn만 있으면 영어 먼저 + 백그라운드 한국어
   if (item.aiSummaryEn || item.aiSummary) {
     const pts = (item.keyPoints || []).map(p => `<div class="key-point">${p}</div>`).join('');
     const en = (item.aiSummaryEn || item.aiSummary || '').replace(/#{1,6}\s*/g,'').trim();
     bodyEl.innerHTML = `
-      <div class="ai-loading" id="ko-load-${sid}">한국어 번역 생성 중...<span class="dots"><span>.</span><span>.</span><span>.</span></span></div>
+      <div class="ai-loading" id="ko-load-${idx}">한국어 번역 생성 중...<span class="dots"><span>.</span><span>.</span><span>.</span></span></div>
       <hr class="ai-panel-divider">
       <div class="ai-lang-label">English Summary EN</div>
       <p style="white-space:pre-line;color:#9ca8b8;line-height:1.8">${en}</p>
       ${pts ? `<div class="key-points"><div style="font-size:11px;color:var(--muted);font-family:var(--font-mono);margin-bottom:8px;">핵심 포인트 / Key Points</div>${pts}</div>` : ''}`;
     prefetchSummary(item).then(() => {
-      const cached = summaryCache[sid];
-      if (cached && cached !== 'loading') {
-        const koEl = document.getElementById('ko-load-' + sid);
+      if (summaryCache[idx] && summaryCache[idx] !== 'loading') {
+        const koEl = document.getElementById('ko-load-' + idx);
         if (koEl) {
-          const km = cached.match(/\[한국어 요약\]\s*([\s\S]*?)(?=\[English Summary\]|$)/i);
+          const km = summaryCache[idx].match(/\[한국어 요약\]\s*([\s\S]*?)(?=\[English Summary\]|$)/i);
           const koText = (km ? km[1] : '').replace(/#{1,6}\s*/g,'').trim();
           if (koText) {
             koEl.outerHTML = `<div class="ai-lang-label">한국어 요약 KO</div><p style="white-space:pre-line;line-height:1.8">${koText}</p>`;
-          } else {
-            koEl.remove();
-          }
+          } else { koEl.remove(); }
         }
       }
     });
     return;
   }
 
-  // 4순위: 아무것도 없으면 Claude API로 전체 생성
+  // 4순위: Claude API로 새로 생성
   bodyEl.innerHTML = `<div class="ai-loading">요약 생성 중...<span class="dots"><span>.</span><span>.</span><span>.</span></span></div>`;
-  const poll = setInterval(() => {
-    if (summaryCache[sid] && summaryCache[sid] !== 'loading') {
-      clearInterval(poll);
-      bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[sid]);
+  summaryCache[idx] = 'loading';
+  prefetchSummary(item).then(() => {
+    if (summaryCache[idx] && summaryCache[idx] !== 'loading') {
+      bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[idx]);
     }
-  }, 300);
-  if (!summaryCache[sid]) prefetchSummary(item);
-  setTimeout(() => { clearInterval(poll); if (bodyEl.innerHTML.includes('ai-loading')) { summaryCache[sid] = item.aiSummary || ''; bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[sid]); }}, 12000);
+  });
 }
 
 
-function toggleSave(id, e) {
+function toggleSave(idx, e) {
   e.stopPropagation();
-  const strId = String(id);
+  const item = NEWS_DATA[idx];
+  if (!item) return;
+  const strId = String(item.id);
   if (savedIds.has(strId)) {
     savedIds.delete(strId);
     showToast('스크랩에서 제거했습니다');
@@ -1346,6 +1339,7 @@ function toggleSave(id, e) {
   document.getElementById('stat-saved').textContent = savedIds.size;
   renderFeed();
 }
+
 
 function setFilter(btn, filter) {
   document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
