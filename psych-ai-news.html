@@ -1189,7 +1189,18 @@ function renderFeed() {
 
 function buildSummaryHTML(item, summary) {
   const points = (item.keyPoints || []).map(p => `<div class="key-point">${p}</div>`).join('');
-  const clean = t => (t || '').replace(/\n*---+\n*#*/g, '').replace(/#{1,6}\s*/g, '').replace(/\*\*/g, '').replace(/\n{3,}/g, '\n\n').trim();
+  const clean = t => {
+    if (!t) return '';
+    let s = t;
+    // \n\n## 또는 \n\n--- 로 끝나는 부분 제거
+    s = s.replace(/\n+#{1,6}\s*$/g, '');
+    s = s.replace(/\n+-{3,}\s*$/g, '');
+    s = s.replace(/\n*-{3,}\n*#{0,6}\s*$/g, '');
+    // 나머지 마크다운 정리
+    s = s.replace(/#{1,6}\s*/g, '').replace(/\*\*/g, '');
+    s = s.replace(/\n{3,}/g, '\n\n');
+    return s.trim();
+  };
 
   // __CACHED__: news.json에서 불러온 요약
   if (summary === '__CACHED__') {
