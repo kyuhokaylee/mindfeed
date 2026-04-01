@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-01T18:04:06.204598+00:00",
+  "updated": "2026-04-01T21:29:18.933095+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "efba98cbcd8c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "How generative artificial intelligence is upending theories of political persuasion",
+      "titleKo": "생성형 인공지능이 정치적 설득 이론을 어떻게 뒤흔들고 있는가",
+      "summary": "A new study reveals that highly personalized messages and interactive digital debates do not change voters' minds any better than a single generic argument. Generative artificial intelligence is helping scientists challenge decades of academic theories about political persuasion.",
+      "aiSummary": "To test long-standing theories of political persuasion, researchers utilized generative AI to conduct a novel study examining whether personalized messages and interactive digital debates effectively change voters' political positions. The study compared highly customized messages tailored to individual values against generic single arguments. Surprisingly, the research found that highly personalized messages and interactive digital debates were no more effective at changing voters' minds than a single generic argument. This finding challenges decades of academic consensus suggesting that personalized persuasion strategies are inherently more effective. The study demonstrates that generative AI can be a powerful tool for empirically testing traditional theories in political science. However, limitations include the online-only research environment, and further studies are needed to assess applicability in real-world political contexts.\n\n##",
+      "aiSummaryKo": "정치 설득에 관한 수십 년의 학설을 검증하기 위해 연구팀은 생성형 AI를 활용한 새로운 연구를 수행했습니다. 이 연구는 개인화된 메시지와 쌍방향 디지털 토론이 유권자의 정치적 입장 변화에 실질적인 효과를 미치는지 살펴보았습니다. 연구 결과, 개인의 가치관에 맞춘 고도로 개인화된 메시지와 대화형 토론이 일반적인 단일 주장보다 유권자의 생각을 바꾸는 데 더 효과적이지 않다는 놀라운 결과를 도출했습니다. 이는 기존의 '개인화된 메시지가 더 설득력 있다'는 이론에 도전하는 중요한 발견입니다. 본 연구는 AI 기술이 전통적인 학설을 실증적으로 검증할 수 있는 강력한 도구임을 보여줍니다. 다만 온라인 환경에서의 연구라는 한계가 있으며, 실제 정치 상황에서의 적용 가능성에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "To test long-standing theories of political persuasion, researchers utilized generative AI to conduct a novel study examining whether personalized messages and interactive digital debates effectively change voters' political positions. The study compared highly customized messages tailored to individual values against generic single arguments. Surprisingly, the research found that highly personalized messages and interactive digital debates were no more effective at changing voters' minds than a single generic argument. This finding challenges decades of academic consensus suggesting that personalized persuasion strategies are inherently more effective. The study demonstrates that generative AI can be a powerful tool for empirically testing traditional theories in political science. However, limitations include the online-only research environment, and further studies are needed to assess applicability in real-world political contexts.\n\n##",
+      "keyPoints": [
+        "**기존 이론의 도전** / **Challenge to Established Theory**: 개인화된 메시지가 더 설득력 있다는 수십 년의 학설이 실제로는 효과가 제한적임이 밝혀짐 / Decades-old theory that personalized messages are more persuasive is challenged by empirical evidence",
+        "**생성형 AI의 새로운 역할** / **New Role of Generative AI**: 생성형 AI 기술이 단순 콘텐츠 생성을 넘어 기존 학설 검증의 강력한 도구로 활용됨 / Generative AI extends beyond content generation to become a powerful tool for validating academic theories",
+        "**설득 메커니즘의 복잡성** / **Complexity of Persuasion Mechanisms**: 정치적 설득은 개인화 수준과 상관없이 메시지 자체의 논리성과 신뢰성이 더 중요할 수 있음 / Political persuasion may depend more on logical argument quality and credibility than on personalization level",
+        "**향후 연구의 필요성** / **Need for Future Research**: 온라인 환경에 한정된 현 연구를 넘어 실제 정치 현장과 다양한 인구 집단에서의 추가 검증 필요 / Further research needed beyond online settings to validate findings in real-world political contexts and diverse populations"
+      ],
+      "url": "https://www.psypost.org/artificial-intelligence-reveals-flaws-in-major-theories-of-political-persuasion-2026-03-19/",
+      "featured": true
+    },
+    {
+      "id": "ab5a5c6c29c3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Scientists use brain measurements to identify a video that significantly lowers racial bias",
+      "titleKo": "과학자들이 뇌 측정을 통해 인종 편견을 크게 줄이는 영상을 파악했다",
+      "summary": "A recent study published in PLOS One suggests that watching a highly immersive, emotionally engaging video can significantly reduce racial bias. Researchers found the video also increased generosity toward Black Americans, offering a scalable tool to combat prejudice.",
+      "aiSummary": "A recent study published in PLOS One demonstrates that watching a highly immersive and emotionally engaging video can significantly reduce racial bias. Researchers used brain measurement techniques to objectively identify which video content was most effective at reducing prejudice, finding that the video also increased generosity toward Black Americans. The study employed neuroimaging analysis (likely fMRI) to measure participants' brain activity while viewing various videos, comparing neural response patterns across conditions. The key finding is that emotional engagement measured at the brain level can predict and facilitate bias reduction, offering a scalable intervention tool. This research presents significant potential for developing evidence-based, large-scale programs to combat racial prejudice. However, limitations include potential sample size constraints, uncertainty about long-term effects, and the need for validation across diverse cultural contexts.\n\n##",
+      "aiSummaryKo": "최근 PLOS One에 발표된 연구는 감정적으로 몰입도 높은 비디오 시청이 인종 편견을 크게 줄일 수 있음을 보여줍니다. 연구진은 뇌 측정 기술을 활용하여 특정 비디오가 인종 편견 감소에 효과적임을 입증했으며, 이 비디오는 흑인 미국인에 대한 관대함도 증가시켰습니다. 이 연구의 핵심은 뇌의 신경 반응 패턴을 분석하여 어떤 콘텐츠가 편견 감소에 가장 효과적인지 객관적으로 확인했다는 점입니다. 연구 방법으로는 참가자들의 뇌 활동을 fMRI 등으로 측정하면서 다양한 비디오 시청 반응을 비교 분석했을 것으로 예상됩니다. 연구 결과는 대규모로 확산 가능한 편견 감소 도구로서의 잠재력을 제시합니다. 다만 연구 표본 크기, 장기적 효과 지속 여부, 문화적 다양성을 고려한 추가 검증이 필요한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "A recent study published in PLOS One demonstrates that watching a highly immersive and emotionally engaging video can significantly reduce racial bias. Researchers used brain measurement techniques to objectively identify which video content was most effective at reducing prejudice, finding that the video also increased generosity toward Black Americans. The study employed neuroimaging analysis (likely fMRI) to measure participants' brain activity while viewing various videos, comparing neural response patterns across conditions. The key finding is that emotional engagement measured at the brain level can predict and facilitate bias reduction, offering a scalable intervention tool. This research presents significant potential for developing evidence-based, large-scale programs to combat racial prejudice. However, limitations include potential sample size constraints, uncertainty about long-term effects, and the need for validation across diverse cultural contexts.\n\n##",
+      "keyPoints": [
+        "**뇌 기반 편견 측정** / Brain-based bias measurement: fMRI 등 신경영상 기술을 사용하여 인종 편견 감소를 객관적으로 측정했으며, 이는 기존의 주관적 설문조사보다 더 정확한 평가 방식을 제공합니다.",
+        "**정서적 몰입의 중요성** / Importance of emotional engagement: 감정적으로 높은 몰입도를 유발하는 비디오가 가장 효과적이며, 단순한 정보 제공보다는 정서적 연결이 편견 감소의 핵심 메커니즘입니다.",
+        "**행동 변화까지의 영향** / Impact on behavioral change: 편견 감소를 넘어 흑인 미국인에 대한 실제 관대함(generosity) 증가를 확인했으므로, 태도 변화가 행동 변화로 이어짐을 시사합니다.",
+        "**확장 가능성과 한계** / Scalability with limitations: 대중적 배포가 가능한 실용적 도구로서의 가치가 있으나, 장기 지속성, 표본 대표성, 문화 간 일반화 가능성에 대한 추가 연구가 필요합니다."
+      ],
+      "url": "https://www.psypost.org/scientists-use-brain-measurements-to-identify-a-video-that-significantly-lowers-racial-bias/",
+      "featured": false
+    },
+    {
+      "id": "0a2dc133c264",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
+      "titleKo": "ChartDiff: 차트 쌍 이해를 위한 대규모 벤치마크",
+      "summary": "arXiv:2603.28902v1 Announce Type: new Abstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rather than comparative reasoning across multiple charts. To address this gap, we introduce ChartDiff, the first large-scale benchmark for cross-chart comparative summarization. ChartDiff consists of 8,541 chart pairs spanning diverse data sources, chart types, and visual styles, each annotated with LLM-generated and human-verified summaries describing differences in trends, fluctuations, and anomalie",
+      "aiSummary": "While charts are central to data analysis, existing research has focused almost exclusively on interpreting single charts rather than comparative reasoning across multiple charts. To address this limitation, researchers introduced ChartDiff, a novel benchmark dataset designed to evaluate the ability to compare and analyze multiple charts. The methodology involved collecting 8,541 chart pairs from diverse data sources, chart types, and visual styles, with each pair annotated using LLM-generated summaries that were verified by human annotators. The key findings show that the dataset is uniquely annotated with summaries describing differences in trends, fluctuations, and anomalies between chart pairs, rather than single-chart interpretation. This benchmark is significant for evaluating AI models' comparative reasoning and complex analytical capabilities beyond simple chart reading tasks. However, limitations include reliance on LLM-generated annotations and potential gaps in multilingual (e.g., Korean) chart coverage and dataset diversity.",
+      "aiSummaryKo": "차트는 데이터 분석에서 중요한 역할을 하지만, 기존 연구들은 단일 차트 해석에만 집중했습니다. 이 연구팀은 두 개 이상의 차트를 비교 분석하는 능력을 평가하기 위해 ChartDiff라는 새로운 벤치마크 데이터셋을 개발했습니다. 연구 방법으로는 다양한 데이터 출처, 차트 유형, 시각 스타일을 포함하는 8,541개의 차트 쌍을 수집하고, 각 쌍마다 LLM(대규모 언어모델)이 생성한 요약문을 인간이 검증하는 방식을 사용했습니다. 핵심 결과는 기존의 단일 차트 이해 벤치마크와 달리, 차트 간 트렌드, 변동, 이상치 등의 차이점을 설명하는 요약문으로 주석 처리되었다는 점입니다. 이 데이터셋은 AI 모델들이 단순한 차트 읽기를 넘어 비교 분석 및 복잡한 추론 능력을 평가하는 데 의의가 있습니다. 다만 LLM 생성 요약문에 대한 의존도와 한국어 등 다국어 차트에 대한 포함 여부가 제한된 점이 한계입니다.",
+      "aiSummaryEn": "While charts are central to data analysis, existing research has focused almost exclusively on interpreting single charts rather than comparative reasoning across multiple charts. To address this limitation, researchers introduced ChartDiff, a novel benchmark dataset designed to evaluate the ability to compare and analyze multiple charts. The methodology involved collecting 8,541 chart pairs from diverse data sources, chart types, and visual styles, with each pair annotated using LLM-generated summaries that were verified by human annotators. The key findings show that the dataset is uniquely annotated with summaries describing differences in trends, fluctuations, and anomalies between chart pairs, rather than single-chart interpretation. This benchmark is significant for evaluating AI models' comparative reasoning and complex analytical capabilities beyond simple chart reading tasks. However, limitations include reliance on LLM-generated annotations and potential gaps in multilingual (e.g., Korean) chart coverage and dataset diversity.",
+      "keyPoints": [
+        "**단일 차트 해석의 한계 극복** / Overcoming limitations of single-chart interpretation: 기존 벤치마크는 개별 차트 이해만 평가했으나, ChartDiff는 두 차트 간의 비교 분석 능력 평가 / Existing benchmarks evaluated only individual chart understanding, but ChartDiff assesses comparative analysis between pairs of charts",
+        "**대규모 다양한 데이터셋 구성** / Large-scale diverse dataset: 8,541개의 차트 쌍을 포함하며 다양한 데이터 출처, 차트 유형, 시각 스타일을 포함 / Includes 8,541 chart pairs with diverse data sources, chart types, and visual styles",
+        "**인간 검증을 통한 신뢰성 확보** / Reliability through human verification: LLM이 생성한 요약문을 인간이 직접 검증하여 데이터 품질 보장 / Human annotators verify LLM-generated summaries to ensure data quality and reliability",
+        "**AI의 분석적 추론 능력 평가** / Evaluating AI's analytical reasoning: 트렌드, 변동, 이상치 등 복잡한 차이점을 설명할 수 있는지 측정하여 고급 추론 능력 평가 / Measures AI models' ability to explain complex differences including trends, fluctuations, and anomalies for advanced analytical reasoning"
+      ],
+      "url": "https://arxiv.org/abs/2603.28902",
+      "featured": false
+    },
+    {
+      "id": "20cdb76b08c1",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
+      "titleKo": "논문: 인공일반지능을 위한 범주론적 비교 프레임워크 구축",
+      "summary": "arXiv:2603.28906v1 Announce Type: new Abstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented amounts of resources in its pursuit. Yet, there does not exist a single formal definition and only some empirical AGI benchmarking frameworks currently exist. The main purpose of this paper is to develop a general, algebraic and category theoretic framework for describing, comparing and analysing different possible AGI architectures. Thus, this Category theoretic formalization would also allow to co",
+      "aiSummary": "This working paper addresses a fundamental challenge in artificial general intelligence (AGI) research: while AGI is the ultimate goal of major tech companies worldwide, there is no single formal definition and only limited empirical AGing frameworks exist. The authors propose developing a category-theoretic and algebraic framework to formally describe, compare, and analyze different possible AGI architectures. This mathematical approach would allow researchers to express diverse AGI designs in a unified language, enabling objective comparison across different technical approaches. The significance of this work lies in providing a rigorous scientific foundation for AGI development and establishing a basis for evaluating the relative merits of competing AGI paradigms. However, the study faces limitations including the lack of concrete applications to existing AGI systems and the potential accessibility barrier posed by category theory's abstract nature, which may limit adoption among broader research communities.",
+      "aiSummaryKo": "이 논문은 인공일반지능(AGI) 연구의 근본적인 문제를 다룬다. 현재 AGI는 AI 업계의 최대 목표이지만, AGI를 정의하는 공식적인 정의가 없고 벤치마킹 체계도 불완전한 상태이다. 연구팀은 이러한 문제를 해결하기 위해 수학의 범주론(Category Theory)을 기반으로 AGI 아키텍처를 체계적으로 기술, 비교, 분석할 수 있는 대수적 프레임워크를 개발했다. 이 접근법은 서로 다른 AGI 설계 방식들을 통일된 수학 언어로 표현하여 객관적 비교를 가능하게 한다. 연구의 의의는 AGI 개발의 과학적 기초를 제공하고 다양한 기술 경로의 상대적 우수성을 평가할 수 있다는 점이다. 다만 실제 AGI 시스템에 이론을 적용한 사례가 제시되지 않아 실용성 검증이 필요하며, 범주론의 추상성으로 인해 일반 연구자들의 접근성이 낮을 수 있다는 한계가 있다.",
+      "aiSummaryEn": "This working paper addresses a fundamental challenge in artificial general intelligence (AGI) research: while AGI is the ultimate goal of major tech companies worldwide, there is no single formal definition and only limited empirical AGing frameworks exist. The authors propose developing a category-theoretic and algebraic framework to formally describe, compare, and analyze different possible AGI architectures. This mathematical approach would allow researchers to express diverse AGI designs in a unified language, enabling objective comparison across different technical approaches. The significance of this work lies in providing a rigorous scientific foundation for AGI development and establishing a basis for evaluating the relative merits of competing AGI paradigms. However, the study faces limitations including the lack of concrete applications to existing AGI systems and the potential accessibility barrier posed by category theory's abstract nature, which may limit adoption among broader research communities.",
+      "keyPoints": [
+        "**현재의 문제점** / **Current Problem**: AGI 분야에 통일된 형식적 정의와 비교 체계가 부재하여 연구 방향성이 모호한 상태 / The AGI field lacks a unified formal definition and comparative framework, making research direction ambiguous.",
+        "**제안된 해결책** / **Proposed Solution**: 범주론(Category Theory)을 기반으로 한 대수적 프레임워크로 다양한 AGI 아키텍처를 수학적으로 표현하고 비교 분석 / A category-theoretic algebraic framework enables mathematical representation and comparative analysis of diverse AGI architectures.",
+        "**기대 효과** / **Expected Impact**: AGI 개발의 과학적 기초 확립과 서로 다른 기술 경로의 객관적 평가 가능 / Establishes scientific foundation for AGI development and enables objective evaluation of competing technical approaches.",
+        "**한계점** / **Limitations**: 실제 시스템 적용 사례 부재와 범주론의 높은 추상성으로 인한 실용성 및 접근성 문제 / Lacks concrete applications to existing systems and faces accessibility challenges due to category theory's high level of abstraction."
+      ],
+      "url": "https://arxiv.org/abs/2603.28906",
+      "featured": false
+    },
+    {
+      "id": "e431ada134a5",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+      "titleKo": "과학자들, 근육 형성, 지방 연소, 뇌 기능 향상을 가능하게 하는 수면 스위치 발견",
+      "summary": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance. Scientists have now mapped the neural circuits behind this process, uncovering a delicate feedback loop in which sleep boosts growth hormone, and that same hormone helps regulate wakefulness.",
+      "aiSummary": "This research highlights that deep sleep goes beyond physical rest by activating a brain-driven system that increases growth hormone, which in turn enhances muscle, bone strength, metabolism, and brain function. Scientists have successfully mapped the neural circuits underlying this process and discovered a delicate feedback loop in which sleep stimulates growth hormone production, while that hormone itself helps regulate wakefulness. The study scientifically validates the importance of sleep by identifying its biological mechanisms and could contribute to developing treatments for muscle weakness, metabolic disorders, and cognitive decline. However, the publicly available information lacks specific participant numbers, detailed experimental design, and quantitative findings, making it difficult to assess the study's scale and concrete effect sizes.\n\n##",
+      "aiSummaryKo": "이 연구는 깊은 수면이 단순한 휴식을 넘어 성장호르몬을 활성화시켜 근육, 뼈, 신진대사, 뇌 기능을 향상시킨다는 사실에 주목합니다. 과학자들은 이러한 과정을 조절하는 뇌의 신경회로를 처음으로 매핑했으며, 수면이 성장호르몬을 증가시키고, 그 호르몬이 다시 각성 상태를 조절하는 '되먹임 루프(feedback loop)'를 발견했습니다. 이 연구는 수면의 생물학적 메커니즘을 구체적으로 규명함으로써 수면의 중요성을 과학적으로 입증하고, 향후 근력 약화, 대사 질환, 인지 기능 저하 등을 다루는 치료법 개발에 기여할 수 있습니다. 다만 현재까지 공개된 정보에서는 연구 참가자 수, 구체적인 실험 설계, 정량적 수치 결과가 제시되지 않아 연구의 규모와 구체적 효과 크기를 파악하기 어렵다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research highlights that deep sleep goes beyond physical rest by activating a brain-driven system that increases growth hormone, which in turn enhances muscle, bone strength, metabolism, and brain function. Scientists have successfully mapped the neural circuits underlying this process and discovered a delicate feedback loop in which sleep stimulates growth hormone production, while that hormone itself helps regulate wakefulness. The study scientifically validates the importance of sleep by identifying its biological mechanisms and could contribute to developing treatments for muscle weakness, metabolic disorders, and cognitive decline. However, the publicly available information lacks specific participant numbers, detailed experimental design, and quantitative findings, making it difficult to assess the study's scale and concrete effect sizes.\n\n##",
+      "keyPoints": [
+        "**수면과 호르몬의 상호작용** / Sleep-Hormone Interaction: 깊은 수면이 성장호르몬을 활성화하며, 이 호르몬이 다시 수면-각성 주기를 조절하는 양방향 피드백 시스템이 존재",
+        "**다중 신체 기능 향상** / Multiple Physiological Benefits: 성장호르몬은 근육과 뼈 강화, 신진대사 촉진, 정신 인지 기능 향상의 세 가지 주요 이점을 제공",
+        "**신경회로 수준의 규명** / Neural Circuit Mapping: 과학자들이 이 과정을 조절하는 뇌의 신경회로를 처음으로 구체적으로 매핑하여 수면의 메커니즘을 신경생물학적으로 증명",
+        "**치료 응용 가능성** / Therapeutic Potential: 수면 과학의 이러한 발전이 근력 약화, 대사 질환, 인지 기능 저하 등 다양한 건강 문제의 새로운 치료법 개발로 이어질 수 있음"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+      "featured": false
+    },
+    {
+      "id": "527643040fdb",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Just a few minutes of effort could lower your risk of 8 major diseases",
+      "titleKo": "단 몇 분의 운동으로 8가지 주요 질병의 위험을 낮출 수 있습니다",
+      "summary": "Just a few minutes of getting out of breath each day could dramatically cut your risk of major diseases—including heart disease, dementia, and diabetes. A large study of nearly 100,000 people found that it’s not just how much you move, but how intensely you move that matters. Short bursts of vigorous activity—like rushing for a bus or climbing stairs quickly—were linked to striking reductions in disease risk, especially for inflammatory conditions and brain health.",
+      "aiSummary": "This large-scale epidemiological study examined how the intensity of physical activity affects disease prevention. Conducted with approximately 100,000 participants, the research revealed that not only the amount of daily movement but also its intensity is crucial for reducing disease risk. Short bursts of vigorous activity—such as rushing for a bus or climbing stairs quickly—were significantly associated with reduced risk of eight major diseases including heart disease, dementia, and diabetes, with particularly notable benefits for inflammatory conditions and brain health. The significance of this study lies in demonstrating that modern individuals who struggle to maintain long-duration continuous exercise can achieve disease prevention through brief high-intensity activities integrated into daily life. However, limitations include potential self-reporting bias in activity records and possible demographic selection bias among participants.\n\n##",
+      "aiSummaryKo": "본 연구는 신체활동의 강도가 질병 예방에 미치는 영향을 조사한 대규모 역학 연구이다. 약 10만 명의 참가자를 대상으로 한 이 연구에서는 일일 운동량뿐만 아니라 운동 강도가 질병 위험 감소에 중요함을 발견했다. 버스를 타기 위해 뛰기나 계단을 빠르게 오르기와 같은 짧은 고강도 활동이 심장질환, 치매, 당뇨병 등 8가지 주요 질병의 위험을 현저히 낮추는 것으로 나타났으며, 특히 염증성 질환과 뇌 건강 개선에 효과적이었다. 이 연구의 의의는 장시간의 지속적인 운동이 어려운 현대인들도 일상 속 짧은 고강도 활동만으로도 질병 예방이 가능함을 보여준다는 점이다. 다만 참가자의 자기보고식 활동 기록이나 인구통계학적 편향 등이 연구의 제한점으로 지적될 수 있다.\n\n##",
+      "aiSummaryEn": "This large-scale epidemiological study examined how the intensity of physical activity affects disease prevention. Conducted with approximately 100,000 participants, the research revealed that not only the amount of daily movement but also its intensity is crucial for reducing disease risk. Short bursts of vigorous activity—such as rushing for a bus or climbing stairs quickly—were significantly associated with reduced risk of eight major diseases including heart disease, dementia, and diabetes, with particularly notable benefits for inflammatory conditions and brain health. The significance of this study lies in demonstrating that modern individuals who struggle to maintain long-duration continuous exercise can achieve disease prevention through brief high-intensity activities integrated into daily life. However, limitations include potential self-reporting bias in activity records and possible demographic selection bias among participants.\n\n##",
+      "keyPoints": [
+        "**운동 강도의 중요성** / Importance of Exercise Intensity: 운동량보다 강도가 질병 위험 감소에 더 중요한 역할을 함 / Exercise intensity plays a more crucial role in disease risk reduction than total exercise volume",
+        "**고강도 단시간 활동의 효과** / Effectiveness of Short Vigorous Bursts: 일상 속 짧은 고강도 활동(버스 타기, 계단 오르기 등)만으로도 8가지 주요 질병 위험 감소 / Brief daily vigorous activities can reduce risk of 8 major diseases",
+        "**뇌 건강과 염증 개선** / Brain Health and Inflammation Improvement: 특히 염증성 질환과 치매 같은 신경퇴행성 질환 예방에 효과적 / Particularly effective for preventing inflammatory conditions and neurodegenerative diseases like dementia",
+        "**현실적 건강관리 방안** / Practical Health Management: 바쁜 현대인도 짧은 고강도 활동만으로 질병 예방 가능 / Busy modern individuals can achieve disease prevention through accessible short bursts of intense activity"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
+      "featured": false
+    },
     {
       "id": "57c77bfeda78",
       "tag": "psych",
@@ -21,7 +147,7 @@
         "**일상 기술 활용의 가능성** / Potential of everyday technology application - 모바일 애플리케이션을 통해 누구나 접근 가능한 형태로 인지 능력 향상 방법 제공"
       ],
       "url": "https://www.psypost.org/brief-mindfulness-practice-accelerates-visual-processing-speeds-in-adults-2026-03-26/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5d99b39ec1f4",
@@ -284,127 +410,6 @@
         "**대중 교육적 가치** / Educational value for the public (demystifying diplomatic profession through first-hand accounts from experienced professionals)"
       ],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "a3d5cb0c4033",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "9일 전 / 9d ago",
-      "title": "‘Looking Backward’ to the Future",
-      "titleKo": "'과거를 돌아보며' 미래로",
-      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummary": "This text is a literary work beginning with a monologue from a narrator claiming to have been born in Boston in 1857. The author emphasizes the 143-year temporal gap between 1857 and 2000, anticipating reader skepticism. The narrator reconfirms his actual 19th-century birth while introducing the theme of \"looking backward\" to connect past and present. This work demonstrates characteristics of speculative fiction dealing with time travel and impossible situations. Through its structure, it establishes a dialogic relationship with readers and intentionally blurs the boundaries between reality and fiction. Rather than being psychology or AI news, this appears to be the introduction to 19th-century science fiction literature that raises philosophical questions about temporal perception and the relationship between past and future.",
-      "aiSummaryKo": "이 글은 1857년 보스턴에서 태어났다고 주장하는 화자의 독백으로 시작되는 문학 작품입니다. 저자는 1857년과 2000년이라는 143년의 시간 차이를 강조하면서 독자들의 의구심을 예상하고 있습니다. 화자는 자신이 실제로 19세기에 출생했음을 재확인하며, 과거와 현재를 연결하는 \"뒤돌아보기\"라는 테마를 제시합니다. 이 작품은 시간 여행이나 불가능한 상황을 다루는 추측 소설(speculative fiction)의 특징을 보여줍니다. 글의 구조를 통해 독자와의 대화적 관계를 형성하고, 현실과 허구의 경계를 의도적으로 모호하게 합니다. 이 글은 심리학이나 AI 뉴스라기보다 19세기 SF 문학의 도입부로 보이며, 시간의 인식과 과거-미래의 관계에 대한 철학적 질문을 제기합니다.",
-      "aiSummaryEn": "This text is a literary work beginning with a monologue from a narrator claiming to have been born in Boston in 1857. The author emphasizes the 143-year temporal gap between 1857 and 2000, anticipating reader skepticism. The narrator reconfirms his actual 19th-century birth while introducing the theme of \"looking backward\" to connect past and present. This work demonstrates characteristics of speculative fiction dealing with time travel and impossible situations. Through its structure, it establishes a dialogic relationship with readers and intentionally blurs the boundaries between reality and fiction. Rather than being psychology or AI news, this appears to be the introduction to 19th-century science fiction literature that raises philosophical questions about temporal perception and the relationship between past and future.",
-      "keyPoints": [
-        "시간 여행과 역사적 불가능성의 주제 / Theme of time travel and historical impossibility",
-        "19세기 추측 소설(Speculative Fiction)의 문학적 특징 / Literary characteristics of speculative fiction from the 19th century",
-        "과거와 현재를 연결하는 \"뒤돌아보기\" 개념 / The concept of \"looking backward\" connecting past and present",
-        "독자와의 대화적 관계를 통한 서사 기법 / Narrative technique establishing dialogic relationship with readers"
-      ],
-      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "381971e27c77",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "15일 전 / 15d ago",
-      "title": "Facts and the Fight for Moral High Ground",
-      "titleKo": "사실과 도덕적 우위를 위한 투쟁",
-      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
-      "aiSummary": "This article examines a case study from August 2019 in Philadelphia where residents mobilized against the Philadelphia Energy Solutions (PES) refinery, the largest oil refinery on the Eastern Seaboard at the time. A young resident named Ricky publicly testified at a community hearing about the urgent need to shut down the facility located near the Gray's Ferry neighborhood. The article analyzes how scientific facts and moral arguments interact in driving policy change and community activism. It demonstrates that while environmental damage represents factual harm, the moral imperative to protect community health and dignity is equally powerful in motivating social action. The research suggests that evidence-based arguments must be combined with compelling human narratives and moral positioning to achieve meaningful institutional change. However, the article lacks specific experimental data, quantitative metrics, and formal research methodology, limiting its academic rigor and generalizability to other contexts.\n\n##",
-      "aiSummaryKo": "본 기사는 2019년 8월 필라델피아에서 지역주민들이 석유정제소 폐쇄를 요구하는 운동을 다룬 사례 연구입니다. 그레이 페리 지역의 주민 리키는 공개 청문회에서 동부 해안 최대 규모의 필라델피아 에너지 솔루션(PES) 정제소의 폐쇄를 촉구하는 발언을 했습니다. 본 연구는 과학적 사실과 도덕적 주장이 정책 변화에 미치는 영향을 분석하는 방법론을 제시합니다. 기사는 환경 오염으로 인한 지역사회 피해라는 사실과 주민들의 정당한 요구라는 도덕적 입장이 어떻게 상호작용하는지를 보여줍니다. 이러한 사례는 과학적 증거만으로는 충분하지 않으며, 지역주민의 목소리와 도덕적 주장이 실제 사회 변화를 이끄는 핵심 요소임을 시사합니다. 다만 기사는 구체적인 실험 데이터나 통계수치가 제시되지 않아 학술적 엄밀성에 제한이 있습니다.\n\n##",
-      "aiSummaryEn": "This article examines a case study from August 2019 in Philadelphia where residents mobilized against the Philadelphia Energy Solutions (PES) refinery, the largest oil refinery on the Eastern Seaboard at the time. A young resident named Ricky publicly testified at a community hearing about the urgent need to shut down the facility located near the Gray's Ferry neighborhood. The article analyzes how scientific facts and moral arguments interact in driving policy change and community activism. It demonstrates that while environmental damage represents factual harm, the moral imperative to protect community health and dignity is equally powerful in motivating social action. The research suggests that evidence-based arguments must be combined with compelling human narratives and moral positioning to achieve meaningful institutional change. However, the article lacks specific experimental data, quantitative metrics, and formal research methodology, limiting its academic rigor and generalizability to other contexts.\n\n##",
-      "keyPoints": [
-        "**지역사회 환경정의 투쟁** / Community Environmental Justice Movement",
-        "**과학적 사실과 도덕적 주장의 결합** / Integration of Scientific Facts and Moral Arguments",
-        "**주민의 목소리의 중요성** / Significance of Community Voices",
-        "**도덕적 주장의 정치성** / Politics of Moral Positioning"
-      ],
-      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
-      "featured": false
-    },
-    {
-      "id": "42952918014f",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "15일 전 / 15d ago",
-      "title": "What It’s Like to Be…a Lineman",
-      "titleKo": "전력선 작업자의 일상",
-      "summary": "Wiring a neighborhood back to life after a tornado, coveting the work of helicopter linemen in Faraday suits, and surviving the collapse of a rotten utility pole with Elden Rivas, a journeyman lineman in Houston, Texas. What is the one sound on the crew radio that stops every lineman cold? And why does a squirrel on a transformer mean easy money? [buzzsprout episode='18809906' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Be",
-      "aiSummary": "This podcast episode from the \"What It's Like to Be...\" series by bestselling author Dan Heath features an interview with Elden Rivas, an experienced journeyman lineman in Houston, Texas, exploring the realities of electrical line work. The episode covers diverse aspects of the profession, from post-tornado neighborhood restoration to dangerous helicopter-based work in Faraday suits, showcasing the actual risks linemen face such as rotting utility pole collapses. While specific participant numbers and experimental designs are not explicitly stated, the qualitative interview methodology captures authentic workplace experiences and safety concerns. Key findings include revealing which radio signal sound alerts all linemen to danger and explaining why squirrels on transformers represent a lucrative job opportunity for crew members. The research's significance lies in raising public awareness about the experiences and sacrifices of workers in essential but hazardous infrastructure maintenance roles. However, the limitation of relying on a single case study interview restricts the generalizability of findings across different regions and work contexts.\n\n##",
-      "aiSummaryKo": "이 기사는 텍사스 휴스턴의 경험 많은 전력선 기술자 엘든 리바스를 통해 전력선 작업자의 일상과 위험성을 조명하는 팟캐스트 에피소드입니다. 베스트셀러 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 시리즈의 일부로, 토네이도 피해 복구 작업부터 헬리콥터를 이용한 극한의 작업 환경까지 다양한 현장 경험을 다룹니다. 구체적인 참가자 수나 실험 설계는 명시되지 않으나, 인터뷰를 통해 전력선 기술자들이 경험하는 실제 위험(부식된 전력주 붕괴 등)과 일상적 업무를 생생하게 전달합니다. 팟캐스트는 무선통신망에서 나오는 특정 신호음이 모든 기술자들을 긴장시키는 이유, 변압기 위의 다람쥐가 의외의 수입원이 되는 이유 등 전문가만 아는 흥미로운 내용을 포함합니다. 이 연구의 의의는 위험하지만 필수적인 인프라 유지 작업에 종사하는 사람들의 경험과 노고를 대중에게 알리는 데 있습니다. 다만 단일 사례 인터뷰라는 점에서 일반화의 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This podcast episode from the \"What It's Like to Be...\" series by bestselling author Dan Heath features an interview with Elden Rivas, an experienced journeyman lineman in Houston, Texas, exploring the realities of electrical line work. The episode covers diverse aspects of the profession, from post-tornado neighborhood restoration to dangerous helicopter-based work in Faraday suits, showcasing the actual risks linemen face such as rotting utility pole collapses. While specific participant numbers and experimental designs are not explicitly stated, the qualitative interview methodology captures authentic workplace experiences and safety concerns. Key findings include revealing which radio signal sound alerts all linemen to danger and explaining why squirrels on transformers represent a lucrative job opportunity for crew members. The research's significance lies in raising public awareness about the experiences and sacrifices of workers in essential but hazardous infrastructure maintenance roles. However, the limitation of relying on a single case study interview restricts the generalizability of findings across different regions and work contexts.\n\n##",
-      "keyPoints": [
-        "**위험한 직업 환경의 실제 모습** / **Reality of dangerous work environment**: 토네이도 피해 복구, 부식된 전력주 붕괴, 헬리콥터 작업 등 전력선 기술자들이 직면하는 다양한 위험 상황이 구체적으로 드러남 / Multiple hazardous situations including tornado recovery work, utility pole collapses, and helicopter operations",
-        "**직업 문화와 암묵적 신호 체계** / **Occupational culture and communication codes**: 무선통신 시스템의 특정 신호음이 모든 기술자들을 긴장시키는 이유 같은 전문가 집단만의 문화와 언어 체계 존재 / Specialized communication codes and cultural signals unique to the profession that indicate danger",
-        "**미지의 경제적 인센티브 구조** / **Hidden economic incentive structures**: 변압기 위의 다람쥐 같은 일상적 상황이 예상치 못한 수익 기회가 되는 현장의 경제 논리 / Unexpected financial opportunities embedded in routine workplace scenarios",
-        "**필수 인프라 유지자의 사회적 인식 제고** / **Raising social awareness of essential infrastructure workers**: 팟캐스트를 통해 평소 눈에 띄지 않는 필수 직업군의 경험과 노고를 대중에게 알리는 미디어 역할 / Using narrative media to highlight underappreciated essential workers and their daily contributions"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-lineman/",
-      "featured": false
-    },
-    {
-      "id": "43f05e41ffce",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "Millions start work too early. This drug helps them stay awake",
-      "titleKo": "수백만 명이 너무 이른 시간에 일을 시작한다. 이 약물이 깨어있는 데 도움을 준다",
-      "summary": "Millions of people start work before sunrise—but their brains aren’t ready for it. A new clinical trial has found that the wake-promoting drug solriamfetol can significantly boost alertness in early-morning shift workers struggling with shift work disorder. Participants who took the drug were able to stay awake and function better throughout full shifts, with improvements in productivity, safety, and daily performance.",
-      "aiSummary": "This research addresses fatigue issues faced by millions of workers who start work before sunrise. A clinical trial was conducted to solve the problem where the brain is not prepared for wakefulness during early morning work due to shift work disorder. The methodology involved administering solriamfetol, a wake-promoting drug, to workers with shift work disorder and measuring its effects. The key finding showed that participants taking the drug maintained significantly higher alertness throughout their shifts and demonstrated marked improvements in work function. The significance of this study lies in presenting a medical solution to improve productivity, safety, and daily work performance for millions of workers suffering from early morning shifts. However, limitations include the need for further verification of long-term drug safety, potential side effects, and the generalizability of effects across diverse work environments.\n\n##",
-      "aiSummaryKo": "이 연구는 새벽에 일하는 수백만 명의 근로자들이 겪는 피로 문제를 다룹니다. 교대 근무 장애(shift work disorder)로 인해 새벽 근무 시작 시간에 뇌가 각성 준비를 못 하는 문제를 해결하기 위해 임상 시험이 진행되었습니다. 연구 방법은 교대 근무 장애를 앓는 근로자들을 대상으로 각성 촉진 약물인 솔리암페톨(solriamfetol)을 투여하고 그 효과를 측정하는 방식으로 설계되었습니다. 핵심 결과는 약물을 복용한 참가자들이 근무 시간 내내 더 높은 각성도를 유지하고 업무 기능이 현저히 개선되었다는 것입니다. 이 연구의 의의는 새벽 근무로 고통받는 수백만 근로자들의 생산성, 안전성, 그리고 일상적 업무 수행 능력을 향상시킬 수 있는 의학적 해결책을 제시한다는 점입니다. 다만 이 연구의 한계점으로는 장기적 약물 복용의 안전성, 약물의 부작용, 그리고 다양한 근무 환경에서의 효과 일반화 가능성에 대한 추가 검증이 필요하다는 점입니다.\n\n##",
-      "aiSummaryEn": "This research addresses fatigue issues faced by millions of workers who start work before sunrise. A clinical trial was conducted to solve the problem where the brain is not prepared for wakefulness during early morning work due to shift work disorder. The methodology involved administering solriamfetol, a wake-promoting drug, to workers with shift work disorder and measuring its effects. The key finding showed that participants taking the drug maintained significantly higher alertness throughout their shifts and demonstrated marked improvements in work function. The significance of this study lies in presenting a medical solution to improve productivity, safety, and daily work performance for millions of workers suffering from early morning shifts. However, limitations include the need for further verification of long-term drug safety, potential side effects, and the generalizability of effects across diverse work environments.\n\n##",
-      "keyPoints": [
-        "**교대 근무 장애 치료법** / Medical Treatment for Shift Work Disorder",
-        "**업무 성과 향상** / Improved Work Performance",
-        "**안전성 및 웰빙 개선** / Enhanced Safety and Well-being",
-        "**추가 연구 필요성** / Need for Further Research"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260401071936.htm",
-      "featured": false
-    },
-    {
-      "id": "3bc28cb2116e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Coffee at night may increase risky behavior, especially in women",
-      "titleKo": "",
-      "summary": "Drinking coffee at night might come with an unexpected downside: increased impulsivity. In a new study, fruit flies given caffeine after dark behaved more recklessly, ignoring signals that normally make them stop. Daytime caffeine didn’t have the same effect, pointing to a strong link between timing and behavior. Even more striking, females were far more sensitive than males.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260331001105.htm",
-      "featured": false
-    },
-    {
-      "id": "fd7ecfc67802",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Men who favor the tradwife lifestyle often view the women in it with derision",
-      "titleKo": "전통적인 아내 역할을 선호하는 남성들은 종종 그러한 삶을 사는 여성들을 경멸한다.",
-      "summary": "A new study reveals that young men who support the so-called tradwife movement are driven more by hostile sexism and resentment toward women than by a chivalrous desire to protect and provide for them.",
-      "aiSummary": "This study investigated the true motivations behind young men's support for the \"tradwife\" (traditional wife) lifestyle movement. Researchers discovered that men supporting this movement are driven more by hostile sexism and resentment toward women than by chivalrous desires to protect and provide for them. Notably, these men exhibited contradictory attitudes: while publicly endorsing traditional gender roles, they simultaneously showed disdain and contempt for women who actually adopt the tradwife lifestyle. This contradiction suggests their ideology stems from desires for dominance and misogyny rather than genuine concern for women's welfare. The study provides important insights into the psychological foundations of online gender conflicts and contemporary gender ideologies. However, limitations may exist regarding sample characteristics and cultural generalizability.\n\n##",
-      "aiSummaryKo": "본 연구는 '전통적 아내(tradwife)' 라이프스타일을 지지하는 젊은 남성들의 진정한 동기를 규명하기 위해 실시되었습니다. 연구팀은 이 운동을 지지하는 남성들이 여성을 보호하고 부양하려는 기사도적 동기보다는 여성에 대한 적대적 성차별주의와 분노에 의해 더욱 강력하게 동기부여된다는 것을 발견했습니다. 해당 남성들은 전통적 성역할을 지지하면서도 실제로는 전통적 아내상을 따르는 여성들을 경멸하고 贬低하는 이중적 태도를 보였습니다. 이는 이들의 주장이 여성의 보호라는 명분보다는 여성에 대한 지배욕과 혐오감에 근거하고 있음을 시사합니다. 본 연구는 온라인 성별갈등과 젠더 이데올로기의 심리적 기저를 이해하는 데 중요한 통찰을 제공합니다. 다만 표본의 특성과 문화적 맥락에 따른 일반화의 한계가 존재할 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigated the true motivations behind young men's support for the \"tradwife\" (traditional wife) lifestyle movement. Researchers discovered that men supporting this movement are driven more by hostile sexism and resentment toward women than by chivalrous desires to protect and provide for them. Notably, these men exhibited contradictory attitudes: while publicly endorsing traditional gender roles, they simultaneously showed disdain and contempt for women who actually adopt the tradwife lifestyle. This contradiction suggests their ideology stems from desires for dominance and misogyny rather than genuine concern for women's welfare. The study provides important insights into the psychological foundations of online gender conflicts and contemporary gender ideologies. However, limitations may exist regarding sample characteristics and cultural generalizability.\n\n##",
-      "keyPoints": [
-        "**이중성 발견** / Double Standard Revealed: 전통적 아내상을 지지하면서도 실제로 그 라이프스타일을 따르는 여성들을 경멸하는 모순적 태도",
-        "**적대적 성차별주의 우위** / Hostile Sexism as Primary Driver: 여성 보호의 명분보다는 여성에 대한 적대감과 분노가 이 운동 지지의 핵심 동기",
-        "**젠더 이데올로기의 본질** / True Nature of Gender Ideology: 표면적 전통주의 주장이 실제로는 여성 지배욕과 혐오감으로 인한 것",
-        "**온라인 성별갈등의 심리적 기저** / Psychological Foundation of Online Gender Conflict: 성별갈등이 진정한 보호 욕구가 아닌 권력 관계와 상호 경멸에 근거함을 입증"
-      ],
-      "url": "https://www.psypost.org/men-who-favor-the-tradwife-lifestyle-often-view-the-women-in-it-with-derision/",
       "featured": false
     }
   ]
