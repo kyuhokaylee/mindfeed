@@ -1190,11 +1190,12 @@ function renderFeed() {
 
 function buildSummaryHTML(item, summary) {
   const points = (item.keyPoints || []).map(p => `<div class="key-point">${p}</div>`).join('');
+  const clean = t => (t || '').replace(/#{1,6}\s*/g, '').replace(/\*\*/g, '').trim();
 
-  // news.json에서 불러온 한/영 요약 표시
+  // __CACHED__: news.json에서 불러온 요약
   if (summary === '__CACHED__') {
-    const ko = item.aiSummaryKo || '';
-    const en = (item.aiSummaryEn || item.aiSummary || '').replace(/#{1,6}\s*/g, '').trim();
+    const ko = clean(item.aiSummaryKo);
+    const en = clean(item.aiSummaryEn || item.aiSummary);
     return `
       ${ko ? `<div class="ai-lang-label">한국어 요약 KO</div>
       <p style="white-space:pre-line;line-height:1.8">${ko}</p>
@@ -1207,25 +1208,18 @@ function buildSummaryHTML(item, summary) {
       </div>` : ''}`;
   }
 
-  // Claude API가 생성한 요약 — [한국어 요약] / [English Summary] 파싱
+  // Claude API 생성 요약: [한국어 요약] / [English Summary] 파싱
   const koMatch = summary.match(/\[한국어 요약\]\s*([\s\S]*?)(?=\[English Summary\]|$)/i);
   const enMatch = summary.match(/\[English Summary\]\s*([\s\S]*?)$/i);
-
-  const koText = koMatch ? koMatch[1].trim() : '';
-  const enText = enMatch ? enMatch[1].trim() : '';
-
-  // 섹션 구분 없으면 한국어 여부로 판별
-  const hasKorean = /[가-힣]/.test(summary);
-  const displayKo = (koText || (hasKorean ? summary : '')).replace(/#{1,6}\s*/g, '').trim();
-  const displayEn = (enText || (hasKorean ? (item.aiSummary || '') : summary)).replace(/#{1,6}\s*/g, '').trim();
+  const ko = clean(koMatch ? koMatch[1] : (/[가-힣]/.test(summary) ? summary : ''));
+  const en = clean(enMatch ? enMatch[1] : (/[가-힣]/.test(summary) ? (item.aiSummary || '') : summary));
 
   return `
-    ${displayKo ? `
-      <div class="ai-lang-label">한국어 요약 KO</div>
-      <p style="white-space:pre-line;line-height:1.8">${displayKo}</p>
-      <hr class="ai-panel-divider">` : ''}
+    ${ko ? `<div class="ai-lang-label">한국어 요약 KO</div>
+    <p style="white-space:pre-line;line-height:1.8">${ko}</p>
+    <hr class="ai-panel-divider">` : ''}
     <div class="ai-lang-label">English Summary EN</div>
-    <p style="white-space:pre-line;color:#9ca8b8;line-height:1.8">${displayEn}</p>
+    <p style="white-space:pre-line;color:#9ca8b8;line-height:1.8">${en}</p>
     ${points ? `<div class="key-points">
       <div style="font-size:11px;color:var(--muted);font-family:var(--font-mono);margin-bottom:8px;">핵심 포인트 / Key Points</div>
       ${points}
@@ -1274,18 +1268,19 @@ function toggleAI(id, e) {
   const sid = String(id);
   const panel = document.getElementById('ai-' + sid);
   const bodyEl = document.getElementById('ai-body-' + sid);
-  if (!panel || !bodyEl) { console.warn('toggleAI: panel/body not found', sid); return; }
+  if (!panel || !bodyEl) return;
 
   const item = NEWS_DATA.find(i => String(i.id) === sid);
-  if (!item) { console.warn('toggleAI: item not found', sid, NEWS_DATA.map(i=>i.id)); return; }
+  if (!item) return;
 
+  // 닫기
   if (panel.classList.contains('open')) {
     panel.classList.remove('open');
     return;
   }
   panel.classList.add('open');
 
-  // 1순위: 캐시
+  // 1순위: 캐시된 Claude API 요약
   if (summaryCache[sid] && summaryCache[sid] !== 'loading') {
     bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[sid]);
     return;
@@ -1297,29 +1292,25 @@ function toggleAI(id, e) {
     return;
   }
 
-  // 3순위: aiSummaryKo 없고 aiSummaryEn만 있으면 영어 먼저 표시 + 백그라운드 번역 시작
+  // 3순위: aiSummaryEn만 있으면 영어 먼저 보여주고 백그라운드에서 한국어 생성
   if (item.aiSummaryEn || item.aiSummary) {
-    const en = (item.aiSummaryEn || item.aiSummary || '').replace(/#{1,6}\s*/g, '').trim();
     const pts = (item.keyPoints || []).map(p => `<div class="key-point">${p}</div>`).join('');
+    const en = (item.aiSummaryEn || item.aiSummary || '').replace(/#{1,6}\s*/g,'').trim();
     bodyEl.innerHTML = `
-      <div class="ai-loading" id="ko-loading-${sid}">한국어 번역 생성 중... <span class="dots"><span>.</span><span>.</span><span>.</span></span></div>
+      <div class="ai-loading" id="ko-load-${sid}">한국어 번역 생성 중...<span class="dots"><span>.</span><span>.</span><span>.</span></span></div>
       <hr class="ai-panel-divider">
       <div class="ai-lang-label">English Summary EN</div>
       <p style="white-space:pre-line;color:#9ca8b8;line-height:1.8">${en}</p>
-      ${pts ? `<div class="key-points">
-        <div style="font-size:11px;color:var(--muted);font-family:var(--font-mono);margin-bottom:8px;">핵심 포인트 / Key Points</div>
-        ${pts}
-      </div>` : ''}`;
-
-    // 백그라운드에서 한국어 번역만 생성
+      ${pts ? `<div class="key-points"><div style="font-size:11px;color:var(--muted);font-family:var(--font-mono);margin-bottom:8px;">핵심 포인트 / Key Points</div>${pts}</div>` : ''}`;
     prefetchSummary(item).then(() => {
-      if (summaryCache[sid] && summaryCache[sid] !== 'loading') {
-        const koEl = document.getElementById('ko-loading-' + sid);
+      const cached = summaryCache[sid];
+      if (cached && cached !== 'loading') {
+        const koEl = document.getElementById('ko-load-' + sid);
         if (koEl) {
-          const koText = summaryCache[sid].replace(/\[한국어 요약\]\s*/i,'').replace(/\[English Summary\][\s\S]*/i,'').trim();
-          if (koText && /[가-힣]/.test(koText)) {
-            koEl.outerHTML = `<div class="ai-lang-label">한국어 요약 KO</div>
-              <p style="white-space:pre-line;line-height:1.8">${koText}</p>`;
+          const km = cached.match(/\[한국어 요약\]\s*([\s\S]*?)(?=\[English Summary\]|$)/i);
+          const koText = (km ? km[1] : '').replace(/#{1,6}\s*/g,'').trim();
+          if (koText) {
+            koEl.outerHTML = `<div class="ai-lang-label">한국어 요약 KO</div><p style="white-space:pre-line;line-height:1.8">${koText}</p>`;
           } else {
             koEl.remove();
           }
@@ -1329,30 +1320,18 @@ function toggleAI(id, e) {
     return;
   }
 
-  // Show loading, then wait for cache or fetch directly
-  bodyEl.innerHTML = `<div class="ai-loading">요약 생성 중 / Generating<span class="dots"><span>.</span><span>.</span><span>.</span></span></div>`;
-
+  // 4순위: 아무것도 없으면 Claude API로 전체 생성
+  bodyEl.innerHTML = `<div class="ai-loading">요약 생성 중...<span class="dots"><span>.</span><span>.</span><span>.</span></span></div>`;
   const poll = setInterval(() => {
     if (summaryCache[sid] && summaryCache[sid] !== 'loading') {
       clearInterval(poll);
       bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[sid]);
     }
   }, 300);
-
-  // Fallback: if not prefetched yet, fetch immediately
-  if (!summaryCache[id]) {
-    prefetchSummary(item);
-  }
-
-  // Safety timeout — use built-in summary after 12s
-  setTimeout(() => {
-    clearInterval(poll);
-    if (bodyEl.innerHTML.includes('ai-loading')) {
-      summaryCache[sid] = item.aiSummary;
-      bodyEl.innerHTML = buildSummaryHTML(item, item.aiSummary);
-    }
-  }, 12000);
+  if (!summaryCache[sid]) prefetchSummary(item);
+  setTimeout(() => { clearInterval(poll); if (bodyEl.innerHTML.includes('ai-loading')) { summaryCache[sid] = item.aiSummary || ''; bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[sid]); }}, 12000);
 }
+
 
 function toggleSave(id, e) {
   e.stopPropagation();
