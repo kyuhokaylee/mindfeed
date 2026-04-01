@@ -1274,23 +1274,18 @@ function toggleAI(id, e) {
   const sid = String(id);
   const panel = document.getElementById('ai-' + sid);
   const bodyEl = document.getElementById('ai-body-' + sid);
-  if (!panel || !bodyEl) { console.warn('toggleAI: element not found', sid); return; }
-  const item = NEWS_DATA.find(i => String(i.id) === String(id));
+  if (!panel || !bodyEl) { console.warn('toggleAI: panel/body not found', sid); return; }
+
+  const item = NEWS_DATA.find(i => String(i.id) === sid);
+  if (!item) { console.warn('toggleAI: item not found', sid, NEWS_DATA.map(i=>i.id)); return; }
 
   if (panel.classList.contains('open')) {
     panel.classList.remove('open');
     return;
   }
-
   panel.classList.add('open');
 
-  // Already cached and ready?
-  if (summaryCache[id] && summaryCache[id] !== 'loading') {
-    bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[id]);
-    return;
-  }
-
-  // 1순위: 캐시 (이미 생성된 요약)
+  // 1순위: 캐시
   if (summaryCache[sid] && summaryCache[sid] !== 'loading') {
     bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[sid]);
     return;
