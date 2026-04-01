@@ -953,16 +953,18 @@ async function loadNews() {
       a.thumbnail = pool[tc % pool.length];
       tagCounters[a.tag] = tc + 1;
 
-      // aiSummary 한/영 분리 (영어만 있으면 한국어 섹션 숨김)
-      if (a.aiSummary && !a.aiSummary.includes('\n\n')) {
-        // 영어 본문만 있는 경우 — 그대로 사용
-        a.aiSummaryKo = '';
-        a.aiSummaryEn = a.aiSummary;
-      } else if (a.aiSummary) {
-        const parts = a.aiSummary.split('\n\n');
-        const half  = Math.ceil(parts.length / 2);
-        a.aiSummaryKo = parts.slice(0, half).join('\n\n');
-        a.aiSummaryEn = parts.slice(half).join('\n\n');
+      // aiSummaryKo/En이 이미 있으면 그대로 사용 (fetch_news.py가 채워준 값)
+      // 없을 때만 aiSummary에서 파싱 시도
+      if (!a.aiSummaryKo && !a.aiSummaryEn && a.aiSummary) {
+        if (!a.aiSummary.includes('\n\n')) {
+          a.aiSummaryKo = '';
+          a.aiSummaryEn = a.aiSummary;
+        } else {
+          const parts = a.aiSummary.split('\n\n');
+          const half  = Math.ceil(parts.length / 2);
+          a.aiSummaryKo = parts.slice(0, half).join('\n\n');
+          a.aiSummaryEn = parts.slice(half).join('\n\n');
+        }
       }
       return a;
     });
