@@ -947,6 +947,9 @@ async function loadNews() {
     const tagCounters = {ai:0, psych:0, neuro:0, behav:0};
 
     NEWS_DATA = rawArticles.map((a, idx) => {
+      // 해시 id 대신 안전한 숫자 인덱스 id 부여
+      a.originalId = a.id;
+      a.id = 'art_' + idx;
       // 썸네일 순환 할당
       const pool = COMIC_THUMBS[a.tag] || COMIC_THUMBS['ai'];
       const tc   = tagCounters[a.tag] || 0;
@@ -984,7 +987,13 @@ async function loadNews() {
   renderFeed();
   renderTrends();
   renderSources();
-  setTimeout(startPrefetch, 1500);
+
+  // news.json 기사에 aiSummaryKo 없으면 앱에서 직접 Claude API로 생성
+  const needsSummary = NEWS_DATA.filter(a => !a.aiSummaryKo).length;
+  if (needsSummary > 0) {
+    console.log(`aiSummaryKo 없는 기사 ${needsSummary}개 — 앱에서 요약 생성 시작`);
+    setTimeout(startPrefetch, 1500);
+  }
 }
 
 // ── 샘플 데이터 (news.json 없을 때 폴백) ────────────────────────
@@ -1182,14 +1191,14 @@ function renderFeed() {
 function buildSummaryHTML(item, summary) {
   const points = (item.keyPoints || []).map(p => `<div class="key-point">${p}</div>`).join('');
 
-  // MyMemory 번역 결과 직접 표시
-  if (summary === '__MYMEMORY__') {
+  // news.json에서 불러온 한/영 요약 즉시 표시
+  if (summary === '__CACHED__') {
     return `
       <div class="ai-lang-label">한국어 요약 KO</div>
-      <p style="white-space:pre-line">${item.aiSummaryKo || ''}</p>
+      <p style="white-space:pre-line;line-height:1.8">${item.aiSummaryKo || ''}</p>
       <hr class="ai-panel-divider">
       <div class="ai-lang-label">English Summary EN</div>
-      <p style="white-space:pre-line;color:#9ca8b8">${item.aiSummaryEn || item.aiSummary || ''}</p>
+      <p style="white-space:pre-line;color:#9ca8b8;line-height:1.8">${item.aiSummaryEn || item.aiSummary || ''}</p>
       ${points ? `<div class="key-points">
         <div style="font-size:11px;color:var(--muted);font-family:var(--font-mono);margin-bottom:8px;">핵심 포인트 / Key Points</div>
         ${points}
@@ -1283,15 +1292,15 @@ function toggleAI(id, e) {
     return;
   }
 
-  // 1순위: 캐시 (Claude API 번역 결과)
+  // 1순위: 캐시 (이미 생성된 요약)
   if (summaryCache[id] && summaryCache[id] !== 'loading') {
     bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[id]);
     return;
   }
 
-  // 2순위: news.json의 MyMemory 번역 결과 즉시 표시
+  // 2순위: news.json에 aiSummaryKo가 있으면 즉시 표시
   if (item.aiSummaryKo) {
-    bodyEl.innerHTML = buildSummaryHTML(item, '__MYMEMORY__');
+    bodyEl.innerHTML = buildSummaryHTML(item, '__CACHED__');
     return;
   }
 
