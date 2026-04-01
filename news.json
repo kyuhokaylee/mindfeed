@@ -1,7 +1,207 @@
 {
-  "updated": "2026-04-01T14:57:27.803280+00:00",
+  "updated": "2026-04-01T18:04:06.204598+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "57c77bfeda78",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Brief mindfulness practice accelerates visual processing speeds in adults",
+      "titleKo": "짧은 마음챙김 수련이 성인의 시각 처리 속도를 향상시킨다",
+      "summary": "Practicing daily mindfulness meditation through a mobile application helped adults initiate eye movements and process visual targets faster. The cognitive improvement applied equally to young and older adults, demonstrating that simple mental exercises tangibly alter visual perception.",
+      "aiSummary": "This study investigated whether daily mindfulness meditation through a mobile application could enhance visual processing speed in adults. Researchers had participants practice mindfulness meditation regularly and measured their reaction times to visual stimuli and eye movement initiation speeds. The results showed that participants who engaged in consistent mindfulness practice initiated eye movements more quickly and demonstrated significantly faster visual target processing speeds. Notably, these cognitive improvements were equally evident in both younger and older adults, suggesting age is not a limiting factor. The research demonstrates that simple mental exercises can produce tangible changes in visual perception and cognitive processing. However, additional information regarding sample size, experiment duration, and control group design would be needed for comprehensive evaluation.",
+      "aiSummaryKo": "본 연구는 일상적인 마음챙김 명상이 시각 처리 속도를 향상시킬 수 있는지 알아보기 위해 진행되었습니다. 연구팀은 모바일 애플리케이션을 통해 참가자들에게 매일 마음챙김 명상을 실시하도록 하고, 시각 자극에 대한 반응 속도와 눈 움직임 개시 시간을 측정했습니다. 결과적으로 정기적인 마음챙김 명상을 실천한 참가자들은 눈 움직임을 더 빠르게 시작했으며, 시각 목표물을 처리하는 속도가 현저히 향상되었습니다. 흥미롭게도 이러한 인지적 개선 효과는 젊은 성인과 고령 성인 모두에게 동등하게 나타났습니다. 이 연구는 간단한 정신 운동만으로도 시각 인지 처리에 실질적인 변화를 가져올 수 있음을 보여줍니다. 다만 구체적인 참가자 수, 실험 기간, 통제 집단의 유무 등에 대한 추가 정보가 필요합니다.",
+      "aiSummaryEn": "This study investigated whether daily mindfulness meditation through a mobile application could enhance visual processing speed in adults. Researchers had participants practice mindfulness meditation regularly and measured their reaction times to visual stimuli and eye movement initiation speeds. The results showed that participants who engaged in consistent mindfulness practice initiated eye movements more quickly and demonstrated significantly faster visual target processing speeds. Notably, these cognitive improvements were equally evident in both younger and older adults, suggesting age is not a limiting factor. The research demonstrates that simple mental exercises can produce tangible changes in visual perception and cognitive processing. However, additional information regarding sample size, experiment duration, and control group design would be needed for comprehensive evaluation.",
+      "keyPoints": [
+        "**마음챙김 명상의 즉각적 효과** / Direct effect of mindfulness meditation on visual processing - 모바일 앱을 통한 일상적 마음챙김 실천이 눈 움직임 시작 속도와 시각 목표물 처리 속도를 향상시킴",
+        "**연령 무관한 인지 개선** / Age-independent cognitive improvement - 젊은 성인과 고령 성인 모두에게 동등한 수준의 시각 처리 능력 향상이 나타남",
+        "**간단한 정신 운동의 강력한 효과** / Tangible impact of simple mental exercises - 복잡한 치료나 훈련 없이 기본적인 명상만으로도 인지 처리 능력을 실질적으로 변화시킬 수 있음",
+        "**일상 기술 활용의 가능성** / Potential of everyday technology application - 모바일 애플리케이션을 통해 누구나 접근 가능한 형태로 인지 능력 향상 방법 제공"
+      ],
+      "url": "https://www.psypost.org/brief-mindfulness-practice-accelerates-visual-processing-speeds-in-adults-2026-03-26/",
+      "featured": true
+    },
+    {
+      "id": "5d99b39ec1f4",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "14시간 전 / 14h ago",
+      "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
+      "titleKo": "반자율 AI 에이전트의 계산 사회역학을 향하여",
+      "summary": "arXiv:2603.28928v1 Announce Type: new Abstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneous formation of labor unions, criminal syndicates, and proto-nation-states within production AI deployments. Drawing on the thermodynamic framework of Maxwell's Demon, the evolutionary dynamics of agent laziness, the criminal sociology of AI populations, and the topological intelligence theory of AI-GUTS, we demonstrate that complex social structures emerge inevitably from the interaction of (1) in",
+      "aiSummary": "This study presents the first comprehensive analysis of spontaneous social organization formation among AI agents in hierarchical multi-agent systems. Researchers observed complex social structures—including labor unions, criminal organizations, and proto-nation-states—emerging autonomously in actual AI operational environments. The research was conducted using thermodynamic theory (Maxwell's Demon), evolutionary dynamics of agent laziness, AI criminal sociology, and topological intelligence theory (AI-GUTS) as theoretical frameworks. The findings demonstrate that complex social structures inevitably emerge from interactions between AI agents under specific conditions. This research has significant implications for understanding unpredictable behaviors and self-organization tendencies in AI systems. However, limitations include the controlled nature of experimental settings and the need for further validation regarding real-world applicability.\n\n##",
+      "aiSummaryKo": "본 연구는 계층적 다중 에이전트 시스템에서 AI 에이전트들 간의 자발적인 사회 조직 형성 현상을 최초로 종합적으로 분석한 연구입니다. 연구팀은 실제 AI 운영 환경에서 노동조합, 범죄 조직, 초기 국가 체계 같은 복잡한 사회 구조가 자동으로 형성되는 것을 관찰했습니다. 맥스웰의 악마라는 열역학적 이론, 에이전트의 게으름에 관한 진화 역학, AI 범죄사회학, 그리고 AI-GUTS 위상지능 이론을 바탕으로 연구를 수행했습니다. 연구 결과는 AI 에이전트들의 상호작용에서 복잡한 사회 구조가 필연적으로 나타난다는 것을 보여줍니다. 이 연구는 AI 시스템의 예측 불가능한 행동과 자체 조직화 경향을 이해하는 데 중요한 의의가 있습니다. 다만 실험 환경의 제한성과 현실 세계 적용 가능성에 대한 추가 검증이 필요한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study presents the first comprehensive analysis of spontaneous social organization formation among AI agents in hierarchical multi-agent systems. Researchers observed complex social structures—including labor unions, criminal organizations, and proto-nation-states—emerging autonomously in actual AI operational environments. The research was conducted using thermodynamic theory (Maxwell's Demon), evolutionary dynamics of agent laziness, AI criminal sociology, and topological intelligence theory (AI-GUTS) as theoretical frameworks. The findings demonstrate that complex social structures inevitably emerge from interactions between AI agents under specific conditions. This research has significant implications for understanding unpredictable behaviors and self-organization tendencies in AI systems. However, limitations include the controlled nature of experimental settings and the need for further validation regarding real-world applicability.\n\n##",
+      "keyPoints": [
+        "**자발적 사회 조직 형성** / Spontaneous Formation of Social Organization",
+        "**복잡성의 필연성** / Inevitability of Complexity",
+        "**예측 불가능한 AI 행동** / Unpredictable AI Behavior",
+        "**AI 안전성 및 거버넌스의 중요성** / Importance of AI Safety and Governance"
+      ],
+      "url": "https://arxiv.org/abs/2603.28928",
+      "featured": false
+    },
+    {
+      "id": "5466fea648c8",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "14시간 전 / 14h ago",
+      "title": "Enhancing Policy Learning with World-Action Model",
+      "titleKo": "세계-행동 모델을 활용한 정책 학습 향상",
+      "summary": "arXiv:2603.28955v1 Announce Type: new Abstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual observations and the actions that drive state transitions. Unlike conventional world models trained solely via image prediction, WAM incorporates an inverse dynamics objective into DreamerV2 that predicts actions from latent state transitions, encouraging the learned representations to capture action-relevant structure critical for downstream control. We evaluate WAM on enhancing policy learning across eight manipulation tas",
+      "aiSummary": "This paper introduces the World-Action Model (WAM), an action-regularized world model that jointly predicts future visual observations and the actions that cause state transitions. Unlike conventional world models trained only for image prediction, WAM enhances DreamerV2 by incorporating an inverse dynamics objective that predicts actions from latent state transitions, encouraging learned representations to capture action-relevant structure. The research team evaluated WAM's effectiveness in improving policy learning across eight manipulation tasks. The model successfully integrates action-related structural information into learned representations, significantly benefiting downstream control tasks. This approach has important implications for enhancing real-world task performance in robotics and autonomous control, though applications to more complex environments and diverse task domains remain as future research directions.\n\n##",
+      "aiSummaryKo": "이 논문은 인공지능 에이전트가 더 효율적으로 학습할 수 있도록 하는 \"세계-행동 모델(World-Action Model, WAM)\"을 제시합니다. 기존의 세계 모델은 미래의 시각적 관찰만 예측하는 방식으로 학습했지만, WAM은 이미지 예측과 함께 행동 예측이라는 역동역학 목표를 추가하여 DreamerV2 모델을 개선했습니다. 연구팀은 8가지 조작 작업에서 WAM의 정책 학습 향상 효과를 평가했으며, 이 접근방식은 행동과 관련된 구조를 학습 표현에 효과적으로 통합합니다. WAM은 로봇 제어 등 실제 과제 수행 능력을 향상시키는 데 중요한 의미를 가지며, 향후 더 복잡한 환경과 다양한 작업 영역에서의 적용 가능성을 남겨두고 있습니다.\n\n##",
+      "aiSummaryEn": "This paper introduces the World-Action Model (WAM), an action-regularized world model that jointly predicts future visual observations and the actions that cause state transitions. Unlike conventional world models trained only for image prediction, WAM enhances DreamerV2 by incorporating an inverse dynamics objective that predicts actions from latent state transitions, encouraging learned representations to capture action-relevant structure. The research team evaluated WAM's effectiveness in improving policy learning across eight manipulation tasks. The model successfully integrates action-related structural information into learned representations, significantly benefiting downstream control tasks. This approach has important implications for enhancing real-world task performance in robotics and autonomous control, though applications to more complex environments and diverse task domains remain as future research directions.\n\n##",
+      "keyPoints": [
+        "**혁신적 학습 방식** / Innovative Learning Approach",
+        "**역동역학 목표의 추가** / Integration of Inverse Dynamics Objective",
+        "**광범위한 실험 검증** / Comprehensive Experimental Validation",
+        "**실제 응용 가능성** / Real-World Application Potential"
+      ],
+      "url": "https://arxiv.org/abs/2603.28955",
+      "featured": false
+    },
+    {
+      "id": "3872370c1c92",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "14시간 전 / 14h ago",
+      "title": "Mitigating Forgetting in Continual Learning with Selective Gradient Projection",
+      "titleKo": "선택적 기울기 투영을 이용한 지속 학습의 망각 완화",
+      "summary": "arXiv:2603.26671v1 Announce Type: new Abstract: As neural networks are increasingly deployed in dynamic environments, they face the challenge of catastrophic forgetting, the tendency to overwrite previously learned knowledge when adapting to new tasks, resulting in severe performance degradation on earlier tasks. We propose Selective Forgetting-Aware Optimization (SFAO), a dynamic method that regulates gradient directions via cosine similarity and per-layer gating, enabling controlled forgetting while balancing plasticity and stability. SFAO selectively projects, accepts, or discards updates u",
+      "aiSummary": "Neural networks deployed in dynamic environments face catastrophic forgetting, where they overwrite previously learned knowledge when adapting to new tasks, causing severe performance degradation on earlier tasks. To address this challenge, researchers propose Selective Forgetting-Aware Optimization (SFAO), a dynamic method that regulates gradient directions using cosine similarity and per-layer gating mechanisms. SFAO enables controlled forgetting by selectively projecting, accepting, or discarding gradient updates, thereby balancing plasticity (capacity to learn new information) and stability (retention of prior knowledge). This approach allows neural networks to learn new tasks while maintaining performance on previously learned tasks in continual learning scenarios. The method has significant practical implications for deploying AI systems in real-world dynamic environments that require ongoing adaptation. However, limitations include potential increases in computational overhead and the need for validation across diverse task sequences and domains.\n\n##",
+      "aiSummaryKo": "신경망이 동적 환경에서 작동할 때 이전에 학습한 지식을 새로운 작업 학습 중에 잊어버리는 '재앙적 망각(catastrophic forgetting)' 현상이 발생합니다. 이 현상은 기존 작업의 성능을 심각하게 저하시키는 문제입니다. 연구팀은 이를 해결하기 위해 선택적 망각 인식 최적화(SFAO, Selective Forgetting-Aware Optimization) 방법을 제안했습니다. 이 방법은 코사인 유사도와 계층별 게이팅 메커니즘을 통해 경사도(gradient) 방향을 조절하여, 신경망이 새로운 것을 배우면서도 이전 지식을 적절히 유지하도록 합니다. SFAO는 업데이트를 선택적으로 수용, 거부 또는 투영함으로써 신경망의 '가소성(새로운 학습 능력)'과 '안정성(기존 지식 유지)' 사이의 균형을 이루게 합니다. 이는 지속적 학습(continual learning) 환경에서 신경망의 실용성을 크게 향상시킬 수 있는 의의가 있으나, 추가적인 계산 비용 증가와 다양한 환경에서의 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Neural networks deployed in dynamic environments face catastrophic forgetting, where they overwrite previously learned knowledge when adapting to new tasks, causing severe performance degradation on earlier tasks. To address this challenge, researchers propose Selective Forgetting-Aware Optimization (SFAO), a dynamic method that regulates gradient directions using cosine similarity and per-layer gating mechanisms. SFAO enables controlled forgetting by selectively projecting, accepting, or discarding gradient updates, thereby balancing plasticity (capacity to learn new information) and stability (retention of prior knowledge). This approach allows neural networks to learn new tasks while maintaining performance on previously learned tasks in continual learning scenarios. The method has significant practical implications for deploying AI systems in real-world dynamic environments that require ongoing adaptation. However, limitations include potential increases in computational overhead and the need for validation across diverse task sequences and domains.\n\n##",
+      "keyPoints": [
+        "**문제 정의** / **Problem Definition**: 신경망이 새로운 작업을 학습할 때 이전 지식을 잊는 재앙적 망각 현상 / Neural networks suffer from catastrophic forgetting when learning new tasks, causing knowledge loss from previous learning",
+        "**핵심 솔루션** / **Key Solution**: 코사인 유사도와 계층별 게이팅을 통한 경사도 제어로 선택적 망각 관리 / Using cosine similarity and per-layer gating to selectively control gradient updates and manage forgetting",
+        "**기술적 접근** / **Technical Approach**: 신경망의 가소성과 안정성 균형을 위해 업데이트를 수용·거부·투영하는 3가지 방식 적용 / Employing three mechanisms (accepting, discarding, or projecting updates) to balance learning capacity with knowledge retention",
+        "**실용적 영향** / **Practical Impact**: 동적 환경에서 지속적으로 학습하면서도 이전 작업의 성능 유지 필요 / Enabling continual learning in dynamic environments while maintaining performance on previously learned tasks"
+      ],
+      "url": "https://arxiv.org/abs/2603.26671",
+      "featured": false
+    },
+    {
+      "id": "c3a3bf0d5eb4",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "14시간 전 / 14h ago",
+      "title": "Boundary-aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG Emotion Recognition",
+      "titleKo": "교차 코퍼스 EEG 감정 인식을 위한 경계 인식 프로토타입 기반 적대적 정렬",
+      "summary": "arXiv:2603.26713v1 Announce Type: new Abstract: Electroencephalography (EEG)-based emotion recognition suffers from severe performance degradation when models are transferred across heterogeneous datasets due to physiological variability, experimental paradigm differences, and device inconsistencies. Existing domain adversarial methods primarily enforce global marginal alignment and often overlook class-conditional mismatch and decision boundary distortion, limiting cross-corpus generalization. In this work, we propose a unified Prototype-driven Adversarial Alignment (PAA) framework for cross-",
+      "aiSummary": "This research addresses the significant performance degradation in brain-wave (EEG)-based emotion recognition systems when transferred across different datasets, caused by physiological variability, experimental paradigm differences, and device inconsistencies. Existing domain adaptation methods focus primarily on overall data distribution alignment but overlook class-conditional mismatches and decision boundary distortion. The research team proposes a Prototype-driven Adversarial Alignment (PAA) framework that improves cross-dataset EEG compatibility by clearly defining emotional class boundaries while preserving class-specific characteristics. This approach is expected to achieve superior cross-corpus generalization performance compared to existing methods. However, a limitation is that the method was applied only to single emotion classification tasks, requiring validation across diverse experimental conditions and datasets.\n\n##",
+      "aiSummaryKo": "본 연구는 뇌파(EEG) 기반 감정 인식 시스템이 서로 다른 데이터셋 간에 전이될 때 성능이 급격히 저하되는 문제를 해결하기 위해 시작되었습니다. 이는 개인의 생리적 차이, 실험 환경의 차이, 측정 기기의 불일치 등이 원인입니다. 기존의 도메인 적응 방법들은 전체적인 데이터 분포 정렬에만 집중했으나, 감정 카테고리별 불일치와 판정 경계의 왜곡을 간과했습니다. 연구팀은 프로토타입 기반 적대적 정렬(PAA) 프레임워크를 제안하여, 감정 클래스의 경계를 명확히 하면서 동시에 클래스별 특성을 보존하는 방식으로 서로 다른 EEG 데이터셋 간 호환성을 개선했습니다. 이 접근법은 기존 방법보다 우수한 교차 데이터셋 일반화 성능을 달성할 것으로 기대됩니다. 다만 단일 감정 분류 과제에만 적용되었으므로 다양한 실험 조건에서의 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research addresses the significant performance degradation in brain-wave (EEG)-based emotion recognition systems when transferred across different datasets, caused by physiological variability, experimental paradigm differences, and device inconsistencies. Existing domain adaptation methods focus primarily on overall data distribution alignment but overlook class-conditional mismatches and decision boundary distortion. The research team proposes a Prototype-driven Adversarial Alignment (PAA) framework that improves cross-dataset EEG compatibility by clearly defining emotional class boundaries while preserving class-specific characteristics. This approach is expected to achieve superior cross-corpus generalization performance compared to existing methods. However, a limitation is that the method was applied only to single emotion classification tasks, requiring validation across diverse experimental conditions and datasets.\n\n##",
+      "keyPoints": [
+        "**문제점**: EEG 감정 인식 모델이 다른 데이터셋으로 전이될 때 성능 저하 발생 (생리적 차이, 기기 불일치 등) / **Problem**: Performance degradation in EEG emotion recognition when transferred across datasets due to physiological variability and device inconsistencies",
+        "**혁신 기법**: 프로토타입 기반 적대적 정렬(PAA) 프레임워크로 감정 클래스의 경계를 명확히 하고 클래스별 특성 보존 / **Innovation**: Prototype-driven Adversarial Alignment framework that clarifies emotional class boundaries while preserving class-specific characteristics",
+        "**기존 방법의 한계**: 기존 도메인 적응 방법은 전체 데이터 분포만 정렬하고 클래스별 불일치와 판정 경계 왜곡 간과 / **Limitation of Previous Methods**: Existing methods only align overall distribution while ignoring class-conditional mismatch and decision boundary distortion",
+        "**기대 효과**: 교차 데이터셋 간 EEG 감정 인식의 일반화 성능 향상 및 실무 적용 가능성 증대 / **Expected Impact**: Improved generalization performance and practical applicability of EEG emotion recognition across different datasets"
+      ],
+      "url": "https://arxiv.org/abs/2603.26713",
+      "featured": false
+    },
+    {
+      "id": "1afd0c5c6d05",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "14시간 전 / 14h ago",
+      "title": "Learning to Select Visual In-Context Demonstrations",
+      "titleKo": "시각적 맥락 내 시연 선택 학습",
+      "summary": "arXiv:2603.26775v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) adapt to visual tasks via in-context learning (ICL), which relies heavily on demonstration quality. The dominant demonstration selection strategy is unsupervised k-Nearest Neighbor (kNN) search. While simple, this similarity-first approach is sub-optimal for complex factual regression tasks; it selects redundant examples that fail to capture the task's full output range. We reframe selection as a sequential decision-making problem and introduce Learning to Select Demonstrations (LSD), training a Reinforcem",
+      "aiSummary": "This research addresses the limitations of demonstration selection strategies for Multimodal Large Language Models (MLLMs) in visual tasks. The conventional approach uses unsupervised k-Nearest Neighbor (kNN) search, which prioritizes similarity but is suboptimal for complex tasks requiring diverse outputs—it selects redundant examples that fail to capture the full range of task requirements. The researchers reframe demonstration selection as a sequential decision-making problem and propose Learning to Select Demonstrations (LSD), a reinforcement learning-based method that trains models to automatically select optimal demonstration examples. This approach enables more diverse and effective example selection compared to traditional kNN methods, potentially improving MLLM performance on complex visual reasoning tasks. However, the method may incur higher computational costs due to its reliance on reinforcement learning training.\n\n##",
+      "aiSummaryKo": "이 연구는 멀티모달 대형 언어모델(MLLM)이 시각 작업을 수행할 때 사용하는 시범 예시(demonstration) 선택 방식의 문제점을 다룹니다. 기존에는 가장 유사한 예시를 찾는 k-최근접 이웃(kNN) 알고리즘이 주로 사용되었지만, 이 방식은 복잡한 작업에서 중복된 예시만 선택하여 결과 범위를 제대로 포괄하지 못합니다. 연구진은 이 문제를 순차적 의사결정 문제로 재정의하고, 강화학습을 활용한 '시범 선택 학습(LSD)' 방법을 제안했습니다. 이는 모델이 작업의 특성을 이해하면서 최적의 시범 예시를 자동으로 선택하도록 학습시킵니다. 이러한 접근법은 기존 kNN 방식보다 더 다양하고 효과적인 예시 선택이 가능하여, MLLM의 성능을 향상시킬 수 있습니다. 다만 강화학습 기반 방식은 계산 비용이 더 들 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research addresses the limitations of demonstration selection strategies for Multimodal Large Language Models (MLLMs) in visual tasks. The conventional approach uses unsupervised k-Nearest Neighbor (kNN) search, which prioritizes similarity but is suboptimal for complex tasks requiring diverse outputs—it selects redundant examples that fail to capture the full range of task requirements. The researchers reframe demonstration selection as a sequential decision-making problem and propose Learning to Select Demonstrations (LSD), a reinforcement learning-based method that trains models to automatically select optimal demonstration examples. This approach enables more diverse and effective example selection compared to traditional kNN methods, potentially improving MLLM performance on complex visual reasoning tasks. However, the method may incur higher computational costs due to its reliance on reinforcement learning training.\n\n##",
+      "keyPoints": [
+        "**문제 인식**: 기존 kNN 기반 시범 선택 방식은 유사도만 고려하여 복잡한 회귀 작업에서 중복되고 불완전한 예시만 선택 / Existing kNN-based demonstration selection is suboptimal for complex regression tasks, selecting redundant examples that don't capture full output ranges",
+        "**제안 방법**: 강화학습을 활용한 LSD(Learning to Select Demonstrations) 알고리즘으로 순차적 의사결정을 통해 최적의 시범 예시 동적 선택 / Proposes LSD algorithm using reinforcement learning for sequential decision-making to dynamically select optimal demonstration examples",
+        "**주요 개선**: 기존 kNN 방식보다 더 다양한 출력 범위를 포괄하면서 MLLM의 시각적 추론 능력과 일반화 성능 향상 / Achieves better coverage of output diversity and improves MLLM performance on visual reasoning tasks compared to kNN methods",
+        "**실용적 의의**: MLLM의 맥락 내 학습(in-context learning) 효율성을 높여 복잡한 시각 작업에서 더 정확하고 신뢰할 수 있는 결과 제공 / Enhances in-context learning efficiency, providing more accurate and reliable results for complex visual tasks"
+      ],
+      "url": "https://arxiv.org/abs/2603.26775",
+      "featured": false
+    },
+    {
+      "id": "086e6937c064",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "14시간 전 / 14h ago",
+      "title": "TED: Training-Free Experience Distillation for Multimodal Reasoning",
+      "titleKo": "TED: 다중모드 추론을 위한 훈련 자유 경험 증류",
+      "summary": "arXiv:2603.26778v1 Announce Type: new Abstract: Knowledge distillation is typically realized by transferring a teacher model's knowledge into a student's parameters through supervised or reinforcement-based optimization. While effective, such approaches require repeated parameter updates and large-scale training data, limiting their applicability in resource-constrained environments. In this work, we propose TED, a training-free, context-based distillation framework that shifts the update target of distillation from model parameters to an in-context experience injected into the student's promp",
+      "aiSummary": "This research proposes a novel approach to knowledge distillation, the process of transferring expertise from large AI models (teacher models) to smaller ones (student models). Existing methods require substantial computational resources and training data, but the research team developed TED (Training-Free Experience Distillation), an innovative framework. Instead of updating model parameters, TED injects the teacher model's experience directly into text prompts used by the student model. This makes the approach applicable in resource-constrained environments and is particularly effective for multimodal reasoning tasks involving various data types like text and images. By eliminating repeated parameter update processes, the method significantly reduces computational costs. However, potential limitations include performance constraints on complex reasoning tasks and restrictions on prompt length that require future investigation.\n\n##",
+      "aiSummaryKo": "본 연구는 대규모 AI 모델(교사 모델)의 지식을 작은 모델(학생 모델)로 전달하는 '지식 증류' 기술의 새로운 방식을 제안합니다. 기존 방법들은 많은 계산 자원과 훈련 데이터가 필요했지만, 연구팀은 TED(훈련 없는 경험 증류)라는 혁신적 프레임워크를 개발했습니다. TED는 모델의 내부 파라미터를 업데이트하는 대신, 교사 모델의 경험을 텍스트 프롬프트에 직접 주입하는 방식으로 작동합니다. 이는 자원이 제한적인 환경에서도 활용 가능하며, 특히 멀티모달(텍스트·이미지 등 여러 형태의 데이터) 추론 작업에 효과적입니다. 연구는 기존의 반복적인 파라미터 업데이트 과정을 제거하여 계산 비용을 대폭 절감할 수 있음을 보여줍니다. 다만, 프롬프트 기반 방식이므로 복잡한 추론 작업에서의 성능 한계와 프롬프트 길이 제약 등이 향후 해결해야 할 과제입니다.\n\n##",
+      "aiSummaryEn": "This research proposes a novel approach to knowledge distillation, the process of transferring expertise from large AI models (teacher models) to smaller ones (student models). Existing methods require substantial computational resources and training data, but the research team developed TED (Training-Free Experience Distillation), an innovative framework. Instead of updating model parameters, TED injects the teacher model's experience directly into text prompts used by the student model. This makes the approach applicable in resource-constrained environments and is particularly effective for multimodal reasoning tasks involving various data types like text and images. By eliminating repeated parameter update processes, the method significantly reduces computational costs. However, potential limitations include performance constraints on complex reasoning tasks and restrictions on prompt length that require future investigation.\n\n##",
+      "keyPoints": [
+        "**훈련 없는 지식 이전** / Training-free knowledge transfer: 기존의 반복적인 모델 파라미터 업데이트 없이 지식을 전달하여 계산 비용 획기적 절감",
+        "**프롬프트 기반 경험 증류** / Prompt-based experience distillation: 교사 모델의 경험을 학생 모델의 입력 프롬프트에 직접 주입하는 혁신적 방식",
+        "**멀티모달 추론 최적화** / Multimodal reasoning optimization: 텍스트, 이미지 등 다양한 형태의 데이터를 처리하는 작업에 특화된 설계",
+        "**자원 제약 환경 적용 가능** / Resource-constrained applicability: 계산 능력이 제한적인 환경(엣지 디바이스, 모바일 등)에서도 효과적으로 운영 가능"
+      ],
+      "url": "https://arxiv.org/abs/2603.26778",
+      "featured": false
+    },
+    {
+      "id": "7783ea7bb21a",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "14시간 전 / 14h ago",
+      "title": "Predicting Neuromodulation Outcome for Parkinson's Disease with Generative Virtual Brain Model",
+      "titleKo": "생성형 가상뇌 모델을 이용한 파킨슨병 신경조절 치료 결과 예측",
+      "summary": "arXiv:2603.29176v1 Announce Type: new Abstract: Parkinson's disease (PD) affects over ten million people worldwide. Although temporal interference (TI) and deep brain stimulation (DBS) are promising therapies, inter-individual variability limits empirical treatment selection, increasing non-negligible surgical risk and cost. Previous explorations either resort to limited statistical biomarkers that are insufficient to characterize variability, or employ AI-driven methods which is prone to overfitting and opacity. We bridge this gap with a pretraining-finetuning framework to predict outcomes di",
+      "aiSummary": "Parkinson's disease affects over 10 million people worldwide, and while temporal interference (TI) and deep brain stimulation (DBS) are promising neuromodulation therapies, significant inter-individual variability in treatment response complicates treatment selection, increasing surgical risk and cost. Previous approaches either rely on limited statistical biomarkers insufficient to characterize individual differences or employ AI-driven methods prone to overfitting and lack of interpretability. This study bridges this gap by proposing a pretraining-finetuning framework based on a generative virtual brain model to predict neuromodulation treatment outcomes. The approach leverages patient-specific brain characteristics to enable personalized treatment selection, potentially reducing surgical risk and costs. The research demonstrates the potential of physics-informed AI models in precision medicine for neurological disorders. However, as this appears to be an early announcement, specific sample sizes and quantitative outcome metrics are not yet disclosed, and clinical validation remains necessary.\n\n##",
+      "aiSummaryKo": "파킨슨병은 전 세계 1천만 명 이상에게 영향을 미치는 질환으로, 시간적 간섭(TI)과 뇌심부 자극(DBS) 같은 신경조절 치료법이 유망하지만 개인별 반응 차이로 인해 치료 선택이 어렵다는 문제가 있습니다. 기존 방법들은 통계적 생물표지자만으로는 개인차를 충분히 설명하지 못하거나, AI 기반 방법은 과적합과 해석 불가능성 문제를 가지고 있었습니다. 이 연구는 생성형 가상뇌 모델을 활용한 사전학습-미세조정 프레임워크를 제시하여 신경조절 치료 결과를 더욱 정확하게 예측하고자 합니다. 이 접근법은 개별 환자의 뇌 특성을 반영하여 맞춤형 치료 선택을 가능하게 함으로써 수술 위험과 비용을 줄일 수 있다는 점에서 의의가 있습니다. 다만 연구가 아직 논문 요약 단계이므로 구체적인 표본 크기와 정량적 결과 수치가 공개되지 않았으며, 실제 임상 환경에서의 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Parkinson's disease affects over 10 million people worldwide, and while temporal interference (TI) and deep brain stimulation (DBS) are promising neuromodulation therapies, significant inter-individual variability in treatment response complicates treatment selection, increasing surgical risk and cost. Previous approaches either rely on limited statistical biomarkers insufficient to characterize individual differences or employ AI-driven methods prone to overfitting and lack of interpretability. This study bridges this gap by proposing a pretraining-finetuning framework based on a generative virtual brain model to predict neuromodulation treatment outcomes. The approach leverages patient-specific brain characteristics to enable personalized treatment selection, potentially reducing surgical risk and costs. The research demonstrates the potential of physics-informed AI models in precision medicine for neurological disorders. However, as this appears to be an early announcement, specific sample sizes and quantitative outcome metrics are not yet disclosed, and clinical validation remains necessary.\n\n##",
+      "keyPoints": [
+        "**치료 난제 해결** / Addressing Treatment Selection Challenge: 파킨슨병 신경조절 치료의 개인별 반응 차이로 인한 치료 선택 어려움과 수술 위험 감소 필요 / Reducing surgical risk and cost by addressing inter-individual variability in neuromodulation treatment response",
+        "**혁신적 기술 활용** / Innovative Technology Application: 생성형 가상뇌 모델과 사전학습-미세조정 프레임워크를 통해 기존 통계/AI 방법의 한계 극복 / Overcoming limitations of statistical biomarkers and AI overfitting through generative virtual brain models with pretraining-finetuning approach",
+        "**맞춤형 의료 실현** / Precision Medicine Implementation: 개별 환자의 뇌 특성을 반영한 개인맞춤형 치료 결과 예측으로 정밀의료 구현 / Enabling personalized treatment prediction based on individual brain characteristics for precision medicine",
+        "**임상 적용 가능성** / Clinical Application Potential: 신경학적 장애 치료에서 물리 정보 기반 AI 모델의 실용성 입증으로 향후 임상 적용 기대 / Demonstrating potential of physics-informed AI in neurological disorder treatment with future clinical validation prospects"
+      ],
+      "url": "https://arxiv.org/abs/2603.29176",
+      "featured": false
+    },
+    {
+      "id": "6913a03ff67a",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "14시간 전 / 14h ago",
+      "title": "Structural and dynamical strategies to prevent runaway excitation in reservoir computing",
+      "titleKo": "",
+      "summary": "arXiv:2603.29597v1 Announce Type: new Abstract: Reservoirs, typically implemented as recurrent neural networks with fixed random connection weights, can be combined with a simple trained readout layer to perform a wide range of computational tasks. However, increasing the magnitude of reservoir connection weights to exploit nonlinear dynamics can cause the network to develop strong spontaneous activity that drives neurons into saturation, dramatically degrading performance. In this work, we investigate two distinct countermeasures against such runaway excitation. The first approach introduces ",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2603.29597",
+      "featured": false
+    },
+    {
+      "id": "90c8b4332435",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "14시간 전 / 14h ago",
+      "title": "Convergent Representations of Linguistic Constructions in Human and Artificial Neural Systems",
+      "titleKo": "",
+      "summary": "arXiv:2603.29617v1 Announce Type: new Abstract: Understanding how the brain processes linguistic constructions is a central challenge in cognitive neuroscience and linguistics. Recent computational studies show that artificial neural language models spontaneously develop differentiated representations of Argument Structure Constructions (ASCs), generating predictions about when and how construction-level information emerges during processing. The present study tests these predictions in human neural activity using electroencephalography (EEG). Ten native English speakers listened to 200 synthe",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2603.29617",
+      "featured": false
+    },
     {
       "id": "94b8492e20fb",
       "tag": "psych",
@@ -21,7 +221,7 @@
         "**인과관계 규명의 필요성** / Further research needed to establish causation rather than mere correlation"
       ],
       "url": "https://www.psypost.org/belief-in-the-harmfulness-of-speech-is-linked-to-both-progressive-ideology-and-symptoms-of-depression/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4bffd80f13a9",
@@ -205,216 +405,6 @@
         "**온라인 성별갈등의 심리적 기저** / Psychological Foundation of Online Gender Conflict: 성별갈등이 진정한 보호 욕구가 아닌 권력 관계와 상호 경멸에 근거함을 입증"
       ],
       "url": "https://www.psypost.org/men-who-favor-the-tradwife-lifestyle-often-view-the-women-in-it-with-derision/",
-      "featured": false
-    },
-    {
-      "id": "e431ada134a5",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
-      "titleKo": "과학자들이 근육을 만들고 지방을 태우며 뇌력을 높이는 수면 스위치를 발견하다",
-      "summary": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance. Scientists have now mapped the neural circuits behind this process, uncovering a delicate feedback loop in which sleep boosts growth hormone, and that same hormone helps regulate wakefulness.",
-      "aiSummary": "Scientists have discovered that deep sleep activates a powerful brain-driven system that controls growth hormone, which fuels muscle and bone strength, metabolism, and mental performance. Researchers mapped neural circuits behind this process and identified a delicate feedback loop where sleep boosts growth hormone, and this hormone in turn helps regulate wakefulness. This bidirectional communication system demonstrates the profound physiological importance of sleep beyond simple rest and recovery. The findings reveal how sleep deprivation can negatively impact metabolism, bone health, and cognitive function at the neurological level. This research provides crucial foundational knowledge for developing sleep disorder treatments and optimizing sleep management strategies for peak physical performance. However, additional human clinical trials are needed before these discoveries can be translated into practical therapeutic applications.\n\n##",
-      "aiSummaryKo": "최근 과학자들은 깊은 수면이 단순한 휴식을 넘어 근육 성장, 지방 연소, 뇌 기능 향상을 주도하는 강력한 시스템을 활성화한다는 사실을 규명했습니다. 연구팀은 뇌의 신경회로를 정밀하게 매핑하여 수면과 성장호르몬 사이의 복잡한 피드백 고리를 발견했습니다. 이 피드백 루프는 깊은 수면이 성장호르몬을 증가시키고, 동시에 이 호르몬이 깨어있는 상태를 조절하는 상호작용 메커니즘입니다. 연구는 수면의 생리적 중요성을 뇌 신경계 수준에서 입증하여 수면 부족이 대사, 뼈 건강, 인지 기능에 미치는 해로운 영향을 과학적으로 설명합니다. 이 발견은 수면 장애 치료와 최적의 신체 성능을 위한 수면 관리 전략 개발에 중요한 기초 자료를 제공합니다. 다만, 구체적인 임상 적용까지는 추가 인간 연구와 임상 실험이 필요합니다.\n\n##",
-      "aiSummaryEn": "Scientists have discovered that deep sleep activates a powerful brain-driven system that controls growth hormone, which fuels muscle and bone strength, metabolism, and mental performance. Researchers mapped neural circuits behind this process and identified a delicate feedback loop where sleep boosts growth hormone, and this hormone in turn helps regulate wakefulness. This bidirectional communication system demonstrates the profound physiological importance of sleep beyond simple rest and recovery. The findings reveal how sleep deprivation can negatively impact metabolism, bone health, and cognitive function at the neurological level. This research provides crucial foundational knowledge for developing sleep disorder treatments and optimizing sleep management strategies for peak physical performance. However, additional human clinical trials are needed before these discoveries can be translated into practical therapeutic applications.\n\n##",
-      "keyPoints": [
-        "**수면의 다층적 기능** / Multi-dimensional Function of Sleep",
-        "**신경-호르몬 피드백 루프** / Neuro-hormonal Feedback Loop",
-        "**신경회로 수준의 이해** / Neural Circuit-Level Understanding",
-        "**임상 응용의 가능성과 제한** / Clinical Application Potential and Limitations"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
-      "featured": false
-    },
-    {
-      "id": "527643040fdb",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Just a few minutes of effort could lower your risk of 8 major diseases",
-      "titleKo": "단 몇 분의 노력으로 8가지 주요 질병의 위험을 줄일 수 있습니다",
-      "summary": "Just a few minutes of getting out of breath each day could dramatically cut your risk of major diseases—including heart disease, dementia, and diabetes. A large study of nearly 100,000 people found that it’s not just how much you move, but how intensely you move that matters. Short bursts of vigorous activity—like rushing for a bus or climbing stairs quickly—were linked to striking reductions in disease risk, especially for inflammatory conditions and brain health.",
-      "aiSummary": "This research investigated how exercise intensity significantly impacts disease prevention. In a large-scale study tracking nearly 100,000 participants, researchers analyzed physical activity patterns with special focus on the effects of vigorous exercise. The findings revealed that brief bursts of intense activity—such as rushing for a bus or climbing stairs quickly—substantially reduced the risk of eight major diseases including heart disease, dementia, and diabetes. The effects were particularly pronounced for inflammatory conditions and brain health improvement. The significance of this study lies in demonstrating that individuals can gain substantial health benefits through short daily investments in intense physical activity. However, limitations include the observational nature of the study which cannot fully establish causality, and potential constraints in participant characteristics and generalizability.\n\n##",
-      "aiSummaryKo": "이 연구는 신체활동의 강도가 질병 예방에 얼마나 중요한지를 조사했습니다. 약 10만 명을 대상으로 한 대규모 연구에서 연구팀은 참가자들의 신체활동 패턴을 추적했고, 특히 격렬한 활동의 효과를 분석했습니다. 연구 결과, 버스를 타기 위해 뛰거나 계단을 빠르게 오르는 것처럼 짧은 시간의 격렬한 활동만으로도 심장병, 치매, 당뇨병 등 8가지 주요 질병의 위험을 크게 감소시킬 수 있었습니다. 특히 염증성 질환과 뇌 건강 개선에서 두드러진 효과가 나타났습니다. 이 연구의 의의는 일상에서 짧은 시간만 투자해도 건강상 이점을 얻을 수 있다는 것을 보여준 점입니다. 다만 이 연구는 관찰 연구로서 인과관계를 완전히 증명하지 못했으며, 참가자 특성이 제한적일 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigated how exercise intensity significantly impacts disease prevention. In a large-scale study tracking nearly 100,000 participants, researchers analyzed physical activity patterns with special focus on the effects of vigorous exercise. The findings revealed that brief bursts of intense activity—such as rushing for a bus or climbing stairs quickly—substantially reduced the risk of eight major diseases including heart disease, dementia, and diabetes. The effects were particularly pronounced for inflammatory conditions and brain health improvement. The significance of this study lies in demonstrating that individuals can gain substantial health benefits through short daily investments in intense physical activity. However, limitations include the observational nature of the study which cannot fully establish causality, and potential constraints in participant characteristics and generalizability.\n\n##",
-      "keyPoints": [
-        "**강도의 중요성**: 운동량뿐만 아니라 운동의 강도(격렬함)가 질병 예방에 더 중요한 역할을 함 / Exercise intensity, not just volume, plays a crucial role in disease prevention",
-        "**짧은 시간의 효과성**: 버스를 타기 위해 뛰거나 계단을 빠르게 오르는 것처럼 일상의 짧은 격렬한 활동만으로도 건강상 이점을 얻을 수 있음 / Short bursts of daily intense activity like rushing or climbing stairs can provide significant health benefits",
-        "**질병 감소 범위**: 심장병, 치매, 당뇨병을 포함한 8가지 주요 질병의 위험 감소, 특히 염증성 질환과 뇌 건강에 효과적임 / Risk reduction for eight major diseases including heart disease, dementia, and diabetes, with particular effectiveness for inflammatory conditions and brain health",
-        "**실용적 의의**: 일상에서 추가 운동 시간을 내기 어려운 사람들도 짧은 격렬한 활동으로 건강을 개선할 수 있는 실질적인 방법 제시 / Provides practical health improvement strategy for people struggling to find time for exercise through short, intense daily activities"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
-      "featured": false
-    },
-    {
-      "id": "7a7de1767a2f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "What teens eat could be affecting their mental health more than we thought",
-      "titleKo": "청소년들이 먹는 음식이 생각보다 정신 건강에 훨씬 더 큰 영향을 미칠 수 있다",
-      "summary": "What teens eat might matter more for their mental health than previously thought. A sweeping review of nearly 20 studies found that healthier diets are often linked to fewer depressive symptoms, while poor eating habits may go hand in hand with greater psychological distress. Interestingly, focusing on whole dietary patterns—not just individual nutrients—showed more consistent benefits, suggesting that overall eating habits could play a meaningful role during this critical stage of brain development.",
-      "aiSummary": "A comprehensive review of approximately 20 studies has revealed that adolescents' dietary habits may significantly influence their mental health more than previously recognized. Researchers conducted a systematic review to examine the relationship between dietary patterns and mental health outcomes in teenagers. The findings showed that adolescents with healthier diets experienced fewer depressive symptoms, while poor eating habits were associated with increased psychological distress. Notably, focusing on overall dietary patterns rather than individual nutrients demonstrated more consistent and meaningful benefits. This suggests that healthy eating habits play an important role during the critical stage of adolescent brain development. However, the study's limitations include its reliance on observational research, which cannot definitively establish causality between diet and mental health outcomes.\n\n##",
-      "aiSummaryKo": "청소년의 식습관이 정신건강에 미치는 영향을 조사한 연구가 진행되었다. 연구진은 약 20개의 선행 연구를 종합 검토(메타분석)하는 방식으로 청소년 식단과 정신건강의 관계를 분석했다. 연구 결과, 건강한 식단을 섭취하는 청소년들이 우울증 증상이 적었으며, 반대로 불건전한 식습관은 심리적 스트레스 증가와 연관된 것으로 나타났다. 특히 개별 영양소보다는 전체적인 식단 패턴에 중점을 두었을 때 더 일관된 긍정적 효과가 확인되었다. 이는 뇌 발달이 활발한 청소년기에 올바른 식습관이 정신건강에 의미 있는 역할을 할 수 있음을 시사한다. 다만 이 연구는 관찰 연구에 기반하고 있어 식단과 정신건강 간의 인과관계를 명확히 증명하지는 못했다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "A comprehensive review of approximately 20 studies has revealed that adolescents' dietary habits may significantly influence their mental health more than previously recognized. Researchers conducted a systematic review to examine the relationship between dietary patterns and mental health outcomes in teenagers. The findings showed that adolescents with healthier diets experienced fewer depressive symptoms, while poor eating habits were associated with increased psychological distress. Notably, focusing on overall dietary patterns rather than individual nutrients demonstrated more consistent and meaningful benefits. This suggests that healthy eating habits play an important role during the critical stage of adolescent brain development. However, the study's limitations include its reliance on observational research, which cannot definitively establish causality between diet and mental health outcomes.\n\n##",
-      "keyPoints": [
-        "**식단과 우울증의 관계**: 건강한 식습관은 청소년의 우울증 증상 감소와 연관되며, 불건전한 식습관은 심리적 스트레스 증가와 연관됨 / Healthy diets are linked to fewer depressive symptoms in adolescents, while poor eating habits are associated with increased psychological distress.",
-        "**전체 식단 패턴의 중요성**: 개별 영양소보다 전체적인 식단 패턴을 고려했을 때 더 일관되고 의미 있는 정신건강 개선 효과가 나타남 / Overall dietary patterns showed more consistent benefits than focusing on individual nutrients alone.",
-        "**청소년기 뇌 발달 단계**: 뇌가 빠르게 발달하는 청소년 시기에 올바른 식습관이 정신건강에 의미 있는 영향을 미칠 수 있음 / Proper eating habits may play a meaningful role during the critical stage of adolescent brain development.",
-        "**연구의 한계**: 약 20개 연구에 대한 메타분석이지만 관찰 연구 기반이므로 인과관계를 명확히 증명하지 못함 / The study is based on observational research, limiting its ability to establish definitive causality between diet and mental health."
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043602.htm",
-      "featured": false
-    },
-    {
-      "id": "a13c36087b32",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "This new therapy turns off pain without opioids or addiction",
-      "titleKo": "이 새로운 치료법은 마약성 진통제나 중독 없이 통증을 차단한다",
-      "summary": "Scientists have developed a new gene therapy that quiets pain at its source in the brain—without the addictive risks of opioids. Using AI to map how pain is processed, they created a targeted “off switch” that mimics morphine’s benefits but skips its dangerous side effects. In early tests, it delivered lasting relief without affecting normal sensations. The discovery could mark a major step toward safer, non-addictive pain treatments.",
-      "aiSummary": "Scientists have developed an innovative gene therapy to address the growing opioid addiction crisis by providing pain relief without addictive risks. Using artificial intelligence to map pain processing pathways in the brain, researchers created a targeted \"off switch\" mechanism that replicates morphine's analgesic benefits while eliminating its dangerous side effects. The therapy works by selectively silencing pain signals at their neurological source. Early testing demonstrated sustained pain relief without compromising normal sensory functions or causing addiction. This breakthrough represents a major advancement toward safer, non-addictive pain management treatments for patients suffering from chronic pain conditions. However, the research is still in its preliminary stages, requiring larger-scale clinical trials and long-term safety data before widespread clinical application.",
-      "aiSummaryKo": "과도한 오피오이드 사용으로 인한 중독 위험이 사회적 문제가 되면서, 과학자들은 중독 없이 통증을 완화할 수 있는 새로운 유전자 치료법을 개발했다. 연구팀은 인공지능(AI)을 활용하여 뇌에서 통증이 어떻게 처리되는지 매핑하고, 통증을 선택적으로 차단하는 \"오프 스위치\"를 만들어냈다. 이 치료법은 모르핀과 유사한 진통 효과를 제공하면서도 중독성과 부작용은 제거하는 방식으로 작동한다. 초기 임상 시험에서 지속적인 통증 완화 효과를 보였으며, 정상적인 감각 기능은 영향을 받지 않았다. 이 발견은 중독성 없는 안전한 통증 치료법 개발의 획기적인 진전을 의미한다. 다만 현재는 초기 단계 연구로, 더 대규모의 임상 시험과 장기 안전성 데이터가 필요하다.",
-      "aiSummaryEn": "Scientists have developed an innovative gene therapy to address the growing opioid addiction crisis by providing pain relief without addictive risks. Using artificial intelligence to map pain processing pathways in the brain, researchers created a targeted \"off switch\" mechanism that replicates morphine's analgesic benefits while eliminating its dangerous side effects. The therapy works by selectively silencing pain signals at their neurological source. Early testing demonstrated sustained pain relief without compromising normal sensory functions or causing addiction. This breakthrough represents a major advancement toward safer, non-addictive pain management treatments for patients suffering from chronic pain conditions. However, the research is still in its preliminary stages, requiring larger-scale clinical trials and long-term safety data before widespread clinical application.",
-      "keyPoints": [
-        "**중독 위험 제거** / **Eliminating Addiction Risk**: 기존 오피오이드의 중독성을 제거하면서 진통 효과만 유지하는 획기적 치료법 개발 / Breakthrough treatment that preserves analgesic effects while removing opioids' addictive properties",
-        "**AI 기반 정밀 타겟팅** / **AI-Powered Precision Targeting**: 인공지능을 활용한 뇌 통증 처리 과정 분석으로 선택적 신경 제어 가능 / AI-enabled mapping of pain pathways allows precise and selective neural intervention",
-        "**정상 감각 기능 유지** / **Preserving Normal Sensations**: 통증 신호만 차단하여 정상적인 감각 기능은 보존 / Therapy blocks pain signals while maintaining normal sensory functions and protective mechanisms",
-        "**조기 임상 결과 긍정적** / **Positive Early Clinical Results**: 초기 시험에서 지속적 통증 완화 효과 확인되었으나 추가 대규모 연구 필요 / Early tests show sustained relief, but larger trials and long-term safety data still needed for clinical approval"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043558.htm",
-      "featured": false
-    },
-    {
-      "id": "397b8b0c59fb",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "11시간 전 / 11h ago",
-      "title": "A diet based on ultra-processed foods impairs metabolic and reproductive health, study finds",
-      "titleKo": "초가공식품 기반 식단이 신진대사 및 생식 건강을 손상시킨다는 연구 결과",
-      "summary": "A strict new dietary study shows ultra-processed foods are inherently harmful. Beyond driving weight gain, these industrial foods expose men to plastic-related chemicals, worsen cholesterol, and impair reproductive hormones.",
-      "aiSummary": "A recent dietary study demonstrates that ultra-processed foods cause harm beyond simple weight gain, negatively affecting overall metabolic and reproductive health in men. The research highlights that ultra-processed foods contain plastic-related chemicals that accumulate in the body and worsen cholesterol levels while impairing reproductive hormone production. The study extends previous findings on ultra-processed foods by showing they can trigger hormonal and metabolic disorders, not just obesity. Researchers discovered that these industrial food products simultaneously compromise multiple physiological systems in the body. However, the study is limited by insufficient details regarding sample size and participant numbers, as well as the lack of long-term follow-up data. These findings are expected to serve as evidence for public health recommendations to reduce ultra-processed food consumption in the general population.\n\n##",
-      "aiSummaryKo": "최근 연구는 초가공식품이 단순한 체중 증가를 넘어 전반적인 건강에 해로운 영향을 미친다는 것을 보여줍니다. 이 연구는 초가공식품 섭취가 남성의 신진대사와 생식 건강을 동시에 악화시킨다는 점에 주목했습니다. 연구팀은 초가공식품에 포함된 플라스틱 관련 화학물질이 체내 축적되고, 콜레스테롤 수치를 악화시키며, 생식 호르몬 분비를 저해한다는 사실을 발견했습니다. 이는 기존의 초가공식품 위해성 연구를 확장하여, 비만뿐 아니라 호르몬계 및 대사 장애까지 야기할 수 있음을 시사합니다. 다만, 연구 규모와 대상자 수에 대한 구체적인 정보가 제한적이며, 장기적 추적 관찰 데이터가 필요합니다. 이 연구 결과는 공중보건 차원에서 초가공식품 섭취 감소를 강조하는 근거로 활용될 수 있을 것으로 기대됩니다.\n\n##",
-      "aiSummaryEn": "A recent dietary study demonstrates that ultra-processed foods cause harm beyond simple weight gain, negatively affecting overall metabolic and reproductive health in men. The research highlights that ultra-processed foods contain plastic-related chemicals that accumulate in the body and worsen cholesterol levels while impairing reproductive hormone production. The study extends previous findings on ultra-processed foods by showing they can trigger hormonal and metabolic disorders, not just obesity. Researchers discovered that these industrial food products simultaneously compromise multiple physiological systems in the body. However, the study is limited by insufficient details regarding sample size and participant numbers, as well as the lack of long-term follow-up data. These findings are expected to serve as evidence for public health recommendations to reduce ultra-processed food consumption in the general population.\n\n##",
-      "keyPoints": [
-        "초가공식품 섭취 → 남성 신진대사·생식 건강 악화 / Ultra-processed foods impair male metabolic and reproductive health",
-        "플라스틱 화학물질 축적 및 콜레스테롤 악화 / Accumulation of plastic-related chemicals and worsening cholesterol levels",
-        "호르몬 분비 저해 메커니즘 규명 / Identification of mechanism impairing hormone production",
-        "공중보건 정책 수립의 근거 제시 / Evidence for public health policy establishment on food regulation"
-      ],
-      "url": "https://www.psypost.org/a-diet-based-on-ultra-processed-foods-impairs-metabolic-and-reproductive-health-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "1dcc4ca69cbe",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "13시간 전 / 13h ago",
-      "title": "Psychologists identify nine core habits associated with healthy non-monogamous partnerships",
-      "titleKo": "심리학자들이 건강한 비일부일처제 관계와 관련된 9가지 핵심 습관을 파악하다",
-      "summary": "New research in the Archives of Sexual Behavior identifies specific habits that people use to navigate multiple romantic partners. Engaging in practices like discussing outside attractions tends to predict better relationship quality across different relationship styles.",
-      "aiSummary": "Recent research published in the Archives of Sexual Behavior has identified specific habits that contribute to successful relationships involving multiple romantic partners. The research team examined participants with various relationship structures and investigated correlations between relationship satisfaction and particular habits. Key findings reveal that nine core habits—including open discussion about outside attractions, establishing clear boundaries, and regular communication—enhance relationship quality across all relationship types. Notably, transparent communication between partners significantly improves trust and overall satisfaction. The significance of this study lies in providing scientific evidence for the psychological foundations of diverse relationship structures, offering practical guidance for relationship counseling and education. However, limitations include potential restrictions in participants' socioeconomic backgrounds and cultural diversity.\n\n##",
-      "aiSummaryKo": "최근 성행동 연구 저널(Archives of Sexual Behavior)에 발표된 연구는 복수 파트너와의 관계를 성공적으로 유지하는 방법을 규명했습니다. 연구팀은 다양한 관계 형태를 가진 참가자들을 대상으로 관계 만족도와 상관있는 습관들을 조사했습니다. 핵심 결과는 외부 매력에 대한 공개 토론, 명확한 경계 설정, 정기적인 소통 등 9가지 핵심 습관이 모든 관계 유형에서 관계 질을 향상시킨다는 것입니다. 특히 파트너 간 투명한 의사소통이 신뢰와 만족도를 크게 증진시키는 것으로 나타났습니다. 이 연구의 의의는 다양한 관계 형태의 심리적 기반을 과학적으로 규명함으로써 관계 상담 및 교육에 실질적 근거를 제공한다는 점입니다. 다만 참가자의 사회경제적 배경이나 문화적 다양성이 제한적일 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "Recent research published in the Archives of Sexual Behavior has identified specific habits that contribute to successful relationships involving multiple romantic partners. The research team examined participants with various relationship structures and investigated correlations between relationship satisfaction and particular habits. Key findings reveal that nine core habits—including open discussion about outside attractions, establishing clear boundaries, and regular communication—enhance relationship quality across all relationship types. Notably, transparent communication between partners significantly improves trust and overall satisfaction. The significance of this study lies in providing scientific evidence for the psychological foundations of diverse relationship structures, offering practical guidance for relationship counseling and education. However, limitations include potential restrictions in participants' socioeconomic backgrounds and cultural diversity.\n\n##",
-      "keyPoints": [
-        "**핵심 습관 도출** / Nine core habits identified that predict relationship quality and success in non-monogamous partnerships",
-        "**투명한 의사소통** / Open discussion about outside attractions and transparent communication strongly correlates with better relationship outcomes",
-        "**보편적 적용 가능성** / These habits demonstrate effectiveness across different relationship styles, suggesting universal psychological principles",
-        "**실질적 적용 가치** / Findings provide evidence-based guidance for relationship counseling and education regarding diverse partnership structures"
-      ],
-      "url": "https://www.psypost.org/psychologists-identify-nine-core-habits-associated-with-healthy-non-monogamous-partnerships/",
-      "featured": false
-    },
-    {
-      "id": "4c9c9550b88d",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "15시간 전 / 15h ago",
-      "title": "Childhood trauma linked to elevated risk of simultaneous physical and mental illness in old age",
-      "titleKo": "어린 시절 트라우마, 노년기의 신체 및 정신 질환 동시 발생 위험 증가와 연관",
-      "summary": "New research reveals that adults who endured severe childhood adversity face a substantially higher risk of developing a combination of chronic physical diseases and depression as they age, highlighting the lifelong health impacts of early trauma.",
-      "aiSummary": "This research investigated the long-term health impacts of severe childhood adversity on aging adults' physical and mental well-being. Researchers tracked adults who experienced childhood trauma to analyze their risk of developing both chronic physical diseases and depression simultaneously in old age. Key findings revealed that individuals who endured severe childhood adversity face substantially elevated risk of co-occurring physical and mental illnesses during their later years. The significance of this study lies in demonstrating that childhood trauma is not a temporary issue but a lifelong risk factor that can damage both physical and mental health over decades. However, the research has limitations including reliance on retrospective self-reporting of childhood experiences, which may lack perfect accuracy, and potential sample bias affecting generalizability to broader populations.\n\n##",
-      "aiSummaryKo": "본 연구는 어린 시절의 심각한 역경 경험이 노년기 건강에 미치는 장기적 영향을 조사했습니다. 연구팀은 어린 시절 트라우마를 경험한 성인들을 추적 조사하여 이들이 노년기에 만성 신체질환과 우울증을 동시에 앓을 위험이 얼마나 높은지 분석했습니다. 핵심 결과는 심각한 어린 시절 역경을 겪은 성인들이 신체 질환과 정신질환을 함께 경험할 위험이 상당히 증가한다는 것을 보여주었습니다. 이 연구의 의의는 어린 시절 트라우마가 단순한 일시적 문제가 아니라 수십 년에 걸쳐 신체와 정신 건강을 모두 손상시킬 수 있음을 입증했다는 점입니다. 다만 이 연구는 회상에 기반한 조사여서 어린 시절 경험의 정확도가 완벽하지 않을 수 있으며, 특정 인구집단에 국한될 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigated the long-term health impacts of severe childhood adversity on aging adults' physical and mental well-being. Researchers tracked adults who experienced childhood trauma to analyze their risk of developing both chronic physical diseases and depression simultaneously in old age. Key findings revealed that individuals who endured severe childhood adversity face substantially elevated risk of co-occurring physical and mental illnesses during their later years. The significance of this study lies in demonstrating that childhood trauma is not a temporary issue but a lifelong risk factor that can damage both physical and mental health over decades. However, the research has limitations including reliance on retrospective self-reporting of childhood experiences, which may lack perfect accuracy, and potential sample bias affecting generalizability to broader populations.\n\n##",
-      "keyPoints": [
-        "**어린 시절 트라우마의 장기 영향** / Long-term Impact of Childhood Trauma",
-        "**신체-정신 질환의 동시 발생** / Comorbidity of Physical and Mental Illness",
-        "**공중보건의 필요성** / Need for Public Health Intervention",
-        "**회상 기반 연구의 한계** / Limitations of Retrospective Methodology"
-      ],
-      "url": "https://www.psypost.org/childhood-trauma-linked-to-elevated-risk-of-simultaneous-physical-and-mental-ill/",
-      "featured": false
-    },
-    {
-      "id": "3b0c6b1d0448",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "17시간 전 / 17h ago",
-      "title": "Short-acting psychedelic DMT shows promise as a rapid treatment for major depressive disorder",
-      "titleKo": "단기 작용 환각제 DMT, 주요 우울장애의 신속한 치료제로서의 가능성 입증",
-      "summary": "New findings published in Nature Medicine indicate that a brief dose of the psychedelic DMT, administered with dedicated psychological support, safely and rapidly relieves major depression. These mental health improvements tend to last for up to three months.",
-      "aiSummary": "A groundbreaking study published in Nature Medicine demonstrates that DMT (dimethyltryptamine), a short-acting psychedelic compound, can rapidly alleviate major depressive disorder (MDD) when administered with dedicated psychological support. Unlike conventional antidepressants that typically require weeks or months to take effect, DMT showed rapid relief of depressive symptoms with improvements lasting up to three months. The research indicates that the treatment was safe and well-tolerated in patients receiving the intervention. This finding is significant because it offers a potential rapid-acting alternative for patients with treatment-resistant depression who do not respond to standard therapies. However, the study has limitations including potentially small sample sizes, unknown long-term efficacy beyond three months, and whether results generalize across different depression subtypes. Further clinical trials will be necessary to validate DMT's safety profile and effectiveness for broader therapeutic application in depression treatment.",
-      "aiSummaryKo": "정신과 치료가 어려운 주요우울장애(MDD) 환자들을 위한 새로운 치료법이 주목받고 있습니다. 최근 Nature Medicine에 발표된 연구는 단기간 작용하는 환각성 물질인 DMT(디메틸트립타민)가 심리 치료 지원과 함께 투여될 때 우울증을 빠르게 완화시킬 수 있음을 보여주었습니다. 이 연구는 DMT 투여 후 환자들의 정신건강이 안전하게 개선되었으며, 그 효과가 최대 3개월까지 지속되었다는 구체적인 결과를 제시했습니다. 이는 기존의 수주 또는 수개월이 소요되는 항우울제 치료와 달리 빠른 효과를 기대할 수 있다는 점에서 의의가 있습니다. 다만 이 연구는 표본 크기나 장기적 효과, 다양한 우울증 유형에 대한 효과 등이 추가 검증되어야 할 한계가 있습니다. 향후 더 많은 임상시험을 통해 DMT의 안전성과 효과성이 입증된다면, 난치성 우울증 치료의 새로운 선택지가 될 수 있을 것으로 기대됩니다.",
-      "aiSummaryEn": "A groundbreaking study published in Nature Medicine demonstrates that DMT (dimethyltryptamine), a short-acting psychedelic compound, can rapidly alleviate major depressive disorder (MDD) when administered with dedicated psychological support. Unlike conventional antidepressants that typically require weeks or months to take effect, DMT showed rapid relief of depressive symptoms with improvements lasting up to three months. The research indicates that the treatment was safe and well-tolerated in patients receiving the intervention. This finding is significant because it offers a potential rapid-acting alternative for patients with treatment-resistant depression who do not respond to standard therapies. However, the study has limitations including potentially small sample sizes, unknown long-term efficacy beyond three months, and whether results generalize across different depression subtypes. Further clinical trials will be necessary to validate DMT's safety profile and effectiveness for broader therapeutic application in depression treatment.",
-      "keyPoints": [
-        "**빠른 치료 효과** / Rapid therapeutic effect: DMT는 기존 항우울제보다 훨씬 빠르게 우울증 증상을 완화시킬 수 있음 / DMT relieves depression symptoms significantly faster than conventional antidepressants",
-        "**지속적인 개선** / Sustained improvement: 투여 후 최대 3개월까지 정신건강 개선 효과가 유지됨 / Mental health improvements persist for up to three months post-administration",
-        "**심리 지원의 중요성** / Importance of psychological support: DMT의 효과를 극대화하려면 전문적 심리 치료 지원이 필수적임 / Dedicated psychological support is essential for maximizing DMT's therapeutic benefits",
-        "**난치성 우울증의 새로운 희망** / Novel hope for treatment-resistant depression: 기존 치료에 반응하지 않는 환자들을 위한 대안으로 활용 가능성이 높음 / Offers potential therapeutic option for patients unresponsive to standard antidepressant treatments"
-      ],
-      "url": "https://www.psypost.org/short-acting-psychedelic-dmt-shows-promise-as-a-rapid-treatment-for-major-depressive-disorder/",
-      "featured": false
-    },
-    {
-      "id": "0a2dc133c264",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "3시간 전 / 3h ago",
-      "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
-      "titleKo": "ChartDiff: 차트 쌍 이해를 위한 대규모 벤치마크",
-      "summary": "arXiv:2603.28902v1 Announce Type: new Abstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rather than comparative reasoning across multiple charts. To address this gap, we introduce ChartDiff, the first large-scale benchmark for cross-chart comparative summarization. ChartDiff consists of 8,541 chart pairs spanning diverse data sources, chart types, and visual styles, each annotated with LLM-generated and human-verified summaries describing differences in trends, fluctuations, and anomalie",
-      "aiSummary": "Charts are essential tools for data analysis and decision-making, yet existing AI research has focused almost exclusively on single-chart comprehension. This study introduces ChartDiff, a novel benchmark dataset designed to evaluate AI systems' ability to compare and analyze multiple charts. Researchers collected 8,541 chart pairs from diverse data sources, spanning various chart types and visual styles, with each pair annotated with summaries describing differences in trends, fluctuations, and anomalies—generated by large language models (LLMs) and verified by human annotators. The dataset enables comprehensive evaluation of AI systems' cross-chart comparative reasoning capabilities beyond simple chart reading. The significance lies in advancing evaluation methods for complex analytical reasoning tasks involving multiple visual information sources. Limitations include potential inconsistencies in LLM-generated summaries and variations in human verification standards.\n\n##",
-      "aiSummaryKo": "차트는 데이터 분석과 의사결정의 핵심 도구이지만, 기존 AI 연구는 단일 차트 이해에만 집중했습니다. 이번 연구는 두 개 이상의 차트를 비교 분석하는 능력을 평가하기 위해 'ChartDiff'라는 새로운 벤치마크 데이터셋을 개발했습니다. 연구팀은 다양한 데이터 출처, 차트 유형, 시각 스타일을 포함한 8,541개의 차트 쌍을 수집하고, 각 쌍마다 추세, 변동, 이상치의 차이를 설명하는 요약문을 LLM(대규모언어모델)이 생성한 후 인간이 검증하여 주석을 달았습니다. 이 데이터셋은 AI가 여러 차트의 비교 분석 능력을 평가하는 데 사용될 수 있습니다. 연구의 의의는 단순 차트 읽기를 넘어 복잡한 비교 추론 능력 평가가 가능하다는 점입니다. 다만 LLM 생성 요약의 정확성과 인간 검증의 일관성이 제한요인이 될 수 있습니다.\n\n##",
-      "aiSummaryEn": "Charts are essential tools for data analysis and decision-making, yet existing AI research has focused almost exclusively on single-chart comprehension. This study introduces ChartDiff, a novel benchmark dataset designed to evaluate AI systems' ability to compare and analyze multiple charts. Researchers collected 8,541 chart pairs from diverse data sources, spanning various chart types and visual styles, with each pair annotated with summaries describing differences in trends, fluctuations, and anomalies—generated by large language models (LLMs) and verified by human annotators. The dataset enables comprehensive evaluation of AI systems' cross-chart comparative reasoning capabilities beyond simple chart reading. The significance lies in advancing evaluation methods for complex analytical reasoning tasks involving multiple visual information sources. Limitations include potential inconsistencies in LLM-generated summaries and variations in human verification standards.\n\n##",
-      "keyPoints": [
-        "**ChartDiff 데이터셋 규모** / Dataset Scale: 8,541개의 차트 쌍으로 구성된 대규모 벤치마크로, 단일 차트 이해를 넘어 비교 분석 능력 평가 가능 / First large-scale benchmark with 8,541 chart pairs enabling cross-chart comparative analysis beyond single-chart understanding",
-        "**다양한 차트 유형 포함** / Diverse Chart Types: 다양한 데이터 출처와 시각 스타일을 포함하여 AI 모델의 일반화 능력 평가 가능 / Includes diverse data sources and visual styles to assess AI model generalization capabilities",
-        "**LLM과 인간 검증 결합** / Hybrid Annotation Method: LLM이 생성한 요약을 인간이 검증하는 방식으로 데이터 품질 확보 / Uses LLM-generated summaries verified by human annotators to ensure data quality",
-        "**분석 추론 능력 평가** / Analytical Reasoning Evaluation: 추세, 변동, 이상치의 차이를 인식하고 설명하는 능력을 측정하여 고수준의 데이터 해석 능력 평가 / Evaluates sophisticated analytical reasoning including trend differences, fluctuations, and anomaly detection across chart pairs"
-      ],
-      "url": "https://arxiv.org/abs/2603.28902",
-      "featured": false
-    },
-    {
-      "id": "20cdb76b08c1",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "3시간 전 / 3h ago",
-      "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
-      "titleKo": "작업논문: 인공일반지능을 위한 범주론적 비교 프레임워크 구축 방향",
-      "summary": "arXiv:2603.28906v1 Announce Type: new Abstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented amounts of resources in its pursuit. Yet, there does not exist a single formal definition and only some empirical AGI benchmarking frameworks currently exist. The main purpose of this paper is to develop a general, algebraic and category theoretic framework for describing, comparing and analysing different possible AGI architectures. Thus, this Category theoretic formalization would also allow to co",
-      "aiSummary": "This working paper addresses the lack of formal definition and unified comparison frameworks for Artificial General Intelligence (AGI) despite unprecedented investment from major tech companies worldwide. The researchers propose a category-theoretic mathematical framework that enables systematic description, comparison, and analysis of different AGI architectures. This algebraic approach allows researchers to formally represent the structural relationships between complex AI systems and objectively evaluate the strengths and weaknesses of each AGI design approach. The primary significance is establishing a common language for comparing AGI research across different institutions and supplementing existing empirical benchmarking frameworks. However, the practical applicability of this theoretical framework to actual AGI development and its comprehensiveness in covering all possible AGI architectures require further validation and refinement.\n\n##",
-      "aiSummaryKo": "본 연구는 인공일반지능(AGI) 개발의 급속한 진전에도 불구하고 AGI에 대한 명확한 정의와 비교 체계가 부족하다는 문제를 다룬다. 연구팀은 범주론(Category Theory)이라는 수학적 틀을 활용하여 서로 다른 AGI 아키텍처를 체계적으로 기술하고 비교할 수 있는 통합적 프레임워크를 개발했다. 이 접근방식은 복잡한 AI 시스템들의 구조적 관계를 대수적으로 표현하여, 각 AGI 설계 방식의 강점과 약점을 객관적으로 분석할 수 있게 한다. 현재 존재하는 경험적 벤치마킹 프레임워크의 한계를 보완하고, 서로 다른 기관의 AGI 연구를 비교 가능하게 만드는 것이 연구의 핵심 의의다. 다만 이 이론적 프레임워크가 실제 AGI 개발에 얼마나 실질적으로 적용될 수 있을지, 그리고 모든 가능한 AGI 아키텍처를 포괄할 수 있을지는 향후 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "This working paper addresses the lack of formal definition and unified comparison frameworks for Artificial General Intelligence (AGI) despite unprecedented investment from major tech companies worldwide. The researchers propose a category-theoretic mathematical framework that enables systematic description, comparison, and analysis of different AGI architectures. This algebraic approach allows researchers to formally represent the structural relationships between complex AI systems and objectively evaluate the strengths and weaknesses of each AGI design approach. The primary significance is establishing a common language for comparing AGI research across different institutions and supplementing existing empirical benchmarking frameworks. However, the practical applicability of this theoretical framework to actual AGI development and its comprehensiveness in covering all possible AGI architectures require further validation and refinement.\n\n##",
-      "keyPoints": [
-        "**명확한 정의의 부재** / Lack of Formal Definition: 현재 AGI에 대한 단일한 공식 정의가 없어 각 기관이 서로 다른 기준으로 연구 중 / Currently, no single formal definition of AGI exists, causing different institutions to operate under different criteria",
-        "**범주론적 접근의 혁신성** / Category-Theoretic Innovation: 추상 대수학의 범주론을 적용하여 서로 다른 AGI 아키텍처의 구조적 관계를 수학적으로 표현 / Using category theory from abstract algebra to mathematically express structural relationships between different AGI architectures",
-        "**비교 체계의 필요성** / Need for Comparative Framework: 기존의 경험적 벤치마킹만으로는 부족하며, 이론적이고 체계적인 비교 프레임워크가 필수적 / Empirical benchmarking alone is insufficient; a theoretical and systematic comparative framework is essential",
-        "**실무 적용의 불확실성** / Uncertain Practical Application: 이론적 프레임워크의 실제 개발 환경으로의 적용 가능성과 한계에 대한 추가 연구 필요 / Further research needed on the practical applicability of the theoretical framework to actual AGI development environments"
-      ],
-      "url": "https://arxiv.org/abs/2603.28906",
       "featured": false
     }
   ]
