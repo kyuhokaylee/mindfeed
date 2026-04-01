@@ -1191,52 +1191,47 @@ function renderFeed() {
 function buildSummaryHTML(item, summary) {
   const points = (item.keyPoints || []).map(p => `<div class="key-point">${p}</div>`).join('');
 
-  // news.json에서 불러온 한/영 요약 즉시 표시
+  // news.json에서 불러온 한/영 요약 표시
   if (summary === '__CACHED__') {
+    const ko = item.aiSummaryKo || '';
+    const en = item.aiSummaryEn || item.aiSummary || '';
     return `
-      <div class="ai-lang-label">한국어 요약 KO</div>
-      <p style="white-space:pre-line;line-height:1.8">${item.aiSummaryKo || ''}</p>
-      <hr class="ai-panel-divider">
+      ${ko ? `<div class="ai-lang-label">한국어 요약 KO</div>
+      <p style="white-space:pre-line;line-height:1.8">${ko}</p>
+      <hr class="ai-panel-divider">` : ''}
       <div class="ai-lang-label">English Summary EN</div>
-      <p style="white-space:pre-line;color:#9ca8b8;line-height:1.8">${item.aiSummaryEn || item.aiSummary || ''}</p>
+      <p style="white-space:pre-line;color:#9ca8b8;line-height:1.8">${en}</p>
       ${points ? `<div class="key-points">
         <div style="font-size:11px;color:var(--muted);font-family:var(--font-mono);margin-bottom:8px;">핵심 포인트 / Key Points</div>
         ${points}
       </div>` : ''}`;
   }
 
-  // [한국어 요약] / [English Summary] 섹션 파싱
+  // Claude API가 생성한 요약 — [한국어 요약] / [English Summary] 파싱
   const koMatch = summary.match(/\[한국어 요약\]\s*([\s\S]*?)(?=\[English Summary\]|$)/i);
   const enMatch = summary.match(/\[English Summary\]\s*([\s\S]*?)$/i);
 
   const koText = koMatch ? koMatch[1].trim() : '';
   const enText = enMatch ? enMatch[1].trim() : '';
 
-  // 섹션 구분이 없으면 한국어 여부로 판별
+  // 섹션 구분 없으면 한국어 여부로 판별
   const hasKorean = /[가-힣]/.test(summary);
-  const fallbackKo = hasKorean ? summary : '';
-  const fallbackEn = hasKorean ? (item.aiSummary || '') : summary;
-
-  const displayKo = koText || fallbackKo;
-  const displayEn = enText || fallbackEn;
+  const displayKo = koText || (hasKorean ? summary : '');
+  const displayEn = enText || (hasKorean ? (item.aiSummary || '') : summary);
 
   return `
     ${displayKo ? `
       <div class="ai-lang-label">한국어 요약 KO</div>
-      <p style="white-space:pre-line">${displayKo}</p>
-      <hr class="ai-panel-divider">
-    ` : ''}
+      <p style="white-space:pre-line;line-height:1.8">${displayKo}</p>
+      <hr class="ai-panel-divider">` : ''}
     <div class="ai-lang-label">English Summary EN</div>
-    <p style="white-space:pre-line;color:#9ca8b8">${displayEn}</p>
-    ${points ? `
-    <div class="key-points">
+    <p style="white-space:pre-line;color:#9ca8b8;line-height:1.8">${displayEn}</p>
+    ${points ? `<div class="key-points">
       <div style="font-size:11px;color:var(--muted);font-family:var(--font-mono);margin-bottom:8px;">핵심 포인트 / Key Points</div>
       ${points}
     </div>` : ''}`;
 }
 
-// Cache: pre-generate summaries for all cards on page load
-const summaryCache = {};
 
 async function prefetchSummary(item) {
   const pid = String(item.id);
@@ -1251,7 +1246,7 @@ async function prefetchSummary(item) {
         max_tokens: 2000,
         messages: [{
           role: "user",
-          content: `다음 심리학/AI 뉴스 기사를 한국어로 3-4문장으로 요약해주세요. 핵심 연구결과, 방법론, 의의를 포함하고 일반인도 이해할 수 있게 쉽게 설명해주세요. 한국어 요약만 작성하고 다른 말은 붙이지 마세요.\n\n제목: ${item.title}\n\n내용: ${item.summary}`
+          content: `다음 심리학/AI 뉴스 기사를 아래 형식으로 작성하세요.\n\n[한국어 요약]\n5-6문장: 연구 배경, 방법, 핵심 결과(수치 포함), 의의를 포함. 일반인도 이해할 수 있게 쉽게 설명.\n\n[English Summary]\n5-6 sentences: background, methodology, key findings with numbers, significance.\n\n제목: ${item.title}\n\n내용: ${item.summary}`
         }]
       })
     });
