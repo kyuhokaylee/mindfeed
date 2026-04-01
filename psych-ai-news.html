@@ -1239,8 +1239,9 @@ function buildSummaryHTML(item, summary) {
 const summaryCache = {};
 
 async function prefetchSummary(item) {
-  if (summaryCache[item.id]) return;
-  summaryCache[item.id] = 'loading';
+  const pid = String(item.id);
+  if (summaryCache[pid]) return;
+  summaryCache[pid] = 'loading';
   try {
     const response = await fetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
@@ -1255,9 +1256,9 @@ async function prefetchSummary(item) {
       })
     });
     const data = await response.json();
-    summaryCache[item.id] = data.content?.[0]?.text || item.aiSummary;
+    summaryCache[pid] = data.content?.[0]?.text || item.aiSummary;
   } catch (err) {
-    summaryCache[item.id] = item.aiSummary;
+    summaryCache[pid] = item.aiSummary;
   }
 }
 
@@ -1267,7 +1268,7 @@ function startPrefetch() {
     setTimeout(async () => {
       await prefetchSummary(item);
       // Mark button as ready
-      const btn = document.querySelector(`[onclick="toggleAI(${item.id}, event)"]`);
+      const btn = document.querySelector(`[onclick="toggleAI('${item.id}', event)"]`);
       if (btn) btn.classList.add('cached');
     }, i * 800);
   });
@@ -1275,8 +1276,10 @@ function startPrefetch() {
 
 function toggleAI(id, e) {
   e.stopPropagation();
-  const panel = document.getElementById(`ai-${id}`);
-  const bodyEl = document.getElementById(`ai-body-${id}`);
+  const sid = String(id);
+  const panel = document.getElementById('ai-' + sid);
+  const bodyEl = document.getElementById('ai-body-' + sid);
+  if (!panel || !bodyEl) { console.warn('toggleAI: element not found', sid); return; }
   const item = NEWS_DATA.find(i => String(i.id) === String(id));
 
   if (panel.classList.contains('open')) {
@@ -1293,8 +1296,8 @@ function toggleAI(id, e) {
   }
 
   // 1순위: 캐시 (이미 생성된 요약)
-  if (summaryCache[id] && summaryCache[id] !== 'loading') {
-    bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[id]);
+  if (summaryCache[sid] && summaryCache[sid] !== 'loading') {
+    bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[sid]);
     return;
   }
 
@@ -1308,9 +1311,9 @@ function toggleAI(id, e) {
   bodyEl.innerHTML = `<div class="ai-loading">요약 생성 중 / Generating<span class="dots"><span>.</span><span>.</span><span>.</span></span></div>`;
 
   const poll = setInterval(() => {
-    if (summaryCache[id] && summaryCache[id] !== 'loading') {
+    if (summaryCache[sid] && summaryCache[sid] !== 'loading') {
       clearInterval(poll);
-      bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[id]);
+      bodyEl.innerHTML = buildSummaryHTML(item, summaryCache[sid]);
     }
   }, 300);
 
@@ -1323,7 +1326,7 @@ function toggleAI(id, e) {
   setTimeout(() => {
     clearInterval(poll);
     if (bodyEl.innerHTML.includes('ai-loading')) {
-      summaryCache[id] = item.aiSummary;
+      summaryCache[sid] = item.aiSummary;
       bodyEl.innerHTML = buildSummaryHTML(item, item.aiSummary);
     }
   }, 12000);
