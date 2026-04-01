@@ -1189,7 +1189,7 @@ function renderFeed() {
 
 function buildSummaryHTML(item, summary) {
   const points = (item.keyPoints || []).map(p => `<div class="key-point">${p}</div>`).join('');
-  const clean = t => (t || '').replace(/#{1,6}\s*/g, '').replace(/\*\*/g, '').trim();
+  const clean = t => (t || '').replace(/\n*---+\n*#*/g, '').replace(/#{1,6}\s*/g, '').replace(/\*\*/g, '').replace(/\n{3,}/g, '\n\n').trim();
 
   // __CACHED__: news.json에서 불러온 요약
   if (summary === '__CACHED__') {
