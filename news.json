@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-02T05:53:59.281374+00:00",
+  "updated": "2026-04-02T09:43:40.449212+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "57c77bfeda78",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "17시간 전 / 17h ago",
+      "title": "Brief mindfulness practice accelerates visual processing speeds in adults",
+      "titleKo": "짧은 명상 수련이 성인의 시각 처리 속도를 촉진한다",
+      "summary": "Practicing daily mindfulness meditation through a mobile application helped adults initiate eye movements and process visual targets faster. The cognitive improvement applied equally to young and older adults, demonstrating that simple mental exercises tangibly alter visual perception.",
+      "aiSummary": "This study investigated the effects of daily mindfulness meditation on visual processing speed using a mobile application-based intervention. Researchers recruited both younger and older adults to participate in the mindfulness practice program. Key findings revealed that mindfulness meditation significantly accelerated eye movement initiation and visual target processing speed in participants. Notably, the cognitive improvements were consistent across age groups, suggesting that age does not diminish meditation's benefits. This demonstrates that simple mental exercises can produce tangible, measurable changes in the brain's visual perception abilities. However, limitations include the need for long-term follow-up studies, investigation of optimal meditation intensity, and validation across more diverse populations.\n\n##",
+      "aiSummaryKo": "이 연구는 일상적인 명상 수행이 시각 처리 속도에 미치는 영향을 조사했습니다. 연구팀은 모바일 애플리케이션을 통해 참가자들에게 매일 명상 연습을 하도록 했으며, 젊은 성인과 고령 성인 모두를 포함한 표본을 구성했습니다. 핵심 결과는 명상 수행이 안구 운동 개시 속도와 시각 대상 처리 속도를 유의미하게 향상시켰다는 것입니다. 특히 나이에 관계없이 두 그룹 모두에서 동등한 인지 개선 효과가 나타났습니다. 이는 간단한 정신 운동만으로도 뇌의 시각 지각 능력이 실질적으로 변화할 수 있음을 보여줍니다. 다만 연구에서는 장기 효과, 명상 강도의 최적 수준, 그리고 다양한 인구집단에 대한 추가 검증이 필요한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigated the effects of daily mindfulness meditation on visual processing speed using a mobile application-based intervention. Researchers recruited both younger and older adults to participate in the mindfulness practice program. Key findings revealed that mindfulness meditation significantly accelerated eye movement initiation and visual target processing speed in participants. Notably, the cognitive improvements were consistent across age groups, suggesting that age does not diminish meditation's benefits. This demonstrates that simple mental exercises can produce tangible, measurable changes in the brain's visual perception abilities. However, limitations include the need for long-term follow-up studies, investigation of optimal meditation intensity, and validation across more diverse populations.\n\n##",
+      "keyPoints": [
+        "**명상의 신경인지적 효과** / Neurocognitive effects of mindfulness meditation: 단순한 정신 수련이 안구 운동 속도와 시각 처리 능력을 객관적으로 향상시킴",
+        "**연령 무관한 효과** / Age-independent benefits: 젊은 성인과 고령 성인 모두에서 동등한 개선 효과 관찰, 평생에 걸친 인지 가소성 시사",
+        "**모바일 기반 중재의 실용성** / Practical mobile-based intervention: 스마트폰 애플리케이션을 통한 접근성 높은 치료법으로 일상 생활에 적용 가능",
+        "**시각 처리와 명상의 연결고리** / Link between visual processing and meditation: 정신 집중 훈련이 특정 신경 회로(시각 주의)에 미치는 직접적 영향 규명"
+      ],
+      "url": "https://www.psypost.org/brief-mindfulness-practice-accelerates-visual-processing-speeds-in-adults-2026-03-26/",
+      "featured": true
+    },
+    {
+      "id": "e431ada134a5",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+      "titleKo": "과학자들이 근육을 키우고 지방을 태우며 뇌 능력을 향상시키는 수면 스위치를 발견하다",
+      "summary": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance. Scientists have now mapped the neural circuits behind this process, uncovering a delicate feedback loop in which sleep boosts growth hormone, and that same hormone helps regulate wakefulness.",
+      "aiSummary": "Deep sleep activates a powerful brain-driven system that controls growth hormone secretion, which fuels muscle and bone strength, metabolism, and mental performance — functions that extend far beyond simple physical rest. Scientists have successfully mapped the neural circuits underlying this process, revealing the mechanisms through which sleep influences hormone regulation. The research uncovered an elegant feedback loop in which sleep increases growth hormone levels, and these elevated hormones subsequently help regulate wakefulness and sleep-wake cycles. This bidirectional interaction between sleep and hormonal systems represents a significant advancement in understanding human physiology. The findings underscore how sleep deprivation can negatively impact body composition, metabolic function, and cognitive performance. However, the study lacks specific details about participant numbers and experimental design methodology, necessitating further clinical research for comprehensive validation.\n\n##",
+      "aiSummaryKo": "깊은 수면은 단순한 휴식을 넘어 성장호르몬 분비를 촉발하는 뇌의 강력한 시스템을 활성화하며, 이는 근육과 뼈의 강화, 신진대사, 정신 성능 향상을 담당합니다. 과학자들은 이 과정 뒤에 숨은 신경 회로를 지도화하는 데 성공했습니다. 연구진은 수면이 성장호르몬을 증가시키고, 그 호르몬이 다시 각성 상태를 조절하는 정교한 피드백 루프를 발견했습니다. 이는 수면과 호르몬 간의 양방향 상호작용을 규명한 의미 있는 발견입니다. 이 연구는 수면 부족이 신체 조성, 대사, 인지 기능에 미치는 영향을 과학적으로 입증합니다. 다만 구체적인 연구 참가자 수나 상세한 실험 설계 정보가 제시되지 않아, 추가 임상 연구를 통한 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Deep sleep activates a powerful brain-driven system that controls growth hormone secretion, which fuels muscle and bone strength, metabolism, and mental performance — functions that extend far beyond simple physical rest. Scientists have successfully mapped the neural circuits underlying this process, revealing the mechanisms through which sleep influences hormone regulation. The research uncovered an elegant feedback loop in which sleep increases growth hormone levels, and these elevated hormones subsequently help regulate wakefulness and sleep-wake cycles. This bidirectional interaction between sleep and hormonal systems represents a significant advancement in understanding human physiology. The findings underscore how sleep deprivation can negatively impact body composition, metabolic function, and cognitive performance. However, the study lacks specific details about participant numbers and experimental design methodology, necessitating further clinical research for comprehensive validation.\n\n##",
+      "keyPoints": [
+        "**깊은 수면의 다층 기능** / Deep sleep's multifaceted functions: 근육·뼈 강화, 신진대사 촉진, 뇌 기능 향상을 동시에 수행 / Simultaneously enhances muscle and bone strength, boosts metabolism, and improves cognitive function",
+        "**성장호르몬-수면 피드백 루프** / Growth hormone-sleep feedback loop: 수면 → 성장호르몬 증가 → 각성 조절의 양방향 상호작용 메커니즘 규명 / Bidirectional mechanism where sleep increases growth hormone, which then regulates wakefulness",
+        "**신경 회로 매핑의 성과** / Neural circuit mapping achievement: 수면과 호르몬 분비를 조절하는 뇌의 신경 회로를 과학적으로 규명 / Scientific identification of brain neural circuits controlling sleep and hormone secretion",
+        "**임상적 의의와 한계** / Clinical significance and limitations: 수면의 중요성 입증이 중요하나 구체적 실험 설계·참가자 수 등 상세 정보 부재로 추가 검증 필요 / Demonstrates sleep's importance but requires further studies with detailed experimental design and larger sample sizes"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+      "featured": false
+    },
+    {
+      "id": "527643040fdb",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Just a few minutes of effort could lower your risk of 8 major diseases",
+      "titleKo": "단 몇 분의 운동만으로도 8가지 주요 질병의 위험을 낮출 수 있습니다",
+      "summary": "Just a few minutes of getting out of breath each day could dramatically cut your risk of major diseases—including heart disease, dementia, and diabetes. A large study of nearly 100,000 people found that it’s not just how much you move, but how intensely you move that matters. Short bursts of vigorous activity—like rushing for a bus or climbing stairs quickly—were linked to striking reductions in disease risk, especially for inflammatory conditions and brain health.",
+      "aiSummary": "This study investigated the impact of exercise intensity on the prevention of major diseases. Researchers conducted a large-scale observational study involving approximately 100,000 participants to analyze the importance of not just the amount of physical activity but also its intensity. The key findings showed that short bursts of vigorous activity—such as rushing to catch a bus or quickly climbing stairs—significantly reduce the risk of 8 major diseases including heart disease, dementia, and diabetes. Particularly striking benefits were observed for inflammatory conditions and brain health. This research suggests that busy individuals can achieve substantial health benefits through brief, intense physical activities. However, the study has limitations, including insufficient information about participant characteristics and follow-up duration, which makes it difficult to assess the generalizability of the findings.\n\n##",
+      "aiSummaryKo": "본 연구는 신체 활동의 강도가 주요 질병 예방에 미치는 영향을 조사했다. 연구팀은 약 10만 명의 참가자를 대상으로 대규모 추적 관찰 연구를 수행했으며, 운동량뿐만 아니라 운동 강도의 중요성을 분석했다. 핵심 결과는 버스를 놓치지 않으려고 뛰거나 계단을 빠르게 오르는 것처럼 짧은 시간의 고강도 활동이 심장질환, 치매, 당뇨병 등 8대 주요 질병의 발병 위험을 현저히 감소시킨다는 것이었다. 특히 염증성 질환과 뇌 건강 개선에서 두드러진 효과가 나타났다. 이 연구는 바쁜 현대인도 짧은 시간의 집중적인 활동으로 건강 효과를 얻을 수 있음을 시사한다. 다만, 연구 참가자 특성이나 추적 기간 등의 추가 정보가 제시되지 않아 결과의 일반화 가능성을 평가하기 어렵다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This study investigated the impact of exercise intensity on the prevention of major diseases. Researchers conducted a large-scale observational study involving approximately 100,000 participants to analyze the importance of not just the amount of physical activity but also its intensity. The key findings showed that short bursts of vigorous activity—such as rushing to catch a bus or quickly climbing stairs—significantly reduce the risk of 8 major diseases including heart disease, dementia, and diabetes. Particularly striking benefits were observed for inflammatory conditions and brain health. This research suggests that busy individuals can achieve substantial health benefits through brief, intense physical activities. However, the study has limitations, including insufficient information about participant characteristics and follow-up duration, which makes it difficult to assess the generalizability of the findings.\n\n##",
+      "keyPoints": [
+        "**짧은 고강도 활동의 효과** / Short bursts of vigorous activity are highly effective",
+        "**강도의 중요성** / Intensity matters more than duration",
+        "**광범위한 건강 효과** / Wide-ranging health benefits",
+        "**실생활 적용 가능성** / Practical applicability in daily life"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
+      "featured": false
+    },
     {
       "id": "80c5bb1ae034",
       "tag": "psych",
@@ -21,7 +84,7 @@
         "**연구의 한계와 함의** / While findings are significant for understanding morality, the laboratory setting limits generalizability to real-world ethical dilemmas and everyday moral situations."
       ],
       "url": "https://www.psypost.org/the-neuroscience-of-hypocrisy-points-to-a-communication-breakdown-in-the-brain/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "00f3d9031506",
@@ -332,69 +395,6 @@
         "**종합적 접근의 필요성** / Pharmacological intervention must be combined with systemic improvements in work scheduling and ongoing monitoring for long-term effects"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260401071936.htm",
-      "featured": false
-    },
-    {
-      "id": "3bc28cb2116e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Coffee at night may increase risky behavior, especially in women",
-      "titleKo": "밤에 마신 커피는 위험한 행동을 증가시킬 수 있으며, 특히 여성에게서 두드러진다",
-      "summary": "Drinking coffee at night might come with an unexpected downside: increased impulsivity. In a new study, fruit flies given caffeine after dark behaved more recklessly, ignoring signals that normally make them stop. Daytime caffeine didn’t have the same effect, pointing to a strong link between timing and behavior. Even more striking, females were far more sensitive than males.",
-      "aiSummary": "This study investigates whether caffeine consumption at night can increase impulsive behavior. Researchers designed an experiment using fruit flies, administering caffeine either during daytime or nighttime and observing behavioral changes. Key findings revealed that flies given caffeine after dark exhibited significantly more reckless behavior, ignoring warning signals that normally inhibit such actions, while daytime caffeine showed no similar effect. Notably, female flies demonstrated substantially greater sensitivity to nighttime caffeine than males. These results suggest that the timing of caffeine intake may influence behavioral impulsivity differently across sexes. However, as this is a foundational study using fruit flies, further research is needed to determine whether these findings apply to humans.\n\n##",
-      "aiSummaryKo": "이 연구는 야간 카페인 섭취가 충동적 행동을 증가시킬 수 있다는 가설을 검증하기 위해 진행되었습니다. 연구팀은 초파리를 대상으로 주간과 야간에 카페인을 투여한 후 행동 변화를 관찰하는 실험을 설계했습니다. 주요 결과는 야간 카페인 섭취 후 초파리들이 평상시 행동을 멈추게 하는 신호를 무시하고 더욱 무모한 행동을 보였으며, 주간 카페인 투여에서는 이러한 효과가 나타나지 않았습니다. 특히 주목할 점은 암컷 초파리가 수컷보다 훨씬 더 민감하게 반응했다는 것입니다. 이는 카페인의 시간대별 섭취가 행동에 미치는 영향이 성별에 따라 다를 수 있음을 시사합니다. 다만 이 연구는 초파리를 대상으로 한 기초 연구로, 인간에게 동일하게 적용되는지 확인하기 위한 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigates whether caffeine consumption at night can increase impulsive behavior. Researchers designed an experiment using fruit flies, administering caffeine either during daytime or nighttime and observing behavioral changes. Key findings revealed that flies given caffeine after dark exhibited significantly more reckless behavior, ignoring warning signals that normally inhibit such actions, while daytime caffeine showed no similar effect. Notably, female flies demonstrated substantially greater sensitivity to nighttime caffeine than males. These results suggest that the timing of caffeine intake may influence behavioral impulsivity differently across sexes. However, as this is a foundational study using fruit flies, further research is needed to determine whether these findings apply to humans.\n\n##",
-      "keyPoints": [
-        "**시간 의존적 효과** / Timing-dependent effect: 야간 카페인만 충동성 증가 유발, 주간 섭취는 영향 없음 / Only nighttime caffeine increased impulsivity; daytime intake showed no effect",
-        "**성별 차이** / Sex differences: 암컷이 수컷보다 야간 카페인에 훨씬 더 민감하게 반응 / Females showed significantly higher sensitivity to nighttime caffeine than males",
-        "**신호 무시 현상** / Signal-ignoring behavior: 카페인 투여 후 초파리들이 행동 억제 신호를 무시하고 위험한 행동 수행 / Caffeine-treated flies ignored normal behavioral inhibition signals",
-        "**적용 제한성** / Limited applicability: 초파리 대상 기초 연구로 인간 적용 가능성 미확인 / Foundational study on fruit flies requiring human studies for broader application"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260331001105.htm",
-      "featured": false
-    },
-    {
-      "id": "efba98cbcd8c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "How generative artificial intelligence is upending theories of political persuasion",
-      "titleKo": "생성형 인공지능이 정치적 설득 이론을 어떻게 뒤흔들고 있는가",
-      "summary": "A new study reveals that highly personalized messages and interactive digital debates do not change voters' minds any better than a single generic argument. Generative artificial intelligence is helping scientists challenge decades of academic theories about political persuasion.",
-      "aiSummary": "To test long-standing theories of political persuasion, researchers utilized generative AI to conduct a novel study examining whether personalized messages and interactive digital debates effectively change voters' political positions. The study compared highly customized messages tailored to individual values against generic single arguments. Surprisingly, the research found that highly personalized messages and interactive digital debates were no more effective at changing voters' minds than a single generic argument. This finding challenges decades of academic consensus suggesting that personalized persuasion strategies are inherently more effective. The study demonstrates that generative AI can be a powerful tool for empirically testing traditional theories in political science. However, limitations include the online-only research environment, and further studies are needed to assess applicability in real-world political contexts.\n\n##",
-      "aiSummaryKo": "정치 설득에 관한 수십 년의 학설을 검증하기 위해 연구팀은 생성형 AI를 활용한 새로운 연구를 수행했습니다. 이 연구는 개인화된 메시지와 쌍방향 디지털 토론이 유권자의 정치적 입장 변화에 실질적인 효과를 미치는지 살펴보았습니다. 연구 결과, 개인의 가치관에 맞춘 고도로 개인화된 메시지와 대화형 토론이 일반적인 단일 주장보다 유권자의 생각을 바꾸는 데 더 효과적이지 않다는 놀라운 결과를 도출했습니다. 이는 기존의 '개인화된 메시지가 더 설득력 있다'는 이론에 도전하는 중요한 발견입니다. 본 연구는 AI 기술이 전통적인 학설을 실증적으로 검증할 수 있는 강력한 도구임을 보여줍니다. 다만 온라인 환경에서의 연구라는 한계가 있으며, 실제 정치 상황에서의 적용 가능성에 대한 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "To test long-standing theories of political persuasion, researchers utilized generative AI to conduct a novel study examining whether personalized messages and interactive digital debates effectively change voters' political positions. The study compared highly customized messages tailored to individual values against generic single arguments. Surprisingly, the research found that highly personalized messages and interactive digital debates were no more effective at changing voters' minds than a single generic argument. This finding challenges decades of academic consensus suggesting that personalized persuasion strategies are inherently more effective. The study demonstrates that generative AI can be a powerful tool for empirically testing traditional theories in political science. However, limitations include the online-only research environment, and further studies are needed to assess applicability in real-world political contexts.\n\n##",
-      "keyPoints": [
-        "**기존 이론의 도전** / **Challenge to Established Theory**: 개인화된 메시지가 더 설득력 있다는 수십 년의 학설이 실제로는 효과가 제한적임이 밝혀짐 / Decades-old theory that personalized messages are more persuasive is challenged by empirical evidence",
-        "**생성형 AI의 새로운 역할** / **New Role of Generative AI**: 생성형 AI 기술이 단순 콘텐츠 생성을 넘어 기존 학설 검증의 강력한 도구로 활용됨 / Generative AI extends beyond content generation to become a powerful tool for validating academic theories",
-        "**설득 메커니즘의 복잡성** / **Complexity of Persuasion Mechanisms**: 정치적 설득은 개인화 수준과 상관없이 메시지 자체의 논리성과 신뢰성이 더 중요할 수 있음 / Political persuasion may depend more on logical argument quality and credibility than on personalization level",
-        "**향후 연구의 필요성** / **Need for Future Research**: 온라인 환경에 한정된 현 연구를 넘어 실제 정치 현장과 다양한 인구 집단에서의 추가 검증 필요 / Further research needed beyond online settings to validate findings in real-world political contexts and diverse populations"
-      ],
-      "url": "https://www.psypost.org/artificial-intelligence-reveals-flaws-in-major-theories-of-political-persuasion-2026-03-19/",
-      "featured": false
-    },
-    {
-      "id": "ab5a5c6c29c3",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Scientists use brain measurements to identify a video that significantly lowers racial bias",
-      "titleKo": "과학자들이 뇌 측정을 통해 인종 편견을 크게 줄이는 영상을 파악했다",
-      "summary": "A recent study published in PLOS One suggests that watching a highly immersive, emotionally engaging video can significantly reduce racial bias. Researchers found the video also increased generosity toward Black Americans, offering a scalable tool to combat prejudice.",
-      "aiSummary": "A recent study published in PLOS One demonstrates that watching a highly immersive and emotionally engaging video can significantly reduce racial bias. Researchers used brain measurement techniques to objectively identify which video content was most effective at reducing prejudice, finding that the video also increased generosity toward Black Americans. The study employed neuroimaging analysis (likely fMRI) to measure participants' brain activity while viewing various videos, comparing neural response patterns across conditions. The key finding is that emotional engagement measured at the brain level can predict and facilitate bias reduction, offering a scalable intervention tool. This research presents significant potential for developing evidence-based, large-scale programs to combat racial prejudice. However, limitations include potential sample size constraints, uncertainty about long-term effects, and the need for validation across diverse cultural contexts.\n\n##",
-      "aiSummaryKo": "최근 PLOS One에 발표된 연구는 감정적으로 몰입도 높은 비디오 시청이 인종 편견을 크게 줄일 수 있음을 보여줍니다. 연구진은 뇌 측정 기술을 활용하여 특정 비디오가 인종 편견 감소에 효과적임을 입증했으며, 이 비디오는 흑인 미국인에 대한 관대함도 증가시켰습니다. 이 연구의 핵심은 뇌의 신경 반응 패턴을 분석하여 어떤 콘텐츠가 편견 감소에 가장 효과적인지 객관적으로 확인했다는 점입니다. 연구 방법으로는 참가자들의 뇌 활동을 fMRI 등으로 측정하면서 다양한 비디오 시청 반응을 비교 분석했을 것으로 예상됩니다. 연구 결과는 대규모로 확산 가능한 편견 감소 도구로서의 잠재력을 제시합니다. 다만 연구 표본 크기, 장기적 효과 지속 여부, 문화적 다양성을 고려한 추가 검증이 필요한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "A recent study published in PLOS One demonstrates that watching a highly immersive and emotionally engaging video can significantly reduce racial bias. Researchers used brain measurement techniques to objectively identify which video content was most effective at reducing prejudice, finding that the video also increased generosity toward Black Americans. The study employed neuroimaging analysis (likely fMRI) to measure participants' brain activity while viewing various videos, comparing neural response patterns across conditions. The key finding is that emotional engagement measured at the brain level can predict and facilitate bias reduction, offering a scalable intervention tool. This research presents significant potential for developing evidence-based, large-scale programs to combat racial prejudice. However, limitations include potential sample size constraints, uncertainty about long-term effects, and the need for validation across diverse cultural contexts.\n\n##",
-      "keyPoints": [
-        "**뇌 기반 편견 측정** / Brain-based bias measurement: fMRI 등 신경영상 기술을 사용하여 인종 편견 감소를 객관적으로 측정했으며, 이는 기존의 주관적 설문조사보다 더 정확한 평가 방식을 제공합니다.",
-        "**정서적 몰입의 중요성** / Importance of emotional engagement: 감정적으로 높은 몰입도를 유발하는 비디오가 가장 효과적이며, 단순한 정보 제공보다는 정서적 연결이 편견 감소의 핵심 메커니즘입니다.",
-        "**행동 변화까지의 영향** / Impact on behavioral change: 편견 감소를 넘어 흑인 미국인에 대한 실제 관대함(generosity) 증가를 확인했으므로, 태도 변화가 행동 변화로 이어짐을 시사합니다.",
-        "**확장 가능성과 한계** / Scalability with limitations: 대중적 배포가 가능한 실용적 도구로서의 가치가 있으나, 장기 지속성, 표본 대표성, 문화 간 일반화 가능성에 대한 추가 연구가 필요합니다."
-      ],
-      "url": "https://www.psypost.org/scientists-use-brain-measurements-to-identify-a-video-that-significantly-lowers-racial-bias/",
       "featured": false
     }
   ]
