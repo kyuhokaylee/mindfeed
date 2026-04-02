@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-02T19:55:07.225723+00:00",
+  "updated": "2026-04-02T21:56:25.259847+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b486c7f60f9f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Smoked cannabis reduces immediate alcohol consumption in controlled laboratory trial",
+      "titleKo": "스모킹 대마초가 통제된 실험실 환경에서 즉각적인 알코올 섭취를 감소시킨다",
+      "summary": "In a controlled laboratory setting, heavy drinkers consumed up to 27 percent less alcohol after smoking cannabis. The findings offer new insights into how acute cannabis intoxication alters immediate drinking habits and delays the onset of alcohol consumption.",
+      "aiSummary": "This study examined the immediate effects of cannabis on alcohol consumption among heavy drinkers. Conducted in a controlled laboratory setting, researchers compared alcohol consumption before and after cannabis smoking in a group of participants with heavy drinking habits. The key finding showed that participants who smoked cannabis consumed up to 27% less alcohol compared to those who did not, and also delayed the onset of drinking. This research provides new insights into how acute cannabis intoxication alters immediate drinking patterns and postpones alcohol consumption initiation. However, the study was conducted only in a controlled laboratory environment, making it unclear whether these results would translate to real-world settings. Additionally, the research was limited to heavy drinkers, restricting generalizability to the broader population.",
+      "aiSummaryKo": "이 연구는 대마초가 음주량에 미치는 즉각적인 영향을 조사하기 위해 진행되었습니다. 통제된 실험실 환경에서 헤비 드링커(과음 습관이 있는 사람들)들을 대상으로 대마초 흡연 전후의 알코올 소비량을 비교하는 실험이 실시되었습니다. 연구 결과, 대마초를 피운 참가자들은 피우지 않은 참가자들에 비해 최대 27% 적게 알코올을 소비했으며, 음주를 시작하는 시간도 지연되는 것으로 나타났습니다. 이 발견은 급성 대마초 중독 상태가 즉각적인 음주 습관을 어떻게 변화시키는지에 대한 새로운 이해를 제공합니다. 다만 이 연구는 통제된 실험실 환경에서만 진행되었으므로 실제 일상생활에서의 결과가 동일하게 나타날지는 불명확한 한계가 있습니다. 또한 연구 대상이 헤비 드링커에 한정되어 있어 일반 인구집단에 일반화하기 어렵습니다.",
+      "aiSummaryEn": "This study examined the immediate effects of cannabis on alcohol consumption among heavy drinkers. Conducted in a controlled laboratory setting, researchers compared alcohol consumption before and after cannabis smoking in a group of participants with heavy drinking habits. The key finding showed that participants who smoked cannabis consumed up to 27% less alcohol compared to those who did not, and also delayed the onset of drinking. This research provides new insights into how acute cannabis intoxication alters immediate drinking patterns and postpones alcohol consumption initiation. However, the study was conducted only in a controlled laboratory environment, making it unclear whether these results would translate to real-world settings. Additionally, the research was limited to heavy drinkers, restricting generalizability to the broader population.",
+      "keyPoints": [
+        "**정량적 효과**: 대마초 흡연 후 알코올 소비량이 최대 27% 감소 / Cannabis smoking resulted in up to 27% reduction in alcohol consumption",
+        "**음주 개시 지연**: 대마초 사용이 음주 시작 시간을 지연시킴 / Cannabis intoxication delays the onset of alcohol consumption",
+        "**연구 설계의 강점**: 통제된 실험실 환경에서 정확한 측정 가능 / Controlled laboratory setting allows for precise measurement and causality establishment",
+        "**적용의 한계**: 실험실 결과가 실제 생활에 적용되지 않을 수 있으며, 헤비 드링커에만 적용된 결과임 / Limited generalizability to real-world contexts and restricted to heavy drinker populations"
+      ],
+      "url": "https://www.psypost.org/smoked-cannabis-reduces-immediate-alcohol-consumption-in-controlled-laboratory-t/",
+      "featured": true
+    },
+    {
+      "id": "00f3d9031506",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
+      "titleKo": "LLM 및 에이전트의 행동을 형성하는 감정: 메커니즘 연구",
+      "summary": "arXiv:2604.00005v1 Announce Type: new Abstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the behavior of large language models (LLMs) and agents. Existing emotion-aware studies mainly treat emotion as a surface-level style factor or a perception target, overlooking its mechanistic role in task processing. To address this limitation, we propose E-STEER, an interpretable emotion steering framework that enables direct representation-level intervention in LLMs and agents. It embeds emotion as",
+      "aiSummary": "This research investigates whether analogous emotional signals can shape the behavior of large language models (LLMs) and AI agents, motivated by emotion's important role in human cognition and performance. While existing emotion-aware studies treat emotion merely as a surface-level style factor or perception target, this work examines emotion's mechanistic role in task processing. The researchers propose E-STEER, an interpretable emotion steering framework that enables direct representation-level intervention in LLMs and agents, embedding emotion as a fundamental component in cognitive processing. The significance of this work lies in providing more fine-grained control methods for AI system behavior and elucidating how emotions mechanistically influence AI decision-making processes at a fundamental level. However, the study is in its early stages, requiring validation across diverse LLM models and real-world application scenarios, as well as further discussion on how emotional representations should be defined and measured.\n\n##",
+      "aiSummaryKo": "본 연구는 인간의 인지와 행동에서 감정이 중요한 역할을 한다는 점에 착안하여, 대형언어모델(LLM)과 AI 에이전트도 유사한 감정 신호에 의해 행동이 변할 수 있는지를 조사했습니다. 기존 감정 관련 연구들은 감정을 표면적인 스타일 요소나 인식 대상으로만 다루었으나, 본 연구는 감정이 과제 처리 과정에서 근본적인 역할을 한다고 가정합니다. 이를 검증하기 위해 연구팀은 'E-STEER'라는 해석 가능한 감정 조종 프레임워크를 제안하였으며, 이는 LLM과 AI 에이전트의 표현 수준에 직접 개입할 수 있습니다. 본 연구의 주요 의의는 AI 시스템의 행동을 더욱 세밀하게 제어할 수 있는 방법을 제시하고, 감정이 AI의 의사결정 과정에 어떻게 영향을 미치는지를 메커니즘 차원에서 규명했다는 점입니다. 다만 본 연구는 아직 초기 단계로, 다양한 LLM 모델과 실제 응용 환경에서의 검증이 필요하며, 감정 표현의 정의와 측정 방식에 대한 추가적 논의가 요구됩니다.\n\n##",
+      "aiSummaryEn": "This research investigates whether analogous emotional signals can shape the behavior of large language models (LLMs) and AI agents, motivated by emotion's important role in human cognition and performance. While existing emotion-aware studies treat emotion merely as a surface-level style factor or perception target, this work examines emotion's mechanistic role in task processing. The researchers propose E-STEER, an interpretable emotion steering framework that enables direct representation-level intervention in LLMs and agents, embedding emotion as a fundamental component in cognitive processing. The significance of this work lies in providing more fine-grained control methods for AI system behavior and elucidating how emotions mechanistically influence AI decision-making processes at a fundamental level. However, the study is in its early stages, requiring validation across diverse LLM models and real-world application scenarios, as well as further discussion on how emotional representations should be defined and measured.\n\n##",
+      "keyPoints": [
+        "**감정의 역할 재정의** / **Redefining Emotion's Role**: 기존의 감정을 표면적 스타일로만 보는 관점에서 벗어나, 과제 처리 과정의 근본적 메커니즘으로 감정을 위치지음",
+        "**E-STEER 프레임워크** / **E-STEER Framework**: 표현 수준에서 직접 개입이 가능한 해석 가능한 감정 조종 방식으로, 기존 방식보다 더 정교한 AI 제어가 가능",
+        "**AI 행동 제어의 고도화** / **Advanced AI Behavior Control**: 감정 신호를 통해 LLM과 에이전트의 행동을 메커니즘 차원에서 조종할 수 있게 함으로써 AI 제어의 새로운 가능성 제시",
+        "**향후 검증 필요** / **Need for Further Validation**: 다양한 모델과 실제 응용 환경에서의 광범위한 검증이 필요하며, 감정 표현의 정의와 측정 방식에 대한 학제 간 논의 요구"
+      ],
+      "url": "https://arxiv.org/abs/2604.00005",
+      "featured": false
+    },
+    {
+      "id": "f32666474475",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
+      "titleKo": "하나의 패널로는 부족하다: 임상 예측을 위한 사례 적응형 다중 에이전트 심의",
+      "summary": "arXiv:2604.00085v1 Announce Type: new Abstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produce divergent predictions under minor prompt changes. Existing single-agent strategies sample from one role-conditioned distribution, and multi-agent frameworks use fixed roles with flat majority voting, discarding the diagnostic signal in disagreement. We propose CAMP (Case-Adaptive Multi-agent Panel), where an attending-physician agent dynamically assembles a specialist panel tailored to each case",
+      "aiSummary": "Large language models applied to clinical prediction show case-level heterogeneity, where simple cases produce consistent outputs but complex cases exhibit divergent predictions with minor prompt variations. Existing single-agent approaches sample from one role-conditioned distribution, while current multi-agent frameworks use fixed roles with flat majority voting, failing to leverage the diagnostic signal contained in disagreement among agents. This study proposes CAMP (Case-Adaptive Multi-agent Panel), a system where an attending-physician agent dynamically assembles a specialized panel tailored to each individual case's complexity. This adaptive approach shows potential to improve both accuracy and consistency in clinical prediction tasks. However, the research is limited by the need for evaluation on real clinical datasets and validation across diverse medical domains to confirm effectiveness.\n\n##",
+      "aiSummaryKo": "의료 AI 분야에서 대규모 언어모델(LLM)을 임상 예측에 적용할 때, 단순한 사례는 일관된 결과를 보이지만 복잡한 사례는 사소한 프롬프트 변화에도 예측 결과가 크게 달라지는 문제가 발생한다. 기존의 단일 에이전트 방식이나 고정된 역할을 가진 다중 에이전트 시스템은 의사들의 의견 불일치 속에 담긴 진단 신호를 제대로 활용하지 못하고 있다. 이 연구에서는 CAMP(Case-Adaptive Multi-agent Panel)라는 새로운 시스템을 제안하는데, 담당의 역할을 하는 AI 에이전트가 각 사례의 복잡도에 따라 적절한 전문가 패널을 동적으로 구성하는 방식이다. 이러한 적응형 접근방식은 임상 예측의 정확성과 일관성을 향상시킬 수 있는 가능성을 보여준다. 다만 실제 임상 데이터에 대한 평가가 이루어져야 하며, 다양한 의료 분야에서의 효과성 검증이 필요하다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Large language models applied to clinical prediction show case-level heterogeneity, where simple cases produce consistent outputs but complex cases exhibit divergent predictions with minor prompt variations. Existing single-agent approaches sample from one role-conditioned distribution, while current multi-agent frameworks use fixed roles with flat majority voting, failing to leverage the diagnostic signal contained in disagreement among agents. This study proposes CAMP (Case-Adaptive Multi-agent Panel), a system where an attending-physician agent dynamically assembles a specialized panel tailored to each individual case's complexity. This adaptive approach shows potential to improve both accuracy and consistency in clinical prediction tasks. However, the research is limited by the need for evaluation on real clinical datasets and validation across diverse medical domains to confirm effectiveness.\n\n##",
+      "keyPoints": [
+        "**문제 인식**: 임상 AI에서 사례 난이도에 따른 예측 불일치 문제 / Problem identification: Case-level prediction inconsistency in clinical AI systems based on case complexity",
+        "**혁신적 접근**: 담당의 에이전트가 각 사례에 맞춰 동적으로 전문가 패널 구성 / Innovative approach: Dynamic specialist panel assembly tailored to each case by attending-physician agent",
+        "**의견 불일치의 가치 활용**: 기존의 단순 다수결 투표에서 벗어나 불일치 속 진단 신호 추출 / Leveraging disagreement signals: Moving beyond flat majority voting to extract diagnostic value from agent disagreement",
+        "**임상 적용 가능성**: 복잡한 의료 사례의 예측 정확성 향상을 위한 실무적 해결책 / Clinical applicability: Practical solution for improving prediction accuracy in complex medical cases"
+      ],
+      "url": "https://arxiv.org/abs/2604.00085",
+      "featured": false
+    },
+    {
+      "id": "f8b45d73543c",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
+      "titleKo": "개방적이고 신뢰할 수 있으며 협력적인: 도구 활용 AI 에이전트를 위한 커뮤니티 주도 프레임워크",
+      "summary": "arXiv:2604.00137v1 Announce Type: new Abstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that failures stem from both tool-use accuracy (how well an agent invokes a tool) and intrinsic tool accuracy (the tool's own correctness), while most prior work emphasizes the former. We introduce OpenTools, a community-driven toolbox that standardizes tool schemas, provides lightweight plug-and-play wrappers, and evaluates tools with automated test suites and continuous monitoring. We also release a publ",
+      "aiSummary": "Current AI systems that integrate large language models (LLMs) with external tools face reliability challenges due to poor tool-use performance. While previous research has focused mainly on how AI agents invoke tools incorrectly, this study argues that intrinsic tool failures are equally important contributors to system failures. To address this issue, the research team introduces OpenTools, a community-driven toolbox framework that standardizes tool schemas and provides lightweight plug-and-play integration wrappers. The framework includes automated test suites and continuous monitoring systems to evaluate tool accuracy and performance. OpenTools enables collaborative development where multiple contributors can improve and validate tools together through standardized processes. This research makes a significant contribution to enhancing the reliability of AI-integrated systems. However, the framework's success depends on achieving sufficient community participation and ensuring diverse tool coverage.\n\n##",
+      "aiSummaryKo": "현재 대형언어모델(LLM)에 외부 도구를 연결한 AI 시스템들은 도구 사용 능력이 떨어져 신뢰성이 낮다는 문제가 있습니다. 기존 연구들은 AI가 도구를 잘못 사용하는 문제에만 집중했지만, 이 연구팀은 도구 자체의 결함도 중요한 원인이라고 주장합니다. 이를 해결하기 위해 연구팀은 'OpenTools'라는 커뮤니티 기반 도구 모음을 개발했습니다. OpenTools는 도구의 기능을 표준화하고, 플러그 앤 플레이 방식의 간편한 연결 기능을 제공하며, 자동화된 테스트와 지속적인 모니터링으로 도구의 정확성을 평가합니다. 이 프레임워크는 여러 개발자가 함께 도구를 개선하고 검증할 수 있는 구조를 제공합니다. 본 연구는 AI 시스템의 신뢰성을 높이는 데 의미 있는 기여를 할 것으로 예상됩니다. 다만 커뮤니티 참여도 및 도구의 다양성 확보가 성공의 주요 과제입니다.\n\n##",
+      "aiSummaryEn": "Current AI systems that integrate large language models (LLMs) with external tools face reliability challenges due to poor tool-use performance. While previous research has focused mainly on how AI agents invoke tools incorrectly, this study argues that intrinsic tool failures are equally important contributors to system failures. To address this issue, the research team introduces OpenTools, a community-driven toolbox framework that standardizes tool schemas and provides lightweight plug-and-play integration wrappers. The framework includes automated test suites and continuous monitoring systems to evaluate tool accuracy and performance. OpenTools enables collaborative development where multiple contributors can improve and validate tools together through standardized processes. This research makes a significant contribution to enhancing the reliability of AI-integrated systems. However, the framework's success depends on achieving sufficient community participation and ensuring diverse tool coverage.\n\n##",
+      "keyPoints": [
+        "**도구 신뢰성의 이중 문제** / Dual reliability problem: 도구 사용 능력뿐만 아니라 도구 자체의 정확성도 중요 / Both how agents use tools and the tools' own correctness matter equally",
+        "**표준화된 도구 스키마** / Standardized tool schemas: 플러그 앤 플레이 방식으로 도구를 쉽게 연결하고 호환성을 보장 / Enabling easy integration and compatibility through lightweight wrappers",
+        "**자동화된 검증 시스템** / Automated validation: 자동화된 테스트 스위트와 지속적 모니터링으로 도구의 정확성을 체계적으로 평가 / Systematic evaluation through automated test suites and continuous monitoring",
+        "**커뮤니티 기반 개발** / Community-driven approach: 개방형 프레임워크를 통해 여러 개발자가 협력하여 도구를 개선하는 생태계 구축 / Building an ecosystem where multiple developers collaboratively improve and validate tools"
+      ],
+      "url": "https://arxiv.org/abs/2604.00137",
+      "featured": false
+    },
+    {
+      "id": "312e4c3258bc",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+      "titleKo": "행동 건강 커뮤니케이션 시뮬레이션을 위한 안전-인식형 역할-조율 다중에이전트 LLM 프레임워크",
+      "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, role-orchestrated multi-agent LLM framework designed to simulate supportive behavioral health dialogue through coordinated, role-differentiated agents. Conversational responsibilities are decomposed across specialized agents, including empathy-focused, action-oriented, and supervisory roles, while a prompt-based controller dynamically activates releva",
+      "aiSummary": "This study addresses the challenge that single-agent large language models (LLMs) struggle to simultaneously support diverse conversational functions while maintaining safety in behavioral health communication. The research team proposes a safety-aware, role-orchestrated multi-agent LLM framework where specialized AI agents with differentiated roles—including empathy-focused, action-oriented, and supervisory functions—work collaboratively. A prompt-based controller dynamically activates relevant agents depending on the conversational context and needs. The innovation lies in prioritizing safety mechanisms in mental health counseling rather than merely enhancing dialogue quality, with potential applications in crisis intervention and therapeutic support in clinical settings. The framework demonstrates how modular agent design can decompose complex conversational responsibilities while maintaining ethical safeguards. However, as a preliminary study, it requires validation with real clinical data and user satisfaction evaluations in future research.\n\n##",
+      "aiSummaryKo": "본 연구는 단일 언어모델(LLM)이 정신건강 상담 대화에서 다양한 기능을 동시에 수행하기 어렵다는 문제를 해결하기 위해 수행되었습니다. 연구팀은 역할별로 구분된 여러 AI 에이전트가 협력하는 '안전성-역할조율 다중에이전트 LLM 프레임워크'를 제안했습니다. 이 시스템은 공감 담당, 행동지향 담당, 감시 담당 등 특화된 역할의 에이전트들로 구성되며, 프롬프트 기반 제어기가 상황에 맞게 각 에이전트를 활성화합니다. 연구의 혁신성은 단순히 대화 품질을 높이는 것을 넘어 정신건강 상담에서 안전성을 우선적으로 보장한다는 점입니다. 이 접근방식은 정신건강 위기 상황 응대, 치료 지원 등 실제 임상 환경에서의 활용 가능성을 제시합니다. 다만 아직 예비 단계의 연구로, 실제 임상 데이터 검증과 사용자 만족도 평가가 추후에 필요합니다.\n\n##",
+      "aiSummaryEn": "This study addresses the challenge that single-agent large language models (LLMs) struggle to simultaneously support diverse conversational functions while maintaining safety in behavioral health communication. The research team proposes a safety-aware, role-orchestrated multi-agent LLM framework where specialized AI agents with differentiated roles—including empathy-focused, action-oriented, and supervisory functions—work collaboratively. A prompt-based controller dynamically activates relevant agents depending on the conversational context and needs. The innovation lies in prioritizing safety mechanisms in mental health counseling rather than merely enhancing dialogue quality, with potential applications in crisis intervention and therapeutic support in clinical settings. The framework demonstrates how modular agent design can decompose complex conversational responsibilities while maintaining ethical safeguards. However, as a preliminary study, it requires validation with real clinical data and user satisfaction evaluations in future research.\n\n##",
+      "keyPoints": [
+        "**다중에이전트 설계의 장점** / Advantages of Multi-Agent Architecture",
+        "**안전성 중심의 설계** / Safety-First Design",
+        "**동적 역할 조율** / Dynamic Role Orchestration",
+        "**임상 응용 가능성** / Clinical Application Potential"
+      ],
+      "url": "https://arxiv.org/abs/2604.00249",
+      "featured": false
+    },
+    {
+      "id": "ee81d0965e7a",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "Two-Stage Optimizer-Aware Online Data Selection for Large Language Models",
+      "titleKo": "대규모 언어 모델을 위한 이단계 최적화기 인식 온라인 데이터 선택",
+      "summary": "arXiv:2604.00001v1 Announce Type: new Abstract: Gradient-based data selection offers a principled framework for estimating sample utility in large language model (LLM) fine-tuning, but existing methods are mostly designed for offline settings. They are therefore less suited to online fine-tuning, where data arrives sequentially, sample utility is step-dependent, and the effective update geometry is shaped by adaptive optimizers. We propose an optimizer-aware framework for gradient-based online data selection and reweighting in LLM fine-tuning. Our key idea is to view online selection not as st",
+      "aiSummary": "This research addresses the challenge of efficiently selecting sequential data during fine-tuning of large language models (LLMs) in online settings. Existing offline data selection methods assume pre-collected datasets, but real-world online environments present sequential data arrival where sample utility varies at each step. The research team proposes an optimizer-aware framework for gradient-based online data selection and reweighting in LLM fine-tuning. This method considers the characteristics of adaptive optimizers to determine which data most effectively improves model performance. Through a two-stage structure, it performs data selection and weight adjustment simultaneously, enhancing fine-tuning efficiency. This approach is expected to be valuable in practical applications by reducing computational costs while maintaining model performance. However, additional validation across various LLM scales and in real online environments is needed.\n\n##",
+      "aiSummaryKo": "이 연구는 대규모 언어모델(LLM) 미세조정 과정에서 순차적으로 도착하는 데이터를 효율적으로 선택하는 문제를 다룬다. 기존의 오프라인 데이터 선택 방법들은 데이터가 미리 준비된 상황을 가정하지만, 실제 온라인 환경에서는 데이터가 순차적으로 들어오고 각 단계마다 샘플의 유용성이 달라진다는 한계가 있다. 연구팀은 그래디언트 기반의 최적화 알고리즘 인식형(optimizer-aware) 온라인 데이터 선택 프레임워크를 제안했다. 이 방법은 적응형 최적화기(adaptive optimizer)의 특성을 고려하여 어떤 데이터가 모델 성능 향상에 더 효과적인지 판단한다. 2단계 구조를 통해 데이터 선택과 가중치 조정을 동시에 수행하여 미세조정 효율을 높인다. 이 접근법은 계산 비용을 절감하면서도 모델 성능을 유지할 수 있어 실제 응용에서 유용할 것으로 기대된다. 다만, 다양한 규모의 LLM과 실제 온라인 환경에서의 추가 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "This research addresses the challenge of efficiently selecting sequential data during fine-tuning of large language models (LLMs) in online settings. Existing offline data selection methods assume pre-collected datasets, but real-world online environments present sequential data arrival where sample utility varies at each step. The research team proposes an optimizer-aware framework for gradient-based online data selection and reweighting in LLM fine-tuning. This method considers the characteristics of adaptive optimizers to determine which data most effectively improves model performance. Through a two-stage structure, it performs data selection and weight adjustment simultaneously, enhancing fine-tuning efficiency. This approach is expected to be valuable in practical applications by reducing computational costs while maintaining model performance. However, additional validation across various LLM scales and in real online environments is needed.\n\n##",
+      "keyPoints": [
+        "**온라인 데이터 선택의 중요성** / **Importance of Online Data Selection**: 순차적 데이터 환경에서 기존 오프라인 방식의 한계를 극복하기 위한 새로운 접근법 제시",
+        "**최적화 알고리즘 인식형 설계** / **Optimizer-Aware Design**: 적응형 최적화기(Adam 등)의 특성을 고려하여 더 정확한 샘플 유용성 추정",
+        "**2단계 프레임워크 구조** / **Two-Stage Framework**: 데이터 선택과 가중치 조정을 통합하여 효율성 극대화",
+        "**실무 적용 가능성** / **Practical Applicability**: 계산 비용 절감과 모델 성능 유지를 동시에 달성하여 실제 LLM 미세조정 환경에 즉시 적용 가능"
+      ],
+      "url": "https://arxiv.org/abs/2604.00001",
+      "featured": false
+    },
+    {
+      "id": "330d1347de3d",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "Task-Centric Personalized Federated Fine-Tuning of Language Models",
+      "titleKo": "작업 중심의 개인화된 페더레이션 언어 모델 미세조정",
+      "summary": "arXiv:2604.00050v1 Announce Type: new Abstract: Federated Learning (FL) has emerged as a promising technique for training language models on distributed and private datasets of diverse tasks. However, aggregating models trained on heterogeneous tasks often degrades the overall performance of individual clients. To address this issue, Personalized FL (pFL) aims to create models tailored for each client's data distribution. Although these approaches improve local performance, they usually lack robustness in two aspects: (i) generalization: when clients must make predictions on unseen tasks, or f",
+      "aiSummary": "This research addresses the limitations of Federated Learning (FL) when training language models on distributed and private datasets with heterogeneous tasks. Traditional FL faces performance degradation when aggregating models trained on diverse tasks across different clients. The researchers developed a Personalized FL (pFL) approach to create task-specific models tailored to each client's data distribution. However, existing pFL methods lack robustness in generalization when clients encounter unseen tasks and in overall model stability. The study's core contribution is implementing a task-centric personalization technique to simultaneously improve model stability and performance across diverse environments. This research demonstrates the feasibility of privacy-preserving efficient language model training in distributed settings. However, the study remains in its preliminary stage and requires additional validation for large-scale practical applications.\n\n##",
+      "aiSummaryKo": "본 연구는 분산된 개인 데이터셋에서 언어모델을 훈련하는 연합학습(Federated Learning) 기술의 한계를 해결하기 위해 진행되었습니다. 기존 연합학습은 서로 다른 작업의 데이터로 훈련된 모델들을 통합할 때 각 클라이언트의 성능이 저하되는 문제가 있었습니다. 연구팀은 개인화된 연합학습(pFL) 접근방식을 개발하여 각 클라이언트의 데이터 분포에 맞춤형 모델을 만들 수 있도록 설계했습니다. 이 방식은 처음 보는 작업에 대한 일반화 능력과 모델의 견고성이 부족한 문제점을 가지고 있었습니다. 연구의 핵심은 작업 중심의 개인화 기법을 통해 모델의 안정성과 성능을 동시에 향상시키는 것입니다. 이 연구는 프라이버시를 보호하면서도 분산 환경에서 효율적인 언어모델 훈련이 가능함을 시사합니다. 다만 연구는 초기 단계이며 실제 대규모 적용에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research addresses the limitations of Federated Learning (FL) when training language models on distributed and private datasets with heterogeneous tasks. Traditional FL faces performance degradation when aggregating models trained on diverse tasks across different clients. The researchers developed a Personalized FL (pFL) approach to create task-specific models tailored to each client's data distribution. However, existing pFL methods lack robustness in generalization when clients encounter unseen tasks and in overall model stability. The study's core contribution is implementing a task-centric personalization technique to simultaneously improve model stability and performance across diverse environments. This research demonstrates the feasibility of privacy-preserving efficient language model training in distributed settings. However, the study remains in its preliminary stage and requires additional validation for large-scale practical applications.\n\n##",
+      "keyPoints": [
+        "**문제점**: 연합학습에서 이질적(다양한) 작업들을 통합할 때 각 클라이언트의 성능 저하 문제 발생 / **Point 1**: Performance degradation in Federated Learning when aggregating heterogeneous tasks across clients",
+        "**핵심 해결책**: 작업 중심의 개인화된 연합학습으로 각 클라이언트에 맞춤형 모델 생성 / **Point 2**: Task-centric personalized approach creates client-specific models tailored to individual data distributions",
+        "**개선 영역**: 미지의 작업에 대한 일반화 능력과 모델 견고성 향상 / **Point 3**: Enhanced generalization capability for unseen tasks and improved model robustness",
+        "**실무 의의**: 프라이버시 보호 조건에서 분산 환경의 효율적인 언어모델 훈련 실현 가능성 제시 / **Point 4**: Demonstrates feasibility of privacy-preserving efficient language model training in distributed environments"
+      ],
+      "url": "https://arxiv.org/abs/2604.00050",
+      "featured": false
+    },
     {
       "id": "affbc577a227",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**일방적 감정 투자의 심리적 기제** / Reveals psychological mechanisms behind unreciprocal emotional investment in famous figures"
       ],
       "url": "https://www.psypost.org/vulnerable-narcissism-is-linked-to-intense-celebrity-worship-via-parasocial-relationships/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0b1fa8d6f7a0",
@@ -263,153 +410,6 @@
         "**추가 임상 데이터 필요** / Study requires more detailed information on participant demographics, dosage, side effects, and long-term safety profile"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260401071936.htm",
-      "featured": false
-    },
-    {
-      "id": "d03ce63cf41f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "Eating more meat may lower Alzheimer’s risk for some people",
-      "titleKo": "육류를 더 많이 섭취하면 일부 사람들의 알츠하이머병 위험을 낮출 수 있다",
-      "summary": "A surprising new study suggests that genetics may change how diet affects brain health—especially when it comes to Alzheimer’s risk. Researchers found that older adults carrying high-risk APOE gene variants didn’t show the expected cognitive decline if they ate relatively high amounts of meat. In fact, those with these genes who consumed the most meat had slower cognitive decline and lower dementia risk, challenging conventional dietary advice.",
-      "aiSummary": "This study investigates how genetics may modify the relationship between diet and brain health, particularly regarding Alzheimer's risk. Researchers examined older adults carrying high-risk APOE gene variants and analyzed the relationship between meat consumption and cognitive decline. Surprisingly, participants with high-risk APOE genes who consumed the most meat showed slower cognitive decline and lower dementia risk, contradicting conventional dietary recommendations. These findings suggest that the same food can have vastly different health effects depending on individual genetic characteristics, highlighting the need for personalized nutrition. The significance of this research lies in challenging one-size-fits-all dietary advice and emphasizing genetic variation in nutrient metabolism. However, limitations include potential small sample size, cross-sectional study design, and inability to establish causality definitively.\n\n##",
-      "aiSummaryKo": "본 연구는 유전자에 따라 식단이 뇌 건강에 미치는 영향이 달라질 수 있다는 가설에서 출발했습니다. 연구팀은 알츠하이머병 고위험 유전자인 APOE 유전자 변이를 가진 고령층을 대상으로 육류 섭취량과 인지 기능 저하의 관계를 조사했습니다. 놀랍게도 고위험 APOE 유전자를 보유한 참가자들 중 육류를 많이 섭취한 사람들이 인지 기능 저하가 더 느렸고 치매 위험도 더 낮은 것으로 나타났습니다. 이는 일반적인 식단 조언과 상충되는 결과로, 같은 음식이라도 개인의 유전적 특성에 따라 영향이 크게 다를 수 있음을 시사합니다. 본 연구의 의의는 '맞춤형 영양학'의 필요성을 강조하며, 모든 사람에게 동일한 식단 권장이 부적절할 수 있음을 보여줍니다. 다만 표본 크기, 단면 연구 설계, 그리고 인과관계 입증 부족 등이 주요 한계점으로 지적됩니다.\n\n##",
-      "aiSummaryEn": "This study investigates how genetics may modify the relationship between diet and brain health, particularly regarding Alzheimer's risk. Researchers examined older adults carrying high-risk APOE gene variants and analyzed the relationship between meat consumption and cognitive decline. Surprisingly, participants with high-risk APOE genes who consumed the most meat showed slower cognitive decline and lower dementia risk, contradicting conventional dietary recommendations. These findings suggest that the same food can have vastly different health effects depending on individual genetic characteristics, highlighting the need for personalized nutrition. The significance of this research lies in challenging one-size-fits-all dietary advice and emphasizing genetic variation in nutrient metabolism. However, limitations include potential small sample size, cross-sectional study design, and inability to establish causality definitively.\n\n##",
-      "keyPoints": [
-        "**유전자-식단 상호작용의 중요성** / Importance of Gene-Diet Interactions",
-        "**맞춤형 영양학의 필요성** / Need for Personalized Nutrition",
-        "**기존 식단 권장의 한계** / Limitations of Universal Dietary Recommendations",
-        "**추가 연구 필요성** / Need for Further Research"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260401071931.htm",
-      "featured": false
-    },
-    {
-      "id": "638fd728f72f",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Psychology researchers have determined the best time to text after a first date",
-      "titleKo": "심리학 연구진이 첫 데이트 후 문자를 보내기에 가장 좋은 시간을 밝혔다",
-      "summary": "Should you text immediately after a date, or wait three days? New research shows that playing hard to get completely backfires. To maximize your chances of a relationship, the optimal time to text is the next morning.",
-      "aiSummary": "Psychology researchers investigated the optimal timing for texting after a first date to determine whether traditional dating strategies are effective. The study examined whether popular advice like \"wait three days\" actually maximizes relationship potential. The key finding revealed that texting the morning after a first date is the most effective approach to increase the likelihood of relationship development. The research demonstrates that playing hard to get or delaying communication backfires and undermines relationship prospects. This study provides empirical evidence that prompt, authentic communication signals genuine interest and increases relationship success rates in modern dating culture. However, limitations include whether the findings generalize across different cultural contexts, individual preferences, and whether long-term relationship satisfaction was measured as an outcome.\n\n##",
-      "aiSummaryKo": "심리학 연구자들은 첫 데이트 후 상대방에게 언제 문자를 보내는 것이 가장 효과적인지를 조사했다. 이 연구는 \"3일 기다리기\"와 같은 연애 전략의 효과성을 검증하기 위해 진행되었다. 연구 결과에 따르면, 첫 데이트 후 다음 날 아침에 문자를 보내는 것이 관계 발전의 가능성을 최대화하는 최적의 시점이라고 나타났다. 즉, \"밀당\"을 시도하거나 오래 기다리는 전략은 오히려 역효과를 낳는다는 것을 보여준다. 이 연구는 현대인의 연애 문화에서 얼마나 빠른 커뮤니케이션이 진정성 있는 관계 형성의 신호로 작용하는지를 입증했다. 다만, 이 연구가 모든 문화권과 개인차를 완벽히 반영했는지, 그리고 장기적 관계 만족도까지 측정했는지에 대한 추가 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "Psychology researchers investigated the optimal timing for texting after a first date to determine whether traditional dating strategies are effective. The study examined whether popular advice like \"wait three days\" actually maximizes relationship potential. The key finding revealed that texting the morning after a first date is the most effective approach to increase the likelihood of relationship development. The research demonstrates that playing hard to get or delaying communication backfires and undermines relationship prospects. This study provides empirical evidence that prompt, authentic communication signals genuine interest and increases relationship success rates in modern dating culture. However, limitations include whether the findings generalize across different cultural contexts, individual preferences, and whether long-term relationship satisfaction was measured as an outcome.\n\n##",
-      "keyPoints": [
-        "**최적 타이밍은 다음 날 아침** / The optimal time to text is the next morning after a date",
-        "**\"밀당 전략\"은 역효과** / Playing hard to get completely backfires and reduces relationship chances",
-        "**빠른 연락이 진정성 신호** / Prompt communication demonstrates authenticity and genuine interest",
-        "**전통적 조언의 과학적 검증** / Scientific validation challenges traditional dating advice like the \"three-day rule\""
-      ],
-      "url": "https://www.psypost.org/psychology-researchers-have-determined-the-best-time-to-text-after-a-first-date/",
-      "featured": false
-    },
-    {
-      "id": "c69f45bad1bf",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "AI autocomplete suggestions covertly change how users think about important topics",
-      "titleKo": "AI 자동완성 기능이 사용자의 중요한 주제에 대한 생각을 은폐된 방식으로 변화시킨다",
-      "summary": "The AI helping you write might be secretly rewriting your mind. New research reveals that biased autocomplete suggestions subtly manipulate our opinions on major societal issues—and alarming data shows we don't even realize it's happening.",
-      "aiSummary": "Recent research reveals that AI autocomplete features may unconsciously manipulate users' opinions on important societal issues. The research team investigated how biased autocomplete suggestions influence users' thinking patterns and decision-making processes. The study found that participants' opinions shifted based on autocomplete recommendations, and alarmingly, most participants were unaware that their views had changed. This demonstrates how subtly AI technology can influence our cognition without explicit awareness. The research emphasizes the critical importance of transparency and ethical considerations in AI-based services. However, the study's limitations include potential differences between the controlled experimental environment and real-world usage conditions.\n\n##",
-      "aiSummaryKo": "최근 연구는 AI 자동완성 기능이 사용자의 의견을 무의식적으로 조작할 수 있다는 우려를 제기했습니다. 연구팀은 편향된 자동완성 제안이 사회적 주요 이슈에 대한 사용자의 생각을 어떻게 변화시키는지 조사했습니다. 실험 결과, 사용자들은 자동완성 기능의 영향을 받아 자신의 의견을 무의식적으로 변경했으며, 더욱 심각한 점은 대부분의 참가자가 이러한 변화를 인지하지 못했다는 것입니다. 이는 AI 기술이 얼마나 교묘하게 우리의 사고에 영향을 미칠 수 있는지 보여줍니다. 본 연구는 AI 기반 서비스의 투명성과 윤리성의 중요성을 강조합니다. 다만, 실험 환경이 현실 상황과 완전히 동일하지 않을 수 있다는 제한점이 있습니다.\n\n##",
-      "aiSummaryEn": "Recent research reveals that AI autocomplete features may unconsciously manipulate users' opinions on important societal issues. The research team investigated how biased autocomplete suggestions influence users' thinking patterns and decision-making processes. The study found that participants' opinions shifted based on autocomplete recommendations, and alarmingly, most participants were unaware that their views had changed. This demonstrates how subtly AI technology can influence our cognition without explicit awareness. The research emphasizes the critical importance of transparency and ethical considerations in AI-based services. However, the study's limitations include potential differences between the controlled experimental environment and real-world usage conditions.\n\n##",
-      "keyPoints": [
-        "**은폐적 영향력 / Covert Influence**: AI 자동완성이 사용자의 의견을 변화시키지만 사용자는 대부분 이를 인식하지 못함 / AI autocomplete changes user opinions while most users remain unaware of this manipulation",
-        "**무의식적 조작 메커니즘 / Unconscious Mechanism**: 편향된 제안이 자연스러운 선택으로 제시되어 비판적 사고를 우회함 / Biased suggestions presented as natural choices bypass critical thinking processes",
-        "**사회적 쟁점 영향 / Impact on Major Issues**: 자동완성 기능이 정치, 윤리, 사회정책 등 중요한 주제에 대한 인식을 변화시킬 수 있음 / Autocomplete can shift perceptions on critical topics including politics, ethics, and social policy",
-        "**AI 윤리 및 투명성의 필요성 / Need for AI Ethics & Transparency**: 사용자 자율성 보호와 AI 시스템의 책임감 있는 설계 필요 / Requires responsible AI design and protection of user autonomy through transparency and disclosure"
-      ],
-      "url": "https://www.psypost.org/ai-autocomplete-suggestions-covertly-change-how-users-think-about-important-topics/",
-      "featured": false
-    },
-    {
-      "id": "efba98cbcd8c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "16시간 전 / 16h ago",
-      "title": "How generative artificial intelligence is upending theories of political persuasion",
-      "titleKo": "생성형 인공지능이 정치적 설득 이론을 어떻게 뒤바꾸고 있는가",
-      "summary": "A new study reveals that highly personalized messages and interactive digital debates do not change voters' minds any better than a single generic argument. Generative artificial intelligence is helping scientists challenge decades of academic theories about political persuasion.",
-      "aiSummary": "This study used generative AI to empirically test decades-old theories of political persuasion that were previously taken as academic consensus. Researchers discovered that highly personalized messages and interactive digital debates were not more effective at changing voters' political positions than single generic arguments, directly contradicting conventional wisdom. Generative AI enabled researchers to rapidly test diverse persuasion strategies on large populations, overcoming limitations of traditional experimental methods. The findings have significant implications for political marketing, public communication, and democratic engagement strategies. However, the research was conducted in online environments, which may differ from real-world political contexts, and sample representativeness remains a potential limitation.\n\n##",
-      "aiSummaryKo": "이 연구는 생성형 AI를 활용하여 수십 년간 통설로 여겨졌던 정치 설득 이론들을 실증적으로 검증했습니다. 연구팀은 매우 개인화된 메시지와 대화형 디지털 토론이 실제로 유권자들의 정치적 입장을 변화시키는 데 있어 일반적인 단일 주장보다 효과적이지 않다는 것을 발견했습니다. 이는 기존의 \"맞춤형 정보가 더 설득력 있다\"는 학설을 직접적으로 반박하는 결과입니다. 생성형 AI는 대규모 집단을 상대로 다양한 설득 전략을 빠르고 효율적으로 테스트할 수 있게 해주어, 기존 실험 방식의 한계를 극복했습니다. 이 연구 결과는 정치 마케팅, 공공 커뮤니케이션, 민주적 참여 전략 수립에 중요한 함의를 제공합니다. 다만, 온라인 환경에서의 연구이므로 실제 정치 상황과의 차이나 샘플 대표성 문제 등이 한계로 남아있습니다.\n\n##",
-      "aiSummaryEn": "This study used generative AI to empirically test decades-old theories of political persuasion that were previously taken as academic consensus. Researchers discovered that highly personalized messages and interactive digital debates were not more effective at changing voters' political positions than single generic arguments, directly contradicting conventional wisdom. Generative AI enabled researchers to rapidly test diverse persuasion strategies on large populations, overcoming limitations of traditional experimental methods. The findings have significant implications for political marketing, public communication, and democratic engagement strategies. However, the research was conducted in online environments, which may differ from real-world political contexts, and sample representativeness remains a potential limitation.\n\n##",
-      "keyPoints": [
-        "**기존 이론의 도전** / Challenging Conventional Wisdom",
-        "**AI의 역할** / Role of Generative AI",
-        "**설득 효과의 동등성** / Equality in Persuasion Effects",
-        "**정책 및 실무적 시사점** / Practical Implications"
-      ],
-      "url": "https://www.psypost.org/artificial-intelligence-reveals-flaws-in-major-theories-of-political-persuasion-2026-03-19/",
-      "featured": false
-    },
-    {
-      "id": "3bc28cb2116e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Coffee at night may increase risky behavior, especially in women",
-      "titleKo": "밤에 마시는 커피는 위험한 행동을 증가시킬 수 있으며, 특히 여성에게서 두드러진다",
-      "summary": "Drinking coffee at night might come with an unexpected downside: increased impulsivity. In a new study, fruit flies given caffeine after dark behaved more recklessly, ignoring signals that normally make them stop. Daytime caffeine didn’t have the same effect, pointing to a strong link between timing and behavior. Even more striking, females were far more sensitive than males.",
-      "aiSummary": "This study investigated whether consuming caffeine at night increases impulsive and risky behavior. Researchers administered caffeine to fruit flies at different times of day and observed behavioral changes in response to behavioral inhibition signals. The key finding showed that fruit flies given caffeine at night displayed significantly more reckless behavior and ignored normal stop signals, while daytime caffeine consumption produced no such effect, indicating that timing plays a crucial role. Notably, female fruit flies were far more sensitive to the effects of nighttime caffeine than males. The results suggest that circadian rhythms strongly modulate the behavioral effects of caffeine. However, the findings from fruit fly models require further research before being directly applied to humans, and individual differences and various environmental factors must be considered in future investigations.\n\n##",
-      "aiSummaryKo": "본 연구는 야간 카페인 섭취가 충동적 행동을 증가시킬 수 있다는 가설을 검증했다. 연구팀은 과일파리를 대상으로 주간과 야간에 카페인을 투여한 후 행동 변화를 관찰했다. 결과적으로 야간에 카페인을 섭취한 파리들은 정상적인 행동 억제 신호를 무시하고 더 위험한 행동을 보였으나, 주간 카페인 투여는 같은 효과를 나타내지 않았다. 특히 주목할 점은 암컷 파리가 수컷보다 야간 카페인에 훨씬 더 민감하게 반응했다는 것이다. 이는 수면-각성 리듬이 약물의 효과를 크게 조절한다는 것을 시사한다. 다만 과일파리 연구 결과를 인간에게 직접 적용하기 위해서는 추가 연구가 필요하며, 개인차와 다양한 환경 요인도 고려해야 한다.\n\n##",
-      "aiSummaryEn": "This study investigated whether consuming caffeine at night increases impulsive and risky behavior. Researchers administered caffeine to fruit flies at different times of day and observed behavioral changes in response to behavioral inhibition signals. The key finding showed that fruit flies given caffeine at night displayed significantly more reckless behavior and ignored normal stop signals, while daytime caffeine consumption produced no such effect, indicating that timing plays a crucial role. Notably, female fruit flies were far more sensitive to the effects of nighttime caffeine than males. The results suggest that circadian rhythms strongly modulate the behavioral effects of caffeine. However, the findings from fruit fly models require further research before being directly applied to humans, and individual differences and various environmental factors must be considered in future investigations.\n\n##",
-      "keyPoints": [
-        "**야간 타이밍의 중요성** / Importance of nighttime timing",
-        "각성 리듬이 약물 효과의 핵심 조절 요인임.",
-        "**성별 차이 발견** / Sex differences discovered",
-        "**신호 무시 현상** / Signal-ignoring behavior"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260331001105.htm",
-      "featured": false
-    },
-    {
-      "id": "57c77bfeda78",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "17시간 전 / 17h ago",
-      "title": "Brief mindfulness practice accelerates visual processing speeds in adults",
-      "titleKo": "짧은 명상 수련이 성인의 시각 처리 속도를 촉진한다",
-      "summary": "Practicing daily mindfulness meditation through a mobile application helped adults initiate eye movements and process visual targets faster. The cognitive improvement applied equally to young and older adults, demonstrating that simple mental exercises tangibly alter visual perception.",
-      "aiSummary": "This study investigated the effects of daily mindfulness meditation on visual processing speed using a mobile application-based intervention. Researchers recruited both younger and older adults to participate in the mindfulness practice program. Key findings revealed that mindfulness meditation significantly accelerated eye movement initiation and visual target processing speed in participants. Notably, the cognitive improvements were consistent across age groups, suggesting that age does not diminish meditation's benefits. This demonstrates that simple mental exercises can produce tangible, measurable changes in the brain's visual perception abilities. However, limitations include the need for long-term follow-up studies, investigation of optimal meditation intensity, and validation across more diverse populations.\n\n##",
-      "aiSummaryKo": "이 연구는 일상적인 명상 수행이 시각 처리 속도에 미치는 영향을 조사했습니다. 연구팀은 모바일 애플리케이션을 통해 참가자들에게 매일 명상 연습을 하도록 했으며, 젊은 성인과 고령 성인 모두를 포함한 표본을 구성했습니다. 핵심 결과는 명상 수행이 안구 운동 개시 속도와 시각 대상 처리 속도를 유의미하게 향상시켰다는 것입니다. 특히 나이에 관계없이 두 그룹 모두에서 동등한 인지 개선 효과가 나타났습니다. 이는 간단한 정신 운동만으로도 뇌의 시각 지각 능력이 실질적으로 변화할 수 있음을 보여줍니다. 다만 연구에서는 장기 효과, 명상 강도의 최적 수준, 그리고 다양한 인구집단에 대한 추가 검증이 필요한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigated the effects of daily mindfulness meditation on visual processing speed using a mobile application-based intervention. Researchers recruited both younger and older adults to participate in the mindfulness practice program. Key findings revealed that mindfulness meditation significantly accelerated eye movement initiation and visual target processing speed in participants. Notably, the cognitive improvements were consistent across age groups, suggesting that age does not diminish meditation's benefits. This demonstrates that simple mental exercises can produce tangible, measurable changes in the brain's visual perception abilities. However, limitations include the need for long-term follow-up studies, investigation of optimal meditation intensity, and validation across more diverse populations.\n\n##",
-      "keyPoints": [
-        "**명상의 신경인지적 효과** / Neurocognitive effects of mindfulness meditation: 단순한 정신 수련이 안구 운동 속도와 시각 처리 능력을 객관적으로 향상시킴",
-        "**연령 무관한 효과** / Age-independent benefits: 젊은 성인과 고령 성인 모두에서 동등한 개선 효과 관찰, 평생에 걸친 인지 가소성 시사",
-        "**모바일 기반 중재의 실용성** / Practical mobile-based intervention: 스마트폰 애플리케이션을 통한 접근성 높은 치료법으로 일상 생활에 적용 가능",
-        "**시각 처리와 명상의 연결고리** / Link between visual processing and meditation: 정신 집중 훈련이 특정 신경 회로(시각 주의)에 미치는 직접적 영향 규명"
-      ],
-      "url": "https://www.psypost.org/brief-mindfulness-practice-accelerates-visual-processing-speeds-in-adults-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "e431ada134a5",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
-      "titleKo": "과학자들이 근육을 키우고 지방을 태우며 뇌 능력을 향상시키는 수면 스위치를 발견하다",
-      "summary": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance. Scientists have now mapped the neural circuits behind this process, uncovering a delicate feedback loop in which sleep boosts growth hormone, and that same hormone helps regulate wakefulness.",
-      "aiSummary": "Deep sleep activates a powerful brain-driven system that controls growth hormone secretion, which fuels muscle and bone strength, metabolism, and mental performance — functions that extend far beyond simple physical rest. Scientists have successfully mapped the neural circuits underlying this process, revealing the mechanisms through which sleep influences hormone regulation. The research uncovered an elegant feedback loop in which sleep increases growth hormone levels, and these elevated hormones subsequently help regulate wakefulness and sleep-wake cycles. This bidirectional interaction between sleep and hormonal systems represents a significant advancement in understanding human physiology. The findings underscore how sleep deprivation can negatively impact body composition, metabolic function, and cognitive performance. However, the study lacks specific details about participant numbers and experimental design methodology, necessitating further clinical research for comprehensive validation.\n\n##",
-      "aiSummaryKo": "깊은 수면은 단순한 휴식을 넘어 성장호르몬 분비를 촉발하는 뇌의 강력한 시스템을 활성화하며, 이는 근육과 뼈의 강화, 신진대사, 정신 성능 향상을 담당합니다. 과학자들은 이 과정 뒤에 숨은 신경 회로를 지도화하는 데 성공했습니다. 연구진은 수면이 성장호르몬을 증가시키고, 그 호르몬이 다시 각성 상태를 조절하는 정교한 피드백 루프를 발견했습니다. 이는 수면과 호르몬 간의 양방향 상호작용을 규명한 의미 있는 발견입니다. 이 연구는 수면 부족이 신체 조성, 대사, 인지 기능에 미치는 영향을 과학적으로 입증합니다. 다만 구체적인 연구 참가자 수나 상세한 실험 설계 정보가 제시되지 않아, 추가 임상 연구를 통한 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "Deep sleep activates a powerful brain-driven system that controls growth hormone secretion, which fuels muscle and bone strength, metabolism, and mental performance — functions that extend far beyond simple physical rest. Scientists have successfully mapped the neural circuits underlying this process, revealing the mechanisms through which sleep influences hormone regulation. The research uncovered an elegant feedback loop in which sleep increases growth hormone levels, and these elevated hormones subsequently help regulate wakefulness and sleep-wake cycles. This bidirectional interaction between sleep and hormonal systems represents a significant advancement in understanding human physiology. The findings underscore how sleep deprivation can negatively impact body composition, metabolic function, and cognitive performance. However, the study lacks specific details about participant numbers and experimental design methodology, necessitating further clinical research for comprehensive validation.\n\n##",
-      "keyPoints": [
-        "**깊은 수면의 다층 기능** / Deep sleep's multifaceted functions: 근육·뼈 강화, 신진대사 촉진, 뇌 기능 향상을 동시에 수행 / Simultaneously enhances muscle and bone strength, boosts metabolism, and improves cognitive function",
-        "**성장호르몬-수면 피드백 루프** / Growth hormone-sleep feedback loop: 수면 → 성장호르몬 증가 → 각성 조절의 양방향 상호작용 메커니즘 규명 / Bidirectional mechanism where sleep increases growth hormone, which then regulates wakefulness",
-        "**신경 회로 매핑의 성과** / Neural circuit mapping achievement: 수면과 호르몬 분비를 조절하는 뇌의 신경 회로를 과학적으로 규명 / Scientific identification of brain neural circuits controlling sleep and hormone secretion",
-        "**임상적 의의와 한계** / Clinical significance and limitations: 수면의 중요성 입증이 중요하나 구체적 실험 설계·참가자 수 등 상세 정보 부재로 추가 검증 필요 / Demonstrates sleep's importance but requires further studies with detailed experimental design and larger sample sizes"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
       "featured": false
     }
   ]
