@@ -1,7 +1,149 @@
 {
-  "updated": "2026-04-03T14:31:56.531221+00:00",
+  "updated": "2026-04-03T17:03:06.547612+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "18d3b1cda5ae",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "When made to feel sad, men with psychopathic traits shift their visual focus to anger",
+      "titleKo": "슬픔을 느끼게 되면 사이코패스 성향의 남성들은 시선을 분노로 옮긴다",
+      "summary": "Are psychopaths completely incapable of feeling sad? A new study of incarcerated men suggests otherwise, revealing that psychopathy may actually be a subconscious defense mechanism where the brain actively avoids sadness and hyper-focuses on anger instead.",
+      "aiSummary": "This study challenges the conventional belief that psychopaths are completely incapable of experiencing sadness. A new study of incarcerated men suggests that psychopathy may not be a simple emotional deficit but rather an unconscious defense mechanism where the brain actively avoids sadness and hyper-focuses on anger instead. Researchers conducted an experiment inducing sadness in participants and measured changes in their visual focus. The key finding revealed that men with higher psychopathic traits shifted their visual attention more toward anger-related stimuli when experiencing sadness. This suggests psychopathy involves active emotion avoidance rather than emotional incapacity. These findings could reshape our understanding of the psychological mechanisms underlying psychopathy. However, the study's limitation lies in its sample being restricted to incarcerated individuals, which may limit generalizability to the general population.\n\n##",
+      "aiSummaryKo": "이 연구는 정신병질적 특성을 가진 사람들이 슬픔을 느낄 수 없다는 기존의 통념에 의문을 제기합니다. 교도소에 수감 중인 남성들을 대상으로 한 신규 연구는 정신병질이 단순히 감정 결핍이 아니라, 뇌가 무의식적으로 슬픔을 회피하고 분노에 과도하게 집중하는 방어 기제일 수 있음을 시사합니다. 연구원들은 참가자들에게 슬픈 감정을 유도한 후 시각적 초점 변화를 측정하는 실험을 진행했습니다. 핵심 결과는 정신병질적 특성이 높은 남성들이 슬픔을 느낄 때 분노 관련 자극으로 시각을 더 많이 옮긴다는 것입니다. 이는 정신병질이 감정 무능력이 아닌 적극적인 감정 회피 메커니즘임을 시사합니다. 이 발견은 정신병질자의 심리 기제에 대한 이해를 재구성할 수 있습니다. 다만 표본이 수감자로 제한되어 일반 인구에 대한 적용 가능성에는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study challenges the conventional belief that psychopaths are completely incapable of experiencing sadness. A new study of incarcerated men suggests that psychopathy may not be a simple emotional deficit but rather an unconscious defense mechanism where the brain actively avoids sadness and hyper-focuses on anger instead. Researchers conducted an experiment inducing sadness in participants and measured changes in their visual focus. The key finding revealed that men with higher psychopathic traits shifted their visual attention more toward anger-related stimuli when experiencing sadness. This suggests psychopathy involves active emotion avoidance rather than emotional incapacity. These findings could reshape our understanding of the psychological mechanisms underlying psychopathy. However, the study's limitation lies in its sample being restricted to incarcerated individuals, which may limit generalizability to the general population.\n\n##",
+      "keyPoints": [
+        "정신병질은 감정 결핍이 아닌 무의식적 방어 기제 / Psychopathy is an unconscious defense mechanism rather than emotional deficit",
+        "슬픔 유도 시 분노 관련 자극으로 시각 초점 전환 / Visual focus shifts toward anger-related stimuli when sadness is induced",
+        "정신병질자도 슬픔을 느낄 수 있으나 뇌가 능동적으로 회피 / Psychopaths can experience sadness but their brains actively avoid it",
+        "수감자 표본으로 인한 일반화 제한 / Generalizability limited due to incarcerated sample"
+      ],
+      "url": "https://www.psypost.org/when-made-to-feel-sad-men-with-psychopathic-traits-shift-their-visual-focus-to-anger/",
+      "featured": true
+    },
+    {
+      "id": "027c24c1b7b3",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "13시간 전 / 13h ago",
+      "title": "UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression",
+      "titleKo": "UQ-SHRED: 엥그레션을 통한 희소 센싱을 위한 얕은 순환 디코더 네트워크의 불확실성 정량화",
+      "summary": "arXiv:2604.01305v1 Announce Type: new Abstract: Reconstructing high-dimensional spatiotemporal fields from sparse sensor measurements is critical in a wide range of scientific applications. The SHallow REcurrent Decoder (SHRED) architecture is a recent state-of-the-art architecture that reconstructs high-quality spatial domain from hyper-sparse sensor measurement streams. An important limitation of SHRED is that in complex, data-scarce, high-frequency, or stochastic systems, portions of the spatiotemporal field must be modeled with valid uncertainty estimation. We introduce UQ-SHRED, a distrib",
+      "aiSummary": "This study addresses the challenge of reconstructing high-dimensional spatiotemporal fields from sparse sensor measurements, which is critical in many scientific applications. While the existing SHRED (SHallow REcurrent Decoder) architecture successfully reconstructs spatial information from minimal sensor data, it lacks the ability to quantify prediction uncertainty in complex or data-scarce environments. The researchers propose UQ-SHRED, which enhances the original architecture by incorporating uncertainty quantification through probabilistic distributions. This advancement enables machine learning models to provide numerical estimates of prediction reliability alongside their forecasts. The method has significant implications for applications such as climate modeling, turbulent flow analysis, and other scientific domains requiring trustworthy predictions. However, the research is at an early stage, and validation on complex real-world data remains necessary.\n\n##",
+      "aiSummaryKo": "본 연구는 희소 센서 데이터로부터 고차원 시공간 장(場)을 재구성하는 문제를 다룹니다. 기존의 SHRED(얕은 순환 디코더) 구조는 매우 적은 수의 센서로도 우수한 공간 정보 복원이 가능했지만, 복잡한 시스템이나 데이터가 부족한 환경에서 예측 불확실성을 정량화하지 못하는 한계가 있었습니다. 연구팀은 이를 보완한 UQ-SHRED를 제안하여 확률분포 기반의 불확실성 추정 기능을 추가했습니다. 이 방법은 기계학습 모델이 자신의 예측이 얼마나 신뢰할 수 있는지 수치로 제시할 수 있게 합니다. 이러한 접근은 기후 모델링, 난류 흐름 분석, 기타 과학 응용 분야에서 안정적인 의사결정을 가능하게 합니다. 다만, 본 연구는 아직 초기 단계로 실제 복잡한 현장 데이터에서의 성능 검증이 필요한 것으로 보입니다.\n\n##",
+      "aiSummaryEn": "This study addresses the challenge of reconstructing high-dimensional spatiotemporal fields from sparse sensor measurements, which is critical in many scientific applications. While the existing SHRED (SHallow REcurrent Decoder) architecture successfully reconstructs spatial information from minimal sensor data, it lacks the ability to quantify prediction uncertainty in complex or data-scarce environments. The researchers propose UQ-SHRED, which enhances the original architecture by incorporating uncertainty quantification through probabilistic distributions. This advancement enables machine learning models to provide numerical estimates of prediction reliability alongside their forecasts. The method has significant implications for applications such as climate modeling, turbulent flow analysis, and other scientific domains requiring trustworthy predictions. However, the research is at an early stage, and validation on complex real-world data remains necessary.\n\n##",
+      "keyPoints": [
+        "**기존 한계 극복** / **Overcoming Previous Limitations**: SHRED는 희소 센서로 효율적 복원이 가능하지만 예측 확실성을 제공하지 못했고, UQ-SHRED는 불확실성 정량화 기능 추가 / SHRED enables efficient reconstruction from sparse sensors but lacks uncertainty quantification; UQ-SHRED addresses this limitation",
+        "**불확실성 정량화 방법** / **Uncertainty Quantification Method**: 확률분포 기반 접근으로 모델의 신뢰도를 수치화하여 고위험 과학 응용에서 안전한 의사결정 지원 / Probabilistic distribution-based approach quantifies model reliability for safer decision-making in high-stakes applications",
+        "**광범위한 응용 가능성** / **Wide Application Potential**: 기후 예측, 유체역학, 센서 네트워크 기반 모니터링 등 다양한 과학 분야에 활용 가능 / Applicable to climate prediction, fluid dynamics, sensor-based monitoring, and other scientific domains",
+        "**검증 필요성** / **Need for Validation**: 실제 복잡한 데이터 환경에서의 성능과 신뢰성 검증이 향후 과제 / Future validation on complex, real-world data and practical performance assessment required"
+      ],
+      "url": "https://arxiv.org/abs/2604.01305",
+      "featured": false
+    },
+    {
+      "id": "11991c2299d7",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "13시간 전 / 13h ago",
+      "title": "Parallelized Hierarchical Connectome: A Spatiotemporal Recurrent Framework for Spiking State-Space Models",
+      "titleKo": "병렬화된 계층적 연결체: 스파이킹 상태-공간 모델을 위한 시공간 순환 프레임워크",
+      "summary": "arXiv:2604.01295v1 Announce Type: new Abstract: This work presents the Parallelized Hierarchical Connectome (PHC), a general framework that upgrades temporal-only State-Space Models (SSMs) into spatiotemporal recurrent networks. Conventional SSMs achieve high-speed sequence processing through parallel scans, yet are limited to temporal recurrence without lateral or feedback interactions within a single timestep. PHC maps the diagonal SSM core to a shared Neuron Layer and inter-neuronal communication to a shared Synapse Layer, where neurons are partitioned into hierarchical regions governed by ",
+      "aiSummary": "This research introduces the Parallelized Hierarchical Connectome (PHC), a novel neural network framework that enhances temporal-only State-Space Models (SSMs) to process both spatial and temporal information simultaneously. Conventional SSMs process sequential data at high speed but lack lateral and feedback interactions between neurons within a single timestep. The PHC framework applies neurobiology concepts by mapping SSM's diagonal core to a shared Neuron Layer and inter-neuronal communication to a shared Synapse Layer, organizing neurons into hierarchical regions. This approach creates spiking neural network models that more closely resemble biological brain structure while maintaining computational efficiency. The framework is expected to demonstrate improved performance compared to existing models across various spatiotemporal tasks. However, as this is preliminary research, extensive validation across diverse real-world datasets remains necessary.\n\n##",
+      "aiSummaryKo": "이 연구는 기존의 시간 기반 상태공간모델(SSM)의 한계를 극복하기 위해 공간-시간 정보를 동시에 처리할 수 있는 새로운 신경망 프레임워크인 병렬화된 계층적 연결망(PHC)을 제시합니다. 기존 SSM은 빠른 속도로 순차 데이터를 처리하지만 한 시점 내에서 신경 간의 측면 또는 피드백 상호작용이 불가능한 문제가 있었습니다. PHC는 신경 생물학의 개념을 적용하여 SSM의 대각선 코어를 신경층으로, 신경 간 통신을 시냅스층으로 매핑하며, 신경들을 계층적 영역으로 분할하는 구조를 제안합니다. 이 접근 방식은 생물학적 뇌의 구조와 더 유사하면서도 계산 효율성을 유지하는 스파이킹 신경망 모델을 가능하게 합니다. 다양한 시공간 작업에서 기존 모델 대비 개선된 성능을 보여주는 것으로 예상됩니다. 다만, 현재 결과는 논문의 초안 단계이며, 다양한 실제 데이터셋에 대한 광범위한 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research introduces the Parallelized Hierarchical Connectome (PHC), a novel neural network framework that enhances temporal-only State-Space Models (SSMs) to process both spatial and temporal information simultaneously. Conventional SSMs process sequential data at high speed but lack lateral and feedback interactions between neurons within a single timestep. The PHC framework applies neurobiology concepts by mapping SSM's diagonal core to a shared Neuron Layer and inter-neuronal communication to a shared Synapse Layer, organizing neurons into hierarchical regions. This approach creates spiking neural network models that more closely resemble biological brain structure while maintaining computational efficiency. The framework is expected to demonstrate improved performance compared to existing models across various spatiotemporal tasks. However, as this is preliminary research, extensive validation across diverse real-world datasets remains necessary.\n\n##",
+      "keyPoints": [
+        "**기존 SSM의 한계 극복** / Overcoming conventional SSM limitations",
+        "**생물학적 영감 기반 설계** / Biologically-inspired architecture design",
+        "**공간-시간 동시 처리** / Simultaneous spatiotemporal processing",
+        "**계산 효율성 유지** / Maintained computational efficiency"
+      ],
+      "url": "https://arxiv.org/abs/2604.01295",
+      "featured": false
+    },
+    {
+      "id": "7c73ddb342a0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "13시간 전 / 13h ago",
+      "title": "Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical Network Dynamics in Parkinsons Disease",
+      "titleKo": "파킨슨병의 대뇌피질 네트워크 역학을 포착하는 해석 가능한 휴지상태 뇌파의 전기생리학적 특징",
+      "summary": "arXiv:2604.01475v1 Announce Type: new Abstract: Parkinsons disease (PD) alters cortical neural dynamics, yet reliable non-invasive electrophysiological biomarkers remain elusive. This study examined whether interpretable EEG features capturing complementary aspects of neural dynamics can discriminate Parkinsonian neural states. A comprehensive set of interpretable features was extracted and grouped into Standard descriptors (spectral power, phase synchronization, time-domain statistics) and Dynamical descriptors (aperiodic activity, cross-frequency coupling, scale-free dynamics, neuronal avala",
+      "aiSummary": "Parkinson's disease (PD) alters cortical neural dynamics, but reliable non-invasive biomarkers to detect these changes remain lacking. This study investigated whether interpretable EEG features can effectively discriminate Parkinsonian neural states by extracting and categorizing features into two groups: Standard descriptors (spectral power, phase synchronization, time-domain statistics) and Dynamical descriptors (aperiodic activity, cross-frequency coupling, scale-free dynamics). The research presents a comprehensive approach to objectively measure abnormal neural dynamics in PD patients through interpretable features. The significance of this work lies in enabling clinicians to make more accurate diagnoses through easily interpretable neurophysiological markers. However, this appears to be an early-stage study that requires further clinical validation with larger patient populations and longitudinal follow-up data.\n\n##",
+      "aiSummaryKo": "파킨슨병은 뇌의 신경 활동 패턴을 변화시키지만, 이를 정확히 측정할 수 있는 비침습적 생체지표가 부족한 상황이다. 본 연구팀은 뇌파(EEG)에서 추출한 다양한 특징들이 파킨슨병 환자의 뇌 신경 상태를 구별할 수 있는지 조사했다. 연구진은 표준 기술자(주파수 분석, 뇌 영역 간 동기화, 시간 통계)와 역학적 기술자(비주기적 활동, 교차주파수 연결, 척도 자유 역학)를 포함한 포괄적인 뇌파 특징들을 추출하고 분류했다. 이는 파킨슨병 환자의 비정상적인 신경 역학을 객관적으로 진단하고 모니터링할 수 있는 새로운 방법을 제시한다. 연구의 의의는 신경과 의사가 쉽게 해석할 수 있는 특징들을 통해 더 정확한 진단을 가능하게 한다는 점이다. 다만 이 연구는 초기 단계이며, 더 많은 환자를 대상으로 한 임상 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "Parkinson's disease (PD) alters cortical neural dynamics, but reliable non-invasive biomarkers to detect these changes remain lacking. This study investigated whether interpretable EEG features can effectively discriminate Parkinsonian neural states by extracting and categorizing features into two groups: Standard descriptors (spectral power, phase synchronization, time-domain statistics) and Dynamical descriptors (aperiodic activity, cross-frequency coupling, scale-free dynamics). The research presents a comprehensive approach to objectively measure abnormal neural dynamics in PD patients through interpretable features. The significance of this work lies in enabling clinicians to make more accurate diagnoses through easily interpretable neurophysiological markers. However, this appears to be an early-stage study that requires further clinical validation with larger patient populations and longitudinal follow-up data.\n\n##",
+      "keyPoints": [
+        "**신경 역학 측정**: 파킨슨병으로 인한 뇌 신경 활동의 변화를 표준 및 역학적 기술자를 통해 객관적으로 포착 / Capturing cortical neural dynamics alterations in PD through both standard and dynamical EEG descriptors",
+        "**해석 가능성**: 신경과 의사가 이해하고 임상에 직접 적용할 수 있는 해석 가능한 특징들 기반의 진단 / Clinically interpretable features that enable direct clinical application without requiring complex black-box algorithms",
+        "**다층적 분석**: 주파수 분석, 뇌 영역 간 동기화, 척도 자유 역학 등 신경 활동의 여러 측면을 종합적으로 분석 / Comprehensive analysis capturing multiple aspects of neural activity including spectral, synchronization, and scale-free properties",
+        "**임상 응용 가능성**: 파킨슨병 조기 진단, 질병 진행 모니터링, 치료 효과 평가 등에 활용 가능한 비침습적 생체지표 제시 / Potential for early diagnosis, disease progression monitoring, and treatment response assessment through non-invasive neurophysiological biomarkers"
+      ],
+      "url": "https://arxiv.org/abs/2604.01475",
+      "featured": false
+    },
+    {
+      "id": "c8af0754054a",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "13시간 전 / 13h ago",
+      "title": "Thermodynamic connectivity reveals functional specialization and multiplex organization of extrasynaptic signaling",
+      "titleKo": "열역학적 연결성을 통해 드러나는 시냅스외 신호전달의 기능적 특화와 다중계층 구조",
+      "summary": "arXiv:2604.02057v1 Announce Type: new Abstract: Neural communication operates on both fast synaptic transmission and slower, diffusive extrasynaptic signaling, yet how these two modes jointly organize brain function remains unclear. Here, using the complete synaptic and neuropeptidergic connectomes of \\emph{Caenorhabditis elegans}, we develop a unified multiplex framework linking anatomical wiring to functional communication. We infer structure-derived functional connectivity from the synaptic connectome using equilibrium principles from statistical physics, yielding a probabilistic map of inf",
+      "aiSummary": "This study investigates how two neural signaling modes—fast synaptic transmission and slower extrasynaptic diffusive signaling—jointly organize brain function. Researchers developed a unified multiplex framework using the complete synaptic and neuropeptidergic connectomes of *Caenorhabditis elegans*. By applying equilibrium principles from statistical physics, they inferred functional connectivity from anatomical wiring structure and analyzed how both signaling systems contribute to functional specialization and multiplex organization in neural circuits. This research presents a novel mathematical methodology linking anatomical connectivity to functional roles in neural networks. The study uses *C. elegans* as a model organism with a fully mapped connectome, which may limit direct application to more complex mammalian brains due to biological differences.\n\n##",
+      "aiSummaryKo": "이 연구는 뇌에서 일어나는 두 가지 신경 신호 전달 방식 - 빠른 시냅스 전달과 느린 확산성 시냅스 외 신호 전달 - 이 어떻게 함께 뇌 기능을 조직하는지 규명하기 위해 수행되었습니다. 연구팀은 선충류(예쁜꼬마선충류)의 완전한 시냅스 구조와 신경펩타이드 연결 지도를 이용하여 해석학적 프레임워크를 개발했습니다. 통계물리학의 평형 원리를 적용하여 시냅스 연결 구조로부터 기능적 연결성을 추론하고, 두 신호 전달 체계가 뇌의 기능 전문화(functional specialization)와 다층 조직(multiplex organization)을 어떻게 형성하는지 분석했습니다. 이 연구는 신경 회로의 해부학적 구조와 실제 기능적 역할 간의 관계를 수학적으로 연결하는 새로운 방법론을 제시합니다. 완전한 연결체(connectome) 데이터를 가진 선충류를 모델로 사용했기 때문에 포유류 뇌에 직접 적용하기에는 생물학적 복잡성의 차이가 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigates how two neural signaling modes—fast synaptic transmission and slower extrasynaptic diffusive signaling—jointly organize brain function. Researchers developed a unified multiplex framework using the complete synaptic and neuropeptidergic connectomes of *Caenorhabditis elegans*. By applying equilibrium principles from statistical physics, they inferred functional connectivity from anatomical wiring structure and analyzed how both signaling systems contribute to functional specialization and multiplex organization in neural circuits. This research presents a novel mathematical methodology linking anatomical connectivity to functional roles in neural networks. The study uses *C. elegans* as a model organism with a fully mapped connectome, which may limit direct application to more complex mammalian brains due to biological differences.\n\n##",
+      "keyPoints": [
+        "**이중 신경 신호 체계의 통합 분석** / Integration of dual neural signaling modes: 빠른 시냅스 전달과 느린 신경펩타이드 신호를 함께 분석하여 신경 통신의 전체 그림 제시",
+        "**물리학 기반 수학적 방법론** / Physics-informed mathematical framework: 통계물리학의 평형 원리를 신경 연결 구조 분석에 적용한 혁신적 접근법",
+        "**완전 연결체 데이터 활용** / Comprehensive connectome data: 선충류의 완전히 매핑된 시냅스 및 신경펩타이드 연결 지도를 사용한 정밀한 분석",
+        "**기능적 전문화와 다층 조직 규명** / Functional specialization and multiplex organization: 신경 회로의 해부학적 구조가 어떻게 기능적 역할 분담과 다층적 조직을 만드는지 규명"
+      ],
+      "url": "https://arxiv.org/abs/2604.02057",
+      "featured": false
+    },
+    {
+      "id": "f296b86f28af",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "13시간 전 / 13h ago",
+      "title": "Phase estimation with autoregressive padding (PEAP): addressing inaccuracies and biases in EEG analysis",
+      "titleKo": "EEG 분석의 부정확성과 편향을 해결하는 자동회귀 패딩을 이용한 위상 추정 (PEAP)",
+      "summary": "arXiv:2604.02212v1 Announce Type: new Abstract: Accurate phase estimation at the edge of data segments is crucial for EEG applications such as EEG-TMS in offline and real-time data analysis. Our research evaluates the phase estimation performance of four commonly used methods (Phastimate, SSPE, ETP, and PhastPadding) for accuracy and systemic biases, using data from young and elderly healthy controls and chronic stroke participants. To address the identified limitations of the established methods, we introduce Phase Estimation with Autoregressive Padding (PEAP), a method that prevents strong b",
+      "aiSummary": "Accurate phase estimation at the edges of EEG data segments is critical for brain-computer interfaces and TMS (transcranial magnetic stimulation) applications, yet existing methods show significant accuracy limitations. Researchers evaluated four commonly used phase estimation methods (Phastimate, SSPE, ETP, and PhastPadding) using EEG data from diverse participants including young healthy controls, elderly controls, and chronic stroke patients. The evaluation identified systematic biases and inaccuracies in these established methods, particularly at data segment boundaries. To address these limitations, the team developed Phase Estimation with Autoregressive Padding (PEAP), a novel technique that prevents strong edge artifacts and improves phase accuracy. This method shows promise for enhancing precision in both offline and real-time EEG analysis applications, particularly benefiting TMS treatment planning and delivery. However, further validation across diverse clinical populations and real-world conditions is needed.\n\n##",
+      "aiSummaryKo": "뇌-컴퓨터 인터페이스와 경두개자기자극(TMS) 치료 등 뇌파(EEG) 응용에서 신호의 끝부분에서의 정확한 위상 추정이 중요한데, 기존 방법들의 정확도가 떨어진다는 문제가 있었습니다. 연구진은 젊은 사람, 고령자, 뇌졸중 환자 등 다양한 참가자로부터 수집한 뇌파 데이터를 이용하여 4가지 기존 위상 추정 방법(Phastimate, SSPE, ETP, PhastPadding)의 정확성과 체계적 오류를 평가했습니다. 평가 결과 기존 방법들의 제한점을 파악한 후, 자동회귀 패딩(PEAP) 기법을 새로 개발하여 신호 끝부분에서의 부정확한 위상 추정을 방지했습니다. 이 방법은 오프라인과 실시간 뇌파 분석에서 더 정확한 위상 정보를 제공하여 TMS 치료의 정확성 향상에 기여할 수 있습니다. 다만 향후 더 다양한 인구집단과 임상 환경에서의 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Accurate phase estimation at the edges of EEG data segments is critical for brain-computer interfaces and TMS (transcranial magnetic stimulation) applications, yet existing methods show significant accuracy limitations. Researchers evaluated four commonly used phase estimation methods (Phastimate, SSPE, ETP, and PhastPadding) using EEG data from diverse participants including young healthy controls, elderly controls, and chronic stroke patients. The evaluation identified systematic biases and inaccuracies in these established methods, particularly at data segment boundaries. To address these limitations, the team developed Phase Estimation with Autoregressive Padding (PEAP), a novel technique that prevents strong edge artifacts and improves phase accuracy. This method shows promise for enhancing precision in both offline and real-time EEG analysis applications, particularly benefiting TMS treatment planning and delivery. However, further validation across diverse clinical populations and real-world conditions is needed.\n\n##",
+      "keyPoints": [
+        "**문제 인식 및 평가**: 뇌파(EEG) 신호의 끝부분 위상 추정에서 기존 4가지 방법(Phastimate, SSPE, ETP, PhastPadding)이 정확도 문제와 체계적 편향을 보임 / Problem Identification: Four conventional phase estimation methods showed accuracy limitations and systematic biases at EEG data segment edges",
+        "**신규 방법 개발**: 자동회귀 패딩(PEAP) 기술을 개발하여 경계 부분의 강한 아티팩트를 방지하고 위상 추정 정확성 향상 / Novel Solution: PEAP (Phase Estimation with Autoregressive Padding) developed to prevent edge artifacts and improve phase estimation accuracy",
+        "**임상 응용 가능성**: 경두개자기자극(TMS) 치료, 실시간 뇌파 분석 등 뇌-컴퓨터 인터페이스 응용에서 치료 정확성 및 신호 처리 개선 / Clinical Applications: Improved TMS treatment precision and real-time EEG analysis for brain-computer interface applications",
+        "**연구 범위의 한계**: 젊은층, 고령층, 뇌졸중 환자 등 제한된 참가자 그룹에서만 검증되었으므로 더 광범위한 임상 인구집단 및 다양한 환경에서의 추가 검증 필요 / Research Limitations: Validation limited to specific participant groups; further testing across diverse clinical populations and real-world conditions required"
+      ],
+      "url": "https://arxiv.org/abs/2604.02212",
+      "featured": false
+    },
+    {
+      "id": "a3d5cb0c4033",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "11일 전 / 11d ago",
+      "title": "‘Looking Backward’ to the Future",
+      "titleKo": "",
+      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
+      "featured": false
+    },
     {
       "id": "93a01afb3608",
       "tag": "psych",
@@ -21,7 +163,7 @@
         "**맞춤형 치료의 필요성** / Need for personalized intervention: 학대 유형에 맞춘 심리치료 및 뇌 기반 치료법 개발의 중요성 강조"
       ],
       "url": "https://www.psypost.org/different-types-of-childhood-maltreatment-appear-to-uniquely-shape-human-brain-development/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4492833e3abf",
@@ -273,153 +415,6 @@
         "**개방형 커뮤니티 기반 접근** / Open Community-Driven Approach: Framework designed for collaborative development and maintenance, enabling broader participation in improving AI tool integration reliability"
       ],
       "url": "https://arxiv.org/abs/2604.00137",
-      "featured": false
-    },
-    {
-      "id": "312e4c3258bc",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "4시간 전 / 4h ago",
-      "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
-      "titleKo": "행동 건강 커뮤니케이션 시뮬레이션을 위한 안전 인식 역할 조율 다중 에이전트 LLM 프레임워크",
-      "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, role-orchestrated multi-agent LLM framework designed to simulate supportive behavioral health dialogue through coordinated, role-differentiated agents. Conversational responsibilities are decomposed across specialized agents, including empathy-focused, action-oriented, and supervisory roles, while a prompt-based controller dynamically activates releva",
-      "aiSummary": "This research addresses the limitation of single-agent AI systems in simultaneously supporting diverse conversational functions and safety in behavioral health communication. The research team proposes a multi-agent LLM framework where specialized AI agents perform differentiated roles including empathy-focused, action-oriented, and supervisory functions. A dynamic controller selectively activates relevant agents based on conversational context. While specific performance metrics are not provided in the abstract, this approach is significant as it can simultaneously ensure warm communication and safety in mental health counseling. However, the framework has limitations, including lack of validation in actual clinical settings and potentially limited applicability across diverse cultural contexts.\n\n##",
-      "aiSummaryKo": "본 연구는 단일 AI 모델이 정신건강 상담 대화에서 다양한 대화 기능과 안전성을 동시에 지원하지 못하는 문제를 해결하기 위해 시작되었다. 연구팀은 여러 개의 특화된 AI 에이전트가 서로 다른 역할을 수행하는 '다중 에이전트 LLM 프레임워크'를 제안했다. 이 시스템은 공감 중심, 행동 지향, 감시 역할 등으로 분화된 에이전트들로 구성되며, 동적 제어기가 상황에 맞는 에이전트를 활성화한다. 구체적인 성과 수치는 제시되지 않았으나, 이 접근법은 정신건강 상담에서 따뜻한 소통과 안전성을 동시에 보장할 수 있다는 점에서 의의가 있다. 다만 실제 임상 환경에서의 검증이 부족하고, 다양한 문화적 맥락에서의 적용 가능성이 제한적일 수 있다는 한계를 지닌다.\n\n##",
-      "aiSummaryEn": "This research addresses the limitation of single-agent AI systems in simultaneously supporting diverse conversational functions and safety in behavioral health communication. The research team proposes a multi-agent LLM framework where specialized AI agents perform differentiated roles including empathy-focused, action-oriented, and supervisory functions. A dynamic controller selectively activates relevant agents based on conversational context. While specific performance metrics are not provided in the abstract, this approach is significant as it can simultaneously ensure warm communication and safety in mental health counseling. However, the framework has limitations, including lack of validation in actual clinical settings and potentially limited applicability across diverse cultural contexts.\n\n##",
-      "keyPoints": [
-        "**다중 역할 분화 시스템** / Multi-Role Differentiation System",
-        "**안전성-효과성 동시 달성** / Simultaneous Safety and Effectiveness",
-        "**동적 제어 메커니즘** / Dynamic Control Mechanism",
-        "**임상 적용의 잠재성** / Clinical Application Potential"
-      ],
-      "url": "https://arxiv.org/abs/2604.00249",
-      "featured": false
-    },
-    {
-      "id": "1f2d0b54d063",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "1일 전 / 1d ago",
-      "title": "What It’s Like to Be…a Diplomat",
-      "titleKo": "외교관이 된다는 것은 어떤 것인가",
-      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
-      "aiSummary": "This article presents a podcast episode introducing the actual work experiences of US diplomats through an interview with John Johnson, a retired diplomat who served in the US Foreign Service for over twenty years. Rather than being research-based or experimental in format, it is journalist-style content featuring real crisis situations that diplomats experience, such as defusing situations after hints of preemptive strikes on Russia and surviving the chaotic evacuation of the Kabul embassy, as well as specific diplomatic duties like delivering demarcations in multiple languages and submitting formal protests. The episode addresses general audience curiosity about diplomatic work, such as whether diplomats still use \"cables\" (official dispatches) in the 21st century and what diplomatic terminology like \"not/not\" actually means. The significance of this content lies in increasing public understanding of diplomatic work and impressively conveying the role of diplomats. However, it is limited by being based on the experiences of a single individual, providing limited perspectives from various diplomats.\n\n##",
-      "aiSummaryKo": "이 기사는 미국 외교관의 실제 업무 경험을 다루는 팟캐스트 에피소드를 소개합니다. 20년 이상 미국 국무부에서 근무한 퇴직 외교관 존 존슨과의 인터뷰를 통해 외교 업무의 실제 모습을 조명합니다. 연구나 실험 형식의 기사가 아닌 인터뷰 기반의 저널리즘 콘텐츠로, 외교관이 실제 경험하는 위기 상황(러시아 관련 선제 공격 암시 후 위기 해결, 아프가니스탄 카불 대사관 대피 등)과 외교적 업무 수행(다국어 공문 전달, 공식 항의문 제출)을 구체적으로 기술합니다. 21세기에도 외교관이 \"케이블\"(공식 전문)을 사용하는지, \"not/not\"이라는 외교 용어가 무엇을 의미하는지 등 일반인이 궁금해할 수 있는 외교 업무의 특수성을 설명합니다. 이 콘텐츠는 외교 직무에 대한 대중의 이해를 높이고 외교관의 역할을 인상적으로 전달하는 데 의의가 있습니다. 다만 단일 인물의 경험에 기반한 것으로 다양한 외교관의 관점이 제한적입니다.\n\n##",
-      "aiSummaryEn": "This article presents a podcast episode introducing the actual work experiences of US diplomats through an interview with John Johnson, a retired diplomat who served in the US Foreign Service for over twenty years. Rather than being research-based or experimental in format, it is journalist-style content featuring real crisis situations that diplomats experience, such as defusing situations after hints of preemptive strikes on Russia and surviving the chaotic evacuation of the Kabul embassy, as well as specific diplomatic duties like delivering demarcations in multiple languages and submitting formal protests. The episode addresses general audience curiosity about diplomatic work, such as whether diplomats still use \"cables\" (official dispatches) in the 21st century and what diplomatic terminology like \"not/not\" actually means. The significance of this content lies in increasing public understanding of diplomatic work and impressively conveying the role of diplomats. However, it is limited by being based on the experiences of a single individual, providing limited perspectives from various diplomats.\n\n##",
-      "keyPoints": [
-        "**외교관의 실제 위기 관리 역할**: 핵심 사건(ambassador의 러시아 공격 암시, 카불 대사관 대피)을 통해 외교관이 국제 분쟁과 위기 상황에서 중추적 역할을 수행함을 보여줌 / **Real Crisis Management Role of Diplomats**: Demonstrates that diplomats play a central role in international disputes and crisis situations through key events (ambassador hints of Russia attacks, Kabul embassy evacuation)",
-        "**21세기 외교 업무의 특수성**: 공식 전문(cables), 다국어 공문 전달, 공식 항의(demarches) 등 일반인이 잘 알지 못하는 외교 업무의 구체적 수행 방식을 공개 / **Specificity of 21st Century Diplomatic Work**: Reveals specific operational methods of diplomacy unknown to the general public, including official dispatches (cables), multilingual note delivery, and formal protests (demarches)",
-        "**실제 경험 기반의 인터뷰 저널리즘**: 20년 경력의 퇴직 외교관과의 직접 인터뷰를 통해 신뢰성 있는 정보 제공 / **Interview Journalism Based on Actual Experience**: Provides credible information through direct interviews with a retired diplomat with 20 years of experience",
-        "**대중 교육과 인식 제고**: 외교 직무에 대한 오해를 바로잡고 외교관의 중요성에 대한 사회적 인식을 높이는 데 기여 / **Public Education and Awareness Raising**: Contributes to correcting misconceptions about diplomatic work and raising social awareness of the importance of"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "0309231344ac",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Autism risk genes are shared across human ancestries, large genome study reveals",
-      "titleKo": "대규모 유전체 연구, 자폐증 위험 유전자가 인류 전체에 걸쳐 공유된다는 것을 밝혀내다",
-      "summary": "By sequencing the DNA of thousands of Latin American individuals, researchers confirmed that autism risk genes are universally shared. The discovery proves that the condition’s underlying cellular biology operates completely independently of a person's ancestral background.",
-      "aiSummary": "This study investigated whether autism risk genes appear universally across all human populations by examining the DNA of thousands of Latin American individuals. Researchers conducted genome sequencing to identify genetic risk factors associated with autism in this population. The findings confirmed that autism risk genes are shared across different ethnic and ancestral backgrounds, suggesting that the underlying cellular biology of autism operates independently of a person's ancestral origin. This discovery provides genetic evidence for developing diagnosis and treatment approaches for autism across diverse populations. The study contributes to understanding the universal nature of autism's genetic architecture. However, the research's focus on a specific region (Latin America) suggests that expanded global sampling is needed to fully establish universal patterns.\n\n##",
-      "aiSummaryKo": "이 연구는 자폐증의 위험 유전자가 모든 인류 집단에서 공통적으로 나타나는지를 확인하기 위해 진행되었습니다. 연구팀은 수천 명의 라틴 아메리카계 개인들의 DNA를 염기서열 분석하여 자폐증과 관련된 유전적 위험 요인을 조사했습니다. 연구 결과, 자폐증의 위험 유전자들이 인종과 민족 배경에 관계없이 보편적으로 공유된다는 것을 확인했습니다. 이는 자폐증의 기저가 되는 세포 생물학적 메커니즘이 사람의 조상 배경과 완전히 독립적으로 작동함을 의미합니다. 이 발견은 다양한 인구집단에서 자폐증의 진단과 치료 방법을 개발할 때 유전학적 근거를 제공합니다. 다만, 연구가 특정 지역(라틴 아메리카)에 초점을 맞췄다는 점에서 더 광범위한 전 지구적 샘플 확대가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated whether autism risk genes appear universally across all human populations by examining the DNA of thousands of Latin American individuals. Researchers conducted genome sequencing to identify genetic risk factors associated with autism in this population. The findings confirmed that autism risk genes are shared across different ethnic and ancestral backgrounds, suggesting that the underlying cellular biology of autism operates independently of a person's ancestral origin. This discovery provides genetic evidence for developing diagnosis and treatment approaches for autism across diverse populations. The study contributes to understanding the universal nature of autism's genetic architecture. However, the research's focus on a specific region (Latin America) suggests that expanded global sampling is needed to fully establish universal patterns.\n\n##",
-      "keyPoints": [
-        "**자폐증의 유전적 보편성** / Universal genetic basis of autism: 자폐증 위험 유전자가 인종·민족 배경과 관계없이 모든 인류에게 공통적으로 나타남",
-        "**인구집단 간 유전 구조의 일관성** / Consistency across ancestries: 자폐증의 기저 세포 생물학이 조상 배경에 완전히 독립적으로 작동하며, 유전적 메커니즘이 보편적임",
-        "**라틴 아메리카 집단의 포함 중요성** / Inclusion of underrepresented populations: 기존 게놈 연구에서 소외된 라틴 아메리카계 수천 명을 포함하여 포괄적 유전학적 이해 도출",
-        "**임상 적용의 국제적 가능성** / Global clinical applications: 다양한 문화·지역의 인구집단에서 자폐증 진단 및 치료 개발 시 유전학적 기초를 제공할 가능성"
-      ],
-      "url": "https://www.psypost.org/autism-risk-genes-are-shared-across-human-ancestries-large-genome-study-reveals/",
-      "featured": false
-    },
-    {
-      "id": "2a6b14d58321",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "5시간 전 / 5h ago",
-      "title": "Scientists identify a brain signal that reveals whether depression therapies will work",
-      "titleKo": "과학자들, 우울증 치료가 효과적일지 예측하는 뇌 신호 발견",
-      "summary": "By analyzing brain scans from over 4,000 people, researchers trained AI to predict if a patient’s depression will improve with medication or brain stimulation. This newly discovered biomarker could finally end trial-and-error psychiatric care.",
-      "aiSummary": "Depression treatment has long been challenging because different patients respond differently to various therapies, leading to trial-and-error approaches. Researchers analyzed brain scans from over 4,000 individuals and trained artificial intelligence to identify predictive patterns. They discovered a specific brain biomarker that can predict whether a patient will respond well to medication or brain stimulation therapy. This breakthrough finding could enable personalized treatment approaches, allowing psychiatrists to prescribe the most effective therapy for each patient from the start, significantly improving treatment efficiency. The discovery offers substantial clinical significance by potentially eliminating the time and suffering associated with ineffective treatments. However, the study has limitations, including the need to verify whether this biomarker works across different types of depression and diverse populations with varying genetic and demographic backgrounds.\n\n##",
-      "aiSummaryKo": "우울증 치료는 환자마다 효과가 다르기 때문에 어떤 치료법이 효과적일지 미리 알기 어려워 시행착오를 겪는 문제가 있었다. 연구진은 4,000명 이상의 뇌 스캔 데이터를 분석하여 인공지능(AI)을 훈련시켰다. 이를 통해 특정 뇌신호(바이오마커)를 발견하여 약물 치료나 뇌 자극 치료가 환자에게 효과적일지 미리 예측할 수 있게 되었다. 이 연구 결과는 우울증 환자들이 맞춤형 치료를 받을 수 있게 함으로써 치료의 효율성을 크게 높일 수 있는 의의가 있다. 다만 이 바이오마커가 모든 우울증 유형에 적용되는지, 다양한 인종과 집단에서도 동일하게 작동하는지 확인하는 추가 연구가 필요하다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "Depression treatment has long been challenging because different patients respond differently to various therapies, leading to trial-and-error approaches. Researchers analyzed brain scans from over 4,000 individuals and trained artificial intelligence to identify predictive patterns. They discovered a specific brain biomarker that can predict whether a patient will respond well to medication or brain stimulation therapy. This breakthrough finding could enable personalized treatment approaches, allowing psychiatrists to prescribe the most effective therapy for each patient from the start, significantly improving treatment efficiency. The discovery offers substantial clinical significance by potentially eliminating the time and suffering associated with ineffective treatments. However, the study has limitations, including the need to verify whether this biomarker works across different types of depression and diverse populations with varying genetic and demographic backgrounds.\n\n##",
-      "keyPoints": [
-        "**뇌신호 발견을 통한 치료 맞춤화** / Discovery of brain biomarker enabling personalized treatment selection",
-        "**AI 기술의 의료 응용** / Application of AI in medical diagnosis",
-        "**시행착오 치료 종식 가능성** / Potential end to trial-and-error psychiatry",
-        "**추가 검증 필요** / Need for further validation"
-      ],
-      "url": "https://www.psypost.org/scientists-identify-a-brain-signal-that-reveals-whether-depression-therapies-will-work/",
-      "featured": false
-    },
-    {
-      "id": "ba227bbbf154",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "1시간 전 / 1h ago",
-      "title": "DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting",
-      "titleKo": "DySCo: 효과적인 장기 시계열 예측을 위한 동적 의미 압축",
-      "summary": "arXiv:2604.01261v1 Announce Type: new Abstract: Time series forecasting (TSF) is critical across domains such as finance, meteorology, and energy. While extending the lookback window theoretically provides richer historical context, in practice, it often introduces irrelevant noise and computational redundancy, preventing models from effectively capturing complex long-term dependencies. To address these challenges, we propose a Dynamic Semantic Compression (DySCo) framework. Unlike traditional methods that rely on fixed heuristics, DySCo introduces an Entropy-Guided Dynamic Sampling (EGDS) mec",
-      "aiSummary": "This research proposes a novel framework called DySCo (Dynamic Semantic Compression) to improve time series forecasting accuracy in critical domains such as finance, meteorology, and energy. Conventional approaches assumed that incorporating more historical data would enhance performance; however, in practice, this introduces unnecessary noise and computational redundancy, actually degrading model performance. To address this challenge, the research team developed DySCo, which employs an Entropy-Guided Dynamic Sampling (EGDS) mechanism as its core component. Unlike traditional fixed heuristics, this framework dynamically evaluates the information content of data and selectively compresses only important information. This approach enables models to learn long-term dependencies more effectively while reducing computational costs. The research's significance lies in simultaneously improving both efficiency and accuracy of time series forecasting models, though further validation in real-world industrial applications is needed.\n\n##",
-      "aiSummaryKo": "본 연구는 금융, 기상, 에너지 등 다양한 분야에서 중요한 시계열 예측(Time Series Forecasting)의 정확성을 향상시키기 위한 새로운 방법을 제안합니다. 기존 방식에서는 과거 데이터를 더 많이 활용하면 더 나은 결과를 얻을 수 있다고 생각했지만, 실제로는 불필요한 노이즈와 계산 부담이 증가하여 오히려 성능이 저하되는 문제가 있었습니다. 이를 해결하기 위해 연구팀은 DySCo(Dynamic Semantic Compression, 동적 의미 압축) 프레임워크를 개발했으며, 이는 엔트로피 기반의 동적 샘플링(EGDS) 메커니즘을 핵심으로 합니다. 기존의 고정된 규칙 대신 데이터의 정보량을 동적으로 평가하여 중요한 정보만 선택적으로 압축하는 방식입니다. 이 방법은 모델이 장기 의존성을 더 효과적으로 학습하도록 하면서도 계산량을 줄일 수 있게 합니다. 연구의 주요 의의는 시계열 예측 모델의 효율성과 정확성을 동시에 개선했다는 점이며, 향후 실제 산업 응용 분야에서의 성능 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research proposes a novel framework called DySCo (Dynamic Semantic Compression) to improve time series forecasting accuracy in critical domains such as finance, meteorology, and energy. Conventional approaches assumed that incorporating more historical data would enhance performance; however, in practice, this introduces unnecessary noise and computational redundancy, actually degrading model performance. To address this challenge, the research team developed DySCo, which employs an Entropy-Guided Dynamic Sampling (EGDS) mechanism as its core component. Unlike traditional fixed heuristics, this framework dynamically evaluates the information content of data and selectively compresses only important information. This approach enables models to learn long-term dependencies more effectively while reducing computational costs. The research's significance lies in simultaneously improving both efficiency and accuracy of time series forecasting models, though further validation in real-world industrial applications is needed.\n\n##",
-      "keyPoints": [
-        "**기존의 문제점**: 과거 데이터를 단순히 많이 사용하면 노이즈와 계산 부담이 증가하여 예측 성능이 저하됨 / **Existing Problem**: Using more historical data increases noise and computational burden, degrading forecasting performance",
-        "**혁신적 해결책**: 엔트로피 기반 동적 샘플링으로 중요한 정보만 선택적으로 압축하는 DySCo 프레임워크 제안 / **Innovative Solution**: Proposes DySCo framework using entropy-guided dynamic sampling to selectively compress only important information",
-        "**이중 효과**: 장기 의존성 학습 능력 향상과 동시에 계산 효율성 개선 / **Dual Benefits**: Simultaneously enhances long-term dependency learning while improving computational efficiency",
-        "**응용 잠재력**: 금융, 기상, 에너지 등 다양한 산업 분야에서 시계열 예측의 정확도와 속도 개선 가능 / **Application Potential**: Can improve accuracy and speed of time series forecasting across finance, meteorology, energy, and other industrial sectors"
-      ],
-      "url": "https://arxiv.org/abs/2604.01261",
-      "featured": false
-    },
-    {
-      "id": "2b156ea43024",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "1시간 전 / 1h ago",
-      "title": "Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method",
-      "titleKo": "Sven: 계산 효율적인 자연 기울기 방법으로서의 특이값 하강법",
-      "summary": "arXiv:2604.01279v1 Announce Type: new Abstract: We introduce Sven (Singular Value dEsceNt), a new optimization algorithm for neural networks that exploits the natural decomposition of loss functions into a sum over individual data points, rather than reducing the full loss to a single scalar before computing a parameter update. Sven treats each data point's residual as a separate condition to be satisfied simultaneously, using the Moore-Penrose pseudoinverse of the loss Jacobian to find the minimum-norm parameter update that best satisfies all conditions at once. In practice, this pseudoinvers",
-      "aiSummary": "A new optimization algorithm called 'Sven' (Singular Value Descent) has been developed to improve the efficiency of neural network training. While traditional methods combine all data losses into a single scalar value, Sven treats each data point's loss individually and simultaneously. The algorithm uses the Moore-Penrose pseudoinverse of the loss Jacobian to find the minimum-norm parameter update that satisfies all data points at once. Sven's key advantage is that it maintains the benefits of natural gradient methods while significantly reducing computational costs. This approach offers potential improvements in training stability and convergence speed. However, specific experimental results and comparative performance metrics are limited in the abstract, and further validation is needed for practical application in large-scale neural networks.\n\n##",
-      "aiSummaryKo": "신경망 학습을 더 효율적으로 하기 위한 새로운 최적화 알고리즘 'Sven'이 개발되었다. 기존 방법들은 모든 데이터의 손실을 하나의 숫자로 합쳐서 계산하지만, Sven은 각 데이터 포인트의 손실을 개별적으로 취급하는 방식을 사용한다. 이 알고리즘은 무어-펜로즈 의사역행렬(Moore-Penrose pseudoinverse)을 활용하여 모든 데이터를 동시에 만족하는 최소 크기의 매개변수 업데이트를 찾아낸다. Sven의 핵심 장점은 자연기울기(natural gradient) 방법의 이점을 유지하면서도 계산 비용을 크게 줄일 수 있다는 점이다. 이는 신경망 학습의 안정성을 높이고 수렴 속도를 개선할 가능성을 제시한다. 다만 구체적인 실험 결과와 다른 알고리즘과의 비교 데이터가 제한적이며, 대규모 신경망에서의 실용성에 대한 추가 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "A new optimization algorithm called 'Sven' (Singular Value Descent) has been developed to improve the efficiency of neural network training. While traditional methods combine all data losses into a single scalar value, Sven treats each data point's loss individually and simultaneously. The algorithm uses the Moore-Penrose pseudoinverse of the loss Jacobian to find the minimum-norm parameter update that satisfies all data points at once. Sven's key advantage is that it maintains the benefits of natural gradient methods while significantly reducing computational costs. This approach offers potential improvements in training stability and convergence speed. However, specific experimental results and comparative performance metrics are limited in the abstract, and further validation is needed for practical application in large-scale neural networks.\n\n##",
-      "keyPoints": [
-        "**알고리즘의 혁신성**: 기존의 전체 손실 축약 방식 대신 각 데이터 포인트의 손실을 개별적으로 처리 / Novel approach treating individual data losses separately rather than aggregating them into a single scalar value",
-        "**계산 효율성**: 자연기울기 방법의 장점을 유지하면서 계산 복잡도를 감소시킴 / Reduces computational complexity while preserving benefits of natural gradient methods",
-        "**의사역행렬 활용**: 무어-펜로즈 의사역행렬을 사용하여 최소 크기의 최적 매개변수 업데이트 도출 / Uses Moore-Penrose pseudoinverse to find optimal minimum-norm parameter updates",
-        "**실증적 검증 부족**: 추상만 제공되어 구체적 실험 결과, 성능 비교, 대규모 적용 가능성에 대한 검증 데이터 부재 / Limited empirical validation data regarding experimental results, performance comparisons, and scalability to large networks"
-      ],
-      "url": "https://arxiv.org/abs/2604.01279",
-      "featured": false
-    },
-    {
-      "id": "2df3af7ad8b9",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "1시간 전 / 1h ago",
-      "title": "Forecasting Supply Chain Disruptions with Foresight Learning",
-      "titleKo": "선견학적 학습을 통한 공급망 차질 예측",
-      "summary": "arXiv:2604.01298v1 Announce Type: new Abstract: Anticipating supply chain disruptions before they materialize is a core challenge for firms and policymakers alike. A key difficulty is learning to reason reliably about infrequent, high-impact events from noisy and unstructured inputs - a setting where general-purpose models struggle without task-specific adaptation. We introduce an end-to-end framework that trains LLMs to produce calibrated probabilistic forecasts using realized disruption outcomes as supervision. The resulting model substantially outperforms strong baselines - including GPT-5 ",
-      "aiSummary": "This research addresses a critical challenge faced by firms and policymakers: predicting supply chain disruptions before they occur. Supply chain disruptions are rare but high-impact events with complex, unstructured data that have historically frustrated general-purpose AI models. The research team developed an end-to-end framework that fine-tunes large language models (LLMs) using actual disruption outcomes as training data to generate calibrated probabilistic forecasts. The resulting model substantially outperforms strong baselines, including GPT-4. This advancement has significant potential to revolutionize risk management capabilities in supply chain operations. However, important limitations remain including data bias, model interpretability challenges, and the need for real-time adaptability in practical industrial applications.\n\n##",
-      "aiSummaryKo": "이 연구는 기업과 정책담당자들이 직면한 핵심 문제인 공급망 붕괴를 사전에 예측하는 방법을 개발했습니다. 공급망 붕괴는 발생 빈도는 낮지만 영향이 매우 크고, 데이터가 복잡하고 정제되지 않아 일반적인 AI 모델들이 잘 대응하지 못하는 문제였습니다. 연구팀은 대규모언어모델(LLM)을 특별히 훈련시켜 실제 붕괴 데이터를 학습하도록 했고, 이를 통해 신뢰도 높은 확률 기반 예측을 생성하는 통합 프레임워크를 개발했습니다. 개발된 모델은 GPT-4를 포함한 강력한 기존 모델들을 상당히 능가하는 성능을 보였습니다. 이 연구는 공급망 관리의 리스크 관리 능력을 획기적으로 향상시킬 수 있는 잠재력을 가집니다. 다만 실제 산업 적용 시 데이터 편향성, 모델 해석가능성, 실시간 적응성 등이 추가 검토가 필요한 한계점입니다.\n\n##",
-      "aiSummaryEn": "This research addresses a critical challenge faced by firms and policymakers: predicting supply chain disruptions before they occur. Supply chain disruptions are rare but high-impact events with complex, unstructured data that have historically frustrated general-purpose AI models. The research team developed an end-to-end framework that fine-tunes large language models (LLMs) using actual disruption outcomes as training data to generate calibrated probabilistic forecasts. The resulting model substantially outperforms strong baselines, including GPT-4. This advancement has significant potential to revolutionize risk management capabilities in supply chain operations. However, important limitations remain including data bias, model interpretability challenges, and the need for real-time adaptability in practical industrial applications.\n\n##",
-      "keyPoints": [
-        "**문제 정의**: 공급망 붕괴는 저빈도·고영향 사건으로, 노이즈가 많은 비정형 데이터에서 일반 AI 모델의 성능이 낮음 / Supply chain disruptions are low-frequency, high-impact events where general AI models struggle with noisy, unstructured data",
-        "**혁신적 접근법**: LLM을 실제 붕괴 결과로 지도학습하여 확률 기반 예측 모델 개발 / Fine-tuned LLMs using realized disruption outcomes as supervision to generate calibrated probabilistic forecasts",
-        "**성능 향상**: 개발된 모델이 GPT-4 등 기존 강력한 기준 모델들을 상당히 초과함 / Substantially outperforms strong baselines including GPT-4",
-        "**실무 적용 과제**: 데이터 편향성, 모델 투명성, 실시간 적응 필요성 등 산업 현장 적용 시 추가 검토 필요 / Implementation challenges include data bias mitigation, model interpretability, and real-time adaptation requirements for industry deployment"
-      ],
-      "url": "https://arxiv.org/abs/2604.01298",
       "featured": false
     }
   ]
