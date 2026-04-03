@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-03T11:26:43.539349+00:00",
+  "updated": "2026-04-03T14:31:56.531221+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "93a01afb3608",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Different types of childhood maltreatment appear to uniquely shape human brain development",
+      "titleKo": "다양한 유형의 아동학대가 인간의 뇌 발달을 고유하게 형성하는 것으로 보인다",
+      "summary": "A large new study published in Biological Psychiatry reveals that childhood abuse and neglect are associated with distinct differences in adult brain structure. These physical variations are most pronounced in young women and differ based on trauma type.",
+      "aiSummary": "This large-scale study published in Biological Psychiatry investigates how different types of childhood maltreatment affect adult brain structure. Researchers conducted MRI scans and analyzed the brains of adults who experienced various forms of trauma including physical abuse, emotional abuse, and neglect during childhood. The findings reveal that different types of maltreatment are associated with distinct alterations in different brain regions, with these structural changes being particularly pronounced in young women. For instance, brain changes in individuals who experienced physical abuse differed significantly from those who experienced neglect. This research demonstrates that childhood trauma can produce long-term physical changes in brain structure, highlighting the need for trauma-type-specific therapeutic interventions for abuse survivors. However, the study has limitations including potential confounding variables related to participant demographics and other environmental factors that may not have been fully controlled.\n\n##",
+      "aiSummaryKo": "이 연구는 아동기 학대와 방임이 성인의 뇌 구조에 어떤 영향을 미치는지 조사한 대규모 연구입니다. 연구팀은 아동기에 신체적 학대, 정서적 학대, 방임 등 다양한 형태의 트라우마를 경험한 성인들의 뇌를 MRI로 촬영하여 분석했습니다. 연구 결과, 학대 유형에 따라 뇌의 서로 다른 영역이 변화하는 것으로 나타났으며, 이러한 뇌 구조 변화는 특히 젊은 여성들에게서 더욱 뚜렷했습니다. 예를 들어, 신체적 학대를 경험한 사람과 방임을 경험한 사람의 뇌 변화 패턴은 상당히 달랐습니다. 이 연구는 아동 트라우마가 장기적으로 뇌의 물리적 구조를 변화시킨다는 것을 입증하여, 아동 학대 피해자들을 위한 맞춤형 심리 치료 개발의 필요성을 제시합니다. 다만, 연구 참가자의 구성이나 다른 환경 요인들이 완전히 통제되지 않았을 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This large-scale study published in Biological Psychiatry investigates how different types of childhood maltreatment affect adult brain structure. Researchers conducted MRI scans and analyzed the brains of adults who experienced various forms of trauma including physical abuse, emotional abuse, and neglect during childhood. The findings reveal that different types of maltreatment are associated with distinct alterations in different brain regions, with these structural changes being particularly pronounced in young women. For instance, brain changes in individuals who experienced physical abuse differed significantly from those who experienced neglect. This research demonstrates that childhood trauma can produce long-term physical changes in brain structure, highlighting the need for trauma-type-specific therapeutic interventions for abuse survivors. However, the study has limitations including potential confounding variables related to participant demographics and other environmental factors that may not have been fully controlled.\n\n##",
+      "keyPoints": [
+        "**트라우마 유형별 차별화된 뇌 변화** / Trauma-type-specific brain structural alterations: 신체적 학대, 정서적 학대, 방임 등 학대 종류에 따라 뇌의 서로 다른 영역이 영향을 받는다는 것을 발견",
+        "**성별 차이의 중요성** / Gender-specific vulnerability: 아동기 학대의 뇌 발달 영향이 특히 젊은 여성에게서 더욱 심하게 나타나는 경향",
+        "**장기적 신경생물학적 영향** / Long-term neurobiological consequences: 아동기 트라우마가 성인기까지 뇌의 물리적 구조 변화로 지속되는 생물학적 증거 제시",
+        "**맞춤형 치료의 필요성** / Need for personalized intervention: 학대 유형에 맞춘 심리치료 및 뇌 기반 치료법 개발의 중요성 강조"
+      ],
+      "url": "https://www.psypost.org/different-types-of-childhood-maltreatment-appear-to-uniquely-shape-human-brain-development/",
+      "featured": true
+    },
+    {
+      "id": "4492833e3abf",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Brain scans shed light on how short videos impair memory and alter neural pathways",
+      "titleKo": "뇌 스캔이 짧은 영상이 어떻게 기억력을 손상시키고 신경 경로를 변화시키는지 밝혀내다",
+      "summary": "A recent brain imaging experiment reveals that watching fragmented short videos leads to measurably worse memory recall compared to viewing continuous content. The fast-paced format reduces brain activity in regions dedicated to focusing attention and processing deep meaning.",
+      "aiSummary": "Recent brain imaging research reveals that watching fragmented short videos impairs memory recall by reducing neural activity in brain regions responsible for attention and deep information processing. Researchers conducted an fMRI experiment where participants watched either short-format fragmented videos or continuous long-form content while their brain activity was measured and compared. Results showed significantly lower memory recall rates in the short-video group compared to the long-form group, with substantially decreased activation in the prefrontal cortex and temporal lobe regions involved in attention and semantic processing. This study has implications for understanding how rapid, fragmentary video formats interfere with meaningful information processing at the neurological level. However, limitations include the lack of consideration for individual differences (age, ADHD tendencies) and the need for further research on long-term effects of short-video consumption.\n\n##",
+      "aiSummaryKo": "최근 뇌 영상 연구는 짧은 영상 콘텐츠 시청이 뇌의 주의집중 및 의미 처리 영역의 활동을 감소시켜 기억력을 저하시킨다는 것을 밝혔습니다. 연구팀은 참가자들에게 단편화된 짧은 영상과 연속적인 긴 형식의 콘텐츠를 보여주고 fMRI 뇌 영상 기술로 뇌 활동을 비교 측정했습니다. 결과적으로 짧은 영상 시청군이 긴 형식 콘텐츠 시청군에 비해 현저히 낮은 기억 회상률을 보였으며, 특히 전전두피질과 측두엽 등 주의력과 의미 처리를 담당하는 뇌 영역의 활성화가 크게 감소했습니다. 이 연구는 빠르게 변화하는 짧은 영상 포맷이 깊이 있는 정보 처리를 방해하는 메커니즘을 신경과학적으로 규명했다는 점에서 의의가 있습니다. 다만 연구에서 다루지 않은 개인차(예: 나이, 주의력 결핍 성향) 및 장기적 효과에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Recent brain imaging research reveals that watching fragmented short videos impairs memory recall by reducing neural activity in brain regions responsible for attention and deep information processing. Researchers conducted an fMRI experiment where participants watched either short-format fragmented videos or continuous long-form content while their brain activity was measured and compared. Results showed significantly lower memory recall rates in the short-video group compared to the long-form group, with substantially decreased activation in the prefrontal cortex and temporal lobe regions involved in attention and semantic processing. This study has implications for understanding how rapid, fragmentary video formats interfere with meaningful information processing at the neurological level. However, limitations include the lack of consideration for individual differences (age, ADHD tendencies) and the need for further research on long-term effects of short-video consumption.\n\n##",
+      "keyPoints": [
+        "**짧은 영상의 기억력 저하 효과** / Short videos significantly impair memory recall compared to continuous content formats",
+        "**뇌의 주의집중 영역 활동 감소** / Reduced neural activity in attention and semantic processing brain regions (prefrontal cortex, temporal lobe)",
+        "**빠른 콘텐츠 속도와 깊이 있는 처리의 충돌** / Fast-paced format prevents deep cognitive processing and meaningful information retention",
+        "**신경과학적 메커니즘 규명의 중요성** / Study provides neurological evidence for understanding how content format affects cognitive function and learning outcomes"
+      ],
+      "url": "https://www.psypost.org/brain-scans-reveal-how-short-videos-impair-memory-and-disrupt-neural-pathways/",
+      "featured": false
+    },
+    {
+      "id": "381971e27c77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "17일 전 / 17d ago",
+      "title": "Facts and the Fight for Moral High Ground",
+      "titleKo": "사실과 도덕적 우위를 둘러싼 투쟁",
+      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
+      "aiSummary": "This article examines a 2019 environmental justice movement in Philadelphia's Gray's Ferry neighborhood, where residents advocated for the shutdown of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard. The research analyzes how facts and narratives are strategically used to establish \"moral high ground\" in environmental activism through community testimonies and media documentation. Key findings reveal that residents constructed persuasive narratives not solely through scientific facts but by integrating personal experiences and collective community voices. The study demonstrates how emotional appeals and factual arguments interact and reinforce each other in public health advocacy. The significance lies in showing that community voice and trust-building are often more effective than information provision alone in environmental justice campaigns. A limitation is that this is a case study from a specific geographic location, which may restrict generalization to broader environmental movements.\n\n##",
+      "aiSummaryKo": "이 기사는 2019년 8월 필라델피아의 회색 페리(Gray's Ferry) 지역 주민들이 대형 정유소(PES)의 폐쇄를 요구하는 사회운동을 다루고 있습니다. 연구는 지역사회 주민 증언과 미디어 기록을 통해 환경정의 운동에서 '도덕적 우위'를 점하기 위해 어떻게 사실과 감정이 활용되는지를 분석합니다. 핵심 결과는 주민들이 단순한 과학적 사실뿐만 아니라 개인적 경험과 공동체의 목소리를 통해 설득력 있는 내러티브를 구성했다는 것입니다. 이러한 연구는 환경정의 투쟁에서 사실 기반 주장과 감정적 호소가 어떻게 상호작용하는지 보여줍니다. 기사의 의의는 공중보건 운동에서 단순 정보 제공보다는 지역사회의 목소리와 신뢰 구축이 중요함을 시사합니다. 다만, 특정 지역 사례 연구로 일반화의 한계가 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This article examines a 2019 environmental justice movement in Philadelphia's Gray's Ferry neighborhood, where residents advocated for the shutdown of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard. The research analyzes how facts and narratives are strategically used to establish \"moral high ground\" in environmental activism through community testimonies and media documentation. Key findings reveal that residents constructed persuasive narratives not solely through scientific facts but by integrating personal experiences and collective community voices. The study demonstrates how emotional appeals and factual arguments interact and reinforce each other in public health advocacy. The significance lies in showing that community voice and trust-building are often more effective than information provision alone in environmental justice campaigns. A limitation is that this is a case study from a specific geographic location, which may restrict generalization to broader environmental movements.\n\n##",
+      "keyPoints": [
+        "**도덕적 우위의 전략성** / Strategic use of moral authority: 환경정의 운동에서 \"도덕적 우위\"를 차지하기 위해 사실, 감정, 개인 경험이 의도적으로 조합됨 / Environmental activists strategically combine facts, emotions, and personal narratives to establish moral credibility",
+        "**지역사회 목소리의 힘** / Community voice as catalyst: 개별 주민의 증언과 공동체의 목소리가 순수 과학적 증거보다 더 설득력 있는 영향력을 미침 / Individual testimonies and collective community voices prove more persuasive than scientific data alone",
+        "**감정과 사실의 상호작용** / Interplay of emotion and fact: 공중보건 운동에서 감정적 호소와 객관적 사실이 분리될 수 없으며 동시에 작용 / Emotional and factual arguments cannot be separated and work simultaneously in public health campaigns",
+        "**신뢰 구축의 중요성** / Trust-building mechanism: 효과적인 사회운동은 정보 제공보다는 지역사회와의 신뢰 관계 형성을 우선시함 / Effective activism prioritizes establishing trust with communities over merely distributing information"
+      ],
+      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
+      "featured": false
+    },
+    {
+      "id": "42952918014f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "17일 전 / 17d ago",
+      "title": "What It’s Like to Be…a Lineman",
+      "titleKo": "전기 기술자의 삶은 어떨까\n\n또는\n\n송전선 작업자의 삶은 어떨까",
+      "summary": "Wiring a neighborhood back to life after a tornado, coveting the work of helicopter linemen in Faraday suits, and surviving the collapse of a rotten utility pole with Elden Rivas, a journeyman lineman in Houston, Texas. What is the one sound on the crew radio that stops every lineman cold? And why does a squirrel on a transformer mean easy money? [buzzsprout episode='18809906' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Be",
+      "aiSummary": "This article covers a podcast episode about the daily experiences and challenges of power line workers (linemen). Bestselling author Dan Heath interviews Elden Rivas, an experienced journeyman lineman in Houston, Texas, through a conversational format. The methodology is qualitative interview-based, with no specific participant numbers or experimental design mentioned. Key topics include post-tornado neighborhood power restoration, helicopter-assisted line work in Faraday suits, and survival of a collapsed utility pole incident. The podcast aims to educate the public about hazardous occupations and increase understanding of essential infrastructure workers. However, as a personal interview rather than scientific research, the generalizability of findings is limited.\n\n##",
+      "aiSummaryKo": "이 기사는 전력선 작업자(lineman)의 일상과 경험을 다루는 팟캐스트 에피소드에 관한 내용입니다. 베스트셀러 저자 댄 히스가 텍사스 휴스턴의 숙련된 전력선 작업자 엘든 리바스를 인터뷰하는 형식으로 진행됩니다. 연구 방법은 정성적 인터뷰 기반이며, 구체적 참가자 수나 실험 설계는 명시되어 있지 않습니다. 토네이도 이후 지역 전력망 복구, 헬리콥터를 이용한 전력선 작업, 부식된 전봇대 붕괴 사건 등 실제 직무 경험이 핵심 내용입니다. 이 팟캐스트는 위험한 직업의 현실을 대중에게 알리고, 필수 인프라 유지에 종사하는 근로자들을 이해하는 데 기여합니다. 다만 과학적 연구가 아닌 개인 인터뷰 형식이므로 일반화 가능성이 제한적입니다.\n\n##",
+      "aiSummaryEn": "This article covers a podcast episode about the daily experiences and challenges of power line workers (linemen). Bestselling author Dan Heath interviews Elden Rivas, an experienced journeyman lineman in Houston, Texas, through a conversational format. The methodology is qualitative interview-based, with no specific participant numbers or experimental design mentioned. Key topics include post-tornado neighborhood power restoration, helicopter-assisted line work in Faraday suits, and survival of a collapsed utility pole incident. The podcast aims to educate the public about hazardous occupations and increase understanding of essential infrastructure workers. However, as a personal interview rather than scientific research, the generalizability of findings is limited.\n\n##",
+      "keyPoints": [
+        "**전력선 작업자의 실제 직무 위험성** / Real workplace hazards and risks faced by linemen, including tornado recovery operations and equipment failures",
+        "**혁신적 작업 방식** / Innovative and specialized work methods such as helicopter-assisted line work using protective Faraday suits",
+        "**대중 인식 제고** / Raising public awareness about essential infrastructure workers and their critical role in community welfare",
+        "**정성적 스토리텔링의 가치** / Using narrative-based podcast format to humanize often-invisible workers and make their experiences relatable to general audiences"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-lineman/",
+      "featured": false
+    },
+    {
+      "id": "13cfcfb6d2a3",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "14시간 전 / 14h ago",
+      "title": "Study finds dangerous lead levels in children’s clothing",
+      "titleKo": "연구에 따르면 어린이 의류에서 위험한 수준의 납이 검출되다",
+      "summary": "Fast fashion might come with a hidden danger: lead. Researchers testing children’s shirts from multiple retailers found every sample exceeded U.S. safety limits, raising concerns about toxic exposure—especially since young kids often chew on clothing. Brightly colored fabrics like red and yellow showed particularly high levels, likely due to chemicals used to fix dyes. Simulations suggest that even brief mouthing could expose children to unsafe amounts of lead, a substance known to harm brain development and behavior.",
+      "aiSummary": "This research investigated lead contamination in fast fashion children's clothing and its potential health risks. Researchers collected children's shirt samples from multiple retailers and measured their lead content, finding that all samples exceeded U.S. safety standards. Notably, brightly colored fabrics like red and yellow showed particularly high lead levels, likely due to chemical dyes used to fix colors to the fabric. Computer simulations demonstrated that even brief mouthing of clothing could expose children to unsafe lead levels that surpass safety thresholds. Since lead is known to harm brain development and behavioral development, the findings raise significant health concerns. However, the study was limited to samples from specific retailers, and more comprehensive research across broader product ranges is necessary to fully understand the scope of this problem.\n\n##",
+      "aiSummaryKo": "본 연구는 패스트 패션 의류에 포함된 납(lead) 성분이 어린이의 건강에 미치는 영향을 조사했다. 연구팀은 여러 소매점에서 판매하는 어린이용 셔츠 샘플을 수집하여 납 함량을 측정했고, 모든 샘플이 미국 안전 기준치를 초과한 것으로 나타났다. 특히 빨강색과 노랑색 같은 원색 의류에서 납 함량이 높았는데, 이는 염료를 고정하기 위해 사용되는 화학물질 때문인 것으로 추정된다. 컴퓨터 시뮬레이션 결과, 어린이가 짧은 시간이라도 의류를 입에 물었을 때 안전 기준을 초과하는 납에 노출될 수 있음을 보여주었다. 납은 뇌 발달과 행동 발달에 해로운 물질로 알려져 있어 문제의 심각성이 크다. 다만 본 연구는 특정 소매점의 샘플을 대상으로 했으므로, 더 광범위한 추가 조사가 필요하다.\n\n##",
+      "aiSummaryEn": "This research investigated lead contamination in fast fashion children's clothing and its potential health risks. Researchers collected children's shirt samples from multiple retailers and measured their lead content, finding that all samples exceeded U.S. safety standards. Notably, brightly colored fabrics like red and yellow showed particularly high lead levels, likely due to chemical dyes used to fix colors to the fabric. Computer simulations demonstrated that even brief mouthing of clothing could expose children to unsafe lead levels that surpass safety thresholds. Since lead is known to harm brain development and behavioral development, the findings raise significant health concerns. However, the study was limited to samples from specific retailers, and more comprehensive research across broader product ranges is necessary to fully understand the scope of this problem.\n\n##",
+      "keyPoints": [
+        "패스트 패션 어린이 의류의 모든 샘플에서 미국 안전 기준치를 초과하는 납이 검출됨 / All children's clothing samples exceeded U.S. lead safety limits",
+        "빨강색, 노랑색 등 원색 의류에서 특히 높은 납 함량이 나타났으며, 염료 고정용 화학물질이 원인 / Brightly colored fabrics (red, yellow) showed highest lead levels due to dye-fixing chemicals",
+        "어린이가 의류를 입에 물 경우 짧은 시간에도 안전 기준을 초과하는 납에 노출될 수 있음 / Brief mouthing of contaminated clothing can expose children to unsafe lead levels",
+        "납은 어린이의 뇌 발달과 행동 발달에 해로우므로 즉각적인 제품 안전성 개선과 규제가 필요함 / Lead poses serious risks to child brain and behavioral development, requiring immediate regulatory action"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260402042737.htm",
+      "featured": false
+    },
+    {
+      "id": "43f05e41ffce",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Millions start work too early. This drug helps them stay awake",
+      "titleKo": "수백만 명이 너무 일찍 일을 시작한다. 이 약이 깨어있는 데 도움을 준다",
+      "summary": "Millions of people start work before sunrise—but their brains aren’t ready for it. A new clinical trial has found that the wake-promoting drug solriamfetol can significantly boost alertness in early-morning shift workers struggling with shift work disorder. Participants who took the drug were able to stay awake and function better throughout full shifts, with improvements in productivity, safety, and daily performance.",
+      "aiSummary": "Millions of workers beginning their shifts before sunrise face the challenge of starting work when their brains are not yet alert. A recent clinical trial found that solriamfetol, a wake-promoting drug, significantly enhances alertness in early-morning shift workers suffering from shift work disorder. Participants who received the drug were able to maintain wakefulness throughout their entire shifts and demonstrated improved functioning, with notable gains in productivity, safety, and overall daily performance. This research is significant as it offers a pharmacological solution to the chronic sleep deprivation problem experienced by shift workers. However, limitations include the need for further investigation into long-term drug side effects, variability in effectiveness across different populations, and the dependency on medication rather than addressing the underlying work schedule issues.\n\n##",
+      "aiSummaryKo": "아침 일찍 출근하는 수백만 명의 노동자들은 뇌가 준비되지 않은 상태에서 일을 시작하는 어려움을 겪고 있다. 최근 임상시험에서 각성 촉진제인 솔리암페톨(solriamfetol)이 교대근무장애로 고통받는 새벽 근무 노동자들의 각성도를 크게 향상시킬 수 있음을 발견했다. 이 약물을 투여받은 참가자들은 전체 근무시간 동안 깨어있는 상태를 유지하고 더 나은 기능을 발휘할 수 있었으며, 생산성, 안전성, 일상 수행 능력이 개선되었다. 이 연구는 교대근무 노동자들의 만성적인 수면 박탈 문제에 대한 약물학적 해결책을 제시한다는 점에서 의의가 있다. 다만, 장기적인 약물 사용의 부작용, 특정 집단에 대한 효과 차이, 약물에만 의존하는 것의 한계 등이 추가 연구의 과제로 남아있다.\n\n##",
+      "aiSummaryEn": "Millions of workers beginning their shifts before sunrise face the challenge of starting work when their brains are not yet alert. A recent clinical trial found that solriamfetol, a wake-promoting drug, significantly enhances alertness in early-morning shift workers suffering from shift work disorder. Participants who received the drug were able to maintain wakefulness throughout their entire shifts and demonstrated improved functioning, with notable gains in productivity, safety, and overall daily performance. This research is significant as it offers a pharmacological solution to the chronic sleep deprivation problem experienced by shift workers. However, limitations include the need for further investigation into long-term drug side effects, variability in effectiveness across different populations, and the dependency on medication rather than addressing the underlying work schedule issues.\n\n##",
+      "keyPoints": [
+        "**약물 효과의 명확성** / Clear Drug Efficacy: 솔리암페톨이 교대근무장애 환자의 각성도를 현저히 증진시켜 근무 중 주의력과 생산성 향상",
+        "**다층적 개선 효과** / Multi-faceted Improvements: 단순 각성뿐 아니라 안전성, 일상 수행 능력, 생산성 등 업무 전반에 걸친 긍정적 변화 기록",
+        "**광범위한 대상 필요성** / Widespread Need: 새벽 근무자 수백만 명이 뇌의 생물학적 리듬 부적응으로 인한 어려움을 겪고 있어 약물 솔루션의 실질적 필요성 증명",
+        "**비약물적 대안 병행 필요** / Need for Complementary Approaches: 약물 치료의 효과에도 불구하고 근본적인 근무 일정 개선, 수면 위생 관리 등 통합적 접근이 중요함을 시사"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260401071936.htm",
+      "featured": false
+    },
     {
       "id": "082490abbe40",
       "tag": "psych",
@@ -21,7 +147,7 @@
         "**인지 안전성에 대한 함의** / Implications for Cognitive Safety: 운전, 업무, 의사결정 등 정확한 기억이 필요한 활동에서 대마초 사용의 위험성을 시사"
       ],
       "url": "https://www.psypost.org/cannabis-intoxication-broadly-impairs-multiple-memory-types-new-study-shows/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1117202778a5",
@@ -294,117 +420,6 @@
         "**실무 적용 과제**: 데이터 편향성, 모델 투명성, 실시간 적응 필요성 등 산업 현장 적용 시 추가 검토 필요 / Implementation challenges include data bias mitigation, model interpretability, and real-time adaptation requirements for industry deployment"
       ],
       "url": "https://arxiv.org/abs/2604.01298",
-      "featured": false
-    },
-    {
-      "id": "027c24c1b7b3",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "1시간 전 / 1h ago",
-      "title": "UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression",
-      "titleKo": "UQ-SHRED: 희소 센싱을 위한 앙그레션을 통한 얕은 재귀 디코더 네트워크의 불확실성 정량화",
-      "summary": "arXiv:2604.01305v1 Announce Type: new Abstract: Reconstructing high-dimensional spatiotemporal fields from sparse sensor measurements is critical in a wide range of scientific applications. The SHallow REcurrent Decoder (SHRED) architecture is a recent state-of-the-art architecture that reconstructs high-quality spatial domain from hyper-sparse sensor measurement streams. An important limitation of SHRED is that in complex, data-scarce, high-frequency, or stochastic systems, portions of the spatiotemporal field must be modeled with valid uncertainty estimation. We introduce UQ-SHRED, a distrib",
-      "aiSummary": "This research improves artificial intelligence technology for reconstructing large-scale spatiotemporal information from measurements taken by a limited number of sensors. The existing SHRED (SHallow REcurrent Decoder) neural network architecture demonstrated excellent performance in recovering high-quality spatial information from extremely sparse sensor measurements, but had a limitation in quantifying uncertainty. The researchers developed UQ-SHRED to enable uncertainty estimation even in complex, data-scarce, high-frequency, and stochastic systems. This method provides confidence ranges (probability distributions) for predictions at each point reconstructed from sensor data. This improvement is expected to enable more robust and reliable system operation in scientific applications. However, the research is still in early stages and requires additional validation of performance on complex real-world systems.\n\n##",
-      "aiSummaryKo": "이 연구는 적은 수의 센서로부터 측정한 데이터로 광범위한 공간-시간 정보를 재구성하는 인공지능 기술을 개선한 것입니다. 기존의 SHRED(얕은 순환형 디코더) 신경망 구조는 극히 제한된 센서 측정값으로부터 고품질의 공간 정보를 복원하는 데 우수한 성능을 보였지만, 불확실성을 정량화하지 못한다는 한계가 있었습니다. 연구진은 UQ-SHRED를 개발하여 복잡하고 데이터가 부족하거나 고주파, 확률적 시스템에서도 불확실성을 추정할 수 있도록 개선했습니다. 이 방법은 센서 데이터로부터 재구성된 각 지점의 예측에 대해 신뢰도 범위(확률 분포)를 제공합니다. 이러한 개선으로 과학적 응용 분야에서 더욱 안정적이고 신뢰할 수 있는 시스템 운영이 가능해질 것으로 기대됩니다. 다만, 연구는 아직 초기 단계로 실제 복잡한 시스템에서의 성능 검증이 추가적으로 필요합니다.\n\n##",
-      "aiSummaryEn": "This research improves artificial intelligence technology for reconstructing large-scale spatiotemporal information from measurements taken by a limited number of sensors. The existing SHRED (SHallow REcurrent Decoder) neural network architecture demonstrated excellent performance in recovering high-quality spatial information from extremely sparse sensor measurements, but had a limitation in quantifying uncertainty. The researchers developed UQ-SHRED to enable uncertainty estimation even in complex, data-scarce, high-frequency, and stochastic systems. This method provides confidence ranges (probability distributions) for predictions at each point reconstructed from sensor data. This improvement is expected to enable more robust and reliable system operation in scientific applications. However, the research is still in early stages and requires additional validation of performance on complex real-world systems.\n\n##",
-      "keyPoints": [
-        "**포인트 1** / **Point 1**",
-        "시간 정보를 복원하는 문제를 해결 / Addresses the problem of reconstructing large-scale spatiotemporal information from extremely sparse sensor measurements",
-        "**포인트 2** / **Point 2**",
-        "SHRED로 개선 / Improves upon existing SHRED by adding uncertainty quantification capability that was previously absent"
-      ],
-      "url": "https://arxiv.org/abs/2604.01305",
-      "featured": false
-    },
-    {
-      "id": "11991c2299d7",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "1시간 전 / 1h ago",
-      "title": "Parallelized Hierarchical Connectome: A Spatiotemporal Recurrent Framework for Spiking State-Space Models",
-      "titleKo": "병렬화된 계층적 커넥톰: 스파이킹 상태공간 모델을 위한 시공간 순환 프레임워크",
-      "summary": "arXiv:2604.01295v1 Announce Type: new Abstract: This work presents the Parallelized Hierarchical Connectome (PHC), a general framework that upgrades temporal-only State-Space Models (SSMs) into spatiotemporal recurrent networks. Conventional SSMs achieve high-speed sequence processing through parallel scans, yet are limited to temporal recurrence without lateral or feedback interactions within a single timestep. PHC maps the diagonal SSM core to a shared Neuron Layer and inter-neuronal communication to a shared Synapse Layer, where neurons are partitioned into hierarchical regions governed by ",
-      "aiSummary": "This research presents the Parallelized Hierarchical Connectome (PHC), a novel framework designed to integrate the computational efficiency of state-space models (SSMs) with the biological structure of brain connectivity. While conventional SSMs enable fast sequence processing through parallelization, they are limited to temporal recurrence without modeling lateral or feedback interactions within a single timestep. PHC overcomes this limitation by incorporating neuron and synapse layers inspired by biological neural architecture, mapping SSM cores to shared neuron populations and inter-neuronal communication to synapse layers. The framework organizes neurons hierarchically while maintaining parallel processing efficiency. This approach demonstrates potential for improving machine learning performance through biologically plausible network architectures. However, the study remains at the theoretical framework stage, requiring empirical validation on large-scale datasets.\n\n##",
-      "aiSummaryKo": "본 연구는 인공신경망의 처리 속도와 생물학적 뇌 구조의 특성을 결합하기 위해 개발된 새로운 프레임워크인 '병렬화된 계층적 연결체(PHC)'를 제시합니다. 기존의 상태-공간 모델(SSM)은 시간 축으로만 정보를 처리하여 처리 속도는 빠르지만, 같은 시간 단계 내에서 신경 간 상호작용을 모델링하지 못했습니다. PHC는 뇌의 신경 세포와 시냅스 구조를 모방하여 신경 계층과 시냅스 계층을 도입함으로써 이 한계를 극복합니다. 이 방식은 신경들을 계층적으로 조직화하면서도 병렬 처리의 효율성을 유지할 수 있게 설계되었습니다. 연구는 생물학적으로 타당한 신경망 아키텍처를 통해 기계학습 성능을 향상시킬 수 있음을 시사합니다. 다만 본 연구는 이론적 프레임워크 제시 단계로, 실제 대규모 데이터셋에서의 실증적 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research presents the Parallelized Hierarchical Connectome (PHC), a novel framework designed to integrate the computational efficiency of state-space models (SSMs) with the biological structure of brain connectivity. While conventional SSMs enable fast sequence processing through parallelization, they are limited to temporal recurrence without modeling lateral or feedback interactions within a single timestep. PHC overcomes this limitation by incorporating neuron and synapse layers inspired by biological neural architecture, mapping SSM cores to shared neuron populations and inter-neuronal communication to synapse layers. The framework organizes neurons hierarchically while maintaining parallel processing efficiency. This approach demonstrates potential for improving machine learning performance through biologically plausible network architectures. However, the study remains at the theoretical framework stage, requiring empirical validation on large-scale datasets.\n\n##",
-      "keyPoints": [
-        "**시공간 처리의 통합** / Integration of Spatiotemporal Processing",
-        "**생물학적 모방 아키텍처** / Biologically-Inspired Architecture",
-        "**병렬 처리 효율성 유지** / Maintained Parallel Processing Efficiency",
-        "**향후 검증 필요** / Need for Empirical Validation"
-      ],
-      "url": "https://arxiv.org/abs/2604.01295",
-      "featured": false
-    },
-    {
-      "id": "7c73ddb342a0",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "1시간 전 / 1h ago",
-      "title": "Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical Network Dynamics in Parkinsons Disease",
-      "titleKo": "파킨슨병의 피질 네트워크 역학을 포착하는 휴식 상태 뇌전도의 해석 가능한 전기생리학적 특징",
-      "summary": "arXiv:2604.01475v1 Announce Type: new Abstract: Parkinsons disease (PD) alters cortical neural dynamics, yet reliable non-invasive electrophysiological biomarkers remain elusive. This study examined whether interpretable EEG features capturing complementary aspects of neural dynamics can discriminate Parkinsonian neural states. A comprehensive set of interpretable features was extracted and grouped into Standard descriptors (spectral power, phase synchronization, time-domain statistics) and Dynamical descriptors (aperiodic activity, cross-frequency coupling, scale-free dynamics, neuronal avala",
-      "aiSummary": "Parkinson's disease alters cortical neural dynamics, but reliable non-invasive biomarkers for accurate diagnosis remain unavailable. This study investigated whether interpretable EEG features capturing multiple aspects of neural dynamics can effectively discriminate Parkinsonian neural states. Researchers extracted and classified comprehensive EEG features into Standard descriptors (spectral power, phase synchronization, time-domain statistics) and Dynamical descriptors (aperiodic activity, cross-frequency coupling, scale-free dynamics, and neuronal avalanches). This multi-layered approach to EEG analysis provides better understanding of the neurobiological mechanisms underlying Parkinson's disease and could contribute to developing objective diagnostic and monitoring tools. However, the study is at a preliminary stage, and validation studies with larger patient cohorts are needed.\n\n##",
-      "aiSummaryKo": "파킨슨병은 뇌의 신경 활동 패턴을 변화시키지만, 이를 정확히 진단할 수 있는 신뢰할 만한 비침습적 뇌파 검사 지표가 부족한 상황입니다. 이 연구는 뇌의 다양한 신경 활동 특성을 포착하는 해석 가능한 뇌파 특징들이 파킨슨병 환자의 신경 상태를 구별할 수 있는지 확인했습니다. 연구진은 표준 기술자(뇌파의 주파수 강도, 위상 동기화, 시간 영역 통계)와 동역학적 기술자(비주기적 활동, 교차 주파수 결합, 척도 불변 역학)로 분류된 포괄적인 해석 가능한 특징들을 추출했습니다. 이러한 다층적 뇌파 분석 방법은 파킨슨병의 신경 생물학적 메커니즘을 더 잘 이해하는 데 도움이 되며, 향후 정확한 진단과 질병 모니터링을 위한 객관적 지표 개발에 기여할 수 있습니다. 다만 이 연구는 아직 예비 단계이며, 더 많은 환자를 대상으로 한 검증 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "Parkinson's disease alters cortical neural dynamics, but reliable non-invasive biomarkers for accurate diagnosis remain unavailable. This study investigated whether interpretable EEG features capturing multiple aspects of neural dynamics can effectively discriminate Parkinsonian neural states. Researchers extracted and classified comprehensive EEG features into Standard descriptors (spectral power, phase synchronization, time-domain statistics) and Dynamical descriptors (aperiodic activity, cross-frequency coupling, scale-free dynamics, and neuronal avalanches). This multi-layered approach to EEG analysis provides better understanding of the neurobiological mechanisms underlying Parkinson's disease and could contribute to developing objective diagnostic and monitoring tools. However, the study is at a preliminary stage, and validation studies with larger patient cohorts are needed.\n\n##",
-      "keyPoints": [
-        "파킨슨병의 객관적 진단을 위해 표준 뇌파 특징(주파수, 위상 동기화)과 동역학적 특징(비주기 활동, 교차 주파수 결합)을 결합한 다층적 분석 방법 제안 / A multi-layered EEG analysis approach combining Standard descriptors and Dynamical descriptors for objective Parkinson's disease diagnosis",
-        "해석 가능한 뇌파 특징들이 파킨슨병 환자의 신경 상태를 구별할 수 있음을 시사 / Interpretable EEG features can effectively discriminate Parkinsonian neural states",
-        "뇌의 신경 역학적 변화를 포착하는 포괄적 지표 개발로 파킨슨병의 신경생물학적 메커니즘 규명 가능 / Comprehensive indicators capturing cortical neural dynamics can elucidate neurobiological mechanisms of Parkinson's disease",
-        "향후 임상적 진단, 질병 진행 모니터링, 치료 효과 평가를 위한 객관적 생물지표 개발의 기초 제공 / Provides foundation for developing objective biomarkers for clinical diagnosis, disease progression monitoring, and treatment efficacy assessment"
-      ],
-      "url": "https://arxiv.org/abs/2604.01475",
-      "featured": false
-    },
-    {
-      "id": "c8af0754054a",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "1시간 전 / 1h ago",
-      "title": "Thermodynamic connectivity reveals functional specialization and multiplex organization of extrasynaptic signaling",
-      "titleKo": "",
-      "summary": "arXiv:2604.02057v1 Announce Type: new Abstract: Neural communication operates on both fast synaptic transmission and slower, diffusive extrasynaptic signaling, yet how these two modes jointly organize brain function remains unclear. Here, using the complete synaptic and neuropeptidergic connectomes of \\emph{Caenorhabditis elegans}, we develop a unified multiplex framework linking anatomical wiring to functional communication. We infer structure-derived functional connectivity from the synaptic connectome using equilibrium principles from statistical physics, yielding a probabilistic map of inf",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.02057",
-      "featured": false
-    },
-    {
-      "id": "f296b86f28af",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "1시간 전 / 1h ago",
-      "title": "Phase estimation with autoregressive padding (PEAP): addressing inaccuracies and biases in EEG analysis",
-      "titleKo": "",
-      "summary": "arXiv:2604.02212v1 Announce Type: new Abstract: Accurate phase estimation at the edge of data segments is crucial for EEG applications such as EEG-TMS in offline and real-time data analysis. Our research evaluates the phase estimation performance of four commonly used methods (Phastimate, SSPE, ETP, and PhastPadding) for accuracy and systemic biases, using data from young and elderly healthy controls and chronic stroke participants. To address the identified limitations of the established methods, we introduce Phase Estimation with Autoregressive Padding (PEAP), a method that prevents strong b",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.02212",
-      "featured": false
-    },
-    {
-      "id": "a3d5cb0c4033",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "11일 전 / 11d ago",
-      "title": "‘Looking Backward’ to the Future",
-      "titleKo": "",
-      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
       "featured": false
     }
   ]
