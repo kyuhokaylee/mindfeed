@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-03T08:38:14.289481+00:00",
+  "updated": "2026-04-03T11:26:43.539349+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "082490abbe40",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Cannabis intoxication broadly impairs multiple memory types, new study shows",
+      "titleKo": "대마초 중독이 여러 유형의 기억력을 광범위하게 손상시킨다는 새로운 연구 결과",
+      "summary": "A new study in the Journal of Psychopharmacology mapped how cannabis impacts human cognition. The findings provide evidence that intoxication broadly disrupts multiple memory domains, increasing false memories and making it harder to recall practical, everyday information.",
+      "aiSummary": "A new study published in the Journal of Psychopharmacology investigated how cannabis consumption affects human cognitive abilities, particularly memory. The research provides evidence that cannabis intoxication broadly impairs multiple types of memory across different domains. Specifically, cannabis users demonstrated increased susceptibility to forming false memories—remembering events that never actually occurred—and showed diminished ability to recall practical, everyday information necessary for daily functioning. This study clarifies that cannabis affects not just attention but has widespread impacts on the entire memory system, providing important evidence for drug policy and public health education. However, the lack of specific sample sizes and concrete numerical data limits deeper analysis of the findings.\n\n##",
+      "aiSummaryKo": "이 연구는 대마초 섭취가 인간의 인지 능력, 특히 기억력에 어떤 영향을 미치는지 조사했습니다. 《정신약리학 저널》에 발표된 이 연구는 대마초 중독 상태에서 여러 종류의 기억이 광범위하게 손상된다는 증거를 제시합니다. 구체적으로, 대마초 사용자들은 실제로 일어나지 않은 거짓 기억을 더 많이 형성하는 경향을 보였으며, 일상생활에 필요한 실질적인 정보를 회상하는 능력이 저하되었습니다. 이 연구는 대마초가 단순한 주의력 문제가 아니라 기억 체계 전반에 미치는 광범위한 영향을 명확히 함으로써, 약물 정책과 공중보건 교육의 중요한 근거를 제공합니다. 다만 연구의 정확한 표본 규모나 구체적인 수치 데이터가 제시되지 않아 결과의 심화된 분석에 제한이 있습니다.\n\n##",
+      "aiSummaryEn": "A new study published in the Journal of Psychopharmacology investigated how cannabis consumption affects human cognitive abilities, particularly memory. The research provides evidence that cannabis intoxication broadly impairs multiple types of memory across different domains. Specifically, cannabis users demonstrated increased susceptibility to forming false memories—remembering events that never actually occurred—and showed diminished ability to recall practical, everyday information necessary for daily functioning. This study clarifies that cannabis affects not just attention but has widespread impacts on the entire memory system, providing important evidence for drug policy and public health education. However, the lack of specific sample sizes and concrete numerical data limits deeper analysis of the findings.\n\n##",
+      "keyPoints": [
+        "**광범위한 기억 손상** / Broad Memory Impairment: 대마초 중독은 단일 기억 유형이 아닌 여러 기억 영역을 동시에 손상시킴",
+        "**거짓 기억 증가** / Increased False Memories: 대마초 사용자들이 실제로 일어나지 않은 사건을 기억할 확률이 높아짐",
+        "**일상 정보 회상 어려움** / Impaired Practical Recall: 일상생활에 필요한 구체적이고 실질적인 정보를 기억하고 회상하는 능력 저하",
+        "**인지 안전성에 대한 함의** / Implications for Cognitive Safety: 운전, 업무, 의사결정 등 정확한 기억이 필요한 활동에서 대마초 사용의 위험성을 시사"
+      ],
+      "url": "https://www.psypost.org/cannabis-intoxication-broadly-impairs-multiple-memory-types-new-study-shows/",
+      "featured": true
+    },
+    {
+      "id": "1117202778a5",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "13시간 전 / 13h ago",
+      "title": "Large-scale study links autoimmune diseases to higher rates of depression and anxiety",
+      "titleKo": "",
+      "summary": "A sweeping analysis of over a million health records reveals that people living with autoimmune diseases experience depression and anxiety at nearly twice the rate of the general public, suggesting a profound link between physical inflammation and mental health.",
+      "aiSummary": "A large-scale study analyzing over one million health records has revealed a significant link between autoimmune diseases and mental health disorders. Researchers found that people with autoimmune diseases experience depression and anxiety at nearly twice the rate of the general population. This finding suggests that physical inflammation from autoimmune conditions may profoundly influence mental health outcomes. The research underscores the importance of integrated mental health care for autoimmune disease patients and highlights the need for a holistic treatment approach addressing both physical and psychological symptoms. However, the study demonstrates correlation rather than establishing clear causation, and may not fully account for individual variations and socio-cultural factors that could influence the results.\n\n##",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A large-scale study analyzing over one million health records has revealed a significant link between autoimmune diseases and mental health disorders. Researchers found that people with autoimmune diseases experience depression and anxiety at nearly twice the rate of the general population. This finding suggests that physical inflammation from autoimmune conditions may profoundly influence mental health outcomes. The research underscores the importance of integrated mental health care for autoimmune disease patients and highlights the need for a holistic treatment approach addressing both physical and psychological symptoms. However, the study demonstrates correlation rather than establishing clear causation, and may not fully account for individual variations and socio-cultural factors that could influence the results.\n\n##",
+      "keyPoints": [
+        "**높은 유병률**: 자가면역질환 환자의 우울증·불안장애 발생률이 일반인의 약 2배 / Autoimmune disease patients experience depression and anxiety at nearly double the rate of the general population",
+        "**염증과 정신건강 연관성**: 신체 염증 반응이 정신건강 문제와 밀접한 관계를 가짐 / Physical inflammation appears to have a profound connection with mental health disorders",
+        "**통합적 치료 필요성**: 자가면역질환 치료 시 정신건강 관리를 함께 고려해야 함 / Integrated mental health care should be considered alongside physical disease management",
+        "**연구 한계**: 대규모 데이터 분석이지만 인과관계 규명 부족 및 개인차 요인 미충분 / Large-scale correlation study lacks causal evidence and may not fully account for individual differences"
+      ],
+      "url": "https://www.psypost.org/large-scale-study-links-autoimmune-diseases-to-higher-rates-of-depression-and-an-2026-03-26/",
+      "featured": false
+    },
+    {
+      "id": "3d6c6b8f4640",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "4시간 전 / 4h ago",
+      "title": "A gene mutation may trap the brain in the wrong reality in schizophrenia patients",
+      "titleKo": "유전자 돌연변이가 정신분열증 환자의 뇌를 잘못된 현실에 갇히게 할 수 있다",
+      "summary": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their understanding of reality. The mutation disrupts a brain circuit involved in flexible decision-making, causing mice to stick with outdated choices even when conditions change. Researchers pinpointed the issue to a key thalamus–prefrontal cortex pathway. By reactivating this circuit, they were able to restore normal behavior—raising hope for future therapies.",
+      "aiSummary": "A newly identified gene mutation has been discovered that may explain why schizophrenia patients struggle to accurately perceive reality. Researchers found that this mutation disrupts a brain circuit responsible for flexible decision-making, and experiments with mice revealed that they persisted with outdated choices even when environmental conditions changed. Specifically, the neural pathway connecting the thalamus and prefrontal cortex was damaged, but reactivating this circuit restored normal behavior in the mice. This discovery represents an important step in understanding the neurobiological causes of schizophrenia and offers significant hope for future drug development and therapeutic improvements. However, additional research is needed to confirm whether results from animal experiments can be equally applied to humans. Furthermore, since schizophrenia results from multiple genetic and environmental factors working together, a single gene mutation alone cannot provide a complete explanation.\n\n##",
+      "aiSummaryKo": "조현병 환자들이 현실을 올바르게 인식하지 못하는 이유를 설명할 수 있는 새로운 유전자 돌연변이가 발견되었다. 연구팀은 이 돌연변이가 뇌의 유연한 의사결정을 담당하는 회로를 방해한다는 것을 밝혀냈으며, 실험쥐를 통해 환경이 변해도 과거의 선택에 집착하는 행동을 확인했다. 구체적으로 시상과 전전두피질을 연결하는 신경회로 경로가 손상되어 있었으며, 이 회로를 다시 활성화시키자 정상적인 행동이 회복되었다. 이 발견은 조현병의 신경생물학적 원인을 이해하는 데 중요한 단계이며, 향후 신약 개발과 치료법 개선에 큰 희망을 제공한다. 다만 동물 실험 결과가 인간에게 동일하게 적용될 수 있는지 확인하는 추가 연구가 필요하다. 또한 조현병은 다양한 유전적·환경적 요인이 복합적으로 작용하므로 단일 유전자만으로는 완전한 설명이 어렵다.\n\n##",
+      "aiSummaryEn": "A newly identified gene mutation has been discovered that may explain why schizophrenia patients struggle to accurately perceive reality. Researchers found that this mutation disrupts a brain circuit responsible for flexible decision-making, and experiments with mice revealed that they persisted with outdated choices even when environmental conditions changed. Specifically, the neural pathway connecting the thalamus and prefrontal cortex was damaged, but reactivating this circuit restored normal behavior in the mice. This discovery represents an important step in understanding the neurobiological causes of schizophrenia and offers significant hope for future drug development and therapeutic improvements. However, additional research is needed to confirm whether results from animal experiments can be equally applied to humans. Furthermore, since schizophrenia results from multiple genetic and environmental factors working together, a single gene mutation alone cannot provide a complete explanation.\n\n##",
+      "keyPoints": [
+        "**유전자 돌연변이의 역할** / Gene mutation's role: 새로운 유전자 돌연변이가 조현병 환자의 현실 인식 어려움을 설명할 수 있는 생물학적 원인으로 발견됨",
+        "**신경회로 손상 메커니즘** / Neural circuit damage mechanism: 시상과 전전두피질 간 신경회로 경로가 손상되어 유연한 의사결정 능력이 저하되고 과거 선택에 대한 집착 발생",
+        "**회로 재활성화의 치료 가능성** / Therapeutic potential of circuit reactivation: 손상된 신경회로를 다시 활성화시킬 수 있다면 정상적인 행동을 회복할 수 있음을 동물 실험으로 입증",
+        "**임상 응용의 한계와 과제** / Clinical application limitations: 동물 실험 결과의 인간 적용 가능성 검증 필요 및 조현병의 다중 원인 특성으로 인한 단일 치료법의 한계"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260402042740.htm",
+      "featured": false
+    },
+    {
+      "id": "d03ce63cf41f",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "17시간 전 / 17h ago",
+      "title": "Eating more meat may lower Alzheimer’s risk for some people",
+      "titleKo": "더 많은 육류 섭취가 일부 사람들의 알츠하이머병 위험을 낮출 수 있다",
+      "summary": "A surprising new study suggests that genetics may change how diet affects brain health—especially when it comes to Alzheimer’s risk. Researchers found that older adults carrying high-risk APOE gene variants didn’t show the expected cognitive decline if they ate relatively high amounts of meat. In fact, those with these genes who consumed the most meat had slower cognitive decline and lower dementia risk, challenging conventional dietary advice.",
+      "aiSummary": "A recent study investigates how genetics regulate the impact of diet on brain health, particularly regarding Alzheimer's risk. Researchers examined older adults carrying high-risk APOE gene variants and analyzed the relationship between meat consumption and cognitive decline. Surprisingly, among those with these high-risk genes, individuals who consumed the most meat showed slower cognitive decline and lower dementia risk, contrary to conventional dietary recommendations. This finding suggests that the same diet can have different effects depending on an individual's genetic characteristics. The research challenges the one-size-fits-all approach to nutrition and dementia prevention. However, further validation is needed regarding sample size, follow-up duration, and other dietary factors.\n\n##",
+      "aiSummaryKo": "최근 연구는 유전자가 식단이 뇌 건강에 미치는 영향을 어떻게 조절하는지를 조사했습니다. 연구팀은 알츠하이머병 고위험 유전자(APOE)를 보유한 노인들을 대상으로 육류 섭취량과 인지 기능 저하의 관계를 분석했습니다. 놀랍게도 이 고위험 유전자를 가진 사람들 중 육류를 많이 섭취한 그룹이 더 느린 인지 기능 저하를 보였고 치매 위험도 더 낮았습니다. 이는 일반적인 식단 권장사항과 상충되는 결과입니다. 이 연구는 개인의 유전적 특성에 따라 같은 식단이 서로 다른 영향을 미칠 수 있음을 시사합니다. 다만 표본 크기, 추적 기간, 기타 식생활 요인 등에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "A recent study investigates how genetics regulate the impact of diet on brain health, particularly regarding Alzheimer's risk. Researchers examined older adults carrying high-risk APOE gene variants and analyzed the relationship between meat consumption and cognitive decline. Surprisingly, among those with these high-risk genes, individuals who consumed the most meat showed slower cognitive decline and lower dementia risk, contrary to conventional dietary recommendations. This finding suggests that the same diet can have different effects depending on an individual's genetic characteristics. The research challenges the one-size-fits-all approach to nutrition and dementia prevention. However, further validation is needed regarding sample size, follow-up duration, and other dietary factors.\n\n##",
+      "keyPoints": [
+        "**유전자-식단 상호작용** / Gene-diet interaction: APOE 유전자 보유자에게는 높은 육류 섭취가 인지 기능 보호 효과를 나타낼 수 있음",
+        "**개인맞춤형 영양** / Personalized nutrition: 치매 위험 감소를 위한 식단 권장사항은 개인의 유전적 배경을 고려해야 함",
+        "**기존 가설 도전** / Challenging conventional wisdom: 일반인에게 권장되는 저육류 식단이 모든 사람에게 최적일 수 없음을 시사",
+        "**추가 연구 필요** / Further research needed: 표본 확대, 장기 추적 연구, 다른 영양 요소와의 상호작용 분석 필요"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260401071931.htm",
+      "featured": false
+    },
     {
       "id": "00f3d9031506",
       "tag": "ai",
@@ -21,7 +105,7 @@
         "**AI 성능 향상의 새로운 경로** / New Path for AI Performance Enhancement"
       ],
       "url": "https://arxiv.org/abs/2604.00005",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f32666474475",
@@ -321,70 +405,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "381971e27c77",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "17일 전 / 17d ago",
-      "title": "Facts and the Fight for Moral High Ground",
-      "titleKo": "",
-      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
-      "featured": false
-    },
-    {
-      "id": "42952918014f",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "17일 전 / 17d ago",
-      "title": "What It’s Like to Be…a Lineman",
-      "titleKo": "",
-      "summary": "Wiring a neighborhood back to life after a tornado, coveting the work of helicopter linemen in Faraday suits, and surviving the collapse of a rotten utility pole with Elden Rivas, a journeyman lineman in Houston, Texas. What is the one sound on the crew radio that stops every lineman cold? And why does a squirrel on a transformer mean easy money? [buzzsprout episode='18809906' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Be",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-lineman/",
-      "featured": false
-    },
-    {
-      "id": "13cfcfb6d2a3",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "5시간 전 / 5h ago",
-      "title": "Study finds dangerous lead levels in children’s clothing",
-      "titleKo": "",
-      "summary": "Fast fashion might come with a hidden danger: lead. Researchers testing children’s shirts from multiple retailers found every sample exceeded U.S. safety limits, raising concerns about toxic exposure—especially since young kids often chew on clothing. Brightly colored fabrics like red and yellow showed particularly high levels, likely due to chemicals used to fix dyes. Simulations suggest that even brief mouthing could expose children to unsafe amounts of lead, a substance known to harm brain development and behavior.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260402042737.htm",
-      "featured": false
-    },
-    {
-      "id": "43f05e41ffce",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Millions start work too early. This drug helps them stay awake",
-      "titleKo": "",
-      "summary": "Millions of people start work before sunrise—but their brains aren’t ready for it. A new clinical trial has found that the wake-promoting drug solriamfetol can significantly boost alertness in early-morning shift workers struggling with shift work disorder. Participants who took the drug were able to stay awake and function better throughout full shifts, with improvements in productivity, safety, and daily performance.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260401071936.htm",
       "featured": false
     }
   ]
