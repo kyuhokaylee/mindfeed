@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-03T17:03:06.547612+00:00",
+  "updated": "2026-04-03T19:57:23.440795+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "bc32070b1d32",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "The exact political location where conspiracy theories thrive",
+      "titleKo": "음모론이 번성하는 정확한 정치적 위치",
+      "summary": "A new study mapping European political attitudes reveals that people who favor left-wing economic policies but hold conservative cultural views are the most likely to endorse conspiracy theories.",
+      "aiSummary": "This study mapped European political attitudes to examine the relationship between political positions and conspiracy theory endorsement. Researchers analyzed participants' positions across two political axes: economic policy orientation (left-wing to right-wing) and cultural values (progressive to conservative). The key finding revealed that people who favor left-wing economic policies while holding conservative cultural views are most likely to endorse conspiracy theories. This suggests that individuals with mixed or inconsistent political ideologies are more vulnerable to conspiracy theories than those with coherent political beliefs. The research is significant for understanding the psychological mechanisms underlying conspiracy theory spread and can inform strategies to combat misinformation in polarized political environments. However, the study's limitations include its European-focused sample and reliance on self-reported survey data.\n\n##",
+      "aiSummaryKo": "이 연구는 유럽의 정치적 태도 지형을 매핑하여 음모론 신봉과의 관계를 조사했습니다. 연구진은 경제 정책(좌파-우파)과 문화적 가치관(진보-보수)의 두 가지 정치적 축을 분석하여 참가자들의 정치적 위치를 파악했습니다. 핵심 발견은 좌파 경제 정책을 선호하면서 동시에 보수적 문화관을 가진 사람들이 음모론을 가장 많이 신봉한다는 것입니다. 이는 '일관된 정치 이데올로기'를 가진 사람들보다 정치적 신념이 혼합된 사람들이 음모론에 더 취약함을 시사합니다. 이 연구는 음모론 확산의 심리적 메커니즘을 이해하는 데 중요한 의의가 있으며, 정치 양극화 시대에 허위정보 대처 전략 수립에 도움이 될 수 있습니다. 다만 유럽 중심의 표본 구성과 자기보고식 설문 방식이 연구의 한계로 지적됩니다.\n\n##",
+      "aiSummaryEn": "This study mapped European political attitudes to examine the relationship between political positions and conspiracy theory endorsement. Researchers analyzed participants' positions across two political axes: economic policy orientation (left-wing to right-wing) and cultural values (progressive to conservative). The key finding revealed that people who favor left-wing economic policies while holding conservative cultural views are most likely to endorse conspiracy theories. This suggests that individuals with mixed or inconsistent political ideologies are more vulnerable to conspiracy theories than those with coherent political beliefs. The research is significant for understanding the psychological mechanisms underlying conspiracy theory spread and can inform strategies to combat misinformation in polarized political environments. However, the study's limitations include its European-focused sample and reliance on self-reported survey data.\n\n##",
+      "keyPoints": [
+        "**정치적 불일치가 음모론의 위험 요인** / Political inconsistency is a risk factor for conspiracy theory endorsement",
+        "좌파 경제정책+보수 문화관의 조합에서 가장 높은 음모론 신봉률",
+        "**이데올로기 혼합의 심리적 영향** / Psychological impact of ideological mixing",
+        "일관된 정치관을 가진 사람들보다 신념의 충돌을 경험하는 사람들이 음모론에 더 쉽게 빠짐"
+      ],
+      "url": "https://www.psypost.org/the-exact-political-location-where-conspiracy-theories-thrive-2026-03-19/",
+      "featured": true
+    },
+    {
+      "id": "312e4c3258bc",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "15시간 전 / 15h ago",
+      "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+      "titleKo": "행동 건강 커뮤니케이션 시뮬레이션을 위한 안전 인식 역할 조율 다중 에이전트 LLM 프레임워크",
+      "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, role-orchestrated multi-agent LLM framework designed to simulate supportive behavioral health dialogue through coordinated, role-differentiated agents. Conversational responsibilities are decomposed across specialized agents, including empathy-focused, action-oriented, and supervisory roles, while a prompt-based controller dynamically activates releva",
+      "aiSummary": "This research addresses the challenge that single-agent large language models struggle to simultaneously support diverse conversational functions while maintaining safety in behavioral health communication. The team developed a multi-agent LLM framework where specialized AI agents perform differentiated roles to simulate supportive behavioral health dialogue. The system decomposes conversational responsibilities across empathy-focused agents, action-oriented agents, and supervisory agents, with a prompt-based controller dynamically activating relevant agents based on context. This role-orchestrated approach enables the AI system to provide both emotional support and safety simultaneously in sensitive mental health conversations. The research's significance lies in enhancing AI trustworthiness and effectiveness in behavioral health domains. However, specific performance metrics and clinical validation data are not presented in the abstract, which represents a limitation of the current study.\n\n##",
+      "aiSummaryKo": "행동 건강 관련 대화에서 단일 AI 모델은 다양한 대화 기능을 동시에 지원하면서 안전성을 유지하기 어렵다는 문제에서 출발한 연구이다. 연구팀은 여러 개의 특화된 AI 에이전트가 서로 다른 역할을 수행하도록 조율하는 '다중 에이전트 LLM 프레임워크'를 개발했다. 이 시스템은 공감 담당 에이전트, 행동 지향 에이전트, 감시 역할을 수행하는 에이전트 등으로 대화 책임을 분담하며, 프롬프트 기반 컨트롤러가 상황에 맞는 에이전트를 동적으로 활성화한다. 이러한 역할 분담을 통해 AI가 정서적 지지와 안전성을 동시에 제공할 수 있게 설계되었다. 연구의 주요 의의는 행동 건강 상담 같은 민감한 분야에서 AI의 신뢰성과 효과성을 높일 수 있다는 점이다. 다만 구체적인 성능 수치나 실제 임상 검증이 제시되지 않은 것이 한계로 보인다.\n\n##",
+      "aiSummaryEn": "This research addresses the challenge that single-agent large language models struggle to simultaneously support diverse conversational functions while maintaining safety in behavioral health communication. The team developed a multi-agent LLM framework where specialized AI agents perform differentiated roles to simulate supportive behavioral health dialogue. The system decomposes conversational responsibilities across empathy-focused agents, action-oriented agents, and supervisory agents, with a prompt-based controller dynamically activating relevant agents based on context. This role-orchestrated approach enables the AI system to provide both emotional support and safety simultaneously in sensitive mental health conversations. The research's significance lies in enhancing AI trustworthiness and effectiveness in behavioral health domains. However, specific performance metrics and clinical validation data are not presented in the abstract, which represents a limitation of the current study.\n\n##",
+      "keyPoints": [
+        "**역할 분담을 통한 안전성 강화** / Enhanced Safety Through Role Differentiation",
+        "**동적 에이전트 활성화 시스템** / Dynamic Agent Activation System",
+        "**행동 건강 커뮤니케이션 특화** / Behavioral Health Communication Specialization",
+        "**임상 응용 가능성의 한계** / Limitations in Clinical Validation"
+      ],
+      "url": "https://arxiv.org/abs/2604.00249",
+      "featured": false
+    },
+    {
+      "id": "ba227bbbf154",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "15시간 전 / 15h ago",
+      "title": "DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting",
+      "titleKo": "DySCo: 효과적인 장기 시계열 예측을 위한 동적 의미 압축",
+      "summary": "arXiv:2604.01261v1 Announce Type: new Abstract: Time series forecasting (TSF) is critical across domains such as finance, meteorology, and energy. While extending the lookback window theoretically provides richer historical context, in practice, it often introduces irrelevant noise and computational redundancy, preventing models from effectively capturing complex long-term dependencies. To address these challenges, we propose a Dynamic Semantic Compression (DySCo) framework. Unlike traditional methods that rely on fixed heuristics, DySCo introduces an Entropy-Guided Dynamic Sampling (EGDS) mec",
+      "aiSummary": "Time series forecasting is critical across domains such as finance, meteorology, and energy, relying on historical data to predict future trends. While conventional approaches suggest that including more historical data would improve predictions, in practice, this introduces irrelevant noise and computational redundancy that actually degrades forecasting performance. To address this challenge, researchers proposed the DySCo (Dynamic Semantic Compression) framework, which replaces fixed heuristic rules with an Entropy-Guided Dynamic Sampling (EGDS) mechanism to selectively extract only the most important information. The framework dynamically identifies patterns that change over time, enabling models to more effectively capture complex long-term dependencies in time series data. This approach has potential applications in improving prediction accuracy and reducing computational costs across finance, meteorology, and energy sectors. However, since only the abstract was provided, specific details regarding the number of experimental participants, concrete performance improvement metrics, and explicit limitations of the study remain unavailable.\n\n##",
+      "aiSummaryKo": "시계열 예측(금융, 기상, 에너지 등)은 과거 데이터를 활용하여 미래를 예측하는 중요한 기술이다. 기존 방식에서는 더 많은 과거 데이터를 포함시키면 더 나은 예측이 가능할 것으로 예상되지만, 실제로는 불필요한 노이즈와 계산 비용이 증가하여 오히려 예측 성능이 저하되는 문제가 있었다. 이를 해결하기 위해 연구팀은 'DySCo(동적 의미 압축)' 프레임워크를 제안했다. 이 방법은 고정된 규칙이 아닌 '엔트로피 기반 동적 샘플링(EGDS)' 메커니즘을 사용하여 중요한 정보만 선택적으로 추출한다. DySCo는 시간에 따라 변하는 데이터의 패턴을 동적으로 파악하여 장기 시계열의 복잡한 의존성을 효과적으로 학습할 수 있다. 이 연구는 실제 금융, 기상, 에너지 분야에서 예측 정확도를 높이고 계산 비용을 절감하는 데 기여할 수 있다. 다만, 논문 초록만 제공되어 구체적인 실험 참가자 수, 성능 개선 수치, 그리고 연구의 한계점에 대한 상세한 정보는 제한적이다.\n\n##",
+      "aiSummaryEn": "Time series forecasting is critical across domains such as finance, meteorology, and energy, relying on historical data to predict future trends. While conventional approaches suggest that including more historical data would improve predictions, in practice, this introduces irrelevant noise and computational redundancy that actually degrades forecasting performance. To address this challenge, researchers proposed the DySCo (Dynamic Semantic Compression) framework, which replaces fixed heuristic rules with an Entropy-Guided Dynamic Sampling (EGDS) mechanism to selectively extract only the most important information. The framework dynamically identifies patterns that change over time, enabling models to more effectively capture complex long-term dependencies in time series data. This approach has potential applications in improving prediction accuracy and reducing computational costs across finance, meteorology, and energy sectors. However, since only the abstract was provided, specific details regarding the number of experimental participants, concrete performance improvement metrics, and explicit limitations of the study remain unavailable.\n\n##",
+      "keyPoints": [
+        "**기존 문제점** / **Existing Problem**: 시계열 예측에서 더 많은 과거 데이터가 항상 더 나은 결과를 주지 못하며, 오히려 노이즈와 계산 비용 증가로 인해 성능이 저하됨 / Extending lookback windows in time series forecasting introduces irrelevant noise and computational redundancy rather than improving predictions",
+        "**혁신적 해결책** / **Innovative Solution**: 엔트로피 기반 동적 샘플링(EGDS)을 통해 중요한 정보만 동적으로 선택하는 DySCo 프레임워크 제안 / Dynamic Semantic Compression framework uses Entropy-Guided Dynamic Sampling to selectively extract semantically important information from time series data",
+        "**기술의 장점** / **Technical Advantages**: 고정된 규칙이 아닌 적응형 메커니즘으로 시간 변화에 따른 패턴을 유연하게 포착하여 장기 의존성 학습 향상 / Adaptive mechanism captures time-varying patterns more effectively than fixed heuristics, improving long-term dependency learning",
+        "**실용적 영향** / **Practical Impact**: 금융, 기상, 에너지 등 다양한 분야에서 예측 정확도 향상과 계산 효율성 개선 가능 / Potential to enhance forecasting accuracy while reducing computational costs across finance, meteorology, and energy sectors"
+      ],
+      "url": "https://arxiv.org/abs/2604.01261",
+      "featured": false
+    },
+    {
+      "id": "2b156ea43024",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "15시간 전 / 15h ago",
+      "title": "Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method",
+      "titleKo": "Sven: 계산 효율적인 자연 기울기 방법으로서의 특이값 강하법",
+      "summary": "arXiv:2604.01279v1 Announce Type: new Abstract: We introduce Sven (Singular Value dEsceNt), a new optimization algorithm for neural networks that exploits the natural decomposition of loss functions into a sum over individual data points, rather than reducing the full loss to a single scalar before computing a parameter update. Sven treats each data point's residual as a separate condition to be satisfied simultaneously, using the Moore-Penrose pseudoinverse of the loss Jacobian to find the minimum-norm parameter update that best satisfies all conditions at once. In practice, this pseudoinvers",
+      "aiSummary": "A new optimization algorithm called 'Sven (Singular Value Descent)' has been introduced to more efficiently minimize loss functions during neural network training. While conventional methods aggregate all data losses into a single scalar before updating parameters, Sven simultaneously minimizes the loss for each individual data point. The algorithm uses the Moore-Penrose pseudoinverse of the loss Jacobian to find the minimum-norm parameter update that satisfies all conditions at once. The researchers argue this method implements natural gradient-based optimization while significantly improving computational efficiency. The key advantage is its applicability to high-dimensional neural networks without prohibitive computational costs. However, as a theoretical paper, additional empirical validation and performance comparison on large-scale neural networks are needed for practical assessment.\n\n##",
+      "aiSummaryKo": "신경망 훈련 과정에서 손실함수를 더 효율적으로 최소화하는 새로운 최적화 알고리즘 'Sven(특이값 강하법)'이 제시되었습니다. 기존 방법들은 전체 데이터의 손실을 하나의 숫자로 축약한 후 업데이트하지만, Sven은 각 개별 데이터 포인트의 손실을 동시에 최소화하는 방식으로 작동합니다. 이 알고리즘은 손실 함수의 무어-펜로즈 유사역행렬(Moore-Penrose pseudoinverse)을 활용하여 모든 조건을 동시에 만족하는 최소 범위의 매개변수 업데이트를 찾습니다. 연구팀은 이 방법이 자연기울기(natural gradient) 기반의 최적화이면서도 계산 효율성을 크게 개선한다고 주장합니다. Sven의 장점은 복잡한 계산량 없이 고차원 신경망에 적용 가능하다는 점입니다. 다만 이는 이론적 논문으로, 실제 대규모 신경망에서의 성능 검증과 실험적 비교가 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "A new optimization algorithm called 'Sven (Singular Value Descent)' has been introduced to more efficiently minimize loss functions during neural network training. While conventional methods aggregate all data losses into a single scalar before updating parameters, Sven simultaneously minimizes the loss for each individual data point. The algorithm uses the Moore-Penrose pseudoinverse of the loss Jacobian to find the minimum-norm parameter update that satisfies all conditions at once. The researchers argue this method implements natural gradient-based optimization while significantly improving computational efficiency. The key advantage is its applicability to high-dimensional neural networks without prohibitive computational costs. However, as a theoretical paper, additional empirical validation and performance comparison on large-scale neural networks are needed for practical assessment.\n\n##",
+      "keyPoints": [
+        "**새로운 접근법** / **Novel Approach**: 개별 데이터 포인트별 손실을 독립적으로 처리하여 자연기울기 최적화를 구현하는 혁신적 방법론 제시",
+        "**계산 효율성** / **Computational Efficiency**: 무어-펜로즈 유사역행렬 활용으로 기존 자연기울기 방법보다 훨씬 낮은 계산 복잡도 달성",
+        "**실용성 증대** / **Practical Applicability**: 복잡한 헤시안 행렬 계산 없이 고차원 신경망에 직접 적용 가능한 실용적 알고리즘",
+        "**추가 검증 필요** / **Further Validation Needed**: 이론적 제시 단계로, 대규모 실제 신경망에서의 성능 실험 데이터 및 기존 방법들과의 정량적 비교 연구 필요"
+      ],
+      "url": "https://arxiv.org/abs/2604.01279",
+      "featured": false
+    },
+    {
+      "id": "2df3af7ad8b9",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "15시간 전 / 15h ago",
+      "title": "Forecasting Supply Chain Disruptions with Foresight Learning",
+      "titleKo": "선견 학습을 통한 공급망 차질 예측",
+      "summary": "arXiv:2604.01298v1 Announce Type: new Abstract: Anticipating supply chain disruptions before they materialize is a core challenge for firms and policymakers alike. A key difficulty is learning to reason reliably about infrequent, high-impact events from noisy and unstructured inputs - a setting where general-purpose models struggle without task-specific adaptation. We introduce an end-to-end framework that trains LLMs to produce calibrated probabilistic forecasts using realized disruption outcomes as supervision. The resulting model substantially outperforms strong baselines - including GPT-5 ",
+      "aiSummary": "This research addresses the critical challenge of anticipating supply chain disruptions before they occur, which is essential for both firms and policymakers. The research team developed an end-to-end framework that trains large language models (LLMs) using actual supply chain disruption outcomes as supervision data. The approach enables models to generate calibrated probabilistic forecasts for rare but high-impact events from noisy and unstructured inputs. The resulting model substantially outperforms strong baseline models, including GPT-5, in forecasting accuracy. The significance of this work lies in its ability to predict rare, high-impact events from complex, real-world data using task-specific model adaptation. However, limitations include the need for further validation of real-world applicability and generalization performance across different time periods and supply chain contexts.\n\n##",
+      "aiSummaryKo": "본 연구는 기업과 정책 입안자들이 직면한 공급망 혼란을 사전에 예측하는 문제를 다룹니다. 연구팀은 대규모언어모델(LLM)을 특별히 훈련하여 실제 공급망 혼란 데이터를 학습 데이터로 사용함으로써, 드물지만 큰 영향을 미치는 사건들을 신뢰할 수 있게 예측하도록 했습니다. 이를 위해 엔드-투-엔드 프레임워크를 개발하여 모델이 확률 기반의 보정된 예측값을 생성하도록 설계했습니다. 개발된 모델은 GPT-5를 포함한 강력한 기존 모델들을 크게 능가하는 성능을 보였습니다. 이 연구의 의의는 잡음이 많고 비정형적인 데이터에서 고영향 저빈도 사건을 예측할 수 있다는 점입니다. 다만 모델의 실제 적용 성능과 시간 경과에 따른 일반화 능력은 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research addresses the critical challenge of anticipating supply chain disruptions before they occur, which is essential for both firms and policymakers. The research team developed an end-to-end framework that trains large language models (LLMs) using actual supply chain disruption outcomes as supervision data. The approach enables models to generate calibrated probabilistic forecasts for rare but high-impact events from noisy and unstructured inputs. The resulting model substantially outperforms strong baseline models, including GPT-5, in forecasting accuracy. The significance of this work lies in its ability to predict rare, high-impact events from complex, real-world data using task-specific model adaptation. However, limitations include the need for further validation of real-world applicability and generalization performance across different time periods and supply chain contexts.\n\n##",
+      "keyPoints": [
+        "**문제의 중요성** / **Problem Significance**: 공급망 혼란은 드물지만 큰 영향을 미치는 사건으로, 전문적 학습 없이는 일반 모델들이 예측하기 어려움 / Supply chain disruptions are rare but high-impact events that general-purpose models struggle to predict without task-specific adaptation.",
+        "**혁신적 방법론** / **Innovative Methodology**: 실제 공급망 혼란 데이터를 감독 신호로 사용하여 LLM을 훈련하는 엔드-투-엔드 프레임워크 개발 / An end-to-end framework that uses realized disruption outcomes as supervision to train LLMs for calibrated probabilistic forecasting.",
+        "**우수한 성능** / **Superior Performance**: 개발 모델이 GPT-5를 포함한 기존의 강력한 기준 모델들을 크게 능가 / The developed model substantially outperforms strong baseline models including GPT-5 in predictive accuracy.",
+        "**실무적 가치** / **Practical Value**: 기업의 리스크 관리와 정책 입안자의 의사결정을 지원하여 공급망 안정성 향상에 기여 / Supports corporate risk management and policy-making to enhance supply chain resilience and stability."
+      ],
+      "url": "https://arxiv.org/abs/2604.01298",
+      "featured": false
+    },
+    {
+      "id": "1f2d0b54d063",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "2일 전 / 2d ago",
+      "title": "What It’s Like to Be…a Diplomat",
+      "titleKo": "어떤 삶인가…외교관의",
+      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
+      "aiSummary": "This article features a podcast episode from the series \"What It's Like to Be...\" where bestselling author Dan Heath interviews John Johnson, a retired US diplomat with over twenty years of Foreign Service experience. The episode explores the actual work and daily life of diplomats through real-world examples, including defusing a crisis after an ambassador hinted at a preemptive strike against Russia, delivering demarches in multiple languages, and managing the frantic evacuation of the Kabul embassy. Through the conversation, listeners gain insight into modern diplomatic practices, such as whether diplomats still use encrypted cables in the 21st century and the meanings of diplomatic terminology. The podcast aims to enhance public understanding of international relations and diplomacy while showcasing the specific roles and responsibilities of diplomatic professionals. However, the episode is limited by its focus on a single individual's experiences, which may not represent all diplomatic activities comprehensively.",
+      "aiSummaryKo": "본 기사는 팟캐스트 시리즈 \"What It's Like to Be...\"의 에피소드로, 20년 이상 미국 외교관으로 근무한 존 존슨(John Johnson) 퇴직 외교관의 실제 경험을 다룬다. 이 에피소드에서는 외교관의 실제 업무와 일상을 조명하며, 러시아에 대한 선제 공격 언급 후 위기 상황을 진정시키기, 다국어로 구두 항의(demarche) 전달, 카불 대사관 긴급 철수 등 실제 사례들을 포함한다. 저자 댄 히스(Dan Heath)와의 대화를 통해 현대 외교관들이 실제로 암호화된 전신(cables)을 사용하는지, 외교 용어의 의미 등 일반인이 궁금해할 외교 관행에 대한 설명이 포함된다. 본 팟캐스트는 국제관계와 외교 업무에 대한 대중의 이해를 높이고, 외교관의 역할과 책임을 구체적으로 보여주는 데 의의가 있다. 다만 단일 인물의 경험에 기반한 사례 중심이므로, 모든 외교 활동을 대표하기에는 한계가 있을 수 있다.",
+      "aiSummaryEn": "This article features a podcast episode from the series \"What It's Like to Be...\" where bestselling author Dan Heath interviews John Johnson, a retired US diplomat with over twenty years of Foreign Service experience. The episode explores the actual work and daily life of diplomats through real-world examples, including defusing a crisis after an ambassador hinted at a preemptive strike against Russia, delivering demarches in multiple languages, and managing the frantic evacuation of the Kabul embassy. Through the conversation, listeners gain insight into modern diplomatic practices, such as whether diplomats still use encrypted cables in the 21st century and the meanings of diplomatic terminology. The podcast aims to enhance public understanding of international relations and diplomacy while showcasing the specific roles and responsibilities of diplomatic professionals. However, the episode is limited by its focus on a single individual's experiences, which may not represent all diplomatic activities comprehensively.",
+      "keyPoints": [
+        "외교관의 실제 업무 / Actual diplomatic work includes crisis management, multilingual negotiations, and emergency evacuations",
+        "현대 외교 관행 / Modern diplomatic practices still utilize traditional communication methods like encrypted cables alongside contemporary technology",
+        "위기 상황 대응 사례 / Real-world examples demonstrate how diplomats navigate international crises, such as managing statements about military action and conducting rapid diplomatic withdrawals",
+        "대중의 외교 이해 증진 / The podcast serves to demystify diplomatic work and increase public understanding of what professional diplomats actually do daily"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
+      "featured": false
+    },
     {
       "id": "18d3b1cda5ae",
       "tag": "psych",
@@ -21,7 +147,7 @@
         "수감자 표본으로 인한 일반화 제한 / Generalizability limited due to incarcerated sample"
       ],
       "url": "https://www.psypost.org/when-made-to-feel-sad-men-with-psychopathic-traits-shift-their-visual-focus-to-anger/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "027c24c1b7b3",
@@ -289,132 +415,6 @@
         "**인지 안전성에 대한 함의** / Implications for Cognitive Safety: 운전, 업무, 의사결정 등 정확한 기억이 필요한 활동에서 대마초 사용의 위험성을 시사"
       ],
       "url": "https://www.psypost.org/cannabis-intoxication-broadly-impairs-multiple-memory-types-new-study-shows/",
-      "featured": false
-    },
-    {
-      "id": "1117202778a5",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "13시간 전 / 13h ago",
-      "title": "Large-scale study links autoimmune diseases to higher rates of depression and anxiety",
-      "titleKo": "",
-      "summary": "A sweeping analysis of over a million health records reveals that people living with autoimmune diseases experience depression and anxiety at nearly twice the rate of the general public, suggesting a profound link between physical inflammation and mental health.",
-      "aiSummary": "A large-scale study analyzing over one million health records has revealed a significant link between autoimmune diseases and mental health disorders. Researchers found that people with autoimmune diseases experience depression and anxiety at nearly twice the rate of the general population. This finding suggests that physical inflammation from autoimmune conditions may profoundly influence mental health outcomes. The research underscores the importance of integrated mental health care for autoimmune disease patients and highlights the need for a holistic treatment approach addressing both physical and psychological symptoms. However, the study demonstrates correlation rather than establishing clear causation, and may not fully account for individual variations and socio-cultural factors that could influence the results.\n\n##",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A large-scale study analyzing over one million health records has revealed a significant link between autoimmune diseases and mental health disorders. Researchers found that people with autoimmune diseases experience depression and anxiety at nearly twice the rate of the general population. This finding suggests that physical inflammation from autoimmune conditions may profoundly influence mental health outcomes. The research underscores the importance of integrated mental health care for autoimmune disease patients and highlights the need for a holistic treatment approach addressing both physical and psychological symptoms. However, the study demonstrates correlation rather than establishing clear causation, and may not fully account for individual variations and socio-cultural factors that could influence the results.\n\n##",
-      "keyPoints": [
-        "**높은 유병률**: 자가면역질환 환자의 우울증·불안장애 발생률이 일반인의 약 2배 / Autoimmune disease patients experience depression and anxiety at nearly double the rate of the general population",
-        "**염증과 정신건강 연관성**: 신체 염증 반응이 정신건강 문제와 밀접한 관계를 가짐 / Physical inflammation appears to have a profound connection with mental health disorders",
-        "**통합적 치료 필요성**: 자가면역질환 치료 시 정신건강 관리를 함께 고려해야 함 / Integrated mental health care should be considered alongside physical disease management",
-        "**연구 한계**: 대규모 데이터 분석이지만 인과관계 규명 부족 및 개인차 요인 미충분 / Large-scale correlation study lacks causal evidence and may not fully account for individual differences"
-      ],
-      "url": "https://www.psypost.org/large-scale-study-links-autoimmune-diseases-to-higher-rates-of-depression-and-an-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "3d6c6b8f4640",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4시간 전 / 4h ago",
-      "title": "A gene mutation may trap the brain in the wrong reality in schizophrenia patients",
-      "titleKo": "유전자 돌연변이가 정신분열증 환자의 뇌를 잘못된 현실에 갇히게 할 수 있다",
-      "summary": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their understanding of reality. The mutation disrupts a brain circuit involved in flexible decision-making, causing mice to stick with outdated choices even when conditions change. Researchers pinpointed the issue to a key thalamus–prefrontal cortex pathway. By reactivating this circuit, they were able to restore normal behavior—raising hope for future therapies.",
-      "aiSummary": "A newly identified gene mutation has been discovered that may explain why schizophrenia patients struggle to accurately perceive reality. Researchers found that this mutation disrupts a brain circuit responsible for flexible decision-making, and experiments with mice revealed that they persisted with outdated choices even when environmental conditions changed. Specifically, the neural pathway connecting the thalamus and prefrontal cortex was damaged, but reactivating this circuit restored normal behavior in the mice. This discovery represents an important step in understanding the neurobiological causes of schizophrenia and offers significant hope for future drug development and therapeutic improvements. However, additional research is needed to confirm whether results from animal experiments can be equally applied to humans. Furthermore, since schizophrenia results from multiple genetic and environmental factors working together, a single gene mutation alone cannot provide a complete explanation.\n\n##",
-      "aiSummaryKo": "조현병 환자들이 현실을 올바르게 인식하지 못하는 이유를 설명할 수 있는 새로운 유전자 돌연변이가 발견되었다. 연구팀은 이 돌연변이가 뇌의 유연한 의사결정을 담당하는 회로를 방해한다는 것을 밝혀냈으며, 실험쥐를 통해 환경이 변해도 과거의 선택에 집착하는 행동을 확인했다. 구체적으로 시상과 전전두피질을 연결하는 신경회로 경로가 손상되어 있었으며, 이 회로를 다시 활성화시키자 정상적인 행동이 회복되었다. 이 발견은 조현병의 신경생물학적 원인을 이해하는 데 중요한 단계이며, 향후 신약 개발과 치료법 개선에 큰 희망을 제공한다. 다만 동물 실험 결과가 인간에게 동일하게 적용될 수 있는지 확인하는 추가 연구가 필요하다. 또한 조현병은 다양한 유전적·환경적 요인이 복합적으로 작용하므로 단일 유전자만으로는 완전한 설명이 어렵다.\n\n##",
-      "aiSummaryEn": "A newly identified gene mutation has been discovered that may explain why schizophrenia patients struggle to accurately perceive reality. Researchers found that this mutation disrupts a brain circuit responsible for flexible decision-making, and experiments with mice revealed that they persisted with outdated choices even when environmental conditions changed. Specifically, the neural pathway connecting the thalamus and prefrontal cortex was damaged, but reactivating this circuit restored normal behavior in the mice. This discovery represents an important step in understanding the neurobiological causes of schizophrenia and offers significant hope for future drug development and therapeutic improvements. However, additional research is needed to confirm whether results from animal experiments can be equally applied to humans. Furthermore, since schizophrenia results from multiple genetic and environmental factors working together, a single gene mutation alone cannot provide a complete explanation.\n\n##",
-      "keyPoints": [
-        "**유전자 돌연변이의 역할** / Gene mutation's role: 새로운 유전자 돌연변이가 조현병 환자의 현실 인식 어려움을 설명할 수 있는 생물학적 원인으로 발견됨",
-        "**신경회로 손상 메커니즘** / Neural circuit damage mechanism: 시상과 전전두피질 간 신경회로 경로가 손상되어 유연한 의사결정 능력이 저하되고 과거 선택에 대한 집착 발생",
-        "**회로 재활성화의 치료 가능성** / Therapeutic potential of circuit reactivation: 손상된 신경회로를 다시 활성화시킬 수 있다면 정상적인 행동을 회복할 수 있음을 동물 실험으로 입증",
-        "**임상 응용의 한계와 과제** / Clinical application limitations: 동물 실험 결과의 인간 적용 가능성 검증 필요 및 조현병의 다중 원인 특성으로 인한 단일 치료법의 한계"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260402042740.htm",
-      "featured": false
-    },
-    {
-      "id": "d03ce63cf41f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "17시간 전 / 17h ago",
-      "title": "Eating more meat may lower Alzheimer’s risk for some people",
-      "titleKo": "더 많은 육류 섭취가 일부 사람들의 알츠하이머병 위험을 낮출 수 있다",
-      "summary": "A surprising new study suggests that genetics may change how diet affects brain health—especially when it comes to Alzheimer’s risk. Researchers found that older adults carrying high-risk APOE gene variants didn’t show the expected cognitive decline if they ate relatively high amounts of meat. In fact, those with these genes who consumed the most meat had slower cognitive decline and lower dementia risk, challenging conventional dietary advice.",
-      "aiSummary": "A recent study investigates how genetics regulate the impact of diet on brain health, particularly regarding Alzheimer's risk. Researchers examined older adults carrying high-risk APOE gene variants and analyzed the relationship between meat consumption and cognitive decline. Surprisingly, among those with these high-risk genes, individuals who consumed the most meat showed slower cognitive decline and lower dementia risk, contrary to conventional dietary recommendations. This finding suggests that the same diet can have different effects depending on an individual's genetic characteristics. The research challenges the one-size-fits-all approach to nutrition and dementia prevention. However, further validation is needed regarding sample size, follow-up duration, and other dietary factors.\n\n##",
-      "aiSummaryKo": "최근 연구는 유전자가 식단이 뇌 건강에 미치는 영향을 어떻게 조절하는지를 조사했습니다. 연구팀은 알츠하이머병 고위험 유전자(APOE)를 보유한 노인들을 대상으로 육류 섭취량과 인지 기능 저하의 관계를 분석했습니다. 놀랍게도 이 고위험 유전자를 가진 사람들 중 육류를 많이 섭취한 그룹이 더 느린 인지 기능 저하를 보였고 치매 위험도 더 낮았습니다. 이는 일반적인 식단 권장사항과 상충되는 결과입니다. 이 연구는 개인의 유전적 특성에 따라 같은 식단이 서로 다른 영향을 미칠 수 있음을 시사합니다. 다만 표본 크기, 추적 기간, 기타 식생활 요인 등에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "A recent study investigates how genetics regulate the impact of diet on brain health, particularly regarding Alzheimer's risk. Researchers examined older adults carrying high-risk APOE gene variants and analyzed the relationship between meat consumption and cognitive decline. Surprisingly, among those with these high-risk genes, individuals who consumed the most meat showed slower cognitive decline and lower dementia risk, contrary to conventional dietary recommendations. This finding suggests that the same diet can have different effects depending on an individual's genetic characteristics. The research challenges the one-size-fits-all approach to nutrition and dementia prevention. However, further validation is needed regarding sample size, follow-up duration, and other dietary factors.\n\n##",
-      "keyPoints": [
-        "**유전자-식단 상호작용** / Gene-diet interaction: APOE 유전자 보유자에게는 높은 육류 섭취가 인지 기능 보호 효과를 나타낼 수 있음",
-        "**개인맞춤형 영양** / Personalized nutrition: 치매 위험 감소를 위한 식단 권장사항은 개인의 유전적 배경을 고려해야 함",
-        "**기존 가설 도전** / Challenging conventional wisdom: 일반인에게 권장되는 저육류 식단이 모든 사람에게 최적일 수 없음을 시사",
-        "**추가 연구 필요** / Further research needed: 표본 확대, 장기 추적 연구, 다른 영양 요소와의 상호작용 분석 필요"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260401071931.htm",
-      "featured": false
-    },
-    {
-      "id": "00f3d9031506",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "4시간 전 / 4h ago",
-      "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
-      "titleKo": "감정이 대규모 언어 모델과 에이전트의 행동을 형성하는 방식: 기계론적 연구",
-      "summary": "arXiv:2604.00005v1 Announce Type: new Abstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the behavior of large language models (LLMs) and agents. Existing emotion-aware studies mainly treat emotion as a surface-level style factor or a perception target, overlooking its mechanistic role in task processing. To address this limitation, we propose E-STEER, an interpretable emotion steering framework that enables direct representation-level intervention in LLMs and agents. It embeds emotion as",
-      "aiSummary": "This study investigates whether emotional signals can shape the behavior of large language models (LLMs) and AI agents, inspired by the significant role emotions play in human cognition and performance. While previous emotion-aware studies treated emotion only as a surface-level style factor or perception target, this research aims to understand its mechanistic role in task processing. The researchers propose E-STEER, an interpretable emotion steering framework that enables direct representation-level intervention in LLMs and agents rather than relying on prompt-based approaches. This approach demonstrates that emotions can substantively alter the internal working mechanisms of AI models. The significance of this work lies in deepening our understanding of AI model behavior and suggesting possibilities for performance enhancement through emotional control. However, the research is in its early stages, and further validation across diverse models and complex tasks is necessary.\n\n##",
-      "aiSummaryKo": "본 연구는 인간의 감정이 인지 능력과 성과에 미치는 영향에 주목하여, 대규모 언어모델(LLM)과 AI 에이전트에서도 유사한 감정 신호가 행동을 형성할 수 있는지를 조사했다. 기존 감정 연구들이 감정을 표면적 스타일 요소나 인식 대상으로만 취급한 반면, 본 연구는 감정이 과제 처리 과정에서 갖는 기계적 역할을 규명하고자 했다. 연구팀은 E-STEER이라는 해석 가능한 감정 제어 프레임워크를 제안했으며, 이는 LLM과 AI 에이전트의 표현 수준에서 직접적인 개입을 가능하게 한다. 이 방식은 기존의 프롬프트 기반 접근법과 달리 감정이 모델의 내부 동작 방식을 실질적으로 변화시킬 수 있음을 보여준다. 본 연구의 의의는 AI 모델의 행동 메커니즘을 심화 이해하고, 감정 제어를 통해 성능을 향상시킬 수 있는 가능성을 제시한 점이다. 다만 연구는 아직 초기 단계이며, 다양한 모델과 복잡한 과제에서의 효과 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "This study investigates whether emotional signals can shape the behavior of large language models (LLMs) and AI agents, inspired by the significant role emotions play in human cognition and performance. While previous emotion-aware studies treated emotion only as a surface-level style factor or perception target, this research aims to understand its mechanistic role in task processing. The researchers propose E-STEER, an interpretable emotion steering framework that enables direct representation-level intervention in LLMs and agents rather than relying on prompt-based approaches. This approach demonstrates that emotions can substantively alter the internal working mechanisms of AI models. The significance of this work lies in deepening our understanding of AI model behavior and suggesting possibilities for performance enhancement through emotional control. However, the research is in its early stages, and further validation across diverse models and complex tasks is necessary.\n\n##",
-      "keyPoints": [
-        "**감정의 기계적 역할 규명** / Mechanistic Role of Emotion",
-        "**E-STEER 프레임워크 개발** / E-STEER Framework Development",
-        "**기존 접근법의 한계 극복** / Overcoming Existing Limitations",
-        "**AI 성능 향상의 새로운 경로** / New Path for AI Performance Enhancement"
-      ],
-      "url": "https://arxiv.org/abs/2604.00005",
-      "featured": false
-    },
-    {
-      "id": "f32666474475",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "4시간 전 / 4h ago",
-      "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
-      "titleKo": "하나의 패널로는 모두를 충족할 수 없다: 임상 예측을 위한 사례 적응형 다중 에이전트 협의",
-      "summary": "arXiv:2604.00085v1 Announce Type: new Abstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produce divergent predictions under minor prompt changes. Existing single-agent strategies sample from one role-conditioned distribution, and multi-agent frameworks use fixed roles with flat majority voting, discarding the diagnostic signal in disagreement. We propose CAMP (Case-Adaptive Multi-agent Panel), where an attending-physician agent dynamically assembles a specialist panel tailored to each case",
-      "aiSummary": "This study addresses the inconsistency problem in clinical predictions made by large language models (LLMs), where simple cases produce reliable outputs but complex cases generate divergent predictions with minor prompt variations. Traditional single-agent LLM strategies and fixed-role multi-agent frameworks discard diagnostic signals present in disagreements among experts. The researchers propose CAMP (Case-Adaptive Multi-agent Panel), where an attending-physician agent dynamically assembles a specialist panel customized for each individual case. This approach distinguishes between simple and complex cases, automatically selecting the optimal combination of expert specialties to improve diagnostic accuracy. The research has significant implications for enhancing the reliability of AI-based clinical diagnosis systems, though validation in real clinical settings remains necessary.\n\n##",
-      "aiSummaryKo": "이 연구는 임상 진단에 사용되는 대규모 언어모델(LLM)이 환자 사례의 복잡도에 따라 일관성 없는 진단을 내리는 문제를 다룹니다. 단순한 사례는 안정적인 결과를 보이지만, 복잡한 사례는 작은 질문 변화에도 예측이 크게 달라지는 현상이 발견되었습니다. 기존의 단일 AI 에이전트 방식이나 고정된 역할의 다중 에이전트 방식은 전문가들의 의견 불일치 속에 숨은 진단 신호를 무시합니다. 연구진은 CAMP(사례-적응형 다중에이전트 패널)라는 새로운 방식을 제안했으며, 담당의 에이전트가 각 환자 사례의 특성에 맞게 전문가 패널을 동적으로 구성합니다. 이 방식은 단순 사례와 복잡한 사례를 구분하여 최적의 전문가 조합을 자동으로 선택함으로써 진단 정확도를 높입니다. 이 연구는 AI 의료진단 시스템의 신뢰성을 향상시키는 데 의의가 있으며, 향후 실제 임상 환경에서의 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study addresses the inconsistency problem in clinical predictions made by large language models (LLMs), where simple cases produce reliable outputs but complex cases generate divergent predictions with minor prompt variations. Traditional single-agent LLM strategies and fixed-role multi-agent frameworks discard diagnostic signals present in disagreements among experts. The researchers propose CAMP (Case-Adaptive Multi-agent Panel), where an attending-physician agent dynamically assembles a specialist panel customized for each individual case. This approach distinguishes between simple and complex cases, automatically selecting the optimal combination of expert specialties to improve diagnostic accuracy. The research has significant implications for enhancing the reliability of AI-based clinical diagnosis systems, though validation in real clinical settings remains necessary.\n\n##",
-      "keyPoints": [
-        "**포인트1** / **Point 1**",
-        "수준 이질성 문제 발견: 단순 사례는 안정적이지만 복잡 사례는 프롬프트 변화에 민감함 / Case-level heterogeneity in LLM clinical predictions: simple cases are stable while complex cases are sensitive to minor prompt changes",
-        "**포인트2** / **Point 2**",
-        "agent frameworks: fixed roles and flat majority voting discard diagnostic signals from expert disagreement"
-      ],
-      "url": "https://arxiv.org/abs/2604.00085",
-      "featured": false
-    },
-    {
-      "id": "f8b45d73543c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "4시간 전 / 4h ago",
-      "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
-      "titleKo": "공개적이고 신뢰할 수 있는 협력적 접근: 도구 활용 AI 에이전트를 위한 커뮤니티 주도 프레임워크",
-      "summary": "arXiv:2604.00137v1 Announce Type: new Abstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that failures stem from both tool-use accuracy (how well an agent invokes a tool) and intrinsic tool accuracy (the tool's own correctness), while most prior work emphasizes the former. We introduce OpenTools, a community-driven toolbox that standardizes tool schemas, provides lightweight plug-and-play wrappers, and evaluates tools with automated test suites and continuous monitoring. We also release a publ",
-      "aiSummary": "This research addresses the reliability challenges when large language models (LLMs) utilize external tools for real-world actions. While previous studies focused primarily on how well AI agents invoke tools, this research argues that both tool-use accuracy (agent performance) and intrinsic tool accuracy (tool correctness itself) are equally critical. The team developed OpenTools, a community-driven toolbox framework that provides standardized tool schemas, lightweight plug-and-play wrappers, automated test suites, and continuous monitoring capabilities. The framework aims to create an open, reliable, and collectively-maintained ecosystem for tool-integrated AI systems. The significance lies in presenting a systematic, standardized approach to addressing tool reliability issues in AI agents. However, specific quantitative performance metrics are not provided in the abstract, which may limit empirical validation of the framework's effectiveness.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모언어모델(LLM)이 외부 도구를 활용할 때 발생하는 신뢰성 문제를 해결하기 위한 연구입니다. 기존 연구들은 AI 에이전트가 도구를 얼마나 잘 사용하는지에만 집중했지만, 이 연구는 도구 사용 정확도와 도구 자체의 정확도 두 가지 모두가 중요하다고 주장합니다. 연구팀은 'OpenTools'라는 커뮤니티 기반 도구 상자를 개발했으며, 표준화된 도구 스키마, 간편한 플러그앤플레이 래퍼, 자동화된 테스트 스위트, 그리고 지속적 모니터링 기능을 제공합니다. 이는 개방형, 신뢰할 수 있는, 집단 주도적 프레임워크 구축을 목표로 합니다. 본 연구의 주요 의의는 도구 신뢰성 문제를 체계적으로 해결하는 표준화된 접근 방식을 제시한 것입니다. 다만 연구 결과에 대한 구체적인 성능 수치가 제시되지 않아 실제 효과 검증이 제한적일 수 있습니다.\n\n##",
-      "aiSummaryEn": "This research addresses the reliability challenges when large language models (LLMs) utilize external tools for real-world actions. While previous studies focused primarily on how well AI agents invoke tools, this research argues that both tool-use accuracy (agent performance) and intrinsic tool accuracy (tool correctness itself) are equally critical. The team developed OpenTools, a community-driven toolbox framework that provides standardized tool schemas, lightweight plug-and-play wrappers, automated test suites, and continuous monitoring capabilities. The framework aims to create an open, reliable, and collectively-maintained ecosystem for tool-integrated AI systems. The significance lies in presenting a systematic, standardized approach to addressing tool reliability issues in AI agents. However, specific quantitative performance metrics are not provided in the abstract, which may limit empirical validation of the framework's effectiveness.\n\n##",
-      "keyPoints": [
-        "**도구 신뢰성의 이중 문제 인식** / Recognition of dual reliability issues: Tool-use accuracy and intrinsic tool accuracy both matter equally, moving beyond previous focus on agent performance alone",
-        "**OpenTools 플랫폼 개발** / OpenTools Platform Development: Community-driven toolbox with standardized schemas, plug-and-play wrappers, and automated testing infrastructure for systematic tool validation",
-        "**지속적 모니터링 시스템** / Continuous Monitoring System: Automated test suites and ongoing monitoring mechanisms to maintain tool reliability over time and catch failures proactively",
-        "**개방형 커뮤니티 기반 접근** / Open Community-Driven Approach: Framework designed for collaborative development and maintenance, enabling broader participation in improving AI tool integration reliability"
-      ],
-      "url": "https://arxiv.org/abs/2604.00137",
       "featured": false
     }
   ]
