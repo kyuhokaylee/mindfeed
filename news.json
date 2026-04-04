@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-04T19:46:40.047122+00:00",
+  "updated": "2026-04-04T21:03:46.101002+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8baec627b8c4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Higher testosterone linked to increased suicide risk in depressed teenage boys",
+      "titleKo": "우울증이 있는 청소년 남자의 자살 위험, 테스토스테론 수치와 연관",
+      "summary": "New research reveals that adolescent boys hospitalized with major depression have much higher testosterone levels if they experience suicidal thoughts. The findings point toward potential biological markers that could help doctors identify young men at risk of self-harm.",
+      "aiSummary": "This research investigates the relationship between testosterone levels and suicide risk in adolescent boys with depression. Researchers measured and compared testosterone levels between hospitalized adolescent males with major depression who experienced suicidal thoughts and those who did not. The study found that depressed teenage boys with suicidal ideation showed significantly higher testosterone levels compared to those without such thoughts. These findings suggest that testosterone levels could serve as a biological marker for identifying young males at increased risk of self-harm. Healthcare professionals may be able to use this indicator to identify and provide intensive treatment to high-risk adolescents early on. However, the study's limitation lies in its focus on hospitalized patients only, which may restrict generalizability to the broader adolescent population.",
+      "aiSummaryKo": "이 연구는 우울증을 앓고 있는 청소년 남성의 자살 위험성과 호르몬 수치의 관계를 조사했습니다. 연구팀은 주요 우울증으로 입원한 청소년 남성들을 대상으로 자살 생각 여부에 따라 테스토스테론 수치를 비교 측정했습니다. 연구 결과, 자살 생각을 보이는 우울증 청소년 남성들이 그렇지 않은 그룹보다 훨씬 높은 테스토스테론 수치를 나타냈습니다. 이는 테스토스테론이 청소년 남성의 자살 위험도를 예측하는 생물학적 지표가 될 수 있음을 시사합니다. 의료진은 이 지표를 활용하여 자살 위험이 높은 청년들을 조기에 식별하고 집중 치료할 수 있을 것으로 기대됩니다. 다만, 이 연구는 입원 환자만을 대상으로 하여 일반 청소년 인구에 대한 일반화에 제한이 있을 수 있습니다.",
+      "aiSummaryEn": "This research investigates the relationship between testosterone levels and suicide risk in adolescent boys with depression. Researchers measured and compared testosterone levels between hospitalized adolescent males with major depression who experienced suicidal thoughts and those who did not. The study found that depressed teenage boys with suicidal ideation showed significantly higher testosterone levels compared to those without such thoughts. These findings suggest that testosterone levels could serve as a biological marker for identifying young males at increased risk of self-harm. Healthcare professionals may be able to use this indicator to identify and provide intensive treatment to high-risk adolescents early on. However, the study's limitation lies in its focus on hospitalized patients only, which may restrict generalizability to the broader adolescent population.",
+      "keyPoints": [
+        "**테스토스테론과 자살 위험의 연관성** / Testosterone levels correlate with suicide risk in depressed adolescent boys",
+        "**생물학적 조기 진단 도구의 가능성** / Potential use as a biological marker for identifying at-risk youth",
+        "**입원 환자 집단 중심 연구** / Research focused specifically on hospitalized adolescents with major depression",
+        "**임상적 예방 개입의 기초 제공** / Foundation for developing early intervention and prevention strategies in clinical settings"
+      ],
+      "url": "https://www.psypost.org/higher-testosterone-linked-to-increased-suicide-risk-in-depressed-teenage-boys-2026-03-26/",
+      "featured": true
+    },
     {
       "id": "6840ebc17a26",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**의식 연구의 새로운 가능성** / New Possibilities in Consciousness Research"
       ],
       "url": "https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "437a024a1509",
@@ -394,27 +415,6 @@
         "**추가 연구의 필요성** / Need for Further Research"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260401071931.htm",
-      "featured": false
-    },
-    {
-      "id": "bc32070b1d32",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "The exact political location where conspiracy theories thrive",
-      "titleKo": "음모론이 번성하는 정확한 정치적 위치",
-      "summary": "A new study mapping European political attitudes reveals that people who favor left-wing economic policies but hold conservative cultural views are the most likely to endorse conspiracy theories.",
-      "aiSummary": "This study mapped European political attitudes to examine the relationship between political positions and conspiracy theory endorsement. Researchers analyzed participants' positions across two political axes: economic policy orientation (left-wing to right-wing) and cultural values (progressive to conservative). The key finding revealed that people who favor left-wing economic policies while holding conservative cultural views are most likely to endorse conspiracy theories. This suggests that individuals with mixed or inconsistent political ideologies are more vulnerable to conspiracy theories than those with coherent political beliefs. The research is significant for understanding the psychological mechanisms underlying conspiracy theory spread and can inform strategies to combat misinformation in polarized political environments. However, the study's limitations include its European-focused sample and reliance on self-reported survey data.\n\n##",
-      "aiSummaryKo": "이 연구는 유럽의 정치적 태도 지형을 매핑하여 음모론 신봉과의 관계를 조사했습니다. 연구진은 경제 정책(좌파-우파)과 문화적 가치관(진보-보수)의 두 가지 정치적 축을 분석하여 참가자들의 정치적 위치를 파악했습니다. 핵심 발견은 좌파 경제 정책을 선호하면서 동시에 보수적 문화관을 가진 사람들이 음모론을 가장 많이 신봉한다는 것입니다. 이는 '일관된 정치 이데올로기'를 가진 사람들보다 정치적 신념이 혼합된 사람들이 음모론에 더 취약함을 시사합니다. 이 연구는 음모론 확산의 심리적 메커니즘을 이해하는 데 중요한 의의가 있으며, 정치 양극화 시대에 허위정보 대처 전략 수립에 도움이 될 수 있습니다. 다만 유럽 중심의 표본 구성과 자기보고식 설문 방식이 연구의 한계로 지적됩니다.\n\n##",
-      "aiSummaryEn": "This study mapped European political attitudes to examine the relationship between political positions and conspiracy theory endorsement. Researchers analyzed participants' positions across two political axes: economic policy orientation (left-wing to right-wing) and cultural values (progressive to conservative). The key finding revealed that people who favor left-wing economic policies while holding conservative cultural views are most likely to endorse conspiracy theories. This suggests that individuals with mixed or inconsistent political ideologies are more vulnerable to conspiracy theories than those with coherent political beliefs. The research is significant for understanding the psychological mechanisms underlying conspiracy theory spread and can inform strategies to combat misinformation in polarized political environments. However, the study's limitations include its European-focused sample and reliance on self-reported survey data.\n\n##",
-      "keyPoints": [
-        "**정치적 불일치가 음모론의 위험 요인** / Political inconsistency is a risk factor for conspiracy theory endorsement",
-        "좌파 경제정책+보수 문화관의 조합에서 가장 높은 음모론 신봉률",
-        "**이데올로기 혼합의 심리적 영향** / Psychological impact of ideological mixing",
-        "일관된 정치관을 가진 사람들보다 신념의 충돌을 경험하는 사람들이 음모론에 더 쉽게 빠짐"
-      ],
-      "url": "https://www.psypost.org/the-exact-political-location-where-conspiracy-theories-thrive-2026-03-19/",
       "featured": false
     }
   ]
