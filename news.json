@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-04T08:01:45.919594+00:00",
+  "updated": "2026-04-04T10:56:25.731392+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "93fef6f55d20",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Family dynamics predict whether parents and children agree on choosing a romantic partner",
+      "titleKo": "가족 역학관계가 부모와 자녀의 연애 파트너 선택 의견 일치를 좌우한다",
+      "summary": "New research shows that Chinese parents and adult children often share similar preferences for a future spouse. The study suggests that these shared values, particularly regarding financial stability, are strongly tied to specific childhood parenting styles.",
+      "aiSummary": "This research investigates the extent to which parents and adult children share similar preferences when choosing romantic partners. The study conducted with Chinese families revealed a significant tendency for parents and children to align on spouse selection criteria. Notably, the emphasis on financial stability as a value is strongly associated with specific parenting styles experienced during childhood. This finding demonstrates that values formed in early life continue to influence major life decisions even in adulthood. The research highlights that family dynamics not only affect individuals' romantic choices but also influence parent-child communication patterns. However, the study is limited to Chinese cultural contexts, which constrains generalization to other cultures. Additionally, further investigation is needed to examine the balance between personal autonomy and cultural expectations in partner selection.\n\n##",
+      "aiSummaryKo": "이 연구는 부모와 성인 자녀가 배우자 선택 기준을 얼마나 유사하게 공유하는지 조사했습니다. 중국 가정을 대상으로 한 연구에서 부모와 자녀 간의 배우자 선택 선호도가 상당히 일치하는 경향을 발견했습니다. 특히 경제적 안정성을 중시하는 가치관이 어린 시절의 부모 양육 방식과 강하게 연관되어 있었습니다. 이는 성인이 된 후에도 어린 시절에 형성된 가치관이 중요한 삶의 결정에 영향을 미친다는 것을 보여줍니다. 연구는 가족 역학 관계가 개인의 배우자 선택뿐 아니라 부모-자녀 간 의사소통에도 영향을 준다는 점을 강조합니다. 다만 이 연구는 중국 문화권에 집중되어 있어 다른 문화권으로의 일반화에 제한이 있습니다. 또한 개인의 자유로운 선택과 문화적 기대 사이의 균형을 더 자세히 살펴볼 필요가 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigates the extent to which parents and adult children share similar preferences when choosing romantic partners. The study conducted with Chinese families revealed a significant tendency for parents and children to align on spouse selection criteria. Notably, the emphasis on financial stability as a value is strongly associated with specific parenting styles experienced during childhood. This finding demonstrates that values formed in early life continue to influence major life decisions even in adulthood. The research highlights that family dynamics not only affect individuals' romantic choices but also influence parent-child communication patterns. However, the study is limited to Chinese cultural contexts, which constrains generalization to other cultures. Additionally, further investigation is needed to examine the balance between personal autonomy and cultural expectations in partner selection.\n\n##",
+      "keyPoints": [
+        "**부모-자녀 가치관 일치** / Parent-child values alignment",
+        "**양육 방식의 장기적 영향** / Long-term impact of parenting styles",
+        "**경제적 안정성의 중요성** / Importance of financial stability",
+        "**문화 맥락의 제한성** / Cultural context limitations"
+      ],
+      "url": "https://www.psypost.org/family-dynamics-predict-whether-parents-and-children-agree-on-choosing-a-romantic-partner/",
+      "featured": true
+    },
     {
       "id": "a3d5cb0c4033",
       "tag": "behav",
@@ -16,7 +37,7 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "65ad22cb931f",
@@ -394,27 +415,6 @@
         "수감자 표본으로 인한 일반화 제한 / Generalizability limited due to incarcerated sample"
       ],
       "url": "https://www.psypost.org/when-made-to-feel-sad-men-with-psychopathic-traits-shift-their-visual-focus-to-anger/",
-      "featured": false
-    },
-    {
-      "id": "027c24c1b7b3",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "13시간 전 / 13h ago",
-      "title": "UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression",
-      "titleKo": "UQ-SHRED: 엥그레션을 통한 희소 센싱을 위한 얕은 순환 디코더 네트워크의 불확실성 정량화",
-      "summary": "arXiv:2604.01305v1 Announce Type: new Abstract: Reconstructing high-dimensional spatiotemporal fields from sparse sensor measurements is critical in a wide range of scientific applications. The SHallow REcurrent Decoder (SHRED) architecture is a recent state-of-the-art architecture that reconstructs high-quality spatial domain from hyper-sparse sensor measurement streams. An important limitation of SHRED is that in complex, data-scarce, high-frequency, or stochastic systems, portions of the spatiotemporal field must be modeled with valid uncertainty estimation. We introduce UQ-SHRED, a distrib",
-      "aiSummary": "This study addresses the challenge of reconstructing high-dimensional spatiotemporal fields from sparse sensor measurements, which is critical in many scientific applications. While the existing SHRED (SHallow REcurrent Decoder) architecture successfully reconstructs spatial information from minimal sensor data, it lacks the ability to quantify prediction uncertainty in complex or data-scarce environments. The researchers propose UQ-SHRED, which enhances the original architecture by incorporating uncertainty quantification through probabilistic distributions. This advancement enables machine learning models to provide numerical estimates of prediction reliability alongside their forecasts. The method has significant implications for applications such as climate modeling, turbulent flow analysis, and other scientific domains requiring trustworthy predictions. However, the research is at an early stage, and validation on complex real-world data remains necessary.\n\n##",
-      "aiSummaryKo": "본 연구는 희소 센서 데이터로부터 고차원 시공간 장(場)을 재구성하는 문제를 다룹니다. 기존의 SHRED(얕은 순환 디코더) 구조는 매우 적은 수의 센서로도 우수한 공간 정보 복원이 가능했지만, 복잡한 시스템이나 데이터가 부족한 환경에서 예측 불확실성을 정량화하지 못하는 한계가 있었습니다. 연구팀은 이를 보완한 UQ-SHRED를 제안하여 확률분포 기반의 불확실성 추정 기능을 추가했습니다. 이 방법은 기계학습 모델이 자신의 예측이 얼마나 신뢰할 수 있는지 수치로 제시할 수 있게 합니다. 이러한 접근은 기후 모델링, 난류 흐름 분석, 기타 과학 응용 분야에서 안정적인 의사결정을 가능하게 합니다. 다만, 본 연구는 아직 초기 단계로 실제 복잡한 현장 데이터에서의 성능 검증이 필요한 것으로 보입니다.\n\n##",
-      "aiSummaryEn": "This study addresses the challenge of reconstructing high-dimensional spatiotemporal fields from sparse sensor measurements, which is critical in many scientific applications. While the existing SHRED (SHallow REcurrent Decoder) architecture successfully reconstructs spatial information from minimal sensor data, it lacks the ability to quantify prediction uncertainty in complex or data-scarce environments. The researchers propose UQ-SHRED, which enhances the original architecture by incorporating uncertainty quantification through probabilistic distributions. This advancement enables machine learning models to provide numerical estimates of prediction reliability alongside their forecasts. The method has significant implications for applications such as climate modeling, turbulent flow analysis, and other scientific domains requiring trustworthy predictions. However, the research is at an early stage, and validation on complex real-world data remains necessary.\n\n##",
-      "keyPoints": [
-        "**기존 한계 극복** / **Overcoming Previous Limitations**: SHRED는 희소 센서로 효율적 복원이 가능하지만 예측 확실성을 제공하지 못했고, UQ-SHRED는 불확실성 정량화 기능 추가 / SHRED enables efficient reconstruction from sparse sensors but lacks uncertainty quantification; UQ-SHRED addresses this limitation",
-        "**불확실성 정량화 방법** / **Uncertainty Quantification Method**: 확률분포 기반 접근으로 모델의 신뢰도를 수치화하여 고위험 과학 응용에서 안전한 의사결정 지원 / Probabilistic distribution-based approach quantifies model reliability for safer decision-making in high-stakes applications",
-        "**광범위한 응용 가능성** / **Wide Application Potential**: 기후 예측, 유체역학, 센서 네트워크 기반 모니터링 등 다양한 과학 분야에 활용 가능 / Applicable to climate prediction, fluid dynamics, sensor-based monitoring, and other scientific domains",
-        "**검증 필요성** / **Need for Validation**: 실제 복잡한 데이터 환경에서의 성능과 신뢰성 검증이 향후 과제 / Future validation on complex, real-world data and practical performance assessment required"
-      ],
-      "url": "https://arxiv.org/abs/2604.01305",
       "featured": false
     }
   ]
