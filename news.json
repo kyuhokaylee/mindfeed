@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-04T17:50:56.735879+00:00",
+  "updated": "2026-04-04T19:46:40.047122+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6840ebc17a26",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Brain scans reveal how a woman voluntarily enters a psychedelic-like trance without drugs",
+      "titleKo": "뇌 스캔으로 밝혀진 약물 없이 자발적으로 환각 상태에 빠지는 여성의 뇌 활동",
+      "summary": "A groundbreaking fMRI study has mapped the exact neural shifts of a self-induced visionary state. Researchers discovered that a woman capable of voluntary trance actively disconnects her sensory networks while boosting internal cognitive control.",
+      "aiSummary": "This groundbreaking fMRI study is the first to map the brain activity of a person capable of voluntarily entering a psychedelic-like trance state without using any drugs. Researchers tracked neural changes in a female participant during self-induced trance and discovered a distinctive pattern: the subject's sensory processing networks decreased while internal cognitive control mechanisms simultaneously strengthened. This finding suggests that the brain can fundamentally restructure perceived reality through conscious voluntary control. The results are expected to deepen our understanding of meditation, hypnosis, and the fluidity of consciousness. However, as a single-case study with one participant, further research involving larger sample sizes is necessary to generalize these findings. This discovery provides important evidence of the remarkable neurobiological capacity of humans to voluntarily induce altered states of consciousness without pharmacological intervention.\n\n##",
+      "aiSummaryKo": "이 연구는 약물을 사용하지 않고 자발적으로 환각 같은 트랜스 상태에 진입할 수 있는 사람의 뇌 활동을 fMRI(기능적 자기공명영상) 기술로 최초로 분석한 것입니다. 연구팀은 자의적 트랜스 상태에 들어간 한 여성 피험자의 뇌 신경 변화를 추적하여, 감각 처리 네트워크는 감소시키면서 동시에 내부 인지 통제 기능은 강화하는 특이한 패턴을 발견했습니다. 이는 뇌가 의식적인 통제를 통해 지각 현실을 근본적으로 재구성할 수 있음을 시사합니다. 연구 결과는 명상, 최면, 그리고 의식의 유동성에 대한 이해를 깊게 해줄 것으로 기대됩니다. 다만 한 명의 피험자를 대상으로 한 사례 연구이므로, 더 많은 참가자를 포함한 후속 연구가 필요합니다. 이 발견은 약물 없이 변성의식 상태를 자발적으로 유도할 수 있는 인간의 신경생물학적 능력을 보여주는 중요한 증거입니다.\n\n##",
+      "aiSummaryEn": "This groundbreaking fMRI study is the first to map the brain activity of a person capable of voluntarily entering a psychedelic-like trance state without using any drugs. Researchers tracked neural changes in a female participant during self-induced trance and discovered a distinctive pattern: the subject's sensory processing networks decreased while internal cognitive control mechanisms simultaneously strengthened. This finding suggests that the brain can fundamentally restructure perceived reality through conscious voluntary control. The results are expected to deepen our understanding of meditation, hypnosis, and the fluidity of consciousness. However, as a single-case study with one participant, further research involving larger sample sizes is necessary to generalize these findings. This discovery provides important evidence of the remarkable neurobiological capacity of humans to voluntarily induce altered states of consciousness without pharmacological intervention.\n\n##",
+      "keyPoints": [
+        "**신경가소성의 증거** / Evidence of Neural Plasticity",
+        "**감각 단절과 인지 강화의 동시 작동** / Simultaneous Sensory Disconnection and Cognitive Enhancement",
+        "**변성의식 상태의 신경생물학적 기초** / Neurobiological Basis of Altered States of Consciousness",
+        "**의식 연구의 새로운 가능성** / New Possibilities in Consciousness Research"
+      ],
+      "url": "https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/",
+      "featured": true
+    },
     {
       "id": "437a024a1509",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**감정 관리 패러다임의 전환** / Paradigm Shift in Emotion Management"
       ],
       "url": "https://www.psypost.org/the-hidden-mental-cost-of-emotional-rigidity-in-young-adults/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "42a2922bbba7",
@@ -394,27 +415,6 @@
         "일관된 정치관을 가진 사람들보다 신념의 충돌을 경험하는 사람들이 음모론에 더 쉽게 빠짐"
       ],
       "url": "https://www.psypost.org/the-exact-political-location-where-conspiracy-theories-thrive-2026-03-19/",
-      "featured": false
-    },
-    {
-      "id": "312e4c3258bc",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "15시간 전 / 15h ago",
-      "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
-      "titleKo": "행동 건강 커뮤니케이션 시뮬레이션을 위한 안전 인식 역할 조율 다중 에이전트 LLM 프레임워크",
-      "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, role-orchestrated multi-agent LLM framework designed to simulate supportive behavioral health dialogue through coordinated, role-differentiated agents. Conversational responsibilities are decomposed across specialized agents, including empathy-focused, action-oriented, and supervisory roles, while a prompt-based controller dynamically activates releva",
-      "aiSummary": "This research addresses the challenge that single-agent large language models struggle to simultaneously support diverse conversational functions while maintaining safety in behavioral health communication. The team developed a multi-agent LLM framework where specialized AI agents perform differentiated roles to simulate supportive behavioral health dialogue. The system decomposes conversational responsibilities across empathy-focused agents, action-oriented agents, and supervisory agents, with a prompt-based controller dynamically activating relevant agents based on context. This role-orchestrated approach enables the AI system to provide both emotional support and safety simultaneously in sensitive mental health conversations. The research's significance lies in enhancing AI trustworthiness and effectiveness in behavioral health domains. However, specific performance metrics and clinical validation data are not presented in the abstract, which represents a limitation of the current study.\n\n##",
-      "aiSummaryKo": "행동 건강 관련 대화에서 단일 AI 모델은 다양한 대화 기능을 동시에 지원하면서 안전성을 유지하기 어렵다는 문제에서 출발한 연구이다. 연구팀은 여러 개의 특화된 AI 에이전트가 서로 다른 역할을 수행하도록 조율하는 '다중 에이전트 LLM 프레임워크'를 개발했다. 이 시스템은 공감 담당 에이전트, 행동 지향 에이전트, 감시 역할을 수행하는 에이전트 등으로 대화 책임을 분담하며, 프롬프트 기반 컨트롤러가 상황에 맞는 에이전트를 동적으로 활성화한다. 이러한 역할 분담을 통해 AI가 정서적 지지와 안전성을 동시에 제공할 수 있게 설계되었다. 연구의 주요 의의는 행동 건강 상담 같은 민감한 분야에서 AI의 신뢰성과 효과성을 높일 수 있다는 점이다. 다만 구체적인 성능 수치나 실제 임상 검증이 제시되지 않은 것이 한계로 보인다.\n\n##",
-      "aiSummaryEn": "This research addresses the challenge that single-agent large language models struggle to simultaneously support diverse conversational functions while maintaining safety in behavioral health communication. The team developed a multi-agent LLM framework where specialized AI agents perform differentiated roles to simulate supportive behavioral health dialogue. The system decomposes conversational responsibilities across empathy-focused agents, action-oriented agents, and supervisory agents, with a prompt-based controller dynamically activating relevant agents based on context. This role-orchestrated approach enables the AI system to provide both emotional support and safety simultaneously in sensitive mental health conversations. The research's significance lies in enhancing AI trustworthiness and effectiveness in behavioral health domains. However, specific performance metrics and clinical validation data are not presented in the abstract, which represents a limitation of the current study.\n\n##",
-      "keyPoints": [
-        "**역할 분담을 통한 안전성 강화** / Enhanced Safety Through Role Differentiation",
-        "**동적 에이전트 활성화 시스템** / Dynamic Agent Activation System",
-        "**행동 건강 커뮤니케이션 특화** / Behavioral Health Communication Specialization",
-        "**임상 응용 가능성의 한계** / Limitations in Clinical Validation"
-      ],
-      "url": "https://arxiv.org/abs/2604.00249",
       "featured": false
     }
   ]
