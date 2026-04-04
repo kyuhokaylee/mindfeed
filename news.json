@@ -1,7 +1,23 @@
 {
-  "updated": "2026-04-03T23:51:19.117585+00:00",
+  "updated": "2026-04-04T05:16:25.336211+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a3d5cb0c4033",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "12일 전 / 12d ago",
+      "title": "‘Looking Backward’ to the Future",
+      "titleKo": "",
+      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
+      "featured": true
+    },
     {
       "id": "65ad22cb931f",
       "tag": "psych",
@@ -21,7 +37,7 @@
         "**채용 시스템의 한계** / Limitations of AI Recruitment Systems"
       ],
       "url": "https://www.psypost.org/job-seekers-mask-their-emotions-and-act-more-analytical-when-evaluated-by-artifi-2026-03-26/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "381971e27c77",
@@ -399,27 +415,6 @@
         "**검증 필요성** / **Need for Validation**: 실제 복잡한 데이터 환경에서의 성능과 신뢰성 검증이 향후 과제 / Future validation on complex, real-world data and practical performance assessment required"
       ],
       "url": "https://arxiv.org/abs/2604.01305",
-      "featured": false
-    },
-    {
-      "id": "11991c2299d7",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "13시간 전 / 13h ago",
-      "title": "Parallelized Hierarchical Connectome: A Spatiotemporal Recurrent Framework for Spiking State-Space Models",
-      "titleKo": "병렬화된 계층적 연결체: 스파이킹 상태-공간 모델을 위한 시공간 순환 프레임워크",
-      "summary": "arXiv:2604.01295v1 Announce Type: new Abstract: This work presents the Parallelized Hierarchical Connectome (PHC), a general framework that upgrades temporal-only State-Space Models (SSMs) into spatiotemporal recurrent networks. Conventional SSMs achieve high-speed sequence processing through parallel scans, yet are limited to temporal recurrence without lateral or feedback interactions within a single timestep. PHC maps the diagonal SSM core to a shared Neuron Layer and inter-neuronal communication to a shared Synapse Layer, where neurons are partitioned into hierarchical regions governed by ",
-      "aiSummary": "This research introduces the Parallelized Hierarchical Connectome (PHC), a novel neural network framework that enhances temporal-only State-Space Models (SSMs) to process both spatial and temporal information simultaneously. Conventional SSMs process sequential data at high speed but lack lateral and feedback interactions between neurons within a single timestep. The PHC framework applies neurobiology concepts by mapping SSM's diagonal core to a shared Neuron Layer and inter-neuronal communication to a shared Synapse Layer, organizing neurons into hierarchical regions. This approach creates spiking neural network models that more closely resemble biological brain structure while maintaining computational efficiency. The framework is expected to demonstrate improved performance compared to existing models across various spatiotemporal tasks. However, as this is preliminary research, extensive validation across diverse real-world datasets remains necessary.\n\n##",
-      "aiSummaryKo": "이 연구는 기존의 시간 기반 상태공간모델(SSM)의 한계를 극복하기 위해 공간-시간 정보를 동시에 처리할 수 있는 새로운 신경망 프레임워크인 병렬화된 계층적 연결망(PHC)을 제시합니다. 기존 SSM은 빠른 속도로 순차 데이터를 처리하지만 한 시점 내에서 신경 간의 측면 또는 피드백 상호작용이 불가능한 문제가 있었습니다. PHC는 신경 생물학의 개념을 적용하여 SSM의 대각선 코어를 신경층으로, 신경 간 통신을 시냅스층으로 매핑하며, 신경들을 계층적 영역으로 분할하는 구조를 제안합니다. 이 접근 방식은 생물학적 뇌의 구조와 더 유사하면서도 계산 효율성을 유지하는 스파이킹 신경망 모델을 가능하게 합니다. 다양한 시공간 작업에서 기존 모델 대비 개선된 성능을 보여주는 것으로 예상됩니다. 다만, 현재 결과는 논문의 초안 단계이며, 다양한 실제 데이터셋에 대한 광범위한 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research introduces the Parallelized Hierarchical Connectome (PHC), a novel neural network framework that enhances temporal-only State-Space Models (SSMs) to process both spatial and temporal information simultaneously. Conventional SSMs process sequential data at high speed but lack lateral and feedback interactions between neurons within a single timestep. The PHC framework applies neurobiology concepts by mapping SSM's diagonal core to a shared Neuron Layer and inter-neuronal communication to a shared Synapse Layer, organizing neurons into hierarchical regions. This approach creates spiking neural network models that more closely resemble biological brain structure while maintaining computational efficiency. The framework is expected to demonstrate improved performance compared to existing models across various spatiotemporal tasks. However, as this is preliminary research, extensive validation across diverse real-world datasets remains necessary.\n\n##",
-      "keyPoints": [
-        "**기존 SSM의 한계 극복** / Overcoming conventional SSM limitations",
-        "**생물학적 영감 기반 설계** / Biologically-inspired architecture design",
-        "**공간-시간 동시 처리** / Simultaneous spatiotemporal processing",
-        "**계산 효율성 유지** / Maintained computational efficiency"
-      ],
-      "url": "https://arxiv.org/abs/2604.01295",
       "featured": false
     }
   ]
