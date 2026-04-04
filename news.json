@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-04T11:55:59.488437+00:00",
+  "updated": "2026-04-04T14:05:26.717715+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6870d1e8e02a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Can a psychedelic journey change what you value most?",
+      "titleKo": "환각제 경험이 당신이 가장 소중히 여기는 것을 바꿀 수 있을까?",
+      "summary": "A recent trial involving healthy volunteers demonstrates that a single dose of psilocybin can prompt lasting changes in personal values, increasing self-acceptance and appreciation for life through acute feelings of spiritual euphoria and profound unity.",
+      "aiSummary": "A recent clinical trial investigated how psilocybin, a psychedelic substance, can alter personal values in humans. The study involved healthy adult volunteers and found that a single dose of psilocybin can prompt lasting changes in what people value most. Participants who received psilocybin showed increased self-acceptance and appreciation for life, attributed to acute experiences of spiritual euphoria and profound feelings of unity during the drug experience. These findings suggest promising therapeutic applications for mental health treatment, particularly for conditions like depression and anxiety. However, the study was limited to healthy volunteers, so further research is needed to determine if similar effects occur in patients with psychiatric conditions. Additionally, more extensive research is required to confirm the long-term sustainability and safety profile of these changes.\n\n##",
+      "aiSummaryKo": "본 연구는 환각성 약물인 실로사이빈(psilocybin)이 인간의 개인적 가치관을 어떻게 변화시키는지 조사했습니다. 건강한 성인 자원봉사자들을 대상으로 한 임상시험에서 단 한 번의 실로사이빈 투여로도 지속적인 가치관 변화를 유발할 수 있음을 발견했습니다. 연구 결과, 실로사이빈 복용 후 참가자들은 자기수용(self-acceptance)과 삶에 대한 감사함이 증가했으며, 이는 약물 복용 중 경험한 영적 황홀감(spiritual euphoria)과 심오한 일체감(profound unity)으로 인한 것으로 보입니다. 이 발견은 정신건강 치료, 특히 우울증이나 불안감 개선에 새로운 치료적 가능성을 제시합니다. 다만, 본 연구는 건강한 자원봉사자를 대상으로 했으므로 정신질환 환자에게 동일한 효과를 보이는지 확인하기 위한 추가 연구가 필요합니다. 또한 장기적 효과의 지속성과 안전성에 대한 더욱 광범위한 연구도 요구됩니다.\n\n##",
+      "aiSummaryEn": "A recent clinical trial investigated how psilocybin, a psychedelic substance, can alter personal values in humans. The study involved healthy adult volunteers and found that a single dose of psilocybin can prompt lasting changes in what people value most. Participants who received psilocybin showed increased self-acceptance and appreciation for life, attributed to acute experiences of spiritual euphoria and profound feelings of unity during the drug experience. These findings suggest promising therapeutic applications for mental health treatment, particularly for conditions like depression and anxiety. However, the study was limited to healthy volunteers, so further research is needed to determine if similar effects occur in patients with psychiatric conditions. Additionally, more extensive research is required to confirm the long-term sustainability and safety profile of these changes.\n\n##",
+      "keyPoints": [
+        "**실로사이빈의 가치관 변화 효과** / Single dose of psilocybin induces lasting changes in personal values including increased self-acceptance and life appreciation",
+        "**영적 경험의 치료적 역할** / Spiritual euphoria and profound unity feelings during the psychedelic experience are key mechanisms driving value transformation",
+        "**임상적 응용 가능성** / Potential therapeutic applications for mental health treatment, particularly for depression and anxiety disorders",
+        "**연구 한계 및 추가 검증 필요** / Limited to healthy volunteers; further studies needed to confirm effects on psychiatric patients and long-term safety and sustainability"
+      ],
+      "url": "https://www.psypost.org/psilocybin-triggers-lasting-changes-in-personal-values-for-healthy-volunteers/",
+      "featured": true
+    },
+    {
+      "id": "210466646428",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "These overlooked brain cells may control fear and PTSD",
+      "titleKo": "이 간과된 뇌세포가 공포와 PTSD를 조절할 수 있다",
+      "summary": "Astrocytes, once thought to be mere brain “support cells,” are now revealed to be key players in fear memory. Researchers found they actively help form, recall, and weaken fear responses by interacting with neurons in real time. Changing astrocyte activity directly altered how strong fear memories became. This breakthrough could lead to entirely new treatments for anxiety-related disorders.",
+      "aiSummary": "Astrocytes, star-shaped brain cells long considered merely \"support cells,\" have been revealed to play a crucial role in fear memory formation. Researchers discovered that these cells actively help form, retrieve, and weaken fear responses by interacting with neurons in real time. When astrocyte activity was experimentally altered, the strength of fear memories changed directly, demonstrating a causal relationship. This breakthrough suggests that targeting astrocytes could lead to entirely new therapeutic approaches for anxiety-related disorders and PTSD. The findings represent a paradigm shift in understanding brain mechanisms underlying emotional regulation. However, the research is currently based on experimental models, requiring further clinical trials before application to human patients.\n\n##",
+      "aiSummaryKo": "뇌의 별 모양 세포인 '아스트로사이트'는 그동안 단순한 지원 역할만 한다고 알려져 왔으나, 최근 연구에 따르면 공포 기억 형성에 핵심적인 역할을 하는 것으로 밝혀졌다. 연구팀은 아스트로사이트가 신경세포와 실시간으로 상호작용하면서 공포 반응의 형성, 회상, 약화를 능동적으로 조절한다는 것을 발견했다. 실험 결과 아스트로사이트의 활동을 변화시키면 공포 기억의 강도가 직접적으로 달라지는 것으로 확인되었다. 이 발견은 불안장애와 외상후스트레스장애(PTSD) 등 불안 관련 질환의 완전히 새로운 치료법 개발로 이어질 수 있는 혁신적인 성과이다. 다만 동물 실험 기반의 연구인만큼 인간에게 적용되기까지는 추가 임상 연구가 필요하다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Astrocytes, star-shaped brain cells long considered merely \"support cells,\" have been revealed to play a crucial role in fear memory formation. Researchers discovered that these cells actively help form, retrieve, and weaken fear responses by interacting with neurons in real time. When astrocyte activity was experimentally altered, the strength of fear memories changed directly, demonstrating a causal relationship. This breakthrough suggests that targeting astrocytes could lead to entirely new therapeutic approaches for anxiety-related disorders and PTSD. The findings represent a paradigm shift in understanding brain mechanisms underlying emotional regulation. However, the research is currently based on experimental models, requiring further clinical trials before application to human patients.\n\n##",
+      "keyPoints": [
+        "**아스트로사이트의 새로운 역할** / Astrocytes play active, not passive roles in fear memory regulation",
+        "**신경세포와의 상호작용** / Real-time interaction with neurons controls formation, recall, and weakening of fear responses",
+        "**직접적인 인과 관계 증명** / Changing astrocyte activity directly alters fear memory strength",
+        "**임상 적용 가능성** / Could revolutionize treatment for PTSD and anxiety disorders, though human trials are still needed"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260403224508.htm",
+      "featured": false
+    },
     {
       "id": "93fef6f55d20",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**문화 맥락의 제한성** / Cultural context limitations"
       ],
       "url": "https://www.psypost.org/family-dynamics-predict-whether-parents-and-children-agree-on-choosing-a-romantic-partner/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a3d5cb0c4033",
@@ -373,48 +415,6 @@
         "**실무적 가치** / **Practical Value**: 기업의 리스크 관리와 정책 입안자의 의사결정을 지원하여 공급망 안정성 향상에 기여 / Supports corporate risk management and policy-making to enhance supply chain resilience and stability."
       ],
       "url": "https://arxiv.org/abs/2604.01298",
-      "featured": false
-    },
-    {
-      "id": "1f2d0b54d063",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "2일 전 / 2d ago",
-      "title": "What It’s Like to Be…a Diplomat",
-      "titleKo": "어떤 삶인가…외교관의",
-      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
-      "aiSummary": "This article features a podcast episode from the series \"What It's Like to Be...\" where bestselling author Dan Heath interviews John Johnson, a retired US diplomat with over twenty years of Foreign Service experience. The episode explores the actual work and daily life of diplomats through real-world examples, including defusing a crisis after an ambassador hinted at a preemptive strike against Russia, delivering demarches in multiple languages, and managing the frantic evacuation of the Kabul embassy. Through the conversation, listeners gain insight into modern diplomatic practices, such as whether diplomats still use encrypted cables in the 21st century and the meanings of diplomatic terminology. The podcast aims to enhance public understanding of international relations and diplomacy while showcasing the specific roles and responsibilities of diplomatic professionals. However, the episode is limited by its focus on a single individual's experiences, which may not represent all diplomatic activities comprehensively.",
-      "aiSummaryKo": "본 기사는 팟캐스트 시리즈 \"What It's Like to Be...\"의 에피소드로, 20년 이상 미국 외교관으로 근무한 존 존슨(John Johnson) 퇴직 외교관의 실제 경험을 다룬다. 이 에피소드에서는 외교관의 실제 업무와 일상을 조명하며, 러시아에 대한 선제 공격 언급 후 위기 상황을 진정시키기, 다국어로 구두 항의(demarche) 전달, 카불 대사관 긴급 철수 등 실제 사례들을 포함한다. 저자 댄 히스(Dan Heath)와의 대화를 통해 현대 외교관들이 실제로 암호화된 전신(cables)을 사용하는지, 외교 용어의 의미 등 일반인이 궁금해할 외교 관행에 대한 설명이 포함된다. 본 팟캐스트는 국제관계와 외교 업무에 대한 대중의 이해를 높이고, 외교관의 역할과 책임을 구체적으로 보여주는 데 의의가 있다. 다만 단일 인물의 경험에 기반한 사례 중심이므로, 모든 외교 활동을 대표하기에는 한계가 있을 수 있다.",
-      "aiSummaryEn": "This article features a podcast episode from the series \"What It's Like to Be...\" where bestselling author Dan Heath interviews John Johnson, a retired US diplomat with over twenty years of Foreign Service experience. The episode explores the actual work and daily life of diplomats through real-world examples, including defusing a crisis after an ambassador hinted at a preemptive strike against Russia, delivering demarches in multiple languages, and managing the frantic evacuation of the Kabul embassy. Through the conversation, listeners gain insight into modern diplomatic practices, such as whether diplomats still use encrypted cables in the 21st century and the meanings of diplomatic terminology. The podcast aims to enhance public understanding of international relations and diplomacy while showcasing the specific roles and responsibilities of diplomatic professionals. However, the episode is limited by its focus on a single individual's experiences, which may not represent all diplomatic activities comprehensively.",
-      "keyPoints": [
-        "외교관의 실제 업무 / Actual diplomatic work includes crisis management, multilingual negotiations, and emergency evacuations",
-        "현대 외교 관행 / Modern diplomatic practices still utilize traditional communication methods like encrypted cables alongside contemporary technology",
-        "위기 상황 대응 사례 / Real-world examples demonstrate how diplomats navigate international crises, such as managing statements about military action and conducting rapid diplomatic withdrawals",
-        "대중의 외교 이해 증진 / The podcast serves to demystify diplomatic work and increase public understanding of what professional diplomats actually do daily"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "18d3b1cda5ae",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "When made to feel sad, men with psychopathic traits shift their visual focus to anger",
-      "titleKo": "슬픔을 느끼게 되면 사이코패스 성향의 남성들은 시선을 분노로 옮긴다",
-      "summary": "Are psychopaths completely incapable of feeling sad? A new study of incarcerated men suggests otherwise, revealing that psychopathy may actually be a subconscious defense mechanism where the brain actively avoids sadness and hyper-focuses on anger instead.",
-      "aiSummary": "This study challenges the conventional belief that psychopaths are completely incapable of experiencing sadness. A new study of incarcerated men suggests that psychopathy may not be a simple emotional deficit but rather an unconscious defense mechanism where the brain actively avoids sadness and hyper-focuses on anger instead. Researchers conducted an experiment inducing sadness in participants and measured changes in their visual focus. The key finding revealed that men with higher psychopathic traits shifted their visual attention more toward anger-related stimuli when experiencing sadness. This suggests psychopathy involves active emotion avoidance rather than emotional incapacity. These findings could reshape our understanding of the psychological mechanisms underlying psychopathy. However, the study's limitation lies in its sample being restricted to incarcerated individuals, which may limit generalizability to the general population.\n\n##",
-      "aiSummaryKo": "이 연구는 정신병질적 특성을 가진 사람들이 슬픔을 느낄 수 없다는 기존의 통념에 의문을 제기합니다. 교도소에 수감 중인 남성들을 대상으로 한 신규 연구는 정신병질이 단순히 감정 결핍이 아니라, 뇌가 무의식적으로 슬픔을 회피하고 분노에 과도하게 집중하는 방어 기제일 수 있음을 시사합니다. 연구원들은 참가자들에게 슬픈 감정을 유도한 후 시각적 초점 변화를 측정하는 실험을 진행했습니다. 핵심 결과는 정신병질적 특성이 높은 남성들이 슬픔을 느낄 때 분노 관련 자극으로 시각을 더 많이 옮긴다는 것입니다. 이는 정신병질이 감정 무능력이 아닌 적극적인 감정 회피 메커니즘임을 시사합니다. 이 발견은 정신병질자의 심리 기제에 대한 이해를 재구성할 수 있습니다. 다만 표본이 수감자로 제한되어 일반 인구에 대한 적용 가능성에는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study challenges the conventional belief that psychopaths are completely incapable of experiencing sadness. A new study of incarcerated men suggests that psychopathy may not be a simple emotional deficit but rather an unconscious defense mechanism where the brain actively avoids sadness and hyper-focuses on anger instead. Researchers conducted an experiment inducing sadness in participants and measured changes in their visual focus. The key finding revealed that men with higher psychopathic traits shifted their visual attention more toward anger-related stimuli when experiencing sadness. This suggests psychopathy involves active emotion avoidance rather than emotional incapacity. These findings could reshape our understanding of the psychological mechanisms underlying psychopathy. However, the study's limitation lies in its sample being restricted to incarcerated individuals, which may limit generalizability to the general population.\n\n##",
-      "keyPoints": [
-        "정신병질은 감정 결핍이 아닌 무의식적 방어 기제 / Psychopathy is an unconscious defense mechanism rather than emotional deficit",
-        "슬픔 유도 시 분노 관련 자극으로 시각 초점 전환 / Visual focus shifts toward anger-related stimuli when sadness is induced",
-        "정신병질자도 슬픔을 느낄 수 있으나 뇌가 능동적으로 회피 / Psychopaths can experience sadness but their brains actively avoid it",
-        "수감자 표본으로 인한 일반화 제한 / Generalizability limited due to incarcerated sample"
-      ],
-      "url": "https://www.psypost.org/when-made-to-feel-sad-men-with-psychopathic-traits-shift-their-visual-focus-to-anger/",
       "featured": false
     }
   ]
