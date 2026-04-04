@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-04T16:00:12.877859+00:00",
+  "updated": "2026-04-04T17:50:56.735879+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "437a024a1509",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "The hidden mental cost of emotional rigidity in young adults",
+      "titleKo": "젊은 성인의 감정적 경직성이 초래하는 숨겨진 정신적 대가",
+      "summary": "A new study suggests that trying to suppress negative emotions drains your cognitive resources, leading to increased memory lapses and focus issues. Embracing psychological flexibility might be the key to better everyday mental performance.",
+      "aiSummary": "This study investigates the mental cost of emotional suppression in young adults, revealing that attempting to suppress negative emotions depletes cognitive resources, leading to memory lapses and reduced focus. The core finding demonstrates that emotional rigidity—trying to avoid or control negative feelings—comes with significant cognitive consequences. Researchers propose that psychological flexibility, or the ability to acknowledge and accept negative emotions rather than fight them, may be key to improving everyday mental performance. The study suggests that accepting emotions rather than suppressing them is more cognitively efficient. However, specific participant numbers, detailed experimental designs, and precise quantitative data are not provided, limiting full evaluation of the study's scope and methodology. This research contributes to understanding how emotional suppression affects cognitive functioning and supports acceptance-based emotional approaches.\n\n##",
+      "aiSummaryKo": "이 연구는 젊은 성인들이 부정적인 감정을 억압하려고 할 때 발생하는 정신적 비용을 조사했습니다. 감정을 억제하려는 시도가 인지 자원을 소모시켜 기억력 감소와 집중력 저하를 초래한다는 것이 핵심 발견입니다. 연구진은 심리적 유연성(부정적 감정을 인정하고 수용하는 능력)을 높이면 일상적인 정신 수행 능력이 향상될 수 있다고 제안합니다. 이는 감정을 무조건 억누르는 것보다 자신의 감정을 있는 그대로 받아들이는 것이 더 효율적임을 시사합니다. 다만 구체적인 참가자 수, 실험 설계 세부사항, 정확한 수치 데이터가 제시되지 않아 연구의 규모와 방법론을 완전히 평가하기 어렵다는 한계가 있습니다. 이 연구는 감정 억압이 인지 능력에 미치는 구체적인 영향을 이해하는 데 도움이 될 것으로 예상됩니다.\n\n##",
+      "aiSummaryEn": "This study investigates the mental cost of emotional suppression in young adults, revealing that attempting to suppress negative emotions depletes cognitive resources, leading to memory lapses and reduced focus. The core finding demonstrates that emotional rigidity—trying to avoid or control negative feelings—comes with significant cognitive consequences. Researchers propose that psychological flexibility, or the ability to acknowledge and accept negative emotions rather than fight them, may be key to improving everyday mental performance. The study suggests that accepting emotions rather than suppressing them is more cognitively efficient. However, specific participant numbers, detailed experimental designs, and precise quantitative data are not provided, limiting full evaluation of the study's scope and methodology. This research contributes to understanding how emotional suppression affects cognitive functioning and supports acceptance-based emotional approaches.\n\n##",
+      "keyPoints": [
+        "**감정 억압의 인지적 비용** / Cognitive Cost of Emotional Suppression",
+        "**심리적 유연성의 중요성** / Importance of Psychological Flexibility",
+        "**젊은 성인 집단의 취약성** / Vulnerability of Young Adults",
+        "**감정 관리 패러다임의 전환** / Paradigm Shift in Emotion Management"
+      ],
+      "url": "https://www.psypost.org/the-hidden-mental-cost-of-emotional-rigidity-in-young-adults/",
+      "featured": true
+    },
     {
       "id": "42a2922bbba7",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**연구 설계의 한계** / Cross-sectional design cannot establish causality, requiring longitudinal studies for deeper causal understanding"
       ],
       "url": "https://www.psypost.org/hostile-sexism-is-linked-to-higher-rates-of-social-sabotage-and-gossip-among-young-adults/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1f2d0b54d063",
@@ -394,27 +415,6 @@
         "**임상 응용 가능성의 한계** / Limitations in Clinical Validation"
       ],
       "url": "https://arxiv.org/abs/2604.00249",
-      "featured": false
-    },
-    {
-      "id": "ba227bbbf154",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "15시간 전 / 15h ago",
-      "title": "DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting",
-      "titleKo": "DySCo: 효과적인 장기 시계열 예측을 위한 동적 의미 압축",
-      "summary": "arXiv:2604.01261v1 Announce Type: new Abstract: Time series forecasting (TSF) is critical across domains such as finance, meteorology, and energy. While extending the lookback window theoretically provides richer historical context, in practice, it often introduces irrelevant noise and computational redundancy, preventing models from effectively capturing complex long-term dependencies. To address these challenges, we propose a Dynamic Semantic Compression (DySCo) framework. Unlike traditional methods that rely on fixed heuristics, DySCo introduces an Entropy-Guided Dynamic Sampling (EGDS) mec",
-      "aiSummary": "Time series forecasting is critical across domains such as finance, meteorology, and energy, relying on historical data to predict future trends. While conventional approaches suggest that including more historical data would improve predictions, in practice, this introduces irrelevant noise and computational redundancy that actually degrades forecasting performance. To address this challenge, researchers proposed the DySCo (Dynamic Semantic Compression) framework, which replaces fixed heuristic rules with an Entropy-Guided Dynamic Sampling (EGDS) mechanism to selectively extract only the most important information. The framework dynamically identifies patterns that change over time, enabling models to more effectively capture complex long-term dependencies in time series data. This approach has potential applications in improving prediction accuracy and reducing computational costs across finance, meteorology, and energy sectors. However, since only the abstract was provided, specific details regarding the number of experimental participants, concrete performance improvement metrics, and explicit limitations of the study remain unavailable.\n\n##",
-      "aiSummaryKo": "시계열 예측(금융, 기상, 에너지 등)은 과거 데이터를 활용하여 미래를 예측하는 중요한 기술이다. 기존 방식에서는 더 많은 과거 데이터를 포함시키면 더 나은 예측이 가능할 것으로 예상되지만, 실제로는 불필요한 노이즈와 계산 비용이 증가하여 오히려 예측 성능이 저하되는 문제가 있었다. 이를 해결하기 위해 연구팀은 'DySCo(동적 의미 압축)' 프레임워크를 제안했다. 이 방법은 고정된 규칙이 아닌 '엔트로피 기반 동적 샘플링(EGDS)' 메커니즘을 사용하여 중요한 정보만 선택적으로 추출한다. DySCo는 시간에 따라 변하는 데이터의 패턴을 동적으로 파악하여 장기 시계열의 복잡한 의존성을 효과적으로 학습할 수 있다. 이 연구는 실제 금융, 기상, 에너지 분야에서 예측 정확도를 높이고 계산 비용을 절감하는 데 기여할 수 있다. 다만, 논문 초록만 제공되어 구체적인 실험 참가자 수, 성능 개선 수치, 그리고 연구의 한계점에 대한 상세한 정보는 제한적이다.\n\n##",
-      "aiSummaryEn": "Time series forecasting is critical across domains such as finance, meteorology, and energy, relying on historical data to predict future trends. While conventional approaches suggest that including more historical data would improve predictions, in practice, this introduces irrelevant noise and computational redundancy that actually degrades forecasting performance. To address this challenge, researchers proposed the DySCo (Dynamic Semantic Compression) framework, which replaces fixed heuristic rules with an Entropy-Guided Dynamic Sampling (EGDS) mechanism to selectively extract only the most important information. The framework dynamically identifies patterns that change over time, enabling models to more effectively capture complex long-term dependencies in time series data. This approach has potential applications in improving prediction accuracy and reducing computational costs across finance, meteorology, and energy sectors. However, since only the abstract was provided, specific details regarding the number of experimental participants, concrete performance improvement metrics, and explicit limitations of the study remain unavailable.\n\n##",
-      "keyPoints": [
-        "**기존 문제점** / **Existing Problem**: 시계열 예측에서 더 많은 과거 데이터가 항상 더 나은 결과를 주지 못하며, 오히려 노이즈와 계산 비용 증가로 인해 성능이 저하됨 / Extending lookback windows in time series forecasting introduces irrelevant noise and computational redundancy rather than improving predictions",
-        "**혁신적 해결책** / **Innovative Solution**: 엔트로피 기반 동적 샘플링(EGDS)을 통해 중요한 정보만 동적으로 선택하는 DySCo 프레임워크 제안 / Dynamic Semantic Compression framework uses Entropy-Guided Dynamic Sampling to selectively extract semantically important information from time series data",
-        "**기술의 장점** / **Technical Advantages**: 고정된 규칙이 아닌 적응형 메커니즘으로 시간 변화에 따른 패턴을 유연하게 포착하여 장기 의존성 학습 향상 / Adaptive mechanism captures time-varying patterns more effectively than fixed heuristics, improving long-term dependency learning",
-        "**실용적 영향** / **Practical Impact**: 금융, 기상, 에너지 등 다양한 분야에서 예측 정확도 향상과 계산 효율성 개선 가능 / Potential to enhance forecasting accuracy while reducing computational costs across finance, meteorology, and energy sectors"
-      ],
-      "url": "https://arxiv.org/abs/2604.01261",
       "featured": false
     }
   ]
