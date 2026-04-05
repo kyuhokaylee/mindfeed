@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-05T16:02:42.181464+00:00",
+  "updated": "2026-04-05T18:02:38.220912+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "42ab11c7e461",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "“Falling back” makes us more miserable than “springing forward,” new study finds",
+      "titleKo": "\"시간을 뒤로 돌리는 것이\" 앞으로 당기는 것보다\" 더 불행하게 만든다는 새로운 연구 결과",
+      "summary": "Changing the clocks twice a year is universally despised, but a new analysis of social media posts reveals that the transition to Standard Time in the fall causes a deeper, longer-lasting negative mood than the spring shift.",
+      "aiSummary": "Researchers conducted a study to analyze how the twice-yearly clock changes affect human psychological states, specifically comparing the mood impact of \"springing forward\" in spring versus \"falling back\" in fall. The research team analyzed a wide range of social media posts to track emotional changes before and after time transitions. The findings revealed that falling back in autumn causes significantly deeper and longer-lasting negative moods compared to springing forward in spring. This research demonstrates that clock changes have real psychological consequences beyond mere inconvenience. The study holds importance for understanding the broader health implications of daylight saving time policies. However, the study is limited by its reliance on social media data, which may not represent the experiences of populations with lower online activity rates.\n\n##",
+      "aiSummaryKo": "연구팀은 연 2회 실시되는 시간 변경(일광절약시간제)이 인간의 심리 상태에 미치는 영향을 조사했습니다. 특히 봄의 '시간을 앞당기기(springing forward)'와 가을의 '시간을 뒤로 미루기(falling back)'가 사람들의 기분에 다르게 영향을 미치는지 확인하고자 했습니다. 연구팀은 소셜 미디어 게시물을 광범위하게 분석하여 시간 변경 전후의 감정 변화를 추적했습니다. 결과적으로 가을에 시간을 1시간 뒤로 미룰 때 봄에 앞당길 때보다 더 깊고 오래 지속되는 부정적 기분이 나타났습니다. 이 연구는 시간 변경이 단순한 불편함을 넘어 우리의 정신 건강에 실질적인 영향을 미친다는 것을 보여줍니다. 다만 이 연구는 소셜 미디어 사용자들의 게시물에만 기반하고 있어, 온라인 활동이 적은 인구층의 경험을 반영하지 못할 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "Researchers conducted a study to analyze how the twice-yearly clock changes affect human psychological states, specifically comparing the mood impact of \"springing forward\" in spring versus \"falling back\" in fall. The research team analyzed a wide range of social media posts to track emotional changes before and after time transitions. The findings revealed that falling back in autumn causes significantly deeper and longer-lasting negative moods compared to springing forward in spring. This research demonstrates that clock changes have real psychological consequences beyond mere inconvenience. The study holds importance for understanding the broader health implications of daylight saving time policies. However, the study is limited by its reliance on social media data, which may not represent the experiences of populations with lower online activity rates.\n\n##",
+      "keyPoints": [
+        "**봄과 가을의 비대칭적 영향** / Asymmetric impact of spring vs. fall transitions: 가을의 시간 후퇴(falling back)가 봄의 시간 전진(springing forward)보다 훨씬 더 부정적인 정서 반응을 유발합니다.",
+        "**지속 기간의 차이** / Duration of negative effects: 가을의 시간 변경으로 인한 부정적 기분은 봄의 변경보다 더 오래 지속되는 특성을 보입니다.",
+        "**소셜 미디어 데이터 활용** / Social media analysis methodology: 객관적인 감정 측정을 위해 소셜 미디어 게시물이라는 대규모 자연 발생 데이터를 분석했습니다.",
+        "**정신 건강 정책의 필요성** / Policy implications for mental health: 시간 변경이 단순 불편함이 아닌 정신 건강에 영향을 미치므로 정책 재검토 필요성을 시사합니다."
+      ],
+      "url": "https://www.psypost.org/falling-back-makes-us-more-miserable-than-springing-forward-new-study-finds/",
+      "featured": true
+    },
     {
       "id": "46e45ecbe16e",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**실험실의 한계** / Laboratory Limitations"
       ],
       "url": "https://www.psypost.org/the-secret-joy-of-revenge-why-we-smile-when-a-rival-suffers-2026-03-26/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "28083c73764b",
@@ -394,27 +415,6 @@
         "**신경발달 피해의 심각성** / **Severity of Neurodevelopmental Harm**"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260402042737.htm",
-      "featured": false
-    },
-    {
-      "id": "43f05e41ffce",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Millions start work too early. This drug helps them stay awake",
-      "titleKo": "수백만 명이 너무 일찍 일을 시작한다. 이 약물이 그들을 깨어있게 해준다",
-      "summary": "Millions of people start work before sunrise—but their brains aren’t ready for it. A new clinical trial has found that the wake-promoting drug solriamfetol can significantly boost alertness in early-morning shift workers struggling with shift work disorder. Participants who took the drug were able to stay awake and function better throughout full shifts, with improvements in productivity, safety, and daily performance.",
-      "aiSummary": "Millions of workers start their shifts before sunrise, but the human brain is not naturally designed to be alert at such early hours. This clinical trial evaluated the effectiveness of solriamfetol, a wake-promoting drug, in early-morning shift workers suffering from shift work disorder. Participants who received the drug demonstrated significantly improved ability to stay awake and maintain function throughout their full shifts, with notable improvements in productivity, safety, and overall daily performance. This medication represents a new treatment option for shift work disorder caused by circadian rhythm misalignment. However, further research is needed on long-term side effects and potential medication dependency. Additionally, fundamental improvements in work scheduling may remain the most optimal solution for addressing this widespread problem.\n\n##",
-      "aiSummaryKo": "많은 근로자들이 새벽에 일을 시작하지만, 인간의 뇌는 이러한 시간에 깨어있기 위해 진화하지 않았다. 이 연구는 교대근무장애로 고통받는 조기 근무 근로자들을 위해 각성 촉진 약물인 솔리암페톨(solriamfetol)의 효과를 임상시험을 통해 검증했다. 연구에 참여한 사람들은 약물 복용 후 전체 근무 시간 동안 더 잘 깨어있을 수 있었으며, 생산성, 안전성, 일상 활동 수행에서 눈에 띄는 개선을 보였다. 이 약물은 생체 시계가 맞지 않아 발생하는 교대근무장애 치료의 새로운 옵션을 제시한다. 다만, 장기적인 부작용이나 약물 의존성에 대한 추가 연구가 필요하며, 근본적으로는 작업 시간 개선이 가장 좋은 해결책이 될 수 있다.\n\n##",
-      "aiSummaryEn": "Millions of workers start their shifts before sunrise, but the human brain is not naturally designed to be alert at such early hours. This clinical trial evaluated the effectiveness of solriamfetol, a wake-promoting drug, in early-morning shift workers suffering from shift work disorder. Participants who received the drug demonstrated significantly improved ability to stay awake and maintain function throughout their full shifts, with notable improvements in productivity, safety, and overall daily performance. This medication represents a new treatment option for shift work disorder caused by circadian rhythm misalignment. However, further research is needed on long-term side effects and potential medication dependency. Additionally, fundamental improvements in work scheduling may remain the most optimal solution for addressing this widespread problem.\n\n##",
-      "keyPoints": [
-        "**각성 촉진 약물의 효과** / The efficacy of wake-promoting drugs: 솔리암페톨이 조기 근무 근로자의 각성 상태를 크게 향상시킴 / Solriamfetol significantly enhances alertness in early-morning shift workers",
-        "**실제 작업 능력 개선** / Practical performance improvements: 약물 복용 후 생산성, 안전성, 일상 수행 능력이 모두 개선됨 / Drug intake led to improvements in productivity, safety, and daily functioning",
-        "**생체 시계 문제 해결의 의료적 접근** / Medical approach to circadian rhythm issues: 약물이 인간의 생물학적 한계를 극복하는 데 도움이 될 수 있음 / Medication can help overcome biological limitations of human circadian rhythms",
-        "**근본적 해결 방안의 필요성** / Need for fundamental solutions: 약물 치료 외에도 작업 시간 개선과 같은 구조적 개선이 필요함 / Structural improvements in work scheduling remain necessary alongside pharmaceutical interventions"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260401071936.htm",
       "featured": false
     }
   ]
