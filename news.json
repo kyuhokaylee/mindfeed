@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-05T18:02:38.220912+00:00",
+  "updated": "2026-04-05T19:59:23.486986+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "7578810a561c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Psychological traits of scientists predict their theories and research methods",
+      "titleKo": "과학자의 심리적 특성이 그들의 이론과 연구방법을 예측한다",
+      "summary": "A new study reveals that deep disagreements in psychological science are not just about the data. A researcher's underlying mental habits, like their personal tolerance for ambiguity, guide their preferred scientific theories and research methods.",
+      "aiSummary": "This study investigates why psychologists adopt different scientific theories and research methods in their work. Researchers discovered that scientists' underlying psychological traits—such as their personal tolerance for ambiguity—influence the theoretical frameworks and methodological approaches they prefer. The findings suggest that significant disagreements within psychology stem not merely from data interpretation differences, but rather from fundamental individual psychological characteristics. This indicates that the research methods scientists employ are shaped by both objective evidence and personal cognitive styles. The research contributes to understanding why scientific consensus is difficult to achieve and can improve interdisciplinary communication. However, the study is primarily limited to psychology, and its generalizability to other scientific fields requires further validation.\n\n##",
+      "aiSummaryKo": "이 연구는 심리학 분야에서 과학자들이 서로 다른 이론과 연구 방법을 선택하는 이유를 조사했습니다. 연구팀은 심리학자들의 개인적인 심리 특성(예: 모호함에 대한 허용도)이 그들이 채택하는 과학적 이론과 연구 방법에 영향을 미친다는 것을 발견했습니다. 연구 결과는 과학자들 간의 심각한 학파적 분열이 단순한 데이터 해석의 차이가 아니라 근본적인 개인의 심리적 성향에서 비롯된다는 것을 시사합니다. 이는 과학자가 사용하는 연구 방법이 객관적 증거뿐만 아니라 개인의 사고방식에 의해서도 결정된다는 의미입니다. 이 연구는 과학적 합의 형성의 어려움을 이해하고 학문 분야 간 소통을 개선하는 데 도움이 될 수 있습니다. 다만, 이 연구는 주로 심리학 분야에 한정되었으며, 다른 과학 분야에서의 일반화 가능성은 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigates why psychologists adopt different scientific theories and research methods in their work. Researchers discovered that scientists' underlying psychological traits—such as their personal tolerance for ambiguity—influence the theoretical frameworks and methodological approaches they prefer. The findings suggest that significant disagreements within psychology stem not merely from data interpretation differences, but rather from fundamental individual psychological characteristics. This indicates that the research methods scientists employ are shaped by both objective evidence and personal cognitive styles. The research contributes to understanding why scientific consensus is difficult to achieve and can improve interdisciplinary communication. However, the study is primarily limited to psychology, and its generalizability to other scientific fields requires further validation.\n\n##",
+      "keyPoints": [
+        "**과학자의 심리 특성이 이론 선택에 영향** / Scientists' psychological traits influence their choice of theories",
+        "**학파적 분열의 심리학적 근원** / Psychological roots of academic disagreements",
+        "**객관성과 주관성의 교차점** / Intersection of objectivity and subjectivity in science",
+        "**과학적 합의 형성의 복잡성** / Complexity of building scientific consensus"
+      ],
+      "url": "https://www.psypost.org/psychological-traits-of-scientists-predict-their-theories-and-research-methods-2026-03-26/",
+      "featured": true
+    },
     {
       "id": "42ab11c7e461",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**정신 건강 정책의 필요성** / Policy implications for mental health: 시간 변경이 단순 불편함이 아닌 정신 건강에 영향을 미치므로 정책 재검토 필요성을 시사합니다."
       ],
       "url": "https://www.psypost.org/falling-back-makes-us-more-miserable-than-springing-forward-new-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "46e45ecbe16e",
@@ -394,27 +415,6 @@
         "**사회 기반시설의 보호자** / Infrastructure Guardians: 일반인이 인식하지 못하는 가운데 전력선 작업자는 커뮤니티의 전기 공급과 재난 복구를 위한 필수 인력"
       ],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-lineman/",
-      "featured": false
-    },
-    {
-      "id": "13cfcfb6d2a3",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "23시간 전 / 23h ago",
-      "title": "Study finds dangerous lead levels in children’s clothing",
-      "titleKo": "어린이 의류에서 위험 수준의 납 검출, 연구 결과 발표",
-      "summary": "Fast fashion might come with a hidden danger: lead. Researchers testing children’s shirts from multiple retailers found every sample exceeded U.S. safety limits, raising concerns about toxic exposure—especially since young kids often chew on clothing. Brightly colored fabrics like red and yellow showed particularly high levels, likely due to chemicals used to fix dyes. Simulations suggest that even brief mouthing could expose children to unsafe amounts of lead, a substance known to harm brain development and behavior.",
-      "aiSummary": "This study investigated the risk of lead (Pb) exposure from fast fashion children's clothing. Researchers collected and tested children's shirts from multiple retailers, finding that every sample exceeded U.S. safety standards for lead content. Particularly high lead levels were detected in brightly colored fabrics such as red and yellow, likely due to chemicals used to fix dyes onto the material. Simulation models suggested that even brief mouthing of clothing could expose children to unsafe lead levels. Since lead is known to harm brain development and behavioral outcomes in children, this research has significant public health implications. However, the study examined only a limited number of samples from specific retailers, indicating that broader follow-up investigations are necessary.\n\n##",
-      "aiSummaryKo": "이 연구는 패스트 패션 의류에 포함된 납(lead)이 어린이 건강에 미치는 위험성을 조사했습니다. 연구팀은 여러 소매점에서 판매하는 어린이용 셔츠 샘플을 수집하여 납 함량을 측정했으며, 검사한 모든 샘플이 미국 안전 기준을 초과하는 납 수치를 보였습니다. 특히 빨강과 노랑 같은 밝은 색상의 옷감에서 더 높은 납 수치가 발견되었는데, 이는 염료를 고정시키는 화학물질 때문으로 보입니다. 어린이가 옷을 입에 물 때의 노출 시뮬레이션 결과, 짧은 기간의 접촉만으로도 안전하지 않은 수준의 납에 노출될 수 있음을 시사했습니다. 납은 뇌 발달과 행동 발달에 심각한 해를 끼치는 것으로 알려져 있어 이 연구는 중요한 의미를 갖습니다. 다만 이 연구는 특정 소매점의 제한된 샘플만 조사했으므로, 더 광범위한 후속 조사가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated the risk of lead (Pb) exposure from fast fashion children's clothing. Researchers collected and tested children's shirts from multiple retailers, finding that every sample exceeded U.S. safety standards for lead content. Particularly high lead levels were detected in brightly colored fabrics such as red and yellow, likely due to chemicals used to fix dyes onto the material. Simulation models suggested that even brief mouthing of clothing could expose children to unsafe lead levels. Since lead is known to harm brain development and behavioral outcomes in children, this research has significant public health implications. However, the study examined only a limited number of samples from specific retailers, indicating that broader follow-up investigations are necessary.\n\n##",
-      "keyPoints": [
-        "**납 오염의 광범위성** / **Widespread Lead Contamination**",
-        "**색상과 납 수치의 연관성** / **Connection Between Color and Lead Levels**",
-        "**어린이의 직접적 노출 위험** / **Direct Exposure Risk to Children**",
-        "**신경발달 피해의 심각성** / **Severity of Neurodevelopmental Harm**"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260402042737.htm",
       "featured": false
     }
   ]
