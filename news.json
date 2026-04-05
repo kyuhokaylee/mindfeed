@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-05T11:58:18.496927+00:00",
+  "updated": "2026-04-05T14:07:07.476837+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "46e45ecbe16e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The psychology of schadenfreude: an opponent’s suffering triggers a spontaneous smile",
+      "titleKo": "샤덴프로이데의 심리학: 상대의 고통이 유발하는 자동적 미소",
+      "summary": "New research reveals that people spontaneously smile when watching an aggressive rival suffer. This physical sign of dark satisfaction occurs even when an impartial computer administers the punishment, proving that witnessing karma in action feels inherently rewarding.",
+      "aiSummary": "This research reveals that people spontaneously smile when witnessing an aggressive rival suffer punishment. Participants were asked to play a game and then observed their aggressive opponent being penalized by an impartial computer system. The results showed that participants displayed involuntary smiling responses when observing the punishment of their unfair opponent, indicating that witnessing justice being served itself provides psychological reward. This demonstrates that humans have an inherent psychological tendency to find satisfaction in the realization of fairness and karma. However, the study was conducted in a laboratory setting, which limits its full applicability to the complex dynamics of real-world human relationships.\n\n##",
+      "aiSummaryKo": "이 연구는 사람들이 공격적인 경쟁자가 고통받는 모습을 볼 때 자신도 모르게 미소를 짓는 현상을 조사했습니다. 연구진은 참가자들에게 게임을 하도록 한 후, 공격적으로 행동한 상대방이 중립적인 컴퓨터 시스템으로부터 처벌을 받는 장면을 보여줬습니다. 결과적으로 참가자들은 상대방이 받는 부당함에 대한 처벌을 목격했을 때 자발적인 미소 반응을 보였으며, 이는 단순히 '응보'가 이루어지는 것을 보는 것 자체가 심리적으로 보상감을 준다는 의미입니다. 이는 인간이 정의가 실현되는 순간을 매우 즐기는 심리적 특성을 가지고 있음을 증명합니다. 다만 이 연구는 실험실 환경에서 이루어졌으므로 현실의 복잡한 인간관계에 완벽히 적용되기는 어렵다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research reveals that people spontaneously smile when witnessing an aggressive rival suffer punishment. Participants were asked to play a game and then observed their aggressive opponent being penalized by an impartial computer system. The results showed that participants displayed involuntary smiling responses when observing the punishment of their unfair opponent, indicating that witnessing justice being served itself provides psychological reward. This demonstrates that humans have an inherent psychological tendency to find satisfaction in the realization of fairness and karma. However, the study was conducted in a laboratory setting, which limits its full applicability to the complex dynamics of real-world human relationships.\n\n##",
+      "keyPoints": [
+        "**샤덴프로이데의 자동적 반응** / Automatic Nature of Schadenfreude",
+        "**정의 실현에 대한 보상감** / Reward from Justice",
+        "**인간의 도덕적 본성** / Human Moral Nature",
+        "**실험실의 한계** / Laboratory Limitations"
+      ],
+      "url": "https://www.psypost.org/the-secret-joy-of-revenge-why-we-smile-when-a-rival-suffers-2026-03-26/",
+      "featured": true
+    },
+    {
+      "id": "28083c73764b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "The four types of dementia most people don’t know exist",
+      "titleKo": "대부분의 사람들이 모르는 치매의 4가지 유형",
+      "summary": "While dementia is commonly associated solely with memory loss, it is actually an umbrella term for over 100 conditions. Understanding rare subtypes—which can affect vision, movement, and behavior—is crucial for early diagnosis and specialized care.",
+      "aiSummary": "While dementia is commonly associated with memory loss alone, it is actually an umbrella term encompassing over 100 different conditions. This article highlights rare dementia subtypes that most people are unaware of, which manifest differently from typical Alzheimer's disease. These rare variants primarily affect vision, movement, and behavior rather than memory, presenting distinctive clinical presentations. Researchers emphasize that early diagnosis and specialized treatment of these rare subtypes can significantly improve patients' quality of life and outcomes. The significance of this research lies in raising awareness among both healthcare professionals and the general public, potentially reducing misdiagnosis and enabling appropriate treatment approaches. However, limitations include insufficient long-term longitudinal studies and limited large-scale epidemiological data on these rare dementia subtypes.\n\n##",
+      "aiSummaryKo": "일반인들은 치매를 단순히 기억력 상실과 연관 짓지만, 실제로 치매는 100가지 이상의 질환을 포함하는 포괄적인 용어입니다. 이 기사는 대부분의 사람들이 인식하지 못하는 희귀 치매 아형(subtypes)들을 소개합니다. 이러한 희귀 치매들은 기억력보다는 시각, 운동 능력, 행동에 주로 영향을 미쳐 전형적인 치매와 다른 증상을 나타냅니다. 연구자들은 이러한 희귀 아형들을 조기에 진단하고 특화된 치료를 제공하는 것이 환자들의 삶의 질을 크게 향상시킬 수 있다고 강조합니다. 본 연구의 의의는 의료 전문가와 대중의 인식을 높여 오진을 줄이고 적절한 치료 접근을 가능하게 한다는 점입니다. 다만, 현재 희귀 치매 아형들에 대한 장기적 추적 연구와 대규모 역학 데이터가 부족하다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "While dementia is commonly associated with memory loss alone, it is actually an umbrella term encompassing over 100 different conditions. This article highlights rare dementia subtypes that most people are unaware of, which manifest differently from typical Alzheimer's disease. These rare variants primarily affect vision, movement, and behavior rather than memory, presenting distinctive clinical presentations. Researchers emphasize that early diagnosis and specialized treatment of these rare subtypes can significantly improve patients' quality of life and outcomes. The significance of this research lies in raising awareness among both healthcare professionals and the general public, potentially reducing misdiagnosis and enabling appropriate treatment approaches. However, limitations include insufficient long-term longitudinal studies and limited large-scale epidemiological data on these rare dementia subtypes.\n\n##",
+      "keyPoints": [
+        "**치매의 다양성** / Diversity of Dementia: 치매는 단순 기억력 상실이 아니라 100가지 이상의 서로 다른 질환의 집합체입니다.",
+        "**희귀 아형의 특수성** / Unique Characteristics of Rare Subtypes: 희귀 치매들은 시각, 운동, 행동 장애를 주증상으로 하여 전형적 치매와 구별됩니다.",
+        "**조기 진단의 중요성** / Importance of Early Diagnosis: 희귀 치매 아형을 정확히 인식하고 조기에 진단하면 특화된 치료가 가능하고 환자 예후가 개선됩니다.",
+        "**인식 제고의 필요성** / Need for Public Awareness: 의료진과 대중의 인식 부족이 오진으로 이어지므로, 체계적 정보 제공과 교육이 필수적입니다."
+      ],
+      "url": "https://www.psypost.org/the-four-types-of-dementia-most-people-dont-know-exist/",
+      "featured": false
+    },
     {
       "id": "1ecfbdfb56ef",
       "tag": "neuro",
@@ -21,7 +63,7 @@
         "**치료 개발의 가능성과 한계** / Potential foundation for neurodegenerative disease treatment, but requires further clinical validation in humans"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3d6c6b8f4640",
@@ -373,48 +415,6 @@
         "**근본적 해결 방안의 필요성** / Need for fundamental solutions: 약물 치료 외에도 작업 시간 개선과 같은 구조적 개선이 필요함 / Structural improvements in work scheduling remain necessary alongside pharmaceutical interventions"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260401071936.htm",
-      "featured": false
-    },
-    {
-      "id": "5b9baaaaf9d8",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Your body exhibits subtle physiological changes when you engage in self-deception",
-      "titleKo": "자기기만에 빠져 있을 때 신체에 나타나는 미묘한 생리 변화",
-      "summary": "A new study suggests that when people exaggerate their performance without knowing the actual facts, their bodies still show subtle signs of stress. Uncertainty creates a middle ground between complete honesty and outright deception.",
-      "aiSummary": "This study investigates physiological changes that occur when people engage in self-deception by exaggerating their performance. Researchers had participants complete a task, then encouraged them to overstate their performance without knowing their actual results. The findings revealed that during self-deception, participants exhibited subtle stress markers including elevated stress hormones and increased heart rate. This indicates that the body experiences stress in the gray area between complete honesty and outright lying—a state of uncertainty. The significance of this research lies in demonstrating that self-deception affects not only psychology but also physiology. However, the study's limitations include a small sample size and testing conducted only in specific laboratory conditions.\n\n##",
-      "aiSummaryKo": "이 연구는 사람들이 자기기만(자신의 성과를 과장)할 때 신체에 나타나는 생리적 변화를 조사했습니다. 연구팀은 참가자들에게 과제를 수행하게 한 후 실제 성과를 모르는 상태에서 성과를 과장하도록 유도했습니다. 결과적으로 참가자들이 자기기만에 빠질 때 스트레스 호르몬 증가, 심박수 상승 등 미묘한 생리적 스트레스 신호가 나타났습니다. 이는 완전한 거짓말과 완전한 진실 사이의 중간 영역인 '불확실성' 상태에서 신체가 여전히 스트레스를 경험한다는 것을 의미합니다. 이 연구의 의의는 자기기만이 심리적으로만 아니라 생리적으로도 영향을 미친다는 것을 증명했다는 점입니다. 다만 표본 크기가 제한적이고 특정 환경에서만 테스트되었다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigates physiological changes that occur when people engage in self-deception by exaggerating their performance. Researchers had participants complete a task, then encouraged them to overstate their performance without knowing their actual results. The findings revealed that during self-deception, participants exhibited subtle stress markers including elevated stress hormones and increased heart rate. This indicates that the body experiences stress in the gray area between complete honesty and outright lying—a state of uncertainty. The significance of this research lies in demonstrating that self-deception affects not only psychology but also physiology. However, the study's limitations include a small sample size and testing conducted only in specific laboratory conditions.\n\n##",
-      "keyPoints": [
-        "**자기기만의 생리적 증거** / Physiological Evidence of Self-Deception",
-        "**불확실성과 스트레스의 관계** / Relationship Between Uncertainty and Stress",
-        "**신체-심리 상호작용** / Mind-Body Interaction",
-        "**연구의 한계와 추후 방향** / Study Limitations and Future Directions"
-      ],
-      "url": "https://www.psypost.org/your-body-exhibits-subtle-physiological-changes-when-you-engage-in-self-deception/",
-      "featured": false
-    },
-    {
-      "id": "00f3d9031506",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
-      "titleKo": "LLM과 에이전트의 행동을 형성하는 감정: 메커니즘 연구",
-      "summary": "arXiv:2604.00005v1 Announce Type: new Abstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the behavior of large language models (LLMs) and agents. Existing emotion-aware studies mainly treat emotion as a surface-level style factor or a perception target, overlooking its mechanistic role in task processing. To address this limitation, we propose E-STEER, an interpretable emotion steering framework that enables direct representation-level intervention in LLMs and agents. It embeds emotion as",
-      "aiSummary": "This research investigates whether emotional signals can shape the behavior of large language models (LLMs) and AI agents, motivated by the significant role emotions play in human cognition and performance. While existing emotion-aware studies treat emotion superficially as a style factor or perception target, this work addresses a critical gap by examining emotion's mechanistic role in task processing. The researchers propose E-STEER, an interpretable emotion steering framework that enables direct intervention at the representation level in LLMs and agents, going beyond conventional prompt-based approaches. This framework allows researchers to observe how emotions fundamentally alter the internal computational processes of AI models. The study's significance lies in deepening our understanding of AI behavior mechanisms and potentially developing more adaptive and human-like AI systems. However, limitations include the need for longitudinal evaluation across diverse emotion types and intensities, as well as further validation of generalizability in real-world applications.\n\n##",
-      "aiSummaryKo": "본 연구는 인간의 감정이 인지와 성과에 미치는 영향에 착안하여, 대규모 언어모델(LLM)과 AI 에이전트의 행동을 감정 신호가 어떻게 형성할 수 있는지를 탐구하였다. 기존 감정 관련 연구들은 감정을 표면적인 스타일 요소나 인지 대상으로만 취급했으나, 본 연구는 감정이 과제 처리에 미치는 메커니즘적 역할을 규명하고자 했다. 연구팀은 'E-STEER'이라는 해석 가능한 감정 조종 프레임워크를 제안했으며, 이는 LLM과 에이전트의 표현 수준에서 직접적인 개입을 가능하게 한다. 이 방식은 기존의 프롬프트 기반 방법을 넘어 감정이 모델의 내부 계산 과정을 어떻게 변화시키는지를 보여준다. 본 연구는 AI 시스템의 행동 메커니즘을 이해하고 더욱 적응적이고 인간다운 AI를 개발하는 데 의의가 있다. 다만, 다양한 감정 유형과 강도에 따른 장기적 영향 평가가 필요하며, 실제 응용 환경에서의 일반화 가능성에 대한 추가 검증이 요구된다.\n\n##",
-      "aiSummaryEn": "This research investigates whether emotional signals can shape the behavior of large language models (LLMs) and AI agents, motivated by the significant role emotions play in human cognition and performance. While existing emotion-aware studies treat emotion superficially as a style factor or perception target, this work addresses a critical gap by examining emotion's mechanistic role in task processing. The researchers propose E-STEER, an interpretable emotion steering framework that enables direct intervention at the representation level in LLMs and agents, going beyond conventional prompt-based approaches. This framework allows researchers to observe how emotions fundamentally alter the internal computational processes of AI models. The study's significance lies in deepening our understanding of AI behavior mechanisms and potentially developing more adaptive and human-like AI systems. However, limitations include the need for longitudinal evaluation across diverse emotion types and intensities, as well as further validation of generalizability in real-world applications.\n\n##",
-      "keyPoints": [
-        "**감정의 메커니즘적 역할 규명** / Mechanistic understanding of emotion's role in AI processing beyond surface-level style factors",
-        "**E-STEER 프레임워크 제시** / Introduction of E-STEER framework enabling direct representation-level intervention in LLMs and agents",
-        "**내부 계산 과정 변화 관찰** / Demonstration of how emotions fundamentally alter the internal computational processes of AI models",
-        "**인간다운 AI 개발의 기초** / Foundation for developing more adaptive and human-like AI systems through emotion-aware mechanisms"
-      ],
-      "url": "https://arxiv.org/abs/2604.00005",
       "featured": false
     }
   ]
