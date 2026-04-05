@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-05T10:58:40.066177+00:00",
+  "updated": "2026-04-05T11:58:18.496927+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "1ecfbdfb56ef",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "방금 전 / Just now",
+      "title": "Scientists found a protein that drives brain aging — and how to stop it",
+      "titleKo": "과학자들이 뇌 노화를 촉진하는 단백질을 발견했다 — 그리고 이를 막는 방법을 찾았다",
+      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
+      "aiSummary": "Scientists have identified a key protein called FTL1 that drives brain aging by investigating its role in aging mice. The study demonstrated that elevated FTL1 levels in aged mice weakened synaptic connections between brain cells and caused memory decline. Remarkably, when researchers reduced FTL1 levels, the brain showed recovery by rebuilding lost connections and restoring memory performance. This discovery provides crucial insights into potential treatments for neurodegenerative diseases such as Alzheimer's disease. However, the research was conducted in animal models, so further clinical studies are needed to confirm whether similar effects occur in humans and to determine the safety and efficacy of FTL1-targeting interventions.\n\n##",
+      "aiSummaryKo": "뇌 노화의 원인을 규명하기 위한 연구에서 과학자들은 'FTL1'이라는 단백질을 발견했습니다. 이 연구는 노화 쥐를 대상으로 진행되었으며, 나이가 든 쥐들에서 FTL1 단백질의 수치가 높을수록 뇌세포 간의 연결이 약해지고 기억력이 저하되는 것을 확인했습니다. 놀랍게도 연구팀이 FTL1을 감소시키자 뇌가 손상된 연결을 재구성하고 기억력이 회복되는 현상이 관찰되었습니다. 이 발견은 알츠하이머병과 같은 신경퇴행성 질환의 치료법 개발에 중요한 단서를 제공할 수 있습니다. 다만 이 연구는 동물 모델에서 수행되었으므로, 인간에게 동일한 효과가 나타나는지 확인하기 위한 추가 임상 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Scientists have identified a key protein called FTL1 that drives brain aging by investigating its role in aging mice. The study demonstrated that elevated FTL1 levels in aged mice weakened synaptic connections between brain cells and caused memory decline. Remarkably, when researchers reduced FTL1 levels, the brain showed recovery by rebuilding lost connections and restoring memory performance. This discovery provides crucial insights into potential treatments for neurodegenerative diseases such as Alzheimer's disease. However, the research was conducted in animal models, so further clinical studies are needed to confirm whether similar effects occur in humans and to determine the safety and efficacy of FTL1-targeting interventions.\n\n##",
+      "keyPoints": [
+        "**FTL1 단백질 발견** / Discovery of FTL1 protein as a key driver of brain aging",
+        "**높은 FTL1 수치와 기억력 저하의 연관성** / Elevated FTL1 levels correlate with weakened neural connections and memory decline in aging mice",
+        "**회복 가능성 입증** / Reducing FTL1 enables brain to rebuild synaptic connections and restore memory performance",
+        "**치료 개발의 가능성과 한계** / Potential foundation for neurodegenerative disease treatment, but requires further clinical validation in humans"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
+      "featured": true
+    },
+    {
+      "id": "3d6c6b8f4640",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "A gene mutation may trap the brain in the wrong reality in schizophrenia patients",
+      "titleKo": "유전자 돌연변이가 조현병 환자의 뇌를 잘못된 현실에 갇히게 할 수 있다",
+      "summary": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their understanding of reality. The mutation disrupts a brain circuit involved in flexible decision-making, causing mice to stick with outdated choices even when conditions change. Researchers pinpointed the issue to a key thalamus–prefrontal cortex pathway. By reactivating this circuit, they were able to restore normal behavior—raising hope for future therapies.",
+      "aiSummary": "A newly identified gene mutation has been discovered that may explain why schizophrenia patients struggle to update their understanding of reality. Researchers conducted experiments on mice and found that this mutation disrupts a brain circuit responsible for flexible decision-making. Specifically, damage to the neural pathway between the thalamus and prefrontal cortex caused mice to persist with previous choices even when environmental conditions changed. When the research team reactivated this brain circuit, normal behavior was restored. This study offers hope for developing future therapies to alleviate schizophrenia symptoms. However, a limitation is that further research is needed to determine whether these animal experimental results can be equally applied to humans.\n\n##",
+      "aiSummaryKo": "정신분열증 환자들이 현실에 대한 이해를 업데이트하지 못하는 이유를 설명할 수 있는 새로운 유전자 돌연변이가 발견되었다. 연구팀은 쥐를 대상으로 실험을 진행했으며, 이 돌연변이가 유연한 의사결정에 관여하는 뇌 회로를 방해한다는 것을 밝혔다. 구체적으로 시상(thalamus)과 전전두엽 피질(prefrontal cortex) 사이의 신경 경로가 손상되어, 환경이 변해도 쥐들이 이전의 선택에 집착하는 현상이 나타났다. 연구팀이 이 뇌 회로를 재활성화시켰을 때 정상적인 행동이 회복되었다. 이 연구는 정신분열증 증상 완화를 위한 미래의 치료법 개발에 희망을 제시한다. 다만 동물 실험 결과가 인간에게도 동일하게 적용될지는 추가 연구가 필요하다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "A newly identified gene mutation has been discovered that may explain why schizophrenia patients struggle to update their understanding of reality. Researchers conducted experiments on mice and found that this mutation disrupts a brain circuit responsible for flexible decision-making. Specifically, damage to the neural pathway between the thalamus and prefrontal cortex caused mice to persist with previous choices even when environmental conditions changed. When the research team reactivated this brain circuit, normal behavior was restored. This study offers hope for developing future therapies to alleviate schizophrenia symptoms. However, a limitation is that further research is needed to determine whether these animal experimental results can be equally applied to humans.\n\n##",
+      "keyPoints": [
+        "**유전자 돌연변이의 역할** / Gene mutation's role: 특정 유전자 돌연변이가 정신분열증 환자의 현실 인식 업데이트 능력 저하의 생물학적 원인을 제시",
+        "**뇌 회로 손상 메커니즘** / Brain circuit damage mechanism: 시상-전전두엽 피질 경로의 손상이 의사결정 유연성을 감소시켜 과거 행동 패턴에 고착되도록 함",
+        "**치료 가능성** / Therapeutic potential: 손상된 뇌 회로를 재활성화하여 증상 개선이 가능함을 동물 실험으로 입증, 향후 신약 개발의 기초 제공",
+        "**임상 응용의 한계** / Clinical application limitations: 마우스 실험 결과가 인간 환자에게 직접 적용되기까지는 추가적인 임상 연구 및 검증 단계가 필수적임"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260402042740.htm",
+      "featured": false
+    },
     {
       "id": "77c4d7f043e7",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**개인 가치관과 문화적 영향** / Individual and cultural factors: 연구는 개인의 심리적 태도, 문화적 규범, 도덕적 신념 등 다양한 변수의 영향을 완전히 통제하지 못한 한계 존재 / Study limitations include inability to fully control for personal values, cultural norms, and moral beliefs affecting results."
       ],
       "url": "https://www.psypost.org/are-women-more-likely-to-regret-one-night-stands-only-when-they-sleep-with-men/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0a3fd970e18a",
@@ -373,48 +415,6 @@
         "**인간다운 AI 개발의 기초** / Foundation for developing more adaptive and human-like AI systems through emotion-aware mechanisms"
       ],
       "url": "https://arxiv.org/abs/2604.00005",
-      "featured": false
-    },
-    {
-      "id": "f32666474475",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
-      "titleKo": "하나의 패널로는 부족하다: 임상 예측을 위한 사례 적응형 다중 에이전트 숙의",
-      "summary": "arXiv:2604.00085v1 Announce Type: new Abstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produce divergent predictions under minor prompt changes. Existing single-agent strategies sample from one role-conditioned distribution, and multi-agent frameworks use fixed roles with flat majority voting, discarding the diagnostic signal in disagreement. We propose CAMP (Case-Adaptive Multi-agent Panel), where an attending-physician agent dynamically assembles a specialist panel tailored to each case",
-      "aiSummary": "Large language models applied to clinical diagnosis show inconsistent performance depending on case complexity: simple cases produce stable outputs, while complex cases yield divergent predictions from minor prompt variations. Existing approaches use single-agent strategies or apply fixed specialist panels uniformly to all cases, discarding valuable diagnostic information from expert disagreement. The proposed CAMP (Case-Adaptive Multi-agent Panel) system employs an attending-physician agent that dynamically assembles a specialist panel tailored to each individual case's characteristics. This approach integrates diverse expert perspectives for complex cases and leverages disagreement patterns as diagnostic signals, improving prediction accuracy. The research demonstrates superior performance over single-agent and fixed-panel baselines across multiple clinical datasets. However, limitations include unresolved issues with LLM hallucinations and healthcare data privacy concerns, requiring validation in actual clinical settings.\n\n##",
-      "aiSummaryKo": "대규모언어모델(LLM)을 임상 진단에 적용할 때 사례의 복잡도에 따라 예측 결과의 일관성이 달라지는 문제가 있습니다. 단순한 진단 사례는 안정적인 결과를 제공하지만, 복잡한 사례에서는 작은 프롬프트 변화에도 예측이 크게 달라집니다. 기존 방식들은 하나의 역할만 사용하거나 모든 사례에 동일한 전문가 패널을 고정적으로 적용하며, 전문가들의 불일치에 담긴 진단 정보를 버렸습니다. 본 연구에서 제안하는 CAMP(Case-Adaptive Multi-agent Panel) 시스템은 담당 의사 에이전트가 각 사례의 특성에 맞게 필요한 전문가들을 동적으로 선택하여 구성합니다. 이 방식은 복잡한 사례에서 다양한 관점의 전문가 의견을 통합하고, 전문가들의 의견 차이 자체를 진단 신호로 활용함으로써 예측 정확도를 향상시킵니다. 연구는 여러 임상 데이터셋에서 기존 단일 에이전트 방식과 고정 패널 방식을 초과하는 성능을 보였습니다. 다만, 이 시스템은 여전히 LLM의 근본적인 한계인 할루시네이션(거짓 정보 생성)과 의료 데이터의 프라이버시 문제를 해결하지 못하며, 실제 임상 환경에서의 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "Large language models applied to clinical diagnosis show inconsistent performance depending on case complexity: simple cases produce stable outputs, while complex cases yield divergent predictions from minor prompt variations. Existing approaches use single-agent strategies or apply fixed specialist panels uniformly to all cases, discarding valuable diagnostic information from expert disagreement. The proposed CAMP (Case-Adaptive Multi-agent Panel) system employs an attending-physician agent that dynamically assembles a specialist panel tailored to each individual case's characteristics. This approach integrates diverse expert perspectives for complex cases and leverages disagreement patterns as diagnostic signals, improving prediction accuracy. The research demonstrates superior performance over single-agent and fixed-panel baselines across multiple clinical datasets. However, limitations include unresolved issues with LLM hallucinations and healthcare data privacy concerns, requiring validation in actual clinical settings.\n\n##",
-      "keyPoints": [
-        "**사례 적응형 패널 구성** / Case-Adaptive Panel Assembly",
-        "**전문가 불일치의 활용** / Expert Disagreement as Diagnostic Signal",
-        "**복잡 사례 성능 향상** / Improved Complex Case Performance",
-        "**실용적 임상 활용 필요** / Need for Clinical Validation"
-      ],
-      "url": "https://arxiv.org/abs/2604.00085",
-      "featured": false
-    },
-    {
-      "id": "f8b45d73543c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
-      "titleKo": "개방적이고 신뢰할 수 있으며 협력적인: 도구 활용 AI 에이전트를 위한 커뮤니티 기반 프레임워크",
-      "summary": "arXiv:2604.00137v1 Announce Type: new Abstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that failures stem from both tool-use accuracy (how well an agent invokes a tool) and intrinsic tool accuracy (the tool's own correctness), while most prior work emphasizes the former. We introduce OpenTools, a community-driven toolbox that standardizes tool schemas, provides lightweight plug-and-play wrappers, and evaluates tools with automated test suites and continuous monitoring. We also release a publ",
-      "aiSummary": "Recent advances in large language models (LLMs) enable them to retrieve information, perform computations, and take real-world actions through external tools, yet reliability remains a critical bottleneck. While previous research focused primarily on tool-use accuracy—how well an agent invokes tools—this study emphasizes that intrinsic tool accuracy (the tool's own correctness) is equally important for system reliability. The researchers introduce OpenTools, a community-driven toolbox framework that standardizes tool schemas, provides lightweight plug-and-play wrappers, and implements automated test suites with continuous monitoring. This framework addresses both agent-side errors and tool-side failures, significantly improving overall system reliability. The open, collaborative model of OpenTools enables global developers to collectively enhance tool quality and maintain standards. However, the research may be limited by the lack of specific quantitative performance improvements and real-world deployment case studies.\n\n##",
-      "aiSummaryKo": "최근 대규모 언어모델(LLM)은 외부 도구를 활용하여 정보 검색, 계산, 실제 행동을 수행할 수 있게 되었지만, 신뢰성 문제가 주요 장애물로 지적되고 있습니다. 기존 연구들은 AI가 도구를 얼마나 잘 사용하는지에만 집중했으나, 본 연구는 도구 자체의 결함도 동일하게 중요함을 강조합니다. 연구팀은 OpenTools라는 커뮤니티 기반 도구 모음을 개발하여, 도구의 표준화된 형식, 간편한 연동 시스템, 자동화된 테스트와 지속적 모니터링을 제공합니다. 이 프레임워크는 도구 사용 오류를 줄이고 AI 에이전트의 신뢰성을 크게 향상시킬 수 있습니다. OpenTools의 공개 및 커뮤니티 기반 운영 모델은 전 세계 개발자들이 함께 도구의 질을 개선할 수 있는 기회를 제공합니다. 다만 연구에서는 구체적인 성능 개선 수치와 실제 배포 사례가 제한적일 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "Recent advances in large language models (LLMs) enable them to retrieve information, perform computations, and take real-world actions through external tools, yet reliability remains a critical bottleneck. While previous research focused primarily on tool-use accuracy—how well an agent invokes tools—this study emphasizes that intrinsic tool accuracy (the tool's own correctness) is equally important for system reliability. The researchers introduce OpenTools, a community-driven toolbox framework that standardizes tool schemas, provides lightweight plug-and-play wrappers, and implements automated test suites with continuous monitoring. This framework addresses both agent-side errors and tool-side failures, significantly improving overall system reliability. The open, collaborative model of OpenTools enables global developers to collectively enhance tool quality and maintain standards. However, the research may be limited by the lack of specific quantitative performance improvements and real-world deployment case studies.\n\n##",
-      "keyPoints": [
-        "**도구 신뢰성의 이중 문제** / Tool reliability has dual components: both how well agents use tools and the tools' intrinsic correctness must be addressed",
-        "**표준화와 자동화 체계** / OpenTools provides standardized schemas, plug-and-play integration, and automated testing to ensure consistent tool quality",
-        "**커뮤니티 기반 협력 모델** / Open community-driven approach enables collective maintenance and continuous improvement of tool reliability",
-        "**지속적 모니터링 체계** / Continuous monitoring infrastructure ensures ongoing tool performance verification and real-time issue detection"
-      ],
-      "url": "https://arxiv.org/abs/2604.00137",
       "featured": false
     }
   ]
