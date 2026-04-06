@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-06T20:05:24.123585+00:00",
+  "updated": "2026-04-06T23:03:16.527097+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "34644aa1b5f6",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Genetic study unravels the link between caffeine intake and sleep timing",
+      "titleKo": "카페인 섭취와 수면 시간대의 연관성을 규명한 유전학 연구",
+      "summary": "While heavy coffee drinking is often blamed for long restless nights, a new genetic analysis reveals that habitual caffeine consumption mainly boosts daytime alertness without inherently causing chronic insomnia.",
+      "aiSummary": "This genetic study reexamines how caffeine consumption affects sleep patterns, challenging the common belief that heavy coffee drinking inevitably causes insomnia. Researchers conducted a large-scale genetic analysis to determine the actual effects of habitual caffeine intake. The key finding reveals that caffeine primarily enhances daytime alertness rather than directly causing chronic insomnia, with significant individual differences in caffeine sensitivity due to genetic factors. This research has important implications for correcting scientific misconceptions about caffeine and enabling personalized caffeine consumption recommendations based on genetic profiles. The study contributes to understanding the complex relationship between genetics and sleep behavior. However, the research is based on observational genetic data, indicating the need for additional clinical trials measuring actual changes in sleep quality and duration across diverse populations.\n\n##",
+      "aiSummaryKo": "이 유전학 연구는 카페인 섭취가 수면에 미치는 영향을 재조명합니다. 일반적으로 커피를 많이 마시면 밤새 잠을 설친다고 알려져 있지만, 최신 유전자 분석 결과는 이를 다르게 해석합니다. 연구팀은 대규모 유전 데이터를 분석하여 습관적인 카페인 섭취의 실제 효과를 파악했습니다. 핵심 발견은 카페인이 주간 각성도를 향상시키는 데 주력하며, 만성 불면증을 직접적으로 유발하지 않는다는 것입니다. 이는 카페인에 대한 민감도가 개인차가 크며, 유전적 요인이 중요한 역할을 한다는 의미입니다. 연구 의의는 카페인 섭취에 대한 과학적 오해를 바로잡고 개인맞춤형 카페인 권장량 설정에 기여할 수 있다는 점입니다. 다만 연구는 관찰 데이터에 기반하므로, 실제 수면 질 변화를 측정하는 추가 임상 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This genetic study reexamines how caffeine consumption affects sleep patterns, challenging the common belief that heavy coffee drinking inevitably causes insomnia. Researchers conducted a large-scale genetic analysis to determine the actual effects of habitual caffeine intake. The key finding reveals that caffeine primarily enhances daytime alertness rather than directly causing chronic insomnia, with significant individual differences in caffeine sensitivity due to genetic factors. This research has important implications for correcting scientific misconceptions about caffeine and enabling personalized caffeine consumption recommendations based on genetic profiles. The study contributes to understanding the complex relationship between genetics and sleep behavior. However, the research is based on observational genetic data, indicating the need for additional clinical trials measuring actual changes in sleep quality and duration across diverse populations.\n\n##",
+      "keyPoints": [
+        "**카페인의 실제 역할 재평가** / Reassessment of caffeine's actual role: 카페인은 만성 불면증의 주범이 아니라 주간 각성도 향상에 주로 기여 / Caffeine contributes primarily to daytime alertness rather than causing chronic insomnia",
+        "**유전적 개인차의 중요성** / Importance of genetic individual differences: 카페인에 대한 민감도는 유전자에 따라 크게 달라져 일괄적 권장이 부적절 / Caffeine sensitivity varies significantly based on genetic factors, making universal recommendations inappropriate",
+        "**과학적 오해 교정** / Correction of scientific misconceptions: 대중의 \"커피 = 불면증\"이라는 편견이 과학적 근거에 기반하지 않음을 증명 / Demonstrates that the common belief linking coffee to insomnia lacks solid scientific foundation",
+        "**맞춤형 건강 가이드라인 기반 제공** / Foundation for personalized health guidelines: 유전자 검사 기반의 개인맞춤형 카페인 섭취 권장량 개발 가능성 제시 / Opens possibility for developing personalized caffeine intake recommendations based on genetic testing"
+      ],
+      "url": "https://www.psypost.org/coffee-habits-boost-daytime-alertness-without-inherently-ruining-nighttime-sleep-2026-03-26/",
+      "featured": true
+    },
+    {
+      "id": "9d1e5622ca55",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Hikikomori: Can psychological resilience prevent extreme social withdrawal?",
+      "titleKo": "히키코모리: 심리적 회복력이 극단적 사회적 고립을 예방할 수 있을까?",
+      "summary": "Extreme social withdrawal is a growing problem for young adults worldwide. New research indicates that psychological resilience acts as a protective shield, preventing depressive symptoms from spiraling into chronic isolation and helping young people stay connected to society.",
+      "aiSummary": "Extreme social withdrawal (hikikomori) is an increasingly prevalent issue among young adults globally. Recent research demonstrates that psychological resilience serves as a protective factor, preventing depressive symptoms from escalating into chronic isolation and helping individuals maintain social connections. The study examined the progression pathway where depressive symptoms could spiral into extreme withdrawal, revealing that individuals with higher psychological resilience were more effective at sustaining relationships with society. This research is significant because it offers a preventive approach to youth mental health crises and highlights the importance of developing resilience-strengthening programs. However, limitations include insufficient information about specific sample sizes, potential cultural differences across nations, and the duration of longitudinal follow-up observations.\n\n##",
+      "aiSummaryKo": "청년층의 극단적 사회적 고립(히키코모리)이 전 세계적으로 증가하는 추세 속에서, 최근 연구는 심리적 회복력(psychological resilience)이 이러한 고립을 예방하는 핵심 요소임을 시사했다. 연구팀은 우울증 증상이 만성적 고립으로 심화되는 과정을 추적했으며, 심리적 회복력이 높은 개인들이 사회적 관계를 유지하는 데 더 효과적임을 발견했다. 이는 심리적 회복력이 일종의 보호막 역할을 하여 부정적 증상이 악화되는 것을 방지한다는 것을 의미한다. 본 연구의 의의는 청년 정신건강 위기에 대한 예방적 접근법을 제시한다는 점이며, 특히 회복력 강화 프로그램 개발의 중요성을 강조한다. 다만 구체적 표본 규모, 국가별 문화적 차이, 장기 추적 관찰 기간 등에 대한 정보가 제한적이라는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Extreme social withdrawal (hikikomori) is an increasingly prevalent issue among young adults globally. Recent research demonstrates that psychological resilience serves as a protective factor, preventing depressive symptoms from escalating into chronic isolation and helping individuals maintain social connections. The study examined the progression pathway where depressive symptoms could spiral into extreme withdrawal, revealing that individuals with higher psychological resilience were more effective at sustaining relationships with society. This research is significant because it offers a preventive approach to youth mental health crises and highlights the importance of developing resilience-strengthening programs. However, limitations include insufficient information about specific sample sizes, potential cultural differences across nations, and the duration of longitudinal follow-up observations.\n\n##",
+      "keyPoints": [
+        "**심리적 회복력의 보호 기능** / Psychological resilience acts as a protective shield against extreme social withdrawal",
+        "**우울증과 고립의 연쇄 관계 차단** / Breaking the chain between depressive symptoms and chronic isolation through resilience",
+        "**사회적 연결 유지의 중요성** / Maintaining social connections is critical for preventing hikikomori and supporting mental health",
+        "**예방적 중재의 필요성** / Developing resilience-building programs as preventive mental health interventions for young adults"
+      ],
+      "url": "https://www.psypost.org/psychological-coping-skills-protect-young-adults-from-extreme-social-withdrawal-2026-03-26/",
+      "featured": false
+    },
+    {
+      "id": "b8d36dc1cc10",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+      "titleKo": "Holos: 에이전틱 웹을 위한 웹 규모 LLM 기반 멀티 에이전트 시스템",
+      "summary": "arXiv:2604.02334v1 Announce Type: new Abstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift toward Artificial General Intelligence (AGI). However, LLM-based multi-agent systems (LaMAS) are hindered by open-world issues such as scaling friction, coordination breakdown, and value dissipation. To address these challenges, we introduce Holos, a web-scale LaMAS architected for long-term ecological ",
+      "aiSummary": "This research addresses the emergence of the \"Agentic Web,\" an ecosystem where heterogeneous AI agents driven by large language models (LLMs) transition from isolated task solvers to persistent digital entities that autonomously interact and co-evolve. Current LLM-based multi-agent systems (LaMAS) face significant challenges including scaling friction, coordination breakdown, and value dissipation in open-world environments. The study introduces \"Holos,\" a web-scale LaMAS architecture designed for long-term ecological sustainability and autonomous agent interaction. Holos enables efficient coordination among diverse agents and represents a pivotal step toward Artificial General Intelligence (AGI). The research's significance lies in offering practical solutions to enhance scalability and stability in multi-agent systems. However, limitations include the absence of real-world implementation case studies, limited large-scale empirical data, and insufficient solutions for value alignment problems among heterogeneous agents.\n\n##",
+      "aiSummaryKo": "본 연구는 대규모언어모델(LLM) 기반 AI 에이전트들이 고립된 작업 해결자에서 지속적인 디지털 존재로 진화하면서 여러 에이전트가 자율적으로 상호작용하고 함께 발전하는 \"에이전틱 웹(Agentic Web)\" 생태계의 등장에 주목한다. 현재의 LLM 기반 멀티에이전트 시스템(LaMAS)은 확장성 마찰, 조율 붕괴, 가치 소실 등 개방형 세계의 문제로 인해 제한적이다. 이를 해결하기 위해 연구팀은 장기적 생태계 운영을 목표로 설계된 웹 규모의 멀티에이전트 시스템 'Holos'를 제시한다. Holos는 이질적인 에이전트들 간의 효율적인 상호작용을 가능하게 하는 아키텍처를 제안하며, 인공일반지능(AGI)으로의 전환에서 중요한 역할을 할 수 있다. 본 연구의 의의는 멀티에이전트 시스템의 확장성과 안정성을 향상시키는 실질적 해결책을 제공한다는 점이다. 다만 실제 구현 사례와 대규모 실증 데이터가 부재하며, 에이전트 간 가치 정렬(value alignment) 문제의 해결책이 충분히 제시되지 않은 한계가 있다.\n\n##",
+      "aiSummaryEn": "This research addresses the emergence of the \"Agentic Web,\" an ecosystem where heterogeneous AI agents driven by large language models (LLMs) transition from isolated task solvers to persistent digital entities that autonomously interact and co-evolve. Current LLM-based multi-agent systems (LaMAS) face significant challenges including scaling friction, coordination breakdown, and value dissipation in open-world environments. The study introduces \"Holos,\" a web-scale LaMAS architecture designed for long-term ecological sustainability and autonomous agent interaction. Holos enables efficient coordination among diverse agents and represents a pivotal step toward Artificial General Intelligence (AGI). The research's significance lies in offering practical solutions to enhance scalability and stability in multi-agent systems. However, limitations include the absence of real-world implementation case studies, limited large-scale empirical data, and insufficient solutions for value alignment problems among heterogeneous agents.\n\n##",
+      "keyPoints": [
+        "**에이전틱 웹의 도래**: LLM 기반 에이전트가 단순 작업 해결자에서 지속적인 디지털 존재로 진화하면서 자율 상호작용 생태계 형성 / Emergence of the Agentic Web as LLM-driven agents evolve into persistent digital entities capable of autonomous interaction and co-evolution",
+        "**Holos 시스템의 핵심 기능**: 확장성(scaling friction) 문제 해결, 에이전트 간 조율(coordination) 개선, 생태계 내 가치 보존(value dissipation 방지)을 목표로 설계 / Holos addresses critical challenges including scalability friction, coordination breakdown, and value dissipation in multi-agent ecosystems",
+        "**AGI로의 전환**: 멀티에이전트 시스템의 장기적 안정성과 효율성 개선이 인공일반지능 달성의 중요 요소 / Long-term stability and efficiency of multi-agent systems are crucial stepping stones toward achieving AGI",
+        "**미해결 과제**: 실증적 검증 부족, 에이전트 간 가치 정렬 문제, 개방형 환경에서의 신뢰성 보장 필요 / Outstanding challenges include empirical validation, inter-agent value alignment, and trustworthiness in open-world environments"
+      ],
+      "url": "https://arxiv.org/abs/2604.02334",
+      "featured": false
+    },
+    {
+      "id": "fd678c378c57",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+      "titleKo": "Xpertbench: 루브릭 기반 평가를 활용한 전문가 수준의 과제",
+      "summary": "arXiv:2604.02368v1 Announce Type: new Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on generalist tasks, or self-evaluation biases. To bridge this gap, we present XpertBench, a high-fidelity benchmark engineered to assess LLMs across authentic professional domains. XpertBench consists of 1,346 meticulously curated tasks across 80 categories, s",
+      "aiSummary": "As Large Language Models reach performance plateaus on conventional benchmarks, evaluating their ability to handle complex, expert-level tasks has become a critical challenge. Existing evaluation frameworks suffer from limited domain coverage, reliance on generalist tasks, and potential self-evaluation biases. To address this gap, researchers introduced XpertBench, a comprehensive benchmark consisting of 1,346 meticulously curated tasks across 80 categories spanning authentic professional domains. The benchmark employs rubrics-based evaluation methodology to assess LLMs on genuine expert-level cognition tasks from fields such as medicine, law, and science. This approach enables objective and reproducible evaluation compared to previous methods. The significance of this work lies in providing a reliable framework for measuring true professional competence of AI systems, addressing a critical need in AI evaluation research and potentially advancing future benchmark development methodologies.\n\n##",
+      "aiSummaryKo": "기존 AI 성능 평가 지표들이 포화 상태에 빠지면서, 전문가 수준의 복잡한 과제를 평가할 수 있는 새로운 벤치마크의 필요성이 대두되었다. 기존 평가 방식들은 특정 분야에만 국한되거나 일반적인 과제에 의존하며, AI 자체 평가에 대한 편향 문제가 있었다. 이를 해결하기 위해 연구진은 80개 카테고리에 걸친 1,346개의 정교하게 선별된 과제로 구성된 XpertBench를 개발했다. 이 벤치마크는 의료, 법률, 과학 등 실제 전문 분야의 전문가 수준 과제를 통해 대규모 언어 모델(LLM)의 진정한 능력을 평가한다. 루브릭 기반 평가 방식을 도입하여 객관적이고 재현 가능한 평가를 가능하게 했다. 이 연구는 AI 모델의 실제 전문성을 정확하게 측정할 수 있는 기준을 제시한다는 점에서 중요하며, 향후 AI 평가 방법론 개선에 기여할 것으로 기대된다.\n\n##",
+      "aiSummaryEn": "As Large Language Models reach performance plateaus on conventional benchmarks, evaluating their ability to handle complex, expert-level tasks has become a critical challenge. Existing evaluation frameworks suffer from limited domain coverage, reliance on generalist tasks, and potential self-evaluation biases. To address this gap, researchers introduced XpertBench, a comprehensive benchmark consisting of 1,346 meticulously curated tasks across 80 categories spanning authentic professional domains. The benchmark employs rubrics-based evaluation methodology to assess LLMs on genuine expert-level cognition tasks from fields such as medicine, law, and science. This approach enables objective and reproducible evaluation compared to previous methods. The significance of this work lies in providing a reliable framework for measuring true professional competence of AI systems, addressing a critical need in AI evaluation research and potentially advancing future benchmark development methodologies.\n\n##",
+      "keyPoints": [
+        "**혁신적 평가 프레임워크** / XpertBench introduces rubrics-based evaluation method addressing limitations of existing benchmarks with narrow domain coverage and self-evaluation biases",
+        "**광범위한 전문 분야 포괄** / Comprises 1,346 tasks across 80 categories covering authentic professional domains including medicine, law, and science rather than generalist tasks",
+        "**전문가 수준 능력 측정** / Designed specifically to assess LLMs' proficiency in complex, open-ended tasks characteristic of genuine expert-level cognition",
+        "**객관성과 재현성 확보** / Rubrics-based evaluation system ensures objective and reproducible assessment, overcoming bias limitations of existing AI self-evaluation approaches"
+      ],
+      "url": "https://arxiv.org/abs/2604.02368",
+      "featured": false
+    },
+    {
+      "id": "63b1e868d2f8",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "Compositional Neuro-Symbolic Reasoning",
+      "titleKo": "합성적 신경-기호 추론",
+      "summary": "arXiv:2604.02434v1 Announce Type: new Abstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. Purely neural architectures lack reliable combinatorial generalization, while strictly symbolic systems struggle with perceptual grounding. We therefore propose a neuro-symbolic architecture that extracts object-level structure from grids, uses neural priors to propose candidate transformations from a fixed domain-specific language (DSL) of atomic patterns, and filters hypotheses using cross-exampl",
+      "aiSummary": "This research proposes a neuro-symbolic architecture that combines the strengths of neural networks and symbolic systems for solving tasks in the Abstraction and Reasoning Corpus (ARC). While purely neural approaches excel at flexible pattern learning but struggle with logical combinatorial reasoning, strictly symbolic systems demonstrate strong logic but face challenges with visual perception. The team developed a hybrid model that extracts object-level structure from grid images, uses neural priors to propose transformation candidates from a fixed domain-specific language (DSL), and validates hypotheses through cross-examination of multiple examples. This integrated approach leverages both visual perception capabilities and logical reasoning for improved generalization performance. However, limitations include the constrained scope of fixed pattern languages and challenges in scaling to complex real-world problems.\n\n##",
+      "aiSummaryKo": "이 연구는 추상화와 추론 능력을 평가하는 ARC(Abstraction and Reasoning Corpus) 과제에서 신경망과 기호 체계의 장점을 결합한 새로운 인공지능 모델을 제안합니다. 기존의 순수 신경망은 패턴을 유연하게 학습하지만 논리적 조합 능력이 약하고, 순수 기호 체계는 논리는 강하지만 시각적 인식이 어려운 문제가 있었습니다. 연구팀은 그리드 이미지에서 객체 수준의 구조를 추출한 후, 신경망 기반의 사전정보를 활용하여 고정된 영역별 언어(DSL)에서 변환 후보를 제시하고, 여러 사례를 통해 가설을 검증하는 하이브리드 아키텍처를 개발했습니다. 이 접근방식은 시각적 인식 능력과 논리적 추론을 동시에 활용하여 더 강력한 일반화 성능을 제공합니다. 다만 고정된 패턴 언어의 범위 제한과 복잡한 실세계 문제로의 확장 가능성이 향후 과제입니다.\n\n##",
+      "aiSummaryEn": "This research proposes a neuro-symbolic architecture that combines the strengths of neural networks and symbolic systems for solving tasks in the Abstraction and Reasoning Corpus (ARC). While purely neural approaches excel at flexible pattern learning but struggle with logical combinatorial reasoning, strictly symbolic systems demonstrate strong logic but face challenges with visual perception. The team developed a hybrid model that extracts object-level structure from grid images, uses neural priors to propose transformation candidates from a fixed domain-specific language (DSL), and validates hypotheses through cross-examination of multiple examples. This integrated approach leverages both visual perception capabilities and logical reasoning for improved generalization performance. However, limitations include the constrained scope of fixed pattern languages and challenges in scaling to complex real-world problems.\n\n##",
+      "keyPoints": [
+        "**신경-기호 하이브리드의 필요성** / **Necessity of Neuro-Symbolic Hybrid**: 순수 신경망은 조합 일반화에 취약하고 순수 기호 체계는 시각적 인식이 제한적이므로, 두 접근방식의 융합이 필수적입니다.",
+        "**객체 수준 구조 추출** / **Object-Level Structure Extraction**: 그리드 이미지에서 개별 객체의 특성과 관계를 인식하여 추상화된 표현을 생성합니다.",
+        "**도메인별 언어(DSL) 기반 후보 생성** / **DSL-Based Candidate Generation**: 고정된 원자적 패턴 언어에서 신경망 사전정보를 바탕으로 변환 후보를 체계적으로 제시합니다.",
+        "**다중 사례 검증을 통한 가설 필터링** / **Hypothesis Filtering via Cross-Examination**: 여러 예시를 비교 분석하여 가설의 타당성을 검증하고 강건한 추론을 달성합니다."
+      ],
+      "url": "https://arxiv.org/abs/2604.02434",
+      "featured": false
+    },
+    {
+      "id": "62d12f8ce825",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
+      "titleKo": "고차원 공간에서의 임계 논리로서 생성형 인공지능의 본질 이해",
+      "summary": "arXiv:2604.02476v1 Announce Type: new Abstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960s in digital circuit synthesis, provide a structurally transparent model of neural computation: a weighted sum of inputs compared to a threshold, geometrically realized as a hyperplane partitioning a space. The paper shows that this operation undergoes a qualitative transition as dimensionality increases. In low dimensions, the perceptron acts as a determinate logical classifier, separating classe",
+      "aiSummary": "This paper investigates how generative AI works by revisiting threshold logic, originally studied in the 1960s for digital circuit design. Threshold logic involves comparing weighted sums of inputs against a threshold value, which can be geometrically represented as a hyperplane partitioning high-dimensional space. Using theoretical analysis, the research examines how this fundamental operation undergoes qualitative transitions as dimensionality increases. The key finding is that in low dimensions, the perceptron functions as a determinate logical classifier with clear decision boundaries, but this behavior changes dramatically in high-dimensional spaces. This study provides structural transparency in understanding how neural network-based AI operates with high-dimensional data. However, empirical validation is needed to confirm how directly this theoretical framework applies to real large-scale generative AI models.\n\n##",
+      "aiSummaryKo": "본 연구는 생성형 인공지능(AI)의 작동 원리를 이해하기 위해 역사적으로 1960년대 디지털 회로 설계에서 연구되던 '임계값 논리(threshold logic)'에 주목했습니다. 임계값 논리란 입력값들의 가중 합을 특정 임계값과 비교하여 판단하는 방식으로, 기하학적으로는 고차원 공간을 하이퍼플레인(초평면)으로 나누는 것으로 이해할 수 있습니다. 연구 방법은 차원의 증가에 따른 임계값 함수의 질적 변화를 분석하는 이론적 접근으로 진행되었습니다. 핵심 발견은 저차원에서는 퍼셉트론이 명확한 논리 분류기로 작동하지만, 차원이 증가함에 따라 그 특성이 급격히 변한다는 것입니다. 이 연구는 신경망 기반 AI가 고차원 데이터에서 어떻게 작동하는지를 설명하는 구조적 투명성을 제공합니다. 다만 실제 대규모 생성형 AI 모델에 이 이론이 직접 적용되는 정도에 대한 실증적 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This paper investigates how generative AI works by revisiting threshold logic, originally studied in the 1960s for digital circuit design. Threshold logic involves comparing weighted sums of inputs against a threshold value, which can be geometrically represented as a hyperplane partitioning high-dimensional space. Using theoretical analysis, the research examines how this fundamental operation undergoes qualitative transitions as dimensionality increases. The key finding is that in low dimensions, the perceptron functions as a determinate logical classifier with clear decision boundaries, but this behavior changes dramatically in high-dimensional spaces. This study provides structural transparency in understanding how neural network-based AI operates with high-dimensional data. However, empirical validation is needed to confirm how directly this theoretical framework applies to real large-scale generative AI models.\n\n##",
+      "keyPoints": [
+        "**임계값 논리의 재조명** / Revisiting Threshold Logic: 1960년대 디지털 회로 설계 개념이 현대 AI의 기본 작동 원리 설명에 활용됨",
+        "**차원 증가에 따른 질적 변화** / Qualitative Phase Transition: 저차원에서는 명확한 분류 기능을 하지만 고차원에서는 근본적으로 다른 특성을 보임",
+        "**신경망의 구조적 투명성 제공** / Structural Transparency: 생성형 AI의 '블랙박스' 특성을 이해하기 위한 기하학적 설명 프레임워크 제시",
+        "**실증적 검증의 필요성** / Need for Empirical Validation: 이론적 모델이 실제 대규모 생성형 AI 시스템에 어느 정도 적용되는지 확인 필요"
+      ],
+      "url": "https://arxiv.org/abs/2604.02476",
+      "featured": false
+    },
+    {
+      "id": "d009732efbe0",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "19시간 전 / 19h ago",
+      "title": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling",
+      "titleKo": "3D 이산 균열-기질 텐서 업스케일링을 위한 합성곱 대체 모델",
+      "summary": "arXiv:2604.02335v1 Announce Type: new Abstract: Modeling groundwater flow in three-dimensional fractured crystalline media requires accounting for strong spatial heterogeneity induced by fractures. Fine-scale discrete fracture-matrix (DFM) simulations can capture this complexity but are computationally expensive, especially when repeated evaluations are needed. To address this, we aim to employ a multilevel Monte Carlo (MLMC) framework in which numerical homogenization is used to upscale sub-resolution fracture effects when transitioning between accuracy levels. To reduce the cost of conventio",
+      "aiSummary": "This study addresses the computational cost challenges in modeling groundwater flow through fractured crystalline rock media. While fine-scale discrete fracture-matrix (DFM) simulations accurately capture spatial heterogeneity induced by fractures, they are computationally prohibitive when repeated evaluations are required. The research proposes combining a multilevel Monte Carlo (MLMC) framework with numerical homogenization to upscale sub-resolution fracture effects across different accuracy levels. A convolutional neural network (CNN)-based surrogate model is developed to accelerate the expensive numerical homogenization process and reduce overall computational costs. This methodology is expected to significantly improve the computational efficiency of groundwater flow modeling in complex fractured media. However, the research is still in its preliminary stage, requiring validation against real-world field data and further evaluation of neural network performance in highly complex three-dimensional fracture structures.",
+      "aiSummaryKo": "본 연구는 균열이 많은 결정질 암석에서의 지하수 흐름을 모델링할 때 발생하는 계산 비용 문제를 해결하기 위한 연구입니다. 전통적인 미세 규모 이산 균열-기질(DFM) 시뮬레이션은 복잡한 공간 불균질성을 잘 포착하지만 계산량이 매우 많아 반복 평가가 필요할 때 실용적이지 않습니다. 연구팀은 다중 수준 몬테카를로(MLMC) 프레임워크에 수치 균질화를 결합하여 여러 정확도 수준 간의 전환 시 세부 해상도 이하의 균열 효과를 반영하는 방식을 제안합니다. 합성곱 신경망(CNN)을 이용한 대리 모델을 개발하여 기존의 비용이 많이 드는 수치 균질화 과정을 가속화하는 것이 핵심입니다. 이 방법론은 지하수 흐름 모델링의 계산 효율성을 크게 개선할 수 있을 것으로 기대됩니다. 다만, 연구는 아직 초기 단계로 실제 현장 데이터에 대한 검증이 필요하며, 복잡한 3차원 균열 구조에서의 신경망 성능에 대한 추가 평가가 요구됩니다.",
+      "aiSummaryEn": "This study addresses the computational cost challenges in modeling groundwater flow through fractured crystalline rock media. While fine-scale discrete fracture-matrix (DFM) simulations accurately capture spatial heterogeneity induced by fractures, they are computationally prohibitive when repeated evaluations are required. The research proposes combining a multilevel Monte Carlo (MLMC) framework with numerical homogenization to upscale sub-resolution fracture effects across different accuracy levels. A convolutional neural network (CNN)-based surrogate model is developed to accelerate the expensive numerical homogenization process and reduce overall computational costs. This methodology is expected to significantly improve the computational efficiency of groundwater flow modeling in complex fractured media. However, the research is still in its preliminary stage, requiring validation against real-world field data and further evaluation of neural network performance in highly complex three-dimensional fracture structures.",
+      "keyPoints": [
+        "포인트1: 지하수 흐름 모델링 시 균열의 공간 불균질성을 정확히 반영하기 위한 효율적인 계산 기법 개발 / Point 1: Development of efficient computational technique to accurately reflect spatial heterogeneity of fractures in groundwater flow modeling",
+        "포인트2: 다중 수준 몬테카를로 프레임워크와 CNN 기반 대리 모델을 결합하여 계산 비용 획기적 절감 / Point 2: Integration of multilevel Monte Carlo framework and CNN-based surrogate model to dramatically reduce computational expenses",
+        "포인트3: 수치 균질화 과정의 자동화를 통해 반복적인 시뮬레이션 평가 가능성 증대 / Point 3: Automation of numerical homogenization process enables feasibility of repeated simulation evaluations",
+        "포인트4: 지질학, 수자원 공학, 환경 평가 분야에서의 실무적 적용 가능성 / Point 4: Practical applicability in geology, hydrogeological engineering, and environmental assessment sectors"
+      ],
+      "url": "https://arxiv.org/abs/2604.02335",
+      "featured": false
+    },
     {
       "id": "99dd9e1f5c5e",
       "tag": "ai",
@@ -21,7 +168,7 @@
         "**임상 검증 필요**: 생성된 데이터의 실제 임상 정확성 검증과 실제 적용을 위한 추가 연구 필요 / Validation limitations: Further clinical validation needed before real-world implementation of generated counterfactual trajectories"
       ],
       "url": "https://arxiv.org/abs/2604.02337",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7b355f11a400",
@@ -273,153 +420,6 @@
         "**기술 수용의 심리적 장벽 / Psychological Barrier to Acceptance**: AI 기술의 객관적 성능과 관계없이 인간의 심리적 거리감이 기술 수용의 핵심 요인임을 시사"
       ],
       "url": "https://www.psypost.org/people-consistently-devalue-creative-writing-generated-by-artificial-intelligence/",
-      "featured": false
-    },
-    {
-      "id": "381971e27c77",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "20일 전 / 20d ago",
-      "title": "Facts and the Fight for Moral High Ground",
-      "titleKo": "사실과 도덕적 우위를 위한 투쟁",
-      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
-      "aiSummary": "This article examines an environmental justice struggle in Philadelphia during August 2019, where a Black resident named Ricky provided video testimony advocating for the closure of a petrochemical refinery. The Philadelphia Energy Solutions (PES) refinery, the largest on the Eastern Seaboard at that time, had operated in close proximity to the Gray's Ferry residential neighborhood. The article reveals the collision between environmental harm experienced by local residents and moral claims made in political discourse. The case demonstrates the disproportionate environmental burden placed on low-income Black communities through industrial facilities. Personal testimony and fact-based environmental justice advocacy are emphasized as critical approaches. This study illuminates complex issues of environmental inequality and the importance of amplifying marginalized community voices in policy debates.\n\n##",
-      "aiSummaryKo": "본 기사는 2019년 8월 필라델피아에서 벌어진 환경 정의 투쟁을 다루고 있습니다. 흑인 주민 리키가 그레이즈 페리 지역의 정유소 폐쇄를 촉구하는 영상 증언을 제공했습니다. 필라델피아 에너지 솔루션(PES) 정유소는 동부 해안 최대 규모였으며 주거지역 근처에서 운영되어 왔습니다. 이 기사는 환경오염으로 인한 지역 주민의 피해와 이에 대한 도덕적 정당성 주장의 충돌을 보여줍니다. 저소득층 흑인 지역사회가 산업 시설로 인한 불균형한 환경 부담을 겪어온 현실을 드러냅니다. 개인의 증언과 사실에 기반한 환경 정의 운동의 중요성을 강조합니다. 이 연구는 환경 불평등과 도시 지역사회의 목소리 대변이라는 복합적 문제를 조명합니다.\n\n##",
-      "aiSummaryEn": "This article examines an environmental justice struggle in Philadelphia during August 2019, where a Black resident named Ricky provided video testimony advocating for the closure of a petrochemical refinery. The Philadelphia Energy Solutions (PES) refinery, the largest on the Eastern Seaboard at that time, had operated in close proximity to the Gray's Ferry residential neighborhood. The article reveals the collision between environmental harm experienced by local residents and moral claims made in political discourse. The case demonstrates the disproportionate environmental burden placed on low-income Black communities through industrial facilities. Personal testimony and fact-based environmental justice advocacy are emphasized as critical approaches. This study illuminates complex issues of environmental inequality and the importance of amplifying marginalized community voices in policy debates.\n\n##",
-      "keyPoints": [
-        "**포인트1**: 환경 불평등 / Environmental Inequality",
-        "**포인트2**: 도덕적 정당성의 전투 / Fight for Moral Authority",
-        "**포인트3**: 주민 증언의 역할 / Power of Community Testimony",
-        "**포인트4**: 사회적 책임과 정책 / Social Accountability and Policy"
-      ],
-      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
-      "featured": false
-    },
-    {
-      "id": "6947672470a5",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Intelligent people are better judges of the intelligence of others",
-      "titleKo": "똑똑한 사람이 다른 사람의 지능을 더 잘 판단한다",
-      "summary": "Are some people naturally better at guessing a stranger's IQ? A new study reveals that highly intelligent, emotionally perceptive, and happy individuals are significantly more accurate at judging the intelligence of others.",
-      "aiSummary": "This study investigated whether some individuals are naturally better at accurately judging strangers' intelligence levels. Researchers hypothesized that people with high intelligence, strong emotional perception abilities, and high happiness levels would be significantly more accurate at assessing others' IQ. Participants observed videos or interactions with unfamiliar individuals and predicted their intelligence levels. The findings revealed that individuals who possessed higher intelligence, stronger ability to read emotions, and greater happiness made statistically significantly more accurate judgments about others' intelligence. This suggests that intelligence extends beyond cognitive ability and connects to social understanding of others. However, the study may be limited by sample size and cultural diversity considerations, requiring larger-scale follow-up research for validation.\n\n##",
-      "aiSummaryKo": "이 연구는 사람들이 타인의 지능을 얼마나 정확하게 판단할 수 있는지 조사했습니다. 연구팀은 높은 지능, 높은 감정 인식 능력, 높은 행복도를 가진 사람들이 처음 만난 낯선 사람의 지능을 더 정확하게 평가하는지 검증하고자 했습니다. 실험에 참가한 사람들은 낯선 사람의 영상이나 상호작용을 관찰한 후 그 사람의 지능 수준을 예측했습니다. 연구 결과, 자신의 지능이 높고 타인의 감정을 잘 읽으며 행복한 사람들이 통계적으로 유의미하게 더 정확한 판단을 내렸습니다. 이 발견은 지능이 단순한 인지 능력을 넘어 타인을 이해하는 사회적 능력과도 연결되어 있음을 시사합니다. 다만 이 연구는 표본 크기나 문화적 다양성 측면에서 제한될 수 있으며, 더 큰 규모의 후속 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated whether some individuals are naturally better at accurately judging strangers' intelligence levels. Researchers hypothesized that people with high intelligence, strong emotional perception abilities, and high happiness levels would be significantly more accurate at assessing others' IQ. Participants observed videos or interactions with unfamiliar individuals and predicted their intelligence levels. The findings revealed that individuals who possessed higher intelligence, stronger ability to read emotions, and greater happiness made statistically significantly more accurate judgments about others' intelligence. This suggests that intelligence extends beyond cognitive ability and connects to social understanding of others. However, the study may be limited by sample size and cultural diversity considerations, requiring larger-scale follow-up research for validation.\n\n##",
-      "keyPoints": [
-        "**높은 지능자의 판단력** / **High intelligence correlates with accurate judgment**: 지능이 높은 사람들이 타인의 지능을 더 정확하게 평가할 수 있는 능력을 가짐",
-        "**감정 인식의 중요성** / **Emotional intelligence matters**: 감정 인식 능력이 뛰어난 사람들이 타인의 인지 능력을 더 잘 판단함",
-        "**행복도의 역할** / **Happiness influences perception**: 행복한 사람들이 더 객관적이고 정확한 판단을 내리는 경향을 보임",
-        "**사회적 인지 능력** / **Social cognitive ability**: 지능이 단순 IQ를 넘어 타인의 능력을 파악하는 메타-인지적 능력과 관련됨"
-      ],
-      "url": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "1일 전 / 1d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "'우리는 개인이었던 적이 없다'",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "This article presents a philosophical perspective that humans are not completely independent individuals but living beings interacting with nature. Using respiration as an example, the author explains the material exchange process between humans and plants—the carbon dioxide we exhale becomes photosynthesis material for plants, while the oxygen they produce enables our survival. The human body is not merely an individual organism but a complex system hosting an ecosystem of diverse microorganisms and living entities. This perspective suggests the importance of recognizing interdependence rather than adhering to individualistic thinking. The research background reveals that scientific discoveries demonstrate how permeable human boundaries are. A limitation of this article is that philosophical arguments rely primarily on metaphorical expressions, and the presentation of concrete scientific data or empirical research results may be insufficient.\n\n##",
-      "aiSummaryKo": "이 기사는 인간이 완전히 독립적인 개체가 아니라 자연과 상호작용하는 생명체라는 철학적 관점을 제시한다. 저자는 호흡을 예로 들어 인간과 식물 간의 물질 교환 과정을 설명하는데, 우리가 배출하는 이산화탄소는 식물의 광합성 재료가 되고, 식물이 배출하는 산소는 우리의 생존을 가능하게 한다는 점을 강조한다. 인간의 몸은 단순한 개별 유기체가 아니라 다양한 미생물과 생명체들의 생태계를 호스팅하는 복잡한 시스템이다. 이러한 관점은 개인주의적 사고방식에서 벗어나 상호의존성을 인식하는 것의 중요성을 제안한다. 연구 배경으로는 과학적 발견들이 인간의 경계가 얼마나 투과성 있는지를 보여준다는 점이 있다. 이 기사의 한계점은 철학적 주장이 주로 비유적 표현에 의존하며, 구체적인 과학 데이터나 실증적 연구 결과의 제시가 부족할 수 있다는 점이다.\n\n##",
-      "aiSummaryEn": "This article presents a philosophical perspective that humans are not completely independent individuals but living beings interacting with nature. Using respiration as an example, the author explains the material exchange process between humans and plants—the carbon dioxide we exhale becomes photosynthesis material for plants, while the oxygen they produce enables our survival. The human body is not merely an individual organism but a complex system hosting an ecosystem of diverse microorganisms and living entities. This perspective suggests the importance of recognizing interdependence rather than adhering to individualistic thinking. The research background reveals that scientific discoveries demonstrate how permeable human boundaries are. A limitation of this article is that philosophical arguments rely primarily on metaphorical expressions, and the presentation of concrete scientific data or empirical research results may be insufficient.\n\n##",
-      "keyPoints": [
-        "**상호호흡의 순환** / Reciprocal Breathing Cycle",
-        "**개체성의 재정의** / Redefinition of Individuality",
-        "**인체 생태계** / Human Body as Ecosystem",
-        "**투과성 경계** / Permeable Boundaries"
-      ],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "1f2d0b54d063",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "4일 전 / 4d ago",
-      "title": "What It’s Like to Be…a Diplomat",
-      "titleKo": "외교관이 된다는 것은 어떤 느낌일까",
-      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
-      "aiSummary": "This article is a podcast episode from the series \"What It's Like to Be...\" featuring an interview with John Johnson, a retired U.S. diplomat who served in the Foreign Service for more than twenty years. The episode explores the reality of diplomatic work through specific examples, including defusing a crisis following an ambassador's hint at a preemptive strike on Russia, delivering official diplomatic protests (demarches) in multiple languages, and surviving the frantic evacuation of the Kabul embassy. The interview also addresses technical diplomatic terminology and procedures, such as whether diplomats still send \"cables\" in the 21st century and the meaning of the phrase \"not/not\" in diplomatic language. By featuring a retired diplomat's firsthand account, the episode provides general audiences rare insight into the daily responsibilities and crisis-management capabilities of professional diplomats. However, as a podcast interview rather than a research study, it does not include statistical data or empirical research findings.",
-      "aiSummaryKo": "이 기사는 팟캐스트 시리즈 \"What It's Like to Be...\"의 에피소드로, 미국 외교관 존 존슨(John Johnson)과의 인터뷰를 다룬다. 존슨은 20년 이상 미국 국무부에서 근무한 퇴직 외교관으로, 외교 업무의 현실과 도전적 상황들을 공개한다. 인터뷰에서는 러시아에 대한 선제공격 암시 이후 위기 상황을 진정시키기, 다국어로 외교 공식 항의장(demarche) 전달하기, 카불 대사관 긴급 철수 과정에서의 경험 등 구체적인 외교 사례들이 소개된다. 또한 21세기에도 여전히 \"케이블(cables)\"이라는 형식의 외교 공식문서를 사용하는지, \"not/not\"이라는 외교 용어의 의미가 무엇인지와 같은 외교 전문 용어들도 다룬다. 이 인터뷰는 일반 대중이 쉽게 접할 수 없는 외교관의 일상과 위기 대응 능력을 이해하는 데 도움을 준다. 다만 팟캐스트 형식이므로 통계 데이터나 과학적 연구 결과는 포함되지 않는다.",
-      "aiSummaryEn": "This article is a podcast episode from the series \"What It's Like to Be...\" featuring an interview with John Johnson, a retired U.S. diplomat who served in the Foreign Service for more than twenty years. The episode explores the reality of diplomatic work through specific examples, including defusing a crisis following an ambassador's hint at a preemptive strike on Russia, delivering official diplomatic protests (demarches) in multiple languages, and surviving the frantic evacuation of the Kabul embassy. The interview also addresses technical diplomatic terminology and procedures, such as whether diplomats still send \"cables\" in the 21st century and the meaning of the phrase \"not/not\" in diplomatic language. By featuring a retired diplomat's firsthand account, the episode provides general audiences rare insight into the daily responsibilities and crisis-management capabilities of professional diplomats. However, as a podcast interview rather than a research study, it does not include statistical data or empirical research findings.",
-      "keyPoints": [
-        "**외교관의 위기 관리 역할** / Diplomats' Role in Crisis Management",
-        "**다국어 능력의 중요성** / Importance of Multilingual Skills",
-        "**21세기 외교의 변화와 전통성** / Evolution and Tradition in 21st Century Diplomacy",
-        "**극단적 상황에서의 인간의 대응력** / Human Resilience in Extreme Situations"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "1ecfbdfb56ef",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "23시간 전 / 23h ago",
-      "title": "Scientists found a protein that drives brain aging — and how to stop it",
-      "titleKo": "과학자들이 뇌 노화를 유발하는 단백질을 발견했다 — 그리고 이를 막는 방법",
-      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
-      "aiSummary": "Scientists have made a significant breakthrough in understanding brain aging by identifying FTL1, a single protein that drives cognitive decline. The research used aging mice as subjects to investigate how protein levels affect neural connections and memory function. The study found that elevated FTL1 levels weakened connections between brain cells and caused memory impairment in aged mice. Remarkably, when researchers reduced FTL1 levels, the brain showed remarkable recovery—neural connections were rebuilt and memory performance was restored. This discovery has profound implications for developing new therapeutic approaches to treat neurodegenerative diseases like Alzheimer's. However, the limitation lies in translating these animal model findings to human clinical applications, requiring further validation studies.\n\n##",
-      "aiSummaryKo": "이 연구는 뇌 노화의 원인 규명에 중요한 진전을 이루었습니다. 과학자들은 FTL1이라는 단백질이 뇌 노화를 주도하는 핵심 요소임을 발견했습니다. 연구팀은 고령 마우스를 대상으로 실험을 진행했으며, FTL1 단백질의 수치가 높을수록 뇌 신경세포 간의 연결이 약해지고 기억력 저하가 발생함을 확인했습니다. 가장 놀라운 결과는 FTL1 단백질을 감소시켰을 때 손상된 신경세포 연결이 재구축되고 기억력이 회복되었다는 점입니다. 이 발견은 향후 알츠하이머병 같은 퇴행성 뇌질환 치료법 개발에 중요한 기초가 될 수 있습니다. 다만 동물 실험 결과가 인간에게도 동일하게 적용될지에 대한 추가 임상 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "Scientists have made a significant breakthrough in understanding brain aging by identifying FTL1, a single protein that drives cognitive decline. The research used aging mice as subjects to investigate how protein levels affect neural connections and memory function. The study found that elevated FTL1 levels weakened connections between brain cells and caused memory impairment in aged mice. Remarkably, when researchers reduced FTL1 levels, the brain showed remarkable recovery—neural connections were rebuilt and memory performance was restored. This discovery has profound implications for developing new therapeutic approaches to treat neurodegenerative diseases like Alzheimer's. However, the limitation lies in translating these animal model findings to human clinical applications, requiring further validation studies.\n\n##",
-      "keyPoints": [
-        "**FTL1 단백질의 역할 규명** / Identification of FTL1 as a key driver of brain aging and neuronal dysfunction",
-        "**회복 가능성의 발견** / Discovery that reducing FTL1 levels can reverse brain aging effects and restore memory",
-        "**신경세포 연결성 개선** / FTL1 reduction leads to rebuilding of synaptic connections between brain cells",
-        "**임상적 기대와 한계** / High potential for neurodegenerative disease treatment, but requires further human clinical trials for validation"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
-      "featured": false
-    },
-    {
-      "id": "210466646428",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "These overlooked brain cells may control fear and PTSD",
-      "titleKo": "간과되어 온 뇌세포가 두려움과 외상후스트레스장애를 조절할 수 있다",
-      "summary": "Astrocytes, once thought to be mere brain “support cells,” are now revealed to be key players in fear memory. Researchers found they actively help form, recall, and weaken fear responses by interacting with neurons in real time. Changing astrocyte activity directly altered how strong fear memories became. This breakthrough could lead to entirely new treatments for anxiety-related disorders.",
-      "aiSummary": "Astrocytes, star-shaped brain cells previously thought to be merely \"support cells,\" have been revealed to play a crucial role in fear memory formation. Researchers discovered that astrocytes actively participate in forming, recalling, and weakening fear responses through real-time interactions with neurons. Critically, modifying astrocyte activity directly altered the strength of fear memories. This breakthrough has significant implications for developing novel treatments for anxiety-related disorders and PTSD, conditions that currently have limited therapeutic options. The research represents a paradigm shift in understanding glial cell functions beyond their traditional supportive roles. However, since these findings are primarily based on animal models, further research is needed to confirm whether these mechanisms translate to human applications.\n\n##",
-      "aiSummaryKo": "뇌의 별 모양 세포인 아스트로사이트는 오랫동안 단순한 '지원 세포'로 간주되었지만, 최근 연구에서 공포 기억 형성에 핵심적인 역할을 하는 것으로 밝혀졌다. 연구팀은 아스트로사이트가 신경세포와 실시간으로 상호작용하며 공포 반응의 형성, 회상, 약화에 적극적으로 관여한다는 것을 발견했다. 특히 아스트로사이트의 활동을 변화시키면 공포 기억의 강도가 직접적으로 변한다는 것을 확인했다. 이러한 발견은 불안장애와 외상후스트레스장애(PTSD) 같은 불안 관련 질환에 대한 완전히 새로운 치료법 개발로 이어질 수 있다는 점에서 의미가 있다. 다만, 이 연구가 동물 실험 기반이므로 인간에게 동일한 효과를 나타낼지는 추가 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "Astrocytes, star-shaped brain cells previously thought to be merely \"support cells,\" have been revealed to play a crucial role in fear memory formation. Researchers discovered that astrocytes actively participate in forming, recalling, and weakening fear responses through real-time interactions with neurons. Critically, modifying astrocyte activity directly altered the strength of fear memories. This breakthrough has significant implications for developing novel treatments for anxiety-related disorders and PTSD, conditions that currently have limited therapeutic options. The research represents a paradigm shift in understanding glial cell functions beyond their traditional supportive roles. However, since these findings are primarily based on animal models, further research is needed to confirm whether these mechanisms translate to human applications.\n\n##",
-      "keyPoints": [
-        "**아스트로사이트의 새로운 역할**: 과거 보조 역할만 하는 것으로 알려진 별 모양 뇌 세포가 실제로는 공포 기억의 형성, 회상, 약화에 주도적으로 참여 / Astrocytes, previously thought to have only supportive functions, are now found to actively control fear memory formation, recall, and extinction",
-        "**직접적인 인과관계 입증**: 아스트로사이트 활동을 조작하면 공포 기억의 강도가 직접 변하며, 이는 단순한 상관관계가 아닌 실제 인과관계임을 증명 / Direct causal relationship established: modifying astrocyte activity directly changes fear memory strength, not merely correlation",
-        "**임상 응용 가능성**: 불안장애, PTSD 등 현재 치료가 어려운 정신질환에 대한 혁신적인 치료 방법 개발 가능성 제시 / Clinical applications: potential for developing novel therapeutic approaches for anxiety disorders and PTSD that currently have limited treatment options",
-        "**추가 연구 필요성**: 동물 모델 기반 연구이므로 인간 대상 임상 연구를 통한 검증 단계 필요 / Further research needed: findings from animal models require validation through human clinical trials before clinical application"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260403224508.htm",
-      "featured": false
-    },
-    {
-      "id": "3d6c6b8f4640",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "A gene mutation may trap the brain in the wrong reality in schizophrenia patients",
-      "titleKo": "유전자 변이가 정신분열증 환자의 뇌를 잘못된 현실에 가둘 수 있다",
-      "summary": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their understanding of reality. The mutation disrupts a brain circuit involved in flexible decision-making, causing mice to stick with outdated choices even when conditions change. Researchers pinpointed the issue to a key thalamus–prefrontal cortex pathway. By reactivating this circuit, they were able to restore normal behavior—raising hope for future therapies.",
-      "aiSummary": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their perception of reality. Through mouse experiments, researchers discovered that this mutation disrupts a brain circuit responsible for flexible decision-making, causing subjects to persist with outdated choices even when environmental conditions change. The key neural pathway involved connects the thalamus to the prefrontal cortex. When researchers reactivated this circuit, normal behavior was restored in mice, offering promising prospects for future therapeutic interventions in schizophrenia. However, the study's limitations include the challenge of translating animal model findings directly to human applications, requiring further investigation.\n\n##",
-      "aiSummaryKo": "정신분열증 환자들이 현실에 대한 이해를 업데이트하지 못하는 이유를 설명할 수 있는 새로운 유전자 돌연변이가 발견되었다. 연구팀은 생쥐 실험을 통해 이 돌연변이가 유연한 의사결정에 관여하는 뇌 회로를 손상시켜, 환경이 변해도 예전의 선택에 집착하게 만든다는 것을 밝혀냈다. 구체적으로 시상(thalamus)과 전전두피질(prefrontal cortex)을 연결하는 신경 경로가 핵심 역할을 하는 것으로 파악되었다. 연구팀이 이 회로를 재활성화시키자 생쥐의 정상적인 행동이 회복되었으며, 이는 향후 정신분열증 치료법 개발에 희망을 제시한다. 다만 동물 실험 결과를 인간에게 직접 적용하기까지는 추가 연구가 필요한 한계가 있다.\n\n##",
-      "aiSummaryEn": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their perception of reality. Through mouse experiments, researchers discovered that this mutation disrupts a brain circuit responsible for flexible decision-making, causing subjects to persist with outdated choices even when environmental conditions change. The key neural pathway involved connects the thalamus to the prefrontal cortex. When researchers reactivated this circuit, normal behavior was restored in mice, offering promising prospects for future therapeutic interventions in schizophrenia. However, the study's limitations include the challenge of translating animal model findings directly to human applications, requiring further investigation.\n\n##",
-      "keyPoints": [
-        "**유전자-뇌 회로 연결** / Gene mutation disrupts flexible decision-making circuit",
-        "**시상-전전두피질 경로의 중요성** / Thalamus-prefrontal cortex pathway is crucial",
-        "**회로 재활성화의 치료 가능성** / Circuit reactivation restores normal behavior",
-        "**동물 모델에서 인간 적용까지의 격차** / Gap between animal models and human application"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260402042740.htm",
       "featured": false
     }
   ]
