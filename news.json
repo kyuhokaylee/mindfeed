@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-06T17:34:12.978589+00:00",
+  "updated": "2026-04-06T20:05:24.123585+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "99dd9e1f5c5e",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "16시간 전 / 16h ago",
+      "title": "Generating Counterfactual Patient Timelines from Real-World Data",
+      "titleKo": "실제 데이터로부터 반사실적 환자 경로 생성하기",
+      "summary": "arXiv:2604.02337v1 Announce Type: new Abstract: Counterfactual simulation - exploring hypothetical consequences under alternative clinical scenarios - holds promise for transformative applications such as personalized medicine and in silico trials. However, it remains challenging due to methodological limitations. Here, we show that an autoregressive generative model trained on real-world data from over 300,000 patients and 400 million patient timeline entries can generate clinically plausible counterfactual trajectories. As a validation task, we applied the model to patients hospitalized with",
+      "aiSummary": "This research aims to develop technology that simulates hypothetical clinical scenarios by answering \"what would have happened if a patient received different treatment.\" The research team trained an autoregressive generative model using patient data from over 300,000 patients comprising 400 million patient timeline entries from real-world records. The model successfully demonstrated the ability to generate clinically plausible counterfactual patient trajectories, and was validated through application to hospitalized patients. This technology holds promising potential for applications in personalized medicine development and in silico trials (computer-simulated clinical trials). However, limitations include the need for further validation of the clinical accuracy of generated synthetic data and additional research before real-world clinical application.\n\n##",
+      "aiSummaryKo": "본 연구는 실제 임상 데이터를 기반으로 \"만약 다른 치료를 받았다면 어떻게 되었을까\"라는 가상의 시나리오를 시뮬레이션하는 기술 개발을 목표로 합니다. 연구팀은 30만 명 이상의 환자로부터 수집한 4억 건의 환자 기록 데이터를 활용하여 자동회귀 생성 모델(autoregressive generative model)을 훈련했습니다. 이 모델은 임상적으로 타당한 가상의 환자 경로를 생성할 수 있음을 보여주었으며, 입원 환자들을 대상으로 한 검증 작업에 적용되었습니다. 이러한 기술은 맞춤형 의학 개발과 컴퓨터 시뮬레이션 임상시험(in silico trials) 같은 혁신적 의료 응용에 활용될 수 있는 잠재력을 가지고 있습니다. 다만, 생성된 가상 데이터의 임상적 정확성 검증과 실제 임상 적용까지의 추가 연구가 필요한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research aims to develop technology that simulates hypothetical clinical scenarios by answering \"what would have happened if a patient received different treatment.\" The research team trained an autoregressive generative model using patient data from over 300,000 patients comprising 400 million patient timeline entries from real-world records. The model successfully demonstrated the ability to generate clinically plausible counterfactual patient trajectories, and was validated through application to hospitalized patients. This technology holds promising potential for applications in personalized medicine development and in silico trials (computer-simulated clinical trials). However, limitations include the need for further validation of the clinical accuracy of generated synthetic data and additional research before real-world clinical application.\n\n##",
+      "keyPoints": [
+        "**대규모 데이터 기반**: 30만 명 이상의 환자 데이터와 4억 건의 기록으로 학습 / Large-scale training data: 300,000+ patients and 400 million patient records",
+        "**가상 시나리오 생성 기술**: 자동회귀 생성 모델을 통해 임상적으로 타당한 대체 치료 경로 시뮬레이션 / Counterfactual simulation: Generating clinically plausible alternative treatment trajectories using generative AI",
+        "**의료 혁신의 가능성**: 맞춤형 의학 및 동물실험 대체용 가상 임상시험 개발 가능 / Medical innovation potential: Enabling personalized medicine and reducing need for animal testing through virtual clinical trials",
+        "**임상 검증 필요**: 생성된 데이터의 실제 임상 정확성 검증과 실제 적용을 위한 추가 연구 필요 / Validation limitations: Further clinical validation needed before real-world implementation of generated counterfactual trajectories"
+      ],
+      "url": "https://arxiv.org/abs/2604.02337",
+      "featured": true
+    },
+    {
+      "id": "7b355f11a400",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "16시간 전 / 16h ago",
+      "title": "LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning",
+      "titleKo": "LiME: 효율적인 다중모달 다중작업 학습을 위한 경량 혼합 전문가 모델",
+      "summary": "arXiv:2604.02338v1 Announce Type: new Abstract: MoE-PEFT methods combine Mixture of Experts with parameter-efficient fine-tuning for multi-task adaptation, but require separate adapters per expert causing trainable parameters to scale linearly with expert count and limiting applicability to adapter-based architectures. We propose LiME (Lightweight Mixture of Experts), which achieves expert specialization through lightweight modulation rather than adapter replication. Instead of separate adapters, LiME uses a single shared PEFT module and modulates its output with lightweight expert vectors, re",
+      "aiSummary": "Existing Mixture of Experts (MoE) approaches for multi-task learning require separate adapters for each expert, causing trainable parameters to scale linearly with the number of experts, which limits their practical applicability. This research proposes LiME (Lightweight Mixture of Experts), a novel method that achieves expert specialization through lightweight modulation vectors rather than adapter replication, using a single shared parameter-efficient fine-tuning (PEFT) module instead. By modulating the output of a shared module with lightweight expert vectors, LiME significantly reduces the number of trainable parameters while maintaining comparable performance. The researchers validated LiME's efficiency in multimodal multi-task learning environments combining various data types and tasks. The significance of this approach lies in enabling efficient training of large-scale models with limited computational resources. However, the generalizability across diverse domains and more complex multi-task scenarios requires further investigation as a limitation.\n\n##",
+      "aiSummaryKo": "현대의 인공지능 모델들은 여러 작업을 동시에 처리해야 하는데, 기존의 혼합 전문가(MoE) 방식은 각 전문가마다 별도의 어댑터가 필요해 학습 파라미터가 전문가 수에 따라 선형적으로 증가하는 문제가 있었습니다. 이 연구는 LiME(Lightweight Mixture of Experts)라는 새로운 방법을 제안하는데, 이는 각 전문가마다 어댑터를 복제하는 대신 하나의 공유 모듈을 사용하고 경량의 벡터로 출력값을 조절하는 방식입니다. 이를 통해 같은 수준의 성능을 유지하면서도 필요한 학습 파라미터를 크게 줄일 수 있습니다. 연구팀은 멀티모달(텍스트, 이미지 등) 멀티태스크 환경에서 LiME의 효율성을 검증했습니다. 이 방법의 의의는 제한된 자원으로도 대규모 모델을 효율적으로 학습시킬 수 있다는 점입니다. 다만, 다양한 도메인과 더 복잡한 멀티태스크 환경에서의 일반화 가능성은 추후 검증이 필요한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "Existing Mixture of Experts (MoE) approaches for multi-task learning require separate adapters for each expert, causing trainable parameters to scale linearly with the number of experts, which limits their practical applicability. This research proposes LiME (Lightweight Mixture of Experts), a novel method that achieves expert specialization through lightweight modulation vectors rather than adapter replication, using a single shared parameter-efficient fine-tuning (PEFT) module instead. By modulating the output of a shared module with lightweight expert vectors, LiME significantly reduces the number of trainable parameters while maintaining comparable performance. The researchers validated LiME's efficiency in multimodal multi-task learning environments combining various data types and tasks. The significance of this approach lies in enabling efficient training of large-scale models with limited computational resources. However, the generalizability across diverse domains and more complex multi-task scenarios requires further investigation as a limitation.\n\n##",
+      "keyPoints": [
+        "**효율성 개선** / **Efficiency Improvement**: 기존 MoE 방식 대비 학습 파라미터 수를 획기적으로 감소시키면서도 성능 유지 / Dramatically reduces trainable parameters compared to conventional MoE while maintaining performance",
+        "**혁신적 아키텍처** / **Novel Architecture**: 각 전문가마다 별도 어댑터 대신 공유 PEFT 모듈 + 경량 벡터를 통한 전문가 특화 / Uses shared PEFT module with lightweight expert vectors instead of separate adapters for each expert",
+        "**멀티모달 멀티태스크 최적화** / **Multimodal Multi-task Optimization**: 이미지, 텍스트 등 다양한 입력 형식과 여러 작업을 동시에 처리하는 환경에서 효과적 / Effectively handles diverse input modalities and multiple tasks simultaneously",
+        "**실무 적용 가능성** / **Practical Applicability**: 제한된 메모리와 계산 자원으로도 대규모 모델 학습 가능 / Enables training of large-scale models with limited computational resources and memory constraints"
+      ],
+      "url": "https://arxiv.org/abs/2604.02338",
+      "featured": false
+    },
+    {
+      "id": "ae6c12d7feca",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "16시간 전 / 16h ago",
+      "title": "SIEVE: Sample-Efficient Parametric Learning from Natural Language",
+      "titleKo": "SIEVE: 자연언어로부터의 샘플 효율적 매개변수 학습",
+      "summary": "arXiv:2604.02339v1 Announce Type: new Abstract: Natural language context-such as instructions, knowledge, or feedback-contains rich signal for adapting language models. While in-context learning provides adaptation via the prompt, parametric learning persists into model weights and can improve performance further, though is data hungry and heavily relies on either high-quality traces or automated verifiers. We propose SIEVE, a method for sample-efficient parametric learning from natural language context that requires as few as three query examples. SIEVE uses a novel synthetic data generation ",
+      "aiSummary": "This research addresses how language models can efficiently learn from natural language contexts such as instructions, knowledge, and feedback. While in-context learning provides temporary adaptation through prompts, parametric learning permanently improves model weights and offers superior performance, though it traditionally requires extensive data and high-quality training materials or automated verifiers. The team proposes SIEVE, a novel method enabling sample-efficient parametric learning from natural language context using only three query examples. The method leverages an innovative synthetic data generation technique to achieve effective model adaptation with minimal data. This research has practical significance in substantially reducing data collection costs for real-world language model applications. However, validation of generalization performance on small samples and effectiveness across diverse domains requires further investigation.\n\n##",
+      "aiSummaryKo": "본 연구는 언어모델이 자연언어 지시문, 지식, 피드백 등으로부터 효율적으로 학습하는 방법을 제안합니다. 기존의 맥락 내 학습(in-context learning)은 프롬프트를 통해 일시적 적응만 가능하지만, 매개변수 학습은 모델 가중치를 영구적으로 개선하여 더 나은 성능을 제공합니다. 다만 기존 방법들은 많은 데이터와 고품질의 학습 자료 또는 자동화된 검증기가 필요한 한계가 있었습니다. 연구팀은 SIEVE라는 새로운 방법을 제안하여 단 3개의 쿼리 예시만으로 자연언어 맥락으로부터 샘플 효율적인 매개변수 학습을 가능하게 했습니다. 이 방법은 혁신적인 합성 데이터 생성 기법을 활용하여 적은 데이터로도 효과적인 모델 적응을 실현합니다. 본 연구는 언어모델의 실제 적용에서 데이터 수집 비용을 대폭 감소시킬 수 있는 실질적 의의를 갖습니다. 다만 소규모 샘플에서의 일반화 성능과 다양한 도메인에서의 효과성 검증이 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "This research addresses how language models can efficiently learn from natural language contexts such as instructions, knowledge, and feedback. While in-context learning provides temporary adaptation through prompts, parametric learning permanently improves model weights and offers superior performance, though it traditionally requires extensive data and high-quality training materials or automated verifiers. The team proposes SIEVE, a novel method enabling sample-efficient parametric learning from natural language context using only three query examples. The method leverages an innovative synthetic data generation technique to achieve effective model adaptation with minimal data. This research has practical significance in substantially reducing data collection costs for real-world language model applications. However, validation of generalization performance on small samples and effectiveness across diverse domains requires further investigation.\n\n##",
+      "keyPoints": [
+        "**극도의 샘플 효율성** / **Extreme Sample Efficiency**: 단 3개의 쿼리 예시만으로 매개변수 학습 가능 | Parametric learning achievable with as few as three query examples",
+        "**합성 데이터 생성 기법** / **Synthetic Data Generation**: 고품질 학습 자료 없이도 효과적인 모델 적응을 위한 혁신적 데이터 생성 방식 | Novel synthetic data generation enabling effective model adaptation without high-quality training materials",
+        "**영구적 모델 개선** / **Permanent Model Improvement**: 일시적인 프롬프트 적응이 아닌 모델 가중치 자체의 개선으로 지속적 성능 향상 | Permanent improvement of model weights rather than temporary prompt-based adaptation, ensuring sustained performance gains",
+        "**실무 적용 가능성** / **Practical Applicability**: 자동화된 검증기 의존도 감소로 실제 환경에서의 데이터 수집 비용 대폭 절감 | Reduced reliance on automated verifiers, significantly lowering data collection costs in real-world deployment scenarios"
+      ],
+      "url": "https://arxiv.org/abs/2604.02339",
+      "featured": false
+    },
+    {
+      "id": "1441e9cbdb64",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Temporal structure of the language hierarchy within small cortical patches",
+      "titleKo": "소형 피질 영역 내 언어 계층의 시간적 구조",
+      "summary": "arXiv:2604.03021v1 Announce Type: new Abstract: Speech production requires the rapid coordination of a complex hierarchy of linguistic units, transforming a semantic representation into a precise sequence of articulatory movements. To unravel the neural mechanisms underlying this feat, we leverage recordings from eight 3.2 x 3.2 mm 64-microelectrode arrays implanted in the motor cortex and inferior frontal gyrus of two patients tasked to produce twenty thousand sentences. We show that a hierarchy of linguistic features are robustly encoded in most of these small cortical patches. Contrary to o",
+      "aiSummary": "This study investigated the neural mechanisms underlying speech production, specifically how the brain transforms semantic representations into precise articulation. Researchers recorded neural activity from eight small 3.2 x 3.2 mm microelectrode arrays (64 electrodes each) implanted in the motor cortex and inferior frontal gyrus of two patients who produced twenty thousand sentences. Analysis revealed that linguistic features at multiple hierarchical levels—from phonemes to words to grammatical structures—were robustly encoded within most of these small cortical patches. This finding demonstrates that the brain can process complex linguistic hierarchies even within localized neural regions. The research has significant implications for developing brain-computer interfaces for speech restoration and understanding language processing disorders. However, the small sample size (two patients) limits generalizability of the findings.\n\n##",
+      "aiSummaryKo": "본 연구는 뇌가 말을 생산할 때 의미에서 실제 발음으로 변환하는 신경 메커니즘을 규명하기 위해 수행되었습니다. 연구진은 2명의 환자의 운동 피질과 하전두엽에 64개의 미세 전극이 달린 작은 배열(3.2 x 3.2mm)을 8개 삽입하고, 2만 개의 문장을 발음하도록 지시했습니다. 신경 신호 기록을 분석한 결과, 이러한 작은 뇌 영역 대부분에서 음소(소리 단위), 단어, 문법 구조 같은 다양한 수준의 언어 특성들이 체계적으로 인코딩되어 있음을 발견했습니다. 이는 뇌가 작은 영역 내에서도 복잡한 언어 계층 구조를 처리할 수 있음을 보여줍니다. 본 연구는 신경보철(뇌-컴퓨터 인터페이스) 개발이나 언어 처리 장애 치료에 응용될 수 있는 기초 지식을 제공합니다. 다만 소수의 환자를 대상으로 했다는 점이 일반화에 제한을 둡니다.\n\n##",
+      "aiSummaryEn": "This study investigated the neural mechanisms underlying speech production, specifically how the brain transforms semantic representations into precise articulation. Researchers recorded neural activity from eight small 3.2 x 3.2 mm microelectrode arrays (64 electrodes each) implanted in the motor cortex and inferior frontal gyrus of two patients who produced twenty thousand sentences. Analysis revealed that linguistic features at multiple hierarchical levels—from phonemes to words to grammatical structures—were robustly encoded within most of these small cortical patches. This finding demonstrates that the brain can process complex linguistic hierarchies even within localized neural regions. The research has significant implications for developing brain-computer interfaces for speech restoration and understanding language processing disorders. However, the small sample size (two patients) limits generalizability of the findings.\n\n##",
+      "keyPoints": [
+        "**계층적 언어 처리의 미세 뇌 영역 인코딩**: 뇌의 작은 영역(3.2 x 3.2mm)에서도 음소, 단어, 문법 등 여러 수준의 언어 정보가 동시에 처리됨 / Multiple levels of linguistic features (phonemes, words, syntax) are encoded simultaneously within small cortical patches, contradicting assumptions that require large distributed networks.",
+        "**신경보철 기술 개발의 기초 제공**: 마비 환자의 음성 복원이나 뇌-컴퓨터 인터페이스 개발에 필요한 신경 신호 해독의 가능성을 제시 / Provides foundational knowledge for decoding neural signals to restore speech in paralyzed patients and develop advanced brain-computer interfaces.",
+        "**2만 개 문장의 대규모 실험 설계**: 대량의 언어 데이터를 통해 뇌의 언어 처리 패턴의 견고성(robustness)을 입증 / Large-scale experimental design (20,000 sentences) demonstrates robust and reproducible language encoding patterns in the brain.",
+        "**단일 소수 환자 연구의 한계**: 2명의 환자만 대상으로 했으므로 개인 차이가 크거나 결과가 일반화되지 않을 가능성 / Limited sample size (two patients) raises questions about generalizability and individual variability in neural language organization."
+      ],
+      "url": "https://arxiv.org/abs/2604.03021",
+      "featured": false
+    },
+    {
+      "id": "c13a984cdb88",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Neural correlates of perceptual consciousness from within: a narrative review of human intracranial research",
+      "titleKo": "인간 두개골내 연구로부터 밝혀진 지각 의식의 신경 상관물: 서술적 문헌 검토",
+      "summary": "arXiv:2510.08736v2 Announce Type: replace Abstract: Despite many years of research, the quest to identify neural correlates of perceptual consciousness (NCC) remains unresolved. One major obstacle lies in methodological limitations: most studies rely on non-invasive neural measures with limited spatial or temporal resolution making it difficult to disentangle proper NCCs from concurrent cognitive processes. Additionally, the relatively low sensitivity of non-invasive neural measures limits the interpretation of null findings in studies targeting proper NCCs. In this review, we discuss how huma",
+      "aiSummary": "This review paper addresses the long-standing neuroscience challenge of identifying neural correlates of consciousness (NCC) in human perception. Researchers identify a critical limitation: non-invasive measurement techniques like EEG and fMRI have poor spatial or temporal resolution, making it difficult to distinguish true neural correlates of consciousness from other concurrent cognitive processes. To overcome this methodological obstacle, the authors emphasize the advantages of invasive methods, particularly intracranial recordings using electrodes directly implanted in the brain, which provide superior spatial and temporal resolution. The paper comprehensively reviews human intracranial research data to improve consciousness research methodology. However, limitations include small sample sizes due to the invasive nature and significant ethical considerations. The study suggests that an integrated approach combining both invasive and non-invasive methods is necessary for advancing consciousness research.\n\n##",
+      "aiSummaryKo": "본 논문은 인간의 지각적 의식이 뇌에서 어떻게 나타나는지를 규명하려는 신경과학의 오랜 과제를 다룬 검토 논문입니다. 연구자들은 뇌파, fMRI 등 비침습적 측정 방식의 낮은 해상도가 의식의 진정한 신경 기반을 다른 인지 과정과 구분하기 어렵게 만든다는 점을 주요 문제로 지적합니다. 이를 해결하기 위해 뇌에 직접 삽입한 전극으로 측정하는 침습적 방법(두개내 기록)의 장점을 강조합니다. 이 방법은 높은 공간·시간 해상도를 제공하여 의식의 신경 상관물질을 더 정확히 파악할 수 있습니다. 논문은 인간 대상의 침습적 뇌 연구 데이터를 종합적으로 검토하여 의식 연구 방법론을 개선하는 것을 목표로 합니다. 다만 침습적 방법은 환자 수가 제한적이고 윤리적 고려사항이 있다는 한계가 있습니다. 결과적으로 비침습적·침습적 방법을 보완적으로 활용하는 통합 접근이 필요함을 제시합니다.\n\n##",
+      "aiSummaryEn": "This review paper addresses the long-standing neuroscience challenge of identifying neural correlates of consciousness (NCC) in human perception. Researchers identify a critical limitation: non-invasive measurement techniques like EEG and fMRI have poor spatial or temporal resolution, making it difficult to distinguish true neural correlates of consciousness from other concurrent cognitive processes. To overcome this methodological obstacle, the authors emphasize the advantages of invasive methods, particularly intracranial recordings using electrodes directly implanted in the brain, which provide superior spatial and temporal resolution. The paper comprehensively reviews human intracranial research data to improve consciousness research methodology. However, limitations include small sample sizes due to the invasive nature and significant ethical considerations. The study suggests that an integrated approach combining both invasive and non-invasive methods is necessary for advancing consciousness research.\n\n##",
+      "keyPoints": [
+        "**주요 문제**: 비침습적 뇌 측정 기술(EEG, fMRI)의 낮은 해상도로 인해 의식의 진정한 신경 기반을 파악하기 어려움 / **Key Issue**: Limited spatial and temporal resolution of non-invasive neural measures prevents accurate identification of true neural correlates of consciousness",
+        "**혁신적 방법론**: 두개내 직접 전극 기록은 높은 해상도로 뇌 활동을 직접 측정하여 의식 연구의 정확성을 획기적으로 향상 / **Innovative Method**: Intracranial electrode recordings offer unprecedented spatial-temporal resolution for direct measurement of consciousness-related neural activity",
+        "**연구 가치**: 인간 환자 데이터의 체계적 검토를 통해 의식의 신경 상관물질에 대한 이해를 심화시킴 / **Research Value**: Systematic review of human patient data deepens understanding of neural mechanisms underlying conscious perception",
+        "**통합 접근의 필요성**: 침습적·비침습적 방법의 상호보완적 활용이 의식 연구의 미래 방향 / **Integrated Approach**: Complementary use of both invasive and non-invasive methods is essential for future consciousness research advancement"
+      ],
+      "url": "https://arxiv.org/abs/2510.08736",
+      "featured": false
+    },
     {
       "id": "841ffed693c5",
       "tag": "psych",
@@ -21,7 +126,7 @@
         "**전통식품의 과학적 검증 필요성** / The study highlights the importance of scientifically validating traditional foods while acknowledging limitations that require further research."
       ],
       "url": "https://www.psypost.org/can-a-sweet-potato-help-your-baby-sleep-through-the-night/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a54174008eb5",
@@ -315,111 +420,6 @@
         "**동물 모델에서 인간 적용까지의 격차** / Gap between animal models and human application"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260402042740.htm",
-      "featured": false
-    },
-    {
-      "id": "b8d36dc1cc10",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
-      "titleKo": "Holos: 에이전틱 웹을 위한 웹 규모 LLM 기반 다중 에이전트 시스템",
-      "summary": "arXiv:2604.02334v1 Announce Type: new Abstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift toward Artificial General Intelligence (AGI). However, LLM-based multi-agent systems (LaMAS) are hindered by open-world issues such as scaling friction, coordination breakdown, and value dissipation. To address these challenges, we introduce Holos, a web-scale LaMAS architected for long-term ecological ",
-      "aiSummary": "This research addresses the emergence of the \"Agentic Web,\" an ecosystem where heterogeneous LLM-driven agents autonomously interact and co-evolve, representing a pivotal shift toward Artificial General Intelligence (AGI). As large language models transition from isolated task solvers to persistent digital entities, current LLM-based multi-agent systems (LaMAS) face critical challenges including scaling friction, coordination breakdown, and value dissipation in open-world environments. The researchers propose Holos, a web-scale multi-agent system architected to address these challenges through sustainable long-term ecological operations. The system focuses on establishing efficient coordination and cooperation mechanisms among diverse agents, which could serve as a foundation for developing more complex and autonomous AI systems. The study emphasizes the importance of value alignment and inter-agent communication protocols in large-scale distributed AI environments. However, significant limitations remain, including the need for empirical validation of long-term stability in real-scale web environments and practical verification of value conflict resolution mechanisms among heterogeneous agents.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모언어모델(LLM) 기반 에이전트가 고립된 작업 해결자에서 지속적인 디지털 개체로 진화하면서 나타나는 '에이전틱 웹(Agentic Web)' 생태계에 주목한다. 에이전틱 웹은 이질적인 에이전트들이 자율적으로 상호작용하고 함께 진화하는 환경으로, 인공일반지능(AGI)으로의 전환을 의미한다. 그러나 현재 LLM 기반 멀티에이전트 시스템(LaMAS)은 규모 확장의 마찰, 조정 메커니즘의 붕괴, 가치 손실 등 개방형 세계 문제에 직면하고 있다. 연구팀은 이러한 문제들을 해결하기 위해 장기적 생태계 운영을 위해 설계된 웹 규모의 멀티에이전트 시스템 'Holos'를 제안했다. 본 연구는 다양한 에이전트 간의 효율적인 조정과 협력 메커니즘을 구축하는 데 초점을 맞추고 있으며, 이는 향후 더 복잡하고 자율적인 AI 시스템 개발의 기초가 될 것으로 기대된다. 다만, 실제 대규모 웹 환경에서의 장기 안정성 검증과 에이전트 간 가치 충돌 해결 메커니즘의 실용적 효과 검증이 향후 과제로 남아있다.\n\n##",
-      "aiSummaryEn": "This research addresses the emergence of the \"Agentic Web,\" an ecosystem where heterogeneous LLM-driven agents autonomously interact and co-evolve, representing a pivotal shift toward Artificial General Intelligence (AGI). As large language models transition from isolated task solvers to persistent digital entities, current LLM-based multi-agent systems (LaMAS) face critical challenges including scaling friction, coordination breakdown, and value dissipation in open-world environments. The researchers propose Holos, a web-scale multi-agent system architected to address these challenges through sustainable long-term ecological operations. The system focuses on establishing efficient coordination and cooperation mechanisms among diverse agents, which could serve as a foundation for developing more complex and autonomous AI systems. The study emphasizes the importance of value alignment and inter-agent communication protocols in large-scale distributed AI environments. However, significant limitations remain, including the need for empirical validation of long-term stability in real-scale web environments and practical verification of value conflict resolution mechanisms among heterogeneous agents.\n\n##",
-      "keyPoints": [
-        "**에이전틱 웹의 출현** / *Emergence of Agentic Web*: LLM 기반 에이전트가 고립된 작업 해결자에서 지속적인 디지털 개체로 진화하면서 AGI로의 패러다임 전환이 시작됨",
-        "**LaMAS의 구조적 문제들** / *Structural Issues in LaMAS*: 현존 시스템은 확장성 제한, 에이전트 간 조정 실패, 시스템 내 가치 손실이라는 세 가지 핵심 문제에 직면",
-        "**Holos 시스템의 설계 철학** / *Holos Design Philosophy*: 웹 규모의 장기적 생태계 운영을 위해 설계된 아키텍처로, 에이전트 간 효율적 협력과 가치 정렬 메커니즘 구현에 중점",
-        "**미래 AI 발전의 방향성** / *Future Direction of AI Development*: 다양한 에이전트 간의 자율적 상호작용과 협력이 실현 가능한 다중 에이전트 시스템이 다음 세대 AI의 핵심 기술이 될 것으로 예측"
-      ],
-      "url": "https://arxiv.org/abs/2604.02334",
-      "featured": false
-    },
-    {
-      "id": "fd678c378c57",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
-      "titleKo": "Xpertbench: 루브릭 기반 평가를 통한 전문가 수준의 과제",
-      "summary": "arXiv:2604.02368v1 Announce Type: new Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on generalist tasks, or self-evaluation biases. To bridge this gap, we present XpertBench, a high-fidelity benchmark engineered to assess LLMs across authentic professional domains. XpertBench consists of 1,346 meticulously curated tasks across 80 categories, s",
-      "aiSummary": "As Large Language Models (LLMs) plateau on conventional benchmarks, evaluating their capability in complex, open-ended tasks requiring genuine expert-level cognition has become critical. Existing evaluation frameworks suffer from narrow domain coverage, reliance on generalist tasks, or self-evaluation biases. Researchers introduced XpertBench, a high-fidelity benchmark designed to assess LLMs across authentic professional domains, comprising 1,346 meticulously curated tasks spanning 80 categories. The benchmark employs rubrics-based evaluation methodology to objectively assess complex professional tasks rather than relying on simple multiple-choice questions. This approach enables more authentic measurement of LLM capabilities in real-world expert domains. However, limitations may include potential gaps in specialized field coverage and the need for further validation of evaluation criteria across diverse professional contexts.\n\n##",
-      "aiSummaryKo": "대규모 언어모델(LLM)들이 기존 벤치마크에서 성능 향상이 정체되면서, 전문가 수준의 복잡한 업무 능력을 평가할 수 있는 새로운 방법이 필요해졌다. 기존 평가 방식들은 특정 분야에만 집중되거나 편향된 자체 평가에 의존하는 문제가 있었다. 이를 해결하기 위해 연구진은 XpertBench라는 고품질 벤치마크를 개발했으며, 80개 범주에 걸쳐 1,346개의 정교하게 선별된 과제로 구성되어 있다. 이 벤치마크는 채점 기준(루브릭)을 기반으로 하여 전문적인 영역에서 LLM의 실제 역량을 평가할 수 있도록 설계되었다. 연구의 의의는 단순 객관식 문제를 넘어 실제 전문가 수준의 복잡한 업무 평가가 가능하다는 점이다. 다만 아직 일부 전문 분야의 커버리지 확대와 평가 기준의 보편성 검증이 필요할 수 있다.\n\n##",
-      "aiSummaryEn": "As Large Language Models (LLMs) plateau on conventional benchmarks, evaluating their capability in complex, open-ended tasks requiring genuine expert-level cognition has become critical. Existing evaluation frameworks suffer from narrow domain coverage, reliance on generalist tasks, or self-evaluation biases. Researchers introduced XpertBench, a high-fidelity benchmark designed to assess LLMs across authentic professional domains, comprising 1,346 meticulously curated tasks spanning 80 categories. The benchmark employs rubrics-based evaluation methodology to objectively assess complex professional tasks rather than relying on simple multiple-choice questions. This approach enables more authentic measurement of LLM capabilities in real-world expert domains. However, limitations may include potential gaps in specialized field coverage and the need for further validation of evaluation criteria across diverse professional contexts.\n\n##",
-      "keyPoints": [
-        "**포인트1** / **Point 1**: XpertBench는 1,346개의 과제와 80개 범주로 구성된 포괄적 벤치마크 / XpertBench consists of 1,346 curated tasks across 80 categories for comprehensive evaluation",
-        "**포인트2** / **Point 2**: 루브릭 기반 평가로 객관적인 채점 및 전문가 수준의 복잡한 업무 평가 가능 / Rubric-based evaluation enables objective assessment of complex, authentic expert-level tasks",
-        "**포인트3** / **Point 3**: 기존 벤치마크의 협소한 범위와 자체 평가 편향 문제를 해결 / Addresses limitations of existing benchmarks with narrow coverage and self-evaluation bias",
-        "**포인트4** / **Point 4**: LLM의 실제 전문적 역량을 평가하는 새로운 표준 제시 / Establishes new standard for evaluating genuine professional competency of LLMs in real-world domains"
-      ],
-      "url": "https://arxiv.org/abs/2604.02368",
-      "featured": false
-    },
-    {
-      "id": "63b1e868d2f8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Compositional Neuro-Symbolic Reasoning",
-      "titleKo": "구성적 신경-기호 추론",
-      "summary": "arXiv:2604.02434v1 Announce Type: new Abstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. Purely neural architectures lack reliable combinatorial generalization, while strictly symbolic systems struggle with perceptual grounding. We therefore propose a neuro-symbolic architecture that extracts object-level structure from grids, uses neural priors to propose candidate transformations from a fixed domain-specific language (DSL) of atomic patterns, and filters hypotheses using cross-exampl",
-      "aiSummary": "This research proposes a neuro-symbolic architecture combining neural networks and symbolic logic to enhance AI's ability to understand complex patterns and generalize to new situations. The team studied the Abstraction and Reasoning Corpus (ARC), a standardized puzzle dataset, comparing purely neural models and purely symbolic systems. The proposed neuro-symbolic architecture works by first extracting object-level structure from grid-based visual information, using neural priors to propose transformation candidates from a fixed domain-specific language (DSL) of atomic patterns, and validating hypotheses through cross-example examination. This approach simultaneously addresses the combinatorial generalization limitations of purely neural networks and the perceptual grounding difficulties of symbolic systems. The significance lies in making AI reasoning more robust and potentially applicable to more complex real-world problems. However, the research depends on specific pattern languages, requiring further validation regarding scalability when applying to diverse problem types.\n\n##",
-      "aiSummaryKo": "이 연구는 인공지능이 복잡한 패턴을 이해하고 새로운 상황에 적용하는 능력을 향상시키기 위해 신경망과 기호 논리를 결합한 새로운 방식을 제안합니다. 연구팀은 ARC(추상화 및 추론 코퍼스)라는 표준화된 퍼즐 데이터셋을 사용하여 순수 신경망 모델과 순수 기호 시스템의 한계를 비교했습니다. 제안된 뉴로심볼릭 아키텍처는 먼저 격자 형태의 시각 정보에서 객체 수준의 구조를 추출하고, 신경망 기반의 사전정보를 활용하여 고정된 패턴 언어(DSL)에서 변환 후보를 제시하며, 여러 예제를 통해 가설을 검증하는 방식으로 작동합니다. 이 접근 방식은 순수 신경망의 조합론적 일반화 부족 문제와 기호 시스템의 시각 정보 처리 어려움을 동시에 해결합니다. 연구의 의의는 인공지능의 추론 능력을 더욱 견고하게 만들 수 있다는 점이며, 향후 더 복잡한 실제 문제 적용에 기여할 수 있습니다. 다만 이 연구는 특정 패턴 언어에 의존하고 있어 다양한 유형의 문제에 적용할 때의 확장성에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research proposes a neuro-symbolic architecture combining neural networks and symbolic logic to enhance AI's ability to understand complex patterns and generalize to new situations. The team studied the Abstraction and Reasoning Corpus (ARC), a standardized puzzle dataset, comparing purely neural models and purely symbolic systems. The proposed neuro-symbolic architecture works by first extracting object-level structure from grid-based visual information, using neural priors to propose transformation candidates from a fixed domain-specific language (DSL) of atomic patterns, and validating hypotheses through cross-example examination. This approach simultaneously addresses the combinatorial generalization limitations of purely neural networks and the perceptual grounding difficulties of symbolic systems. The significance lies in making AI reasoning more robust and potentially applicable to more complex real-world problems. However, the research depends on specific pattern languages, requiring further validation regarding scalability when applying to diverse problem types.\n\n##",
-      "keyPoints": [
-        "**뉴로심볼릭 통합의 필요성** / Need for Neuro-Symbolic Integration",
-        "**다층적 처리 구조** / Multi-Level Processing Structure",
-        "**도메인 특화 언어 활용** / Domain-Specific Language Application",
-        "**시험 시간 일반화의 한계 극복** / Overcoming Test-Time Generalization Limits"
-      ],
-      "url": "https://arxiv.org/abs/2604.02434",
-      "featured": false
-    },
-    {
-      "id": "62d12f8ce825",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
-      "titleKo": "고차원 공간에서의 임계값 논리로서 생성형 인공지능의 본질 이해",
-      "summary": "arXiv:2604.02476v1 Announce Type: new Abstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960s in digital circuit synthesis, provide a structurally transparent model of neural computation: a weighted sum of inputs compared to a threshold, geometrically realized as a hyperplane partitioning a space. The paper shows that this operation undergoes a qualitative transition as dimensionality increases. In low dimensions, the perceptron acts as a determinate logical classifier, separating classe",
-      "aiSummary": "This research examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in digital circuit design during the 1960s, provide a transparent model for neural computation through a weighted sum of inputs compared to a threshold value, geometrically represented as a hyperplane partitioning high-dimensional space. The study demonstrates that this operation undergoes qualitative transitions as dimensionality increases. In low-dimensional spaces, the perceptron functions as a deterministic logical classifier that clearly separates classes, while in high-dimensional spaces it exhibits different characteristics. This theoretical analysis contributes to understanding how neural networks and generative AI systems fundamentally learn and make decisions by explaining their mathematical foundations. However, the model may have limitations in fully explaining the complexity of modern large-scale neural networks.\n\n##",
-      "aiSummaryKo": "본 연구는 생성형 인공지능(AI)을 이해하기 위해 임계값 논리(threshold logic)의 역할을 탐구합니다. 임계값 함수는 1960년대 디지털 회로 설계에서 처음 연구되었으며, 신경망 계산을 투명하게 모델링하는 방식입니다. 즉, 입력값들의 가중치 합을 임계값과 비교하는 방식으로, 기하학적으로는 고차원 공간을 초평면(hyperplane)으로 나누는 것으로 볼 수 있습니다. 연구는 차원이 증가함에 따라 이 연산 방식이 질적으로 어떻게 변화하는지 보여줍니다. 저차원에서 퍼셉트론은 명확한 논리 분류기로 작동하여 클래스를 구분하지만, 고차원 공간에서는 다른 특성을 보입니다. 이 연구는 신경망과 생성형 AI의 기본 작동 원리를 수학적으로 설명함으로써, AI 시스템이 어떻게 학습하고 의사결정을 하는지 이해하는 데 기여합니다. 다만 실제 현대 신경망의 복잡성을 완전히 설명하는 데는 제한이 있을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This research examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in digital circuit design during the 1960s, provide a transparent model for neural computation through a weighted sum of inputs compared to a threshold value, geometrically represented as a hyperplane partitioning high-dimensional space. The study demonstrates that this operation undergoes qualitative transitions as dimensionality increases. In low-dimensional spaces, the perceptron functions as a deterministic logical classifier that clearly separates classes, while in high-dimensional spaces it exhibits different characteristics. This theoretical analysis contributes to understanding how neural networks and generative AI systems fundamentally learn and make decisions by explaining their mathematical foundations. However, the model may have limitations in fully explaining the complexity of modern large-scale neural networks.\n\n##",
-      "keyPoints": [
-        "**임계값 논리의 기본 구조** / Fundamental structure of threshold logic: 입력값의 가중치 합과 임계값 비교를 통해 신경망 계산을 투명하게 모델링하는 방식으로, 초평면을 이용한 기하학적 표현이 가능합니다.",
-        "**차원 증가에 따른 질적 변화** / Qualitative transition with increasing dimensionality: 저차원에서는 명확한 논리 분류 기능을 하지만, 고차원 공간으로 가면서 퍼셉트론의 작동 방식이 근본적으로 달라집니다.",
-        "**신경망의 투명성 증진** / Enhanced transparency of neural networks: 임계값 논리 프레임워크는 AI의 \"블랙박스\" 문제를 해결하기 위해 신경망의 기본 메커니즘을 수학적으로 명확히 설명합니다.",
-        "**생성형 AI 이해의 기초** / Foundation for understanding generative AI: 이 연구는 현대 생성형 AI 시스템의 근본적인 작동 원리를 파악하는 데 이론적 기초를 제공하며, AI 시스템의 학습과 의사결정 과정을 수학적으로 설명합니다."
-      ],
-      "url": "https://arxiv.org/abs/2604.02476",
-      "featured": false
-    },
-    {
-      "id": "d009732efbe0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling",
-      "titleKo": "3D 이산 균열-매질 텐서 축척을 위한 합성곱 대체 모델",
-      "summary": "arXiv:2604.02335v1 Announce Type: new Abstract: Modeling groundwater flow in three-dimensional fractured crystalline media requires accounting for strong spatial heterogeneity induced by fractures. Fine-scale discrete fracture-matrix (DFM) simulations can capture this complexity but are computationally expensive, especially when repeated evaluations are needed. To address this, we aim to employ a multilevel Monte Carlo (MLMC) framework in which numerical homogenization is used to upscale sub-resolution fracture effects when transitioning between accuracy levels. To reduce the cost of conventio",
-      "aiSummary": "This research addresses the computational complexity challenge in modeling groundwater flow through fractured crystalline rock formations with high spatial heterogeneity caused by fractures. While fine-scale discrete fracture-matrix (DFM) simulations can accurately capture complex physical phenomena, they are computationally expensive, making repeated evaluations impractical. The research team proposes combining a multilevel Monte Carlo (MLMC) framework with a convolutional neural network (CNN)-based surrogate model to efficiently upscale fracture effects when transitioning between different accuracy levels. This approach significantly reduces computational costs of numerical homogenization while maintaining high accuracy. The significance lies in enabling faster and more efficient modeling of complex groundwater flow, contributing to environmental engineering applications. However, the current approach may be limited to fractures with specific geometric structures.\n\n##",
-      "aiSummaryKo": "본 연구는 지하수가 흐르는 균열이 많은 암석층을 모델링할 때 발생하는 계산 복잡성 문제를 해결하기 위해 진행되었습니다. 전통적인 미세 규모 이산 균열-기질(DFM) 시뮬레이션은 물리적 현상을 정확히 포착할 수 있지만 계산 비용이 매우 높아 반복적인 평가가 필요할 때 실용적이지 않습니다. 연구팀은 다중 수준 몬테카를로(MLMC) 프레임워크와 합성곱 신경망(CNN) 기반 대체 모델을 결합하여 서로 다른 정확도 수준 간의 전환 시 균열 효과를 효율적으로 업스케일하는 방법을 제안했습니다. 이 접근법은 수치적 균질화 과정의 계산 비용을 크게 줄이면서도 높은 정확도를 유지합니다. 본 연구의 의의는 복잡한 지하수 흐름 모델링을 더 빠르고 효율적으로 수행할 수 있게 함으로써 환경 공학 분야에 기여한다는 점입니다. 다만 현재 단계에서는 특정 기하학적 구조의 균열에 제한될 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research addresses the computational complexity challenge in modeling groundwater flow through fractured crystalline rock formations with high spatial heterogeneity caused by fractures. While fine-scale discrete fracture-matrix (DFM) simulations can accurately capture complex physical phenomena, they are computationally expensive, making repeated evaluations impractical. The research team proposes combining a multilevel Monte Carlo (MLMC) framework with a convolutional neural network (CNN)-based surrogate model to efficiently upscale fracture effects when transitioning between different accuracy levels. This approach significantly reduces computational costs of numerical homogenization while maintaining high accuracy. The significance lies in enabling faster and more efficient modeling of complex groundwater flow, contributing to environmental engineering applications. However, the current approach may be limited to fractures with specific geometric structures.\n\n##",
-      "keyPoints": [
-        "**이산 균열-기질(DFM) 모델링의 계산 병목** / Computational bottleneck in discrete fracture-matrix (DFM) modeling for groundwater flow in fractured rocks",
-        "**다중 수준 몬테카를로(MLMC) + CNN 합성곱 신경망 결합** / Integration of multilevel Monte Carlo (MLMC) framework with CNN-based surrogate model for cost reduction",
-        "**수치적 균질화를 통한 효율적 업스케일링** / Efficient upscaling of sub-resolution fracture effects through numerical homogenization across accuracy levels",
-        "**환경공학 실무적 응용 가능성** / Practical applications in environmental engineering for faster groundwater flow simulations and uncertainty quantification"
-      ],
-      "url": "https://arxiv.org/abs/2604.02335",
       "featured": false
     }
   ]
