@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-06T10:41:46.388171+00:00",
+  "updated": "2026-04-06T14:32:35.266815+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d84ecb633d2c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Anxious young adults are more likely to develop digital addictions",
+      "titleKo": "불안감이 있는 청년들이 디지털 중독에 빠질 가능성이 더 높다",
+      "summary": "New research reveals that young adults with social anxiety are highly vulnerable to social media addiction. Tracking users over several months, investigators found that a habit of comparing oneself to others online often fuels this digital dependency.",
+      "aiSummary": "This research investigated whether young adults with social anxiety are more vulnerable to social media addiction. Using a longitudinal study design, researchers tracked users over several months to observe their behavioral patterns. The key finding reveals that individuals with higher social anxiety more frequently engage in social comparison behaviors online, and these comparison habits drive digital dependency. The study is significant for revealing the specific psychological mechanism linking social anxiety to social media addiction. The findings could contribute to developing tailored addiction prevention programs for anxious young adults. However, the study has limitations including lack of detailed information about sample size, tracking duration, and controlled variables in the provided summary.\n\n##",
+      "aiSummaryKo": "이 연구는 사회불안을 가진 젊은 성인들이 소셜 미디어 중독에 더 취약한지 알아보기 위해 진행되었습니다. 연구팀은 여러 달에 걸쳐 사용자들을 추적 관찰하는 종단 연구 설계를 사용했습니다. 핵심 발견은 사회불안이 높은 사람들이 온라인에서 자신을 타인과 비교하는 습관을 더 자주 보이며, 이러한 비교 행동이 디지털 중독으로 이어진다는 것입니다. 이 연구는 사회불안과 소셜 미디어 중독 사이의 구체적인 심리적 메커니즘을 밝혀낸 점에서 의의가 있습니다. 연구 결과는 불안감이 있는 젊은이들을 위한 맞춤형 중독 예방 프로그램 개발에 기여할 수 있습니다. 다만 구체적인 표본 규모와 추적 기간, 통제 변수 등에 대한 상세 정보가 제한적이라는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigated whether young adults with social anxiety are more vulnerable to social media addiction. Using a longitudinal study design, researchers tracked users over several months to observe their behavioral patterns. The key finding reveals that individuals with higher social anxiety more frequently engage in social comparison behaviors online, and these comparison habits drive digital dependency. The study is significant for revealing the specific psychological mechanism linking social anxiety to social media addiction. The findings could contribute to developing tailored addiction prevention programs for anxious young adults. However, the study has limitations including lack of detailed information about sample size, tracking duration, and controlled variables in the provided summary.\n\n##",
+      "keyPoints": [
+        "**사회불안과 디지털 중독의 연관성** / Social anxiety is a significant risk factor for digital addiction in young adults",
+        "**온라인 비교 행동의 매개 역할** / Social comparison behavior online acts as a mediating mechanism between anxiety and addiction",
+        "**종단 연구를 통한 인과관계 규명** / Longitudinal tracking methodology strengthens evidence of causal relationships",
+        "**임상 개입의 필요성** / Findings emphasize need for anxiety-focused interventions to prevent social media addiction"
+      ],
+      "url": "https://www.psypost.org/how-social-anxiety-and-screen-time-comparison-fuel-digital-addiction-2026-03-26/",
+      "featured": true
+    },
+    {
+      "id": "8b592890a6f9",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "How stimulating the vagus nerve could protect the brain from Alzheimer’s disease",
+      "titleKo": "미주신경 자극이 알츠하이머병으로부터 뇌를 보호하는 방법",
+      "summary": "Alzheimer’s disease pathology begins early in a tiny brain region called the locus coeruleus. Emerging research suggests that stimulating the vagus nerve could help regulate this critical area, potentially preventing memory loss and early cognitive aging.",
+      "aiSummary": "Alzheimer's disease pathology originates in a small brain region called the locus coeruleus, where initial pathological changes occur. Emerging research suggests that stimulating the vagus nerve—a critical neural pathway connecting the brain and body—could help regulate this crucial brain area. The proposed mechanism involves normalizing neural activity in the locus coeruleus through vagus nerve stimulation, potentially preventing memory loss and cognitive decline. This approach offers promising therapeutic possibilities for preventing Alzheimer's disease in its early stages through non-invasive brain stimulation. However, current evidence is primarily from animal studies and preliminary research, requiring large-scale human clinical trials for validation. If established, this intervention could represent a paradigm shift in preventing neurodegenerative diseases through non-invasive neuromodulation techniques.\n\n##",
+      "aiSummaryKo": "알츠하이머병은 뇌의 작은 영역인 청반(locus coeruleus)에서 병리적 변화가 시작되는 것으로 알려져 있습니다. 최근 연구들은 미주신경(vagus nerve) 자극이 이 핵심 뇌 영역의 기능을 조절하는 데 도움이 될 수 있음을 시사하고 있습니다. 미주신경은 뇌와 신체를 연결하는 중요한 신경으로, 이를 자극하면 청반의 신경 활동을 정상화할 수 있다는 가설입니다. 이러한 접근은 알츠하이머병의 초기 단계에서 기억력 상실과 인지 기능 저하를 예방할 수 있는 새로운 치료 가능성을 제시합니다. 다만 현재는 동물 실험이나 초기 연구 단계이며, 인간을 대상으로 한 대규모 임상시험이 필요합니다. 이 연구가 확립되면 비침습적 뇌 자극 요법으로 퇴행성 뇌질환 예방의 획기적 전환점이 될 수 있습니다.\n\n##",
+      "aiSummaryEn": "Alzheimer's disease pathology originates in a small brain region called the locus coeruleus, where initial pathological changes occur. Emerging research suggests that stimulating the vagus nerve—a critical neural pathway connecting the brain and body—could help regulate this crucial brain area. The proposed mechanism involves normalizing neural activity in the locus coeruleus through vagus nerve stimulation, potentially preventing memory loss and cognitive decline. This approach offers promising therapeutic possibilities for preventing Alzheimer's disease in its early stages through non-invasive brain stimulation. However, current evidence is primarily from animal studies and preliminary research, requiring large-scale human clinical trials for validation. If established, this intervention could represent a paradigm shift in preventing neurodegenerative diseases through non-invasive neuromodulation techniques.\n\n##",
+      "keyPoints": [
+        "**청반의 중요성 / Significance of Locus Coeruleus**: 알츠하이머병의 병리적 변화가 시작되는 핵심 뇌 영역 / Critical brain region where Alzheimer's pathology originates",
+        "**미주신경 자극 메커니즘 / Vagus Nerve Stimulation Mechanism**: 뇌-신체 연결 신경을 자극하여 청반의 기능 조절 / Stimulating the brain-body connection nerve to regulate locus coeruleus function",
+        "**예방적 치료 가능성 / Preventive Therapeutic Potential**: 비침습적 방식으로 기억력 상실과 인지 기능 저하 예방 / Non-invasive approach to prevent memory loss and cognitive aging",
+        "**임상 적용의 필요성 / Need for Clinical Application**: 동물 실험 단계를 벗어나 인간 대상 대규모 임상시험 필요 / Transition from animal studies to large-scale human clinical trials required for practical application"
+      ],
+      "url": "https://www.psypost.org/how-stimulating-the-vagus-nerve-could-protect-the-brain-from-alzheimers-disease/",
+      "featured": false
+    },
+    {
+      "id": "3c50c75991c1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "16시간 전 / 16h ago",
+      "title": "People consistently devalue creative writing generated by artificial intelligence",
+      "titleKo": "사람들은 인공지능이 생성한 창작 글을 일관되게 저평가한다",
+      "summary": "A recent study involving over 27,000 participants reveals that people consistently give lower ratings to poems and stories when told a computer program wrote them. This negative reaction stems from readers viewing machine-generated art as less authentic.",
+      "aiSummary": "A recent study involving over 27,000 participants reveals a significant bias against artificially-generated creative writing. When participants were told that poems and stories were written by a computer program, they consistently gave lower ratings compared to identical content attributed to human authors. This negative reaction stems from the perception that machine-generated art lacks authenticity. The researchers identified this systematic devaluation as a form of \"creativity bias\" that affects how people evaluate AI-generated content. The findings suggest that psychological distance from AI technology significantly influences content acceptance, regardless of actual quality. However, the study is limited by its reliance on subjective evaluations and does not consider objective measures of content quality or the actual degree of AI involvement in the creative process.\n\n##",
+      "aiSummaryKo": "최근 연구는 인공지능이 생성한 창작물에 대한 인간의 부정적 편견을 밝혀냈다. 27,000명 이상의 참가자를 대상으로 한 이 연구에서, 동일한 시와 이야기를 컴퓨터가 작성했다고 알려주었을 때 참가자들은 인간이 작성했다고 알려줬을 때보다 유의미하게 낮은 평가를 부여했다. 이러한 부정적 반응은 사람들이 기계가 생성한 예술작품을 진정성이 낮다고 인식하기 때문에 발생한다. 연구진은 AI 생성 콘텐츠에 대한 이러한 체계적 과소평가 현상을 '창조성 편견'으로 분석했다. 이 연구는 AI 기술이 발전해도 인간이 느끼는 심리적 거리감이 기술 수용에 중요한 영향을 미친다는 것을 시사한다. 다만, 이 연구는 주관적 평가에 기반한 것으로, 실제 창작 과정에서의 AI 활용도와 콘텐츠 품질의 객관적 척도를 고려하지 못한 한계가 있다.\n\n##",
+      "aiSummaryEn": "A recent study involving over 27,000 participants reveals a significant bias against artificially-generated creative writing. When participants were told that poems and stories were written by a computer program, they consistently gave lower ratings compared to identical content attributed to human authors. This negative reaction stems from the perception that machine-generated art lacks authenticity. The researchers identified this systematic devaluation as a form of \"creativity bias\" that affects how people evaluate AI-generated content. The findings suggest that psychological distance from AI technology significantly influences content acceptance, regardless of actual quality. However, the study is limited by its reliance on subjective evaluations and does not consider objective measures of content quality or the actual degree of AI involvement in the creative process.\n\n##",
+      "keyPoints": [
+        "**동일 콘텐츠의 이중평가 / Double Standard Evaluation**: 인간 저자 vs AI 저자로 표시된 동일한 창작물에 대해 현저히 다른 평가를 받음",
+        "**진정성 인식 부족 / Perceived Lack of Authenticity**: 사람들이 AI 생성 콘텐츠를 본질적으로 덜 진정하고 덜 창의적인 것으로 인식하는 심리적 편견",
+        "**광범위한 편견 현상 / Widespread Bias**: 27,000명 이상의 대규모 표본에서 일관되게 나타나는 체계적 과소평가로 이는 일반적이고 광범위한 현상임을 시사",
+        "**기술 수용의 심리적 장벽 / Psychological Barrier to Acceptance**: AI 기술의 객관적 성능과 관계없이 인간의 심리적 거리감이 기술 수용의 핵심 요인임을 시사"
+      ],
+      "url": "https://www.psypost.org/people-consistently-devalue-creative-writing-generated-by-artificial-intelligence/",
+      "featured": false
+    },
+    {
+      "id": "381971e27c77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "20일 전 / 20d ago",
+      "title": "Facts and the Fight for Moral High Ground",
+      "titleKo": "사실과 도덕적 우위를 위한 투쟁",
+      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
+      "aiSummary": "This article examines an environmental justice struggle in Philadelphia during August 2019, where a Black resident named Ricky provided video testimony advocating for the closure of a petrochemical refinery. The Philadelphia Energy Solutions (PES) refinery, the largest on the Eastern Seaboard at that time, had operated in close proximity to the Gray's Ferry residential neighborhood. The article reveals the collision between environmental harm experienced by local residents and moral claims made in political discourse. The case demonstrates the disproportionate environmental burden placed on low-income Black communities through industrial facilities. Personal testimony and fact-based environmental justice advocacy are emphasized as critical approaches. This study illuminates complex issues of environmental inequality and the importance of amplifying marginalized community voices in policy debates.\n\n##",
+      "aiSummaryKo": "본 기사는 2019년 8월 필라델피아에서 벌어진 환경 정의 투쟁을 다루고 있습니다. 흑인 주민 리키가 그레이즈 페리 지역의 정유소 폐쇄를 촉구하는 영상 증언을 제공했습니다. 필라델피아 에너지 솔루션(PES) 정유소는 동부 해안 최대 규모였으며 주거지역 근처에서 운영되어 왔습니다. 이 기사는 환경오염으로 인한 지역 주민의 피해와 이에 대한 도덕적 정당성 주장의 충돌을 보여줍니다. 저소득층 흑인 지역사회가 산업 시설로 인한 불균형한 환경 부담을 겪어온 현실을 드러냅니다. 개인의 증언과 사실에 기반한 환경 정의 운동의 중요성을 강조합니다. 이 연구는 환경 불평등과 도시 지역사회의 목소리 대변이라는 복합적 문제를 조명합니다.\n\n##",
+      "aiSummaryEn": "This article examines an environmental justice struggle in Philadelphia during August 2019, where a Black resident named Ricky provided video testimony advocating for the closure of a petrochemical refinery. The Philadelphia Energy Solutions (PES) refinery, the largest on the Eastern Seaboard at that time, had operated in close proximity to the Gray's Ferry residential neighborhood. The article reveals the collision between environmental harm experienced by local residents and moral claims made in political discourse. The case demonstrates the disproportionate environmental burden placed on low-income Black communities through industrial facilities. Personal testimony and fact-based environmental justice advocacy are emphasized as critical approaches. This study illuminates complex issues of environmental inequality and the importance of amplifying marginalized community voices in policy debates.\n\n##",
+      "keyPoints": [
+        "**포인트1**: 환경 불평등 / Environmental Inequality",
+        "**포인트2**: 도덕적 정당성의 전투 / Fight for Moral Authority",
+        "**포인트3**: 주민 증언의 역할 / Power of Community Testimony",
+        "**포인트4**: 사회적 책임과 정책 / Social Accountability and Policy"
+      ],
+      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
+      "featured": false
+    },
     {
       "id": "6947672470a5",
       "tag": "psych",
@@ -21,7 +105,7 @@
         "**사회적 인지 능력** / **Social cognitive ability**: 지능이 단순 IQ를 넘어 타인의 능력을 파악하는 메타-인지적 능력과 관련됨"
       ],
       "url": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0a3fd970e18a",
@@ -326,70 +410,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2510.08736",
-      "featured": false
-    },
-    {
-      "id": "a54174008eb5",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Integrated representational signatures strengthen specificity in brains and models",
-      "titleKo": "",
-      "summary": "arXiv:2510.20847v2 Announce Type: replace Abstract: The extent to which different neural or artificial neural networks (models) rely on equivalent representations to support similar tasks remains a central question in neuroscience and machine learning. Prior work has typically compared systems using a single representational similarity metric, yet each captures only one facet of representational structure. To address this, we leverage a suite of representational similarity metrics-each capturing a distinct facet of representational correspondence, such as geometry, unit-level tuning, or linear",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2510.20847",
-      "featured": false
-    },
-    {
-      "id": "646c7039e621",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Escaping the BLEU Trap: A Signal-Grounded Framework with Decoupled Semantic Guidance for EEG-to-Text Decoding",
-      "titleKo": "",
-      "summary": "arXiv:2603.03312v2 Announce Type: replace-cross Abstract: Decoding natural language from non-invasive EEG signals is a promising yet challenging task. However, current state-of-the-art models remain constrained by three fundamental limitations: Semantic Bias (mode collapse into generic templates), Signal Neglect (hallucination based on linguistic priors rather than neural inputs), and the BLEU Trap, where evaluation metrics are artificially inflated by high-frequency stopwords, masking a lack of true semantic fidelity. To address these challenges, we propose SemKey, a novel multi-stage framewo",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2603.03312",
-      "featured": false
-    },
-    {
-      "id": "a3d5cb0c4033",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "14일 전 / 14d ago",
-      "title": "‘Looking Backward’ to the Future",
-      "titleKo": "",
-      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "22dfe8138a96",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "6시간 전 / 6h ago",
-      "title": "Scientists find hidden brain cells helping deadly cancer grow",
-      "titleKo": "",
-      "summary": "Scientists in Canada have uncovered a surprising weakness in glioblastoma, one of the deadliest brain cancers. They found that certain brain cells—once believed to only support healthy nerves—can actually help tumors grow by sending signals that strengthen cancer cells. When researchers blocked this communication, tumor growth slowed dramatically in lab models.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm",
       "featured": false
     }
   ]
