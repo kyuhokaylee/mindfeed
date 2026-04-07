@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-07T06:06:24.045912+00:00",
+  "updated": "2026-04-07T10:38:54.183052+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "0f6dc42eeced",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Social media analysis links polarized political language to distorted thought patterns",
+      "titleKo": "소셜 미디어 분석, 양극화된 정치 언어와 왜곡된 사고방식의 연관성 규명\n\n또는\n\n소셜 미디어 분석으로 양극화된 정치 언어와 왜곡된 사고패턴의 연관성 밝혀져",
+      "summary": "A new analysis of millions of social media posts reveals that extreme political polarization is closely linked to cognitive distortions, the rigid and exaggerated thought patterns often associated with anxiety and depression.",
+      "aiSummary": "This study analyzed millions of social media posts to examine the relationship between extreme political polarization and cognitive distortions—rigid, exaggerated thought patterns typically associated with anxiety and depression. Researchers used AI-driven language analysis techniques to automatically detect linguistic patterns from highly polarized users and compared them with indicators of cognitive distortions such as black-and-white thinking, catastrophizing, and overgeneralization. The key finding showed that politically polarized posts exhibited significantly higher frequencies of cognitive distortion markers compared to non-polarized posts. The research suggests that political polarization is not merely a difference in opinion but is linked to actual distortions in thought processes themselves. This has important implications for understanding the psychological underpinnings of political divisiveness and potential intervention strategies. However, a limitation is that the analysis relied solely on social media language, which may not fully capture actual psychological states.\n\n##",
+      "aiSummaryKo": "이 연구는 소셜 미디어에서 정치적 양극화와 인지적 왜곡 사이의 연관성을 규명하기 위해 수백만 개의 소셜 미디어 게시물을 분석했습니다. 연구팀은 극단적인 정치적 입장을 가진 사용자들의 언어 패턴을 자동으로 감지하는 AI 분석 기법을 사용했으며, 이를 불안감과 우울증과 관련된 인지적 왜곡(예: 흑백 사고, 과장, 과도한 일반화)의 지표와 비교했습니다. 핵심 결과는 정치적으로 양극화된 게시물에서 인지적 왜곡의 신호가 훨씬 높은 빈도로 나타났다는 것입니다. 이 연구는 정치적 극단화가 단순한 의견 차이가 아니라 사고 과정 자체의 왜곡과 관련이 있음을 시사합니다. 연구의 의의는 정치 분극화의 심리적 근저를 이해하는 데 도움이 된다는 점입니다. 다만 소셜 미디어 언어만을 분석했기 때문에 실제 심리 상태를 완전히 반영하지 못할 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study analyzed millions of social media posts to examine the relationship between extreme political polarization and cognitive distortions—rigid, exaggerated thought patterns typically associated with anxiety and depression. Researchers used AI-driven language analysis techniques to automatically detect linguistic patterns from highly polarized users and compared them with indicators of cognitive distortions such as black-and-white thinking, catastrophizing, and overgeneralization. The key finding showed that politically polarized posts exhibited significantly higher frequencies of cognitive distortion markers compared to non-polarized posts. The research suggests that political polarization is not merely a difference in opinion but is linked to actual distortions in thought processes themselves. This has important implications for understanding the psychological underpinnings of political divisiveness and potential intervention strategies. However, a limitation is that the analysis relied solely on social media language, which may not fully capture actual psychological states.\n\n##",
+      "keyPoints": [
+        "**양극화와 인지적 왜곡의 연관성**: 극단적인 정치 입장을 드러내는 소셜 미디어 게시물에서 불안·우울증 관련 인지적 왜곡이 높은 빈도로 나타남 / Political polarization on social media is associated with increased cognitive distortions commonly linked to anxiety and depression",
+        "**AI를 활용한 대규모 언어 분석**: 수백만 개의 게시물을 자동으로 분석하여 인지적 왜곡의 언어적 신호 탐지 / Large-scale analysis using AI-driven techniques to detect linguistic markers of cognitive distortions across millions of posts",
+        "**사고 과정의 변화**: 정치 극단화는 단순 의견 차이를 넘어 실제 사고 방식과 정보 처리 패턴의 왜곡을 반영 / Political polarization reflects actual distortions in thinking patterns and information processing, not just opinion differences",
+        "**연구의 한계와 추후 방향**: 소셜 미디어 텍스트 분석만으로는 실제 정신 건강 상태를 완전히 파악하기 어려우며, 임상 평가와의 비교 연구 필요 / The study is limited to social media language analysis; clinical validation and longitudinal studies are needed to confirm causal relationships"
+      ],
+      "url": "https://www.psypost.org/social-media-analysis-links-polarized-political-language-to-distorted-thought-pa-2026-03-26/",
+      "featured": true
+    },
+    {
+      "id": "841ffed693c5",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "18시간 전 / 18h ago",
+      "title": "Can a sweet potato help your baby sleep through the night?",
+      "titleKo": "고구마가 아기의 숙면에 도움이 될까?",
+      "summary": "A new study reveals that feeding infants kūmara—a New Zealand sweet potato—as a first food may help them settle back to sleep faster during the night, thanks to its natural, gut-friendly prebiotics.",
+      "aiSummary": "This study investigates how kūmara, a New Zealand sweet potato, may improve nighttime sleep in infants through its natural prebiotic content. The research team hypothesized that prebiotics in kūmara could enhance the infant gut microbiome composition, thereby improving sleep quality. Infants who consumed kūmara as their first food showed faster ability to return to sleep during nighttime awakenings. This finding suggests a significant connection between infant gut health and sleep quality. However, the article lacks specific details including participant numbers, experiment duration, and precise sleep improvement metrics, making it difficult to assess the study's scale and reliability. Despite these limitations, the research demonstrates the meaningful potential of natural foods' prebiotic effects on infant health and development.\n\n##",
+      "aiSummaryKo": "이 연구는 뉴질랜드 고구마인 쿠마라(kūmara)가 영아의 야간 수면에 미치는 영향을 조사했습니다. 연구팀은 쿠마라에 함유된 천연 프리바이오틱스(장 건강을 돕는 물질)가 영아의 장내 미생물 구성을 개선하여 수면을 향상시킬 수 있다고 가정했습니다. 첫 음식으로 쿠마라를 섭취한 영아들이 야간에 더 빠르게 다시 잠을 청할 수 있었던 것으로 나타났습니다. 이는 영아의 장 건강과 수면 질이 밀접하게 연관되어 있음을 시사합니다. 다만 구체적인 참가자 수, 실험 기간, 정확한 수면 개선 수치 등이 기사에 제시되지 않아 연구의 규모와 신뢰성을 판단하기 어렵다는 한계가 있습니다. 이 연구는 천연 식품의 프리바이오틱 효과가 영아 건강에 미칠 수 있는 긍정적 영향을 보여주는 의미 있는 결과입니다.\n\n##",
+      "aiSummaryEn": "This study investigates how kūmara, a New Zealand sweet potato, may improve nighttime sleep in infants through its natural prebiotic content. The research team hypothesized that prebiotics in kūmara could enhance the infant gut microbiome composition, thereby improving sleep quality. Infants who consumed kūmara as their first food showed faster ability to return to sleep during nighttime awakenings. This finding suggests a significant connection between infant gut health and sleep quality. However, the article lacks specific details including participant numbers, experiment duration, and precise sleep improvement metrics, making it difficult to assess the study's scale and reliability. Despite these limitations, the research demonstrates the meaningful potential of natural foods' prebiotic effects on infant health and development.\n\n##",
+      "keyPoints": [
+        "**프리바이오틱 메커니즘** / **Prebiotic Mechanism**: 쿠마라의 천연 프리바이오틱 성분이 영아의 장내 미생물을 개선하여 수면 개선에 기여합니다.",
+        "**수면 개선 효과** / **Sleep Improvement Effect**: 첫 음식으로 쿠마라를 섭취한 영아가 야간에 더 빠르게 재입면(다시 잠들기)할 수 있었습니다.",
+        "**장-뇌 축 연관성** / **Gut-Brain Axis Connection**: 연구는 영아의 장 건강이 수면 질에 직접적으로 영향을 미칠 수 있음을 시사합니다.",
+        "**정보 부족** / **Limited Information**: 구체적인 연구 참가자 수, 실험 기간, 정량적 수면 개선 지표 등이 제시되지 않아 결과의 신뢰성 평가에 어려움이 있습니다."
+      ],
+      "url": "https://www.psypost.org/can-a-sweet-potato-help-your-baby-sleep-through-the-night/",
+      "featured": false
+    },
+    {
+      "id": "a3d5cb0c4033",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "15일 전 / 15d ago",
+      "title": "‘Looking Backward’ to the Future",
+      "titleKo": "'과거를 돌아보며' 미래로 나아가다",
+      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummary": "This text appears to be from a literary work that begins with a narrator claiming to have been born in Boston in 1857. The author anticipates readers' skepticism and emphasizes that the birth year was indeed 1857, not 1957, creating a science fiction setting involving time travel or regression to the past. The narrative compares the past and present (year 2000), describing how Boston's east wind maintains the same penetrating quality despite 143 years having elapsed. The narrator acknowledges that his claims may sound absurd while asserting that he remains a young man. The work explores themes of looking backward to contemplate the future and presents philosophical reflections on the relativity of time and the passage of years. The narrative structure suggests a fantastical premise that challenges conventional understanding of human aging and temporal existence.",
+      "aiSummaryKo": "이 텍스트는 1857년 보스턴에서 태어났다고 주장하는 화자의 이야기로 시작하는 문학 작품으로 보입니다. 저자는 독자들의 의심을 예상하며 자신이 1957년이 아닌 1857년에 태어났음을 강조합니다. 이는 시간 여행이나 과거로의 회귀라는 SF적 설정을 제시하는 것으로 보입니다. 텍스트는 과거와 현재(2000년)를 비교하면서 보스턴의 동풍이 143년의 세월에도 불구하고 동일한 특성을 유지하고 있다고 묘사합니다. 화자는 자신의 주장이 터무니없이 들릴 수 있음을 인정하면서도, 자신이 여전히 젊은 남자라고 밝힙니다. 이 작품은 과거를 돌아보며 미래를 생각해보자는 주제를 담고 있으며, 시간의 상대성과 세월의 흐름에 대한 철학적 성찰을 제시합니다.",
+      "aiSummaryEn": "This text appears to be from a literary work that begins with a narrator claiming to have been born in Boston in 1857. The author anticipates readers' skepticism and emphasizes that the birth year was indeed 1857, not 1957, creating a science fiction setting involving time travel or regression to the past. The narrative compares the past and present (year 2000), describing how Boston's east wind maintains the same penetrating quality despite 143 years having elapsed. The narrator acknowledges that his claims may sound absurd while asserting that he remains a young man. The work explores themes of looking backward to contemplate the future and presents philosophical reflections on the relativity of time and the passage of years. The narrative structure suggests a fantastical premise that challenges conventional understanding of human aging and temporal existence.",
+      "keyPoints": [
+        "1857년 출생이라는 터무니없는 주장 / Absurd claim of being born in 1857 while remaining young",
+        "시간 여행 또는 과거로의 회귀라는 SF적 설정 / Science fiction premise involving time travel or regression to the past",
+        "과거와 현재의 비교를 통한 시간의 흐름 성찰 / Reflection on the passage of time through comparison of past and present",
+        "제목의 '뒤를 돌아보다'라는 메타포를 통한 미래 지향적 사고 / Forward-looking perspective expressed through the metaphor of \"looking backward\" in the title"
+      ],
+      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
+      "featured": false
+    },
+    {
+      "id": "0d1451d96b24",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "Scientists say 7 days of meditation can rewire your brain",
+      "titleKo": "과학자들은 7일간의 명상이 뇌를 재구성할 수 있다고 말한다",
+      "summary": "A single week of intensive meditation and mind-body practices led to measurable changes across the brain and body. Researchers observed improved brain efficiency, boosted immune signaling, and increased natural pain relief chemicals in participants’ blood. The effects even promoted neuron growth and stronger brain connectivity. Surprisingly, the experience mirrored psychedelic-like brain states—without any drugs involved.",
+      "aiSummary": "This study investigated the effects of short-term intensive meditation practice on brain and body changes. Researchers measured brain activity, immune responses, and neurochemical changes in participants who engaged in intensive meditation and mind-body training programs. Results showed that just seven days of meditation practice produced measurable changes across the brain and body, including improved brain efficiency, increased immune signaling, and elevated natural pain-relief chemicals (such as endorphins) in the bloodstream. Additionally, neuron growth promotion and enhanced connectivity between brain regions were observed, and remarkably, these brain states resembled those induced by psychedelic drugs without any pharmaceutical intervention. The study is significant in scientifically demonstrating the neurobiological effects of meditation. However, further validation regarding sample size, long-term sustained effects, and individual differences is needed.\n\n##",
+      "aiSummaryKo": "본 연구는 단기간의 집중적인 명상 수련이 뇌와 신체에 미치는 영향을 조사했습니다. 연구팀은 집중 명상과 마음-신체 수련 프로그램에 참여한 사람들을 대상으로 뇌 활동, 면역 반응, 신경화학물질 변화를 측정했습니다. 결과적으로 단 7일간의 명상 수련만으로도 뇌의 효율성 향상, 면역 신호 전달 증가, 자연적 진통 화학물질(엔도르핀 등) 혈중 농도 증가 등 뇌와 신체 전반에 걸친 측정 가능한 변화가 관찰되었습니다. 추가적으로 신경세포 성장 촉진과 뇌 영역 간 연결성 강화도 확인되었으며, 놀랍게도 이러한 뇌 상태가 약물 없이도 환각제 복용 시의 뇌 상태와 유사한 패턴을 보였습니다. 이 연구는 명상의 신경생물학적 효과를 과학적으로 증명했다는 점에서 의의가 있습니다. 다만 표본 크기, 장기적 지속 효과, 개인차 등에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated the effects of short-term intensive meditation practice on brain and body changes. Researchers measured brain activity, immune responses, and neurochemical changes in participants who engaged in intensive meditation and mind-body training programs. Results showed that just seven days of meditation practice produced measurable changes across the brain and body, including improved brain efficiency, increased immune signaling, and elevated natural pain-relief chemicals (such as endorphins) in the bloodstream. Additionally, neuron growth promotion and enhanced connectivity between brain regions were observed, and remarkably, these brain states resembled those induced by psychedelic drugs without any pharmaceutical intervention. The study is significant in scientifically demonstrating the neurobiological effects of meditation. However, further validation regarding sample size, long-term sustained effects, and individual differences is needed.\n\n##",
+      "keyPoints": [
+        "**뇌 효율성 향상 및 신경연결 강화** / Enhanced brain efficiency and improved neural connectivity observed after 7 days of intensive meditation",
+        "**생리적 변화의 측정 가능성** / Measurable physiological changes including boosted immune signaling and increased endogenous pain-relief chemicals in blood",
+        "**약물 없는 정신변화 유도** / Meditation induced psychedelic-like brain states without any pharmaceutical agents, demonstrating the power of mind-based practices",
+        "**신경가소성 증거** / Promotion of neuron growth and brain rewiring demonstrates neuroplasticity—the brain's ability to physically change through behavioral practices"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192913.htm",
+      "featured": false
+    },
     {
       "id": "63240b002329",
       "tag": "ai",
@@ -21,7 +105,7 @@
         "**산업 적용 가능성**: 수동 휴리스틱 튜닝의 비용과 복잡성을 감소시켜 하드웨어 검증의 효율성과 재현성 향상 / **Industrial Potential**: Reduces manual tuning costs and complexity while improving efficiency and reproducibility of hardware verification processes"
       ],
       "url": "https://arxiv.org/abs/2604.03232",
-      "featured": true
+      "featured": false
     },
     {
       "id": "446dc5e9931f",
@@ -296,80 +380,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
-      "featured": false
-    },
-    {
-      "id": "50c9210d9e1a",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "6시간 전 / 6h ago",
-      "title": "The brain might not create consciousness after all",
-      "titleKo": "",
-      "summary": "Is consciousness something the brain produces, or is it woven into the fabric of reality itself? Renowned neuroscientist Christof Koch is challenging long-held scientific assumptions by confronting the “hard problem” of consciousness — why and how subjective experience exists at all. He highlights growing tensions between neuroscience, physics, and unexplained phenomena like near-death experiences and sudden moments of clarity before death.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192809.htm",
-      "featured": false
-    },
-    {
-      "id": "1ecfbdfb56ef",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists found a protein that drives brain aging — and how to stop it",
-      "titleKo": "",
-      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
-      "featured": false
-    },
-    {
-      "id": "34644aa1b5f6",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Genetic study unravels the link between caffeine intake and sleep timing",
-      "titleKo": "카페인 섭취와 수면 시간대의 연관성을 규명한 유전학 연구",
-      "summary": "While heavy coffee drinking is often blamed for long restless nights, a new genetic analysis reveals that habitual caffeine consumption mainly boosts daytime alertness without inherently causing chronic insomnia.",
-      "aiSummary": "This genetic study reexamines how caffeine consumption affects sleep patterns, challenging the common belief that heavy coffee drinking inevitably causes insomnia. Researchers conducted a large-scale genetic analysis to determine the actual effects of habitual caffeine intake. The key finding reveals that caffeine primarily enhances daytime alertness rather than directly causing chronic insomnia, with significant individual differences in caffeine sensitivity due to genetic factors. This research has important implications for correcting scientific misconceptions about caffeine and enabling personalized caffeine consumption recommendations based on genetic profiles. The study contributes to understanding the complex relationship between genetics and sleep behavior. However, the research is based on observational genetic data, indicating the need for additional clinical trials measuring actual changes in sleep quality and duration across diverse populations.\n\n##",
-      "aiSummaryKo": "이 유전학 연구는 카페인 섭취가 수면에 미치는 영향을 재조명합니다. 일반적으로 커피를 많이 마시면 밤새 잠을 설친다고 알려져 있지만, 최신 유전자 분석 결과는 이를 다르게 해석합니다. 연구팀은 대규모 유전 데이터를 분석하여 습관적인 카페인 섭취의 실제 효과를 파악했습니다. 핵심 발견은 카페인이 주간 각성도를 향상시키는 데 주력하며, 만성 불면증을 직접적으로 유발하지 않는다는 것입니다. 이는 카페인에 대한 민감도가 개인차가 크며, 유전적 요인이 중요한 역할을 한다는 의미입니다. 연구 의의는 카페인 섭취에 대한 과학적 오해를 바로잡고 개인맞춤형 카페인 권장량 설정에 기여할 수 있다는 점입니다. 다만 연구는 관찰 데이터에 기반하므로, 실제 수면 질 변화를 측정하는 추가 임상 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This genetic study reexamines how caffeine consumption affects sleep patterns, challenging the common belief that heavy coffee drinking inevitably causes insomnia. Researchers conducted a large-scale genetic analysis to determine the actual effects of habitual caffeine intake. The key finding reveals that caffeine primarily enhances daytime alertness rather than directly causing chronic insomnia, with significant individual differences in caffeine sensitivity due to genetic factors. This research has important implications for correcting scientific misconceptions about caffeine and enabling personalized caffeine consumption recommendations based on genetic profiles. The study contributes to understanding the complex relationship between genetics and sleep behavior. However, the research is based on observational genetic data, indicating the need for additional clinical trials measuring actual changes in sleep quality and duration across diverse populations.\n\n##",
-      "keyPoints": [
-        "**카페인의 실제 역할 재평가** / Reassessment of caffeine's actual role: 카페인은 만성 불면증의 주범이 아니라 주간 각성도 향상에 주로 기여 / Caffeine contributes primarily to daytime alertness rather than causing chronic insomnia",
-        "**유전적 개인차의 중요성** / Importance of genetic individual differences: 카페인에 대한 민감도는 유전자에 따라 크게 달라져 일괄적 권장이 부적절 / Caffeine sensitivity varies significantly based on genetic factors, making universal recommendations inappropriate",
-        "**과학적 오해 교정** / Correction of scientific misconceptions: 대중의 \"커피 = 불면증\"이라는 편견이 과학적 근거에 기반하지 않음을 증명 / Demonstrates that the common belief linking coffee to insomnia lacks solid scientific foundation",
-        "**맞춤형 건강 가이드라인 기반 제공** / Foundation for personalized health guidelines: 유전자 검사 기반의 개인맞춤형 카페인 섭취 권장량 개발 가능성 제시 / Opens possibility for developing personalized caffeine intake recommendations based on genetic testing"
-      ],
-      "url": "https://www.psypost.org/coffee-habits-boost-daytime-alertness-without-inherently-ruining-nighttime-sleep-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "9d1e5622ca55",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Hikikomori: Can psychological resilience prevent extreme social withdrawal?",
-      "titleKo": "히키코모리: 심리적 회복력이 극단적 사회적 고립을 예방할 수 있을까?",
-      "summary": "Extreme social withdrawal is a growing problem for young adults worldwide. New research indicates that psychological resilience acts as a protective shield, preventing depressive symptoms from spiraling into chronic isolation and helping young people stay connected to society.",
-      "aiSummary": "Extreme social withdrawal (hikikomori) is an increasingly prevalent issue among young adults globally. Recent research demonstrates that psychological resilience serves as a protective factor, preventing depressive symptoms from escalating into chronic isolation and helping individuals maintain social connections. The study examined the progression pathway where depressive symptoms could spiral into extreme withdrawal, revealing that individuals with higher psychological resilience were more effective at sustaining relationships with society. This research is significant because it offers a preventive approach to youth mental health crises and highlights the importance of developing resilience-strengthening programs. However, limitations include insufficient information about specific sample sizes, potential cultural differences across nations, and the duration of longitudinal follow-up observations.\n\n##",
-      "aiSummaryKo": "청년층의 극단적 사회적 고립(히키코모리)이 전 세계적으로 증가하는 추세 속에서, 최근 연구는 심리적 회복력(psychological resilience)이 이러한 고립을 예방하는 핵심 요소임을 시사했다. 연구팀은 우울증 증상이 만성적 고립으로 심화되는 과정을 추적했으며, 심리적 회복력이 높은 개인들이 사회적 관계를 유지하는 데 더 효과적임을 발견했다. 이는 심리적 회복력이 일종의 보호막 역할을 하여 부정적 증상이 악화되는 것을 방지한다는 것을 의미한다. 본 연구의 의의는 청년 정신건강 위기에 대한 예방적 접근법을 제시한다는 점이며, 특히 회복력 강화 프로그램 개발의 중요성을 강조한다. 다만 구체적 표본 규모, 국가별 문화적 차이, 장기 추적 관찰 기간 등에 대한 정보가 제한적이라는 한계가 있다.\n\n##",
-      "aiSummaryEn": "Extreme social withdrawal (hikikomori) is an increasingly prevalent issue among young adults globally. Recent research demonstrates that psychological resilience serves as a protective factor, preventing depressive symptoms from escalating into chronic isolation and helping individuals maintain social connections. The study examined the progression pathway where depressive symptoms could spiral into extreme withdrawal, revealing that individuals with higher psychological resilience were more effective at sustaining relationships with society. This research is significant because it offers a preventive approach to youth mental health crises and highlights the importance of developing resilience-strengthening programs. However, limitations include insufficient information about specific sample sizes, potential cultural differences across nations, and the duration of longitudinal follow-up observations.\n\n##",
-      "keyPoints": [
-        "**심리적 회복력의 보호 기능** / Psychological resilience acts as a protective shield against extreme social withdrawal",
-        "**우울증과 고립의 연쇄 관계 차단** / Breaking the chain between depressive symptoms and chronic isolation through resilience",
-        "**사회적 연결 유지의 중요성** / Maintaining social connections is critical for preventing hikikomori and supporting mental health",
-        "**예방적 중재의 필요성** / Developing resilience-building programs as preventive mental health interventions for young adults"
-      ],
-      "url": "https://www.psypost.org/psychological-coping-skills-protect-young-adults-from-extreme-social-withdrawal-2026-03-26/",
       "featured": false
     }
   ]
