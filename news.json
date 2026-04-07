@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-07T14:59:15.991687+00:00",
+  "updated": "2026-04-07T18:13:22.661883+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "213f3b84f142",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Autism associated with age of maternal grandparents in new study",
+      "titleKo": "새로운 연구에서 자폐증과 모계 조부모의 나이 연관성 발견",
+      "summary": "A new study analyzing over 1.7 million birth records in California reveals that the age of maternal grandparents may be linked to the likelihood of their grandchildren developing autism. The patterns vary substantially across different racial and ethnic groups.",
+      "aiSummary": "A new study analyzing over 1.7 million birth records in California found that the age of maternal grandparents may be associated with their grandchildren's risk of developing autism. The research aimed to identify how genetic and environmental factors across generations influence autism vulnerability. Researchers collected data on over 1.7 million newborns and analyzed the relationship between maternal grandparents' ages and grandchildren's autism diagnoses. Results showed statistically significant associations between maternal grandparents' age and grandchildren's autism prevalence rates, with patterns varying substantially across different racial and ethnic groups. These findings suggest the importance of multigenerational genetic and environmental factors in understanding autism's etiology. However, as an observational study, it cannot establish direct causality, and findings are limited to a specific geographic region and population groups, limiting generalizability.\n\n##",
+      "aiSummaryKo": "캘리포니아의 170만 명 이상의 출생 기록을 분석한 새로운 연구에서 모계 할머니와 할아버지의 나이가 손자녀의 자폐증 발달 가능성과 연관이 있을 수 있다는 것을 발견했습니다. 이 연구는 유전적 영향과 환경적 요인이 세대를 거쳐 어떻게 자폐증 위험도에 영향을 미치는지를 규명하려고 시도했습니다. 연구팀은 170만 명 이상의 신생아 데이터를 수집하고 모계 할머니·할아버지의 나이 정보와 손자녀의 자폐증 진단 여부를 연계 분석했습니다. 결과적으로 모계 할머니·할아버지의 나이가 손자녀의 자폐증 발병률에 통계적으로 유의미한 연관성을 보였으며, 이러한 패턴은 인종 및 민족 집단에 따라 상당히 달랐습니다. 이 발견은 자폐증의 원인을 규명하는 데 있어 다세대 유전 및 환경 요인의 중요성을 시사합니다. 다만 이 연구는 관찰 연구로 인과관계를 직접 증명하지 못했으며, 특정 지역과 인구 집단에 국한되어 일반화에 제한이 있습니다.\n\n##",
+      "aiSummaryEn": "A new study analyzing over 1.7 million birth records in California found that the age of maternal grandparents may be associated with their grandchildren's risk of developing autism. The research aimed to identify how genetic and environmental factors across generations influence autism vulnerability. Researchers collected data on over 1.7 million newborns and analyzed the relationship between maternal grandparents' ages and grandchildren's autism diagnoses. Results showed statistically significant associations between maternal grandparents' age and grandchildren's autism prevalence rates, with patterns varying substantially across different racial and ethnic groups. These findings suggest the importance of multigenerational genetic and environmental factors in understanding autism's etiology. However, as an observational study, it cannot establish direct causality, and findings are limited to a specific geographic region and population groups, limiting generalizability.\n\n##",
+      "keyPoints": [
+        "**대규모 데이터 분석** / Large-scale data analysis: 캘리포니아의 170만 명 이상의 출생 기록을 포함한 대규모 종단 연구로 신뢰성 있는 패턴 도출",
+        "**세대 간 영향 규명** / Transgenerational effects: 모계 할머니·할아버지의 나이가 손자녀의 자폐증 발병률과 연관되어 있어 다세대 영향 존재 시사",
+        "**인종·민족 간 이질성** / Racial and ethnic heterogeneity: 인종 및 민족 집단에 따라 모계 조부모 나이와 자폐증의 연관성 패턴이 상이하여 인구학적 차이 반영",
+        "**인과관계 미확립 및 지역 제한성** / Causality not established and regional limitation: 관찰 연구로서 직접적인 인과관계 증명 불가능하며 특정 지역 데이터로 일반화에 한계"
+      ],
+      "url": "https://www.psypost.org/tracing-the-origins-of-autism-back-to-a-grandmother-s-pregnancy-2026-03-26/",
+      "featured": true
+    },
+    {
+      "id": "8e79529f1580",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "14시간 전 / 14h ago",
+      "title": "The physical basis of information flow in neural matter: a thermocoherent perspective on cognitive dynamics",
+      "titleKo": "신경물질에서의 정보 흐름의 물리적 기초: 인지 역학에 대한 열-간섭성 관점",
+      "summary": "arXiv:2604.04069v1 Announce Type: new Abstract: Information flow is central to contemporary accounts of cognition, yet its physical basis in living neural matter remains poorly specified. Here, we develop a multiscale resource-theoretical framework motivated by the \\textit{thermocoherent effect}, where heat flow is reciprocally coupled to a delocalized information flow carried by shared coherence and not reducible to local subsystem variables. Extending this line of work in light of recent results on correlation-enabled Mpemba-type thermal relaxation, we argue that the operational relevance of",
+      "aiSummary": "This theoretical research investigates the physical basis of how information flows in the brain during cognitive processes. The researchers developed a multiscale framework based on the \"thermocoherent effect,\" a physics concept where heat flow is reciprocally coupled with information flow carried by shared quantum coherence. Their model proposes that information is transmitted through delocalized quantum coherence shared among neural elements, rather than through individual neuron variables alone. Building on recent findings about correlation-enabled thermal relaxation phenomena (Mpemba-type effects), the authors argue that previously unexplainable cognitive processes can be accounted for within this framework. This work suggests that the brain may function as a quantum-utilizing system rather than a purely classical computational machine. However, the scalability of these quantum effects in actual brains and their experimental verifiability remain open questions requiring further investigation.\n\n##",
+      "aiSummaryKo": "이 연구는 뇌의 인지 과정이 어떻게 물리적으로 작동하는지를 설명하기 위해 시작되었습니다. 연구진은 \"열-일관성 효과(thermocoherent effect)\"라는 물리학 개념을 이용하여 신경계에서 정보가 어떻게 흐르는지를 설명하는 다층적 이론 틀을 개발했습니다. 이 모델에서 열의 흐름과 정보의 흐름이 상호적으로 연결되어 있으며, 정보가 신경 세포들 사이의 공유된 양자적 일관성을 통해 전달된다고 제안합니다. 연구진은 최근 발견된 상관관계 기반의 열 이완 현상(Mpemba 효과)을 추가로 고려하여, 이전에 개별 신경 세포 수준에서 설명할 수 없었던 인지 과정들이 이 틀로 설명될 수 있음을 주장합니다. 이 연구는 뇌가 고전적 계산 기계가 아니라 양자적 특성을 활용하는 시스템일 가능성을 시사합니다. 다만 이 이론이 실제 뇌에서 어느 정도 규모로 작동하는지, 그리고 실험적으로 검증될 수 있는지는 여전히 미해결 과제입니다.\n\n##",
+      "aiSummaryEn": "This theoretical research investigates the physical basis of how information flows in the brain during cognitive processes. The researchers developed a multiscale framework based on the \"thermocoherent effect,\" a physics concept where heat flow is reciprocally coupled with information flow carried by shared quantum coherence. Their model proposes that information is transmitted through delocalized quantum coherence shared among neural elements, rather than through individual neuron variables alone. Building on recent findings about correlation-enabled thermal relaxation phenomena (Mpemba-type effects), the authors argue that previously unexplainable cognitive processes can be accounted for within this framework. This work suggests that the brain may function as a quantum-utilizing system rather than a purely classical computational machine. However, the scalability of these quantum effects in actual brains and their experimental verifiability remain open questions requiring further investigation.\n\n##",
+      "keyPoints": [
+        "**열-일관성 효과의 도입** / Introduction of thermocoherent effect: 뇌의 정보 처리가 열과 정보의 상호작용으로 설명될 수 있음을 제안 / Proposes that brain's information processing can be explained through interaction between heat and information flow",
+        "**양자적 일관성의 역할** / Role of quantum coherence: 신경 세포들 간의 양자적 얽힘을 통해 전달되는 정보가 고전적 신경과학으로는 설명 불가능한 인지 현상을 설명할 수 있음 / Quantum coherence among neurons may explain cognitive phenomena unexplainable by classical neuroscience",
+        "**다층적 물리 프레임워크** / Multiscale theoretical framework: 분자 수준부터 신경망 수준까지 여러 층위에서 정보 흐름을 통합적으로 설명하는 이론적 틀 제시 / Presents integrated theoretical framework explaining information flow across molecular to network levels",
+        "**실험적 검증의 필요성** / Need for experimental validation: 현재 순수 이론적 연구로서 실제 뇌에서의 양자 효과 존재 여부와 그 중요성을 확인하는 실험적 증거가 부족함 / Pure theoretical work requiring experimental evidence to confirm existence and significance of quantum effects in actual brains"
+      ],
+      "url": "https://arxiv.org/abs/2604.04069",
+      "featured": false
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "2일 전 / 2d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "우리는 결코 개인이었던 적이 없다",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article presents a philosophical perspective that moves beyond individualism to reveal how deeply humans are interconnected with other living beings. Using respiration as an everyday example, it emphasizes that the oxygen we inhale is produced by plants, while the carbon dioxide we exhale is what plants need for photosynthesis. This demonstrates a mutually dependent relationship where humans and nature continuously exchange resources and coexist. The human body hosts numerous microorganisms and bacteria, making us anything but \"pure individuals.\" This perspective holds academic significance in reinterpreting humanity as part of an ecosystem rather than isolated individuals in a individualistic civilization. However, as a philosophical discussion, it may lack concrete empirical data and quantitative analysis. It presents an important viewpoint that fundamentally reconsiders how interconnected our existence truly is.\n\n##",
+      "aiSummaryKo": "이 기사는 개인주의적 관점에서 벗어나 인간이 다른 생명체들과 얼마나 깊이 연결되어 있는지를 보여주는 철학적 관점을 제시한다. 호흡이라는 일상적인 활동을 통해 설명하는데, 우리가 흡입하는 산소는 식물들이 만들어낸 것이고 우리가 내뉴는 이산화탄소는 식물이 필요로 하는 물질임을 강조한다. 즉, 인간과 자연은 상호의존적 관계를 통해 지속적으로 교환하며 공존하고 있다는 것이다. 인체는 미생물, 박테리아 등 수많은 미생물을 숙주하고 있어 결코 순수한 개인이 아니다. 이 연구는 개인주의 문명에서 벗어나 생태계의 일부로서 인간을 재해석하는 학문적 의의를 지닌다. 다만 철학적 논의로 제시되어 구체적인 실증적 데이터나 정량적 분석이 부족할 수 있다. 이는 인간이 얼마나 상호연결된 존재인지 근본적으로 재고하게 만드는 중요한 관점 제시이다.\n\n##",
+      "aiSummaryEn": "This article presents a philosophical perspective that moves beyond individualism to reveal how deeply humans are interconnected with other living beings. Using respiration as an everyday example, it emphasizes that the oxygen we inhale is produced by plants, while the carbon dioxide we exhale is what plants need for photosynthesis. This demonstrates a mutually dependent relationship where humans and nature continuously exchange resources and coexist. The human body hosts numerous microorganisms and bacteria, making us anything but \"pure individuals.\" This perspective holds academic significance in reinterpreting humanity as part of an ecosystem rather than isolated individuals in a individualistic civilization. However, as a philosophical discussion, it may lack concrete empirical data and quantitative analysis. It presents an important viewpoint that fundamentally reconsiders how interconnected our existence truly is.\n\n##",
+      "keyPoints": [
+        "**상호호흡의 연결성** / Mutual Respiration Connection: 인간과 식물의 호흡은 상호의존적이며, 우리의 呼吸은 다른 생명체의 필요를 충족시킨다.",
+        "**개인주의의 해체** / Deconstruction of Individualism: \"우리는 결코 개인이었던 적이 없다\"는 주장으로, 인간은 독립된 개체가 아닌 생태계의 일부이다.",
+        "**미생물과의 공생** / Symbiosis with Microorganisms: 인체는 수많은 미생물을 숙주하고 있어, 인간은 이미 다중생물(multi-being)의 상태이다.",
+        "**생태적 재해석** / Ecological Reinterpretation: 환경 위기 시대에 인간중심주의를 극복하고 생태계 관점에서 자기 정체성을 재정의할 필요성을 제시한다."
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
+    {
+      "id": "1f2d0b54d063",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "6일 전 / 6d ago",
+      "title": "What It’s Like to Be…a Diplomat",
+      "titleKo": "외교관이 된다는 것은 어떤 것인가",
+      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
+      "aiSummary": "This article features a podcast episode from \"What It's Like to Be...\" series, interviewing John Johnson, a retired diplomat who served in the U.S. Foreign Service for over twenty years. The interview covers real diplomatic experiences including defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the emergency evacuation of the Kabul embassy. The episode addresses practical questions about whether diplomats still use \"cables\" in the 21st century and explores diplomatic terminology such as the meaning of \"not/not.\" The interview provides valuable insights into the actual nature of diplomatic work and its challenges for general audiences. However, the limitation is that it is based on the experiences of a single individual, making it difficult to claim broader representativeness of the entire diplomat community.\n\n##",
+      "aiSummaryKo": "본 기사는 팟캐스트 시리즈 \"What It's Like to Be...\"의 에피소드로, 20년 이상 미국 외교관으로 활동한 퇴직 외교관 존 존슨과의 인터뷰를 다룬다. 인터뷰는 외교 위기 상황에서 대사가 러시아에 대한 선제공격을 암시한 후 이를 진정시키는 과정, 다국어로 외교담당관 성명(demarches)을 전달하는 업무, 그리고 카불 대사관 긴급 철수 상황 등 외교관의 실제 경험을 중심으로 진행된다. 기사는 21세기에도 외교관들이 여전히 \"케이블(cables)\"을 송수신하는지, 그리고 외교 용어인 \"not/not\"의 의미가 무엇인지 등 외교 실무에 대한 궁금증을 다룬다. 이 인터뷰는 일반인들이 외교 업무의 실제 모습과 도전 과제를 이해하는 데 도움을 준다. 다만, 단일 개인의 경험담에 기반하고 있어 외교관 집단 전체의 대표성을 확보하기 어려운 점이 제한적이다.\n\n##",
+      "aiSummaryEn": "This article features a podcast episode from \"What It's Like to Be...\" series, interviewing John Johnson, a retired diplomat who served in the U.S. Foreign Service for over twenty years. The interview covers real diplomatic experiences including defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the emergency evacuation of the Kabul embassy. The episode addresses practical questions about whether diplomats still use \"cables\" in the 21st century and explores diplomatic terminology such as the meaning of \"not/not.\" The interview provides valuable insights into the actual nature of diplomatic work and its challenges for general audiences. However, the limitation is that it is based on the experiences of a single individual, making it difficult to claim broader representativeness of the entire diplomat community.\n\n##",
+      "keyPoints": [
+        "**외교 위기 관리 경험** / **Diplomatic Crisis Management Experience**: 러시아에 대한 선제공격 암시 후 상황 진정 처리 / Handling situations by defusing crises after hints of preemptive strikes on Russia",
+        "**다중 언어 외교 활동** / **Multilingual Diplomatic Operations**: 다국어로 외교담당관 성명(demarches)을 전달하는 핵심 외교 기능 / Core diplomatic function of delivering demarches in multiple languages",
+        "**긴급 상황 대응 능력** / **Emergency Response Capability**: 카불 대사관 긴급 철수와 같은 생존 위기 상황 관리 / Managing survival crises such as emergency evacuation of embassies",
+        "**현대 외교 실무의 현실** / **Reality of Modern Diplomatic Practice**: 21세기에도 여전히 활용되는 \"케이블\" 등 전통적 외교 도구와 용어의 지속성 / Continuity of traditional diplomatic tools and terminology such as \"cables\" in the 21st century"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
+      "featured": false
+    },
+    {
+      "id": "381971e27c77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "22일 전 / 22d ago",
+      "title": "Facts and the Fight for Moral High Ground",
+      "titleKo": "사실과 도덕적 우위를 위한 투쟁",
+      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
+      "aiSummary": "This article examines the environmental justice struggle in southwest Philadelphia, where community activist Ricky testified in August 2019 to demand the closure of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard at that time. The article explores how facts and moral arguments intersect in the fight for environmental justice in marginalized communities. The methodology involves documenting community testimonies, grassroots activism, and scientific evidence linking industrial pollution to health impacts in the Gray's Ferry neighborhood. Key findings demonstrate that sustained community activism combined with health data successfully brought public attention to environmental racism and resulted in policy action. The significance of this work lies in showing how marginalized communities can leverage facts and moral authority to achieve environmental policy changes. However, the article's limitation is that it focuses on a specific event narrative and does not provide comprehensive data on long-term health outcomes or broader policy impacts across multiple communities.\n\n##",
+      "aiSummaryKo": "이 기사는 2019년 8월 필라델피아에서 일어난 지역사회 활동가들의 석유정제소 폐쇄 운동을 배경으로 합니다. 회색페리 지역 주민 릭키는 공개 청문회에서 동부 해안 최대 규모의 필라델피아 에너지 솔루션(PES) 정제소의 폐쇄를 촉구하는 증언을 했습니다. 이 기사는 환경정의 문제와 지역사회가 제시하는 사실들이 정책 결정 과정에서 어떻게 도덕적 우위를 차지하게 되는지를 탐구합니다. 연구 방법으로는 실제 지역사회 활동, 주민 증언, 그리고 과학적 데이터를 통해 오염으로 인한 건강 피해를 입증하는 방식을 사용합니다. 핵심 결과는 오랜 기간 환경오염에 노출된 저소득 흑인 지역사회가 주류 언론의 주목을 받으며 변화를 이끌어낸 것입니다. 이는 과학적 증거와 지역사회의 목소리가 결합될 때 정책 변화가 가능함을 보여줍니다. 다만 이 기사는 특정 사건 중심의 서술이므로 장기적 환경정책 변화의 효과를 측정하기 어렵다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This article examines the environmental justice struggle in southwest Philadelphia, where community activist Ricky testified in August 2019 to demand the closure of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard at that time. The article explores how facts and moral arguments intersect in the fight for environmental justice in marginalized communities. The methodology involves documenting community testimonies, grassroots activism, and scientific evidence linking industrial pollution to health impacts in the Gray's Ferry neighborhood. Key findings demonstrate that sustained community activism combined with health data successfully brought public attention to environmental racism and resulted in policy action. The significance of this work lies in showing how marginalized communities can leverage facts and moral authority to achieve environmental policy changes. However, the article's limitation is that it focuses on a specific event narrative and does not provide comprehensive data on long-term health outcomes or broader policy impacts across multiple communities.\n\n##",
+      "keyPoints": [
+        "**환경정의의 사실 기반 접근** / Evidence-based environmental justice activism: 과학적 데이터와 주민 증언을 결합하여 정책 변화 추진 / Combining scientific data with community testimonies to drive policy change",
+        "**소수집단 지역의 불평등한 오염 노출** / Disproportionate pollution exposure in marginalized communities: 저소득 흑인 지역사회가 환경 위험에 과다 노출되는 환경 불평등 / Low-income Black communities facing disproportionate environmental hazards",
+        "**풀뿌리 운동의 도덕적 우위** / Moral authority of grassroots movements: 지역 주민들의 목소리와 집단행동이 기업과 정부 정책에 영향을 미치는 힘 / Community voices and collective action creating moral pressure on corporations and government",
+        "**과학과 인간의 이야기의 통합** / Integration of science and human narratives: 건강 데이터와 개인적 경험을 함께 제시할 때 사회 변화의 가능성이 높아짐 / Combining health data with personal narratives increases effectiveness of social change efforts"
+      ],
+      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
+      "featured": false
+    },
+    {
+      "id": "0fbc5cca2e7c",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "18시간 전 / 18h ago",
+      "title": "Scientists discover hidden brain switch that tells you to stop eating",
+      "titleKo": "과학자들이 식사를 멈추라고 알려주는 뇌의 숨겨진 스위치를 발견하다",
+      "summary": "Your brain’s “stop eating” signal may come from an unexpected source. Researchers found that astrocytes—once thought to just support neurons—actually play a key role in controlling appetite. After a meal, glucose triggers tanycytes, which send signals to astrocytes that then activate fullness neurons. This newly discovered pathway could lead to innovative treatments for obesity and eating disorders.",
+      "aiSummary": "Researchers have discovered a previously unknown mechanism in the brain that signals when to stop eating. Astrocytes—brain cells previously thought to merely support neurons—actually play a critical role in appetite control. The pathway works as follows: after eating, glucose stimulates tanycytes, which then signal astrocytes, which in turn activate fullness neurons. This discovery significantly expands our understanding of how the brain regulates eating behavior and appetite. The findings could lead to innovative therapeutic approaches for treating obesity and eating disorders. However, it remains unclear whether this research was conducted in animal models or humans, and further clinical validation will be necessary before practical medical applications can be developed.\n\n##",
+      "aiSummaryKo": "연구팀은 뇌에서 음식 섭취를 멈추도록 신호를 보내는 새로운 메커니즘을 발견했습니다. 그동안 신경세포를 단순히 지지하는 역할만 한다고 알려진 성상교세포(astrocytes)가 실제로는 식욕 조절에 핵심적인 역할을 한다는 것을 밝혀냈습니다. 연구 방법은 식사 후 포도당이 탄닉스(tanycytes)를 자극하면, 이들이 성상교세포에 신호를 보내고, 성상교세포가 포만감 신경세포를 활성화하는 과정을 추적하는 실험설계로 진행되었습니다. 이 새로운 신경학적 경로의 발견은 뇌와 식욕 조절 메커니즘에 대한 이해를 크게 확장시킵니다. 향후 비만과 섭식장애 치료를 위한 혁신적인 치료법 개발로 이어질 수 있는 중요한 발견입니다. 다만, 이 연구가 동물 실험 단계인지 인간을 대상으로 한 것인지, 그리고 실제 임상 적용까지의 시간이 얼마나 소요될지는 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Researchers have discovered a previously unknown mechanism in the brain that signals when to stop eating. Astrocytes—brain cells previously thought to merely support neurons—actually play a critical role in appetite control. The pathway works as follows: after eating, glucose stimulates tanycytes, which then signal astrocytes, which in turn activate fullness neurons. This discovery significantly expands our understanding of how the brain regulates eating behavior and appetite. The findings could lead to innovative therapeutic approaches for treating obesity and eating disorders. However, it remains unclear whether this research was conducted in animal models or humans, and further clinical validation will be necessary before practical medical applications can be developed.\n\n##",
+      "keyPoints": [
+        "**성상교세포의 새로운 역할** / Astrocytes' New Function: 신경세포 지지 역할만 한다고 생각했던 성상교세포가 식욕 조절에 직접 관여하는 것으로 밝혀짐",
+        "**포도당-탄닉스-성상교세포-포만감신경의 신호 경로** / Novel Neural Signaling Pathway: 식후 포도당 → 탄닉스 자극 → 성상교세포 신호 → 포만감 신경 활성화의 완전한 메커니즘 규명",
+        "**비만 및 섭식장애 치료의 새로운 가능성** / Therapeutic Potential: 이 신경 경로를 조절하여 비만, 과식증, 거식증 등 섭식 관련 질환의 혁신적 치료법 개발 가능",
+        "**뇌 신경생물학의 기초 이해 확대** / Fundamental Neuroscience Advancement: 뇌의 식욕 조절 메커니즘에 대한 근본적인 이해가 증진되어 향후 연구의 기초 제공"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
+      "featured": false
+    },
     {
       "id": "2627cbc0d9dc",
       "tag": "psych",
@@ -21,7 +147,7 @@
         "**추가 연구 필요** / **Need for Further Research**: 구체적인 임상 효과 수치, 참가자 규모, 장기 효과 등에 대한 상세한 데이터가 필요함 / Requires comprehensive clinical trials with specific efficacy data, larger sample sizes, and long-term outcome assessments"
       ],
       "url": "https://www.psypost.org/a-common-antidepressant-shows-promise-in-treating-methamphetamine-dependence/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9226d311ede5",
@@ -294,117 +420,6 @@
         "**실제 적용 검증 필요** / Need for Real-World Validation"
       ],
       "url": "https://arxiv.org/abs/2604.03233",
-      "featured": false
-    },
-    {
-      "id": "46f35589e42b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Scaling DPPs for RAG: Density Meets Diversity",
-      "titleKo": "RAG를 위한 DPP 확장: 밀도와 다양성의 만남",
-      "summary": "arXiv:2604.03240v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by grounding generation in external knowledge, yielding relevance responses that are aligned with factual evidence and evolving corpora. Standard RAG pipelines construct context through relevance ranking, performing point-wise scoring between the user query and each corpora chunk. This formulation, however, ignores interactions among retrieved candidates, leading to redundant contexts that dilute density and fail to surface complementary evidence. We argue that effective r",
-      "aiSummary": "This research addresses the redundancy problem in Retrieval-Augmented Generation (RAG) systems that enhance Large Language Models by grounding them in external knowledge. Standard RAG pipelines score document relevance only through point-wise similarity between user queries and corpus chunks, ignoring interactions among retrieved candidates and resulting in redundant contexts that reduce information density. The researchers propose using Determinantal Point Processes (DPPs) to simultaneously optimize for relevance density and diversity, ensuring selected documents complement each other while maintaining query alignment. This mathematical approach balances information quality by preventing duplication while preserving topical relevance. The study's significance lies in demonstrating how to construct more efficient and information-dense contexts for RAG systems. However, limitations include computational complexity of DPP calculations and scalability challenges with large-scale datasets that require further optimization.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)의 성능을 향상시키는 검색 증강 생성(RAG) 기술에서 발생하는 중복 정보 문제를 해결하기 위해 진행되었습니다. 기존 RAG 시스템은 사용자 질문과 각 문서 조각 간의 관련성만 점수화하여 선택하기 때문에, 선택된 문서들 간의 상호작용을 무시하고 중복된 정보가 많이 포함되는 문제가 있습니다. 연구팀은 행렬식 점 과정(Determinantal Point Process, DPP)이라는 수학적 방법을 활용하여 관련성(밀도)과 다양성을 동시에 고려하는 새로운 접근법을 제안했습니다. 이 방법은 선택된 문서들이 서로 중복되지 않도록 하면서도 질문과의 관련성을 유지하는 균형을 이루도록 설계되었습니다. 본 연구의 의의는 RAG 시스템에서 더 효율적이고 정보 밀도 높은 맥락을 구성할 수 있음을 보여주는 것입니다. 다만 DPP 방법의 계산 복잡도와 대규모 데이터셋에서의 확장성은 추가 개선이 필요한 부분입니다.\n\n##",
-      "aiSummaryEn": "This research addresses the redundancy problem in Retrieval-Augmented Generation (RAG) systems that enhance Large Language Models by grounding them in external knowledge. Standard RAG pipelines score document relevance only through point-wise similarity between user queries and corpus chunks, ignoring interactions among retrieved candidates and resulting in redundant contexts that reduce information density. The researchers propose using Determinantal Point Processes (DPPs) to simultaneously optimize for relevance density and diversity, ensuring selected documents complement each other while maintaining query alignment. This mathematical approach balances information quality by preventing duplication while preserving topical relevance. The study's significance lies in demonstrating how to construct more efficient and information-dense contexts for RAG systems. However, limitations include computational complexity of DPP calculations and scalability challenges with large-scale datasets that require further optimization.\n\n##",
-      "keyPoints": [
-        "**문제 정의** / Problem Definition",
-        "**제안 방법** / Proposed Solution",
-        "**핵심 개선점** / Key Improvement",
-        "**적용 가능성** / Applicability"
-      ],
-      "url": "https://arxiv.org/abs/2604.03240",
-      "featured": false
-    },
-    {
-      "id": "be5062671189",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "DRAFT: Task Decoupled Latent Reasoning for Agent Safety",
-      "titleKo": "초안: 에이전트 안전을 위한 작업 분리형 잠재 추론",
-      "summary": "arXiv:2604.03242v1 Announce Type: new Abstract: The advent of tool-using LLM agents shifts safety monitoring from output moderation to auditing long, noisy interaction trajectories, where risk-critical evidence is sparse-making standard binary supervision poorly suited for credit assignment. To address this, we propose DRAFT (Task Decoupled Latent Reasoning for Agent Safety), a latent reasoning framework that decouples safety judgment into two trainable stages: an Extractor that distills the full trajectory into a compact continuous latent draft, and a Reasoner that jointly attends to the draf",
-      "aiSummary": "This research addresses safety monitoring challenges for tool-using large language model (LLM) agents, where traditional binary classification methods are inadequate for long, noisy interaction sequences with sparse risk signals. The team proposes DRAFT (Task Decoupled Latent Reasoning for Agent Safety), a novel framework that separates safety judgment into two trainable stages: an Extractor that compresses full interaction trajectories into compact continuous latent representations, and a Reasoner that analyzes these representations for safety assessment. This approach improves credit assignment for sparse risk signals, making LLM agent safety monitoring more effective. The research's significance lies in providing a new direction for evaluating the safety of complex agent behaviors. However, limitations include the lack of specific performance metrics and validation in large-scale real-world environments.\n\n##",
-      "aiSummaryKo": "본 연구는 도구 사용이 가능한 대규모 언어모델(LLM) 에이전트의 안전성 모니터링 문제를 다룹니다. 기존의 이진 분류 방식은 길고 복잡한 상호작용 과정에서 위험 신호가 드물게 나타날 때 효과적이지 못합니다. 연구팀은 DRAFT(작업 분리 잠재 추론)라는 새로운 프레임워크를 제안했으며, 이는 안전성 판단을 두 단계로 나눕니다: 먼저 추출기(Extractor)가 전체 상호작용 궤적을 압축된 연속 잠재 표현으로 변환하고, 추론기(Reasoner)가 이를 분석하여 안전성을 판단합니다. 이 접근법은 희소한 위험 신호에 대한 신용 할당 문제를 개선하여 LLM 에이전트의 안전성 감시를 보다 효과적으로 만듭니다. 연구의 의의는 복잡한 에이전트 행동의 안전성 평가에 새로운 방향을 제시한다는 점입니다. 다만 구체적인 성능 수치와 대규모 실제 환경에서의 검증이 필요한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research addresses safety monitoring challenges for tool-using large language model (LLM) agents, where traditional binary classification methods are inadequate for long, noisy interaction sequences with sparse risk signals. The team proposes DRAFT (Task Decoupled Latent Reasoning for Agent Safety), a novel framework that separates safety judgment into two trainable stages: an Extractor that compresses full interaction trajectories into compact continuous latent representations, and a Reasoner that analyzes these representations for safety assessment. This approach improves credit assignment for sparse risk signals, making LLM agent safety monitoring more effective. The research's significance lies in providing a new direction for evaluating the safety of complex agent behaviors. However, limitations include the lack of specific performance metrics and validation in large-scale real-world environments.\n\n##",
-      "keyPoints": [
-        "**문제 정의** / Problem Definition: 도구 사용 LLM 에이전트의 길고 복잡한 상호작용 과정에서 기존 이진 감시 방식이 희소한 위험 신호를 놓치는 문제",
-        "**제안 솔루션** / Proposed Solution: 추출기-추론기 두 단계로 안전성 판단을 분리하는 DRAFT 프레임워크로 신용 할당 문제 해결",
-        "**핵심 혁신** / Key Innovation: 잠재 추론(Latent Reasoning) 방식으로 전체 궤적을 압축된 연속 표현으로 변환하여 효율적 처리",
-        "**적용 가치** / Application Value: AI 에이전트의 자동화된 안전 모니터링 시스템 고도화로 실제 배포 시 위험 요소 사전 차단 가능"
-      ],
-      "url": "https://arxiv.org/abs/2604.03242",
-      "featured": false
-    },
-    {
-      "id": "6a5410770882",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "General Explicit Network (GEN): A novel deep learning architecture for solving partial differential equations",
-      "titleKo": "일반 명시적 신경망(GEN): 편미분방정식 풀이를 위한 새로운 심층학습 아키텍처",
-      "summary": "arXiv:2604.03321v1 Announce Type: new Abstract: Machine learning, especially physics-informed neural networks (PINNs) and their neural network variants, has been widely used to solve problems involving partial differential equations (PDEs). The successful deployment of such methods beyond academic research remains limited. For example, PINN methods primarily consider discrete point-to-point fitting and fail to account for the potential properties of real solutions. The adoption of continuous activation functions in these approaches leads to local characteristics that align with the equation so",
-      "aiSummary": "This research proposes GEN (General Explicit Network), a novel deep learning architecture designed to solve partial differential equations (PDEs). Existing Physics-Informed Neural Networks (PINNs) have limitations, primarily focusing on discrete point-to-point fitting while failing to capture the global properties of actual solutions, and relying on continuous activation functions that only learn local characteristics. The research team developed GEN to overcome these limitations, enabling the neural network to better capture global properties of PDEs. This methodology aims for practical applications in scientific computing and physics simulations beyond academic research. The GEN architecture is expected to demonstrate superior performance compared to conventional PINN approaches, potentially enabling more accurate modeling of complex physical phenomena. However, the method requires extensive validation across diverse types of PDEs and improvements in computational efficiency to be fully realized.\n\n##",
-      "aiSummaryKo": "이 연구는 편미분방정식(PDE) 해결을 위한 새로운 딥러닝 아키텍처인 GEN(General Explicit Network)을 제안합니다. 기존의 물리정보신경망(PINN)은 이산적인 점 단위의 적합에만 집중하면서 실제 해의 특성을 충분히 반영하지 못하고, 연속 활성화함수 사용으로 국소적 특성만 학습하는 문제가 있었습니다. 연구팀은 이러한 한계를 극복하기 위해 GEN이라는 새로운 신경망 구조를 개발했으며, 이는 편미분방정식의 전역적 특성을 더 잘 포착할 수 있도록 설계되었습니다. 이 방법론은 과학계산, 물리시뮬레이션 등 실제 학문 분야에서의 실질적 활용을 목표로 합니다. GEN 아키텍처는 기존 PINN 방식보다 더 우수한 성능을 보여줄 것으로 기대되며, 복잡한 물리현상을 더 정확하게 모델링할 수 있을 것으로 예상됩니다. 다만, 다양한 종류의 편미분방정식에 대한 광범위한 검증과 계산 효율성 개선이 필요한 상태입니다.\n\n##",
-      "aiSummaryEn": "This research proposes GEN (General Explicit Network), a novel deep learning architecture designed to solve partial differential equations (PDEs). Existing Physics-Informed Neural Networks (PINNs) have limitations, primarily focusing on discrete point-to-point fitting while failing to capture the global properties of actual solutions, and relying on continuous activation functions that only learn local characteristics. The research team developed GEN to overcome these limitations, enabling the neural network to better capture global properties of PDEs. This methodology aims for practical applications in scientific computing and physics simulations beyond academic research. The GEN architecture is expected to demonstrate superior performance compared to conventional PINN approaches, potentially enabling more accurate modeling of complex physical phenomena. However, the method requires extensive validation across diverse types of PDEs and improvements in computational efficiency to be fully realized.\n\n##",
-      "keyPoints": [
-        "**기존 기술의 한계 극복** / Overcoming Existing Technology Limitations",
-        "**전역적 특성 포착** / Capturing Global Properties",
-        "**실제 응용 가능성** / Practical Application Potential",
-        "**향후 개선 필요** / Future Improvements Needed"
-      ],
-      "url": "https://arxiv.org/abs/2604.03321",
-      "featured": false
-    },
-    {
-      "id": "acd35272b5c0",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Large Language Models Align with the Human Brain during Creative Thinking",
-      "titleKo": "",
-      "summary": "arXiv:2604.03480v1 Announce Type: new Abstract: Creative thinking is a fundamental aspect of human cognition, and divergent thinking-the capacity to generate novel and varied ideas-is widely regarded as its core generative engine. Large language models (LLMs) have recently demonstrated impressive performance on divergent thinking tests and prior work has shown that models with higher task performance tend to be more aligned to human brain activity. However, existing brain-LLM alignment studies have focused on passive, non-creative tasks. Here, we explore brain alignment during creative thinkin",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.03480",
-      "featured": false
-    },
-    {
-      "id": "e2ae8dea9e9c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Neurological Plausibility of AI-Generated Music for Commercial Environments: An In-Silico Cortical Investigation Using Wubble and TRIBE v2",
-      "titleKo": "",
-      "summary": "arXiv:2604.04025v1 Announce Type: new Abstract: Background music shapes attention, affect, and approach behavior in commercial environments, yet the neural plausibility of AI-generated music for such settings remains poorly characterized. We present an in-silico pilot study that combines Wubble, a generative music system, with TRIBE v2, a publicly released whole-brain encoding model, to estimate cortical response profiles for prompt-conditioned retail music. Five fully instrumental tracks were generated to span low-to-high arousal, sparse-to-dense arrangement, and neutral-to-positive valence p",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.04025",
-      "featured": false
-    },
-    {
-      "id": "09afbc69b7bf",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Topological Sensitivity in Connectome-Constrained Neural Networks",
-      "titleKo": "",
-      "summary": "arXiv:2604.04033v1 Announce Type: new Abstract: Connectome-constrained neural networks are often evaluated against sparse random controls and then interpreted as evidence that biological graph topology improves learning efficiency. We revisit that claim in a controlled flyvis-based study using a Drosophila connectome, a naive self-loop-matched random graph, and a degree-preserving rewired null. Under weak controls, in which both models were recovered from a connectome-trained checkpoint and the null matched only global graph counts, the connectome appeared substantially better in early loss, m",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.04033",
       "featured": false
     }
   ]
