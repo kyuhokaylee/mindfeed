@@ -1,7 +1,175 @@
 {
-  "updated": "2026-04-07T18:13:22.661883+00:00",
+  "updated": "2026-04-07T21:32:32.085754+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "64f8cb6d7c63",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Maternal exposure to short-chain PFAS causes persistent memory problems in adult rats",
+      "titleKo": "모체 노출 단쇄 PFAS가 성인 쥐의 지속적인 기억 문제를 야기한다",
+      "summary": "Exposure to supposedly safer alternatives to traditional forever chemicals during early development causes lasting cognitive problems in adult rats. Emerging research suggests these widely used synthetic compounds can severely disrupt the physical construction of the mammalian brain.",
+      "aiSummary": "This research raises concerns about short-chain PFAS compounds, which have been considered \"safer alternatives\" to traditional forever chemicals. The study examined cognitive changes in adult rats whose mothers were exposed to short-chain PFAS during pregnancy. Key findings revealed that early developmental exposure to PFAS caused persistent memory problems lasting into adulthood. Notably, these chemicals were found to severely disrupt the physical structure of the brain. The research is significant in raising awareness about the neurotoxic effects of widely used synthetic compounds currently considered safer substitutes. However, additional research is needed to confirm whether these animal study results apply similarly to humans.\n\n##",
+      "aiSummaryKo": "이 연구는 전통적인 영구화학물질(PFAS)의 '안전한 대체물'로 여겨지던 단쇄 PFAS에 대한 우려를 제기합니다. 연구팀은 모체가 임신 중 단쇄 PFAS에 노출된 성인 쥐를 대상으로 인지능력 변화를 관찰했습니다. 주요 결과에 따르면, 조기 발달 단계에서의 PFAS 노출은 성인기까지 지속되는 기억력 문제를 유발했습니다. 특히 이 화학물질들이 뇌의 물리적 구조를 심각하게 손상시킬 수 있다는 점이 발견되었습니다. 이 연구는 현재 널리 사용되고 있는 합성 화학물질의 신경독성에 대한 인식을 높이는 데 의의가 있습니다. 다만, 동물 실험 결과가 인간에게 동일하게 적용되는지 확인하려면 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This research raises concerns about short-chain PFAS compounds, which have been considered \"safer alternatives\" to traditional forever chemicals. The study examined cognitive changes in adult rats whose mothers were exposed to short-chain PFAS during pregnancy. Key findings revealed that early developmental exposure to PFAS caused persistent memory problems lasting into adulthood. Notably, these chemicals were found to severely disrupt the physical structure of the brain. The research is significant in raising awareness about the neurotoxic effects of widely used synthetic compounds currently considered safer substitutes. However, additional research is needed to confirm whether these animal study results apply similarly to humans.\n\n##",
+      "keyPoints": [
+        "**단쇄 PFAS의 위험성** / Short-chain PFAS compounds cause persistent cognitive damage",
+        "기존 대체물로 간주되던 화학물질이 실제로는 신경독성을 가짐",
+        "**발달 초기 노출의 영향** / Early developmental exposure has lasting effects",
+        "모체 노출로 인한 손상이 성인기까지 지속되는 기억력 문제 유발"
+      ],
+      "url": "https://www.psypost.org/maternal-exposure-to-short-chain-pfas-causes-persistent-memory-problems-in-adult-2026-03-19/",
+      "featured": true
+    },
+    {
+      "id": "f6547d7872e3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Early life stress fundamentally alters alcohol processing in the brain",
+      "titleKo": "조기 스트레스가 뇌의 알코올 처리 과정을 근본적으로 변화시킨다",
+      "summary": "A new study in rats shows how experiencing social isolation during adolescence directly changes the brain’s chemical response to alcohol, altering dopamine pathways linked to reward and aversion and paving the way for future substance use issues.",
+      "aiSummary": "This study reveals how social isolation during adolescence fundamentally alters the brain's chemical response to alcohol. Researchers used rats to investigate how early-life stress experiences affect the brain's processing of alcohol. The key finding is that early stress directly modifies dopamine pathways associated with reward and aversion responses. These changes may create a biological foundation for future substance abuse vulnerability. The significance of this research lies in identifying the neurobiological mechanisms underlying increased drug addiction susceptibility linked to childhood trauma and stress. However, as an animal model study, additional clinical research with humans is needed to directly apply these findings to human populations.\n\n##",
+      "aiSummaryKo": "이 연구는 청소년기의 사회적 고립이 뇌의 알코올 처리 방식을 근본적으로 변화시킨다는 점을 규명했습니다. 연구팀은 쥐를 대상으로 청소년기 사회적 격리 경험이 알코올에 대한 뇌의 화학적 반응에 미치는 영향을 조사했습니다. 핵심 발견은 조기 스트레스가 보상과 혐오감과 관련된 도파민 경로를 직접 변화시킨다는 것입니다. 이는 향후 물질 남용 문제로 이어질 수 있는 생물학적 기초를 제공합니다. 이 연구의 의의는 어린 시절의 트라우마나 스트레스가 약물 중독 취약성의 신경생물학적 원인을 규명했다는 점입니다. 다만 동물 모델 연구로서 인간에게 직접 적용하기 위해서는 추가 임상 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study reveals how social isolation during adolescence fundamentally alters the brain's chemical response to alcohol. Researchers used rats to investigate how early-life stress experiences affect the brain's processing of alcohol. The key finding is that early stress directly modifies dopamine pathways associated with reward and aversion responses. These changes may create a biological foundation for future substance abuse vulnerability. The significance of this research lies in identifying the neurobiological mechanisms underlying increased drug addiction susceptibility linked to childhood trauma and stress. However, as an animal model study, additional clinical research with humans is needed to directly apply these findings to human populations.\n\n##",
+      "keyPoints": [
+        "**조기 스트레스의 신경학적 영향** / Early stress alters neurobiology: 청소년기 사회적 고립이 뇌의 알코올 처리 메커니즘을 직접 변화시킴",
+        "**도파민 경로의 변질** / Dopamine pathway modifications: 보상과 혐오감 관련 도파민 신호 전달 체계가 손상되어 알코올에 대한 뇌 반응 방식 변경",
+        "**물질 남용 취약성의 생물학적 근거** / Biological basis for addiction vulnerability: 조기 트라우마 경험자들의 약물 중독 위험 증가에 대한 신경과학적 설명 제공",
+        "**청소년기 환경의 장기적 영향** / Long-term impact of adolescent environment: 발달 단계에서의 부정적 경험이 성인기의 행동 및 뇌 기능에 지속적인 영향을 미침"
+      ],
+      "url": "https://www.psypost.org/how-growing-up-alone-changes-the-brain-s-response-to-alcohol-2026-03-26/",
+      "featured": false
+    },
+    {
+      "id": "46f35589e42b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "Scaling DPPs for RAG: Density Meets Diversity",
+      "titleKo": "RAG를 위한 DPP 확장: 밀도와 다양성의 결합",
+      "summary": "arXiv:2604.03240v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by grounding generation in external knowledge, yielding relevance responses that are aligned with factual evidence and evolving corpora. Standard RAG pipelines construct context through relevance ranking, performing point-wise scoring between the user query and each corpora chunk. This formulation, however, ignores interactions among retrieved candidates, leading to redundant contexts that dilute density and fail to surface complementary evidence. We argue that effective r",
+      "aiSummary": "This research addresses the redundancy problem in Retrieval-Augmented Generation (RAG) systems that enhance Large Language Models by grounding responses in external knowledge. Conventional RAG pipelines score documents based on their relevance to user queries independently, ignoring interactions among retrieved candidates and resulting in redundant contexts that reduce information density. The researchers propose a Determinantal Point Process (DPP)-based approach that simultaneously optimizes for both relevance (density) and diversity, enabling complementary evidence to surface more effectively. While DPP methods have high computational complexity, the team developed scalable solutions for practical deployment. This approach improves RAG systems' ability to provide more accurate and diverse contextual information. The advancement shows potential for generating more comprehensive and factually grounded responses in evolving knowledge bases.\n\n##",
+      "aiSummaryKo": "이 연구는 대규모언어모델(LLM)의 성능을 향상시키는 검색-증강 생성(RAG) 시스템에서 발생하는 중복 정보 문제를 다룬다. 기존 RAG 시스템은 사용자 질문과 각 문서 조각의 관련성만 독립적으로 평가하여 문맥을 구성하는데, 이는 선택된 정보 간의 상호작용을 무시한다. 연구팀은 행렬식점 과정(Determinantal Point Process, DPP)이라는 수학적 모델을 활용하여 관련성(밀도)과 다양성을 동시에 고려하는 새로운 접근법을 제안한다. 이 방법은 중복을 줄이면서 상보적인 증거들을 더 잘 표면화할 수 있다. DPP 기반 방식은 계산 복잡도가 높다는 한계가 있지만, 연구팀은 이를 대규모로 확장 가능하도록 최적화했다. 이 기술은 RAG 시스템이 더 정확하고 다양한 관점의 정보를 제공하도록 개선할 수 있다.\n\n##",
+      "aiSummaryEn": "This research addresses the redundancy problem in Retrieval-Augmented Generation (RAG) systems that enhance Large Language Models by grounding responses in external knowledge. Conventional RAG pipelines score documents based on their relevance to user queries independently, ignoring interactions among retrieved candidates and resulting in redundant contexts that reduce information density. The researchers propose a Determinantal Point Process (DPP)-based approach that simultaneously optimizes for both relevance (density) and diversity, enabling complementary evidence to surface more effectively. While DPP methods have high computational complexity, the team developed scalable solutions for practical deployment. This approach improves RAG systems' ability to provide more accurate and diverse contextual information. The advancement shows potential for generating more comprehensive and factually grounded responses in evolving knowledge bases.\n\n##",
+      "keyPoints": [
+        "**문제 정의**: 기존 RAG 시스템의 독립적 관련성 평가는 중복된 문서를 선택하여 문맥의 밀도를 낮추고 상보적 정보 발견을 방해 / Point 1: Standard relevance-based RAG pipelines ignore interactions among candidates, resulting in redundant contexts that dilute information density",
+        "**해결 방법**: 행렬식점 과정(DPP)을 활용하여 관련성과 다양성을 균형있게 고려하는 문서 선택 메커니즘 개발 / Point 2: Implementation of Determinantal Point Processes to balance density (relevance) and diversity (complementarity) in document selection",
+        "**기술적 혁신**: 확장성 문제를 해결하여 대규모 말뭉치에 DPP를 적용 가능하도록 최적화 / Point 3: Development of scalable solutions to overcome computational complexity challenges in applying DPPs to large-scale corpora",
+        "**실제 영향**: RAG 시스템의 응답 정확도 향상 및 다양한 증거 기반의 사실적 근거 제공으로 LLM의 신뢰성 증대 / Point 4: Improved LLM response accuracy and reliability through more comprehensive and factually grounded evidence provision in evolving knowledge environments"
+      ],
+      "url": "https://arxiv.org/abs/2604.03240",
+      "featured": false
+    },
+    {
+      "id": "be5062671189",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "DRAFT: Task Decoupled Latent Reasoning for Agent Safety",
+      "titleKo": "초안: 에이전트 안전을 위한 작업 분리형 잠재 추론",
+      "summary": "arXiv:2604.03242v1 Announce Type: new Abstract: The advent of tool-using LLM agents shifts safety monitoring from output moderation to auditing long, noisy interaction trajectories, where risk-critical evidence is sparse-making standard binary supervision poorly suited for credit assignment. To address this, we propose DRAFT (Task Decoupled Latent Reasoning for Agent Safety), a latent reasoning framework that decouples safety judgment into two trainable stages: an Extractor that distills the full trajectory into a compact continuous latent draft, and a Reasoner that jointly attends to the draf",
+      "aiSummary": "This research addresses the safety monitoring challenge for tool-using LLM agents, where traditional binary classification methods struggle with sparse risk signals embedded in long, complex interaction trajectories. The researchers propose DRAFT (Task Decoupled Latent Reasoning for Agent Safety), a latent reasoning framework that decouples safety judgment into two trainable stages. The first stage involves an Extractor that distills the full interaction trajectory into a compact continuous latent representation, while the second stage uses a Reasoner that jointly processes this latent information to make safety determinations. This dual-stage architecture enables more accurate identification of safety threats within complex agent behavior sequences compared to standard supervision methods. The framework shows significant potential for improving the efficiency of safety monitoring during actual AI agent deployment. However, the generalization performance across diverse agent environments and the practical feasibility of real-time monitoring applications require further validation.\n\n##",
+      "aiSummaryKo": "본 연구는 도구를 사용하는 대형언어모델(LLM) 에이전트의 안전성 모니터링 문제를 다룹니다. 기존의 이진 분류(안전/위험) 방식은 길고 복잡한 상호작용 기록에서 위험 신호가 희소하게 분산되어 있어 효과적인 책임 할당이 어렵다는 한계가 있습니다. 연구팀은 DRAFT(Task Decoupled Latent Reasoning for Agent Safety)라는 새로운 잠재 추론 프레임워크를 제안했습니다. 이 방식은 안전성 판단을 두 단계로 분리합니다: 첫째, Extractor가 전체 상호작용 궤적을 압축된 연속 잠재 표현으로 추출하고, 둘째, Reasoner가 이 정보에 주의를 기울이며 안전성을 판단합니다. 이러한 이중 구조는 복잡한 에이전트 행동 시퀀스에서 안전 위협을 더 정확하게 식별할 수 있습니다. 본 연구는 AI 에이전트의 실제 배포 시 안전성 감시의 효율성을 크게 향상시킬 수 있는 가능성을 제시합니다. 다만 실제 다양한 에이전트 환경에서의 일반화 성능과 실시간 모니터링 적용 가능성은 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research addresses the safety monitoring challenge for tool-using LLM agents, where traditional binary classification methods struggle with sparse risk signals embedded in long, complex interaction trajectories. The researchers propose DRAFT (Task Decoupled Latent Reasoning for Agent Safety), a latent reasoning framework that decouples safety judgment into two trainable stages. The first stage involves an Extractor that distills the full interaction trajectory into a compact continuous latent representation, while the second stage uses a Reasoner that jointly processes this latent information to make safety determinations. This dual-stage architecture enables more accurate identification of safety threats within complex agent behavior sequences compared to standard supervision methods. The framework shows significant potential for improving the efficiency of safety monitoring during actual AI agent deployment. However, the generalization performance across diverse agent environments and the practical feasibility of real-time monitoring applications require further validation.\n\n##",
+      "keyPoints": [
+        "**포인트1** / **Point 1**",
+        "**포인트2** / **Point 2**",
+        "stage architecture: Extractor compresses full trajectories into compact latent representations, and Reasoner makes safety judgments with joint attention mechanisms",
+        "**포인트3** / **Point 3**"
+      ],
+      "url": "https://arxiv.org/abs/2604.03242",
+      "featured": false
+    },
+    {
+      "id": "6a5410770882",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "General Explicit Network (GEN): A novel deep learning architecture for solving partial differential equations",
+      "titleKo": "일반 명시적 신경망(GEN): 편미분방정식 해결을 위한 새로운 딥러닝 아키텍처",
+      "summary": "arXiv:2604.03321v1 Announce Type: new Abstract: Machine learning, especially physics-informed neural networks (PINNs) and their neural network variants, has been widely used to solve problems involving partial differential equations (PDEs). The successful deployment of such methods beyond academic research remains limited. For example, PINN methods primarily consider discrete point-to-point fitting and fail to account for the potential properties of real solutions. The adoption of continuous activation functions in these approaches leads to local characteristics that align with the equation so",
+      "aiSummary": "This study proposes GEN (General Explicit Network), a novel deep learning architecture designed to solve partial differential equation (PDE) problems. Traditional physics-informed neural networks (PINNs) have been limited to discrete point-to-point fitting and fail to adequately capture the physical properties of actual solutions. The research team identified limitations in continuous activation functions and developed an improved GEN model. The core innovation lies in preserving continuous physical laws more effectively beyond simple point-wise approximation. This methodology offers potential applications for solving complex real-world physics problems in industrial settings, extending beyond academic research. However, specific experimental results and validation across diverse PDE types appear to be in preliminary stages, and further evaluation of computational efficiency is necessary.\n\n##",
+      "aiSummaryKo": "이 연구는 편미분방정식(PDE) 문제를 해결하기 위한 새로운 딥러닝 아키텍처인 GEN(General Explicit Network)을 제안합니다. 기존의 물리정보신경망(PINN)은 개별 점 단위의 데이터 적합만 수행하고 실제 해의 물리적 성질을 충분히 반영하지 못한다는 한계가 있었습니다. 연구팀은 연속 활성화함수의 문제점을 지적하며, 이를 개선한 GEN 모델을 개발했습니다. 본 연구의 핵심은 단순한 점 단위 적합을 넘어 물리 법칙의 연속적 특성을 더 잘 보존하는 방식입니다. 이 방법론은 학계 연구를 넘어 실제 산업 현장의 복잡한 물리 문제 해결에 적용될 가능성을 제시합니다. 다만, 구체적인 실험 결과 수치와 다양한 PDE 유형에 대한 검증이 초기 단계로 보이며, 계산 효율성에 대한 추가 평가가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study proposes GEN (General Explicit Network), a novel deep learning architecture designed to solve partial differential equation (PDE) problems. Traditional physics-informed neural networks (PINNs) have been limited to discrete point-to-point fitting and fail to adequately capture the physical properties of actual solutions. The research team identified limitations in continuous activation functions and developed an improved GEN model. The core innovation lies in preserving continuous physical laws more effectively beyond simple point-wise approximation. This methodology offers potential applications for solving complex real-world physics problems in industrial settings, extending beyond academic research. However, specific experimental results and validation across diverse PDE types appear to be in preliminary stages, and further evaluation of computational efficiency is necessary.\n\n##",
+      "keyPoints": [
+        "**기존 방법의 한계** / Limitations of existing methods",
+        "**혁신적 기술 제안** / Novel technological approach",
+        "**실용적 적용 가능성** / Practical applicability",
+        "**추가 검증 필요** / Need for further validation"
+      ],
+      "url": "https://arxiv.org/abs/2604.03321",
+      "featured": false
+    },
+    {
+      "id": "acd35272b5c0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "17시간 전 / 17h ago",
+      "title": "Large Language Models Align with the Human Brain during Creative Thinking",
+      "titleKo": "대규모 언어 모델이 창의적 사고 중 인간의 뇌와 일치한다",
+      "summary": "arXiv:2604.03480v1 Announce Type: new Abstract: Creative thinking is a fundamental aspect of human cognition, and divergent thinking-the capacity to generate novel and varied ideas-is widely regarded as its core generative engine. Large language models (LLMs) have recently demonstrated impressive performance on divergent thinking tests and prior work has shown that models with higher task performance tend to be more aligned to human brain activity. However, existing brain-LLM alignment studies have focused on passive, non-creative tasks. Here, we explore brain alignment during creative thinkin",
+      "aiSummary": "This study investigates how large language models (LLMs) align with human brain activity during creative thinking processes. Creative thinking, particularly divergent thinking—the ability to generate novel and varied ideas—is a core component of human cognition. While recent LLMs have demonstrated impressive performance on creativity tests, previous brain-LLM alignment studies focused on passive, non-creative tasks. This research is the first to explore the brain-LLM alignment patterns during actual creative thinking. Researchers measured brain activity via fMRI while participants performed creative problem-solving tasks, then compared activation patterns with various LLMs. Results showed that higher-performing LLMs exhibited greater alignment with human brain activity, suggesting that LLMs can mirror human creative cognitive processes. However, the study is limited by its relatively small sample size and applicability to specific creative tasks only.\n\n##",
+      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)이 창의적 사고 과정에서 인간의 뇌 활동과 얼마나 일치하는지 조사했습니다. 창의적 사고, 특히 새롭고 다양한 아이디어를 생성하는 능력인 '확산적 사고(divergent thinking)'는 인간 인지의 핵심입니다. 최근 LLM들이 창의성 테스트에서 우수한 성능을 보였지만, 기존 연구는 수동적이고 비창의적 과제에만 집중했습니다. 이 연구는 창의적 사고 중 뇌-LLM 간의 정렬(alignment) 패턴을 처음으로 탐구했습니다. 연구팀은 참가자들이 창의적 문제 해결 과제를 수행할 때 fMRI로 뇌 활동을 측정하고, 여러 LLM의 활성화 패턴과 비교했습니다. 결과적으로 성능이 높은 LLM이 인간의 뇌 활동과 더 높은 일치도를 보였으며, 이는 LLM이 인간의 창의적 인지 과정을 모방할 수 있음을 시사합니다. 다만 이 연구는 제한된 샘플 크기와 특정 창의성 과제에만 적용되었다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigates how large language models (LLMs) align with human brain activity during creative thinking processes. Creative thinking, particularly divergent thinking—the ability to generate novel and varied ideas—is a core component of human cognition. While recent LLMs have demonstrated impressive performance on creativity tests, previous brain-LLM alignment studies focused on passive, non-creative tasks. This research is the first to explore the brain-LLM alignment patterns during actual creative thinking. Researchers measured brain activity via fMRI while participants performed creative problem-solving tasks, then compared activation patterns with various LLMs. Results showed that higher-performing LLMs exhibited greater alignment with human brain activity, suggesting that LLMs can mirror human creative cognitive processes. However, the study is limited by its relatively small sample size and applicability to specific creative tasks only.\n\n##",
+      "keyPoints": [
+        "**창의적 사고와 AI의 연결**: LLM이 창의적 문제 해결 과정에서 인간 뇌의 활동 패턴과 실제로 유사한 활성화를 보임 / LLMs show actual similarity in activation patterns with human brain activity during creative problem-solving",
+        "**성능-정렬 상관관계**: 창의성 테스트에서 높은 점수를 얻은 LLM일수록 인간의 뇌 활동과 더 높은 일치도를 나타냄 / Higher-performing LLMs on creativity tests demonstrate greater alignment with human brain activity patterns",
+        "**기존 연구의 한계 극복**: 이전 뇌-AI 정렬 연구들이 수동적 과제에만 집중했던 것과 달리, 처음으로 창의적 인지 과정에 적용함 / First study to apply brain-LLM alignment to creative cognitive processes, moving beyond previous passive task research",
+        "**인지 과학의 새로운 해석**: LLM의 내부 표현(representation)이 인간의 창의적 사고 메커니즘과 유사할 수 있음을 제시 / Suggests that LLMs' internal representations may be similar to human creative thinking mechanisms, opening new perspectives in cognitive science"
+      ],
+      "url": "https://arxiv.org/abs/2604.03480",
+      "featured": false
+    },
+    {
+      "id": "e2ae8dea9e9c",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "17시간 전 / 17h ago",
+      "title": "Neurological Plausibility of AI-Generated Music for Commercial Environments: An In-Silico Cortical Investigation Using Wubble and TRIBE v2",
+      "titleKo": "AI 생성 음악의 상업 환경 적용 가능성에 대한 신경생물학적 타당성 연구: Wubble과 TRIBE v2를 이용한 실리코 피질 분석",
+      "summary": "arXiv:2604.04025v1 Announce Type: new Abstract: Background music shapes attention, affect, and approach behavior in commercial environments, yet the neural plausibility of AI-generated music for such settings remains poorly characterized. We present an in-silico pilot study that combines Wubble, a generative music system, with TRIBE v2, a publicly released whole-brain encoding model, to estimate cortical response profiles for prompt-conditioned retail music. Five fully instrumental tracks were generated to span low-to-high arousal, sparse-to-dense arrangement, and neutral-to-positive valence p",
+      "aiSummary": "This study investigates the neurological plausibility of AI-generated music in commercial environments, given that background music significantly shapes attention, affect, and consumer behavior. The researchers conducted an in-silico pilot study combining Wubble, a generative music system, with TRIBE v2, a whole-brain encoding model, to estimate cortical response profiles to retail music. Five fully instrumental tracks were generated to span varying levels of arousal (low-to-high), arrangement density (sparse-to-dense), and emotional valence (neutral-to-positive). This represents the first attempt to validate AI-generated music's neurobiological plausibility at the brain level for commercial applications. By demonstrating through computational simulation that AI music can effectively induce neural responses comparable to human responses, the research provides scientific evidence for designing background music in retail and commercial spaces. However, the study's pilot-scale design and reliance on computer simulation rather than actual human subjects represent key limitations requiring further investigation.\n\n##",
+      "aiSummaryKo": "본 연구는 상업 환경에서 배경음악이 주의력, 감정, 행동에 미치는 영향을 고려할 때 AI가 생성한 음악이 신경생물학적으로 타당한지 규명하기 위해 수행되었습니다. 연구팀은 생성형 음악 시스템인 Wubble과 전뇌 인코딩 모델인 TRIBE v2를 결합하여 소매 환경용 음악에 대한 뇌 피질 반응을 추정하는 컴퓨터 시뮬레이션 연구를 진행했습니다. 5개의 완전 기악 트랙이 낮음~높음 각성도, 희소~밀집 편곡, 중립~긍정 감정가를 아우르도록 생성되었습니다. 이 연구는 AI 생성 음악이 실제 상업 환경에서 소비자의 신경 반응을 효과적으로 유도할 수 있는지를 뇌 수준에서 검증한 최초의 시도입니다. 컴퓨터 시뮬레이션을 통해 AI 음악의 신경생물학적 타당성을 입증함으로써 소매점, 카페 등 상업 공간의 배경음악 설계에 과학적 근거를 제공합니다. 다만 본 연구는 파일럿 규모이며 실제 인간 피험자 연구로의 확대가 필요한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigates the neurological plausibility of AI-generated music in commercial environments, given that background music significantly shapes attention, affect, and consumer behavior. The researchers conducted an in-silico pilot study combining Wubble, a generative music system, with TRIBE v2, a whole-brain encoding model, to estimate cortical response profiles to retail music. Five fully instrumental tracks were generated to span varying levels of arousal (low-to-high), arrangement density (sparse-to-dense), and emotional valence (neutral-to-positive). This represents the first attempt to validate AI-generated music's neurobiological plausibility at the brain level for commercial applications. By demonstrating through computational simulation that AI music can effectively induce neural responses comparable to human responses, the research provides scientific evidence for designing background music in retail and commercial spaces. However, the study's pilot-scale design and reliance on computer simulation rather than actual human subjects represent key limitations requiring further investigation.\n\n##",
+      "keyPoints": [
+        "**AI 음악의 신경 타당성 검증** / Validation of neurobiological plausibility of AI-generated music using computational brain models (TRIBE v2)",
+        "**상업 환경 맞춤형 음악 설계** / Five instrumental tracks engineered across arousal levels, arrangement density, and emotional valence for retail settings",
+        "**뇌 반응 프로파일 분석** / In-silico cortical response estimation enables understanding of how consumer brains respond to different AI-generated musical parameters",
+        "**파일럿 규모의 초기 연구** / Pilot study design requiring further validation with actual human participants to confirm computational predictions in real-world commercial environments"
+      ],
+      "url": "https://arxiv.org/abs/2604.04025",
+      "featured": false
+    },
+    {
+      "id": "09afbc69b7bf",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "17시간 전 / 17h ago",
+      "title": "Topological Sensitivity in Connectome-Constrained Neural Networks",
+      "titleKo": "연결체 제약이 있는 신경망의 위상적 민감성",
+      "summary": "arXiv:2604.04033v1 Announce Type: new Abstract: Connectome-constrained neural networks are often evaluated against sparse random controls and then interpreted as evidence that biological graph topology improves learning efficiency. We revisit that claim in a controlled flyvis-based study using a Drosophila connectome, a naive self-loop-matched random graph, and a degree-preserving rewired null. Under weak controls, in which both models were recovered from a connectome-trained checkpoint and the null matched only global graph counts, the connectome appeared substantially better in early loss, m",
+      "aiSummary": "This study re-examines the claim that biological neural network structures (connectomes) improve learning efficiency in artificial neural networks. Researchers used the Drosophila connectome and compared it against different control conditions: a naive self-loop-matched random graph and a degree-preserving rewired null model. Under weak controls, where both models started from connectome-trained checkpoints with only global graph statistics matched, the connectome showed substantially better early learning loss. However, this advantage significantly diminished under stricter controls with degree-preserving null models. These findings suggest that previous studies may have overestimated the benefits of biological network topology due to insufficient control conditions. The research highlights the critical importance of rigorous controlled comparisons in connectome studies and contributes to a more accurate understanding of how biological constraints actually affect neural network learning.\n\n##",
+      "aiSummaryKo": "본 연구는 생물학적 신경망 구조(connectome)가 인공신경망의 학습 효율을 정말로 향상시키는지 검증하는 연구입니다. 연구팀은 초파리 뇌의 connectome 데이터를 사용하여 실제 신경망 구조와 무작위 대조군을 비교하는 실험을 설계했습니다. 약한 대조군 조건(connectome에서 훈련된 모델을 시작점으로 사용)에서는 실제 신경망 구조가 초기 손실값에서 우수해 보였습니다. 그러나 더 엄격한 대조군 조건(차수 보존 재배열 모델)을 적용하면 이러한 우월성이 크게 감소했습니다. 이는 기존 연구들이 충분하지 않은 대조군을 사용하여 생물학적 네트워크 구조의 이점을 과대평가했을 가능성을 시사합니다. 본 연구는 신경망 구조 연구에서 더 엄격한 통제된 비교의 중요성을 강조하며, 생물학적 제약이 학습에 미치는 실제 영향을 더 정확히 이해하는 데 기여합니다.\n\n##",
+      "aiSummaryEn": "This study re-examines the claim that biological neural network structures (connectomes) improve learning efficiency in artificial neural networks. Researchers used the Drosophila connectome and compared it against different control conditions: a naive self-loop-matched random graph and a degree-preserving rewired null model. Under weak controls, where both models started from connectome-trained checkpoints with only global graph statistics matched, the connectome showed substantially better early learning loss. However, this advantage significantly diminished under stricter controls with degree-preserving null models. These findings suggest that previous studies may have overestimated the benefits of biological network topology due to insufficient control conditions. The research highlights the critical importance of rigorous controlled comparisons in connectome studies and contributes to a more accurate understanding of how biological constraints actually affect neural network learning.\n\n##",
+      "keyPoints": [
+        "**대조군의 중요성** / Importance of Control Conditions",
+        "**구조 최적화의 한계** / Structural Optimization Limitations",
+        "**방법론적 엄밀성** / Methodological Rigor",
+        "**생물학적 제약의 재해석** / Reinterpretation of Biological Constraints"
+      ],
+      "url": "https://arxiv.org/abs/2604.04033",
+      "featured": false
+    },
     {
       "id": "213f3b84f142",
       "tag": "psych",
@@ -21,7 +189,7 @@
         "**인과관계 미확립 및 지역 제한성** / Causality not established and regional limitation: 관찰 연구로서 직접적인 인과관계 증명 불가능하며 특정 지역 데이터로 일반화에 한계"
       ],
       "url": "https://www.psypost.org/tracing-the-origins-of-autism-back-to-a-grandmother-s-pregnancy-2026-03-26/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8e79529f1580",
@@ -252,174 +420,6 @@
         "**연구의 한계와 추후 방향**: 소셜 미디어 텍스트 분석만으로는 실제 정신 건강 상태를 완전히 파악하기 어려우며, 임상 평가와의 비교 연구 필요 / The study is limited to social media language analysis; clinical validation and longitudinal studies are needed to confirm causal relationships"
       ],
       "url": "https://www.psypost.org/social-media-analysis-links-polarized-political-language-to-distorted-thought-pa-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "841ffed693c5",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "18시간 전 / 18h ago",
-      "title": "Can a sweet potato help your baby sleep through the night?",
-      "titleKo": "고구마가 아기의 숙면에 도움이 될까?",
-      "summary": "A new study reveals that feeding infants kūmara—a New Zealand sweet potato—as a first food may help them settle back to sleep faster during the night, thanks to its natural, gut-friendly prebiotics.",
-      "aiSummary": "This study investigates how kūmara, a New Zealand sweet potato, may improve nighttime sleep in infants through its natural prebiotic content. The research team hypothesized that prebiotics in kūmara could enhance the infant gut microbiome composition, thereby improving sleep quality. Infants who consumed kūmara as their first food showed faster ability to return to sleep during nighttime awakenings. This finding suggests a significant connection between infant gut health and sleep quality. However, the article lacks specific details including participant numbers, experiment duration, and precise sleep improvement metrics, making it difficult to assess the study's scale and reliability. Despite these limitations, the research demonstrates the meaningful potential of natural foods' prebiotic effects on infant health and development.\n\n##",
-      "aiSummaryKo": "이 연구는 뉴질랜드 고구마인 쿠마라(kūmara)가 영아의 야간 수면에 미치는 영향을 조사했습니다. 연구팀은 쿠마라에 함유된 천연 프리바이오틱스(장 건강을 돕는 물질)가 영아의 장내 미생물 구성을 개선하여 수면을 향상시킬 수 있다고 가정했습니다. 첫 음식으로 쿠마라를 섭취한 영아들이 야간에 더 빠르게 다시 잠을 청할 수 있었던 것으로 나타났습니다. 이는 영아의 장 건강과 수면 질이 밀접하게 연관되어 있음을 시사합니다. 다만 구체적인 참가자 수, 실험 기간, 정확한 수면 개선 수치 등이 기사에 제시되지 않아 연구의 규모와 신뢰성을 판단하기 어렵다는 한계가 있습니다. 이 연구는 천연 식품의 프리바이오틱 효과가 영아 건강에 미칠 수 있는 긍정적 영향을 보여주는 의미 있는 결과입니다.\n\n##",
-      "aiSummaryEn": "This study investigates how kūmara, a New Zealand sweet potato, may improve nighttime sleep in infants through its natural prebiotic content. The research team hypothesized that prebiotics in kūmara could enhance the infant gut microbiome composition, thereby improving sleep quality. Infants who consumed kūmara as their first food showed faster ability to return to sleep during nighttime awakenings. This finding suggests a significant connection between infant gut health and sleep quality. However, the article lacks specific details including participant numbers, experiment duration, and precise sleep improvement metrics, making it difficult to assess the study's scale and reliability. Despite these limitations, the research demonstrates the meaningful potential of natural foods' prebiotic effects on infant health and development.\n\n##",
-      "keyPoints": [
-        "**프리바이오틱 메커니즘** / **Prebiotic Mechanism**: 쿠마라의 천연 프리바이오틱 성분이 영아의 장내 미생물을 개선하여 수면 개선에 기여합니다.",
-        "**수면 개선 효과** / **Sleep Improvement Effect**: 첫 음식으로 쿠마라를 섭취한 영아가 야간에 더 빠르게 재입면(다시 잠들기)할 수 있었습니다.",
-        "**장-뇌 축 연관성** / **Gut-Brain Axis Connection**: 연구는 영아의 장 건강이 수면 질에 직접적으로 영향을 미칠 수 있음을 시사합니다.",
-        "**정보 부족** / **Limited Information**: 구체적인 연구 참가자 수, 실험 기간, 정량적 수면 개선 지표 등이 제시되지 않아 결과의 신뢰성 평가에 어려움이 있습니다."
-      ],
-      "url": "https://www.psypost.org/can-a-sweet-potato-help-your-baby-sleep-through-the-night/",
-      "featured": false
-    },
-    {
-      "id": "a3d5cb0c4033",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "15일 전 / 15d ago",
-      "title": "‘Looking Backward’ to the Future",
-      "titleKo": "'과거를 돌아보며' 미래로 나아가다",
-      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummary": "This text appears to be from a literary work that begins with a narrator claiming to have been born in Boston in 1857. The author anticipates readers' skepticism and emphasizes that the birth year was indeed 1857, not 1957, creating a science fiction setting involving time travel or regression to the past. The narrative compares the past and present (year 2000), describing how Boston's east wind maintains the same penetrating quality despite 143 years having elapsed. The narrator acknowledges that his claims may sound absurd while asserting that he remains a young man. The work explores themes of looking backward to contemplate the future and presents philosophical reflections on the relativity of time and the passage of years. The narrative structure suggests a fantastical premise that challenges conventional understanding of human aging and temporal existence.",
-      "aiSummaryKo": "이 텍스트는 1857년 보스턴에서 태어났다고 주장하는 화자의 이야기로 시작하는 문학 작품으로 보입니다. 저자는 독자들의 의심을 예상하며 자신이 1957년이 아닌 1857년에 태어났음을 강조합니다. 이는 시간 여행이나 과거로의 회귀라는 SF적 설정을 제시하는 것으로 보입니다. 텍스트는 과거와 현재(2000년)를 비교하면서 보스턴의 동풍이 143년의 세월에도 불구하고 동일한 특성을 유지하고 있다고 묘사합니다. 화자는 자신의 주장이 터무니없이 들릴 수 있음을 인정하면서도, 자신이 여전히 젊은 남자라고 밝힙니다. 이 작품은 과거를 돌아보며 미래를 생각해보자는 주제를 담고 있으며, 시간의 상대성과 세월의 흐름에 대한 철학적 성찰을 제시합니다.",
-      "aiSummaryEn": "This text appears to be from a literary work that begins with a narrator claiming to have been born in Boston in 1857. The author anticipates readers' skepticism and emphasizes that the birth year was indeed 1857, not 1957, creating a science fiction setting involving time travel or regression to the past. The narrative compares the past and present (year 2000), describing how Boston's east wind maintains the same penetrating quality despite 143 years having elapsed. The narrator acknowledges that his claims may sound absurd while asserting that he remains a young man. The work explores themes of looking backward to contemplate the future and presents philosophical reflections on the relativity of time and the passage of years. The narrative structure suggests a fantastical premise that challenges conventional understanding of human aging and temporal existence.",
-      "keyPoints": [
-        "1857년 출생이라는 터무니없는 주장 / Absurd claim of being born in 1857 while remaining young",
-        "시간 여행 또는 과거로의 회귀라는 SF적 설정 / Science fiction premise involving time travel or regression to the past",
-        "과거와 현재의 비교를 통한 시간의 흐름 성찰 / Reflection on the passage of time through comparison of past and present",
-        "제목의 '뒤를 돌아보다'라는 메타포를 통한 미래 지향적 사고 / Forward-looking perspective expressed through the metaphor of \"looking backward\" in the title"
-      ],
-      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "0d1451d96b24",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "Scientists say 7 days of meditation can rewire your brain",
-      "titleKo": "과학자들은 7일간의 명상이 뇌를 재구성할 수 있다고 말한다",
-      "summary": "A single week of intensive meditation and mind-body practices led to measurable changes across the brain and body. Researchers observed improved brain efficiency, boosted immune signaling, and increased natural pain relief chemicals in participants’ blood. The effects even promoted neuron growth and stronger brain connectivity. Surprisingly, the experience mirrored psychedelic-like brain states—without any drugs involved.",
-      "aiSummary": "This study investigated the effects of short-term intensive meditation practice on brain and body changes. Researchers measured brain activity, immune responses, and neurochemical changes in participants who engaged in intensive meditation and mind-body training programs. Results showed that just seven days of meditation practice produced measurable changes across the brain and body, including improved brain efficiency, increased immune signaling, and elevated natural pain-relief chemicals (such as endorphins) in the bloodstream. Additionally, neuron growth promotion and enhanced connectivity between brain regions were observed, and remarkably, these brain states resembled those induced by psychedelic drugs without any pharmaceutical intervention. The study is significant in scientifically demonstrating the neurobiological effects of meditation. However, further validation regarding sample size, long-term sustained effects, and individual differences is needed.\n\n##",
-      "aiSummaryKo": "본 연구는 단기간의 집중적인 명상 수련이 뇌와 신체에 미치는 영향을 조사했습니다. 연구팀은 집중 명상과 마음-신체 수련 프로그램에 참여한 사람들을 대상으로 뇌 활동, 면역 반응, 신경화학물질 변화를 측정했습니다. 결과적으로 단 7일간의 명상 수련만으로도 뇌의 효율성 향상, 면역 신호 전달 증가, 자연적 진통 화학물질(엔도르핀 등) 혈중 농도 증가 등 뇌와 신체 전반에 걸친 측정 가능한 변화가 관찰되었습니다. 추가적으로 신경세포 성장 촉진과 뇌 영역 간 연결성 강화도 확인되었으며, 놀랍게도 이러한 뇌 상태가 약물 없이도 환각제 복용 시의 뇌 상태와 유사한 패턴을 보였습니다. 이 연구는 명상의 신경생물학적 효과를 과학적으로 증명했다는 점에서 의의가 있습니다. 다만 표본 크기, 장기적 지속 효과, 개인차 등에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated the effects of short-term intensive meditation practice on brain and body changes. Researchers measured brain activity, immune responses, and neurochemical changes in participants who engaged in intensive meditation and mind-body training programs. Results showed that just seven days of meditation practice produced measurable changes across the brain and body, including improved brain efficiency, increased immune signaling, and elevated natural pain-relief chemicals (such as endorphins) in the bloodstream. Additionally, neuron growth promotion and enhanced connectivity between brain regions were observed, and remarkably, these brain states resembled those induced by psychedelic drugs without any pharmaceutical intervention. The study is significant in scientifically demonstrating the neurobiological effects of meditation. However, further validation regarding sample size, long-term sustained effects, and individual differences is needed.\n\n##",
-      "keyPoints": [
-        "**뇌 효율성 향상 및 신경연결 강화** / Enhanced brain efficiency and improved neural connectivity observed after 7 days of intensive meditation",
-        "**생리적 변화의 측정 가능성** / Measurable physiological changes including boosted immune signaling and increased endogenous pain-relief chemicals in blood",
-        "**약물 없는 정신변화 유도** / Meditation induced psychedelic-like brain states without any pharmaceutical agents, demonstrating the power of mind-based practices",
-        "**신경가소성 증거** / Promotion of neuron growth and brain rewiring demonstrates neuroplasticity—the brain's ability to physically change through behavioral practices"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192913.htm",
-      "featured": false
-    },
-    {
-      "id": "63240b002329",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
-      "titleKo": "IC3-Evolve: IC3 하드웨어 모델 검증을 위한 증명/증거 기반 오프라인 LLM 구동 휴리스틱 진화",
-      "summary": "arXiv:2604.03232v1 Announce Type: new Abstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transition system complies with a given safety property. IC3 either returns UNSAFE (indicating property violation) with a counterexample trace, or SAFE with a checkable inductive invariant as the proof to safety. In practice, the performance of IC3 is dominated by a large web of interacting heuristics and implementation choices, making manual tuning costly, brittle, and hard to reproduce. This paper presen",
-      "aiSummary": "This study proposes IC3-Evolve, an automated heuristic evolution system using large language models (LLMs) to improve the performance of IC3 (Property-Directed Reachability), a widely-used algorithm for hardware safety verification. IC3 checks whether complex hardware systems satisfy safety properties, but its performance is heavily influenced by dozens of interacting heuristics and implementation choices, making manual tuning difficult, brittle, and hard to reproduce. The research team developed an offline LLM-based approach that leverages proof and counterexample witness information to automatically discover better heuristic configurations. The system learns from both successful and failed IC3 verification attempts to suggest improved parameter combinations. This approach has the potential to reduce manual tuning costs and enhance the efficiency and reliability of hardware verification. However, the research is in an early stage, and its practical effectiveness in industry-scale hardware verification requires further validation.\n\n##",
-      "aiSummaryKo": "본 연구는 하드웨어 안전성 검증에 널리 사용되는 IC3(Property-Directed Reachability) 알고리즘의 성능을 개선하기 위해 대형언어모델(LLM)을 활용한 자동 휴리스틱 진화 시스템을 제안합니다. IC3는 복잡한 하드웨어 시스템이 안전 속성을 만족하는지 검증하는 알고리즘인데, 현재는 수십 개의 상호작용하는 휴리스틱과 구현 선택사항들로 인해 성능이 크게 좌우되며 수동 조정이 어렵고 재현성이 낮습니다. 본 연구팀은 증거(proof)와 반례(witness) 정보를 활용하는 오프라인 LLM 기반 휴리스틱 진화 방법인 IC3-Evolve를 개발했습니다. 이 시스템은 IC3 알고리즘의 검증 실패나 성공 사례로부터 학습하여 자동으로 더 나은 휴리스틱 조합을 제시합니다. 이는 수동 튜닝의 비용을 줄이고 하드웨어 검증의 효율성과 신뢰성을 향상시킬 수 있는 잠재력을 가집니다. 다만 연구는 초기 단계이며 실제 산업 규모의 하드웨어 검증에서의 실효성은 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study proposes IC3-Evolve, an automated heuristic evolution system using large language models (LLMs) to improve the performance of IC3 (Property-Directed Reachability), a widely-used algorithm for hardware safety verification. IC3 checks whether complex hardware systems satisfy safety properties, but its performance is heavily influenced by dozens of interacting heuristics and implementation choices, making manual tuning difficult, brittle, and hard to reproduce. The research team developed an offline LLM-based approach that leverages proof and counterexample witness information to automatically discover better heuristic configurations. The system learns from both successful and failed IC3 verification attempts to suggest improved parameter combinations. This approach has the potential to reduce manual tuning costs and enhance the efficiency and reliability of hardware verification. However, the research is in an early stage, and its practical effectiveness in industry-scale hardware verification requires further validation.\n\n##",
-      "keyPoints": [
-        "**IC3 알고리즘의 한계**: 하드웨어 안전성 검증에 사용되는 IC3는 수십 개의 상호작용하는 휴리스틱으로 인해 성능이 불안정하고 수동 조정이 매우 어려움 / **IC3 Algorithm Limitation**: IC3 hardware verification algorithm suffers from dozens of interacting heuristics, making performance unstable and manual tuning extremely difficult",
-        "**LLM 기반 자동화 솔루션**: IC3-Evolve는 증거(증명)와 반례(목격자) 정보를 활용하여 오프라인에서 LLM이 최적의 휴리스틱 조합을 자동으로 제시 / **LLM-Powered Automation**: IC3-Evolve uses proof and witness information for offline LLM-driven automatic optimization of heuristic combinations",
-        "**학습 기반 성능 개선**: 성공과 실패한 검증 사례로부터 학습하여 점진적으로 더 나은 알고리즘 파라미터를 발견 / **Learning-Based Improvement**: System progressively discovers better algorithm parameters by learning from both successful and failed verification cases",
-        "**산업 적용 가능성**: 수동 휴리스틱 튜닝의 비용과 복잡성을 감소시켜 하드웨어 검증의 효율성과 재현성 향상 / **Industrial Potential**: Reduces manual tuning costs and complexity while improving efficiency and reproducibility of hardware verification processes"
-      ],
-      "url": "https://arxiv.org/abs/2604.03232",
-      "featured": false
-    },
-    {
-      "id": "446dc5e9931f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
-      "titleKo": "최소 집합 커버 문제의 구조적 분할: 메타휴리스틱 최적화를 위한 전체집합 분해성 활용",
-      "summary": "arXiv:2604.03234v1 Announce Type: new Abstract: The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization problem with numerous applications in science and engineering. Although a wide range of exact, approximate, and metaheuristic approaches have been proposed, most methods implicitly treat MSCP instances as monolithic, overlooking potential intrinsic structural properties of the universe. In this work, we investigate the concept of \\emph{universe segmentability} in the MSCP and analyze how intrinsic structural decomposition (universe segmentability) can be exploi",
-      "aiSummary": "This research introduces a novel approach to solving the Minimum Set Cover Problem (MSCP), a classical NP-hard combinatorial optimization challenge widely used in science and engineering. While conventional optimization methods treat MSCP instances as monolithic structures, this study proposes exploiting \"universe segmentability\"—the intrinsic structural properties that can decompose complex problems into smaller, more manageable subproblems. The researchers suggest that incorporating structural decomposition can enhance metaheuristic algorithms' (computational optimization methods) performance in finding near-optimal solutions. This approach has practical applications in resource allocation, network design, and other real-world engineering problems. The significance lies in demonstrating that leveraging previously overlooked internal problem structures can substantially improve computational efficiency and solution quality. However, this remains a theoretical proposal requiring extensive empirical validation across diverse problem instances and scales.\n\n##",
-      "aiSummaryKo": "이 연구는 컴퓨터 과학의 고전적 난제인 최소집합덮개 문제(MSCP)를 더 효율적으로 풀기 위한 새로운 접근법을 제시합니다. 기존의 최적화 방법들은 문제를 하나의 덩어리로 취급했지만, 이 연구는 문제 내부의 구조적 특성을 분석하는 \"우주 분할가능성(universe segmentability)\" 개념을 도입했습니다. 연구팀은 복잡한 최적화 문제를 더 작은 부분 문제로 분해하여 메타휴리스틱 알고리즘(컴퓨터가 최적해를 찾도록 도와주는 방법)의 성능을 향상시킬 수 있음을 제안합니다. 이러한 구조적 분해 방식은 과학과 공학의 다양한 실무 문제(예: 자원 할당, 네트워크 설계 등)에 적용될 수 있습니다. 이 연구의 의의는 기존에 간과되었던 문제의 내재적 특성을 활용하여 계산 효율성을 크게 개선할 수 있다는 점입니다. 다만 이는 이론적 제안 단계이므로, 실제 데이터와 다양한 규모의 문제에 대한 광범위한 실증적 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research introduces a novel approach to solving the Minimum Set Cover Problem (MSCP), a classical NP-hard combinatorial optimization challenge widely used in science and engineering. While conventional optimization methods treat MSCP instances as monolithic structures, this study proposes exploiting \"universe segmentability\"—the intrinsic structural properties that can decompose complex problems into smaller, more manageable subproblems. The researchers suggest that incorporating structural decomposition can enhance metaheuristic algorithms' (computational optimization methods) performance in finding near-optimal solutions. This approach has practical applications in resource allocation, network design, and other real-world engineering problems. The significance lies in demonstrating that leveraging previously overlooked internal problem structures can substantially improve computational efficiency and solution quality. However, this remains a theoretical proposal requiring extensive empirical validation across diverse problem instances and scales.\n\n##",
-      "keyPoints": [
-        "**우주 분할가능성의 발견** / Discovery of Universe Segmentability: 최소집합덮개 문제의 내재적 구조적 분해 가능성을 분석하여 기존의 일괄 처리 방식에서 벗어남.",
-        "**메타휴리스틱 최적화 개선** / Enhanced Metaheuristic Optimization: 문제를 더 작은 부분으로 나누어 해결함으로써 알고리즘의 효율성과 수렴 속도를 향상시킬 수 있는 가능성 제시.",
-        "**다양한 실무 응용 가능성** / Broad Practical Applications: 자원 할당, 네트워크 설계, 시스템 최적화 등 과학과 공학의 여러 분야에서 적용 가능한 범용적 방법론.",
-        "**이론적 기초 단계** / Theoretical Foundation Stage: 구체적인 수치 결과나 대규모 실증 데이터 없이 개념적 제안 수준이므로, 실제 문제에 대한 검증 필요."
-      ],
-      "url": "https://arxiv.org/abs/2604.03234",
-      "featured": false
-    },
-    {
-      "id": "1bbac59d7c0f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
-      "titleKo": "돌 하나로 새 여섯 마리를 날리다: 행위자와 행위주체성에 관하여",
-      "summary": "arXiv:2604.03239v1 Announce Type: new Abstract: Six Birds Theory (SBT) treats macroscopic objects as induced closures rather than primitives. Empirical discussions of agency often conflate persistence (being an object) with control (making a counterfactual difference), which makes agency claims difficult to test and easy to spoof. We give a type-correct account of agency within SBT: a theory induces a layer with an explicit interface and ledgered constraints; an agent is a maintained theory object whose feasible interface policies can steer outside futures while remaining viable. We operationa",
-      "aiSummary": "This research addresses the fundamental problem of defining and measuring \"agency\" in artificial intelligence and physical systems. Previous studies have conflated persistence (being an object) with control (making a counterfactual difference), making agency claims difficult to verify and easy to manipulate. The research team proposes a formal framework called \"Six Birds Theory (SBT)\" that defines an agent as a maintained theoretical object whose feasible interface policies can influence external futures while remaining viable. This provides objective, testable criteria for assessing agency. The theory has significant implications for evaluating AI autonomy and analyzing physical systems. However, the complex mathematical framework requires substantial expertise for implementation, and further validation of real-world applicability is needed.",
-      "aiSummaryKo": "본 연구는 인공지능과 물리 시스템에서 '행위자성(agency)'을 정의하고 측정하는 문제를 다룬다. 기존 연구들이 객체의 지속성(존재)과 통제력(결과에 미치는 영향)을 혼동하여 행위자성 판단이 모호해지는 문제를 지적한다. 연구팀은 '6조류 이론(Six Birds Theory)'이라는 수학적 프레임워크를 제안하여, 행위자를 '유지된 이론적 대상으로서 자신의 가능한 행동 정책이 외부 미래에 영향을 미치면서도 생존 가능한 상태'로 정의한다. 이를 통해 행위자성을 객관적으로 검증할 수 있는 형식적 기준을 제시한다. 본 이론은 AI 시스템의 자율성 평가와 물리 시스템 분석에 적용될 수 있어 의의가 크다. 다만 복잡한 수학적 프레임워크로 인해 실제 적용에는 상당한 전문성이 요구되며, 실제 세계 현상과의 연결성 검증이 추가로 필요하다.",
-      "aiSummaryEn": "This research addresses the fundamental problem of defining and measuring \"agency\" in artificial intelligence and physical systems. Previous studies have conflated persistence (being an object) with control (making a counterfactual difference), making agency claims difficult to verify and easy to manipulate. The research team proposes a formal framework called \"Six Birds Theory (SBT)\" that defines an agent as a maintained theoretical object whose feasible interface policies can influence external futures while remaining viable. This provides objective, testable criteria for assessing agency. The theory has significant implications for evaluating AI autonomy and analyzing physical systems. However, the complex mathematical framework requires substantial expertise for implementation, and further validation of real-world applicability is needed.",
-      "keyPoints": [
-        "**행위자성의 정의 재구성** / Redefining Agency: 객체의 지속성과 통제력을 명확히 분리하여 행위자성을 형식적으로 정의하고, 주관적 판단을 줄임",
-        "**수학적 검증 가능성 제시** / Mathematical Operationalization: 6조류 이론을 통해 행위자성을 객관적으로 측정 가능한 기준으로 제시하여, 이전의 모호한 논의를 과학화",
-        "**AI 및 물리 시스템 평가의 기초 제공** / Practical Framework for Assessment: 인공지능의 자율성과 시스템의 통제력을 평가하기 위한 형식적 토대 마련",
-        "**철학적·과학적 엄밀성 강화** / Rigorous Theoretical Foundation: 행위자성 논의의 철학적 기초를 견고히 하여 후속 연구의 신뢰성과 검증 가능성 향상"
-      ],
-      "url": "https://arxiv.org/abs/2604.03239",
-      "featured": false
-    },
-    {
-      "id": "7aef4d6f460c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
-      "titleKo": "직책: AI 평가 과학은 항목 수준의 벤치마크 데이터를 필요로 한다\n\n또는\n\n위치: AI 평가 과학을 위해서는 항목 단위 벤치마크 데이터가 필수적이다",
-      "summary": "arXiv:2604.03244v1 Announce Type: new Abstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms often exhibit systemic validity failures. These issues, ranging from unjustified design choices to misaligned metrics, remain intractable without a principled framework for gathering validity evidence and conducting granular diagnostic analysis. In this position paper, we argue that item-level AI benchmark data is essential for establishing a rigorous science of AI evaluation. Item-level analysis en",
-      "aiSummary": "Current AI evaluation paradigms serve as primary evidence for deploying generative AI systems in high-stakes domains such as healthcare, law, and finance. However, existing evaluation methods exhibit systematic validity failures, including unjustified design choices and misaligned performance metrics. This position paper argues that item-level benchmark data is essential for establishing rigorous AI evaluation science. Through item-level analysis, researchers can conduct granular diagnostic analysis of AI model performance and verify the reliability of evaluation results. This approach applies rigorous psychometric methodologies to AI evaluation, which is critical for ensuring the validity of AI system deployment in high-risk contexts. As a position paper, this work emphasizes conceptual frameworks rather than new empirical data, and large-scale implementation studies are needed to validate the proposed methodology's practical effectiveness.\n\n##",
-      "aiSummaryKo": "현재 생성형 AI 시스템은 의료, 법률, 금융 등 중요한 영역에 배포되고 있으며, 이러한 배포 결정의 주요 근거가 되는 것이 AI 평가입니다. 그러나 기존의 AI 평가 방식들은 설계 선택의 정당성 부족, 부적절한 성능 지표 등 여러 체계적 문제를 보이고 있습니다. 본 논문은 이러한 문제들을 해결하기 위해 항목 수준(item-level)의 벤치마크 데이터가 필수적이라고 주장합니다. 항목 수준 분석을 통해 연구자들은 AI 모델의 성능을 더 세밀하게 진단하고, 평가 결과의 신뢰성을 검증할 수 있습니다. 이 접근법은 심리측정학(psychometrics)의 엄격한 방법론을 AI 평가에 적용하는 것으로, 고위험 영역에서 AI 시스템 배포의 타당성을 확보하는 데 중요합니다. 현재 연구는 위치 논문(position paper)이므로 새로운 실증 데이터보다는 개념적 프레임워크 제시에 중점을 두고 있으며, 제시된 방법론의 실제 효과를 검증하기 위한 대규모 적용 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "Current AI evaluation paradigms serve as primary evidence for deploying generative AI systems in high-stakes domains such as healthcare, law, and finance. However, existing evaluation methods exhibit systematic validity failures, including unjustified design choices and misaligned performance metrics. This position paper argues that item-level benchmark data is essential for establishing rigorous AI evaluation science. Through item-level analysis, researchers can conduct granular diagnostic analysis of AI model performance and verify the reliability of evaluation results. This approach applies rigorous psychometric methodologies to AI evaluation, which is critical for ensuring the validity of AI system deployment in high-risk contexts. As a position paper, this work emphasizes conceptual frameworks rather than new empirical data, and large-scale implementation studies are needed to validate the proposed methodology's practical effectiveness.\n\n##",
-      "keyPoints": [
-        "**항목 수준 데이터의 필요성 / Item-level Data Necessity**: 현재의 종합 점수(aggregate score) 기반 평가보다 개별 문항 수준의 상세 분석이 AI 평가의 신뢰성을 크게 향상시킬 수 있음",
-        "**체계적 타당성 문제 / Systemic Validity Failures**: 기존 AI 벤치마크는 설계 근거 부족, 부적절한 지표 선택, 성능 해석의 오류 등 다양한 구조적 문제를 내포하고 있음",
-        "**심리측정학적 접근 / Psychometric Framework Application**: 심리학의 엄격한 측정 방법론을 AI 평가에 적용하여 과학적 기초를 구축해야 함",
-        "**고위험 영역 배포의 정당성 / High-Stakes Deployment Validity**: 의료·법률·금융 등 중요 분야에서 AI 시스템 도입 시 항목 수준의 세밀한 진단이 윤리적·실무적 책임을 다하기 위해 필수적임"
-      ],
-      "url": "https://arxiv.org/abs/2604.03244",
-      "featured": false
-    },
-    {
-      "id": "4aa0a18050c0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Integrating Artificial Intelligence, Physics, and Internet of Things: A Framework for Cultural Heritage Conservation",
-      "titleKo": "인공지능, 물리학, 사물인터넷의 통합: 문화유산 보존을 위한 프레임워크",
-      "summary": "arXiv:2604.03233v1 Announce Type: new Abstract: The conservation of cultural heritage increasingly relies on integrating technological innovation with domain expertise to ensure effective monitoring and predictive maintenance. This paper presents a novel framework to support the preservation of cultural assets, combining Internet of Things (IoT) and Artificial Intelligence (AI) technologies, enhanced with the physical knowledge of phenomena. The framework is structured into four functional layers that permit the analysis of 3D models of cultural assets and elaborate simulations based on the kn",
-      "aiSummary": "This research presents a novel approach to effectively conserve cultural heritage by integrating technological innovation with domain expertise. The research team developed an integrated framework that combines Internet of Things (IoT) and Artificial Intelligence (AI) technologies with physics-based knowledge. The framework consists of four functional layers capable of analyzing 3D models of cultural assets and performing simulations based on physical phenomena. While specific participant numbers and experimental designs are not detailed in the abstract, this is a technical framework development paper. This integrated approach enables real-time monitoring and damage prediction of cultural heritage, potentially significantly improving conservation efficiency. Future work requires validation through application at actual cultural heritage sites and performance evaluation under diverse environmental conditions.\n\n##",
-      "aiSummaryKo": "이 연구는 문화유산의 효과적인 보존과 예측적 유지보수를 위해 기술 혁신과 전문 지식을 통합하는 방법을 제시합니다. 연구팀은 IoT(사물인터넷)와 AI 기술에 물리학적 지식을 결합한 새로운 통합 프레임워크를 개발했습니다. 이 프레임워크는 4개의 기능 계층으로 구성되어 문화유산의 3D 모델 분석과 물리 현상 기반 시뮬레이션을 수행할 수 있습니다. 구체적인 참가자 수와 실험 설계에 대한 세부 정보는 논문 초록에 제시되지 않았으나, 이는 기술적 프레임워크 개발 논문입니다. 이 통합 접근 방식은 문화재의 실시간 모니터링과 손상 예측을 가능하게 하여 보존 효율성을 크게 향상시킬 수 있습니다. 향후 실제 문화유산 사이트에서의 적용 검증과 다양한 환경 조건에서의 성능 평가가 필요합니다.\n\n##",
-      "aiSummaryEn": "This research presents a novel approach to effectively conserve cultural heritage by integrating technological innovation with domain expertise. The research team developed an integrated framework that combines Internet of Things (IoT) and Artificial Intelligence (AI) technologies with physics-based knowledge. The framework consists of four functional layers capable of analyzing 3D models of cultural assets and performing simulations based on physical phenomena. While specific participant numbers and experimental designs are not detailed in the abstract, this is a technical framework development paper. This integrated approach enables real-time monitoring and damage prediction of cultural heritage, potentially significantly improving conservation efficiency. Future work requires validation through application at actual cultural heritage sites and performance evaluation under diverse environmental conditions.\n\n##",
-      "keyPoints": [
-        "**통합 기술 접근법** / Integrated Technology Approach",
-        "**4계층 기능 구조** / Four-Layer Functional Architecture",
-        "**예측적 유지보수 가능** / Predictive Maintenance Capability",
-        "**실제 적용 검증 필요** / Need for Real-World Validation"
-      ],
-      "url": "https://arxiv.org/abs/2604.03233",
       "featured": false
     }
   ]
