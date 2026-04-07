@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-07T10:38:54.183052+00:00",
+  "updated": "2026-04-07T14:59:15.991687+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2627cbc0d9dc",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "A common antidepressant shows promise in treating methamphetamine dependence",
+      "titleKo": "흔한 항우울제가 메스암페타민 의존증 치료에 효과를 보이다",
+      "summary": "While millions struggle with methamphetamine addiction worldwide, no approved medical treatments exist. Recent research shows that an affordable, common antidepressant called mirtazapine could provide a much-needed pharmacological tool to help patients reduce their meth consumption.",
+      "aiSummary": "Methamphetamine addiction affects millions of people worldwide, yet no FDA-approved medications currently exist to treat this condition. Recent research indicates that mirtazapine, a commonly used and affordable antidepressant, shows promise as a pharmacological treatment option for methamphetamine dependence. Mirtazapine could help patients significantly reduce their methamphetamine consumption through established neurochemical mechanisms. This finding is significant because it offers a potential therapeutic tool for a severely understudied and undertreated addiction with limited existing treatment options. The study demonstrates that repurposing existing, accessible medications may be an effective strategy for addressing addiction crises. However, the article lacks critical details such as sample size, specific efficacy percentages, effect sizes, and long-term treatment outcomes. Further large-scale clinical trials are needed to validate these preliminary findings and establish optimal treatment protocols.",
+      "aiSummaryKo": "메스암페타민 중독은 전 세계적으로 수백만 명이 고통받고 있지만, 현재까지 승인된 의학적 치료법이 없는 상황이다. 최근 연구에 따르면 일반적인 항우울제인 미르타자핀(mirtazapine)이 이 문제를 해결할 수 있는 유망한 약물로 주목받고 있다. 미르타자핀은 저렴하고 널리 사용되는 기존 약물로, 메스암페타민 의존 환자들의 약물 소비를 줄이는 데 효과적일 수 있다. 이 연구는 약물 중독 치료의 새로운 가능성을 제시하며, 특히 치료 옵션이 거의 없는 메스암페타민 중독 환자들에게 실질적인 도움을 줄 수 있다는 점에서 의의가 크다. 다만, 이 기사는 연구 참가자 규모, 구체적인 임상 효과 수치, 그리고 장기적 치료 효과에 대한 정보가 부족하여 추가적인 상세 데이터가 필요하다. 향후 대규모 임상시험을 통해 실제 치료 효과와 안전성을 검증해야 할 것으로 보인다.",
+      "aiSummaryEn": "Methamphetamine addiction affects millions of people worldwide, yet no FDA-approved medications currently exist to treat this condition. Recent research indicates that mirtazapine, a commonly used and affordable antidepressant, shows promise as a pharmacological treatment option for methamphetamine dependence. Mirtazapine could help patients significantly reduce their methamphetamine consumption through established neurochemical mechanisms. This finding is significant because it offers a potential therapeutic tool for a severely understudied and undertreated addiction with limited existing treatment options. The study demonstrates that repurposing existing, accessible medications may be an effective strategy for addressing addiction crises. However, the article lacks critical details such as sample size, specific efficacy percentages, effect sizes, and long-term treatment outcomes. Further large-scale clinical trials are needed to validate these preliminary findings and establish optimal treatment protocols.",
+      "keyPoints": [
+        "**치료 공백 해결** / **Addressing Treatment Gap**: 메스암페타민 중독의 승인된 치료약이 없는 상황에서 미르타자핀이 새로운 치료 옵션을 제공할 수 있음 / Mirtazapine addresses the critical absence of FDA-approved treatments for methamphetamine dependence",
+        "**기존 약물의 재활용** / **Drug Repurposing Strategy**: 저렴하고 안전성이 입증된 기존 항우울제를 활용하여 비용 효율적인 중독 치료가 가능함 / Repurposing an existing, affordable, and well-tolerated antidepressant offers a cost-effective treatment approach",
+        "**광범위한 영향** / **Wide-scale Impact**: 전 세계 수백만 명의 메스암페타민 중독자에게 실질적인 치료 옵션을 제공할 수 있는 잠재력 / Potential to provide therapeutic hope to millions of methamphetamine users globally with limited treatment alternatives",
+        "**추가 연구 필요** / **Need for Further Research**: 구체적인 임상 효과 수치, 참가자 규모, 장기 효과 등에 대한 상세한 데이터가 필요함 / Requires comprehensive clinical trials with specific efficacy data, larger sample sizes, and long-term outcome assessments"
+      ],
+      "url": "https://www.psypost.org/a-common-antidepressant-shows-promise-in-treating-methamphetamine-dependence/",
+      "featured": true
+    },
+    {
+      "id": "9226d311ede5",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "A smaller social network increases loneliness more drastically for those with depression",
+      "titleKo": "우울증이 있는 사람들에게 더 작은 소셜 네트워크는 외로움을 더욱 급격히 증가시킨다",
+      "summary": "While having fewer social contacts makes anyone feel lonely, a new study finds this effect is much more severe in depressed individuals. Researchers suggest depression treatments must actively help patients rebuild their social networks.",
+      "aiSummary": "This study examined how the size of social networks affects loneliness differently depending on individuals' mental health status. Researchers found that while fewer social contacts make anyone feel lonely, those with depression experience significantly more severe loneliness. The study suggests that reduced social relationships have a much greater negative impact on mental health in depressed patients compared to the general population. The findings indicate that depression treatment must go beyond symptom relief to actively support patients in rebuilding their social networks. This research emphasizes the need for a multifaceted approach to depression treatment. However, the study may be limited to specific populations or cultural contexts, so further follow-up research is necessary.",
+      "aiSummaryKo": "이 연구는 사회적 관계의 크기가 외로움에 미치는 영향이 개인의 정신 건강 상태에 따라 다를 수 있다는 점에 주목했습니다. 연구팀은 사회적 접촉이 적을 때 모든 사람이 외로움을 느끼지만, 우울증이 있는 사람들이 훨씬 더 심각한 외로움을 경험한다는 것을 발견했습니다. 이 연구는 우울증 환자들의 사회관계 축소가 일반인보다 정신 건강에 미치는 부정적 영향이 더 크다는 것을 시사합니다. 연구 결과는 우울증 치료가 단순한 증상 완화를 넘어 환자들의 사회적 네트워크 재구축을 적극적으로 지원해야 한다는 중요한 함의를 제공합니다. 이러한 발견은 우울증 치료의 다각적 접근 방식의 필요성을 강조합니다. 다만, 이 연구가 특정 인구집단이나 문화권에 제한될 수 있으므로 추가적인 후속 연구가 필요합니다.",
+      "aiSummaryEn": "This study examined how the size of social networks affects loneliness differently depending on individuals' mental health status. Researchers found that while fewer social contacts make anyone feel lonely, those with depression experience significantly more severe loneliness. The study suggests that reduced social relationships have a much greater negative impact on mental health in depressed patients compared to the general population. The findings indicate that depression treatment must go beyond symptom relief to actively support patients in rebuilding their social networks. This research emphasizes the need for a multifaceted approach to depression treatment. However, the study may be limited to specific populations or cultural contexts, so further follow-up research is necessary.",
+      "keyPoints": [
+        "**사회적 고립의 비대칭적 영향** / Asymmetric impact of social isolation: 우울증 환자는 비우울증 집단보다 사회관계 축소에 더 큰 외로움을 느낌",
+        "**우울증 치료의 통합적 접근 필요** / Need for integrated depression treatment: 약물 치료뿐 아니라 사회적 네트워크 재구축이 치료의 필수 요소",
+        "**외로움과 우울증의 악순환** / Vicious cycle of loneliness and depression: 작은 사회관계 → 극심한 외로움 → 우울증 악화의 악순환 구조",
+        "**예방적 개입의 중요성** / Importance of preventive intervention: 우울증 환자의 사회적 고립을 조기에 감지하고 적극적으로 대처할 필요성"
+      ],
+      "url": "https://www.psypost.org/a-smaller-social-network-increases-loneliness-more-drastically-for-those-with-depression/",
+      "featured": false
+    },
+    {
+      "id": "34644aa1b5f6",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "16시간 전 / 16h ago",
+      "title": "Genetic study unravels the link between caffeine intake and sleep timing",
+      "titleKo": "유전학 연구, 카페인 섭취와 수면 시간의 연관성 규명",
+      "summary": "While heavy coffee drinking is often blamed for long restless nights, a new genetic analysis reveals that habitual caffeine consumption mainly boosts daytime alertness without inherently causing chronic insomnia.",
+      "aiSummary": "This study re-examines the effects of caffeine consumption on sleep through a genetic perspective. While conventional wisdom suggests heavy coffee consumption causes insomnia, a recent genetic analysis study challenges this assumption. The research team analyzed large-scale genetic data to investigate the relationship between habitual caffeine intake and sleep patterns. The key finding is that habitual caffeine consumption does not directly cause chronic insomnia but primarily enhances daytime alertness. This represents an important scientific reevaluation of the common belief that \"caffeine causes insomnia.\" However, individual variations in genetic characteristics and caffeine metabolism ability may alter these effects, necessitating further research.\n\n##",
+      "aiSummaryKo": "본 연구는 카페인 섭취가 수면에 미치는 영향을 유전학적 관점에서 재조명한 것이다. 일반적으로 커피를 많이 마시면 불면증을 유발한다고 알려져 있으나, 최근 유전자 분석을 통한 연구에서는 다른 결과를 도출했다. 연구팀은 대규모 유전자 데이터를 활용하여 카페인 습관성 섭취와 수면 패턴의 관계를 분석했다. 핵심 발견은 습관적인 카페인 섭취가 만성 불면증을 직접적으로 유발하지 않으며, 주로 낮 시간 동안의 각성도를 증진시킨다는 것이다. 이는 기존의 '카페인=불면증 유발'이라는 통념을 과학적으로 재평가하는 중요한 결과이다. 다만 개인의 유전적 특성과 카페인 대사 능력에 따라 영향이 달라질 수 있어 추가 연구가 필요하다.\n\n##",
+      "aiSummaryEn": "This study re-examines the effects of caffeine consumption on sleep through a genetic perspective. While conventional wisdom suggests heavy coffee consumption causes insomnia, a recent genetic analysis study challenges this assumption. The research team analyzed large-scale genetic data to investigate the relationship between habitual caffeine intake and sleep patterns. The key finding is that habitual caffeine consumption does not directly cause chronic insomnia but primarily enhances daytime alertness. This represents an important scientific reevaluation of the common belief that \"caffeine causes insomnia.\" However, individual variations in genetic characteristics and caffeine metabolism ability may alter these effects, necessitating further research.\n\n##",
+      "keyPoints": [
+        "**통념의 재검토** / Reconsideration of Common Belief",
+        "**주간 각성도 증진** / Enhanced Daytime Alertness",
+        "**개인차 존재** / Individual Differences",
+        "**과학적 재평가의 중요성** / Importance of Scientific Re-evaluation"
+      ],
+      "url": "https://www.psypost.org/coffee-habits-boost-daytime-alertness-without-inherently-ruining-nighttime-sleep-2026-03-26/",
+      "featured": false
+    },
+    {
+      "id": "50c9210d9e1a",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "15시간 전 / 15h ago",
+      "title": "The brain might not create consciousness after all",
+      "titleKo": "뇌가 의식을 만들지 않을 수도 있다",
+      "summary": "Is consciousness something the brain produces, or is it woven into the fabric of reality itself? Renowned neuroscientist Christof Koch is challenging long-held scientific assumptions by confronting the “hard problem” of consciousness — why and how subjective experience exists at all. He highlights growing tensions between neuroscience, physics, and unexplained phenomena like near-death experiences and sudden moments of clarity before death.",
+      "aiSummary": "This article challenges conventional scientific assumptions about the nature of consciousness by questioning whether the brain produces consciousness or whether consciousness is woven into the fabric of reality itself. Renowned neuroscientist Christof Koch confronts the \"hard problem of consciousness\" — explaining why and how subjective experience exists at all — and highlights growing tensions between neuroscience, physics, and unexplained phenomena such as near-death experiences and moments of clarity before death. Current neuroscience cannot adequately explain the relationship between brain activity and conscious experience. The significance of this work lies in its potential to trigger a fundamental paradigm shift in consciousness research by integrating insights from multiple disciplines. However, limitations include questions about the reliability and objective interpretation of phenomena like near-death experiences, which remain difficult to study scientifically.\n\n##",
+      "aiSummaryKo": "이 기사는 의식의 본질에 대한 과학적 가정에 의문을 제기하는 내용입니다. 저명한 신경과학자 크리스토프 코흐는 전통적으로 뇌가 의식을 만든다는 가정에 도전하며, 의식이 현실의 근본적 구조에 내재되어 있을 가능성을 제시합니다. 연구는 신경과학, 물리학, 그리고 임사체험이나 사망 직전의 명료함 같은 설명되지 않은 현상들 사이의 긴장 관계를 조명합니다. 현재 신경과학은 뇌 활동과 의식 경험을 연결하는 '의식의 어려운 문제'를 해결하지 못하고 있습니다. 이 연구의 의의는 의식에 대한 근본적 패러다임 전환을 촉발할 수 있다는 점입니다. 다만 임사체험 같은 현상의 신뢰성과 해석의 객관성 문제가 남아 있습니다.\n\n##",
+      "aiSummaryEn": "This article challenges conventional scientific assumptions about the nature of consciousness by questioning whether the brain produces consciousness or whether consciousness is woven into the fabric of reality itself. Renowned neuroscientist Christof Koch confronts the \"hard problem of consciousness\" — explaining why and how subjective experience exists at all — and highlights growing tensions between neuroscience, physics, and unexplained phenomena such as near-death experiences and moments of clarity before death. Current neuroscience cannot adequately explain the relationship between brain activity and conscious experience. The significance of this work lies in its potential to trigger a fundamental paradigm shift in consciousness research by integrating insights from multiple disciplines. However, limitations include questions about the reliability and objective interpretation of phenomena like near-death experiences, which remain difficult to study scientifically.\n\n##",
+      "keyPoints": [
+        "**의식의 기원에 대한 패러다임 전환** / Paradigm shift in understanding the origin of consciousness",
+        "**학제간 긴장 관계의 드러남** / Interdisciplinary tensions revealed",
+        "**설명 불가능한 현상들의 과학적 조명** / Scientific examination of unexplained phenomena",
+        "**객관적 검증의 한계** / Limitations in objective verification"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192809.htm",
+      "featured": false
+    },
+    {
+      "id": "1ecfbdfb56ef",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Scientists found a protein that drives brain aging — and how to stop it",
+      "titleKo": "과학자들이 뇌 노화를 촉진하는 단백질을 발견했다 — 그리고 그것을 멈추는 방법",
+      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
+      "aiSummary": "Scientists have identified a key protein called FTL1 that plays a crucial role in brain aging. In their research using aging mice as models, researchers discovered that elevated levels of FTL1 protein weakened synaptic connections between brain cells and caused memory decline. Remarkably, when FTL1 levels were reduced, the brain demonstrated significant recovery by rebuilding neural connections and restoring memory function. This discovery holds significant implications for developing treatments for neurodegenerative diseases such as Alzheimer's disease. However, the study was conducted on animal models, and further clinical trials in humans are necessary to confirm whether similar results can be achieved in people. Future drug development targeting FTL1 could potentially lead to breakthrough therapies for slowing human brain aging.\n\n##",
+      "aiSummaryKo": "뇌 노화의 메커니즘을 규명하기 위해 과학자들은 FTL1이라는 단백질에 주목했다. 연구팀은 노화된 쥐를 대상으로 실험을 진행하여 FTL1 단백질의 수치가 높을수록 뇌 세포 간 연결이 약해지고 기억력이 저하된다는 사실을 발견했다. 놀랍게도 FTL1 단백질을 감소시켰을 때 뇌는 손상된 연결을 복구하고 기억력을 회복하는 놀라운 변화를 보였다. 이 발견은 알츠하이머병 등 퇴행성 뇌질환 치료의 새로운 가능성을 제시한다는 점에서 의의가 있다. 다만 이 연구는 동물 모델을 대상으로 수행되었으므로 인간에게 동일한 결과가 나타날지는 추가 임상시험이 필요하다. 향후 FTL1을 표적으로 하는 약물 개발이 진행된다면 인간의 뇌 노화를 지연시킬 수 있는 혁신적 치료법이 될 수 있을 것으로 기대된다.\n\n##",
+      "aiSummaryEn": "Scientists have identified a key protein called FTL1 that plays a crucial role in brain aging. In their research using aging mice as models, researchers discovered that elevated levels of FTL1 protein weakened synaptic connections between brain cells and caused memory decline. Remarkably, when FTL1 levels were reduced, the brain demonstrated significant recovery by rebuilding neural connections and restoring memory function. This discovery holds significant implications for developing treatments for neurodegenerative diseases such as Alzheimer's disease. However, the study was conducted on animal models, and further clinical trials in humans are necessary to confirm whether similar results can be achieved in people. Future drug development targeting FTL1 could potentially lead to breakthrough therapies for slowing human brain aging.\n\n##",
+      "keyPoints": [
+        "**FTL1 단백질과 뇌 노화의 연관성 규명** / Identification of FTL1 protein's role in brain aging and synaptic deterioration",
+        "**가역적 뇌 회복 가능성 발견** / Discovery of reversible brain recovery through FTL1 reduction restoring neural connections",
+        "**퇴행성 뇌질환 치료법의 새로운 방향 제시** / New therapeutic direction for neurodegenerative diseases like Alzheimer's disease",
+        "**동물 실험 단계의 한계 및 임상화 필요성** / Study limitation to animal models requiring further human clinical trials before therapeutic application"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
+      "featured": false
+    },
     {
       "id": "0f6dc42eeced",
       "tag": "psych",
@@ -21,7 +126,7 @@
         "**연구의 한계와 추후 방향**: 소셜 미디어 텍스트 분석만으로는 실제 정신 건강 상태를 완전히 파악하기 어려우며, 임상 평가와의 비교 연구 필요 / The study is limited to social media language analysis; clinical validation and longitudinal studies are needed to confirm causal relationships"
       ],
       "url": "https://www.psypost.org/social-media-analysis-links-polarized-political-language-to-distorted-thought-pa-2026-03-26/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "841ffed693c5",
@@ -300,86 +405,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2604.04033",
-      "featured": false
-    },
-    {
-      "id": "8e79529f1580",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "The physical basis of information flow in neural matter: a thermocoherent perspective on cognitive dynamics",
-      "titleKo": "",
-      "summary": "arXiv:2604.04069v1 Announce Type: new Abstract: Information flow is central to contemporary accounts of cognition, yet its physical basis in living neural matter remains poorly specified. Here, we develop a multiscale resource-theoretical framework motivated by the \\textit{thermocoherent effect}, where heat flow is reciprocally coupled to a delocalized information flow carried by shared coherence and not reducible to local subsystem variables. Extending this line of work in light of recent results on correlation-enabled Mpemba-type thermal relaxation, we argue that the operational relevance of",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.04069",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "1일 전 / 1d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "1f2d0b54d063",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "5일 전 / 5d ago",
-      "title": "What It’s Like to Be…a Diplomat",
-      "titleKo": "",
-      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "381971e27c77",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "21일 전 / 21d ago",
-      "title": "Facts and the Fight for Moral High Ground",
-      "titleKo": "",
-      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
-      "featured": false
-    },
-    {
-      "id": "0fbc5cca2e7c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "6시간 전 / 6h ago",
-      "title": "Scientists discover hidden brain switch that tells you to stop eating",
-      "titleKo": "",
-      "summary": "Your brain’s “stop eating” signal may come from an unexpected source. Researchers found that astrocytes—once thought to just support neurons—actually play a key role in controlling appetite. After a meal, glucose triggers tanycytes, which send signals to astrocytes that then activate fullness neurons. This newly discovered pathway could lead to innovative treatments for obesity and eating disorders.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
       "featured": false
     }
   ]
