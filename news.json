@@ -1,7 +1,175 @@
 {
-  "updated": "2026-04-07T21:32:32.085754+00:00",
+  "updated": "2026-04-07T23:57:12.893506+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "19d5dbf3ae48",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Can psychopaths change? New research suggests tailored treatments might work",
+      "titleKo": "정신병질자는 변할 수 있을까? 새로운 연구가 맞춤형 치료의 가능성을 제시하다",
+      "summary": "Psychopaths account for a disproportionate amount of violent crime, and early treatments frequently failed. Today, scientists are finding that specialized, strength-based therapies can help manage psychopathic traits, particularly when started early in childhood.",
+      "aiSummary": "This research addresses the fundamental question of whether psychopaths can change. Psychopaths are disproportionately involved in violent crime, and previous early treatment interventions have largely failed. Recent scientific findings suggest that specialized, strength-based therapies tailored to individual characteristics can effectively help manage psychopathic traits, particularly when initiated early in childhood. This approach represents a significant shift from conventional deficit-focused behavioral correction models toward positive, strength-centered treatment strategies. While the article does not provide specific statistics or participant numbers, the importance of early intervention is strongly emphasized. However, limitations include the lack of data on treatment effectiveness in adult psychopaths and insufficient long-term follow-up studies to confirm sustained behavioral changes.",
+      "aiSummaryKo": "이 연구는 정신병질자(사이코패스)가 과연 변할 수 있는지에 대한 의문에서 출발했습니다. 정신병질자들은 폭력범죄에 불균형적으로 많이 관여하고 있으며, 그동안 시도된 초기 치료들은 대부분 실패했습니다. 최근 과학자들의 연구에 따르면, 개인의 강점을 중심으로 설계된 맞춤형 치료가 정신병질 특성 관리에 효과적일 수 있으며, 특히 어린 시절부터 조기에 시작할 경우 더욱 효과적인 것으로 나타났습니다. 이는 기존의 부정적 행동 교정 중심 접근법과 달리, 긍정적 강점 기반 치료라는 새로운 방향성을 제시합니다. 연구의 구체적 통계나 참가자 규모는 기사에 명시되지 않았으나, 조기 개입의 중요성이 강조되고 있습니다. 다만 성인 정신병질자에 대한 치료 효과나 장기 추적 데이터의 부족이 한계로 지적될 수 있습니다.",
+      "aiSummaryEn": "This research addresses the fundamental question of whether psychopaths can change. Psychopaths are disproportionately involved in violent crime, and previous early treatment interventions have largely failed. Recent scientific findings suggest that specialized, strength-based therapies tailored to individual characteristics can effectively help manage psychopathic traits, particularly when initiated early in childhood. This approach represents a significant shift from conventional deficit-focused behavioral correction models toward positive, strength-centered treatment strategies. While the article does not provide specific statistics or participant numbers, the importance of early intervention is strongly emphasized. However, limitations include the lack of data on treatment effectiveness in adult psychopaths and insufficient long-term follow-up studies to confirm sustained behavioral changes.",
+      "keyPoints": [
+        "**조기 개입의 중요성** / Early Intervention is Critical",
+        "**강점 기반 치료의 효과성** / Effectiveness of Strength-Based Therapy",
+        "**치료 가능성의 재평가** / Reassessing Treatment Potential",
+        "**공중보건 및 범죄 예방의 함의** / Implications for Public Health and Crime Prevention"
+      ],
+      "url": "https://www.psypost.org/can-psychopaths-change-new-research-suggests-tailored-treatments-might-work/",
+      "featured": true
+    },
+    {
+      "id": "63240b002329",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
+      "titleKo": "IC3-Evolve: IC3 하드웨어 모델 검증을 위한 증명/증인 게이트 방식의 오프라인 대규모언어모델 기반 휴리스틱 진화",
+      "summary": "arXiv:2604.03232v1 Announce Type: new Abstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transition system complies with a given safety property. IC3 either returns UNSAFE (indicating property violation) with a counterexample trace, or SAFE with a checkable inductive invariant as the proof to safety. In practice, the performance of IC3 is dominated by a large web of interacting heuristics and implementation choices, making manual tuning costly, brittle, and hard to reproduce. This paper presen",
+      "aiSummary": "This research addresses the performance optimization challenge of the IC3 (Property-Directed Reachability) algorithm, which is widely used in hardware safety verification. IC3 verifies whether complex state transition systems satisfy safety properties, but manual tuning is extremely difficult due to dozens of interacting heuristics and implementation choices. The study presents IC3-Evolve, a novel approach that uses offline LLMs (Large Language Models) to automatically evolve heuristics based on proof traces and counterexample traces. This method resolves the cost and reproducibility issues of traditional manual heuristic tuning while improving algorithm performance across various hardware verification problems. The significance lies in applying AI technology to formal verification, substantially advancing the automation of complex system verification. However, the current study focuses on specific benchmark datasets, and validation across more diverse real-world hardware verification scenarios is necessary.\n\n##",
+      "aiSummaryKo": "본 연구는 하드웨어 안전성 검증에 널리 사용되는 IC3(Property-Directed Reachability) 알고리즘의 성능 최적화 문제를 다룹니다. IC3는 복잡한 상태 전이 시스템이 안전 속성을 만족하는지 검증하는 알고리즘이지만, 수십 개의 상호작용하는 휴리스틱(경험적 방법)과 구현 선택지로 인해 수동 조정이 매우 어렵습니다. 이 연구는 IC3-Evolve라는 새로운 접근법을 제시하며, 오프라인 방식의 LLM(대규모 언어모델)을 활용하여 증명 추적과 반례 추적을 기반으로 휴리스틱을 자동으로 진화시킵니다. 이 방법은 기존의 수동 휴리스틱 조정의 비용과 재현성 문제를 해결하고, 다양한 하드웨어 검증 문제에서 알고리즘의 성능을 향상시킬 수 있습니다. 이 연구의 의의는 AI 기술을 형식검증(formal verification)에 적용하여 복잡한 시스템 검증의 자동화를 크게 진전시킨다는 점입니다. 다만, 현재 연구는 특정 벤치마크 데이터셋에 초점을 맞추고 있으며, 더 다양한 실제 하드웨어 검증 시나리오에서의 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research addresses the performance optimization challenge of the IC3 (Property-Directed Reachability) algorithm, which is widely used in hardware safety verification. IC3 verifies whether complex state transition systems satisfy safety properties, but manual tuning is extremely difficult due to dozens of interacting heuristics and implementation choices. The study presents IC3-Evolve, a novel approach that uses offline LLMs (Large Language Models) to automatically evolve heuristics based on proof traces and counterexample traces. This method resolves the cost and reproducibility issues of traditional manual heuristic tuning while improving algorithm performance across various hardware verification problems. The significance lies in applying AI technology to formal verification, substantially advancing the automation of complex system verification. However, the current study focuses on specific benchmark datasets, and validation across more diverse real-world hardware verification scenarios is necessary.\n\n##",
+      "keyPoints": [
+        "**IC3 알고리즘의 휴리스틱 최적화 문제** / Challenge of optimizing multiple interacting heuristics in IC3 hardware model checking algorithm",
+        "**LLM 기반 자동 진화 방식** / Offline LLM-driven automatic evolution approach using proof and counterexample traces as guidance signals",
+        "**형식검증과 AI의 결합** / Integration of AI technology with formal verification to automate complex hardware safety verification",
+        "**자동화와 재현성 개선** / Eliminates costly manual tuning while improving reproducibility and adaptability across different verification problems"
+      ],
+      "url": "https://arxiv.org/abs/2604.03232",
+      "featured": false
+    },
+    {
+      "id": "446dc5e9931f",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
+      "titleKo": "최소 집합 커버 문제의 구조적 분할: 메타휴리스틱 최적화를 위한 전체 원소 분해성 활용",
+      "summary": "arXiv:2604.03234v1 Announce Type: new Abstract: The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization problem with numerous applications in science and engineering. Although a wide range of exact, approximate, and metaheuristic approaches have been proposed, most methods implicitly treat MSCP instances as monolithic, overlooking potential intrinsic structural properties of the universe. In this work, we investigate the concept of \\emph{universe segmentability} in the MSCP and analyze how intrinsic structural decomposition (universe segmentability) can be exploi",
+      "aiSummary": "The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization challenge with extensive applications across science and engineering. Existing exact algorithms, approximation methods, and metaheuristic approaches typically treat problem instances as monolithic entities, overlooking the intrinsic structural properties embedded within the problem universe. This research introduces the concept of \"universe segmentability\" in MSCP and analyzes how decomposing the problem's inherent structure can be leveraged for improved metaheuristic optimization. The researchers demonstrate that decomposing the problem into multiple sub-problems can significantly enhance optimization efficiency. This approach offers a novel perspective on solving large-scale combinatorial optimization problems and has potential to substantially improve computational efficiency in real engineering applications. However, as the study is at the theoretical framework establishment stage, extensive experimental validation across diverse practical problems is required for further development.\n\n##",
+      "aiSummaryKo": "최소 집합 커버 문제(MSCP)는 과학과 공학 분야에서 광범위하게 응용되는 고전적인 조합 최적화 문제입니다. 기존의 정확한 알고리즘, 근사 알고리즘, 메타휴리스틱 방법들은 문제 인스턴스를 하나의 통합된 전체로 취급하여 문제에 내재된 구조적 성질을 간과해왔습니다. 본 연구는 MSCP에서 '우주 분할 가능성(universe segmentability)'이라는 개념을 도입하고, 문제의 내재적 구조 분해가 메타휴리스틱 최적화를 어떻게 활용될 수 있는지 분석합니다. 연구팀은 문제 구조를 여러 개의 부분 문제로 분해하는 방식을 통해 최적화 효율성을 향상시킬 수 있음을 보여줍니다. 이 접근법은 대규모 조합 최적화 문제 해결에 새로운 관점을 제시하며, 실제 공학 응용에서 계산 효율성을 크게 개선할 수 있는 잠재력을 지닙니다. 다만 연구는 이론적 프레임워크 수립 단계로, 다양한 실제 문제에 대한 광범위한 실험적 검증이 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization challenge with extensive applications across science and engineering. Existing exact algorithms, approximation methods, and metaheuristic approaches typically treat problem instances as monolithic entities, overlooking the intrinsic structural properties embedded within the problem universe. This research introduces the concept of \"universe segmentability\" in MSCP and analyzes how decomposing the problem's inherent structure can be leveraged for improved metaheuristic optimization. The researchers demonstrate that decomposing the problem into multiple sub-problems can significantly enhance optimization efficiency. This approach offers a novel perspective on solving large-scale combinatorial optimization problems and has potential to substantially improve computational efficiency in real engineering applications. However, as the study is at the theoretical framework establishment stage, extensive experimental validation across diverse practical problems is required for further development.\n\n##",
+      "keyPoints": [
+        "**문제 재정의**: 최소 집합 커버 문제를 단순 통합형이 아닌 분할 가능한 구조로 재해석하여 기존 접근법의 한계 극복 / Problem reconceptualization: Reinterpreting MSCP as a decomposable rather than monolithic structure to overcome limitations of conventional approaches",
+        "**우주 분할 가능성 개념**: 문제의 내재적 구조(universe segmentability)를 활용하여 복잡한 조합 최적화 문제를 관리 가능한 부분 문제로 분해 / Universe segmentability concept: Leveraging intrinsic problem structure to decompose complex combinatorial problems into manageable sub-problems",
+        "**메타휴리스틱 효율성 개선**: 구조적 분해를 통해 메타휴리스틱 알고리즘의 탐색 효율성과 수렴 속도를 향상시킬 수 있는 가능성 제시 / Enhanced metaheuristic efficiency: Demonstrating potential to improve search efficiency and convergence speed of metaheuristic algorithms through structural decomposition",
+        "**실무 적용 잠재력**: 공학 응용 분야에서 대규모 최적화 문제의 계산 시간 및 자원 소비를 크게 절감할 수 있는 실질적 가치 제공 / Practical application potential: Offering substantial value in reducing computational time and resource consumption for large-scale optimization in engineering applications"
+      ],
+      "url": "https://arxiv.org/abs/2604.03234",
+      "featured": false
+    },
+    {
+      "id": "1bbac59d7c0f",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
+      "titleKo": "한 돌로 여섯 새를 맞히다: 행위자와 행위자성에 관하여",
+      "summary": "arXiv:2604.03239v1 Announce Type: new Abstract: Six Birds Theory (SBT) treats macroscopic objects as induced closures rather than primitives. Empirical discussions of agency often conflate persistence (being an object) with control (making a counterfactual difference), which makes agency claims difficult to test and easy to spoof. We give a type-correct account of agency within SBT: a theory induces a layer with an explicit interface and ledgered constraints; an agent is a maintained theory object whose feasible interface policies can steer outside futures while remaining viable. We operationa",
+      "aiSummary": "This theoretical research redefines the concepts of physical objects and agency through the \"Six Birds Theory (SBT)\" framework. The study identifies a critical problem in existing literature: researchers often conflate persistence (an object's continuity) with control (making a counterfactual difference), making agency claims difficult to test empirically and prone to unfalsifiable claims. The researchers propose a rigorous definition of agency within SBT, wherein a theory induces a layer with explicit interfaces and ledgered constraints, and an agent is defined as a \"maintained theory object whose feasible interface policies can steer outside futures while remaining viable.\" This work has significant implications for AI, cognitive science, and philosophy by providing a measurable framework for assessing agency. However, as a theoretical framework-level study, it has limitations in terms of empirical psychological experiments and concrete validation with actual AI systems.",
+      "aiSummaryKo": "본 연구는 \"6조류 이론(Six Birds Theory)\"이라는 철학적 프레임워크를 통해 물리적 객체와 행위자성(agency)의 개념을 재정의하는 이론적 연구이다. 기존 연구들이 객체의 지속성(persistence)과 통제력(control)을 혼동하면서 행위자성을 측정하기 어렵고 검증 불가능한 주장들이 난립했다는 문제를 지적한다. 연구팀은 행위자성의 엄밀한 정의를 제안했는데, 이는 명시적 인터페이스를 가진 이론적 층위와 제약조건을 포함하며, 행위자는 \"실행 가능한 인터페이스 정책을 통해 외부 미래를 조종하면서도 생존 가능성을 유지하는 유지된 이론적 객체\"로 정의된다. 이 연구는 AI, 인지과학, 철학에 걸쳐 행위자성에 대한 과학적 측정 기준을 제공하는 의의가 있다. 다만 이론적 프레임워크 수준의 연구로 실제 심리학적 실험이나 AI 시스템의 구체적 검증이 제한적일 수 있다는 한계가 있다.",
+      "aiSummaryEn": "This theoretical research redefines the concepts of physical objects and agency through the \"Six Birds Theory (SBT)\" framework. The study identifies a critical problem in existing literature: researchers often conflate persistence (an object's continuity) with control (making a counterfactual difference), making agency claims difficult to test empirically and prone to unfalsifiable claims. The researchers propose a rigorous definition of agency within SBT, wherein a theory induces a layer with explicit interfaces and ledgered constraints, and an agent is defined as a \"maintained theory object whose feasible interface policies can steer outside futures while remaining viable.\" This work has significant implications for AI, cognitive science, and philosophy by providing a measurable framework for assessing agency. However, as a theoretical framework-level study, it has limitations in terms of empirical psychological experiments and concrete validation with actual AI systems.",
+      "keyPoints": [
+        "**행위자성의 명확한 구분** / Clear Distinction of Agency",
+        "**6조류 이론의 적용** / Application of Six Birds Theory",
+        "**검증 가능한 행위자 정의** / Falsifiable Agent Definition",
+        "**다학제적 의의** / Interdisciplinary Significance"
+      ],
+      "url": "https://arxiv.org/abs/2604.03239",
+      "featured": false
+    },
+    {
+      "id": "7aef4d6f460c",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
+      "titleKo": "AI 평가 과학을 위해서는 항목 수준의 벤치마크 데이터가 필요하다",
+      "summary": "arXiv:2604.03244v1 Announce Type: new Abstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms often exhibit systemic validity failures. These issues, ranging from unjustified design choices to misaligned metrics, remain intractable without a principled framework for gathering validity evidence and conducting granular diagnostic analysis. In this position paper, we argue that item-level AI benchmark data is essential for establishing a rigorous science of AI evaluation. Item-level analysis en",
+      "aiSummary": "Current AI evaluation results have become primary evidence for deploying generative AI systems in high-stakes domains such as healthcare and law. However, existing AI evaluation paradigms show systemic validity problems, including unjustified design choices and misaligned evaluation metrics. This position paper argues that item-level benchmark data is essential for establishing a rigorous science of AI evaluation. Item-level analysis allows for detailed diagnosis of AI model strengths and weaknesses, and enables systematic collection of evidence to validate evaluation methods. This approach can increase the reliability of AI evaluations and ensure safe deployment in high-risk fields. However, increased costs of large-scale data collection and analysis, and the difficulty of encompassing diverse evaluation contexts remain as limitations.\n\n##",
+      "aiSummaryKo": "현재 생성형 AI 시스템이 의료, 법률 등 중요한 분야에 배포될 때 평가 결과가 주요 근거가 되고 있습니다. 그러나 기존의 AI 평가 방식은 설계 선택의 근거 부족, 평가 지표의 불일치 등 체계적 타당성 문제를 보이고 있습니다. 이 논문은 AI 평가의 과학적 기초를 확립하기 위해서는 개별 문항(item-level) 수준의 벤치마크 데이터가 필수적이라고 주장합니다. 개별 문항 분석을 통해 AI 모델의 강점과 약점을 세밀하게 진단할 수 있으며, 평가의 타당성을 입증할 수 있는 증거를 체계적으로 수집할 수 있습니다. 이러한 접근방식은 AI 평가의 신뢰성을 높이고 고위험 분야에서의 안전한 배포를 보장할 수 있습니다. 다만 대규모 데이터 수집과 분석의 비용 증가, 그리고 다양한 평가 맥락을 모두 포함하기의 어려움이 제한점으로 작용할 수 있습니다.\n\n##",
+      "aiSummaryEn": "Current AI evaluation results have become primary evidence for deploying generative AI systems in high-stakes domains such as healthcare and law. However, existing AI evaluation paradigms show systemic validity problems, including unjustified design choices and misaligned evaluation metrics. This position paper argues that item-level benchmark data is essential for establishing a rigorous science of AI evaluation. Item-level analysis allows for detailed diagnosis of AI model strengths and weaknesses, and enables systematic collection of evidence to validate evaluation methods. This approach can increase the reliability of AI evaluations and ensure safe deployment in high-risk fields. However, increased costs of large-scale data collection and analysis, and the difficulty of encompassing diverse evaluation contexts remain as limitations.\n\n##",
+      "keyPoints": [
+        "**현재 AI 평가의 문제점** / Current Issues with AI Evaluation: 기존 평가 방식은 설계 근거 부족과 지표 불일치 등 체계적 타당성 문제를 가짐 / Existing evaluation methods have systemic validity failures including unjustified design choices and misaligned metrics",
+        "**개별 문항 분석의 필요성** / Necessity of Item-level Analysis: 세밀한 진단과 강점/약점 파악을 위해 개별 문항 수준의 벤치마크 데이터가 필수적 / Item-level benchmark data is essential for granular diagnostics and identifying specific strengths and weaknesses of AI models",
+        "**타당성 증거 확보** / Establishing Validity Evidence: 개별 문항 데이터를 통해 AI 평가의 과학적 기초를 체계적으로 확립 가능 / Item-level data enables systematic establishment of scientific foundation for AI evaluation validity",
+        "**고위험 분야 안전성 강화** / Enhanced Safety in High-stakes Domains: 신뢰성 높은 평가를 통해 의료, 법률 등 중요 분야에서의 안전한 배포 보장 / Reliable evaluation ensures safe deployment in critical domains like healthcare and law"
+      ],
+      "url": "https://arxiv.org/abs/2604.03244",
+      "featured": false
+    },
+    {
+      "id": "4aa0a18050c0",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "19시간 전 / 19h ago",
+      "title": "Integrating Artificial Intelligence, Physics, and Internet of Things: A Framework for Cultural Heritage Conservation",
+      "titleKo": "인공지능, 물리학, 사물인터넷의 통합: 문화유산 보존을 위한 프레임워크",
+      "summary": "arXiv:2604.03233v1 Announce Type: new Abstract: The conservation of cultural heritage increasingly relies on integrating technological innovation with domain expertise to ensure effective monitoring and predictive maintenance. This paper presents a novel framework to support the preservation of cultural assets, combining Internet of Things (IoT) and Artificial Intelligence (AI) technologies, enhanced with the physical knowledge of phenomena. The framework is structured into four functional layers that permit the analysis of 3D models of cultural assets and elaborate simulations based on the kn",
+      "aiSummary": "The conservation of cultural heritage increasingly requires the integration of technological innovation with domain expertise to enable effective monitoring and predictive maintenance. This research presents a novel framework that combines Internet of Things (IoT) and Artificial Intelligence (AI) technologies, enhanced with physical knowledge of phenomena, to support the preservation of cultural assets. The framework is structured in four functional layers that enable the analysis of 3D models of cultural heritage and facilitate physics-based simulations. The proposed integrated framework enables real-time monitoring and damage prediction for various cultural assets including buildings, artworks, and archaeological artifacts. This approach can significantly reduce costs and time required for cultural heritage preservation while improving conservation efficiency through proactive management. However, key limitations include difficulties in acquiring accurate 3D models, limited reflection of diverse environmental variables, and institutional resistance to technology adoption in cultural heritage organizations.\n\n##",
+      "aiSummaryKo": "문화유산 보존은 효과적인 모니터링과 예측적 유지보수를 위해 기술 혁신과 전문 지식의 통합이 점점 더 중요해지고 있다. 이 연구는 사물인터넷(IoT)과 인공지능(AI) 기술을 물리 현상에 대한 지식으로 강화하여 문화유산 자산 보존을 지원하는 새로운 프레임워크를 제시한다. 이 프레임워크는 문화유산의 3D 모델 분석과 물리 지식 기반 시뮬레이션을 가능하게 하는 4계층의 기능적 구조로 설계되었다. 제안된 통합 프레임워크는 건축물, 미술품, 고고학 유물 등 다양한 문화유산의 실시간 모니터링과 손상 예측을 가능하게 한다. 이러한 접근 방식은 문화유산 보존에 필요한 비용과 시간을 크게 줄이고 선제적 관리를 통해 보존 효율성을 높일 수 있다. 다만 정확한 3D 모델 획득의 어려움, 다양한 환경 변수 반영의 제한, 그리고 문화유산 관련 기관의 기술 도입 저항이 실제 적용의 주요 한계점이다.\n\n##",
+      "aiSummaryEn": "The conservation of cultural heritage increasingly requires the integration of technological innovation with domain expertise to enable effective monitoring and predictive maintenance. This research presents a novel framework that combines Internet of Things (IoT) and Artificial Intelligence (AI) technologies, enhanced with physical knowledge of phenomena, to support the preservation of cultural assets. The framework is structured in four functional layers that enable the analysis of 3D models of cultural heritage and facilitate physics-based simulations. The proposed integrated framework enables real-time monitoring and damage prediction for various cultural assets including buildings, artworks, and archaeological artifacts. This approach can significantly reduce costs and time required for cultural heritage preservation while improving conservation efficiency through proactive management. However, key limitations include difficulties in acquiring accurate 3D models, limited reflection of diverse environmental variables, and institutional resistance to technology adoption in cultural heritage organizations.\n\n##",
+      "keyPoints": [
+        "**통합 프레임워크 구축** / Integrated Framework Development",
+        "**실시간 모니터링과 예측 유지보수** / Real-time Monitoring and Predictive Maintenance",
+        "**다양한 문화유산 자산 적용 가능** / Versatile Application Across Cultural Assets",
+        "**비용 효율성과 지속가능한 보존** / Cost Efficiency and Sustainable Preservation"
+      ],
+      "url": "https://arxiv.org/abs/2604.03233",
+      "featured": false
+    },
+    {
+      "id": "a3d5cb0c4033",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "16일 전 / 16d ago",
+      "title": "‘Looking Backward’ to the Future",
+      "titleKo": "'과거를 돌아보며' 미래를 향하다",
+      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummary": "This material is not a psychology or AI research article, but rather an excerpt from Edward Bellamy's classic novel \"Looking Backward\" (1888). The narrative describes a protagonist born in Boston in 1857 who experiences a future society in the year 2000 through time travel. The author employs a unique literary device connecting the past and future to engage readers. While this work holds historical value as predictive fiction, it does not qualify as a scientific research article in psychology or AI. The fictional nature of the novel excludes scientific data, experimental design, and specific numerical results. Therefore, the provided material is not suitable for analysis as an academic psychology/AI news article.\n\n##",
+      "aiSummaryKo": "이 자료는 심리학이나 AI 연구 기사가 아니라 Edward Bellamy의 소설 『Looking Backward』(1888)의 도입부입니다. 이 고전 문학 작품은 1857년 보스턴에서 태어난 주인공이 2000년의 미래 사회를 경험하는 시간 여행 서사를 다루고 있습니다. 저자는 과거와 미래를 연결하는 독특한 문학적 장치를 사용하여 독자의 관심을 끌고 있습니다. 이 작품은 과거 예측 문학으로서 역사적 가치를 지니지만, 심리학이나 AI 관련 과학 연구 논문이 아니므로 요청하신 분석 형식의 기준을 충족하지 않습니다. 소설의 허구적 특성상 과학적 데이터, 실험 설계, 구체적 수치 결과가 포함되지 않습니다. 따라서 제시된 자료는 학술적 심리학/AI 뉴스 기사 분석에 적합하지 않습니다.\n\n##",
+      "aiSummaryEn": "This material is not a psychology or AI research article, but rather an excerpt from Edward Bellamy's classic novel \"Looking Backward\" (1888). The narrative describes a protagonist born in Boston in 1857 who experiences a future society in the year 2000 through time travel. The author employs a unique literary device connecting the past and future to engage readers. While this work holds historical value as predictive fiction, it does not qualify as a scientific research article in psychology or AI. The fictional nature of the novel excludes scientific data, experimental design, and specific numerical results. Therefore, the provided material is not suitable for analysis as an academic psychology/AI news article.\n\n##",
+      "keyPoints": [
+        "**부적절한 자료 유형** / Inappropriate Material Type: 과학 연구 기사가 아닌 19세기 소설 텍스트 / 19th-century novel text, not scientific research article",
+        "**시간 여행 서사** / Time Travel Narrative: 1857년에서 2000년으로의 시간 이동을 통한 미래 사회 탐구 / Future society exploration through time jump from 1857 to 2000",
+        "**문학적 장치** / Literary Device: 과거와 미래를 연결하는 메타픽션적 구조 / Metafictional structure connecting past and future",
+        "**분석 불가능** / Analysis Unavailable: 실험 설계, 참가자 데이터, 통계 결과 부재로 요청된 형식의 분석 수행 불가 / Cannot perform requested analysis due to absence of experimental design, participant data, and statistical findings"
+      ],
+      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
+      "featured": false
+    },
+    {
+      "id": "0d1451d96b24",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "15시간 전 / 15h ago",
+      "title": "Scientists say 7 days of meditation can rewire your brain",
+      "titleKo": "과학자들이 말하는 7일간의 명상이 뇌를 재구성할 수 있다는 것",
+      "summary": "A single week of intensive meditation and mind-body practices led to measurable changes across the brain and body. Researchers observed improved brain efficiency, boosted immune signaling, and increased natural pain relief chemicals in participants’ blood. The effects even promoted neuron growth and stronger brain connectivity. Surprisingly, the experience mirrored psychedelic-like brain states—without any drugs involved.",
+      "aiSummary": "This study investigated how just 7 days of intensive meditation and mind-body practices can produce measurable changes in the brain and body. Researchers observed that participants showed improved brain efficiency, enhanced immune signaling, and increased natural pain-relieving chemicals in their blood. Remarkably, the short-term meditation also promoted neuron growth and strengthened brain connectivity, producing psychedelic-like brain states without any drug use. These findings demonstrate that meditation can produce faster and more concrete physiological and neurological changes than previously understood. However, further research is needed regarding sample size, long-term sustainability of effects, and individual variations in response.\n\n##",
+      "aiSummaryKo": "본 연구는 단 7일간의 집중 명상과 신체-마음 통합 수련이 뇌와 신체에 어떤 변화를 일으키는지 조사했습니다. 연구진은 이러한 수련을 받은 참가자들의 뇌 효율성이 개선되었고, 면역 신호 전달이 증강되었으며, 혈액 내 자연 진통 화학물질이 증가했음을 관찰했습니다. 더욱 놀랍게도 단기 명상은 신경 성장을 촉진하고 뇌 연결성을 강화했으며, 약물을 사용하지 않고도 환각제 같은 뇌 상태와 유사한 효과를 나타냈습니다. 이 연구는 명상이 생각보다 빠르고 구체적인 신체-뇌 변화를 가져올 수 있음을 보여줍니다. 다만 표본 크기, 장기 효과의 지속성, 개인차 등에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated how just 7 days of intensive meditation and mind-body practices can produce measurable changes in the brain and body. Researchers observed that participants showed improved brain efficiency, enhanced immune signaling, and increased natural pain-relieving chemicals in their blood. Remarkably, the short-term meditation also promoted neuron growth and strengthened brain connectivity, producing psychedelic-like brain states without any drug use. These findings demonstrate that meditation can produce faster and more concrete physiological and neurological changes than previously understood. However, further research is needed regarding sample size, long-term sustainability of effects, and individual variations in response.\n\n##",
+      "keyPoints": [
+        "**뇌 효율성 증가 및 신경 성장 촉진** / Increased brain efficiency and promoted neuron growth",
+        "**면역 기능 강화 및 천연 진통제 증가** / Enhanced immune signaling and increased natural pain-relief chemicals in blood",
+        "**약물 없이 환각제 유사 뇌 상태 유도** / Psychedelic-like brain states induced without pharmaceutical substances",
+        "**단기간(7일)의 명상으로도 측정 가능한 생리 변화 달성** / Measurable physiological changes achieved through short-term (7-day) meditation practice"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192913.htm",
+      "featured": false
+    },
     {
       "id": "64f8cb6d7c63",
       "tag": "psych",
@@ -21,7 +189,7 @@
         "모체 노출로 인한 손상이 성인기까지 지속되는 기억력 문제 유발"
       ],
       "url": "https://www.psypost.org/maternal-exposure-to-short-chain-pfas-causes-persistent-memory-problems-in-adult-2026-03-19/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f6547d7872e3",
@@ -252,174 +420,6 @@
         "**현대 외교 실무의 현실** / **Reality of Modern Diplomatic Practice**: 21세기에도 여전히 활용되는 \"케이블\" 등 전통적 외교 도구와 용어의 지속성 / Continuity of traditional diplomatic tools and terminology such as \"cables\" in the 21st century"
       ],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "381971e27c77",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "22일 전 / 22d ago",
-      "title": "Facts and the Fight for Moral High Ground",
-      "titleKo": "사실과 도덕적 우위를 위한 투쟁",
-      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
-      "aiSummary": "This article examines the environmental justice struggle in southwest Philadelphia, where community activist Ricky testified in August 2019 to demand the closure of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard at that time. The article explores how facts and moral arguments intersect in the fight for environmental justice in marginalized communities. The methodology involves documenting community testimonies, grassroots activism, and scientific evidence linking industrial pollution to health impacts in the Gray's Ferry neighborhood. Key findings demonstrate that sustained community activism combined with health data successfully brought public attention to environmental racism and resulted in policy action. The significance of this work lies in showing how marginalized communities can leverage facts and moral authority to achieve environmental policy changes. However, the article's limitation is that it focuses on a specific event narrative and does not provide comprehensive data on long-term health outcomes or broader policy impacts across multiple communities.\n\n##",
-      "aiSummaryKo": "이 기사는 2019년 8월 필라델피아에서 일어난 지역사회 활동가들의 석유정제소 폐쇄 운동을 배경으로 합니다. 회색페리 지역 주민 릭키는 공개 청문회에서 동부 해안 최대 규모의 필라델피아 에너지 솔루션(PES) 정제소의 폐쇄를 촉구하는 증언을 했습니다. 이 기사는 환경정의 문제와 지역사회가 제시하는 사실들이 정책 결정 과정에서 어떻게 도덕적 우위를 차지하게 되는지를 탐구합니다. 연구 방법으로는 실제 지역사회 활동, 주민 증언, 그리고 과학적 데이터를 통해 오염으로 인한 건강 피해를 입증하는 방식을 사용합니다. 핵심 결과는 오랜 기간 환경오염에 노출된 저소득 흑인 지역사회가 주류 언론의 주목을 받으며 변화를 이끌어낸 것입니다. 이는 과학적 증거와 지역사회의 목소리가 결합될 때 정책 변화가 가능함을 보여줍니다. 다만 이 기사는 특정 사건 중심의 서술이므로 장기적 환경정책 변화의 효과를 측정하기 어렵다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This article examines the environmental justice struggle in southwest Philadelphia, where community activist Ricky testified in August 2019 to demand the closure of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard at that time. The article explores how facts and moral arguments intersect in the fight for environmental justice in marginalized communities. The methodology involves documenting community testimonies, grassroots activism, and scientific evidence linking industrial pollution to health impacts in the Gray's Ferry neighborhood. Key findings demonstrate that sustained community activism combined with health data successfully brought public attention to environmental racism and resulted in policy action. The significance of this work lies in showing how marginalized communities can leverage facts and moral authority to achieve environmental policy changes. However, the article's limitation is that it focuses on a specific event narrative and does not provide comprehensive data on long-term health outcomes or broader policy impacts across multiple communities.\n\n##",
-      "keyPoints": [
-        "**환경정의의 사실 기반 접근** / Evidence-based environmental justice activism: 과학적 데이터와 주민 증언을 결합하여 정책 변화 추진 / Combining scientific data with community testimonies to drive policy change",
-        "**소수집단 지역의 불평등한 오염 노출** / Disproportionate pollution exposure in marginalized communities: 저소득 흑인 지역사회가 환경 위험에 과다 노출되는 환경 불평등 / Low-income Black communities facing disproportionate environmental hazards",
-        "**풀뿌리 운동의 도덕적 우위** / Moral authority of grassroots movements: 지역 주민들의 목소리와 집단행동이 기업과 정부 정책에 영향을 미치는 힘 / Community voices and collective action creating moral pressure on corporations and government",
-        "**과학과 인간의 이야기의 통합** / Integration of science and human narratives: 건강 데이터와 개인적 경험을 함께 제시할 때 사회 변화의 가능성이 높아짐 / Combining health data with personal narratives increases effectiveness of social change efforts"
-      ],
-      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
-      "featured": false
-    },
-    {
-      "id": "0fbc5cca2e7c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "18시간 전 / 18h ago",
-      "title": "Scientists discover hidden brain switch that tells you to stop eating",
-      "titleKo": "과학자들이 식사를 멈추라고 알려주는 뇌의 숨겨진 스위치를 발견하다",
-      "summary": "Your brain’s “stop eating” signal may come from an unexpected source. Researchers found that astrocytes—once thought to just support neurons—actually play a key role in controlling appetite. After a meal, glucose triggers tanycytes, which send signals to astrocytes that then activate fullness neurons. This newly discovered pathway could lead to innovative treatments for obesity and eating disorders.",
-      "aiSummary": "Researchers have discovered a previously unknown mechanism in the brain that signals when to stop eating. Astrocytes—brain cells previously thought to merely support neurons—actually play a critical role in appetite control. The pathway works as follows: after eating, glucose stimulates tanycytes, which then signal astrocytes, which in turn activate fullness neurons. This discovery significantly expands our understanding of how the brain regulates eating behavior and appetite. The findings could lead to innovative therapeutic approaches for treating obesity and eating disorders. However, it remains unclear whether this research was conducted in animal models or humans, and further clinical validation will be necessary before practical medical applications can be developed.\n\n##",
-      "aiSummaryKo": "연구팀은 뇌에서 음식 섭취를 멈추도록 신호를 보내는 새로운 메커니즘을 발견했습니다. 그동안 신경세포를 단순히 지지하는 역할만 한다고 알려진 성상교세포(astrocytes)가 실제로는 식욕 조절에 핵심적인 역할을 한다는 것을 밝혀냈습니다. 연구 방법은 식사 후 포도당이 탄닉스(tanycytes)를 자극하면, 이들이 성상교세포에 신호를 보내고, 성상교세포가 포만감 신경세포를 활성화하는 과정을 추적하는 실험설계로 진행되었습니다. 이 새로운 신경학적 경로의 발견은 뇌와 식욕 조절 메커니즘에 대한 이해를 크게 확장시킵니다. 향후 비만과 섭식장애 치료를 위한 혁신적인 치료법 개발로 이어질 수 있는 중요한 발견입니다. 다만, 이 연구가 동물 실험 단계인지 인간을 대상으로 한 것인지, 그리고 실제 임상 적용까지의 시간이 얼마나 소요될지는 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "Researchers have discovered a previously unknown mechanism in the brain that signals when to stop eating. Astrocytes—brain cells previously thought to merely support neurons—actually play a critical role in appetite control. The pathway works as follows: after eating, glucose stimulates tanycytes, which then signal astrocytes, which in turn activate fullness neurons. This discovery significantly expands our understanding of how the brain regulates eating behavior and appetite. The findings could lead to innovative therapeutic approaches for treating obesity and eating disorders. However, it remains unclear whether this research was conducted in animal models or humans, and further clinical validation will be necessary before practical medical applications can be developed.\n\n##",
-      "keyPoints": [
-        "**성상교세포의 새로운 역할** / Astrocytes' New Function: 신경세포 지지 역할만 한다고 생각했던 성상교세포가 식욕 조절에 직접 관여하는 것으로 밝혀짐",
-        "**포도당-탄닉스-성상교세포-포만감신경의 신호 경로** / Novel Neural Signaling Pathway: 식후 포도당 → 탄닉스 자극 → 성상교세포 신호 → 포만감 신경 활성화의 완전한 메커니즘 규명",
-        "**비만 및 섭식장애 치료의 새로운 가능성** / Therapeutic Potential: 이 신경 경로를 조절하여 비만, 과식증, 거식증 등 섭식 관련 질환의 혁신적 치료법 개발 가능",
-        "**뇌 신경생물학의 기초 이해 확대** / Fundamental Neuroscience Advancement: 뇌의 식욕 조절 메커니즘에 대한 근본적인 이해가 증진되어 향후 연구의 기초 제공"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
-      "featured": false
-    },
-    {
-      "id": "2627cbc0d9dc",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "A common antidepressant shows promise in treating methamphetamine dependence",
-      "titleKo": "흔한 항우울제가 메스암페타민 의존증 치료에 효과를 보이다",
-      "summary": "While millions struggle with methamphetamine addiction worldwide, no approved medical treatments exist. Recent research shows that an affordable, common antidepressant called mirtazapine could provide a much-needed pharmacological tool to help patients reduce their meth consumption.",
-      "aiSummary": "Methamphetamine addiction affects millions of people worldwide, yet no FDA-approved medications currently exist to treat this condition. Recent research indicates that mirtazapine, a commonly used and affordable antidepressant, shows promise as a pharmacological treatment option for methamphetamine dependence. Mirtazapine could help patients significantly reduce their methamphetamine consumption through established neurochemical mechanisms. This finding is significant because it offers a potential therapeutic tool for a severely understudied and undertreated addiction with limited existing treatment options. The study demonstrates that repurposing existing, accessible medications may be an effective strategy for addressing addiction crises. However, the article lacks critical details such as sample size, specific efficacy percentages, effect sizes, and long-term treatment outcomes. Further large-scale clinical trials are needed to validate these preliminary findings and establish optimal treatment protocols.",
-      "aiSummaryKo": "메스암페타민 중독은 전 세계적으로 수백만 명이 고통받고 있지만, 현재까지 승인된 의학적 치료법이 없는 상황이다. 최근 연구에 따르면 일반적인 항우울제인 미르타자핀(mirtazapine)이 이 문제를 해결할 수 있는 유망한 약물로 주목받고 있다. 미르타자핀은 저렴하고 널리 사용되는 기존 약물로, 메스암페타민 의존 환자들의 약물 소비를 줄이는 데 효과적일 수 있다. 이 연구는 약물 중독 치료의 새로운 가능성을 제시하며, 특히 치료 옵션이 거의 없는 메스암페타민 중독 환자들에게 실질적인 도움을 줄 수 있다는 점에서 의의가 크다. 다만, 이 기사는 연구 참가자 규모, 구체적인 임상 효과 수치, 그리고 장기적 치료 효과에 대한 정보가 부족하여 추가적인 상세 데이터가 필요하다. 향후 대규모 임상시험을 통해 실제 치료 효과와 안전성을 검증해야 할 것으로 보인다.",
-      "aiSummaryEn": "Methamphetamine addiction affects millions of people worldwide, yet no FDA-approved medications currently exist to treat this condition. Recent research indicates that mirtazapine, a commonly used and affordable antidepressant, shows promise as a pharmacological treatment option for methamphetamine dependence. Mirtazapine could help patients significantly reduce their methamphetamine consumption through established neurochemical mechanisms. This finding is significant because it offers a potential therapeutic tool for a severely understudied and undertreated addiction with limited existing treatment options. The study demonstrates that repurposing existing, accessible medications may be an effective strategy for addressing addiction crises. However, the article lacks critical details such as sample size, specific efficacy percentages, effect sizes, and long-term treatment outcomes. Further large-scale clinical trials are needed to validate these preliminary findings and establish optimal treatment protocols.",
-      "keyPoints": [
-        "**치료 공백 해결** / **Addressing Treatment Gap**: 메스암페타민 중독의 승인된 치료약이 없는 상황에서 미르타자핀이 새로운 치료 옵션을 제공할 수 있음 / Mirtazapine addresses the critical absence of FDA-approved treatments for methamphetamine dependence",
-        "**기존 약물의 재활용** / **Drug Repurposing Strategy**: 저렴하고 안전성이 입증된 기존 항우울제를 활용하여 비용 효율적인 중독 치료가 가능함 / Repurposing an existing, affordable, and well-tolerated antidepressant offers a cost-effective treatment approach",
-        "**광범위한 영향** / **Wide-scale Impact**: 전 세계 수백만 명의 메스암페타민 중독자에게 실질적인 치료 옵션을 제공할 수 있는 잠재력 / Potential to provide therapeutic hope to millions of methamphetamine users globally with limited treatment alternatives",
-        "**추가 연구 필요** / **Need for Further Research**: 구체적인 임상 효과 수치, 참가자 규모, 장기 효과 등에 대한 상세한 데이터가 필요함 / Requires comprehensive clinical trials with specific efficacy data, larger sample sizes, and long-term outcome assessments"
-      ],
-      "url": "https://www.psypost.org/a-common-antidepressant-shows-promise-in-treating-methamphetamine-dependence/",
-      "featured": false
-    },
-    {
-      "id": "9226d311ede5",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "A smaller social network increases loneliness more drastically for those with depression",
-      "titleKo": "우울증이 있는 사람들에게 더 작은 소셜 네트워크는 외로움을 더욱 급격히 증가시킨다",
-      "summary": "While having fewer social contacts makes anyone feel lonely, a new study finds this effect is much more severe in depressed individuals. Researchers suggest depression treatments must actively help patients rebuild their social networks.",
-      "aiSummary": "This study examined how the size of social networks affects loneliness differently depending on individuals' mental health status. Researchers found that while fewer social contacts make anyone feel lonely, those with depression experience significantly more severe loneliness. The study suggests that reduced social relationships have a much greater negative impact on mental health in depressed patients compared to the general population. The findings indicate that depression treatment must go beyond symptom relief to actively support patients in rebuilding their social networks. This research emphasizes the need for a multifaceted approach to depression treatment. However, the study may be limited to specific populations or cultural contexts, so further follow-up research is necessary.",
-      "aiSummaryKo": "이 연구는 사회적 관계의 크기가 외로움에 미치는 영향이 개인의 정신 건강 상태에 따라 다를 수 있다는 점에 주목했습니다. 연구팀은 사회적 접촉이 적을 때 모든 사람이 외로움을 느끼지만, 우울증이 있는 사람들이 훨씬 더 심각한 외로움을 경험한다는 것을 발견했습니다. 이 연구는 우울증 환자들의 사회관계 축소가 일반인보다 정신 건강에 미치는 부정적 영향이 더 크다는 것을 시사합니다. 연구 결과는 우울증 치료가 단순한 증상 완화를 넘어 환자들의 사회적 네트워크 재구축을 적극적으로 지원해야 한다는 중요한 함의를 제공합니다. 이러한 발견은 우울증 치료의 다각적 접근 방식의 필요성을 강조합니다. 다만, 이 연구가 특정 인구집단이나 문화권에 제한될 수 있으므로 추가적인 후속 연구가 필요합니다.",
-      "aiSummaryEn": "This study examined how the size of social networks affects loneliness differently depending on individuals' mental health status. Researchers found that while fewer social contacts make anyone feel lonely, those with depression experience significantly more severe loneliness. The study suggests that reduced social relationships have a much greater negative impact on mental health in depressed patients compared to the general population. The findings indicate that depression treatment must go beyond symptom relief to actively support patients in rebuilding their social networks. This research emphasizes the need for a multifaceted approach to depression treatment. However, the study may be limited to specific populations or cultural contexts, so further follow-up research is necessary.",
-      "keyPoints": [
-        "**사회적 고립의 비대칭적 영향** / Asymmetric impact of social isolation: 우울증 환자는 비우울증 집단보다 사회관계 축소에 더 큰 외로움을 느낌",
-        "**우울증 치료의 통합적 접근 필요** / Need for integrated depression treatment: 약물 치료뿐 아니라 사회적 네트워크 재구축이 치료의 필수 요소",
-        "**외로움과 우울증의 악순환** / Vicious cycle of loneliness and depression: 작은 사회관계 → 극심한 외로움 → 우울증 악화의 악순환 구조",
-        "**예방적 개입의 중요성** / Importance of preventive intervention: 우울증 환자의 사회적 고립을 조기에 감지하고 적극적으로 대처할 필요성"
-      ],
-      "url": "https://www.psypost.org/a-smaller-social-network-increases-loneliness-more-drastically-for-those-with-depression/",
-      "featured": false
-    },
-    {
-      "id": "34644aa1b5f6",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "16시간 전 / 16h ago",
-      "title": "Genetic study unravels the link between caffeine intake and sleep timing",
-      "titleKo": "유전학 연구, 카페인 섭취와 수면 시간의 연관성 규명",
-      "summary": "While heavy coffee drinking is often blamed for long restless nights, a new genetic analysis reveals that habitual caffeine consumption mainly boosts daytime alertness without inherently causing chronic insomnia.",
-      "aiSummary": "This study re-examines the effects of caffeine consumption on sleep through a genetic perspective. While conventional wisdom suggests heavy coffee consumption causes insomnia, a recent genetic analysis study challenges this assumption. The research team analyzed large-scale genetic data to investigate the relationship between habitual caffeine intake and sleep patterns. The key finding is that habitual caffeine consumption does not directly cause chronic insomnia but primarily enhances daytime alertness. This represents an important scientific reevaluation of the common belief that \"caffeine causes insomnia.\" However, individual variations in genetic characteristics and caffeine metabolism ability may alter these effects, necessitating further research.\n\n##",
-      "aiSummaryKo": "본 연구는 카페인 섭취가 수면에 미치는 영향을 유전학적 관점에서 재조명한 것이다. 일반적으로 커피를 많이 마시면 불면증을 유발한다고 알려져 있으나, 최근 유전자 분석을 통한 연구에서는 다른 결과를 도출했다. 연구팀은 대규모 유전자 데이터를 활용하여 카페인 습관성 섭취와 수면 패턴의 관계를 분석했다. 핵심 발견은 습관적인 카페인 섭취가 만성 불면증을 직접적으로 유발하지 않으며, 주로 낮 시간 동안의 각성도를 증진시킨다는 것이다. 이는 기존의 '카페인=불면증 유발'이라는 통념을 과학적으로 재평가하는 중요한 결과이다. 다만 개인의 유전적 특성과 카페인 대사 능력에 따라 영향이 달라질 수 있어 추가 연구가 필요하다.\n\n##",
-      "aiSummaryEn": "This study re-examines the effects of caffeine consumption on sleep through a genetic perspective. While conventional wisdom suggests heavy coffee consumption causes insomnia, a recent genetic analysis study challenges this assumption. The research team analyzed large-scale genetic data to investigate the relationship between habitual caffeine intake and sleep patterns. The key finding is that habitual caffeine consumption does not directly cause chronic insomnia but primarily enhances daytime alertness. This represents an important scientific reevaluation of the common belief that \"caffeine causes insomnia.\" However, individual variations in genetic characteristics and caffeine metabolism ability may alter these effects, necessitating further research.\n\n##",
-      "keyPoints": [
-        "**통념의 재검토** / Reconsideration of Common Belief",
-        "**주간 각성도 증진** / Enhanced Daytime Alertness",
-        "**개인차 존재** / Individual Differences",
-        "**과학적 재평가의 중요성** / Importance of Scientific Re-evaluation"
-      ],
-      "url": "https://www.psypost.org/coffee-habits-boost-daytime-alertness-without-inherently-ruining-nighttime-sleep-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "50c9210d9e1a",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "15시간 전 / 15h ago",
-      "title": "The brain might not create consciousness after all",
-      "titleKo": "뇌가 의식을 만들지 않을 수도 있다",
-      "summary": "Is consciousness something the brain produces, or is it woven into the fabric of reality itself? Renowned neuroscientist Christof Koch is challenging long-held scientific assumptions by confronting the “hard problem” of consciousness — why and how subjective experience exists at all. He highlights growing tensions between neuroscience, physics, and unexplained phenomena like near-death experiences and sudden moments of clarity before death.",
-      "aiSummary": "This article challenges conventional scientific assumptions about the nature of consciousness by questioning whether the brain produces consciousness or whether consciousness is woven into the fabric of reality itself. Renowned neuroscientist Christof Koch confronts the \"hard problem of consciousness\" — explaining why and how subjective experience exists at all — and highlights growing tensions between neuroscience, physics, and unexplained phenomena such as near-death experiences and moments of clarity before death. Current neuroscience cannot adequately explain the relationship between brain activity and conscious experience. The significance of this work lies in its potential to trigger a fundamental paradigm shift in consciousness research by integrating insights from multiple disciplines. However, limitations include questions about the reliability and objective interpretation of phenomena like near-death experiences, which remain difficult to study scientifically.\n\n##",
-      "aiSummaryKo": "이 기사는 의식의 본질에 대한 과학적 가정에 의문을 제기하는 내용입니다. 저명한 신경과학자 크리스토프 코흐는 전통적으로 뇌가 의식을 만든다는 가정에 도전하며, 의식이 현실의 근본적 구조에 내재되어 있을 가능성을 제시합니다. 연구는 신경과학, 물리학, 그리고 임사체험이나 사망 직전의 명료함 같은 설명되지 않은 현상들 사이의 긴장 관계를 조명합니다. 현재 신경과학은 뇌 활동과 의식 경험을 연결하는 '의식의 어려운 문제'를 해결하지 못하고 있습니다. 이 연구의 의의는 의식에 대한 근본적 패러다임 전환을 촉발할 수 있다는 점입니다. 다만 임사체험 같은 현상의 신뢰성과 해석의 객관성 문제가 남아 있습니다.\n\n##",
-      "aiSummaryEn": "This article challenges conventional scientific assumptions about the nature of consciousness by questioning whether the brain produces consciousness or whether consciousness is woven into the fabric of reality itself. Renowned neuroscientist Christof Koch confronts the \"hard problem of consciousness\" — explaining why and how subjective experience exists at all — and highlights growing tensions between neuroscience, physics, and unexplained phenomena such as near-death experiences and moments of clarity before death. Current neuroscience cannot adequately explain the relationship between brain activity and conscious experience. The significance of this work lies in its potential to trigger a fundamental paradigm shift in consciousness research by integrating insights from multiple disciplines. However, limitations include questions about the reliability and objective interpretation of phenomena like near-death experiences, which remain difficult to study scientifically.\n\n##",
-      "keyPoints": [
-        "**의식의 기원에 대한 패러다임 전환** / Paradigm shift in understanding the origin of consciousness",
-        "**학제간 긴장 관계의 드러남** / Interdisciplinary tensions revealed",
-        "**설명 불가능한 현상들의 과학적 조명** / Scientific examination of unexplained phenomena",
-        "**객관적 검증의 한계** / Limitations in objective verification"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192809.htm",
-      "featured": false
-    },
-    {
-      "id": "1ecfbdfb56ef",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists found a protein that drives brain aging — and how to stop it",
-      "titleKo": "과학자들이 뇌 노화를 촉진하는 단백질을 발견했다 — 그리고 그것을 멈추는 방법",
-      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
-      "aiSummary": "Scientists have identified a key protein called FTL1 that plays a crucial role in brain aging. In their research using aging mice as models, researchers discovered that elevated levels of FTL1 protein weakened synaptic connections between brain cells and caused memory decline. Remarkably, when FTL1 levels were reduced, the brain demonstrated significant recovery by rebuilding neural connections and restoring memory function. This discovery holds significant implications for developing treatments for neurodegenerative diseases such as Alzheimer's disease. However, the study was conducted on animal models, and further clinical trials in humans are necessary to confirm whether similar results can be achieved in people. Future drug development targeting FTL1 could potentially lead to breakthrough therapies for slowing human brain aging.\n\n##",
-      "aiSummaryKo": "뇌 노화의 메커니즘을 규명하기 위해 과학자들은 FTL1이라는 단백질에 주목했다. 연구팀은 노화된 쥐를 대상으로 실험을 진행하여 FTL1 단백질의 수치가 높을수록 뇌 세포 간 연결이 약해지고 기억력이 저하된다는 사실을 발견했다. 놀랍게도 FTL1 단백질을 감소시켰을 때 뇌는 손상된 연결을 복구하고 기억력을 회복하는 놀라운 변화를 보였다. 이 발견은 알츠하이머병 등 퇴행성 뇌질환 치료의 새로운 가능성을 제시한다는 점에서 의의가 있다. 다만 이 연구는 동물 모델을 대상으로 수행되었으므로 인간에게 동일한 결과가 나타날지는 추가 임상시험이 필요하다. 향후 FTL1을 표적으로 하는 약물 개발이 진행된다면 인간의 뇌 노화를 지연시킬 수 있는 혁신적 치료법이 될 수 있을 것으로 기대된다.\n\n##",
-      "aiSummaryEn": "Scientists have identified a key protein called FTL1 that plays a crucial role in brain aging. In their research using aging mice as models, researchers discovered that elevated levels of FTL1 protein weakened synaptic connections between brain cells and caused memory decline. Remarkably, when FTL1 levels were reduced, the brain demonstrated significant recovery by rebuilding neural connections and restoring memory function. This discovery holds significant implications for developing treatments for neurodegenerative diseases such as Alzheimer's disease. However, the study was conducted on animal models, and further clinical trials in humans are necessary to confirm whether similar results can be achieved in people. Future drug development targeting FTL1 could potentially lead to breakthrough therapies for slowing human brain aging.\n\n##",
-      "keyPoints": [
-        "**FTL1 단백질과 뇌 노화의 연관성 규명** / Identification of FTL1 protein's role in brain aging and synaptic deterioration",
-        "**가역적 뇌 회복 가능성 발견** / Discovery of reversible brain recovery through FTL1 reduction restoring neural connections",
-        "**퇴행성 뇌질환 치료법의 새로운 방향 제시** / New therapeutic direction for neurodegenerative diseases like Alzheimer's disease",
-        "**동물 실험 단계의 한계 및 임상화 필요성** / Study limitation to animal models requiring further human clinical trials before therapeutic application"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
-      "featured": false
-    },
-    {
-      "id": "0f6dc42eeced",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Social media analysis links polarized political language to distorted thought patterns",
-      "titleKo": "소셜 미디어 분석, 양극화된 정치 언어와 왜곡된 사고방식의 연관성 규명\n\n또는\n\n소셜 미디어 분석으로 양극화된 정치 언어와 왜곡된 사고패턴의 연관성 밝혀져",
-      "summary": "A new analysis of millions of social media posts reveals that extreme political polarization is closely linked to cognitive distortions, the rigid and exaggerated thought patterns often associated with anxiety and depression.",
-      "aiSummary": "This study analyzed millions of social media posts to examine the relationship between extreme political polarization and cognitive distortions—rigid, exaggerated thought patterns typically associated with anxiety and depression. Researchers used AI-driven language analysis techniques to automatically detect linguistic patterns from highly polarized users and compared them with indicators of cognitive distortions such as black-and-white thinking, catastrophizing, and overgeneralization. The key finding showed that politically polarized posts exhibited significantly higher frequencies of cognitive distortion markers compared to non-polarized posts. The research suggests that political polarization is not merely a difference in opinion but is linked to actual distortions in thought processes themselves. This has important implications for understanding the psychological underpinnings of political divisiveness and potential intervention strategies. However, a limitation is that the analysis relied solely on social media language, which may not fully capture actual psychological states.\n\n##",
-      "aiSummaryKo": "이 연구는 소셜 미디어에서 정치적 양극화와 인지적 왜곡 사이의 연관성을 규명하기 위해 수백만 개의 소셜 미디어 게시물을 분석했습니다. 연구팀은 극단적인 정치적 입장을 가진 사용자들의 언어 패턴을 자동으로 감지하는 AI 분석 기법을 사용했으며, 이를 불안감과 우울증과 관련된 인지적 왜곡(예: 흑백 사고, 과장, 과도한 일반화)의 지표와 비교했습니다. 핵심 결과는 정치적으로 양극화된 게시물에서 인지적 왜곡의 신호가 훨씬 높은 빈도로 나타났다는 것입니다. 이 연구는 정치적 극단화가 단순한 의견 차이가 아니라 사고 과정 자체의 왜곡과 관련이 있음을 시사합니다. 연구의 의의는 정치 분극화의 심리적 근저를 이해하는 데 도움이 된다는 점입니다. 다만 소셜 미디어 언어만을 분석했기 때문에 실제 심리 상태를 완전히 반영하지 못할 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study analyzed millions of social media posts to examine the relationship between extreme political polarization and cognitive distortions—rigid, exaggerated thought patterns typically associated with anxiety and depression. Researchers used AI-driven language analysis techniques to automatically detect linguistic patterns from highly polarized users and compared them with indicators of cognitive distortions such as black-and-white thinking, catastrophizing, and overgeneralization. The key finding showed that politically polarized posts exhibited significantly higher frequencies of cognitive distortion markers compared to non-polarized posts. The research suggests that political polarization is not merely a difference in opinion but is linked to actual distortions in thought processes themselves. This has important implications for understanding the psychological underpinnings of political divisiveness and potential intervention strategies. However, a limitation is that the analysis relied solely on social media language, which may not fully capture actual psychological states.\n\n##",
-      "keyPoints": [
-        "**양극화와 인지적 왜곡의 연관성**: 극단적인 정치 입장을 드러내는 소셜 미디어 게시물에서 불안·우울증 관련 인지적 왜곡이 높은 빈도로 나타남 / Political polarization on social media is associated with increased cognitive distortions commonly linked to anxiety and depression",
-        "**AI를 활용한 대규모 언어 분석**: 수백만 개의 게시물을 자동으로 분석하여 인지적 왜곡의 언어적 신호 탐지 / Large-scale analysis using AI-driven techniques to detect linguistic markers of cognitive distortions across millions of posts",
-        "**사고 과정의 변화**: 정치 극단화는 단순 의견 차이를 넘어 실제 사고 방식과 정보 처리 패턴의 왜곡을 반영 / Political polarization reflects actual distortions in thinking patterns and information processing, not just opinion differences",
-        "**연구의 한계와 추후 방향**: 소셜 미디어 텍스트 분석만으로는 실제 정신 건강 상태를 완전히 파악하기 어려우며, 임상 평가와의 비교 연구 필요 / The study is limited to social media language analysis; clinical validation and longitudinal studies are needed to confirm causal relationships"
-      ],
-      "url": "https://www.psypost.org/social-media-analysis-links-polarized-political-language-to-distorted-thought-pa-2026-03-26/",
       "featured": false
     }
   ]
