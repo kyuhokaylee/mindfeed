@@ -1,7 +1,175 @@
 {
-  "updated": "2026-04-08T16:03:42.573505+00:00",
+  "updated": "2026-04-08T20:04:37.097013+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "3d793bfd9b88",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "New research links meaning in life to lower depression rates",
+      "titleKo": "삶의 의미가 우울증 감소와 연관 있다는 새로운 연구 결과",
+      "summary": "A new review of over 250,000 individuals reveals that having a clear sense of meaning in life is consistently linked to lower levels of depression, though the strength of this protection varies widely across different ages and cultural backgrounds.",
+      "aiSummary": "This research was conducted to examine the relationship between meaning in life and reduced depression rates. The research team comprehensively reviewed over 250 existing studies involving more than 250,000 individuals. The findings revealed that people with a clear sense of meaning in life consistently showed lower levels of depression compared to those without it. However, the strength of this protective effect varied significantly across different age groups and cultural backgrounds. These findings emphasize the importance of discovering meaningful life goals in depression treatment and prevention strategies. The study's limitations include the inability to establish clear causality and the need for more in-depth analysis of differences across diverse populations.",
+      "aiSummaryKo": "이 연구는 인생의 의미가 우울증 감소와 어떤 관련이 있는지 알아보기 위해 수행되었습니다. 연구팀은 25만 명 이상의 개인을 대상으로 한 250개 이상의 기존 연구를 종합적으로 검토했습니다. 연구 결과, 인생에 대한 명확한 의미를 갖고 있는 사람들이 그렇지 않은 사람들보다 일관되게 낮은 수준의 우울증을 보였습니다. 그러나 이러한 보호 효과의 강도는 연령과 문화적 배경에 따라 상당한 차이를 보였습니다. 이 발견은 우울증 치료와 예방에서 의미 있는 인생 목표 발견의 중요성을 강조합니다. 연구의 한계는 인과관계를 명확히 증명하지 못했으며, 다양한 인구집단 간의 차이를 더 깊이 있게 분석할 필요가 있다는 점입니다.",
+      "aiSummaryEn": "This research was conducted to examine the relationship between meaning in life and reduced depression rates. The research team comprehensively reviewed over 250 existing studies involving more than 250,000 individuals. The findings revealed that people with a clear sense of meaning in life consistently showed lower levels of depression compared to those without it. However, the strength of this protective effect varied significantly across different age groups and cultural backgrounds. These findings emphasize the importance of discovering meaningful life goals in depression treatment and prevention strategies. The study's limitations include the inability to establish clear causality and the need for more in-depth analysis of differences across diverse populations.",
+      "keyPoints": [
+        "**인생의 의미와 우울증의 연관성** / Clear meaning in life is consistently linked to lower depression levels",
+        "**광범위한 대규모 연구** / Meta-analysis of over 250,000 individuals across 250+ studies",
+        "**집단별 보호 효과의 차이** / Protective effect strength varies significantly by age and cultural background",
+        "**인과관계 규명의 필요성** / Further research needed to establish causality rather than just correlation"
+      ],
+      "url": "https://www.psypost.org/how-finding-meaning-in-life-can-protect-against-depression-2026-03-20/",
+      "featured": true
+    },
+    {
+      "id": "fad39c31b721",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "High sugar intake is linked to increased odds of depression and anxiety in new study",
+      "titleKo": "새로운 연구에서 높은 설탕 섭취가 우울증과 불안증 위험 증가와 연관된 것으로 나타나",
+      "summary": "A recent study found that consuming high amounts of sugar and sweetened beverages is associated with a greater chance of experiencing depression and anxiety.",
+      "aiSummary": "A recent study found that high consumption of sugar and sugar-sweetened beverages is significantly associated with increased odds of depression and anxiety disorders. The research was conducted to investigate the relationship between dietary sugar intake and mental health outcomes through observational tracking of participants' daily sugar and sweetened beverage consumption. The findings revealed that individuals maintaining a high-sugar diet showed substantially elevated rates of depression and anxiety onset. This research provides important evidence of how diet impacts mental health and underscores the significance of nutritional management for psychological well-being. However, the study demonstrates only correlation rather than causation, and may not have fully controlled for confounding variables such as lifestyle habits, genetic factors, and stress levels that could influence mental health outcomes.\n\n##",
+      "aiSummaryKo": "최근 연구에 따르면 높은 설탕 섭취가 우울증과 불안증 발병 위험을 증가시키는 것으로 밝혀졌습니다. 이 연구는 설탕 섭취량과 정신 건강 문제 간의 관련성을 규명하기 위해 진행되었으며, 일일 설탕 및 단 음료 섭취량이 많은 참가자들을 추적 조사했습니다. 연구 결과, 고설탕 식단을 유지하는 사람들에게서 우울증과 불안증 발병 확률이 유의미하게 높아지는 것으로 나타났습니다. 이러한 발견은 식단이 정신 건강에 미치는 영향을 보여주는 중요한 증거로, 영양 관리의 중요성을 강조합니다. 다만 이 연구는 상관관계만을 보여주며 인과관계를 명확히 증명하지는 못했다는 한계가 있으며, 개인의 생활 습관, 유전적 요인, 스트레스 수준 등 다른 변수들의 영향을 완전히 통제하지 못했을 가능성이 있습니다.\n\n##",
+      "aiSummaryEn": "A recent study found that high consumption of sugar and sugar-sweetened beverages is significantly associated with increased odds of depression and anxiety disorders. The research was conducted to investigate the relationship between dietary sugar intake and mental health outcomes through observational tracking of participants' daily sugar and sweetened beverage consumption. The findings revealed that individuals maintaining a high-sugar diet showed substantially elevated rates of depression and anxiety onset. This research provides important evidence of how diet impacts mental health and underscores the significance of nutritional management for psychological well-being. However, the study demonstrates only correlation rather than causation, and may not have fully controlled for confounding variables such as lifestyle habits, genetic factors, and stress levels that could influence mental health outcomes.\n\n##",
+      "keyPoints": [
+        "**높은 설탕 섭취와 정신 건강의 연관성**: 단 음료와 고설탕 식품 섭취가 우울증과 불안증 위험 증가와 관련 / High sugar intake and sweetened beverages are linked to increased risk of depression and anxiety",
+        "**식단의 정신 건강 영향**: 영양학적 요소가 심리 상태에 직접적인 영향을 미칠 수 있음을 시사 / Diet plays a direct role in psychological health and mental well-being",
+        "**상관관계 vs 인과관계**: 연구가 두 변수 간의 관련성을 보여주지만 직접적인 원인-결과 관계는 미확인 / Study shows correlation but cannot definitively prove causation between sugar intake and mental disorders",
+        "**건강한 식습관의 중요성**: 설탕 섭취 감소가 정신 건강 개선의 가능한 방법이 될 수 있음을 시사 / Reducing sugar consumption may be a practical approach to improving mental health and preventing psychiatric disorders"
+      ],
+      "url": "https://www.psypost.org/high-sugar-intake-is-linked-to-increased-odds-of-depression-and-anxiety-in-new-study/",
+      "featured": false
+    },
+    {
+      "id": "3bb40bec8b55",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Self-Supervised Foundation Model for Calcium-imaging Population Dynamics",
+      "titleKo": "칼슘 이미징 집단 역학을 위한 자기지도학습 기반 모델",
+      "summary": "arXiv:2604.04958v1 Announce Type: cross Abstract: Recent work suggests that large-scale, multi-animal modeling can significantly improve neural recording analysis. However, for functional calcium traces, existing approaches remain task-specific, limiting transfer across common neuroscience objectives. To address this challenge, we propose \\textbf{CalM}, a self-supervised neural foundation model trained solely on neuronal calcium traces and adaptable to multiple downstream tasks, including forecasting and decoding. Our key contribution is a pretraining framework, composed of a high-performance ",
+      "aiSummary": "Calcium imaging is a crucial technique for measuring neural activity in neuroscience research, but existing analysis methods remain task-specific, limiting their application across diverse research objectives. To address this limitation, researchers developed CalM (Calcium-imaging foundation Model), a self-supervised learning-based neural network model trained exclusively on neuronal calcium trace data. CalM can be adapted to multiple downstream tasks, including neural activity forecasting and signal decoding, demonstrating significant versatility. The model's key strength lies in its ability to leverage large-scale, multi-animal neural recording datasets to substantially improve performance through transfer learning. This foundation model has the potential to enhance data analysis efficiency and facilitate new discoveries across multiple neuroscience research domains. However, the current approach is specialized for calcium imaging data, and the transferability to other neural measurement techniques requires further investigation.\n\n##",
+      "aiSummaryKo": "뇌의 신경 활동을 측정하는 칼슘 이미징(calcium imaging) 기술은 신경과학 연구에 필수적이지만, 현재의 분석 방법들은 특정 작업에만 적용되어 다양한 연구 목표에 활용하기 어렵다는 문제가 있었습니다. 이를 해결하기 위해 연구진은 CalM(Calcium-imaging foundation Model)이라는 자기지도학습 기반의 신경망 모델을 개발했습니다. 이 모델은 신경세포의 칼슘 신호 데이터만으로 사전학습되어, 신경 활동 예측(forecasting)과 신경 신호 해석(decoding) 등 다양한 하위 작업에 적응할 수 있습니다. CalM의 가장 큰 장점은 여러 동물의 대규모 신경 기록 데이터를 활용해 모델의 성능을 크게 향상시킬 수 있다는 점입니다. 이 기반 모델은 신경과학 연구의 여러 분야에서 데이터 분석 효율을 높이고 새로운 발견을 촉진할 수 있는 잠재력을 지닙니다. 다만, 현재는 칼슘 이미징 데이터에만 특화되어 있어 다른 신경 측정 방식으로의 확장 가능성은 추후 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Calcium imaging is a crucial technique for measuring neural activity in neuroscience research, but existing analysis methods remain task-specific, limiting their application across diverse research objectives. To address this limitation, researchers developed CalM (Calcium-imaging foundation Model), a self-supervised learning-based neural network model trained exclusively on neuronal calcium trace data. CalM can be adapted to multiple downstream tasks, including neural activity forecasting and signal decoding, demonstrating significant versatility. The model's key strength lies in its ability to leverage large-scale, multi-animal neural recording datasets to substantially improve performance through transfer learning. This foundation model has the potential to enhance data analysis efficiency and facilitate new discoveries across multiple neuroscience research domains. However, the current approach is specialized for calcium imaging data, and the transferability to other neural measurement techniques requires further investigation.\n\n##",
+      "keyPoints": [
+        "**자기지도학습 기반 기초 모델 개발** / Self-supervised foundation model for calcium imaging analysis: CalM은 라벨링 없이 칼슘 신호 데이터 자체에서 패턴을 학습하는 자기지도학습 방식을 사용하여 대규모 데이터 활용 가능",
+        "**다중 동물 모델링의 이점** / Multi-animal modeling improves performance: 여러 동물의 신경 기록 데이터를 통합하면 개별 동물 연구보다 분석 정확도와 일반화 능력이 크게 향상",
+        "**다양한 신경과학 작업에 적응 가능** / Adaptable to multiple downstream tasks: 사전학습된 CalM은 신경 활동 예측, 신경 신호 해석 등 여러 작업에 미세조정(fine-tuning)으로 쉽게 적용 가능",
+        "**신경과학 연구의 효율성 증대** / Enhanced research efficiency: 기초 모델 접근법으로 각 작업마다 새로 모델을 구축할 필요를 줄여 신경과학 연구의 시간과 비용 절감"
+      ],
+      "url": "https://arxiv.org/abs/2604.04958",
+      "featured": false
+    },
+    {
+      "id": "6207904e7058",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Causal Stance",
+      "titleKo": "인과적 입장",
+      "summary": "arXiv:2604.05004v1 Announce Type: cross Abstract: What exactly is the meaning of physical causal closure, a concept frequently discussed in the philosophy of mind? Jaegwon Kim explicitly adopts a conception of causation according to which physical causation is effectively identified with deterministic physical lawfulness, and on this basis equates physical determinism with physical causal closure. While this conception is internally coherent, it differs from the currently dominant theories of causation, which emphasize asymmetry between cause and effect grounded in manipulability and intervent",
+      "aiSummary": "This paper examines the precise meaning of \"physical causal closure,\" a frequently discussed concept in the philosophy of mind. The author analyzes philosopher Jaegwon Kim's theory of causation, which identifies physical causation with deterministic physical laws and equates physical determinism with physical causal closure. While this conception is internally coherent, it diverges from dominant contemporary theories of causation that emphasize asymmetry between cause and effect grounded in manipulability and intervention-based approaches. The research highlights the need to reconsider fundamental issues in philosophy of mind through a more precise definition of causality. By contrasting Kim's deterministic view with modern causal theories, the paper seeks to clarify conceptual confusions in the field. A key limitation is that the discussion remains largely philosophical without empirical validation or practical applications.\n\n##",
+      "aiSummaryKo": "이 논문은 철학에서 오랫동안 논의되어온 '물리적 인과적 폐쇄성(physical causal closure)'의 정확한 의미를 규명하는 연구이다. 저자는 철학자 김재권(Jaegwon Kim)의 인과론을 중심으로 분석하는데, 김은 물리적 인과성을 결정론적 물리 법칙과 동일시하여 물리적 결정론과 물리적 인과적 폐쇄성을 같은 것으로 본다. 그러나 논문은 이러한 관점이 내적으로 일관성 있지만, 현대 인과론의 주류 이론들과는 다르다는 점을 지적한다. 현대 인과론은 원인과 결과 사이의 비대칭성을 강조하며, 이를 조작 가능성과 개입(intervention)을 통해 설명한다. 이 연구는 인과성의 개념을 보다 정확하게 정의함으로써 심신 철학(philosophy of mind)의 근본적인 문제들을 재검토할 필요성을 제기한다. 주요 한계는 추상적인 철학적 논의로 경험적 검증이 제한적이라는 점이다.\n\n##",
+      "aiSummaryEn": "This paper examines the precise meaning of \"physical causal closure,\" a frequently discussed concept in the philosophy of mind. The author analyzes philosopher Jaegwon Kim's theory of causation, which identifies physical causation with deterministic physical laws and equates physical determinism with physical causal closure. While this conception is internally coherent, it diverges from dominant contemporary theories of causation that emphasize asymmetry between cause and effect grounded in manipulability and intervention-based approaches. The research highlights the need to reconsider fundamental issues in philosophy of mind through a more precise definition of causality. By contrasting Kim's deterministic view with modern causal theories, the paper seeks to clarify conceptual confusions in the field. A key limitation is that the discussion remains largely philosophical without empirical validation or practical applications.\n\n##",
+      "keyPoints": [
+        "**물리적 인과적 폐쇄성의 개념 재검토** / Reconceptualization of Physical Causal Closure: 전통적 인과론(결정론적 관점)과 현대 인과론(조작·개입 기반)의 차이점 분석",
+        "**김재권의 인과론 비판적 검토** / Critical Examination of Kim's Causation Theory: 결정론적 물리 법칙과 인과성을 동일시하는 관점의 내적 일관성과 외적 한계 지적",
+        "**원인과 결과의 비대칭성 강조** / Emphasis on Cause-Effect Asymmetry: 현대 인과론에서 조작 가능성(manipulability)과 개입(intervention)을 통한 원인과 결과의 구분",
+        "**심신 철학의 기초 문제 제기** / Foundational Issues in Philosophy of Mind: 인과성 개념의 정확한 정의가 심신 상호작용 문제 등 철학적 논의에 미치는 영향"
+      ],
+      "url": "https://arxiv.org/abs/2604.05004",
+      "featured": false
+    },
+    {
+      "id": "6ee3ca9a3b2c",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Hierarchical Mesh Transformers with Topology-Guided Pretraining for Morphometric Analysis of Brain Structures",
+      "titleKo": "뇌 구조의 형태 분석을 위한 위상-유도 사전학습 기반 계층적 메시 트랜스포머",
+      "summary": "arXiv:2604.05215v1 Announce Type: cross Abstract: Representation learning on large-scale unstructured volumetric and surface meshes poses significant challenges in neuroimaging, especially when models must incorporate diverse vertex-level morphometric descriptors, such as cortical thickness, curvature, sulcal depth, and myelin content, which carry subtle disease-related signals. Current approaches either ignore these clinically informative features or support only a single mesh topology, restricting their use across imaging pipelines. We introduce a hierarchical transformer framework designed ",
+      "aiSummary": "This research focuses on developing an advanced artificial intelligence model for analyzing brain structures in neuroimaging. Analyzing multiple morphometric features simultaneously—such as cortical thickness, curvature, sulcal depth, and myelin content—from brain imaging data is extremely challenging. Existing approaches either ignored these clinically important features or supported only single mesh topologies, creating significant limitations. The research team developed a hierarchical transformer framework enhanced by topology-guided pretraining, which leverages spatial structural information from complex 3D brain surface meshes. This model can detect subtle disease-related morphological changes more sensitively, promising significant applications in diagnosing neurodegenerative diseases and brain disorder research. However, the current research is in early stages, and validation on clinical data and ensuring compatibility across different neuroimaging equipment remain necessary steps.\n\n##",
+      "aiSummaryKo": "이 연구는 뇌 구조 분석을 위한 고급 인공지능 모델 개발에 관한 것입니다. 신경영상 데이터에서 뇌의 피질 두께, 곡률, 고랑 깊이, 수초 함량 등 다양한 특징을 동시에 분석하는 것은 매우 어려운 과제입니다. 기존 방법들은 이러한 임상적으로 중요한 정보들을 무시하거나 단일 구조만 지원하는 한계가 있었습니다. 연구팀은 계층적 트랜스포머 프레임워크라는 새로운 신경망 구조를 개발했으며, 이는 뇌 표면의 복잡한 3차원 망(메시)에서 위상 정보를 활용한 사전학습으로 강화되었습니다. 이 모델은 뇌의 형태학적 변화로 인한 질병 신호를 더 섬세하게 감지할 수 있어, 신경퇴행성 질환 진단과 뇌 질환 연구에 큰 도움이 될 것으로 기대됩니다. 다만 현재 연구는 아직 초기 단계이며, 실제 임상 데이터에서의 검증과 다양한 신경영상 장비 간 호환성 확보가 필요합니다.\n\n##",
+      "aiSummaryEn": "This research focuses on developing an advanced artificial intelligence model for analyzing brain structures in neuroimaging. Analyzing multiple morphometric features simultaneously—such as cortical thickness, curvature, sulcal depth, and myelin content—from brain imaging data is extremely challenging. Existing approaches either ignored these clinically important features or supported only single mesh topologies, creating significant limitations. The research team developed a hierarchical transformer framework enhanced by topology-guided pretraining, which leverages spatial structural information from complex 3D brain surface meshes. This model can detect subtle disease-related morphological changes more sensitively, promising significant applications in diagnosing neurodegenerative diseases and brain disorder research. However, the current research is in early stages, and validation on clinical data and ensuring compatibility across different neuroimaging equipment remain necessary steps.\n\n##",
+      "keyPoints": [
+        "**다중 특징 통합 분석** / Multi-feature Integration: 뇌의 피질 두께, 곡률, 고랑 깊이, 수초 함량 등 여러 형태학적 특징을 동시에 분석 가능한 통합 모델 개발",
+        "**위상 정보 활용** / Topology-Guided Framework: 뇌 표면의 복잡한 3차원 망 구조의 기하학적 특성을 학습하는 사전학습 기법으로 모델 성능 향상",
+        "**다양한 영상 파이프라인 호환성** / Pipeline Flexibility: 단일 구조만 지원하던 기존 한계를 극복하여 여러 신경영상 처리 체계와 호환 가능한 확장성 확보",
+        "**임상 진단 응용 잠재성** / Clinical Application Potential: 뇌 질환 관련 신호를 더 정확히 감지하여 신경퇴행성 질환 조기 진단 및 뇌 질환 연구 고도화에 기여 가능"
+      ],
+      "url": "https://arxiv.org/abs/2604.05215",
+      "featured": false
+    },
+    {
+      "id": "926e48cf1d0e",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Pursuit of biomarkers of brain diseases: Beyond cohort comparisons",
+      "titleKo": "뇌질환 바이오마커 추적: 코호트 비교를 넘어서",
+      "summary": "arXiv:2509.10547v2 Announce Type: replace Abstract: Despite the diversity and volume of brain data acquired and advanced AI-based algorithms to analyze them, brain features are rarely used in clinics for diagnosis and prognosis. Here we argue that the field continues to rely on cohort comparisons to seek biomarkers, despite the well-established degeneracy of brain features. Using a thought experiment (Brain Swap), we show that more data and more powerful algorithms will not be sufficient to identify biomarkers of brain diseases. We argue that instead of comparing patient versus healthy control",
+      "aiSummary": "This study challenges the conventional approach of comparing patients versus healthy controls to identify biomarkers of brain diseases. The researchers propose a conceptual \"Brain Swap\" thought experiment to mathematically demonstrate that regardless of data volume and AI algorithm sophistication, brain feature degeneracy—the high individual variability in brain characteristics—makes it nearly impossible to discover generalizable biomarkers using cohort comparison methods. The research shows that brain features are so individually diverse that group-based approaches cannot identify biomarkers suitable for clinical diagnosis and prognosis in practice. Consequently, the authors argue for shifting from traditional cohort comparison paradigms toward longitudinal tracking of individual brain data changes over time. This work fundamentally questions decades-long practices in neuroimaging analysis and underscores the necessity for developing more effective brain disease diagnostic approaches. However, as this research emphasizes theoretical argumentation, additional empirical studies validating the clinical utility of proposed alternative methods are needed.\n\n##",
+      "aiSummaryKo": "이 연구는 뇌 질환의 바이오마커 발굴을 위해 환자와 건강한 대조군을 비교하는 기존 방식의 근본적 한계를 지적합니다. 연구진은 '뇌 교환 사고실험'이라는 개념적 프레임워크를 제시하여, 아무리 많은 데이터와 강력한 AI 알고리즘을 사용하더라도 뇌의 개별적 특성(degeneracy)으로 인해 일반화 가능한 바이오마커를 찾기 어렵다는 점을 수학적으로 논증합니다. 뇌 특성은 매우 다양한 개별차를 보이기 때문에, 집단 비교 방식으로는 임상진단과 예후 판정에 실제로 사용할 수 있는 바이오마커를 발굴할 수 없다는 것입니다. 따라서 연구진은 기존의 코호트 비교 패러다임을 벗어나 개인의 뇌 데이터 변화를 종단적으로 추적하는 접근방식으로의 전환을 제안합니다. 이 연구는 뇌영상 분석 분야에서 수십 년간 지속된 관행의 개념적 문제점을 직시하도록 촉구하며, 더 효과적인 뇌질환 진단 방법 개발의 필요성을 강조합니다. 다만 이 연구는 이론적 논증에 중점을 두고 있어 실제 대안 방법의 임상적 효용성을 검증하는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study challenges the conventional approach of comparing patients versus healthy controls to identify biomarkers of brain diseases. The researchers propose a conceptual \"Brain Swap\" thought experiment to mathematically demonstrate that regardless of data volume and AI algorithm sophistication, brain feature degeneracy—the high individual variability in brain characteristics—makes it nearly impossible to discover generalizable biomarkers using cohort comparison methods. The research shows that brain features are so individually diverse that group-based approaches cannot identify biomarkers suitable for clinical diagnosis and prognosis in practice. Consequently, the authors argue for shifting from traditional cohort comparison paradigms toward longitudinal tracking of individual brain data changes over time. This work fundamentally questions decades-long practices in neuroimaging analysis and underscores the necessity for developing more effective brain disease diagnostic approaches. However, as this research emphasizes theoretical argumentation, additional empirical studies validating the clinical utility of proposed alternative methods are needed.\n\n##",
+      "keyPoints": [
+        "**뇌의 개별차 문제(Brain Degeneracy)** / The fundamental problem of individual brain variability means that cohort comparisons cannot reliably identify generalizable biomarkers due to high inter-individual differences in brain structure and function.",
+        "**'뇌 교환' 사고실험** / The \"Brain Swap\" thought experiment mathematically demonstrates that even with unlimited data and advanced AI, brain feature diversity prevents identification of reliable diagnostic biomarkers through traditional group comparison methods.",
+        "**기존 패러다임의 한계** / Decades of neuroimaging research relying on patient-control comparisons have failed to produce biomarkers used clinically, indicating a fundamental methodological problem rather than merely a data or algorithm limitation.",
+        "**종단 추적 기반 대안** / The study proposes shifting toward longitudinal individual-level tracking of brain changes over time as a more viable alternative to identify person-specific biomarkers for diagnosis and prognosis prediction."
+      ],
+      "url": "https://arxiv.org/abs/2509.10547",
+      "featured": false
+    },
+    {
+      "id": "381971e27c77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "23일 전 / 23d ago",
+      "title": "Facts and the Fight for Moral High Ground",
+      "titleKo": "사실과 도덕적 우위를 위한 투쟁",
+      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
+      "aiSummary": "This case study analyzes the moral conflict surrounding the closure of the Philadelphia Energy Solutions refinery in southwest Philadelphia in August 2019. Researchers collected testimonies from residents, media articles, and policy documents to examine how different groups claimed competing moral legitimacy regarding the same event. The key finding is that how people interpret and select facts, rather than the facts themselves, determines the debate over moral high ground. Environmental victims and industry stakeholders concerned about job losses each selectively presented evidence to justify their positions. The research suggests that modern societal polarization stems not from mere information deficit but from fundamentally different interpretations of identical facts. However, this case study is limited to a specific region and time period, constraining generalizability to other contexts.\n\n##",
+      "aiSummaryKo": "본 연구는 2019년 8월 필라델피아의 회색 페리 지역 주민들이 대규모 정유소 폐쇄를 놓고 벌인 도덕적 논쟁을 분석한 사례 연구입니다. 연구진은 지역 주민들의 증언, 미디어 기사, 정책 문서 등을 수집하여 어떻게 서로 다른 집단이 동일한 사건에 대해 상충하는 도덕적 정당성을 주장하는지 조사했습니다. 핵심 발견은 사실 자체보다 사실을 해석하고 선택하는 방식이 도덕적 우월성을 놓고 벌이는 논쟁을 결정한다는 것입니다. 환경 오염으로 피해를 입은 주민과 일자리 상실을 우려한 산업계는 각각 자신들의 입장을 정당화하기 위해 선택적으로 증거를 제시했습니다. 본 연구는 현대 사회의 극단적 양극화가 단순한 정보 부족이 아니라 동일한 사실에 대한 근본적으로 다른 해석에서 비롯됨을 시사합니다. 다만 이 사례는 특정 지역의 특정 시점에 한정되어 있어 다른 맥락에의 일반화에는 제한이 있습니다.\n\n##",
+      "aiSummaryEn": "This case study analyzes the moral conflict surrounding the closure of the Philadelphia Energy Solutions refinery in southwest Philadelphia in August 2019. Researchers collected testimonies from residents, media articles, and policy documents to examine how different groups claimed competing moral legitimacy regarding the same event. The key finding is that how people interpret and select facts, rather than the facts themselves, determines the debate over moral high ground. Environmental victims and industry stakeholders concerned about job losses each selectively presented evidence to justify their positions. The research suggests that modern societal polarization stems not from mere information deficit but from fundamentally different interpretations of identical facts. However, this case study is limited to a specific region and time period, constraining generalizability to other contexts.\n\n##",
+      "keyPoints": [
+        "**도덕적 프레이밍의 선택성** / Selective moral framing: 동일한 사실도 도덕적 정당성을 위해 선택적으로 해석되고 강조됨",
+        "**사실 vs. 해석** / Facts vs. Interpretation: 객관적 사실의 존재보다 그것을 어떻게 의미화하느냐가 도덕적 논쟁의 핵심",
+        "**집단 간 가치체계의 충돌** / Clash of group values: 환경 보호 vs. 경제 안정이라는 상충하는 가치 체계가 근본적 갈등 구조 형성",
+        "**현대 양극화의 근원** / Source of modern polarization: 정보 부족이 아닌 동일 사실에 대한 근본적으로 다른 해석과 우선순위의 차이가 양극화 초래"
+      ],
+      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
+      "featured": false
+    },
+    {
+      "id": "ace9ccd54a55",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "18시간 전 / 18h ago",
+      "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+      "titleKo": "과학자들, RNA 바코드를 이용해 뇌의 숨겨진 신경회로 지도화 - 획기적 성과",
+      "summary": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it revealed surprising new connections between brain cells that were previously unknown. This could open the door to earlier detection and targeted treatment of neurological diseases.",
+      "aiSummary": "Understanding how neurons connect in the brain is crucial for neurological disease research, yet traditional brain mapping methods have been slow and limited. Researchers developed an innovative technique using RNA \"barcodes\" to precisely map neural connections and captured thousands of synaptic links with unprecedented single-synapse precision. This breakthrough approach transforms brain mapping into a sequencing task, making it significantly faster and more scalable than conventional methods. In mouse models, the technique revealed thousands of previously unknown connections between brain cells, providing novel insights into neural architecture. This development has substantial significance for enabling earlier detection and developing targeted treatments for neurological diseases. However, current validation is limited to mouse models, requiring further research before translation to human brain studies.\n\n##",
+      "aiSummaryKo": "뇌의 신경세포들이 어떻게 연결되어 있는지 정확히 파악하는 것은 뇌 질환 연구의 핵심 과제였습니다. 연구진은 RNA '바코드'라는 혁신 기술을 개발하여 신경세포 간 연결을 매우 정밀하게 지도화했습니다. 이 방법은 뇌 지도 제작을 DNA 염기서열 분석 작업으로 변환하여 기존 방식보다 훨씬 빠르고 확장 가능하게 만들었습니다. 생쥐 실험에서 기존에 알려지지 않았던 뇌세포 간의 새로운 연결 수천 개를 발견했습니다. 이 기술은 신경퇴행성 질환의 조기 진단과 맞춤형 치료 개발의 문을 열 수 있는 중대한 의의를 가집니다. 다만 현재는 생쥐 모델에서만 검증되었으므로 인간의 뇌에 적용하기까지는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Understanding how neurons connect in the brain is crucial for neurological disease research, yet traditional brain mapping methods have been slow and limited. Researchers developed an innovative technique using RNA \"barcodes\" to precisely map neural connections and captured thousands of synaptic links with unprecedented single-synapse precision. This breakthrough approach transforms brain mapping into a sequencing task, making it significantly faster and more scalable than conventional methods. In mouse models, the technique revealed thousands of previously unknown connections between brain cells, providing novel insights into neural architecture. This development has substantial significance for enabling earlier detection and developing targeted treatments for neurological diseases. However, current validation is limited to mouse models, requiring further research before translation to human brain studies.\n\n##",
+      "keyPoints": [
+        "**RNA 바코드 기술의 혁신성** / Revolutionary application of RNA barcodes enabling precise neuronal connection mapping with single-synapse resolution",
+        "**수천 개의 새로운 신경 연결 발견** / Discovery of thousands of previously unknown neural connections in mouse brain models",
+        "**빠르고 확장 가능한 방법론** / Transformation of brain mapping into a sequencing task, substantially improving speed and scalability compared to traditional approaches",
+        "**신경질환 진단·치료의 임상적 잠재력** / Potential for earlier detection and personalized treatment development of neurological diseases, though human application requires further validation"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+      "featured": false
+    },
     {
       "id": "8440d83ba4fb",
       "tag": "psych",
@@ -21,7 +189,7 @@
         "**임상적 개입의 필요성** / Need for clinical intervention"
       ],
       "url": "https://www.psypost.org/an-unpredictable-childhood-predicts-greater-psychological-distress-during-the-israel-hamas-war/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4f34ce3cdcef",
@@ -247,174 +415,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "b18371f1abcc",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
-      "titleKo": "Pramana: 나비야-냐야를 통한 인식론적 추론을 위한 대규모 언어 모델의 미세 조정",
-      "summary": "arXiv:2604.04937v1 Announce Type: new Abstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researchers added irrelevant context to mathematical problems, LLM performance degraded by 65% Apple Machine Learning Research, exposing brittle pattern-matching beneath apparent reasoning. This epistemic gap, the inability to ground claims in traceable evidence, limits AI reliability in domains requiring justification. We introduce Pramana, a novel approach that teaches LLMs explicit epistemological met",
-      "aiSummary": "Large language models (LLMs) generate fluent text but lack systematic reasoning abilities, often producing confident yet unfounded claims. When Apple researchers added irrelevant information to mathematical problems, LLM performance degraded by 65%, demonstrating that LLMs rely on pattern matching rather than genuine reasoning. This \"epistemic gap\"—the inability to ground claims in evidence-based justification—severely limits AI reliability in domains requiring substantiation. The researchers introduced Pramana, a novel approach leveraging the Navya-Nyaya logical framework from ancient Indian philosophy. This method teaches LLMs an explicit epistemological meta-framework to justify claims through traceable evidence. The study's significance lies in offering a pathway to enhance AI transparency and reliability through philosophical reasoning principles. However, the research is in preliminary stages, and further validation across diverse domains and practical applications is needed.",
-      "aiSummaryKo": "대규모 언어 모델(LLM)은 유창한 텍스트를 생성하지만 체계적인 추론 능력이 부족하여 근거 없는 주장을 자신감 있게 생성하는 문제가 있습니다. 애플 연구팀이 수학 문제에 관련 없는 정보를 추가했을 때 LLM의 성능이 65% 저하되었으며, 이는 LLM이 진정한 추론보다 패턴 매칭에 의존함을 보여줍니다. 이러한 \"인식론적 간극\"은 AI가 근거 기반의 주장을 제시하지 못하는 문제로, 정당성이 필요한 분야에서 AI의 신뢰성을 크게 제한합니다. 연구진은 고대 인도 철학의 냐야(Navya-Nyaya) 논리 체계를 활용한 \"프라마나(Pramana)\"라는 새로운 접근법을 제안했습니다. 이 방법은 LLM에게 명시적인 인식론적 메타프레임워크를 학습시켜 주장의 타당성을 추적 가능한 증거로 정당화하도록 합니다. 이 연구의 의의는 AI 시스템의 신뢰성과 투명성을 향상시킬 수 있는 방법을 제시한 점입니다. 다만 현재 연구는 초기 단계이므로 다양한 도메인에서의 효과와 실제 적용 가능성에 대한 추가 검증이 필요합니다.",
-      "aiSummaryEn": "Large language models (LLMs) generate fluent text but lack systematic reasoning abilities, often producing confident yet unfounded claims. When Apple researchers added irrelevant information to mathematical problems, LLM performance degraded by 65%, demonstrating that LLMs rely on pattern matching rather than genuine reasoning. This \"epistemic gap\"—the inability to ground claims in evidence-based justification—severely limits AI reliability in domains requiring substantiation. The researchers introduced Pramana, a novel approach leveraging the Navya-Nyaya logical framework from ancient Indian philosophy. This method teaches LLMs an explicit epistemological meta-framework to justify claims through traceable evidence. The study's significance lies in offering a pathway to enhance AI transparency and reliability through philosophical reasoning principles. However, the research is in preliminary stages, and further validation across diverse domains and practical applications is needed.",
-      "keyPoints": [
-        "**성능 저하 현상** / Performance Degradation: 관련 없는 정보 추가 시 LLM의 수학 문제 해결 능력이 65% 감소하여 패턴 매칭 의존성 노출",
-        "**인식론적 간극 문제** / Epistemic Gap: LLM이 주장의 근거를 제시하지 못하는 근본적 한계로, 신뢰성 요구 분야에서의 활용 제약",
-        "**냐야 철학 활용** / Navya-Nyaya Framework: 고대 인도 논리 체계를 기반으로 LLM에 체계적인 논리적 추론 능력을 부여하는 혁신적 접근",
-        "**투명성과 정당화** / Transparency and Justification: 추적 가능한 증거 기반의 명시적 인식론적 메타프레임워크를 통해 AI의 신뢰성과 설명 가능성 향상"
-      ],
-      "url": "https://arxiv.org/abs/2604.04937",
-      "featured": false
-    },
-    {
-      "id": "c86ac76c428c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
-      "titleKo": "순차적 메타인지 판단에서의 작동적 비가환성",
-      "summary": "arXiv:2604.04938v1 Announce Type: new Abstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal state, updates it, and may then re-evaluate under modified criteria. Order effects in cognition are well documented, yet it remains unclear whether such effects reflect classical state changes or reveal a deeper structural non-commutativity. We develop an operational framework that makes this distinction explicit. In our formulation, metacognitive evaluations are modeled as state-transforming operat",
-      "aiSummary": "This research examines the sequential nature of metacognition—the ability to monitor and regulate one's own cognitive processes. Previous studies have documented order effects in cognition, where the sequence of evaluations affects outcomes, yet it remained unclear whether these effects represent simple state changes or reveal a deeper structural non-commutativity. The research team developed a mathematical-operational framework from physics, modeling metacognitive judgments as state-transforming operators. Their analysis demonstrates that order effects cannot be fully explained by classical reasoning alone and instead exhibit structural properties similar to the non-commutativity principle found in quantum mechanics. This work reveals surprising mathematical parallels between cognitive science and quantum theory, potentially expanding our understanding of human cognition. However, as a theoretical framework, it requires additional empirical validation through behavioral experiments to confirm its applicability to actual human decision-making.\n\n##",
-      "aiSummaryKo": "본 연구는 메타인지(자신의 사고 과정을 스스로 모니터링하고 조절하는 능력)의 순차적 특성에 주목합니다. 사람들이 자신의 판단을 평가할 때, 평가 순서에 따라 결과가 달라지는 현상이 관찰되어 왔으나, 이것이 단순한 상태 변화인지 아니면 더 근본적인 구조적 비가환성을 나타내는지는 명확하지 않았습니다. 연구팀은 수학적-물리학적 운영적 프레임워크를 개발하여 메타인지 판단을 상태 변환 연산자로 모델링했습니다. 이를 통해 순서 효과가 고전적 설명으로는 충분하지 않으며, 양자역학의 비가환성 원리와 유사한 구조적 특성을 가짐을 제시합니다. 본 연구는 인지 과학과 양자 이론의 수학적 구조 사이의 놀라운 유사성을 밝혀, 인간의 인지 과정에 대한 이해를 확장합니다. 다만 이는 이론적 프레임워크로서, 실제 인간 행동을 검증하는 추가 실험 데이터가 필요한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research examines the sequential nature of metacognition—the ability to monitor and regulate one's own cognitive processes. Previous studies have documented order effects in cognition, where the sequence of evaluations affects outcomes, yet it remained unclear whether these effects represent simple state changes or reveal a deeper structural non-commutativity. The research team developed a mathematical-operational framework from physics, modeling metacognitive judgments as state-transforming operators. Their analysis demonstrates that order effects cannot be fully explained by classical reasoning alone and instead exhibit structural properties similar to the non-commutativity principle found in quantum mechanics. This work reveals surprising mathematical parallels between cognitive science and quantum theory, potentially expanding our understanding of human cognition. However, as a theoretical framework, it requires additional empirical validation through behavioral experiments to confirm its applicability to actual human decision-making.\n\n##",
-      "keyPoints": [
-        "**메타인지의 순차적 구조** / Sequential nature of metacognition: 자기 판단을 평가할 때 평가 순서가 결과에 영향을 미치는 근본적 특성 발견",
-        "**비가환성 원리의 적용** / Non-commutativity principle: 운영 순서를 바꾸면 다른 결과가 나오는 양자역학적 특성이 인간의 인지 과정에도 존재함을 시사",
-        "**운영적 프레임워크** / Operational framework: 수학-물리학 기반의 새로운 메타인지 모델링 방식으로, 고전적 심리학 설명의 한계를 극복",
-        "**인지-양자 이론의 수렴** / Cognitive-quantum theory convergence: 인간의 인지 과정과 양자 시스템 간의 수학적 구조적 유사성을 발견하여 학제적 이해 확대"
-      ],
-      "url": "https://arxiv.org/abs/2604.04938",
-      "featured": false
-    },
-    {
-      "id": "c8e0ac7e569b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
-      "titleKo": "정보시스템에서 정보객체의 식별 문제 해결을 위한 정보객체 특성의 근접성 측도",
-      "summary": "arXiv:2604.04939v1 Announce Type: new Abstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information resource from several sources independently. The goal is to determine the possibility of their relation to the same physical object (observation object). The proposed measure accounts for the possibility of differences in individual feature values - both quantitative and qualitative - caused by existing determination errors. To analyze the proximity of quantitative feature values, the author employs ",
-      "aiSummary": "This study addresses the challenge of determining whether information records from multiple independent data sources in an information system refer to the same real-world object. The researchers propose a new proximity measurement method that accounts for both quantitative and qualitative feature differences caused by measurement and data entry errors. The method calculates the probability that two information objects represent the same physical entity by considering potential variations in feature values. Statistical methodologies are employed to analyze the similarity of numerical data. This approach has practical applications in database integration, duplicate detection, and data quality management in information systems. However, validation results on real datasets have not yet been presented, and computational efficiency for large-scale data requires further verification.\n\n##",
-      "aiSummaryKo": "이 연구는 여러 데이터 소스에서 독립적으로 수집된 정보를 하나의 시스템에 통합할 때, 서로 다른 데이터들이 같은 실제 대상을 나타내는지 판단하는 문제를 다룹니다. 연구팀은 수치형과 범주형 특성값의 차이를 모두 고려하는 새로운 근접도 측정 방법을 제시했습니다. 이 방법은 측정 오류나 데이터 입력 오류로 인한 차이를 감안하여 두 정보 객체가 동일한 물리적 대상일 확률을 계산합니다. 연구는 수치형 데이터의 유사도 분석을 위해 통계적 방법론을 적용하고 있습니다. 이러한 접근은 데이터베이스 통합, 중복 제거, 데이터 품질 관리 등 정보 시스템의 핵심 과제를 해결하는 데 활용될 수 있습니다. 다만 실제 데이터셋에 대한 검증 결과가 아직 제시되지 않았으며, 대규모 데이터에 대한 계산 효율성이 추가로 검증되어야 합니다.\n\n##",
-      "aiSummaryEn": "This study addresses the challenge of determining whether information records from multiple independent data sources in an information system refer to the same real-world object. The researchers propose a new proximity measurement method that accounts for both quantitative and qualitative feature differences caused by measurement and data entry errors. The method calculates the probability that two information objects represent the same physical entity by considering potential variations in feature values. Statistical methodologies are employed to analyze the similarity of numerical data. This approach has practical applications in database integration, duplicate detection, and data quality management in information systems. However, validation results on real datasets have not yet been presented, and computational efficiency for large-scale data requires further verification.\n\n##",
-      "keyPoints": [
-        "**다중 소스 데이터 통합 문제** / Multi-source data integration challenge",
-        "**오류 허용형 근접도 측정** / Error-tolerant proximity measurement",
-        "정성 근접도 척도 개발로 더욱 현실적인 판단 가능",
-        "**수치형·범주형 데이터 통합 분석** / Integration of quantitative and qualitative analysis"
-      ],
-      "url": "https://arxiv.org/abs/2604.04939",
-      "featured": false
-    },
-    {
-      "id": "6e35bc6cb92b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
-      "titleKo": "ReVEL: 구조화된 성능 피드백을 통한 다중 턴 반성적 대규모언어모델 기반 휴리스틱 진화",
-      "summary": "arXiv:2604.04940v1 Announce Type: new Abstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing applications of large language models (LLMs) primarily rely on one-shot code synthesis, yielding brittle heuristics that underutilize the models' capacity for iterative reasoning. We propose ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback, a hybrid framework that embeds LLMs as interactive, multi-turn reasoners within an evolutionary algorithm (EA). The core of ",
-      "aiSummary": "This research addresses the challenging task of designing effective heuristics for NP-hard combinatorial optimization problems, which are computationally complex problems requiring expertise to solve efficiently. Existing applications of large language models (LLMs) primarily rely on one-shot code synthesis, which fails to leverage the models' capacity for iterative reasoning and produces brittle solutions. The study proposes ReVEL, a hybrid framework that embeds LLMs as interactive, multi-turn reasoners within an evolutionary algorithm (EA), enabling iterative heuristic refinement through structured performance feedback. This approach generates significantly superior heuristics compared to traditional one-shot methods by maximizing the model's reasoning capabilities. The research demonstrates that the synergistic interaction between LLMs and evolutionary algorithms enables the development of more powerful optimization solutions. However, the study may be limited by evaluation within specific types of combinatorial optimization problems, and the computational cost of multi-turn interactions remains a potential constraint.\n\n##",
-      "aiSummaryKo": "본 연구는 NP-난제(계산 복잡도가 매우 높은 최적화 문제)를 해결하기 위한 효과적인 휴리스틱(문제 해결 방법)을 설계하는 어려운 과제를 다룹니다. 기존의 대규모언어모델(LLM) 활용 방식은 일회성 코드 생성에만 의존하여 모델의 반복적 추론 능력을 제대로 활용하지 못했습니다. 연구팀은 ReVEL이라는 하이브리드 프레임워크를 제안했으며, 이는 LLM을 진화 알고리즘(EA) 내에 대화형 다중턴 추론자로 내장시킵니다. 구조화된 성능 피드백을 통해 LLM이 반복적으로 휴리스틱을 개선하고 진화시킬 수 있게 합니다. 이 방식은 기존의 일회성 접근법보다 훨씬 우수한 휴리스틱을 생성하며, 모델의 추론 능력을 극대화합니다. 연구의 의의는 LLM과 진화 알고리즘의 상호작용으로 더욱 강력한 최적화 솔루션 개발이 가능함을 보여줍니다. 다만, 연구는 특정 유형의 조합 최적화 문제 범위 내에서 평가되었을 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research addresses the challenging task of designing effective heuristics for NP-hard combinatorial optimization problems, which are computationally complex problems requiring expertise to solve efficiently. Existing applications of large language models (LLMs) primarily rely on one-shot code synthesis, which fails to leverage the models' capacity for iterative reasoning and produces brittle solutions. The study proposes ReVEL, a hybrid framework that embeds LLMs as interactive, multi-turn reasoners within an evolutionary algorithm (EA), enabling iterative heuristic refinement through structured performance feedback. This approach generates significantly superior heuristics compared to traditional one-shot methods by maximizing the model's reasoning capabilities. The research demonstrates that the synergistic interaction between LLMs and evolutionary algorithms enables the development of more powerful optimization solutions. However, the study may be limited by evaluation within specific types of combinatorial optimization problems, and the computational cost of multi-turn interactions remains a potential constraint.\n\n##",
-      "keyPoints": [
-        "**다중턴 상호작용 활용** / Multi-turn Interactive Reasoning: 기존의 일회성 LLM 활용에서 벗어나 구조화된 피드백을 통해 LLM이 반복적으로 휴리스틱을 개선할 수 있는 프레임워크",
-        "**하이브리드 시스템 설계** / Hybrid Framework: LLM의 추론 능력과 진화 알고리즘의 최적화 메커니즘을 결합하여 시너지 효과 창출",
-        "**성능 피드백 기반 개선** / Structured Performance Feedback: 객관적인 성능 지표를 기반으로 한 체계적 피드백이 휴리스틱 진화의 핵심 메커니즘",
-        "**조합 최적화 문제 해결** / Combinatorial Optimization: NP-난제와 같은 현실의 복잡한 최적화 문제에 대한 실질적인 솔루션 제공 가능성 제시"
-      ],
-      "url": "https://arxiv.org/abs/2604.04940",
-      "featured": false
-    },
-    {
-      "id": "fc6e8724045c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "A Theory-guided Weighted $L^2$ Loss for solving the BGK model via Physics-informed neural networks",
-      "titleKo": "BGK 모델을 물리정보신경망으로 풀기 위한 이론 기반 가중 L² 손실함수",
-      "summary": "arXiv:2604.04971v1 Announce Type: new Abstract: While Physics-Informed Neural Networks offer a promising framework for solving partial differential equations, the standard $L^2$ loss formulation is fundamentally insufficient when applied to the Bhatnagar-Gross-Krook (BGK) model. Specifically, simply minimizing the standard loss does not guarantee accurate predictions of the macroscopic moments, causing the approximate solutions to fail in capturing the true physical solution. To overcome this limitation, we introduce a velocity-weighted $L^2$ loss function designed to effectively penalize erro",
-      "aiSummary": "This study addresses a fundamental limitation of Physics-Informed Neural Networks (PINNs) when solving the Bhatnagar-Gross-Krook (BGK) model, a key equation in fluid dynamics. The standard L² loss function fails to accurately predict macroscopic physical quantities, causing neural network solutions to diverge from true physical behavior. The researchers introduced a velocity-weighted L² loss function designed to penalize prediction errors more effectively while preserving physical constraints. This theory-guided approach significantly improves the accuracy of macroscopic moment predictions compared to standard methods. The method has broad applications in fluid flow simulations, molecular dynamics, and other complex physical phenomena modeling. However, the approach requires problem-specific tuning of the weighting function, which may limit its generalizability across different physical systems.\n\n##",
-      "aiSummaryKo": "본 연구는 물리정보신경망(PINN)이 BGK 모델이라는 복잡한 유체역학 방정식을 풀 때 겪는 근본적인 문제를 다룹니다. 기존의 표준 손실함수(L² 손실)로는 거시적 물리량들을 정확하게 예측하지 못하는 한계가 있었습니다. 연구팀은 이를 해결하기 위해 속도 가중치를 반영한 새로운 L² 손실함수를 개발했으며, 이를 통해 신경망이 물리적으로 정확한 해를 학습하도록 유도했습니다. 이 이론 기반 접근법은 표준 방법보다 거시적 물리량 예측의 정확도를 크게 향상시킵니다. 본 연구는 복잡한 유체 흐름 시뮬레이션이나 분자 동역학 계산 등 다양한 물리 현상 모델링에 활용될 수 있습니다. 다만, 특정 물리계의 특성에 따라 가중치 함수를 조정해야 하는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study addresses a fundamental limitation of Physics-Informed Neural Networks (PINNs) when solving the Bhatnagar-Gross-Krook (BGK) model, a key equation in fluid dynamics. The standard L² loss function fails to accurately predict macroscopic physical quantities, causing neural network solutions to diverge from true physical behavior. The researchers introduced a velocity-weighted L² loss function designed to penalize prediction errors more effectively while preserving physical constraints. This theory-guided approach significantly improves the accuracy of macroscopic moment predictions compared to standard methods. The method has broad applications in fluid flow simulations, molecular dynamics, and other complex physical phenomena modeling. However, the approach requires problem-specific tuning of the weighting function, which may limit its generalizability across different physical systems.\n\n##",
-      "keyPoints": [
-        "**문제 정의** / **Problem Definition**: 표준 PINN의 L² 손실함수로는 BGK 모델의 거시적 물리량을 정확하게 예측할 수 없음 / Standard PINN's L² loss function fails to accurately predict macroscopic quantities in BGK model",
-        "**해결책** / **Solution**: 속도 가중치를 반영한 새로운 L² 손실함수 개발으로 물리적으로 정확한 해 학습 유도 / Introduces velocity-weighted L² loss function to guide neural networks toward physically accurate solutions",
-        "**기술적 혁신** / **Technical Innovation**: 이론 기반 손실함수 설계로 신경망이 물리법칙을 더 잘 준수하게 함 / Theory-guided loss formulation ensures neural networks better comply with physical laws and constraints",
-        "**적용 범위** / **Application Scope**: 유체역학, 분자 동역학 등 복잡한 물리 현상 시뮬레이션에 광범위하게 활용 가능 / Applicable to fluid dynamics simulations, molecular dynamics, and various complex physical phenomenon modeling"
-      ],
-      "url": "https://arxiv.org/abs/2604.04971",
-      "featured": false
-    },
-    {
-      "id": "68a837e39326",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Territory Paint Wars: Diagnosing and Mitigating Failure Modes in Competitive Multi-Agent PPO",
-      "titleKo": "영역 분쟁 전쟁: 경쟁적 다중 에이전트 PPO의 실패 양식 진단 및 완화",
-      "summary": "arXiv:2604.04983v1 Announce Type: new Abstract: We present Territory Paint Wars, a minimal competitive multi-agent reinforcement learning environment implemented in Unity, and use it to systematically investigate failure modes of Proximal Policy Optimisation (PPO) under self-play. A first agent trained for $84{,}000$ episodes achieves only $26.8\\%$ win rate against a uniformly-random opponent in a symmetric zero-sum game. Through controlled ablations we identify five implementation-level failure modes -- reward-scale imbalance, missing terminal signal, ineffective long-horizon credit assignmen",
-      "aiSummary": "This research systematically investigates failure modes of PPO (Proximal Policy Optimization) algorithms in competitive multi-agent reinforcement learning environments. The team developed \"Territory Paint Wars,\" a minimalist game environment implemented in Unity where two AI agents compete to control territory. After 84,000 training episodes, the trained agent achieved only a 26.8% win rate against a uniformly-random opponent, indicating severe learning failures. Through controlled ablation studies, researchers identified five implementation-level failure modes including reward-scale imbalance, missing terminal signals, and ineffective long-horizon credit assignment. This research reveals hidden vulnerabilities in multi-agent RL algorithms, contributing to the development of more robust AI systems. However, the findings are limited to a single game environment, which may restrict generalizability to other competitive scenarios.\n\n##",
-      "aiSummaryKo": "본 연구는 경쟁적 다중 에이전트 강화학습 환경에서 PPO(근접 정책 최적화) 알고리즘의 실패 원인을 체계적으로 분석한다. 연구팀은 Unity로 구현된 'Territory Paint Wars'라는 최소화된 게임 환경을 개발하여 두 AI 에이전트가 영역을 차지하기 위해 경쟁하는 상황을 설정했다. 84,000번의 학습 에피소드를 거친 에이전트는 무작위 움직임을 하는 상대에게 겨우 26.8%의 승률만 달성했으며, 이는 심각한 학습 실패를 시사한다. 연구진은 상세한 실험을 통해 보상 규모 불균형, 게임 종료 신호 부재, 장기 학습 신용 할당 실패 등 5가지 구현 수준의 실패 원인을 규명했다. 이 연구는 다중 에이전트 강화학습 알고리즘의 숨겨진 결함을 드러내어 더욱 견고한 AI 개발에 기여한다. 다만 연구가 단일 게임 환경에 국한되어 다른 경쟁 상황으로의 일반화 가능성이 제한적일 수 있다.\n\n##",
-      "aiSummaryEn": "This research systematically investigates failure modes of PPO (Proximal Policy Optimization) algorithms in competitive multi-agent reinforcement learning environments. The team developed \"Territory Paint Wars,\" a minimalist game environment implemented in Unity where two AI agents compete to control territory. After 84,000 training episodes, the trained agent achieved only a 26.8% win rate against a uniformly-random opponent, indicating severe learning failures. Through controlled ablation studies, researchers identified five implementation-level failure modes including reward-scale imbalance, missing terminal signals, and ineffective long-horizon credit assignment. This research reveals hidden vulnerabilities in multi-agent RL algorithms, contributing to the development of more robust AI systems. However, the findings are limited to a single game environment, which may restrict generalizability to other competitive scenarios.\n\n##",
-      "keyPoints": [
-        "**PPO 알고리즘의 심각한 성능 저하**: 84,000 에피소드 학습 후에도 무작위 에이전트 상대로 26.8% 승률만 달성 / Severe PPO performance degradation: only 26.8% win rate against random opponent after 84,000 episodes of training",
-        "**5가지 구현 수준 실패 원인 규명**: 보상 규모 불균형, 게임 종료 신호 부재, 장기 학습 신용 할당 문제 등이 학습 실패의 근본 원인 / Five implementation-level failure modes identified: reward-scale imbalance, missing terminal signals, and ineffective long-horizon credit assignment are root causes",
-        "**다중 에이전트 강화학습 디버깅 필요성 강조**: 복잡한 다중 에이전트 환경에서 체계적인 문제 진단과 개선이 필수적 / Systematic diagnosis and debugging essential for multi-agent RL development",
-        "**실무적 AI 안정성 개선 기여**: 이론적 완성도 높은 알고리즘도 실제 구현에서 주의깊은 설계가 필요함을 보여줌 / Demonstrates that theoretically sound algorithms require careful implementation and design considerations in practice"
-      ],
-      "url": "https://arxiv.org/abs/2604.04983",
-      "featured": false
-    },
-    {
-      "id": "8415d926c4ec",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Enhancing sample efficiency in reinforcement-learning-based flow control: replacing the critic with an adaptive reduced-order model",
-      "titleKo": "강화학습 기반 유동 제어에서 샘플 효율성 향상: 비평자를 적응형 축약 모델로 대체하기",
-      "summary": "arXiv:2604.04986v1 Announce Type: new Abstract: Model-free deep reinforcement learning (DRL) methods suffer from poor sample efficiency. To overcome this limitation, this work introduces an adaptive reduced-order-model (ROM)-based reinforcement learning framework for active flow control. In contrast to conventional actor--critic architectures, the proposed approach leverages a ROM to estimate the gradient information required for controller optimization. The design of the ROM structure incorporates physical insights. The ROM integrates a linear dynamical system and a neural ordinary differenti",
-      "aiSummary": "This research addresses the poor sample efficiency problem of deep reinforcement learning (DRL), which typically requires large amounts of data for training. The researchers propose a novel adaptive reduced-order-model (ROM)-based reinforcement learning framework specifically for active flow control problems. Unlike conventional actor-critic architectures that use neural networks as critics, the proposed approach uses a ROM combining linear dynamical systems and neural ordinary differential equations to estimate gradient information needed for controller optimization. The ROM design incorporates physical insights to improve efficiency. This method achieves effective control performance with significantly fewer training samples compared to traditional neural-network-based critic approaches. The significance lies in dramatically reducing computational costs and data requirements for real-world industrial applications. However, the current validation is limited to fluid flow control domain, and generalization to other application areas requires further investigation.\n\n##",
-      "aiSummaryKo": "이 연구는 딥러닝 기반 강화학습이 많은 데이터를 필요로 하는 문제를 해결하기 위해 진행되었습니다. 연구팀은 유체 흐름 제어라는 구체적인 문제에서 전통적인 액터-크리틱 신경망 구조를 대신해 적응형 축소 모델(ROM)을 사용하는 새로운 강화학습 프레임워크를 제안했습니다. 이 축소 모델은 선형 동역학 시스템과 신경 상미분방정식을 결합하여 물리적 특성을 반영하도록 설계되었습니다. 이 방식은 제어기 최적화에 필요한 기울기 정보를 더 효율적으로 추정하며, 신경망 크리틱을 사용하는 기존 방식보다 훨씬 적은 샘플(데이터)로도 좋은 성능을 달성할 수 있습니다. 이 연구의 의의는 샘플 효율성 개선으로 실제 산업 응용에서 필요한 비용과 시간을 크게 줄일 수 있다는 점입니다. 다만, 현재까지는 유체 흐름 제어 분야에 한정되어 있으며 다른 분야로의 일반화 가능성은 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research addresses the poor sample efficiency problem of deep reinforcement learning (DRL), which typically requires large amounts of data for training. The researchers propose a novel adaptive reduced-order-model (ROM)-based reinforcement learning framework specifically for active flow control problems. Unlike conventional actor-critic architectures that use neural networks as critics, the proposed approach uses a ROM combining linear dynamical systems and neural ordinary differential equations to estimate gradient information needed for controller optimization. The ROM design incorporates physical insights to improve efficiency. This method achieves effective control performance with significantly fewer training samples compared to traditional neural-network-based critic approaches. The significance lies in dramatically reducing computational costs and data requirements for real-world industrial applications. However, the current validation is limited to fluid flow control domain, and generalization to other application areas requires further investigation.\n\n##",
-      "keyPoints": [
-        "**샘플 효율성 개선** / **Improved Sample Efficiency**: 기존 신경망 기반 강화학습 대비 훨씬 적은 데이터로 학습 가능하여 실제 응용 시 비용 절감",
-        "**물리 기반 설계** / **Physics-Informed Design**: 선형 동역학 시스템과 신경 상미분방정식 결합으로 물리적 특성을 모델에 반영하여 더 정확한 예측 실현",
-        "**액터-크리틱 구조 개선** / **Improved Actor-Critic Architecture**: 신경망 크리틱 대신 적응형 축소 모델을 사용하여 구조를 단순화하고 효율성 향상",
-        "**제한된 적용 범위** / **Limited Application Scope**: 현재는 유체 흐름 제어 분야에만 적용되었으며, 다른 산업 분야로의 확대 적용을 위해서는 추가 연구와 검증 필요"
-      ],
-      "url": "https://arxiv.org/abs/2604.04986",
-      "featured": false
-    },
-    {
-      "id": "6ce22812fcae",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Cactus: Accelerating Auto-Regressive Decoding with Constrained Acceptance Speculative Sampling",
-      "titleKo": "선인장: 제약된 수용 추론적 샘플링을 통한 자동회귀 디코딩 가속화",
-      "summary": "arXiv:2604.04987v1 Announce Type: new Abstract: Speculative sampling (SpS) has been successful in accelerating the decoding throughput of auto-regressive large language models by leveraging smaller draft models. SpS strictly enforces the generated distribution to match that of the verifier LLM. This is unnecessarily restrictive as slight variations of the verifier's distribution, such as sampling with top-$k$ or temperature, would also be acceptable. Typical acceptance sampling (TAS) alleviates this issue by accepting more tokens using entropy-based heuristics. However, this approach distorts ",
-      "aiSummary": "This research proposes \"Cactus,\" a novel method to accelerate auto-regressive decoding in large language models (LLMs). Existing Speculative Sampling approaches use smaller draft models to generate text quickly, then have larger verifier models strictly validate output, which is overly restrictive. The research team leveraged the insight that slight variations in the verifier's output distribution—such as temperature adjustment and top-k sampling—remain acceptable. Unlike conventional Typical Acceptance Sampling (TAS), Cactus improves entropy-based heuristics to accept more tokens while preserving original distribution characteristics. This approach significantly enhances LLM decoding throughput and improves response speed in practical applications. However, additional validation is needed regarding generalization across diverse model sizes and operational environments.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)의 자동회귀 디코딩 속도를 높이기 위한 새로운 방법인 'Cactus'를 제안합니다. 기존의 추측적 샘플링(Speculative Sampling) 방식은 작은 초안 모델로 텍스트를 빠르게 생성한 후 큰 검증 모델이 엄격하게 검증하는데, 이는 과도하게 제한적입니다. 연구팀은 검증 모델의 출력 분포가 약간 변해도(온도 조절, top-k 샘플링 등) 수용 가능하다는 점에 착안하여, 제약된 수용 추측적 샘플링 방식을 개발했습니다. 기존 전형적 수용 샘플링(TAS) 방식과 달리, Cactus는 엔트로피 기반 휴리스틱을 개선하여 더 많은 토큰을 수용하면서도 원래의 분포 특성을 보존합니다. 이 방법은 LLM의 디코딩 처리량을 크게 향상시킬 수 있으며, 실제 응용에서 응답 속도를 개선합니다. 다만, 다양한 모델 크기와 작업 환경에서 일반화 가능성에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research proposes \"Cactus,\" a novel method to accelerate auto-regressive decoding in large language models (LLMs). Existing Speculative Sampling approaches use smaller draft models to generate text quickly, then have larger verifier models strictly validate output, which is overly restrictive. The research team leveraged the insight that slight variations in the verifier's output distribution—such as temperature adjustment and top-k sampling—remain acceptable. Unlike conventional Typical Acceptance Sampling (TAS), Cactus improves entropy-based heuristics to accept more tokens while preserving original distribution characteristics. This approach significantly enhances LLM decoding throughput and improves response speed in practical applications. However, additional validation is needed regarding generalization across diverse model sizes and operational environments.\n\n##",
-      "keyPoints": [
-        "**기존 방식의 한계**: Speculative Sampling은 검증 모델의 정확한 분포 일치를 엄격히 요구하여 불필요하게 제한적 / Existing Speculative Sampling strictly enforces exact distribution matching, creating unnecessary constraints",
-        "**Cactus의 혁신**: 제약된 수용(Constrained Acceptance) 방식으로 분포의 약간의 변화를 허용하면서 더 많은 토큰 수용 / Accepts slight distribution variations through constrained acceptance mechanism, enabling more token acceptance",
-        "**성능 개선 메커니즘**: 엔트로피 기반 휴리스틱을 개선하여 분포 왜곡을 최소화하면서 처리량 향상 / Improves entropy-based heuristics to minimize distribution distortion while maximizing throughput",
-        "**실무적 의의**: LLM의 응답 속도와 처리 효율을 동시에 개선하여 실제 응용의 성능 향상 / Simultaneously improves response speed and processing efficiency, enhancing practical LLM applications"
-      ],
-      "url": "https://arxiv.org/abs/2604.04987",
       "featured": false
     }
   ]
