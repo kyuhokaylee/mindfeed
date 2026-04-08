@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-08T10:43:39.732222+00:00",
+  "updated": "2026-04-08T16:03:42.573505+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8440d83ba4fb",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "An unpredictable childhood predicts greater psychological distress during the Israel-Hamas war",
+      "titleKo": "예측 불가능한 어린 시절이 이스라엘-하마스 전쟁 중 더 큰 심리적 고통을 예측한다",
+      "summary": "A new longitudinal study reveals that Israeli adults who experienced chaotic, unpredictable childhoods suffered sharper spikes in psychological distress following the outbreak of the 2023 Israel-Hamas war.",
+      "aiSummary": "This longitudinal study examined how unpredictable childhood environments affect adult psychological stress responses. Researchers tracked Israeli adults before and after the 2023 Israel-Hamas war outbreak to analyze psychological reactions of those raised in chaotic, unpredictable family conditions. Key findings showed that individuals who experienced unstable childhoods exhibited significantly steeper increases in psychological distress following the war. This supports developmental psychology theories that early adversity increases stress vulnerability in adulthood. The research provides valuable insights for understanding individual resilience and developing trauma interventions and mental health support strategies. However, the study's limitation is its focus on Israeli adults, which restricts generalizability to other populations and cultural contexts.\n\n##",
+      "aiSummaryKo": "이 종단 연구는 어린 시절의 예측 불가능한 환경이 성인의 심리적 스트레스에 미치는 영향을 조사했습니다. 연구팀은 2023년 이스라엘-하마스 전쟁 발발 전후로 이스라엘 성인들을 추적 조사하여, 어린 시절 혼란스럽고 불규칙한 환경에서 자란 사람들의 심리적 반응을 분석했습니다. 주요 결과는 어린 시절 불안정한 환경을 경험한 집단이 전쟁 이후 심리적 고통이 더욱 급격하게 증가했다는 것입니다. 이는 조기 역경(Early Adversity)이 성인기의 스트레스 취약성을 높인다는 발달심리학적 가설을 뒷받침합니다. 이 연구는 개인의 심리적 회복력을 이해하는 데 도움이 되며, 트라우마 개입과 정신건강 지원 방안 개발에 시사점을 제공합니다. 다만 이 연구는 특정 문화권(이스라엘)의 성인을 대상으로 했으므로 다른 집단에 일반화하기에는 제한이 있습니다.\n\n##",
+      "aiSummaryEn": "This longitudinal study examined how unpredictable childhood environments affect adult psychological stress responses. Researchers tracked Israeli adults before and after the 2023 Israel-Hamas war outbreak to analyze psychological reactions of those raised in chaotic, unpredictable family conditions. Key findings showed that individuals who experienced unstable childhoods exhibited significantly steeper increases in psychological distress following the war. This supports developmental psychology theories that early adversity increases stress vulnerability in adulthood. The research provides valuable insights for understanding individual resilience and developing trauma interventions and mental health support strategies. However, the study's limitation is its focus on Israeli adults, which restricts generalizability to other populations and cultural contexts.\n\n##",
+      "keyPoints": [
+        "**어린 시절 예측 불가능성의 장기 영향** / Long-term impact of childhood unpredictability",
+        "**전쟁 같은 집단 트라우마 상황에서의 개인차** / Individual differences in collective trauma situations",
+        "**발달적 스트레스 민감성** / Developmental stress sensitivity",
+        "**임상적 개입의 필요성** / Need for clinical intervention"
+      ],
+      "url": "https://www.psypost.org/an-unpredictable-childhood-predicts-greater-psychological-distress-during-the-israel-hamas-war/",
+      "featured": true
+    },
+    {
+      "id": "4f34ce3cdcef",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "Toddlers are happier giving treats to others than receiving them, study finds",
+      "titleKo": "어린아이들은 선물을 받는 것보다 다른 사람에게 주는 것이 더 행복하다는 연구 결과",
+      "summary": "A new study suggests giving to others is naturally rewarding for humans from a very young age. Scientists found that toddlers express significantly more happiness when sharing treats than when receiving treats themselves.",
+      "aiSummary": "A recent study demonstrates that helping others can be naturally rewarding for humans from a very young age. Scientists discovered that toddlers express significantly greater happiness when sharing treats with others compared to receiving treats themselves. This finding is particularly significant because altruistic behavior emerges during early childhood, even before advanced language development. These results suggest that humans' fundamental prosocial nature may exist innately, prior to socialization or formal education. However, the study has limitations including the lack of specific participant numbers, detailed experimental design methodology, and consideration of cultural variables. This research could provide new perspectives on child developmental psychology and educational approaches for fostering prosocial behavior.\n\n##",
+      "aiSummaryKo": "최근 연구는 남을 돕는 것이 매우 어린 나이부터 인간에게 자연스럽게 보상이 될 수 있음을 보여줍니다. 과학자들은 어린이들이 자신이 선물을 받을 때보다 다른 사람에게 간식을 나눌 때 훨씬 더 큰 행복감을 표현한다는 사실을 발견했습니다. 이 연구는 아직 언어능력이 발달하지 않은 유아기 단계에서도 이타적 행동이 나타난다는 점이 중요합니다. 이러한 발견은 인간의 기본적인 친사회적 본성이 사회화나 교육 이전에 선천적으로 존재할 가능성을 시사합니다. 다만 이 연구는 구체적인 참가자 규모, 실험 설계의 세부사항, 그리고 문화적 차이에 따른 변수들이 명확히 제시되지 않았다는 한계가 있습니다. 이 결과는 아동 발달 심리학과 교육 방법론에 새로운 시각을 제공할 수 있습니다.\n\n##",
+      "aiSummaryEn": "A recent study demonstrates that helping others can be naturally rewarding for humans from a very young age. Scientists discovered that toddlers express significantly greater happiness when sharing treats with others compared to receiving treats themselves. This finding is particularly significant because altruistic behavior emerges during early childhood, even before advanced language development. These results suggest that humans' fundamental prosocial nature may exist innately, prior to socialization or formal education. However, the study has limitations including the lack of specific participant numbers, detailed experimental design methodology, and consideration of cultural variables. This research could provide new perspectives on child developmental psychology and educational approaches for fostering prosocial behavior.\n\n##",
+      "keyPoints": [
+        "**선천적 이타성** / Innate Altruism: 유아기 단계에서 이미 남을 돕는 행동이 자연스럽게 나타나며, 이는 사회적 학습 이전의 선천적 특성일 가능성을 시사합니다.",
+        "**주는 것의 행복** / Happiness in Giving: 아이들이 받는 것보다 남에게 나누는 것에서 더 큰 행복감을 표현하며, 이는 인간의 기본적인 보상 체계와 관련이 있습니다.",
+        "**발달심리학적 함의** / Developmental Psychology Implications: 이 결과는 아동의 친사회적 발달 과정과 도덕성 형성에 대한 이해를 새롭게 합니다.",
+        "**교육적 응용 가치** / Educational Application: 유아 교육에서 공유와 나눔 문화를 강화하는 데 과학적 근거를 제공하며, 아이들의 자연스러운 이타심을 계발하는 방향으로 지도할 수 있습니다."
+      ],
+      "url": "https://www.psypost.org/toddlers-are-happier-giving-treats-to-others-than-receiving-them-study-finds/",
+      "featured": false
+    },
+    {
+      "id": "19d5dbf3ae48",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "18시간 전 / 18h ago",
+      "title": "Can psychopaths change? New research suggests tailored treatments might work",
+      "titleKo": "정신병질자도 변할 수 있을까? 새로운 연구는 맞춤형 치료가 효과적일 수 있음을 시사한다",
+      "summary": "Psychopaths account for a disproportionate amount of violent crime, and early treatments frequently failed. Today, scientists are finding that specialized, strength-based therapies can help manage psychopathic traits, particularly when started early in childhood.",
+      "aiSummary": "Psychopaths account for a disproportionate share of violent crimes, and conventional early interventions have historically proven ineffective. Recent research indicates that tailored, strength-based therapeutic approaches can effectively manage psychopathic traits, with particular success when treatment begins in early childhood. Traditional therapeutic methods failed to produce meaningful changes, whereas personalized interventions focusing on individual strengths show promise in improving psychopathic characteristics. This research holds significant implications for criminal justice and mental health treatment by challenging the long-held belief that psychopathic traits are immutable and providing evidence-based alternatives to conventional approaches. The emphasis on early intervention offers important preventive potential in reducing violent behavior and supporting long-term positive outcomes. However, the study lacks detailed methodological information such as specific sample sizes, control group composition, and long-term follow-up data, indicating that larger randomized controlled trials are needed to substantiate these promising preliminary findings.\n\n##",
+      "aiSummaryKo": "정신병질자(사이코패스)는 폭력 범죄의 불균형적으로 큰 비중을 차지하고 있으며, 기존의 조기 치료들은 대부분 실패했다. 그러나 최근 연구에 따르면 개인의 강점에 초점을 맞춘 맞춤형 특화 치료법이 정신병질적 특성을 관리하는 데 효과를 발휘할 수 있음을 시사하고 있다. 특히 이러한 치료가 어린 시절부터 조기에 시작될 때 더욱 긍정적인 결과를 보인다고 보고되었다. 이 연구는 기존의 일반적인 치료 접근법이 실패한 반면, 강점 기반의 개인화된 개입이 정신병질 성향의 개선 가능성을 제시한다는 점에서 중요한 의의를 갖는다. 또한 조기 개입의 중요성을 강조함으로써 범죄 예방과 정신건강 치료 분야에 새로운 방향을 제시한다. 다만 이 연구는 구체적인 표본 수, 통제 집단 구성, 장기 추적 결과 등의 상세한 방법론적 정보가 제시되지 않아 더 대규모의 무작위 대조군 임상시험이 필요하다.\n\n##",
+      "aiSummaryEn": "Psychopaths account for a disproportionate share of violent crimes, and conventional early interventions have historically proven ineffective. Recent research indicates that tailored, strength-based therapeutic approaches can effectively manage psychopathic traits, with particular success when treatment begins in early childhood. Traditional therapeutic methods failed to produce meaningful changes, whereas personalized interventions focusing on individual strengths show promise in improving psychopathic characteristics. This research holds significant implications for criminal justice and mental health treatment by challenging the long-held belief that psychopathic traits are immutable and providing evidence-based alternatives to conventional approaches. The emphasis on early intervention offers important preventive potential in reducing violent behavior and supporting long-term positive outcomes. However, the study lacks detailed methodological information such as specific sample sizes, control group composition, and long-term follow-up data, indicating that larger randomized controlled trials are needed to substantiate these promising preliminary findings.\n\n##",
+      "keyPoints": [
+        "**기존 치료의 한계** / Limitations of conventional treatment: 정신병질자를 대상으로 한 조기 치료가 대부분 실패해왔으며, 이는 사이코패스의 특성이 불변이라는 오랜 통념을 반영 / Early interventions for psychopaths have largely failed, reflecting the long-held belief that psychopathic traits are immutable",
+        "**새로운 치료 접근법** / Novel therapeutic approach: 강점 기반(strength-based) 맞춤형 치료법이 정신병질적 특성의 관리와 개선에 효과적일 수 있음을 시사 / Strength-based, personalized therapeutic interventions show effectiveness in managing and improving psychopathic traits",
+        "**조기 개입의 중요성** / Significance of early intervention: 어린 시절부터 시작된 치료가 더욱 효과적이며, 이는 예방적 관점에서 범죄 감소에 기여할 가능성 / Treatment initiated in early childhood demonstrates greater effectiveness and holds potential for crime prevention through early intervention",
+        "**범죄 예방과 인간 가능성** / Crime prevention and human potential: 정신병질이 치료 가능하다는 인식의 전환은 사법 체계와 정신건강 분야의 패러다임 변화를 의미하며, 개인의 변화 가능성을 재평가 / Reconceptualizing psychopathy as treatable represents a paradigm shift in justice and mental health systems, emphasizing human capacity for change"
+      ],
+      "url": "https://www.psypost.org/can-psychopaths-change-new-research-suggests-tailored-treatments-might-work/",
+      "featured": false
+    },
+    {
+      "id": "190c60a440c8",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Your vitamin D levels in midlife could shape your brain decades later",
+      "titleKo": "중년의 비타민 D 수치가 수십 년 후 뇌 건강을 좌우할 수 있다",
+      "summary": "Vitamin D levels in midlife may play a bigger role in long-term brain health than previously thought. In a study following nearly 800 people over 16 years, those with higher vitamin D levels in their 30s and 40s had lower levels of tau protein later on, a key marker linked to dementia.",
+      "aiSummary": "This study investigated how vitamin D levels in midlife may influence brain health decades later. In a longitudinal study following approximately 800 participants over 16 years, individuals with higher vitamin D levels during their 30s and 40s showed lower levels of tau protein in later life—a key pathological marker associated with dementia. The findings suggest that maintaining adequate vitamin D during midlife may be important for long-term brain health preservation. Researchers propose that vitamin D may play a protective role in preventing neurodegenerative diseases. However, as an observational study, it cannot establish direct causation between vitamin D and tau protein levels, and mechanistic studies are needed. The results indicate vitamin D supplementation could become a new dementia prevention strategy, though more robust evidence from future research is necessary.\n\n##",
+      "aiSummaryKo": "이 연구는 중년의 비타민 D 수치가 수십 년 후 뇌 건강에 미치는 영향을 조사했습니다. 약 800명을 16년간 추적한 종단 연구에서, 30대와 40대에 비타민 D 수치가 높았던 사람들은 나중에 치매와 관련된 주요 단백질인 타우(tau) 단백질 수치가 더 낮았습니다. 이는 중년 시기의 비타민 D 충분 섭취가 장기적인 뇌 건강 유지에 중요할 수 있음을 시사합니다. 연구팀은 비타민 D가 신경퇴행성 질환 예방에 보호 역할을 할 가능성을 제시했습니다. 다만 이 연구는 관찰 연구로 비타민 D와 타우 단백질 간의 인과관계를 직접 증명하지는 못했으며, 추가적인 기전 연구가 필요합니다. 결과적으로 비타민 D 보충이 치매 예방의 새로운 전략이 될 수 있음을 시사하지만, 더 확실한 근거를 위한 후속 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated how vitamin D levels in midlife may influence brain health decades later. In a longitudinal study following approximately 800 participants over 16 years, individuals with higher vitamin D levels during their 30s and 40s showed lower levels of tau protein in later life—a key pathological marker associated with dementia. The findings suggest that maintaining adequate vitamin D during midlife may be important for long-term brain health preservation. Researchers propose that vitamin D may play a protective role in preventing neurodegenerative diseases. However, as an observational study, it cannot establish direct causation between vitamin D and tau protein levels, and mechanistic studies are needed. The results indicate vitamin D supplementation could become a new dementia prevention strategy, though more robust evidence from future research is necessary.\n\n##",
+      "keyPoints": [
+        "**장기적 연관성 발견** / Long-term Association Discovered",
+        "**예방적 잠재력** / Preventive Potential",
+        "**생애 과정적 관점** / Life-course Perspective",
+        "**방법론적 한계** / Methodological Limitations"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260407073850.htm",
+      "featured": false
+    },
+    {
+      "id": "ffec2fac4070",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
+      "titleKo": "과학자들이 뇌를 보호하고 암과 싸우는 숨겨진 영양소의 30년 미스터리를 풀다",
+      "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive—until now. By identifying the gene SLC35F2 as the gateway into cells, this breakthrough opens new possibilities for therapies and highlights how diet and gut microbes profoundly shape human health.",
+      "aiSummary": "Scientists have finally resolved a 30-year mystery by identifying how the human body absorbs queuosine, a rare micronutrient essential for brain health, memory, stress response, and cancer prevention. Researchers have long suspected that a cellular transporter must exist to facilitate queuosine absorption, but its identity remained unknown until this breakthrough. The research team discovered that the gene SLC35F2 acts as the gateway protein that allows queuosine to enter cells, confirming decades of scientific speculation. This discovery opens new therapeutic possibilities for treating queuosine-deficiency related conditions and underscores the critical role of diet and gut microbiota in human health. However, the study primarily focuses on gene-level mechanisms, and further research is needed to translate these findings into clinical applications. Additionally, validation across diverse populations and investigation of downstream health effects require additional investigation.\n\n##",
+      "aiSummaryKo": "30년간 미해결 상태였던 뉴오신(queuosine)이라는 희귀 미량영양소의 체내 흡수 메커니즘을 과학자들이 규명했다. 뉴오신은 뇌 건강, 기억력, 스트레스 반응, 암 방어에 중요한 역할을 하지만, 세포로 들어가는 방식은 오랫동안 미스터리였다. 연구팀은 SLC35F2 유전자가 뉴오신이 세포 내로 진입하는 관문 역할을 한다는 사실을 발견했으며, 이는 30년 동안 예상되어온 수송체의 실체를 밝힌 것이다. 이번 발견은 뉴오신 관련 질환 치료법 개발의 새로운 가능성을 제시하고, 식단과 장내 미생물이 인간의 건강에 얼마나 중요한 역할을 하는지를 보여준다. 다만, 본 연구는 유전자 수준의 메커니즘 규명에 초점을 맞춰 실제 임상 적용까지는 추가 연구가 필요하며, 다양한 인구집단에서의 검증이 요구된다.\n\n##",
+      "aiSummaryEn": "Scientists have finally resolved a 30-year mystery by identifying how the human body absorbs queuosine, a rare micronutrient essential for brain health, memory, stress response, and cancer prevention. Researchers have long suspected that a cellular transporter must exist to facilitate queuosine absorption, but its identity remained unknown until this breakthrough. The research team discovered that the gene SLC35F2 acts as the gateway protein that allows queuosine to enter cells, confirming decades of scientific speculation. This discovery opens new therapeutic possibilities for treating queuosine-deficiency related conditions and underscores the critical role of diet and gut microbiota in human health. However, the study primarily focuses on gene-level mechanisms, and further research is needed to translate these findings into clinical applications. Additionally, validation across diverse populations and investigation of downstream health effects require additional investigation.\n\n##",
+      "keyPoints": [
+        "**30년 미해결 수수께끼 해결** / Resolved a 30-year scientific mystery: SLC35F2 유전자가 뉴오신 세포 흡수의 핵심 수송체임을 확인",
+        "**다중 건강 기능** / Multiple health functions: 뉴오신은 뇌 건강, 기억력 강화, 스트레스 대응, 암 방어 등 4가지 주요 기능 담당",
+        "**식단과 장내 미생물의 중요성** / Diet and gut microbiota significance: 이 발견은 영양소 흡수에 있어 식이요법과 장내 미생물의 핵심적 역할을 증명",
+        "**치료법 개발의 새로운 길** / New therapeutic opportunities: SLC35F2 이해를 통해 뉴오신 결핍 관련 질환의 새로운 치료 방법 개발 가능성 제시"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260407004815.htm",
+      "featured": false
+    },
+    {
+      "id": "2ac0753dd633",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists just watched Alzheimer’s damage happen in real time",
+      "titleKo": "과학자들이 알츠하이머병 손상이 실시간으로 일어나는 것을 관찰했다",
+      "summary": "Scientists at Oregon State University have captured something researchers have long struggled to see: the real-time chemical interactions that help drive Alzheimer’s disease. By watching how metal ions—especially copper—trigger harmful protein clumping in the brain, the team uncovered a clearer picture of how the disease develops at a molecular level.",
+      "aiSummary": "Researchers at Oregon State University have successfully captured real-time observations of the molecular mechanisms driving Alzheimer's disease development. The team directly observed how metal ions, particularly copper, trigger the abnormal clumping of harmful proteins in the brain—a process that has long been difficult for scientists to witness. This breakthrough provides a clearer molecular-level understanding of how Alzheimer's disease progresses. The study offers empirical evidence that copper ions promote the pathological aggregation of beta-amyloid proteins, suggesting new directions for disease prevention and treatment strategies. These findings could potentially lead to the development of novel Alzheimer's therapies targeting metal ion regulation. However, since the observations were made in laboratory conditions, further validation is needed to confirm whether the same mechanisms operate identically in the human brain.\n\n##",
+      "aiSummaryKo": "오리건 주립대학교 연구팀이 알츠하이머병 발병 메커니즘을 실시간으로 관찰하는 데 성공했습니다. 그동안 과학자들이 직접 목격하기 어려웠던 뇌 내 화학적 상호작용, 특히 구리 같은 금속 이온이 해로운 단백질 응고(뭉침)를 유발하는 과정을 포착했습니다. 이번 연구는 분자 수준에서 알츠하이머병이 어떻게 발전하는지에 대한 더욱 명확한 이해를 제공합니다. 금속 이온, 특히 구리 이온이 베타 아밀로이드 단백질의 비정상적인 응집을 촉진한다는 기존 가설을 실증적으로 증명함으로써, 질병 예방 및 치료법 개발에 새로운 방향을 제시합니다. 이 발견은 향후 금속 이온 조절을 통한 알츠하이머병 치료제 개발로 이어질 수 있습니다. 다만, 실험실 환경에서의 관찰이므로 실제 인간의 뇌에서도 동일한 메커니즘이 작동하는지 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Researchers at Oregon State University have successfully captured real-time observations of the molecular mechanisms driving Alzheimer's disease development. The team directly observed how metal ions, particularly copper, trigger the abnormal clumping of harmful proteins in the brain—a process that has long been difficult for scientists to witness. This breakthrough provides a clearer molecular-level understanding of how Alzheimer's disease progresses. The study offers empirical evidence that copper ions promote the pathological aggregation of beta-amyloid proteins, suggesting new directions for disease prevention and treatment strategies. These findings could potentially lead to the development of novel Alzheimer's therapies targeting metal ion regulation. However, since the observations were made in laboratory conditions, further validation is needed to confirm whether the same mechanisms operate identically in the human brain.\n\n##",
+      "keyPoints": [
+        "**실시간 관찰 성공** / Real-time observation achieved: 알츠하이머병 발병의 분자 수준 화학 반응을 처음으로 직접 관찰하는 데 성공",
+        "**구리 이온의 역할 규명** / Copper ion mechanism identified: 구리 같은 금속 이온이 베타 아밀로이드 단백질의 비정상 응집을 직접 촉발하는 과정 확인",
+        "**신약 개발의 가능성** / Potential for therapeutic development: 금속 이온 조절을 통한 새로운 알츠하이머병 치료제 개발 경로 제시",
+        "**임상 적용 전 추가 검증 필요** / Further clinical validation required: 실험실 환경의 발견을 인간의 뇌에 적용하기 위한 추가 연구 필요"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192922.htm",
+      "featured": false
+    },
     {
       "id": "ebf89d9b7d6c",
       "tag": "psych",
@@ -21,7 +147,7 @@
         "**음악 접근성 확대** / Enhanced Music Accessibility"
       ],
       "url": "https://www.psypost.org/you-might-understand-music-theory-better-than-you-think-regardless-of-formal-training/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "64f8cb6d7c63",
@@ -289,102 +415,6 @@
         "**실무적 의의**: LLM의 응답 속도와 처리 효율을 동시에 개선하여 실제 응용의 성능 향상 / Simultaneously improves response speed and processing efficiency, enhancing practical LLM applications"
       ],
       "url": "https://arxiv.org/abs/2604.04987",
-      "featured": false
-    },
-    {
-      "id": "3bb40bec8b55",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Self-Supervised Foundation Model for Calcium-imaging Population Dynamics",
-      "titleKo": "",
-      "summary": "arXiv:2604.04958v1 Announce Type: cross Abstract: Recent work suggests that large-scale, multi-animal modeling can significantly improve neural recording analysis. However, for functional calcium traces, existing approaches remain task-specific, limiting transfer across common neuroscience objectives. To address this challenge, we propose \\textbf{CalM}, a self-supervised neural foundation model trained solely on neuronal calcium traces and adaptable to multiple downstream tasks, including forecasting and decoding. Our key contribution is a pretraining framework, composed of a high-performance ",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.04958",
-      "featured": false
-    },
-    {
-      "id": "6207904e7058",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Causal Stance",
-      "titleKo": "",
-      "summary": "arXiv:2604.05004v1 Announce Type: cross Abstract: What exactly is the meaning of physical causal closure, a concept frequently discussed in the philosophy of mind? Jaegwon Kim explicitly adopts a conception of causation according to which physical causation is effectively identified with deterministic physical lawfulness, and on this basis equates physical determinism with physical causal closure. While this conception is internally coherent, it differs from the currently dominant theories of causation, which emphasize asymmetry between cause and effect grounded in manipulability and intervent",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.05004",
-      "featured": false
-    },
-    {
-      "id": "6ee3ca9a3b2c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Hierarchical Mesh Transformers with Topology-Guided Pretraining for Morphometric Analysis of Brain Structures",
-      "titleKo": "",
-      "summary": "arXiv:2604.05215v1 Announce Type: cross Abstract: Representation learning on large-scale unstructured volumetric and surface meshes poses significant challenges in neuroimaging, especially when models must incorporate diverse vertex-level morphometric descriptors, such as cortical thickness, curvature, sulcal depth, and myelin content, which carry subtle disease-related signals. Current approaches either ignore these clinically informative features or support only a single mesh topology, restricting their use across imaging pipelines. We introduce a hierarchical transformer framework designed ",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.05215",
-      "featured": false
-    },
-    {
-      "id": "926e48cf1d0e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Pursuit of biomarkers of brain diseases: Beyond cohort comparisons",
-      "titleKo": "",
-      "summary": "arXiv:2509.10547v2 Announce Type: replace Abstract: Despite the diversity and volume of brain data acquired and advanced AI-based algorithms to analyze them, brain features are rarely used in clinics for diagnosis and prognosis. Here we argue that the field continues to rely on cohort comparisons to seek biomarkers, despite the well-established degeneracy of brain features. Using a thought experiment (Brain Swap), we show that more data and more powerful algorithms will not be sufficient to identify biomarkers of brain diseases. We argue that instead of comparing patient versus healthy control",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2509.10547",
-      "featured": false
-    },
-    {
-      "id": "381971e27c77",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "22일 전 / 22d ago",
-      "title": "Facts and the Fight for Moral High Ground",
-      "titleKo": "",
-      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
-      "featured": false
-    },
-    {
-      "id": "ace9ccd54a55",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4시간 전 / 4h ago",
-      "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
-      "titleKo": "",
-      "summary": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it revealed surprising new connections between brain cells that were previously unknown. This could open the door to earlier detection and targeted treatment of neurological diseases.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
       "featured": false
     }
   ]
