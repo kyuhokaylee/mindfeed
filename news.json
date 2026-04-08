@@ -1,7 +1,128 @@
 {
-  "updated": "2026-04-08T06:09:16.975132+00:00",
+  "updated": "2026-04-08T10:43:39.732222+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ebf89d9b7d6c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Your brain might understand music theory better than you think, regardless of formal training",
+      "titleKo": "공식적인 음악 교육이 없어도 뇌는 음악 이론을 생각보다 잘 이해할 수 있다",
+      "summary": "A recent study reveals that formal musical training isn't necessary for the brain to grasp complex harmonic structures. Both musicians and nonmusicians systematically use musical context to accurately predict, remember, and segment melodies.",
+      "aiSummary": "This study investigated whether understanding music theory is possible without formal musical training. Researchers tested both trained musicians and non-musicians to measure their ability to recognize complex harmonic structures through experimental tasks. The results showed that both groups could systematically use musical context to accurately predict, remember, and segment melodies. This suggests that music theory comprehension can develop unconsciously through repeated exposure and natural learning without formal instruction. The significance of this research lies in demonstrating that musical appreciation ability is not limited to formal education. However, limitations include potential restriction to specific music genres or cultural contexts and the lack of longitudinal follow-up studies.\n\n##",
+      "aiSummaryKo": "본 연구는 음악 이론 이해가 정식 음악 교육 없이도 가능한지를 조사했습니다. 연구팀은 음악가와 음악 비전공자 모두를 대상으로 화음 구조 인지 능력을 실험을 통해 측정했습니다. 결과적으로 두 집단 모두 음악적 맥락을 체계적으로 활용하여 멜로디를 정확하게 예측, 기억, 분할할 수 있었습니다. 이는 음악 이론 이해가 반복 노출과 자연스러운 학습을 통해 무의식적으로 형성될 수 있음을 시사합니다. 본 연구의 의의는 음악 감상 능력이 정식 교육에 국한되지 않는다는 점을 증명한 것입니다. 다만 연구가 특정 음악 장르나 문화권에 제한되었을 가능성과 장기 추적 연구 부족이 한계로 지적됩니다.\n\n##",
+      "aiSummaryEn": "This study investigated whether understanding music theory is possible without formal musical training. Researchers tested both trained musicians and non-musicians to measure their ability to recognize complex harmonic structures through experimental tasks. The results showed that both groups could systematically use musical context to accurately predict, remember, and segment melodies. This suggests that music theory comprehension can develop unconsciously through repeated exposure and natural learning without formal instruction. The significance of this research lies in demonstrating that musical appreciation ability is not limited to formal education. However, limitations include potential restriction to specific music genres or cultural contexts and the lack of longitudinal follow-up studies.\n\n##",
+      "keyPoints": [
+        "**정식 교육 불필요성** / No Formal Training Required",
+        "**무의식적 학습 메커니즘** / Unconscious Learning Mechanism",
+        "**맥락 기반 인지 능력** / Context-Based Cognitive Ability",
+        "**음악 접근성 확대** / Enhanced Music Accessibility"
+      ],
+      "url": "https://www.psypost.org/you-might-understand-music-theory-better-than-you-think-regardless-of-formal-training/",
+      "featured": true
+    },
+    {
+      "id": "64f8cb6d7c63",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "14시간 전 / 14h ago",
+      "title": "Maternal exposure to short-chain PFAS causes persistent memory problems in adult rats",
+      "titleKo": "모체 노출 단쇄 PFAS가 성년 쥐의 지속적인 기억력 문제를 유발함",
+      "summary": "Exposure to supposedly safer alternatives to traditional forever chemicals during early development causes lasting cognitive problems in adult rats. Emerging research suggests these widely used synthetic compounds can severely disrupt the physical construction of the mammalian brain.",
+      "aiSummary": "This study examined whether short-chain PFAS (per- and polyfluoroalkyl substances), marketed as safer replacements for traditional \"forever chemicals,\" actually cause lasting brain damage during early development. Researchers exposed pregnant rats to short-chain PFAS and tracked their offspring's cognitive function and brain structure into adulthood. The results revealed that adult rats whose mothers were exposed showed persistent memory deficits and significant physical damage to brain structures. This finding contradicts industry claims that short-chain PFAS are safe alternatives, suggesting these chemicals may carry substantial long-term neurotoxic effects. However, the study is limited to animal models, and further research is needed to determine whether similar effects occur in humans and at what exposure levels.\n\n##",
+      "aiSummaryKo": "이 연구는 전통적인 '영구화학물질(PFAS)'의 더 안전한 대체품으로 여겨지는 단쇄 PFAS 화학물질이 실제로는 발달 단계의 뇌에 심각한 손상을 입힐 수 있다는 점을 규명하고자 시작되었습니다. 연구팀은 모체가 단쇄 PFAS에 노출된 쥐들을 성장 단계별로 관찰하고, 이들이 성인이 되었을 때의 인지 기능과 뇌 구조를 조사했습니다. 결과적으로 산모 노출군의 성체 쥐들이 기억력 문제를 지속적으로 보였으며, 뇌의 물리적 구조가 심각하게 손상되어 있음을 발견했습니다. 이는 업계에서 '안전한 대체품'이라 홍보해온 화학물질들이 예상과 달리 장기적인 신경 독성을 가질 수 있음을 시사합니다. 다만 이 연구는 동물 실험 모델에 기반한 것으로, 인간에게 동일한 결과가 나타날지 확인하기 위해서는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study examined whether short-chain PFAS (per- and polyfluoroalkyl substances), marketed as safer replacements for traditional \"forever chemicals,\" actually cause lasting brain damage during early development. Researchers exposed pregnant rats to short-chain PFAS and tracked their offspring's cognitive function and brain structure into adulthood. The results revealed that adult rats whose mothers were exposed showed persistent memory deficits and significant physical damage to brain structures. This finding contradicts industry claims that short-chain PFAS are safe alternatives, suggesting these chemicals may carry substantial long-term neurotoxic effects. However, the study is limited to animal models, and further research is needed to determine whether similar effects occur in humans and at what exposure levels.\n\n##",
+      "keyPoints": [
+        "**산모 노출의 장기 영향** / Long-term effects of maternal exposure: 임신 중 단쇄 PFAS 노출이 성인기까지 지속되는 기억력 문제를 야기함 / Short-chain PFAS exposure during pregnancy causes memory problems that persist into adulthood",
+        "**\"안전한 대체품\"의 허상** / False safety claims: 업계에서 홍보한 더 안전한 화학물질 대체품이 오히려 심각한 신경독성을 가질 수 있음 / Industry-promoted \"safer\" alternatives may actually cause severe neurotoxicity",
+        "**뇌 구조적 손상** / Structural brain damage: 단쇄 PFAS는 포유동물 뇌의 물리적 구조 형성 과정을 심각하게 방해함 / Short-chain PFAS severely disrupts the physical construction of mammalian brain development",
+        "**동물 실험의 한계** / Animal model limitations: 쥐 실험 결과가 인간에게 동일하게 적용되는지 확인하기 위해서는 추가적인 임상 연구 필요 / Further clinical research needed to confirm whether rat study results apply to humans"
+      ],
+      "url": "https://www.psypost.org/maternal-exposure-to-short-chain-pfas-causes-persistent-memory-problems-in-adult-2026-03-19/",
+      "featured": false
+    },
+    {
+      "id": "f6547d7872e3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "16시간 전 / 16h ago",
+      "title": "Early life stress fundamentally alters alcohol processing in the brain",
+      "titleKo": "유년기 스트레스가 뇌의 알코올 처리 과정을 근본적으로 변화시킨다",
+      "summary": "A new study in rats shows how experiencing social isolation during adolescence directly changes the brain’s chemical response to alcohol, altering dopamine pathways linked to reward and aversion and paving the way for future substance use issues.",
+      "aiSummary": "This study demonstrates how social isolation during adolescence fundamentally alters the brain's chemical response to alcohol. Researchers conducted an experiment using rats, comparing their brain's neurochemical reactions to alcohol based on whether they experienced social isolation during adolescence. The key finding was that rats exposed to early life stress showed altered dopamine pathways in the brain that are responsible for reward and aversion responses. These changes increase the likelihood of developing substance abuse issues such as alcohol addiction in adulthood. The significance of this research lies in providing evidence that childhood stress affects not only psychological well-being but also changes the brain's biological structure at a neurochemical level. However, since the study was conducted on animals, further validation is needed to confirm whether the same mechanisms apply to humans.\n\n##",
+      "aiSummaryKo": "이 연구는 청소년 시기의 사회적 고립이 뇌의 알코올 처리 방식을 근본적으로 변화시킨다는 것을 규명했습니다. 연구팀은 쥐를 대상으로 청소년기 사회적 고립 경험 여부에 따라 알코올에 대한 뇌의 화학적 반응을 비교하는 실험을 진행했습니다. 주요 결과는 초기 스트레스를 경험한 쥐들의 뇌에서 보상과 회피 반응을 담당하는 도파민 경로가 변화했다는 것입니다. 이는 성인 이후 알코올 중독 등 물질 남용 문제로 발전할 가능성을 높인다는 의미입니다. 이 연구의 의의는 어린 시절 스트레스가 단순한 심리적 영향을 넘어 뇌의 생물학적 구조를 변화시킨다는 증거를 제시했다는 점입니다. 다만 쥐를 대상으로 한 동물 실험이므로 인간에게 동일하게 적용되는지는 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study demonstrates how social isolation during adolescence fundamentally alters the brain's chemical response to alcohol. Researchers conducted an experiment using rats, comparing their brain's neurochemical reactions to alcohol based on whether they experienced social isolation during adolescence. The key finding was that rats exposed to early life stress showed altered dopamine pathways in the brain that are responsible for reward and aversion responses. These changes increase the likelihood of developing substance abuse issues such as alcohol addiction in adulthood. The significance of this research lies in providing evidence that childhood stress affects not only psychological well-being but also changes the brain's biological structure at a neurochemical level. However, since the study was conducted on animals, further validation is needed to confirm whether the same mechanisms apply to humans.\n\n##",
+      "keyPoints": [
+        "**청소년기 사회적 고립의 뇌 손상** / Adolescent social isolation causes neurological damage",
+        "**도파민 경로 변화와 보상-회피 체계 교란** / Altered dopamine pathways and disrupted reward-aversion systems",
+        "**생물학적 취약성의 조기 형성** / Early formation of biological vulnerability",
+        "**동물 모델의 인간 적용 제한** / Limitations in translating animal models to humans"
+      ],
+      "url": "https://www.psypost.org/how-growing-up-alone-changes-the-brain-s-response-to-alcohol-2026-03-26/",
+      "featured": false
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "3일 전 / 3d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "\"우리는 결코 개인이었던 적이 없다\"",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article presents a philosophical insight that humans are not independent entities but relational beings who interact with nature and other living organisms. The research background uses respiration—humanity's most fundamental biological process—to explain the interdependence between humans, plants, and microorganisms. Specifically, carbon dioxide exhaled by humans becomes raw material for plant photosynthesis, while oxygen produced by plants enables human survival, demonstrating a concrete biochemical cycle. The article's core message is that the human body hosts diverse microorganisms, and the air we breathe is literally the \"collective breath\" of other living beings. This challenges the Western individualistic paradigm that emphasizes individuality and independence. The significance lies in promoting understanding of ecological interdependence to emphasize environmental ethics and the importance of coexistence. However, as the article is based on philosophical observation, it has limitations in that no control group design or quantitative empirical data are presented.\n\n##",
+      "aiSummaryKo": "이 기사는 인간이 독립적인 개체가 아니라 자연과 생명체들과 상호작용하는 관계적 존재라는 철학적 통찰을 제시한다. 연구 배경으로는 호흡이라는 가장 기본적인 생리 과정을 통해 인간과 식물, 미생물 간의 상호의존성을 설명한다. 매번 숨을 쉴 때마다 인간이 배출하는 이산화탄소는 식물의 광합성 원료가 되고, 식물이 배출하는 산소는 인간의 생존을 가능하게 한다는 구체적인 생화학적 순환을 근거로 한다. 이 기사의 핵심 메시지는 인간의 몸이 다양한 미생물을 호스팅하며, 우리가 호흡하는 공기 자체가 다른 생명체들의 \"집단적 숨\"이라는 점이다. 이는 개별성과 독립성을 강조하는 서양의 개인주의 패러다임에 대한 근본적인 질문을 제기한다. 연구의 의의는 생태학적 상호의존성에 대한 이해를 통해 환경 윤리와 공존의 중요성을 강조하는 데 있다. 다만 기사 내용이 철학적 관찰 기반이므로 대조군 설계나 정량적 실증 데이터가 제시되지 않았다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This article presents a philosophical insight that humans are not independent entities but relational beings who interact with nature and other living organisms. The research background uses respiration—humanity's most fundamental biological process—to explain the interdependence between humans, plants, and microorganisms. Specifically, carbon dioxide exhaled by humans becomes raw material for plant photosynthesis, while oxygen produced by plants enables human survival, demonstrating a concrete biochemical cycle. The article's core message is that the human body hosts diverse microorganisms, and the air we breathe is literally the \"collective breath\" of other living beings. This challenges the Western individualistic paradigm that emphasizes individuality and independence. The significance lies in promoting understanding of ecological interdependence to emphasize environmental ethics and the importance of coexistence. However, as the article is based on philosophical observation, it has limitations in that no control group design or quantitative empirical data are presented.\n\n##",
+      "keyPoints": [
+        "**상호호흡의 생화학적 순환** / Biochemical cycle of mutual respiration: 인간의 호흡 산물이 식물의 생존 조건이 되고, 식물의 산소가 인간의 생존을 가능하게 하는 완벽한 상호의존성 / Human respiration products become plants' survival conditions, and plant oxygen enables human survival in perfect interdependence",
+        "**개별성(Individuality) 개념에 대한 도전** / Challenge to the concept of individuality: '우리는 결코 개인이 아니었다'는 명제를 통해 개별적 존재라는 근대적 인식론에 대한 근본적 질문 제기 / The statement \"We have never been individuals\" fundamentally questions modern epistemology regarding individual existence",
+        "**신체 내 미생물 생태계** / Microbial ecosystem within the body: 인간의 신체가 다양한 미생물을 호스팅하는 생태계라는 발견으로, 인간 개체성의 경계가 모호함을 시사 / The discovery that human bodies host diverse microorganisms suggests the blurred boundaries of human individuality",
+        "**환경 윤리와 공존 패러다임의 전환** / Shift in environmental ethics and coexistence paradigm: 생태학적 상호의존성 이해를 통한 환경 위기 해결 및 공존 중심의 새로운 세계관 필요성 강조 / Emphasizing the need for a new worldview centered on coexistence and addressing environmental crisis through understanding ecological interdependence"
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
+    {
+      "id": "1f2d0b54d063",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "6일 전 / 6d ago",
+      "title": "What It’s Like to Be…a Diplomat",
+      "titleKo": "외교관이 된다는 것은 어떤 것인가",
+      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
+      "aiSummary": "This article features a podcast episode from the series \"What It's Like to Be...\" interviewing John Johnson, a retired U.S. diplomat with over 20 years of Foreign Service experience. The episode explores the real-world experiences and daily work of diplomats through their professional challenges and critical situations. Key content includes defusing a diplomatic crisis after an ambassador hinted at a preemptive strike on Russia, delivering formal protests (demarches) in multiple languages, and surviving the frantic evacuation of the Kabul embassy. The interview examines specific aspects of diplomatic practice, such as whether diplomats still use \"cables\" (diplomatic telegrams) in the 21st century and the meaning of diplomatic terminology like \"not/not.\" This conversation provides general audiences with deeper insights into the roles and responsibilities of diplomats in international relations. However, the analysis is limited to a single individual's experience, which may not fully represent the broader diplomatic system.",
+      "aiSummaryKo": "본 기사는 팟캐스트 시리즈 \"What It's Like to Be...\"의 한 에피소드로, 20년 이상 미국 외교관으로 근무한 퇴직 외교관 존 존슨과의 인터뷰를 다룬다. 이 에피소드에서는 외교관의 실제 업무 경험과 일상을 조명한다. 주요 내용으로는 대사의 러시아 선제공격 암시 이후 위기 상황 해결, 다국어로 진행되는 정식 항의(demarche) 전달, 카불 대사관 긴급 철수 과정 등 극단적 상황에서의 외교 업무가 포함된다. 기사는 21세기에도 여전히 외교관들이 \"케이블\"(전보)을 사용하는지, 그리고 외교 용어 \"not/not\"의 의미가 무엇인지 등 외교 실무의 구체적 측면을 탐구한다. 이 인터뷰를 통해 일반인들이 외교관의 역할과 책임을 더 깊이 있게 이해할 수 있는 기회를 제공한다. 다만, 단일 개인의 경험 기반이므로 전체 외교 체계를 대표하기에는 한계가 있다.",
+      "aiSummaryEn": "This article features a podcast episode from the series \"What It's Like to Be...\" interviewing John Johnson, a retired U.S. diplomat with over 20 years of Foreign Service experience. The episode explores the real-world experiences and daily work of diplomats through their professional challenges and critical situations. Key content includes defusing a diplomatic crisis after an ambassador hinted at a preemptive strike on Russia, delivering formal protests (demarches) in multiple languages, and surviving the frantic evacuation of the Kabul embassy. The interview examines specific aspects of diplomatic practice, such as whether diplomats still use \"cables\" (diplomatic telegrams) in the 21st century and the meaning of diplomatic terminology like \"not/not.\" This conversation provides general audiences with deeper insights into the roles and responsibilities of diplomats in international relations. However, the analysis is limited to a single individual's experience, which may not fully represent the broader diplomatic system.",
+      "keyPoints": [
+        "외교관의 위기 상황 대응 / Diplomats' Crisis Management: 러시아와의 갈등 상황에서 선제공격 암시를 다루고 카불 대사관 긴급 철수 등 극한 상황에서의 외교 실무 능력 / Handling extreme situations including Russian conflict deescalation and emergency evacuations demonstrates critical diplomatic skills",
+        "다국어 능력의 중요성 / Multilingual Communication: 정식 항의와 국제 협상에서 다국어 구사 능력이 필수적이라는 점 / Fluency in multiple languages is essential for formal diplomatic communications and international negotiations",
+        "전통 외교 수단의 지속 / Persistence of Traditional Diplomatic Tools: 21세기에도 \"케이블\"(전보)과 같은 전통적 외교 통신 수단이 여전히 사용되고 있음 / Traditional communication methods like diplomatic cables remain in use despite modern technology",
+        "외교 용어의 복잡성 / Complexity of Diplomatic Language: \"not/not\"과 같은 외교 용어의 미묘한 의미가 국제 관계에서 중요한 역할을 함 / Subtle diplomatic terminology carries significant implications in international relations and requires precise interpretation"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
+      "featured": false
+    },
+    {
+      "id": "a3d5cb0c4033",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "16일 전 / 16d ago",
+      "title": "‘Looking Backward’ to the Future",
+      "titleKo": "",
+      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
+      "featured": false
+    },
     {
       "id": "b18371f1abcc",
       "tag": "ai",
@@ -21,7 +142,7 @@
         "**투명성과 정당화** / Transparency and Justification: 추적 가능한 증거 기반의 명시적 인식론적 메타프레임워크를 통해 AI의 신뢰성과 설명 가능성 향상"
       ],
       "url": "https://arxiv.org/abs/2604.04937",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c86ac76c428c",
@@ -264,117 +385,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
-      "featured": false
-    },
-    {
-      "id": "190c60a440c8",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "18시간 전 / 18h ago",
-      "title": "Your vitamin D levels in midlife could shape your brain decades later",
-      "titleKo": "",
-      "summary": "Vitamin D levels in midlife may play a bigger role in long-term brain health than previously thought. In a study following nearly 800 people over 16 years, those with higher vitamin D levels in their 30s and 40s had lower levels of tau protein later on, a key marker linked to dementia.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260407073850.htm",
-      "featured": false
-    },
-    {
-      "id": "ffec2fac4070",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "19시간 전 / 19h ago",
-      "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
-      "titleKo": "",
-      "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive—until now. By identifying the gene SLC35F2 as the gateway into cells, this breakthrough opens new possibilities for therapies and highlights how diet and gut microbes profoundly shape human health.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260407004815.htm",
-      "featured": false
-    },
-    {
-      "id": "2ac0753dd633",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "18시간 전 / 18h ago",
-      "title": "Scientists just watched Alzheimer’s damage happen in real time",
-      "titleKo": "",
-      "summary": "Scientists at Oregon State University have captured something researchers have long struggled to see: the real-time chemical interactions that help drive Alzheimer’s disease. By watching how metal ions—especially copper—trigger harmful protein clumping in the brain, the team uncovered a clearer picture of how the disease develops at a molecular level.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192922.htm",
-      "featured": false
-    },
-    {
-      "id": "19d5dbf3ae48",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Can psychopaths change? New research suggests tailored treatments might work",
-      "titleKo": "정신병질자는 변할 수 있을까? 새로운 연구가 맞춤형 치료의 가능성을 제시하다",
-      "summary": "Psychopaths account for a disproportionate amount of violent crime, and early treatments frequently failed. Today, scientists are finding that specialized, strength-based therapies can help manage psychopathic traits, particularly when started early in childhood.",
-      "aiSummary": "This research addresses the fundamental question of whether psychopaths can change. Psychopaths are disproportionately involved in violent crime, and previous early treatment interventions have largely failed. Recent scientific findings suggest that specialized, strength-based therapies tailored to individual characteristics can effectively help manage psychopathic traits, particularly when initiated early in childhood. This approach represents a significant shift from conventional deficit-focused behavioral correction models toward positive, strength-centered treatment strategies. While the article does not provide specific statistics or participant numbers, the importance of early intervention is strongly emphasized. However, limitations include the lack of data on treatment effectiveness in adult psychopaths and insufficient long-term follow-up studies to confirm sustained behavioral changes.",
-      "aiSummaryKo": "이 연구는 정신병질자(사이코패스)가 과연 변할 수 있는지에 대한 의문에서 출발했습니다. 정신병질자들은 폭력범죄에 불균형적으로 많이 관여하고 있으며, 그동안 시도된 초기 치료들은 대부분 실패했습니다. 최근 과학자들의 연구에 따르면, 개인의 강점을 중심으로 설계된 맞춤형 치료가 정신병질 특성 관리에 효과적일 수 있으며, 특히 어린 시절부터 조기에 시작할 경우 더욱 효과적인 것으로 나타났습니다. 이는 기존의 부정적 행동 교정 중심 접근법과 달리, 긍정적 강점 기반 치료라는 새로운 방향성을 제시합니다. 연구의 구체적 통계나 참가자 규모는 기사에 명시되지 않았으나, 조기 개입의 중요성이 강조되고 있습니다. 다만 성인 정신병질자에 대한 치료 효과나 장기 추적 데이터의 부족이 한계로 지적될 수 있습니다.",
-      "aiSummaryEn": "This research addresses the fundamental question of whether psychopaths can change. Psychopaths are disproportionately involved in violent crime, and previous early treatment interventions have largely failed. Recent scientific findings suggest that specialized, strength-based therapies tailored to individual characteristics can effectively help manage psychopathic traits, particularly when initiated early in childhood. This approach represents a significant shift from conventional deficit-focused behavioral correction models toward positive, strength-centered treatment strategies. While the article does not provide specific statistics or participant numbers, the importance of early intervention is strongly emphasized. However, limitations include the lack of data on treatment effectiveness in adult psychopaths and insufficient long-term follow-up studies to confirm sustained behavioral changes.",
-      "keyPoints": [
-        "**조기 개입의 중요성** / Early Intervention is Critical",
-        "**강점 기반 치료의 효과성** / Effectiveness of Strength-Based Therapy",
-        "**치료 가능성의 재평가** / Reassessing Treatment Potential",
-        "**공중보건 및 범죄 예방의 함의** / Implications for Public Health and Crime Prevention"
-      ],
-      "url": "https://www.psypost.org/can-psychopaths-change-new-research-suggests-tailored-treatments-might-work/",
-      "featured": false
-    },
-    {
-      "id": "63240b002329",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
-      "titleKo": "IC3-Evolve: IC3 하드웨어 모델 검증을 위한 증명/증인 게이트 방식의 오프라인 대규모언어모델 기반 휴리스틱 진화",
-      "summary": "arXiv:2604.03232v1 Announce Type: new Abstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transition system complies with a given safety property. IC3 either returns UNSAFE (indicating property violation) with a counterexample trace, or SAFE with a checkable inductive invariant as the proof to safety. In practice, the performance of IC3 is dominated by a large web of interacting heuristics and implementation choices, making manual tuning costly, brittle, and hard to reproduce. This paper presen",
-      "aiSummary": "This research addresses the performance optimization challenge of the IC3 (Property-Directed Reachability) algorithm, which is widely used in hardware safety verification. IC3 verifies whether complex state transition systems satisfy safety properties, but manual tuning is extremely difficult due to dozens of interacting heuristics and implementation choices. The study presents IC3-Evolve, a novel approach that uses offline LLMs (Large Language Models) to automatically evolve heuristics based on proof traces and counterexample traces. This method resolves the cost and reproducibility issues of traditional manual heuristic tuning while improving algorithm performance across various hardware verification problems. The significance lies in applying AI technology to formal verification, substantially advancing the automation of complex system verification. However, the current study focuses on specific benchmark datasets, and validation across more diverse real-world hardware verification scenarios is necessary.\n\n##",
-      "aiSummaryKo": "본 연구는 하드웨어 안전성 검증에 널리 사용되는 IC3(Property-Directed Reachability) 알고리즘의 성능 최적화 문제를 다룹니다. IC3는 복잡한 상태 전이 시스템이 안전 속성을 만족하는지 검증하는 알고리즘이지만, 수십 개의 상호작용하는 휴리스틱(경험적 방법)과 구현 선택지로 인해 수동 조정이 매우 어렵습니다. 이 연구는 IC3-Evolve라는 새로운 접근법을 제시하며, 오프라인 방식의 LLM(대규모 언어모델)을 활용하여 증명 추적과 반례 추적을 기반으로 휴리스틱을 자동으로 진화시킵니다. 이 방법은 기존의 수동 휴리스틱 조정의 비용과 재현성 문제를 해결하고, 다양한 하드웨어 검증 문제에서 알고리즘의 성능을 향상시킬 수 있습니다. 이 연구의 의의는 AI 기술을 형식검증(formal verification)에 적용하여 복잡한 시스템 검증의 자동화를 크게 진전시킨다는 점입니다. 다만, 현재 연구는 특정 벤치마크 데이터셋에 초점을 맞추고 있으며, 더 다양한 실제 하드웨어 검증 시나리오에서의 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research addresses the performance optimization challenge of the IC3 (Property-Directed Reachability) algorithm, which is widely used in hardware safety verification. IC3 verifies whether complex state transition systems satisfy safety properties, but manual tuning is extremely difficult due to dozens of interacting heuristics and implementation choices. The study presents IC3-Evolve, a novel approach that uses offline LLMs (Large Language Models) to automatically evolve heuristics based on proof traces and counterexample traces. This method resolves the cost and reproducibility issues of traditional manual heuristic tuning while improving algorithm performance across various hardware verification problems. The significance lies in applying AI technology to formal verification, substantially advancing the automation of complex system verification. However, the current study focuses on specific benchmark datasets, and validation across more diverse real-world hardware verification scenarios is necessary.\n\n##",
-      "keyPoints": [
-        "**IC3 알고리즘의 휴리스틱 최적화 문제** / Challenge of optimizing multiple interacting heuristics in IC3 hardware model checking algorithm",
-        "**LLM 기반 자동 진화 방식** / Offline LLM-driven automatic evolution approach using proof and counterexample traces as guidance signals",
-        "**형식검증과 AI의 결합** / Integration of AI technology with formal verification to automate complex hardware safety verification",
-        "**자동화와 재현성 개선** / Eliminates costly manual tuning while improving reproducibility and adaptability across different verification problems"
-      ],
-      "url": "https://arxiv.org/abs/2604.03232",
-      "featured": false
-    },
-    {
-      "id": "446dc5e9931f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
-      "titleKo": "최소 집합 커버 문제의 구조적 분할: 메타휴리스틱 최적화를 위한 전체 원소 분해성 활용",
-      "summary": "arXiv:2604.03234v1 Announce Type: new Abstract: The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization problem with numerous applications in science and engineering. Although a wide range of exact, approximate, and metaheuristic approaches have been proposed, most methods implicitly treat MSCP instances as monolithic, overlooking potential intrinsic structural properties of the universe. In this work, we investigate the concept of \\emph{universe segmentability} in the MSCP and analyze how intrinsic structural decomposition (universe segmentability) can be exploi",
-      "aiSummary": "The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization challenge with extensive applications across science and engineering. Existing exact algorithms, approximation methods, and metaheuristic approaches typically treat problem instances as monolithic entities, overlooking the intrinsic structural properties embedded within the problem universe. This research introduces the concept of \"universe segmentability\" in MSCP and analyzes how decomposing the problem's inherent structure can be leveraged for improved metaheuristic optimization. The researchers demonstrate that decomposing the problem into multiple sub-problems can significantly enhance optimization efficiency. This approach offers a novel perspective on solving large-scale combinatorial optimization problems and has potential to substantially improve computational efficiency in real engineering applications. However, as the study is at the theoretical framework establishment stage, extensive experimental validation across diverse practical problems is required for further development.\n\n##",
-      "aiSummaryKo": "최소 집합 커버 문제(MSCP)는 과학과 공학 분야에서 광범위하게 응용되는 고전적인 조합 최적화 문제입니다. 기존의 정확한 알고리즘, 근사 알고리즘, 메타휴리스틱 방법들은 문제 인스턴스를 하나의 통합된 전체로 취급하여 문제에 내재된 구조적 성질을 간과해왔습니다. 본 연구는 MSCP에서 '우주 분할 가능성(universe segmentability)'이라는 개념을 도입하고, 문제의 내재적 구조 분해가 메타휴리스틱 최적화를 어떻게 활용될 수 있는지 분석합니다. 연구팀은 문제 구조를 여러 개의 부분 문제로 분해하는 방식을 통해 최적화 효율성을 향상시킬 수 있음을 보여줍니다. 이 접근법은 대규모 조합 최적화 문제 해결에 새로운 관점을 제시하며, 실제 공학 응용에서 계산 효율성을 크게 개선할 수 있는 잠재력을 지닙니다. 다만 연구는 이론적 프레임워크 수립 단계로, 다양한 실제 문제에 대한 광범위한 실험적 검증이 추가로 필요합니다.\n\n##",
-      "aiSummaryEn": "The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization challenge with extensive applications across science and engineering. Existing exact algorithms, approximation methods, and metaheuristic approaches typically treat problem instances as monolithic entities, overlooking the intrinsic structural properties embedded within the problem universe. This research introduces the concept of \"universe segmentability\" in MSCP and analyzes how decomposing the problem's inherent structure can be leveraged for improved metaheuristic optimization. The researchers demonstrate that decomposing the problem into multiple sub-problems can significantly enhance optimization efficiency. This approach offers a novel perspective on solving large-scale combinatorial optimization problems and has potential to substantially improve computational efficiency in real engineering applications. However, as the study is at the theoretical framework establishment stage, extensive experimental validation across diverse practical problems is required for further development.\n\n##",
-      "keyPoints": [
-        "**문제 재정의**: 최소 집합 커버 문제를 단순 통합형이 아닌 분할 가능한 구조로 재해석하여 기존 접근법의 한계 극복 / Problem reconceptualization: Reinterpreting MSCP as a decomposable rather than monolithic structure to overcome limitations of conventional approaches",
-        "**우주 분할 가능성 개념**: 문제의 내재적 구조(universe segmentability)를 활용하여 복잡한 조합 최적화 문제를 관리 가능한 부분 문제로 분해 / Universe segmentability concept: Leveraging intrinsic problem structure to decompose complex combinatorial problems into manageable sub-problems",
-        "**메타휴리스틱 효율성 개선**: 구조적 분해를 통해 메타휴리스틱 알고리즘의 탐색 효율성과 수렴 속도를 향상시킬 수 있는 가능성 제시 / Enhanced metaheuristic efficiency: Demonstrating potential to improve search efficiency and convergence speed of metaheuristic algorithms through structural decomposition",
-        "**실무 적용 잠재력**: 공학 응용 분야에서 대규모 최적화 문제의 계산 시간 및 자원 소비를 크게 절감할 수 있는 실질적 가치 제공 / Practical application potential: Offering substantial value in reducing computational time and resource consumption for large-scale optimization in engineering applications"
-      ],
-      "url": "https://arxiv.org/abs/2604.03234",
       "featured": false
     }
   ]
