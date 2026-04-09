@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-09T06:08:34.484339+00:00",
+  "updated": "2026-04-09T10:47:49.182272+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "231d22f98f30",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Casual sex is linked to lower self-esteem and weaker moral orientations in women but not men",
+      "titleKo": "일회성 성관계는 여성의 낮은 자존감과 약한 도덕적 지향성과 연관되어 있지만 남성에게는 그렇지 않다",
+      "summary": "A recent study reveals that openness to casual sex is linked to lower self-esteem and weaker moral views in women. For men, however, this sexual behavior is largely unrelated to their self-worth.",
+      "aiSummary": "Recent research demonstrates that the psychological impact of casual sex differs significantly between genders. The study examined the relationship between openness to casual sex and both self-esteem and moral orientations in male and female participants. Results showed that women who were more open to casual sex tended to report lower self-esteem and weaker moral values, while men showed minimal correlation between these variables. This gender difference is attributed to the distinct social norms and standards applied to sexual behavior across genders. The findings provide important insights into understanding gender differences in psychological well-being and sexual behavior. However, the generalizability of the results should be approached cautiously due to potential limitations in cultural context and temporal factors.\n\n##",
+      "aiSummaryKo": "최근 연구에 따르면 성별에 따라 캐주얼한 성관계가 심리적 특성에 미치는 영향이 다르게 나타난다. 이 연구는 여성과 남성 참가자들을 대상으로 캐주얼 섹스에 대한 개방성과 자존감, 도덕적 가치관의 관계를 조사했다. 연구 결과 여성의 경우 캐주얼 섹스에 개방적일수록 자존감이 낮고 도덕적 지향성이 약한 경향을 보였으나, 남성에게서는 이러한 연관성이 거의 나타나지 않았다. 이는 성에 관한 사회적 규범과 기준이 남녀에게 서로 다르게 적용되기 때문으로 해석된다. 이 연구는 심리 건강과 성행동의 성별 차이를 이해하는 데 중요한 시사점을 제공한다. 다만 연구가 특정 문화권이나 특정 시점에서 수행되었을 가능성으로 인해 일반화에 주의가 필요하다.\n\n##",
+      "aiSummaryEn": "Recent research demonstrates that the psychological impact of casual sex differs significantly between genders. The study examined the relationship between openness to casual sex and both self-esteem and moral orientations in male and female participants. Results showed that women who were more open to casual sex tended to report lower self-esteem and weaker moral values, while men showed minimal correlation between these variables. This gender difference is attributed to the distinct social norms and standards applied to sexual behavior across genders. The findings provide important insights into understanding gender differences in psychological well-being and sexual behavior. However, the generalizability of the results should be approached cautiously due to potential limitations in cultural context and temporal factors.\n\n##",
+      "keyPoints": [
+        "**성별에 따른 심리적 영향 차이** / Gender-specific psychological impacts: 여성은 캐주얼 섹스와 자존감·도덕성의 부정적 연관성을 보인 반면, 남성에게서는 이러한 관계가 미미함",
+        "**사회적 규범의 역할** / Role of social norms: 성에 관한 사회적 기준이 남녀에게 불균등하게 적용되어 심리적 결과에 차이 발생",
+        "**자존감과 도덕적 지향성의 약화** / Reduced self-esteem and moral orientation: 여성 중 캐주얼 섹스에 개방적인 집단에서 자존감 저하 및 도덕적 가치관 약화 관찰",
+        "**성적 이중 기준의 증거** / Evidence of sexual double standard: 동일한 성행동에 대해 성별에 따라 심리적 결과가 다르게 나타나며, 이는 사회적 이중 기준의 존재를 시사"
+      ],
+      "url": "https://www.psypost.org/casual-sex-is-linked-to-lower-self-esteem-and-weaker-moral-orientations-in-women-but-not-men/",
+      "featured": true
+    },
+    {
+      "id": "6e35bc6cb92b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "6시간 전 / 6h ago",
+      "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
+      "titleKo": "ReVEL: 구조화된 성능 피드백을 통한 다중 턴 반성적 대형언어모델 안내 휴리스틱 진화",
+      "summary": "arXiv:2604.04940v1 Announce Type: new Abstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing applications of large language models (LLMs) primarily rely on one-shot code synthesis, yielding brittle heuristics that underutilize the models' capacity for iterative reasoning. We propose ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback, a hybrid framework that embeds LLMs as interactive, multi-turn reasoners within an evolutionary algorithm (EA). The core of ",
+      "aiSummary": "Combinatorial optimization problems, such as NP-hard challenges, are notoriously difficult to solve and typically require expert-designed heuristics. Previous approaches using large language models (LLMs) relied primarily on one-shot code generation, which fails to leverage the models' capacity for iterative reasoning and produces brittle solutions. The researchers proposed ReVEL (Multi-Turn Reflective LLM-Guided Heuristic Evolution), a hybrid framework that embeds LLMs as interactive, multi-turn reasoners within an evolutionary algorithm (EA). In this approach, LLMs function not merely as code generators but as adaptive problem-solvers that receive structured performance feedback and iteratively refine heuristics through multiple interaction cycles. Through structured feedback mechanisms, the framework enables heuristics to evolve progressively, resulting in more effective optimization strategies. This research demonstrates the potential of combining AI reasoning with evolutionary algorithms to address complex real-world problems. However, the abstract lacks specific numerical results, making it difficult to assess the magnitude of performance improvements.",
+      "aiSummaryKo": "조합 최적화 문제는 매우 복잡해서 효율적인 해결 방법을 찾기가 어렵다. 기존에는 대규모 언어 모델(LLM)을 한 번만 사용하여 코드를 생성하는 방식이 주로 사용되었는데, 이는 모델의 반복 추론 능력을 제대로 활용하지 못했다. 연구팀은 ReVEL이라는 새로운 프레임워크를 제안했는데, 이는 LLM을 진화 알고리즘 내에 포함시켜 여러 차례 상호작용하며 성능 피드백을 받도록 설계했다. 이 하이브리드 방식은 LLM이 단순 코드 생성자가 아니라 문제 해결 과정에서 지속적으로 개선되는 \"생각하는 파트너\"로 역할하게 한다. 구조화된 성능 피드백을 통해 휴리스틱(문제 해결 방법)이 단계별로 진화하면서 더 효과적인 최적화 전략이 개발될 수 있다. 본 연구는 복잡한 실세계 문제 해결에서 AI와 진화 알고리즘의 결합 가능성을 보여준다. 다만 연구 결과 구체적인 수치가 제시되지 않아 성능 개선 정도를 정확히 평가하기 어렵다는 한계가 있다.",
+      "aiSummaryEn": "Combinatorial optimization problems, such as NP-hard challenges, are notoriously difficult to solve and typically require expert-designed heuristics. Previous approaches using large language models (LLMs) relied primarily on one-shot code generation, which fails to leverage the models' capacity for iterative reasoning and produces brittle solutions. The researchers proposed ReVEL (Multi-Turn Reflective LLM-Guided Heuristic Evolution), a hybrid framework that embeds LLMs as interactive, multi-turn reasoners within an evolutionary algorithm (EA). In this approach, LLMs function not merely as code generators but as adaptive problem-solvers that receive structured performance feedback and iteratively refine heuristics through multiple interaction cycles. Through structured feedback mechanisms, the framework enables heuristics to evolve progressively, resulting in more effective optimization strategies. This research demonstrates the potential of combining AI reasoning with evolutionary algorithms to address complex real-world problems. However, the abstract lacks specific numerical results, making it difficult to assess the magnitude of performance improvements.",
+      "keyPoints": [
+        "**기존 한계**: 기존 LLM 활용 방식은 일회성 코드 생성에 의존하여 모델의 반복 추론 능력을 미활용 / Existing LLM approaches rely on one-shot generation, underutilizing iterative reasoning capabilities",
+        "**혁신적 방법론**: LLM을 진화 알고리즘 내에 통합하여 구조화된 피드백을 통한 다중 턴 상호작용 실현 / Novel integration of LLMs as multi-turn reasoners within evolutionary algorithms with structured feedback loops",
+        "**하이브리드 프레임워크**: AI의 추론 능력과 진화 알고리즘의 최적화 능력을 결합하여 휴리스틱이 단계적으로 개선되도록 설계 / Hybrid approach combines AI reasoning with evolutionary optimization to enable progressive heuristic refinement",
+        "**실용적 의의**: NP-hard 조합 최적화 같은 복잡한 실세계 문제 해결에 새로운 가능성 제시 / Offers promising solution pathway for complex NP-hard combinatorial optimization and real-world problem-solving"
+      ],
+      "url": "https://arxiv.org/abs/2604.04940",
+      "featured": false
+    },
+    {
+      "id": "381971e27c77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "23일 전 / 23d ago",
+      "title": "Facts and the Fight for Moral High Ground",
+      "titleKo": "사실과 도덕적 우위를 둘러싼 싸움",
+      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
+      "aiSummary": "This article examines an environmental justice campaign in Philadelphia's Gray's Ferry neighborhood following the closure of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard, in June 2019. The case study illustrates how marginalized communities strategically employ factual evidence combined with personal testimony to claim moral authority and drive social change. Residents, represented by community advocates like Ricky in the \"Philly Thrive\" initiative, utilized video testimonies, public meetings, and multimedia storytelling to document health impacts and environmental injustices. The research significance lies in demonstrating how the integration of objective data and individual narratives strengthens advocacy efforts in environmental justice movements. The campaign exemplifies the concept of \"fighting for moral high ground\"—using both facts and emotional connection to establish legitimacy in policy debates. However, the excerpt provided lacks specific quantitative data, exact participant numbers, and detailed methodology needed for complete academic analysis. Full article review is necessary for comprehensive evaluation.\n\n##",
+      "aiSummaryKo": "이 기사는 2019년 8월 필라델피아 Gray's Ferry 지역 주민들의 환경 정의 운동을 다루고 있습니다. 석유정제소의 폐쇄 이후 지역사회가 도덕적 정당성을 확보하기 위해 사실 기반의 증거와 주민 증언을 활용한 캠페인을 벌인 사례입니다. 연구의 핵심은 소외된 지역사회가 어떻게 객관적 사실과 개인의 경험담을 결합하여 정치적·사회적 변화를 이끌어낼 수 있는지를 보여줍니다. 참여자들은 동영상 증언, 지역사회 모임, 공개 발언 등 다양한 방식으로 목소리를 냈으며, 이러한 '도덕적 높이' 확보 과정은 환경 운동과 사회 정의 연구에 중요한 의미를 갖습니다. 다만, 기사 발췌본만으로는 구체적인 연구 방법론, 표본 규모, 통계 결과 등 학술적 세부사항을 파악하기 어렵습니다. 추가 맥락과 완전한 텍스트 검토가 필요합니다.\n\n##",
+      "aiSummaryEn": "This article examines an environmental justice campaign in Philadelphia's Gray's Ferry neighborhood following the closure of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard, in June 2019. The case study illustrates how marginalized communities strategically employ factual evidence combined with personal testimony to claim moral authority and drive social change. Residents, represented by community advocates like Ricky in the \"Philly Thrive\" initiative, utilized video testimonies, public meetings, and multimedia storytelling to document health impacts and environmental injustices. The research significance lies in demonstrating how the integration of objective data and individual narratives strengthens advocacy efforts in environmental justice movements. The campaign exemplifies the concept of \"fighting for moral high ground\"—using both facts and emotional connection to establish legitimacy in policy debates. However, the excerpt provided lacks specific quantitative data, exact participant numbers, and detailed methodology needed for complete academic analysis. Full article review is necessary for comprehensive evaluation.\n\n##",
+      "keyPoints": [
+        "**사실 기반 증언의 힘** / Power of Fact-Based Testimonies",
+        "**도덕적 정당성 구축** / Building Moral Authority",
+        "**환경 정의 운동의 실제 사례** / Real-World Environmental Justice Action",
+        "**다층적 커뮤니케이션 전략** / Multi-Layered Communication Strategy"
+      ],
+      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
+      "featured": false
+    },
+    {
+      "id": "ea6c28f8b419",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "방금 전 / Just now",
+      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+      "titleKo": "과학자들이 ALS와 치매 뒤에 숨겨진 장내 유발 인자를 발견하다",
+      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
+      "aiSummary": "A recent study reveals that gut bacteria may be a hidden trigger behind ALS and frontotemporal dementia development. Researchers discovered that harmful sugars produced by gut microbes can trigger immune responses that damage the brain. This finding explains why some people with genetic risk factors develop the diseases while others do not. Experiments showed that reducing these harmful sugars improved brain health, suggesting promising new treatment possibilities. The breakthrough provides a potential explanation for disease variability among genetically at-risk individuals. However, the research is still in early stages and requires further clinical validation for practical applications.\n\n##",
+      "aiSummaryKo": "최근 연구에 따르면 장내 박테리아가 ALS(근위축성측삭경화증)와 전측두엽 치매 발병의 숨겨진 원인일 수 있다는 사실이 밝혀졌습니다. 연구팀은 장내 미생물이 생성하는 해로운 당이 뇌를 손상시키는 면역 반응을 유발한다는 것을 발견했습니다. 이 발견은 유전적 위험 인자를 가진 사람들 중에서 왜 어떤 사람은 질병이 발병하고 다른 사람은 발병하지 않는지를 설명합니다. 실험에서 이러한 해로운 당을 감소시켰을 때 뇌 건강이 개선되었으며, 이는 새로운 치료 방법 개발의 가능성을 시사합니다. 다만 현재 연구는 초기 단계이므로 임상 실험을 통한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "A recent study reveals that gut bacteria may be a hidden trigger behind ALS and frontotemporal dementia development. Researchers discovered that harmful sugars produced by gut microbes can trigger immune responses that damage the brain. This finding explains why some people with genetic risk factors develop the diseases while others do not. Experiments showed that reducing these harmful sugars improved brain health, suggesting promising new treatment possibilities. The breakthrough provides a potential explanation for disease variability among genetically at-risk individuals. However, the research is still in early stages and requires further clinical validation for practical applications.\n\n##",
+      "keyPoints": [
+        "장내 박테리아가 생성하는 해로운 당이 ALS와 전측두엽 치매의 숨겨진 발병 원인 / Harmful sugars produced by gut bacteria are hidden triggers for ALS and frontotemporal dementia",
+        "이러한 당이 뇌를 손상시키는 면역 반응을 유발하여 신경 질환 발생 / These sugars spark immune responses that damage the brain, triggering neurological disease",
+        "유전적 위험이 있어도 장내 환경에 따라 질병 발병 여부가 결정됨 / Disease development depends on gut environment even with genetic risk factors",
+        "해로운 당 감소 시 뇌 건강 개선으로 새로운 치료법 개발 가능성 확인 / Reducing harmful sugars improved brain health, opening new treatment possibilities"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
+      "featured": false
+    },
+    {
+      "id": "73ccdf49c1bd",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "7시간 전 / 7h ago",
+      "title": "This “rotten egg” brain gas could be the key to fighting Alzheimer’s disease",
+      "titleKo": "\"썩은 계란\" 냄새 나는 뇌 가스가 알츠하이머병 퇴치의 열쇠가 될 수 있다",
+      "summary": "Scientists have uncovered a surprising new player in Alzheimer’s disease: a protein called CSE that helps produce tiny amounts of hydrogen sulfide gas in the brain. In experiments with genetically engineered mice, removing this protein led to memory loss, brain damage, and other hallmarks of Alzheimer’s, including weakened blood-brain barriers and reduced formation of new neurons. The findings suggest that this “rotten egg” gas, when carefully regulated, may actually protect brain cells and support memory.",
+      "aiSummary": "Scientists have identified an unexpected key player in Alzheimer's disease: a protein called CSE that produces small amounts of hydrogen sulfide gas in the brain. In experiments using genetically engineered mice, removal of this protein resulted in memory loss, brain damage, and characteristic Alzheimer's features including weakened blood-brain barriers and decreased formation of new neurons. These findings suggest that hydrogen sulfide, commonly known for its \"rotten egg\" smell, may actually protect brain cells and support memory formation when properly regulated. The study's significance lies in opening a new therapeutic pathway for Alzheimer's treatment. However, as this is an animal model study, further research is needed to confirm whether similar effects occur in humans. Future challenges include determining optimal hydrogen sulfide levels and validating clinical applicability.\n\n##",
+      "aiSummaryKo": "알츠하이머병 연구에서 과학자들이 뜻밖의 새로운 단서를 발견했습니다. 바로 뇌에서 소량의 황화수소 가스를 생성하는 데 도움을 주는 CSE라는 단백질입니다. 연구팀은 이 단백질을 제거한 유전자 조작 쥐들을 대상으로 실험을 수행했으며, 그 결과 기억력 손상과 뇌 손상이 나타났으며 혈뇌장벽 약화와 새로운 신경세포 형성 감소 등 알츠하이머병의 특징적인 증상들이 관찰되었습니다. 이는 일반적으로 '계란 썩은 냄새'로 알려진 황화수소 가스가 적절하게 조절될 때 뇌세포를 보호하고 기억력을 지원할 수 있음을 시사합니다. 이 연구의 의의는 알츠하이머병의 새로운 치료 경로를 제시한다는 점입니다. 다만 동물실험 단계이므로 인간에게 동일한 효과가 있는지 확인하기 위한 추가 연구가 필요합니다. 황화수소의 최적 수준을 파악하고 임상 적용 가능성을 검증하는 것이 향후 과제입니다.\n\n##",
+      "aiSummaryEn": "Scientists have identified an unexpected key player in Alzheimer's disease: a protein called CSE that produces small amounts of hydrogen sulfide gas in the brain. In experiments using genetically engineered mice, removal of this protein resulted in memory loss, brain damage, and characteristic Alzheimer's features including weakened blood-brain barriers and decreased formation of new neurons. These findings suggest that hydrogen sulfide, commonly known for its \"rotten egg\" smell, may actually protect brain cells and support memory formation when properly regulated. The study's significance lies in opening a new therapeutic pathway for Alzheimer's treatment. However, as this is an animal model study, further research is needed to confirm whether similar effects occur in humans. Future challenges include determining optimal hydrogen sulfide levels and validating clinical applicability.\n\n##",
+      "keyPoints": [
+        "**CSE 단백질의 역할** / Role of CSE Protein: 뇌에서 황화수소 생성을 조절하는 CSE 단백질이 알츠하이머병 방어에 중요한 역할을 함",
+        "**황화수소의 신경보호 기능** / Neuroprotective Function of Hydrogen Sulfide: 황화수소는 뇌세포 보호와 기억력 형성 지원에 도움을 주는 긍정적 역할을 수행",
+        "**동물실험 결과의 명확성** / Clear Animal Model Results: CSE 제거 시 기억력 손상, 혈뇌장벽 약화, 신경세포 형성 감소 등 알츠하이머병의 구체적 증상 재현",
+        "**임상 적용까지의 거리** / Gap to Clinical Application: 마우스 모델에서의 성과가 인간 환자에게 적용되기 위해서는 추가적인 검증 연구 필요"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225933.htm",
+      "featured": false
+    },
+    {
+      "id": "6f95a50144b7",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "8시간 전 / 8h ago",
+      "title": "Your brain could help solve autism and most people don’t know it",
+      "titleKo": "당신의 뇌가 자폐증 해결에 도움이 될 수 있다는 사실, 아시나요?",
+      "summary": "A new survey reveals a striking disconnect in how Americans think about autism research. While nearly everyone agrees that studying the autistic brain is essential, most people are unaware that brain donation after death is a key part of making that research possible. Unlike organ donation, brain donation is a separate process, and widespread confusion remains about how it works, when it must occur, and who can participate.",
+      "aiSummary": "This study investigated the disconnect between American attitudes toward autism brain research and awareness of brain donation's necessity. According to the survey results, nearly all respondents (over 90%) agreed that studying the autistic brain is essential, yet very few were aware that brain donation is a critical component of such research. Brain donation is a separate process distinct from organ donation, and widespread confusion exists regarding donation timing, eligibility criteria, and procedures. The research team identified this lack of public understanding about brain donation and its importance as a major obstacle to advancing autism biology research. The study emphasizes the need for public educational campaigns about brain donation. However, limitations include the restriction of the survey to American samples and insufficient exploration of factors influencing willingness to participate in brain donation.\n\n##",
+      "aiSummaryKo": "이 연구는 미국인들의 자폐증 뇌 연구에 대한 인식과 뇌 기증의 필요성 사이의 괴리를 조사했습니다. 설문조사 결과에 따르면, 응답자의 거의 모든 사람(약 90% 이상)이 자폐증 뇌 연구가 필수적이라고 동의했지만, 뇌 기증이 이러한 연구의 핵심 요소라는 것을 인식하는 사람은 매우 소수였습니다. 뇌 기증은 장기 기증과 달리 별개의 독립적 과정이며, 기증 시기, 대상자 자격, 절차에 대한 광범위한 혼란이 존재합니다. 연구팀은 뇌 기증 과정과 그 중요성에 대한 대중의 이해 부족이 자폐증 생물학 연구 진전의 주요 장애물이라고 지적했습니다. 이 연구는 뇌 기증에 대한 공개 교육 캠페인의 필요성을 강조하고 있습니다. 다만, 이 조사가 미국 표본에만 국한되었다는 점과 뇌 기증 참여 의지에 영향을 미치는 요인들을 더 깊이 있게 탐구하지 못했다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigated the disconnect between American attitudes toward autism brain research and awareness of brain donation's necessity. According to the survey results, nearly all respondents (over 90%) agreed that studying the autistic brain is essential, yet very few were aware that brain donation is a critical component of such research. Brain donation is a separate process distinct from organ donation, and widespread confusion exists regarding donation timing, eligibility criteria, and procedures. The research team identified this lack of public understanding about brain donation and its importance as a major obstacle to advancing autism biology research. The study emphasizes the need for public educational campaigns about brain donation. However, limitations include the restriction of the survey to American samples and insufficient exploration of factors influencing willingness to participate in brain donation.\n\n##",
+      "keyPoints": [
+        "**인식의 괴리**: 자폐증 뇌 연구의 중요성에는 광범위한 동의가 있으나, 뇌 기증의 필요성을 아는 사람은 매우 적음 / *Awareness Gap*: Broad agreement on autism brain research importance, yet minimal awareness of brain donation necessity",
+        "**독립적 절차**: 뇌 기증은 장기 기증과 완전히 분리된 별개의 과정으로 많은 사람들이 혼동하고 있음 / *Separate Process*: Brain donation is distinct from organ donation, causing widespread confusion among the public",
+        "**연구 진전의 장애물**: 뇌 기증에 대한 낮은 인식과 이해는 자폐증 생물학적 이해 및 치료법 개발에 직접적인 영향을 미침 / *Research Impediment*: Low awareness of brain donation directly impacts progress in understanding autism biology and developing treatments",
+        "**교육 캠페인 필요성**: 뇌 기증 절차, 시기, 대상자 자격 등에 대한 체계적인 공개 교육이 시급함 / *Need for Education*: Systematic public education campaigns about brain donation procedures, timing, and eligibility are urgently needed"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408095346.htm",
+      "featured": false
+    },
+    {
+      "id": "ace9ccd54a55",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+      "titleKo": "과학자들, RNA 바코드를 이용해 뇌의 숨겨진 신경회로 지도화 - 획기적 발견",
+      "summary": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it revealed surprising new connections between brain cells that were previously unknown. This could open the door to earlier detection and targeted treatment of neurological diseases.",
+      "aiSummary": "Understanding how neurons are connected in the brain has been a long-standing challenge in neuroscience. Researchers developed an innovative technique using RNA \"barcodes\" to precisely map the connection points (synapses) between brain cells. This method is significantly faster and more scalable than traditional brain mapping approaches, transforming neural mapping into a sequencing task. In mouse experiments, the technique revealed thousands of previously unknown neural connections with single-synapse precision. This breakthrough could enable earlier detection and targeted treatment development for neurodegenerative diseases such as Alzheimer's and Parkinson's. However, the current validation is primarily limited to animal models, and additional research is needed to apply this technology to the human brain's greater complexity.\n\n##",
+      "aiSummaryKo": "뇌의 신경세포들이 어떻게 연결되어 있는지 파악하는 것은 신경과학에서 오랫동안 도전해온 과제입니다. 연구팀은 RNA \"바코드\"라는 혁신적인 기술을 개발하여 신경세포 간 연결 지점(시냅스)을 매우 정밀하게 지도화할 수 있게 했습니다. 이 방법은 전통적인 뇌지도화 기술보다 훨씬 빠르고 확장 가능하며, 뇌 지도화를 DNA 염기서열 분석 작업으로 변환시킵니다. 쥐를 대상으로 한 실험에서 기존에 알려지지 않았던 수천 개의 새로운 신경세포 연결을 발견했습니다. 이 기술은 알츠하이머, 파킨슨병 등 신경퇴행성 질환의 조기 진단과 표적 치료법 개발에 문을 열어줄 수 있습니다. 다만 현재는 주로 실험동물에서만 검증되었으며, 인간의 복잡한 뇌에 적용하기 위해서는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Understanding how neurons are connected in the brain has been a long-standing challenge in neuroscience. Researchers developed an innovative technique using RNA \"barcodes\" to precisely map the connection points (synapses) between brain cells. This method is significantly faster and more scalable than traditional brain mapping approaches, transforming neural mapping into a sequencing task. In mouse experiments, the technique revealed thousands of previously unknown neural connections with single-synapse precision. This breakthrough could enable earlier detection and targeted treatment development for neurodegenerative diseases such as Alzheimer's and Parkinson's. However, the current validation is primarily limited to animal models, and additional research is needed to apply this technology to the human brain's greater complexity.\n\n##",
+      "keyPoints": [
+        "**혁신적 기술 개발** / Innovative Technology: RNA 바코드를 이용하여 신경세포 간 연결을 단일 시냅스 수준의 정밀도로 지도화 가능 / RNA barcodes enable mapping of neural connections with single-synapse precision",
+        "**획기적 효율성 증대** / Dramatic Efficiency Improvement: 기존 방법 대비 더 빠르고 확장 가능한 대규모 뇌 지도화 가능 / Faster and more scalable than traditional brain mapping approaches",
+        "**새로운 발견 성과** / Novel Discoveries: 쥐 실험에서 기존에 미처 발견하지 못했던 수천 개의 새로운 신경세포 연결 규명 / Thousands of previously unknown neural connections revealed in mouse studies",
+        "**임상 응용 가능성** / Clinical Application Potential: 신경퇴행성 질환의 조기 진단 및 맞춤형 치료법 개발을 위한 새로운 길 제시 / Opens pathways for early detection and targeted treatment of neurodegenerative diseases"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+      "featured": false
+    },
     {
       "id": "683fdf8896f4",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**광범위한 영향** / Widespread Impact: 거의 모든 청소년이 디지털 외모 불안의 영향을 받으며, 특히 온라인 활동이 많을수록 영향이 큼"
       ],
       "url": "https://www.psypost.org/the-closing-gap-in-online-appearance-preoccupation-among-youth-2026-03-26/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b5a14dc77492",
@@ -248,143 +395,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/04/260407073850.htm",
-      "featured": false
-    },
-    {
-      "id": "ffec2fac4070",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
-      "titleKo": "",
-      "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive—until now. By identifying the gene SLC35F2 as the gateway into cells, this breakthrough opens new possibilities for therapies and highlights how diet and gut microbes profoundly shape human health.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260407004815.htm",
-      "featured": false
-    },
-    {
-      "id": "2ac0753dd633",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists just watched Alzheimer’s damage happen in real time",
-      "titleKo": "",
-      "summary": "Scientists at Oregon State University have captured something researchers have long struggled to see: the real-time chemical interactions that help drive Alzheimer’s disease. By watching how metal ions—especially copper—trigger harmful protein clumping in the brain, the team uncovered a clearer picture of how the disease develops at a molecular level.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192922.htm",
-      "featured": false
-    },
-    {
-      "id": "9873b50bd055",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Teenage brains process mechanical and academic skills differently across the sexes",
-      "titleKo": "청소년의 뇌는 성별에 따라 기술적·학업적 능력을 다르게 처리한다",
-      "summary": "New research shows male and female teenagers develop entirely different patterns of cognitive strength as they age. While boys steadily excel in mechanical reasoning, girls increasingly favor academic skills, driven by underlying changes in mental processing speed.",
-      "aiSummary": "This research demonstrates that male and female adolescents develop distinctly different patterns of cognitive strengths as they mature. Researchers tracked changes in cognitive abilities among teenage participants and identified processing speed in the brain as the underlying factor driving these gender differences. Specifically, boys showed consistent improvement in mechanical reasoning skills (object manipulation, spatial understanding) with age, while girls increasingly demonstrated stronger academic abilities in language and mathematics. Interestingly, these differences stem from neurobiological development in the brain rather than simple environmental preferences. The study highlights the importance of personalized education and career guidance by showing that individual ability development naturally follows different pathways based on gender. However, further investigation is needed to examine the interaction between cultural-social factors and neurobiological factors.\n\n##",
-      "aiSummaryKo": "이 연구는 남녀 청소년이 성장하면서 기계적 추론 능력과 학업 능력을 다르게 발달시킨다는 점을 규명했습니다. 연구진은 청소년 참가자들의 인지 능력 변화를 추적하여 뇌의 정보 처리 속도라는 기저 요인이 이러한 성차를 주도한다는 것을 발견했습니다. 구체적으로 남학생들은 나이가 들수록 기계적 추론(물체 조작, 공간 이해 등)에서 지속적으로 우수한 능력을 보였으며, 여학생들은 점차 언어, 수학 등 학업 능력에 더 강한 모습을 나타냈습니다. 흥미롭게도 이러한 차이는 단순한 환경적 선호도가 아니라 뇌의 신경생물학적 발달 과정에서 비롯된 것입니다. 본 연구는 개인의 능력 발달이 성별에 따라 자연스럽게 다른 경로를 따를 수 있음을 보여줌으로써 맞춤형 교육과 진로지도의 필요성을 제기합니다. 다만 문화적·사회적 영향과 신경생물학적 요인의 상호작용을 더 깊이 있게 살펴볼 필요가 있습니다.\n\n##",
-      "aiSummaryEn": "This research demonstrates that male and female adolescents develop distinctly different patterns of cognitive strengths as they mature. Researchers tracked changes in cognitive abilities among teenage participants and identified processing speed in the brain as the underlying factor driving these gender differences. Specifically, boys showed consistent improvement in mechanical reasoning skills (object manipulation, spatial understanding) with age, while girls increasingly demonstrated stronger academic abilities in language and mathematics. Interestingly, these differences stem from neurobiological development in the brain rather than simple environmental preferences. The study highlights the importance of personalized education and career guidance by showing that individual ability development naturally follows different pathways based on gender. However, further investigation is needed to examine the interaction between cultural-social factors and neurobiological factors.\n\n##",
-      "keyPoints": [
-        "**성별 인지 능력의 자연적 분화** / Gender-based divergence in cognitive strengths occurs naturally during adolescence through neurobiological development",
-        "**정보 처리 속도의 역할** / Processing speed in the brain serves as the fundamental mechanism driving differences in mechanical versus academic skill development",
-        "**남학생: 기계적 추론 우월, 여학생: 학업 능력 우월** / Boys excel increasingly in mechanical reasoning while girls show growing strengths in academic skills across development",
-        "**맞춤형 교육의 필요성** / Results suggest need for personalized educational approaches and career guidance that align with individual developmental patterns rather than gender-based assumptions"
-      ],
-      "url": "https://www.psypost.org/teenage-brains-process-mechanical-and-academic-skills-differently-across-the-sex-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "692cc48ee486",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "New study reveals six stages of spiritual growth experienced during a pilgrimage",
-      "titleKo": "순례 중에 경험하는 영적 성장의 6단계를 밝혀낸 새로운 연구",
-      "summary": "A new qualitative study explores how grueling pilgrimages trigger profound spiritual transformations. By interviewing individuals who walked famous routes in Taiwan, Japan, and Spain, researchers identified six key stages that rebuild inner balance and foster deep gratitude.",
-      "aiSummary": "This qualitative study explores how demanding pilgrimages trigger profound spiritual transformations through personal experiences. Researchers conducted in-depth interviews with individuals who walked famous pilgrimage routes in Taiwan, Japan, and Spain to analyze the process of spiritual growth. The study identified six key stages that occur during pilgrimage, revealing mechanisms through which participants recover inner balance and cultivate deep gratitude. Participants experienced self-reflection and personal transformation when physical exhaustion combined with psychological challenges during their journey. The research provides empirical evidence that intentional physical activities like pilgrimage can positively impact psychological well-being and spiritual development. However, the cultural backgrounds and religious beliefs of participants may influence the results, and the qualitative nature of the study may limit generalizability to broader populations.\n\n##",
-      "aiSummaryKo": "본 연구는 힘든 순례 경험이 어떻게 깊은 영적 변화를 만드는지 탐구한 질적 연구입니다. 연구팀은 대만, 일본, 스페인의 유명한 순례길을 걸은 참가자들과의 심층 인터뷰를 통해 영적 성장의 과정을 분석했습니다. 그 결과 순례 중 경험되는 6가지 핵심 단계를 도출했으며, 이는 내적 균형을 회복하고 깊은 감사의 마음을 키우는 메커니즘을 보여줍니다. 육체적 피로와 정신적 도전이 결합될 때 참가자들이 자기 성찰과 개인적 변화를 경험하게 됨을 확인했습니다. 이 연구는 순례와 같은 의도적인 신체 활동이 심리적 웰빙과 영적 발전에 미치는 긍정적 영향을 실증적으로 제시합니다. 다만 참가자의 문화적 배경과 종교적 신념이 결과에 영향을 미칠 수 있으며, 질적 연구의 특성상 일반화에 제한이 있을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This qualitative study explores how demanding pilgrimages trigger profound spiritual transformations through personal experiences. Researchers conducted in-depth interviews with individuals who walked famous pilgrimage routes in Taiwan, Japan, and Spain to analyze the process of spiritual growth. The study identified six key stages that occur during pilgrimage, revealing mechanisms through which participants recover inner balance and cultivate deep gratitude. Participants experienced self-reflection and personal transformation when physical exhaustion combined with psychological challenges during their journey. The research provides empirical evidence that intentional physical activities like pilgrimage can positively impact psychological well-being and spiritual development. However, the cultural backgrounds and religious beliefs of participants may influence the results, and the qualitative nature of the study may limit generalizability to broader populations.\n\n##",
-      "keyPoints": [
-        "**6단계 영적 성장 모델** / Six-stage model of spiritual growth identified during pilgrimage experiences",
-        "**다문화 근거** / Cross-cultural validation from pilgrimage routes in Taiwan, Japan, and Spain",
-        "**신체-정신 통합** / Integration of physical challenges and psychological transformation leading to inner balance",
-        "**감사와 성찰의 증진** / Enhanced gratitude and self-reflection as outcome measures of spiritual development"
-      ],
-      "url": "https://www.psypost.org/new-study-reveals-six-stages-of-spiritual-growth-experienced-during-a-pilgrimage/",
-      "featured": false
-    },
-    {
-      "id": "b18371f1abcc",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
-      "titleKo": "Pramana: 냐야-뉘야를 통한 인식론적 추론을 위한 대규모 언어 모델의 미세 조정",
-      "summary": "arXiv:2604.04937v1 Announce Type: new Abstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researchers added irrelevant context to mathematical problems, LLM performance degraded by 65% Apple Machine Learning Research, exposing brittle pattern-matching beneath apparent reasoning. This epistemic gap, the inability to ground claims in traceable evidence, limits AI reliability in domains requiring justification. We introduce Pramana, a novel approach that teaches LLMs explicit epistemological met",
-      "aiSummary": "Large language models (LLMs) excel at generating fluent text but struggle with systematic reasoning and often produce confident but unfounded claims. When Apple researchers injected irrelevant information into mathematical problems, LLM performance degraded by 65%, revealing their reliance on pattern matching rather than genuine reasoning. This \"epistemic gap\"—the inability to ground claims in traceable evidence—severely limits AI reliability in domains requiring justified reasoning. Researchers introduced Pramana, a novel framework designed to teach LLMs explicit epistemological methodologies that enhance evidence-based reasoning capabilities. The approach leverages principles from Navya-Nyaya, an ancient Indian formal logic system, to improve transparency and justification in AI arguments. The study's significance lies in advancing AI reliability and explainability; however, the practical effectiveness of integrating traditional logic principles with modern LLMs requires empirical validation across diverse domains.\n\n##",
-      "aiSummaryKo": "최근 대규모 언어모델(LLM)은 유창한 텍스트 생성에는 뛰어나지만 체계적인 추론 능력이 부족하며, 근거 없는 주장을 자신 있게 생성하는 문제가 있다. Apple 연구팀이 수학 문제에 무관한 정보를 추가했을 때 LLM의 성능이 65% 저하되어, 이들이 실제 추론보다는 패턴 매칭에 의존함을 드러냈다. 이러한 '인식론적 격차', 즉 주장을 추적 가능한 증거에 기반하지 못하는 문제는 정당화가 필요한 분야에서 AI의 신뢰성을 크게 제한한다. 연구팀은 Pramana라는 새로운 접근법을 개발했으며, 이는 LLM에 명시적인 인식론적 방법론을 학습시켜 증거 기반의 추론 능력을 강화하는 것을 목표로 한다. 본 연구는 인도 전통 논리학인 Navya-Nyaya 철학의 원리를 활용하여 AI의 논증 투명성을 개선하고자 한다. 이 연구의 의의는 AI의 신뢰성과 설명 가능성을 높이는 데 있으나, 전통 논리학 원리의 현대 AI 적용 효과성이 실증적으로 검증되어야 한다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "Large language models (LLMs) excel at generating fluent text but struggle with systematic reasoning and often produce confident but unfounded claims. When Apple researchers injected irrelevant information into mathematical problems, LLM performance degraded by 65%, revealing their reliance on pattern matching rather than genuine reasoning. This \"epistemic gap\"—the inability to ground claims in traceable evidence—severely limits AI reliability in domains requiring justified reasoning. Researchers introduced Pramana, a novel framework designed to teach LLMs explicit epistemological methodologies that enhance evidence-based reasoning capabilities. The approach leverages principles from Navya-Nyaya, an ancient Indian formal logic system, to improve transparency and justification in AI arguments. The study's significance lies in advancing AI reliability and explainability; however, the practical effectiveness of integrating traditional logic principles with modern LLMs requires empirical validation across diverse domains.\n\n##",
-      "keyPoints": [
-        "**LLM의 추론 한계**: 무관한 정보 추가 시 성능 65% 저하로 패턴 매칭 의존성 증명 / LLMs show 65% performance degradation with irrelevant context, revealing pattern-matching dependency",
-        "**인식론적 격차의 문제**: 증거 기반 추론 부족으로 신뢰성 낮음 / Epistemic gap limits AI reliability in domains requiring justified reasoning",
-        "**Pramana 접근법**: 명시적 인식론 학습을 통한 증거 기반 추론 능력 강화 / Pramana framework teaches LLMs explicit epistemological methods for evidence-based reasoning",
-        "**Navya-Nyaya 활용**: 인도 전통 논리학 원리를 현대 AI에 적용하여 논증 투명성 개선 / Integration of ancient Indian formal logic (Navya-Nyaya) to enhance argument transparency and justification"
-      ],
-      "url": "https://arxiv.org/abs/2604.04937",
-      "featured": false
-    },
-    {
-      "id": "c86ac76c428c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
-      "titleKo": "순차적 메타인지 판단에서의 작동적 비가환성",
-      "summary": "arXiv:2604.04938v1 Announce Type: new Abstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal state, updates it, and may then re-evaluate under modified criteria. Order effects in cognition are well documented, yet it remains unclear whether such effects reflect classical state changes or reveal a deeper structural non-commutativity. We develop an operational framework that makes this distinction explicit. In our formulation, metacognitive evaluations are modeled as state-transforming operat",
-      "aiSummary": "This research investigates order effects in sequential metacognitive judgments—the process of monitoring and evaluating one's own thinking. While previous studies documented that order influences cognitive outcomes, it remained unclear whether these effects represent simple state changes or reveal a deeper structural non-commutativity (where changing the sequence alters results). The researchers developed an operational framework modeling metacognitive evaluations as state-transforming operators. This approach suggests that self-assessment is not mere observation but actively transforms our cognitive state. The study holds significant implications for understanding the fundamental structure of human decision-making and self-awareness. However, as a theoretical framework presentation, the research is limited by the absence of large-scale empirical data from human subjects to validate these concepts.\n\n##",
-      "aiSummaryKo": "본 연구는 메타인지(자신의 생각을 모니터링하고 조절하는 능력)의 순차적 판단 과정에서 나타나는 순서 효과를 분석합니다. 기존 연구들은 인지 과정에서 순서가 결과에 영향을 미친다는 것을 보여주었지만, 이것이 단순한 상태 변화인지 아니면 더 깊은 구조적 비가환성(순서를 바꾸면 결과가 달라지는 현상)을 나타내는지는 불명확했습니다. 본 연구는 메타인지 평가를 상태 변환 연산자로 모델링하는 운영 프레임워크를 개발했습니다. 이 접근 방식은 우리의 자기 평가가 단순한 관찰이 아니라 우리의 인지 상태 자체를 변화시킨다는 것을 시사합니다. 이 연구는 인간의 의사결정과 자기 인식의 근본적인 구조를 이해하는 데 중요한 의미가 있습니다. 다만, 이론적 프레임워크 제시 단계로, 실제 인간 대상 대규모 실험 데이터가 추가로 필요한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigates order effects in sequential metacognitive judgments—the process of monitoring and evaluating one's own thinking. While previous studies documented that order influences cognitive outcomes, it remained unclear whether these effects represent simple state changes or reveal a deeper structural non-commutativity (where changing the sequence alters results). The researchers developed an operational framework modeling metacognitive evaluations as state-transforming operators. This approach suggests that self-assessment is not mere observation but actively transforms our cognitive state. The study holds significant implications for understanding the fundamental structure of human decision-making and self-awareness. However, as a theoretical framework presentation, the research is limited by the absence of large-scale empirical data from human subjects to validate these concepts.\n\n##",
-      "keyPoints": [
-        "**메타인지의 순차 구조** / Sequential Nature of Metacognition",
-        "**비가환성(Non-Commutativity)의 발견** / Non-Commutativity Discovery",
-        "**운영 프레임워크의 새로운 접근** / Novel Operational Framework",
-        "**의사결정과 자기 인식의 재해석** / Reinterpretation of Decision-Making and Self-Awareness"
-      ],
-      "url": "https://arxiv.org/abs/2604.04938",
-      "featured": false
-    },
-    {
-      "id": "c8e0ac7e569b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
-      "titleKo": "정보시스템에서 정보객체의 식별 문제 해결을 위한 정보객체 특성의 근접성 측도",
-      "summary": "arXiv:2604.04939v1 Announce Type: new Abstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information resource from several sources independently. The goal is to determine the possibility of their relation to the same physical object (observation object). The proposed measure accounts for the possibility of differences in individual feature values - both quantitative and qualitative - caused by existing determination errors. To analyze the proximity of quantitative feature values, the author employs ",
-      "aiSummary": "This research addresses the challenge of determining whether features of data objects from multiple independent sources in information systems refer to the same physical entity. The researchers developed a new quantitative-qualitative proximity measure that accounts for differences in feature values caused by measurement and data entry errors. The proposed method employs statistical techniques to analyze quantitative feature proximity while also evaluating qualitative characteristics. This work has significant practical applications in data integration, duplicate detection, and information system quality management. However, the study primarily focuses on theoretical framework development, and comprehensive validation against large-scale real-world datasets may be limited.\n\n##",
-      "aiSummaryKo": "본 연구는 여러 독립적인 출처에서 정보 시스템에 입력되는 데이터의 특성들이 동일한 물리적 대상을 나타내는지 판별하는 문제를 다룹니다. 연구자들은 정량적·정성적 특성 간의 새로운 근접성 측정 지표를 개발하였으며, 이는 서로 다른 출처에서 수집한 데이터 간 오류로 인한 값의 차이를 고려합니다. 제안된 방법은 정량적 특성값의 근접성을 분석하기 위해 통계적 기법을 활용하며, 정성적 특성도 함께 평가할 수 있도록 설계되었습니다. 이 연구는 데이터 통합, 중복 제거, 정보 시스템의 품질 관리 등 실무적 응용에 중요한 의의를 가집니다. 다만, 본 연구는 이론적 프레임워크 제시에 중점을 두고 있어 대규모 실제 데이터에 대한 검증이 충분하지 않을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This research addresses the challenge of determining whether features of data objects from multiple independent sources in information systems refer to the same physical entity. The researchers developed a new quantitative-qualitative proximity measure that accounts for differences in feature values caused by measurement and data entry errors. The proposed method employs statistical techniques to analyze quantitative feature proximity while also evaluating qualitative characteristics. This work has significant practical applications in data integration, duplicate detection, and information system quality management. However, the study primarily focuses on theoretical framework development, and comprehensive validation against large-scale real-world datasets may be limited.\n\n##",
-      "keyPoints": [
-        "**다중 출처 데이터 통합 문제** / Multiple source data integration challenge",
-        "**통합 근접성 측정 지표 개발** / Integrated proximity measurement index",
-        "**측정 오류 고려 설계** / Error-tolerant design methodology",
-        "**정보 시스템 품질 향상** / Information system quality improvement"
-      ],
-      "url": "https://arxiv.org/abs/2604.04939",
       "featured": false
     }
   ]
