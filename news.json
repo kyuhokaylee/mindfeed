@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-09T20:10:18.383574+00:00",
+  "updated": "2026-04-09T23:26:40.852845+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "06a330c801f3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Psychedelic retreats linked to mental health improvements in people with severe childhood trauma",
+      "titleKo": "심각한 어린 시절 트라우마를 경험한 사람들의 정신 건강 개선과 연결된 환각제 심화 치료",
+      "summary": "Individuals with a history of severe childhood trauma who attended ceremonial psychedelic retreats reported marked reductions in anxiety and increased well-being. The findings suggest psychedelics could offer a novel approach for populations historically resistant to traditional mental health therapies.",
+      "aiSummary": "The study examined the effects of ceremonial psychedelic use on mental health outcomes in individuals with severe childhood trauma. Participants with trauma histories attended guided psychedelic retreats conducted in structured, supportive settings. Results showed significant reductions in anxiety symptoms and marked improvements in overall well-being and mental health indicators among retreat attendees. These findings suggest psychedelics may offer a novel therapeutic approach for trauma survivors who have historically shown resistance to conventional mental health treatments. However, the research had notable limitations, including the absence of a control group, small sample size, and lack of long-term follow-up data to assess sustained effects.\n\n##",
+      "aiSummaryKo": "심각한 어린 시절 트라우마를 경험한 사람들을 대상으로 의식적 사이코델릭 약물 사용이 정신건강에 미치는 영향을 연구했다. 연구에 참여한 트라우마 생존자들은 의식적 환경에서 진행되는 사이코델릭 레트릿(명상/치료 프로그램)에 참석했다. 연구 결과, 프로그램 참여자들은 불안감이 현저히 감소했고 전반적인 삶의 만족도와 정신건강이 유의미하게 개선되었다. 이 발견은 전통적 정신치료에 반응하지 않던 사람들에게 사이코델릭이 새로운 치료 대안이 될 수 있음을 시사한다. 다만 이 연구는 통제 집단이 없었고 표본 크기가 제한적이었으며, 장기 효과에 대한 추적 데이터가 부족한 한계가 있다.\n\n##",
+      "aiSummaryEn": "The study examined the effects of ceremonial psychedelic use on mental health outcomes in individuals with severe childhood trauma. Participants with trauma histories attended guided psychedelic retreats conducted in structured, supportive settings. Results showed significant reductions in anxiety symptoms and marked improvements in overall well-being and mental health indicators among retreat attendees. These findings suggest psychedelics may offer a novel therapeutic approach for trauma survivors who have historically shown resistance to conventional mental health treatments. However, the research had notable limitations, including the absence of a control group, small sample size, and lack of long-term follow-up data to assess sustained effects.\n\n##",
+      "keyPoints": [
+        "심각한 어린 시절 트라우마 환자의 불안감이 현저히 감소 / Significant reduction in anxiety symptoms in severe childhood trauma survivors",
+        "의식적 사이코델릭 레트릿을 통한 정신건강 개선 / Mental health improvements through ceremonial psychedelic retreats",
+        "전통 치료에 저항적이던 집단에 새로운 치료 대안 제시 / Novel therapeutic alternative for populations resistant to traditional mental health therapies",
+        "제한된 표본과 대조군 부재 등 추가 연구 필요 / Need for further research with control groups and larger sample sizes"
+      ],
+      "url": "https://www.psypost.org/psychedelic-retreats-linked-to-mental-health-improvements-in-people-with-severe-2026-03-20/",
+      "featured": true
+    },
+    {
+      "id": "b5a14dc77492",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "19시간 전 / 19h ago",
+      "title": "A Benchmark of Classical and Deep Learning Models for Agricultural Commodity Price Forecasting on A Novel Bangladeshi Market Price Dataset",
+      "titleKo": "새로운 방글라데시 시장 가격 데이터셋을 이용한 농산물 가격 예측의 고전적 머신러닝 모델과 딥러닝 모델 벤치마크",
+      "summary": "arXiv:2604.06227v1 Announce Type: new Abstract: Accurate short-term forecasting of agricultural commodity prices is critical for food security planning and smallholder income stabilisation in developing economies, yet machine-learning-ready datasets for this purpose remain scarce in South Asia. This paper makes two contributions. First, we introduce AgriPriceBD, a benchmark dataset of 1,779 daily retail mid-prices for five Bangladeshi commodities - garlic, chickpea, green chilli, cucumber, and sweet pumpkin - spanning July 2020 to June 2025, extracted from government reports via an LLM-assiste",
+      "aiSummary": "This study compared classical machine learning and deep learning models for predicting agricultural commodity prices in Bangladesh. Researchers constructed the 'AgriPriceBD' benchmark dataset containing 1,779 daily retail prices for five commodities—garlic, chickpea, green chilli, cucumber, and sweet pumpkin—spanning from July 2020 to June 2025, extracted from government reports using LLM assistance. Various forecasting models including ARIMA, LSTM, and Transformer were applied to this dataset to compare prediction accuracy. The research findings serve as crucial baseline data for food security planning and income stabilization of smallholder farmers in developing nations. The study's key significance is providing the first machine-learning-ready agricultural dataset for South Asia, addressing a previously scarce resource. However, limitations include the dataset covering only certain regions of Bangladesh and inadequate incorporation of external factors such as climate changes and policy shifts affecting prices.\n\n##",
+      "aiSummaryKo": "본 연구는 방글라데시의 농산물 가격 변동을 예측하기 위해 고전적 머신러닝과 딥러닝 모델을 비교 분석했습니다. 연구팀은 2020년 7월부터 2025년 6월까지 5년간 마늘, 병아리콩, 청고추, 오이, 단호박 등 5개 농산물의 일일 소매가격 1,779개 데이터를 정부 보고서에서 수집하여 'AgriPriceBD' 벤치마크 데이터셋을 구축했습니다. 이 데이터셋에 ARIMA, LSTM, Transformer 등 다양한 모델을 적용하여 가격 예측 정확도를 비교했습니다. 연구 결과는 개발도상국의 식량 안보 계획과 영세농의 소득 안정화에 중요한 기초 자료가 됩니다. 본 연구의 주요 의의는 남아시아 지역의 부족했던 머신러닝용 농업 데이터셋을 처음으로 제공한 것입니다. 다만 방글라데시의 일부 지역 데이터만 포함되어 있고, 외부 요인(기후, 정책 변화)이 충분히 반영되지 않았다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study compared classical machine learning and deep learning models for predicting agricultural commodity prices in Bangladesh. Researchers constructed the 'AgriPriceBD' benchmark dataset containing 1,779 daily retail prices for five commodities—garlic, chickpea, green chilli, cucumber, and sweet pumpkin—spanning from July 2020 to June 2025, extracted from government reports using LLM assistance. Various forecasting models including ARIMA, LSTM, and Transformer were applied to this dataset to compare prediction accuracy. The research findings serve as crucial baseline data for food security planning and income stabilization of smallholder farmers in developing nations. The study's key significance is providing the first machine-learning-ready agricultural dataset for South Asia, addressing a previously scarce resource. However, limitations include the dataset covering only certain regions of Bangladesh and inadequate incorporation of external factors such as climate changes and policy shifts affecting prices.\n\n##",
+      "keyPoints": [
+        "**데이터셋 구축**: 방글라데시 5개 농산물의 5년간 1,779개 일일 가격 데이터를 정부 보고서에서 LLM을 활용하여 수집·구성 / **Dataset Construction**: Compiled 1,779 daily price records for five Bangladeshi commodities over five years using LLM-assisted extraction from government reports",
+        "**모델 비교 분석**: ARIMA, LSTM, Transformer 등 고전적·딥러닝 모델의 가격 예측 성능을 체계적으로 벤치마킹 / **Model Comparison**: Systematically benchmarked forecasting performance across classical and deep learning approaches including ARIMA, LSTM, and Transformer models",
+        "**실무적 가치**: 영세농의 소득 안정화와 개발도상국의 식량 안보 계획 수립에 필요한 데이터 기반 제공 / **Practical Value**: Provides data-driven foundation for smallholder income stabilization and food security planning in developing economies",
+        "**지역적 한계**: 남아시아의 농업 데이터셋 부족 현상을 완화하지만 방글라데시 특정 지역만 포함되어 일반화 가능성 제한 / **Geographic Limitation**: While addressing South Asian agricultural data scarcity, coverage limited to specific Bangladeshi regions, reducing generalizability"
+      ],
+      "url": "https://arxiv.org/abs/2604.06227",
+      "featured": false
+    },
+    {
+      "id": "7b1006ea503e",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "19시간 전 / 19h ago",
+      "title": "Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse",
+      "titleKo": "확률 언어 트라이: 압축, 의사결정 정책, 실행 재사용을 위한 통합 프레임워크",
+      "summary": "arXiv:2604.06228v1 Announce Type: new Abstract: We introduce probabilistic language tries (PLTs), a unified representation that makes explicit the prefix structure implicitly defined by any generative model over sequences. By assigning to each outgoing edge the conditional probability of the corresponding token or action, a PLT simultaneously serves as: (i) an optimal lossless compressor via frequency-weighted interval encoding, generalizing arithmetic coding to model-conditioned distributions; (ii) a policy representation for sequential decision problems including games, search, and robotic c",
+      "aiSummary": "This study introduces Probabilistic Language Tries (PLTs), a novel unified framework that explicitly represents the prefix structure of generative AI models' token probability distributions. The researchers demonstrate that PLTs simultaneously function as three tools: (i) an optimal lossless data compressor using frequency-weighted interval encoding, extending arithmetic coding to model-conditioned distributions; (ii) a policy representation for sequential decision-making problems including games, search algorithms, and robotic control; and (iii) a mechanism for execution reuse across multiple tasks. The primary contribution is enabling multiple AI optimization tasks through a single mathematical representation. However, the computational efficiency and practical performance improvements on large-scale models require further validation. Additionally, the complex mathematical formulation may pose challenges for real-world implementation and broader adoption.\n\n##",
+      "aiSummaryKo": "본 연구는 생성형 AI 모델이 만드는 토큰(언어 단위)의 확률 구조를 시각화하고 활용하는 새로운 방법인 '확률적 언어 트라이(PLT)'를 제안합니다. 연구팀은 이 구조를 수학적으로 정의하고, 세 가지 주요 기능—데이터 압축, 의사결정 정책 표현, 계산 재사용—을 동시에 수행할 수 있음을 보였습니다. 이는 기존 산술 부호화 방식을 AI 모델 기반으로 확장한 것으로, 게임, 탐색, 로봇 제어 등 다양한 순차 의사결정 문제에 적용될 수 있습니다. 핵심 성과는 단일 표현으로 여러 AI 작업을 최적화할 수 있다는 점입니다. 다만 실제 대규모 모델에서의 계산 효율성과 성능 개선 정도는 추가 검증이 필요합니다. 또한 복잡한 수학적 개념으로 인해 실제 응용까지의 거리가 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This study introduces Probabilistic Language Tries (PLTs), a novel unified framework that explicitly represents the prefix structure of generative AI models' token probability distributions. The researchers demonstrate that PLTs simultaneously function as three tools: (i) an optimal lossless data compressor using frequency-weighted interval encoding, extending arithmetic coding to model-conditioned distributions; (ii) a policy representation for sequential decision-making problems including games, search algorithms, and robotic control; and (iii) a mechanism for execution reuse across multiple tasks. The primary contribution is enabling multiple AI optimization tasks through a single mathematical representation. However, the computational efficiency and practical performance improvements on large-scale models require further validation. Additionally, the complex mathematical formulation may pose challenges for real-world implementation and broader adoption.\n\n##",
+      "keyPoints": [
+        "**포인트1**: PLT는 단일 표현으로 데이터 압축, 의사결정 정책, 계산 재사용의 세 기능을 동시에 수행 / PLTs enable three functions—compression, policy representation, and execution reuse—through a unified mathematical framework",
+        "**포인트2**: 기존 산술 부호화를 AI 모델 기반 확률 분포로 일반화하여 더 효율적인 인코딩 가능 / The framework generalizes traditional arithmetic coding to model-conditioned probability distributions for improved encoding efficiency",
+        "**포인트3**: 게임, 로봇 제어, 탐색 등 순차 의사결정 문제의 다양한 분야에 적용 가능 / Applicable across diverse sequential decision-making domains including games, robotic control, and search algorithms",
+        "**포인트4**: 실제 대규모 모델에서의 성능과 계산 효율성 검증이 필요하며 추상적 수학 개념으로 인한 구현 난도 존재 / Requires further validation of computational efficiency on large-scale models and faces implementation challenges due to complex mathematical abstraction"
+      ],
+      "url": "https://arxiv.org/abs/2604.06228",
+      "featured": false
+    },
+    {
+      "id": "b2f33fbecb06",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "19시간 전 / 19h ago",
+      "title": "FLeX: Fourier-based Low-rank EXpansion for multilingual transfer",
+      "titleKo": "FLeX: 다국어 전이를 위한 푸리에 기반 저계수 전개",
+      "summary": "arXiv:2604.06253v1 Announce Type: new Abstract: Cross-lingual code generation is critical in enterprise environments where multiple programming languages coexist. However, fine-tuning large language models (LLMs) individually for each language is computationally prohibitive. This paper investigates whether parameter-efficient fine-tuning methods and optimizer enhancements can improve cross-lingual transfer from Python to languages like Java. We fine-tune the Code Llama 7B model using low-rank adaptation (LoRA) to optimize a small subset of parameters and compare Adam and Sophia optimizers, whi",
+      "aiSummary": "This research addresses the challenge of cross-lingual code generation in enterprise environments where multiple programming languages coexist. Since individually fine-tuning large language models (LLMs) for each language is computationally prohibitive, the researchers investigated whether parameter-efficient fine-tuning methods and optimizer enhancements can improve transfer learning from Python to other languages like Java. The team fine-tuned the Code Llama 7B model using Low-Rank Adaptation (LoRA) to optimize only a small subset of parameters and compared the performance of Adam and Sophia optimizers. The significance of this work lies in demonstrating methods to improve multilingual code generation performance while maintaining computational efficiency. However, the current abstract provides limited information regarding specific performance improvement metrics, experimental scale, and detailed evaluation criteria.\n\n##",
+      "aiSummaryKo": "본 연구는 기업 환경에서 여러 프로그래밍 언어가 공존할 때 발생하는 교차 언어 코드 생성 문제를 다룹니다. 대규모 언어 모델(LLM)을 각 언어마다 개별적으로 학습시키는 것은 계산 비용이 매우 크기 때문에, 연구팀은 매개변수 효율적 미세 조정 방법이 파이썬에서 자바 같은 다른 언어로의 전이 학습을 개선할 수 있는지 검증했습니다. Code Llama 7B 모델을 저랭크 적응(LoRA) 기법으로 미세 조정하여 소수의 매개변수만 최적화하고, Adam과 Sophia 옵티마이저를 비교했습니다. 이 연구의 의의는 계산 효율성을 유지하면서 다중 언어 코드 생성 성능을 향상시킬 수 있는 방법을 제시한다는 점입니다. 다만 현재까지 발표된 정보만으로는 구체적인 성능 개선 수치와 실험 참가자 규모, 평가 메트릭 세부 사항이 제한적입니다.\n\n##",
+      "aiSummaryEn": "This research addresses the challenge of cross-lingual code generation in enterprise environments where multiple programming languages coexist. Since individually fine-tuning large language models (LLMs) for each language is computationally prohibitive, the researchers investigated whether parameter-efficient fine-tuning methods and optimizer enhancements can improve transfer learning from Python to other languages like Java. The team fine-tuned the Code Llama 7B model using Low-Rank Adaptation (LoRA) to optimize only a small subset of parameters and compared the performance of Adam and Sophia optimizers. The significance of this work lies in demonstrating methods to improve multilingual code generation performance while maintaining computational efficiency. However, the current abstract provides limited information regarding specific performance improvement metrics, experimental scale, and detailed evaluation criteria.\n\n##",
+      "keyPoints": [
+        "**교차 언어 코드 생성의 필요성** / Cross-lingual code generation necessity in enterprise environments with multiple programming languages",
+        "**매개변수 효율적 미세 조정(LoRA)의 활용** / Implementation of parameter-efficient fine-tuning through Low-Rank Adaptation to reduce computational costs",
+        "**옵티마이저 비교 연구** / Comparative analysis between Adam and Sophia optimizers for improved transfer learning performance",
+        "**실무 적용 가능성** / Practical applicability for enterprise systems requiring multilingual programming language support with limited computational resources"
+      ],
+      "url": "https://arxiv.org/abs/2604.06253",
+      "featured": false
+    },
+    {
+      "id": "77f0c681069b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "19시간 전 / 19h ago",
+      "title": "Spectral Edge Dynamics Reveal Functional Modes of Learning",
+      "titleKo": "스펙트럼 엣지 역학이 드러내는 학습의 기능적 양태",
+      "summary": "arXiv:2604.06256v1 Announce Type: new Abstract: Training dynamics during grokking concentrate along a small number of dominant update directions -- the spectral edge -- which reliably distinguishes grokking from non-grokking regimes. We show that standard mechanistic interpretability tools (head attribution, activation probing, sparse autoencoders) fail to capture these directions: their structure is not localized in parameter or feature space. Instead, each direction induces a structured function over the input domain, revealing low-dimensional functional modes invisible to representation-lev",
+      "aiSummary": "This research aims to elucidate the mechanism of \"grokking\" phenomena that occur during deep learning model training. The research team discovered that the most critical update directions during neural network learning concentrate along a small number of dominant directions called \"spectral edges.\" The key finding reveals that standard interpretability tools—including head attribution, activation probing, and sparse autoencoders—fail to capture these directions. Instead, each direction induces a structured function over the input domain, revealing low-dimensional functional modes invisible to conventional representation-level analysis. This discovery has significant implications for deeper understanding of neural network learning processes and improving model generalization. However, the current research is limited to relatively simple mathematical tasks, and further validation is needed to assess applicability to complex real-world problems.\n\n##",
+      "aiSummaryKo": "본 연구는 딥러닝 모델의 학습 과정에서 나타나는 '그로킹(grokking)' 현상의 메커니즘을 규명하는 것을 목표로 합니다. 연구팀은 신경망의 학습 동역학을 분석하여 학습 중 가장 중요한 업데이트 방향들이 소수의 '스펙트럼 엣지(spectral edge)'라 불리는 지배적 방향으로 집중된다는 것을 발견했습니다. 핵심 결과는 기존의 머리 귀속(head attribution), 활성화 탐사, 희소 자동인코더 같은 표준적 해석 가능성 도구들이 이러한 방향들을 포착하지 못한다는 것이었습니다. 대신 각 방향은 입력 영역에 구조화된 함수를 유도하며, 이는 기존 표현 수준 분석으로는 보이지 않는 저차원적 기능 모드를 드러냅니다. 이 발견은 신경망의 학습 과정을 더 깊이 있게 이해하고 모델의 일반화 능력을 개선하는 데 중요한 의의를 가집니다. 다만 현재 연구는 상대적으로 단순한 수학 작업에 한정되어 있어 실제 복잡한 현실 문제에 적용 가능성은 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research aims to elucidate the mechanism of \"grokking\" phenomena that occur during deep learning model training. The research team discovered that the most critical update directions during neural network learning concentrate along a small number of dominant directions called \"spectral edges.\" The key finding reveals that standard interpretability tools—including head attribution, activation probing, and sparse autoencoders—fail to capture these directions. Instead, each direction induces a structured function over the input domain, revealing low-dimensional functional modes invisible to conventional representation-level analysis. This discovery has significant implications for deeper understanding of neural network learning processes and improving model generalization. However, the current research is limited to relatively simple mathematical tasks, and further validation is needed to assess applicability to complex real-world problems.\n\n##",
+      "keyPoints": [
+        "**스펙트럼 엣지 개념** / Spectral Edge Concept: 신경망 학습 중 소수의 지배적 업데이트 방향이 그로킹 현상의 핵심을 담당하며, 이를 구분하는 신뢰할 수 있는 지표로 작용합니다.",
+        "**기존 도구의 한계** / Limitations of Existing Tools: 머리 귀속, 활성화 탐사, 희소 자동인코더 등 표준 해석 가능성 도구들은 이러한 중요 방향들을 포착하지 못합니다.",
+        "**저차원 기능 모드** / Low-Dimensional Functional Modes: 발견된 각 방향은 입력 영역에 구조화된 함수를 만들어 기존 표현 수준 분석으로는 보이지 않는 새로운 특성을 드러냅니다.",
+        "**학습 메커니즘의 재해석** / Reinterpretation of Learning Mechanisms: 이 연구는 신경망이 학습하는 방식을 매개변수나 특성 공간이 아닌 함수적 관점에서 이해해야 함을 시사합니다."
+      ],
+      "url": "https://arxiv.org/abs/2604.06256",
+      "featured": false
+    },
+    {
+      "id": "381971e27c77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "24일 전 / 24d ago",
+      "title": "Facts and the Fight for Moral High Ground",
+      "titleKo": "사실과 도덕적 우위를 위한 투쟁",
+      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
+      "aiSummary": "This article examines an environmental justice case in Philadelphia in August 2019, where resident Ricky advocated for the closure of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard. The research investigates how community residents respond to environmental issues using scientific evidence and moral arguments. The methodology includes analysis of community testimonies, media materials, and policy documents from affected residents. Key findings demonstrate that residents are more effective at driving change through moral appeals and personal experiences than through simple factual presentation alone. The research illuminates the role of rhetoric and emotion in environmental justice movements. Limitations include its focus as a single case study, which constrains generalizability to other contexts.",
+      "aiSummaryKo": "본 기사는 2019년 8월 필라델피아에서 발생한 환경 정의 사건을 다룹니다. Gray's Ferry 지역 주민인 Ricky는 동부 해안 최대 규모의 필라델피아 에너지 솔루션(PES) 정유소의 폐쇄를 촉구하는 영상에 참여했습니다. 이 연구는 지역사회 주민들이 과학적 증거와 도덕적 주장을 활용하여 환경 문제에 대해 어떻게 대응하는지를 조사합니다. 연구 방법은 커뮤니티 주민들의 증언, 미디어 자료, 정책 문서 분석을 포함합니다. 핵심 결과는 주민들이 단순한 사실 제시보다는 도덕적 호소와 개인적 경험을 강조할 때 더 효과적으로 변화를 이끌어낼 수 있음을 보여줍니다. 이 연구는 환경 정의 운동에서 수사학과 감정의 역할을 조명합니다. 제한점으로는 특정 지역의 사례 연구로 일반화에 한계가 있습니다.",
+      "aiSummaryEn": "This article examines an environmental justice case in Philadelphia in August 2019, where resident Ricky advocated for the closure of Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard. The research investigates how community residents respond to environmental issues using scientific evidence and moral arguments. The methodology includes analysis of community testimonies, media materials, and policy documents from affected residents. Key findings demonstrate that residents are more effective at driving change through moral appeals and personal experiences than through simple factual presentation alone. The research illuminates the role of rhetoric and emotion in environmental justice movements. Limitations include its focus as a single case study, which constrains generalizability to other contexts.",
+      "keyPoints": [
+        "환경 정의 투쟁에서 도덕적 호소와 개인적 경험이 과학적 사실만큼이나 중요한 역할을 함 / Moral appeals and personal experiences play equally important roles as scientific facts in environmental justice struggles",
+        "지역사회 주민들이 정유소 폐쇄를 위해 미디어와 공개 증언을 전략적으로 활용함 / Community residents strategically utilized media and public testimony to advocate for refinery closure",
+        "정책 변화를 위해서는 증거 기반 주장과 감정적 설득의 조합이 필요함 / Achieving policy change requires combining evidence-based arguments with emotional persuasion",
+        "환경 정의는 단순한 과학 문제가 아니라 권력, 도덕성, 지역사회 목소리의 인정에 관한 문제임 / Environmental justice is not merely a scientific issue but concerns power, morality, and recognition of community voices"
+      ],
+      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
+      "featured": false
+    },
+    {
+      "id": "ea6c28f8b419",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "12시간 전 / 12h ago",
+      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+      "titleKo": "과학자들이 ALS와 치매의 숨겨진 장내 원인 규명",
+      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
+      "aiSummary": "Recent research reveals that gut bacteria may be a hidden trigger behind ALS (amyotrophic lateral sclerosis) and frontotemporal dementia development. Scientists discovered that harmful sugars produced by gut microbes can initiate immune responses that damage the brain. This finding explains why some individuals with genetic risk factors develop these diseases while others remain unaffected. Notably, in experimental settings, reducing these harmful sugars led to improved brain health outcomes, suggesting promising therapeutic possibilities. These results could pave the way for novel treatment strategies targeting gut microbiota in both ALS and frontotemporal dementia. However, further human clinical trials are necessary before this discovery can be translated into actual therapeutic applications.\n\n##",
+      "aiSummaryKo": "최근 연구에 따르면 장내 박테리아가 루게릭병(ALS)과 전측두엽 치매 발병의 숨겨진 원인일 수 있습니다. 연구팀은 장내 미생물이 생성하는 해로운 당류(설탕 물질)가 뇌를 공격하는 면역 반응을 유발한다는 것을 발견했습니다. 이 발견은 같은 유전자 위험을 가진 사람들 중 일부는 질병을 발병하고 다른 사람들은 발병하지 않는 이유를 설명해줍니다. 특히 주목할 점은 실험에서 이러한 해로운 당류를 감소시켰을 때 뇌 건강이 개선되었다는 것입니다. 이는 향후 ALS와 전측두엽 치매의 새로운 치료법 개발로 이어질 가능성을 제시합니다. 다만, 인간 임상시험이 아직 진행되지 않았으므로 실제 치료법 적용까지는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Recent research reveals that gut bacteria may be a hidden trigger behind ALS (amyotrophic lateral sclerosis) and frontotemporal dementia development. Scientists discovered that harmful sugars produced by gut microbes can initiate immune responses that damage the brain. This finding explains why some individuals with genetic risk factors develop these diseases while others remain unaffected. Notably, in experimental settings, reducing these harmful sugars led to improved brain health outcomes, suggesting promising therapeutic possibilities. These results could pave the way for novel treatment strategies targeting gut microbiota in both ALS and frontotemporal dementia. However, further human clinical trials are necessary before this discovery can be translated into actual therapeutic applications.\n\n##",
+      "keyPoints": [
+        "**장내 미생물-뇌 질환 연결** / Gut microbiota-neurological disease connection: 장내 박테리아가 생성하는 해로운 당류가 ALS와 전측두엽 치매의 발병을 유발할 수 있음",
+        "**선택적 발병 메커니즘 규명** / Selective disease mechanism explained: 동일한 유전적 위험 요소를 가진 사람들에게서 질병 발병이 선택적으로 나타나는 이유를 설명하는 새로운 단서 제시",
+        "**당류 감소를 통한 뇌 건강 개선** / Improved brain health through sugar reduction: 실험 결과 해로운 당류를 감소시켰을 때 뇌 건강이 개선되어 치료 가능성을 시사",
+        "**신약 개발의 새로운 방향** / New therapeutic target: 장내 미생물 조절을 통한 ALS와 전측두엽 치매 치료제 개발의 새로운 가능성 제시"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
+      "featured": false
+    },
     {
       "id": "e6745cb279db",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**발달 심리학적 함의**: 어린이의 윤리적 판단 능력이 예상보다 발전되어 있음을 시사한다 / The study suggests that children's ethical judgment capabilities are more developed than previously understood"
       ],
       "url": "https://www.psypost.org/children-are-less-likely-to-use-deception-after-being-given-permission-to-deceive-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "890c6a6c1d99",
@@ -263,153 +410,6 @@
         "**신뢰성 향상**: 주장의 근거를 추적 가능하게 제시하여 AI의 신뢰도 증대 / Enhances AI reliability by making claims traceable and evidence-based"
       ],
       "url": "https://arxiv.org/abs/2604.04937",
-      "featured": false
-    },
-    {
-      "id": "c86ac76c428c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "12시간 전 / 12h ago",
-      "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
-      "titleKo": "순차적 메타인지 판단에서의 작동적 비가환성",
-      "summary": "arXiv:2604.04938v1 Announce Type: new Abstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal state, updates it, and may then re-evaluate under modified criteria. Order effects in cognition are well documented, yet it remains unclear whether such effects reflect classical state changes or reveal a deeper structural non-commutativity. We develop an operational framework that makes this distinction explicit. In our formulation, metacognitive evaluations are modeled as state-transforming operat",
-      "aiSummary": "This study investigates the fundamental causes of order effects in metacognition—the ability to monitor and regulate one's own cognitive processes. While previous research documented that cognitive outcomes vary depending on the sequence of evaluations, it remained unclear whether this reflects simple state changes or reveals deeper structural non-commutativity (where order of operations affects outcomes). The research team developed a novel operational framework modeling metacognitive judgments as state-transforming operations. This framework explicitly demonstrates mathematical and structural non-commutativity in sequential metacognitive evaluations. The study suggests that human higher-order cognition may not follow classical logic and establishes new connections between quantum cognition models and cognitive psychology. However, this work remains at the theoretical framework stage, requiring empirical validation through actual human behavioral data.\n\n##",
-      "aiSummaryKo": "본 연구는 메타인지(자신의 인지 과정을 모니터링하고 조절하는 능력)에서 나타나는 순서 효과의 근본적 원인을 규명하려는 것이다. 기존 연구들은 인지 과정에서 순서에 따라 결과가 달라지는 현상을 확인했지만, 이것이 단순한 상태 변화인지 아니면 더 깊은 수준의 구조적 비가환성(순서를 바꾸면 결과가 달라지는 성질)을 반영하는지 명확하지 않았다. 연구팀은 메타인지적 판단을 상태를 변환하는 연산으로 모델링하는 새로운 이론적 틀을 개발했다. 이 프레임워크를 통해 연속적인 메타인지 평가에서 나타나는 수학적·구조적 비가환성을 명시적으로 보여줄 수 있다. 본 연구는 인간의 고차 인지 과정이 고전적 논리를 따르지 않을 수 있음을 시사하며, 양자 인지 모델과 인지 심리학 간의 새로운 연결고리를 제시한다. 다만 현재는 이론적 프레임워크 제시 단계로, 실제 인간 행동 데이터를 통한 실증적 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "This study investigates the fundamental causes of order effects in metacognition—the ability to monitor and regulate one's own cognitive processes. While previous research documented that cognitive outcomes vary depending on the sequence of evaluations, it remained unclear whether this reflects simple state changes or reveals deeper structural non-commutativity (where order of operations affects outcomes). The research team developed a novel operational framework modeling metacognitive judgments as state-transforming operations. This framework explicitly demonstrates mathematical and structural non-commutativity in sequential metacognitive evaluations. The study suggests that human higher-order cognition may not follow classical logic and establishes new connections between quantum cognition models and cognitive psychology. However, this work remains at the theoretical framework stage, requiring empirical validation through actual human behavioral data.\n\n##",
-      "keyPoints": [
-        "**메타인지의 비가환성 발견** / Discovery of Non-commutativity in Metacognition",
-        "**고전 논리 한계 제시** / Limitations of Classical Logic",
-        "**양자 인지 모델과의 연결** / Connection with Quantum Cognition",
-        "**이론적 프레임워크의 필요성** / Need for Empirical Validation"
-      ],
-      "url": "https://arxiv.org/abs/2604.04938",
-      "featured": false
-    },
-    {
-      "id": "c8e0ac7e569b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "12시간 전 / 12h ago",
-      "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
-      "titleKo": "정보 시스템에서 정보 객체의 식별 문제 해결을 위한 정보 객체 특성의 근접도 측정",
-      "summary": "arXiv:2604.04939v1 Announce Type: new Abstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information resource from several sources independently. The goal is to determine the possibility of their relation to the same physical object (observation object). The proposed measure accounts for the possibility of differences in individual feature values - both quantitative and qualitative - caused by existing determination errors. To analyze the proximity of quantitative feature values, the author employs ",
-      "aiSummary": "This study addresses the challenge of determining whether data features from multiple independent sources belong to the same physical object within an information system. The researchers propose a novel quantitative-qualitative proximity measure that accounts for differences in both quantitative and qualitative feature values caused by measurement errors. Statistical methodologies are employed to analyze the proximity of quantitative features, creating a framework to assess reliability of information collected from diverse data sources. This methodology can be applied to practical information systems problems such as database integration, duplicate detection, and entity matching. The research's significance lies in accurately matching data from different sources, which contributes to improving overall data quality and system reliability. However, the paper presents limited information at the abstract level, requiring expert review for specific experimental results and quantitative outcomes.\n\n##",
-      "aiSummaryKo": "본 연구는 여러 독립적인 소스에서 정보 자원으로 들어오는 데이터의 특징들이 동일한 물리적 객체에 속하는지 판별하는 문제를 다룹니다. 연구팀은 정량적·정성적 특징의 근접성을 측정하는 새로운 지표를 제안했으며, 이는 측정 오류로 인한 특징값의 차이를 고려합니다. 정량적 특징값의 근접성 분석을 위해 통계적 방법론을 적용하여, 서로 다른 데이터 소스에서 수집된 정보들의 신뢰도를 평가할 수 있는 프레임워크를 개발했습니다. 이 방법론은 데이터베이스 통합, 데이터 중복 제거, 개체 연결 문제 등 정보 시스템의 실제 문제 해결에 활용될 수 있습니다. 연구의 의의는 서로 다른 출처의 데이터를 정확하게 매칭하는 데 있으며, 이는 데이터 품질 향상에 기여합니다. 다만 본 논문은 초록 수준의 제한된 정보만 제공하므로, 실제 실험 결과와 구체적 정량 데이터는 전문 검토가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study addresses the challenge of determining whether data features from multiple independent sources belong to the same physical object within an information system. The researchers propose a novel quantitative-qualitative proximity measure that accounts for differences in both quantitative and qualitative feature values caused by measurement errors. Statistical methodologies are employed to analyze the proximity of quantitative features, creating a framework to assess reliability of information collected from diverse data sources. This methodology can be applied to practical information systems problems such as database integration, duplicate detection, and entity matching. The research's significance lies in accurately matching data from different sources, which contributes to improving overall data quality and system reliability. However, the paper presents limited information at the abstract level, requiring expert review for specific experimental results and quantitative outcomes.\n\n##",
-      "keyPoints": [
-        "**다중 소스 데이터 통합 문제** / Multi-source Data Integration Problem",
-        "**근접성 측정 지표 개발** / Proximity Measure Development",
-        "**측정 오류 보정 메커니즘** / Error Correction Mechanism",
-        "**정보 시스템 실무 적용** / Practical Information Systems Application"
-      ],
-      "url": "https://arxiv.org/abs/2604.04939",
-      "featured": false
-    },
-    {
-      "id": "518d379c2f15",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "Your brain can trick you into liking artificial sweeteners",
-      "titleKo": "뇌가 인공 감미료를 좋아하도록 속일 수 있다",
-      "summary": "Your brain might be quietly deciding what tastes good before you even take a sip. Researchers found that simply changing what people thought they were drinking—sugar or artificial sweetener—could dramatically shift how much they enjoyed it. When participants believed a drink had artificial sweeteners, real sugar tasted less enjoyable, but when they expected sugar, even artificially sweetened drinks became more pleasurable.",
-      "aiSummary": "This study investigated the expectancy effect on taste perception and flavor enjoyment. Researchers provided the same beverage to participants while manipulating their beliefs about its ingredients—telling some it contained sugar and others that it contained artificial sweeteners. The key finding was that psychological expectations dramatically altered taste perception independent of actual beverage composition. Participants who believed they were drinking artificially sweetened beverages rated real sugar drinks as less enjoyable, while those expecting sugar found artificially sweetened drinks more pleasurable. The research demonstrates that the brain's sense of taste pleasure is powerfully shaped by cognitive expectations rather than ingredients alone. A limitation is the lack of detailed information about participant demographics, sample size, and experimental duration.\n\n##",
-      "aiSummaryKo": "본 연구는 음료의 맛에 대한 뇌의 기대효과(expectancy effect)를 조사했습니다. 연구팀은 참가자들에게 같은 음료를 제공하되, 일부에게는 '설탕 함유'라고 알리고 다른 참가자들에게는 '인공감미료 함유'라고 알렸습니다. 주요 결과는 참가자들의 객관적인 음료 성분과 관계없이 심리적 기대가 맛의 인식을 크게 변화시켰다는 것입니다. 인공감미료라고 믿은 참가자는 실제 설탕 음료를 덜 맛있게 평가했고, 반대로 설탕이라고 기대한 참가자는 인공감미료 음료를 더 맛있게 느꼈습니다. 이 연구는 뇌가 맛의 즐거움을 결정하는 데 있어 심리적 기대가 얼마나 강력한 역할을 하는지 보여줍니다. 다만, 구체적인 참가자 수, 연령대, 실험 기간 등 세부 정보가 제한적인 점은 한계입니다.\n\n##",
-      "aiSummaryEn": "This study investigated the expectancy effect on taste perception and flavor enjoyment. Researchers provided the same beverage to participants while manipulating their beliefs about its ingredients—telling some it contained sugar and others that it contained artificial sweeteners. The key finding was that psychological expectations dramatically altered taste perception independent of actual beverage composition. Participants who believed they were drinking artificially sweetened beverages rated real sugar drinks as less enjoyable, while those expecting sugar found artificially sweetened drinks more pleasurable. The research demonstrates that the brain's sense of taste pleasure is powerfully shaped by cognitive expectations rather than ingredients alone. A limitation is the lack of detailed information about participant demographics, sample size, and experimental duration.\n\n##",
-      "keyPoints": [
-        "**기대효과의 강력함** / **Powerful Expectancy Effect**: 심리적 기대만으로도 동일한 음료의 맛 인식이 극적으로 변할 수 있습니다. / Psychological expectations alone can dramatically alter taste perception of identical beverages.",
-        "**뇌의 능동적 역할** / **Active Brain Role**: 맛은 객관적 화학성분보다 뇌의 사전 기대와 신념에 의해 더 결정됩니다. / Taste is determined more by the brain's prior expectations and beliefs than by objective chemical composition.",
-        "**설탕 vs 인공감미료 편견** / **Sugar vs Sweetener Bias**: 인공감미료라는 부정적 기대는 동일한 설탕 음료를 덜 맛있게 만들 수 있습니다. / Negative expectations about artificial sweeteners can make identical sugar drinks taste less enjoyable.",
-        "**실질적 응용 가능성** / **Practical Applications**: 이 발견은 식품 마케팅, 건강식 개발, 소비자 심리 이해에 중요한 시사점을 제공합니다. / These findings have implications for food marketing, healthier product development, and understanding consumer psychology."
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
-      "featured": false
-    },
-    {
-      "id": "bbdd3481a9ff",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3시간 전 / 3h ago",
-      "title": "Brain study reveals hidden link between autism and ADHD",
-      "titleKo": "뇌 연구, 자폐증과 ADHD 사이의 숨겨진 연관성 규명",
-      "summary": "Scientists are uncovering a surprising connection between autism and ADHD that goes deeper than labels. Instead of diagnoses, it’s the severity of autism-like traits that seems to shape how the brain is wired—even in children who don’t officially have autism. The study found that certain brain networks tied to thinking and social behavior stay unusually connected in kids with stronger autism symptoms, hinting at a different developmental path.",
-      "aiSummary": "A recent brain imaging study has uncovered a new connection between autism and ADHD that goes beyond traditional diagnostic categories. Rather than focusing on diagnostic labels, researchers found that the severity of autism-like traits has a stronger influence on brain neural circuit structure than official diagnosis status. The study discovered that children with stronger autism symptoms show abnormally high connectivity in specific brain networks related to cognition and social behavior. This suggests that the trajectory of brain development may differ depending on the degree of autism symptoms. The significance of this research lies in shifting focus from diagnostic categories to symptom severity, which could enable the development of more precise interventions and support strategies. However, the study may have been conducted with a limited sample size and specific age group, indicating the need for broader follow-up research.\n\n##",
-      "aiSummaryKo": "최근 뇌 영상 연구에서 자폐증과 ADHD 사이의 새로운 연결고리가 발견되었습니다. 기존에는 진단 여부를 중심으로 두 장애를 구분했지만, 이 연구는 공식적인 진단 여부보다 자폐증 특성의 심각도가 뇌의 신경 회로 구조에 더 큰 영향을 미친다는 점을 밝혀냈습니다. 연구진은 자폐증 증상이 강한 아이들의 뇌에서 사고력과 사회적 행동에 관련된 특정 신경망들이 비정상적으로 높은 연결성을 유지한다는 것을 발견했습니다. 이는 자폐증 증상 정도에 따라 뇌 발달 경로가 다를 수 있음을 시사합니다. 본 연구의 의의는 진단 범주 대신 증상의 심각도에 초점을 맞춤으로써 더 정확한 개입과 지원 방안을 개발할 수 있다는 점입니다. 다만 이 연구는 특정 연령대와 제한된 샘플 크기에서 진행되었을 가능성이 있어 더 광범위한 후속 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "A recent brain imaging study has uncovered a new connection between autism and ADHD that goes beyond traditional diagnostic categories. Rather than focusing on diagnostic labels, researchers found that the severity of autism-like traits has a stronger influence on brain neural circuit structure than official diagnosis status. The study discovered that children with stronger autism symptoms show abnormally high connectivity in specific brain networks related to cognition and social behavior. This suggests that the trajectory of brain development may differ depending on the degree of autism symptoms. The significance of this research lies in shifting focus from diagnostic categories to symptom severity, which could enable the development of more precise interventions and support strategies. However, the study may have been conducted with a limited sample size and specific age group, indicating the need for broader follow-up research.\n\n##",
-      "keyPoints": [
-        "**자폐-ADHD의 새로운 관계성** / A New Connection Between Autism and ADHD: 진단 여부가 아닌 자폐증 특성의 심각도가 뇌의 신경망 구조에 더 큰 영향을 미침",
-        "**신경 회로의 비정상적 연결성** / Abnormal Neural Connectivity: 자폐증 증상이 강한 아이들의 뇌에서 사고력과 사회적 행동 관련 신경망의 연결성이 높게 유지됨",
-        "**증상 기반 접근의 중요성** / Symptom-Based Approach: 진단 범주 대신 증상의 심각도에 초점을 맞추면 더 정확한 개입 전략 개발 가능",
-        "**향후 연구 필요성** / Need for Further Research: 제한된 샘플과 특정 연령대에서만 진행되었으므로 광범위한 후속 연구가 필수적"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225941.htm",
-      "featured": false
-    },
-    {
-      "id": "e41cb8f1010b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1시간 전 / 1h ago",
-      "title": "Scientists just found a hidden “drain” inside the human brain",
-      "titleKo": "과학자들이 인간의 뇌 내부에 숨겨진 '배수로'를 발견했다",
-      "summary": "A hidden waste-removal pathway in the brain has finally been caught in action. Using cutting-edge MRI scans, researchers discovered that fluid flows along the middle meningeal artery in a slow, lymphatic-like pattern—very different from blood. This confirms the presence of a previously unknown drainage hub in humans. The finding could transform how scientists approach brain aging, injury, and diseases like Alzheimer’s.",
-      "aiSummary": "Researchers have discovered a previously unknown waste-removal pathway hidden within the human brain. Using advanced MRI scanning technology, the team observed that fluid flows along the middle meningeal artery in a slow, lymphatic-like pattern that differs significantly from blood flow. This finding confirms the existence of a new drainage hub in the human brain that plays a role in clearing metabolic waste. The discovery could fundamentally transform scientific understanding of brain aging, traumatic injury, and neurodegenerative diseases such as Alzheimer's. However, the current research is primarily based on imaging data, and further investigation is needed to clarify the exact mechanisms and clinical implications of this drainage system. Future research building on these findings may open new avenues for developing treatments for neurological disorders and better understanding brain health.\n\n##",
-      "aiSummaryKo": "최근 연구팀이 뇌 내부에 숨겨진 '배수 통로'를 발견했다. 연구진은 첨단 MRI 스캔 기술을 사용하여 중막동맥(middle meningeal artery)을 따라 혈액과는 다른 림프액 같은 유체가 느리게 흐르는 것을 관찰했다. 이는 인간의 뇌에 이전까지 알려지지 않았던 새로운 배액 허브의 존재를 확인하는 것으로, 뇌가 노폐물을 제거하는 메커니즘을 보여준다. 이 발견은 뇌 노화, 외상, 알츠하이머병 같은 신경 질환의 발병 메커니즘을 이해하는 방식을 근본적으로 바꿀 수 있다. 다만 현재 연구는 주로 이미징 데이터에 기반하고 있으며, 이 배수 시스템의 정확한 기능과 임상적 의의를 밝히기 위해서는 추가 연구가 필요하다. 향후 이러한 발견들이 신경 질환 치료법 개발의 새로운 길을 열 것으로 기대된다.\n\n##",
-      "aiSummaryEn": "Researchers have discovered a previously unknown waste-removal pathway hidden within the human brain. Using advanced MRI scanning technology, the team observed that fluid flows along the middle meningeal artery in a slow, lymphatic-like pattern that differs significantly from blood flow. This finding confirms the existence of a new drainage hub in the human brain that plays a role in clearing metabolic waste. The discovery could fundamentally transform scientific understanding of brain aging, traumatic injury, and neurodegenerative diseases such as Alzheimer's. However, the current research is primarily based on imaging data, and further investigation is needed to clarify the exact mechanisms and clinical implications of this drainage system. Future research building on these findings may open new avenues for developing treatments for neurological disorders and better understanding brain health.\n\n##",
-      "keyPoints": [
-        "**뇌의 숨겨진 배수 시스템 발견** / Discovery of a hidden drainage system in the brain using advanced MRI technology that reveals fluid flow along the middle meningeal artery",
-        "**림프액 같은 유체의 느린 흐름** / Fluid flows in a slow, lymphatic-like pattern distinctly different from blood circulation, revealing a new waste-clearance mechanism",
-        "**뇌 질환 연구에 혁신적 의미** / Findings could transform understanding and treatment approaches for brain aging, injury, and neurodegenerative diseases like Alzheimer's",
-        "**추가 임상 연구의 필요성** / Further research needed to fully understand the exact functions and clinical applications of this newly identified drainage pathway"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225934.htm",
-      "featured": false
-    },
-    {
-      "id": "231d22f98f30",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Casual sex is linked to lower self-esteem and weaker moral orientations in women but not men",
-      "titleKo": "일회성 성관계는 여성의 낮은 자존감과 약한 도덕적 지향성과 연관되어 있지만 남성에게는 그렇지 않다",
-      "summary": "A recent study reveals that openness to casual sex is linked to lower self-esteem and weaker moral views in women. For men, however, this sexual behavior is largely unrelated to their self-worth.",
-      "aiSummary": "Recent research demonstrates that the psychological impact of casual sex differs significantly between genders. The study examined the relationship between openness to casual sex and both self-esteem and moral orientations in male and female participants. Results showed that women who were more open to casual sex tended to report lower self-esteem and weaker moral values, while men showed minimal correlation between these variables. This gender difference is attributed to the distinct social norms and standards applied to sexual behavior across genders. The findings provide important insights into understanding gender differences in psychological well-being and sexual behavior. However, the generalizability of the results should be approached cautiously due to potential limitations in cultural context and temporal factors.\n\n##",
-      "aiSummaryKo": "최근 연구에 따르면 성별에 따라 캐주얼한 성관계가 심리적 특성에 미치는 영향이 다르게 나타난다. 이 연구는 여성과 남성 참가자들을 대상으로 캐주얼 섹스에 대한 개방성과 자존감, 도덕적 가치관의 관계를 조사했다. 연구 결과 여성의 경우 캐주얼 섹스에 개방적일수록 자존감이 낮고 도덕적 지향성이 약한 경향을 보였으나, 남성에게서는 이러한 연관성이 거의 나타나지 않았다. 이는 성에 관한 사회적 규범과 기준이 남녀에게 서로 다르게 적용되기 때문으로 해석된다. 이 연구는 심리 건강과 성행동의 성별 차이를 이해하는 데 중요한 시사점을 제공한다. 다만 연구가 특정 문화권이나 특정 시점에서 수행되었을 가능성으로 인해 일반화에 주의가 필요하다.\n\n##",
-      "aiSummaryEn": "Recent research demonstrates that the psychological impact of casual sex differs significantly between genders. The study examined the relationship between openness to casual sex and both self-esteem and moral orientations in male and female participants. Results showed that women who were more open to casual sex tended to report lower self-esteem and weaker moral values, while men showed minimal correlation between these variables. This gender difference is attributed to the distinct social norms and standards applied to sexual behavior across genders. The findings provide important insights into understanding gender differences in psychological well-being and sexual behavior. However, the generalizability of the results should be approached cautiously due to potential limitations in cultural context and temporal factors.\n\n##",
-      "keyPoints": [
-        "**성별에 따른 심리적 영향 차이** / Gender-specific psychological impacts: 여성은 캐주얼 섹스와 자존감·도덕성의 부정적 연관성을 보인 반면, 남성에게서는 이러한 관계가 미미함",
-        "**사회적 규범의 역할** / Role of social norms: 성에 관한 사회적 기준이 남녀에게 불균등하게 적용되어 심리적 결과에 차이 발생",
-        "**자존감과 도덕적 지향성의 약화** / Reduced self-esteem and moral orientation: 여성 중 캐주얼 섹스에 개방적인 집단에서 자존감 저하 및 도덕적 가치관 약화 관찰",
-        "**성적 이중 기준의 증거** / Evidence of sexual double standard: 동일한 성행동에 대해 성별에 따라 심리적 결과가 다르게 나타나며, 이는 사회적 이중 기준의 존재를 시사"
-      ],
-      "url": "https://www.psypost.org/casual-sex-is-linked-to-lower-self-esteem-and-weaker-moral-orientations-in-women-but-not-men/",
-      "featured": false
-    },
-    {
-      "id": "6e35bc6cb92b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "6시간 전 / 6h ago",
-      "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
-      "titleKo": "ReVEL: 구조화된 성능 피드백을 통한 다중 턴 반성적 대형언어모델 안내 휴리스틱 진화",
-      "summary": "arXiv:2604.04940v1 Announce Type: new Abstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing applications of large language models (LLMs) primarily rely on one-shot code synthesis, yielding brittle heuristics that underutilize the models' capacity for iterative reasoning. We propose ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback, a hybrid framework that embeds LLMs as interactive, multi-turn reasoners within an evolutionary algorithm (EA). The core of ",
-      "aiSummary": "Combinatorial optimization problems, such as NP-hard challenges, are notoriously difficult to solve and typically require expert-designed heuristics. Previous approaches using large language models (LLMs) relied primarily on one-shot code generation, which fails to leverage the models' capacity for iterative reasoning and produces brittle solutions. The researchers proposed ReVEL (Multi-Turn Reflective LLM-Guided Heuristic Evolution), a hybrid framework that embeds LLMs as interactive, multi-turn reasoners within an evolutionary algorithm (EA). In this approach, LLMs function not merely as code generators but as adaptive problem-solvers that receive structured performance feedback and iteratively refine heuristics through multiple interaction cycles. Through structured feedback mechanisms, the framework enables heuristics to evolve progressively, resulting in more effective optimization strategies. This research demonstrates the potential of combining AI reasoning with evolutionary algorithms to address complex real-world problems. However, the abstract lacks specific numerical results, making it difficult to assess the magnitude of performance improvements.",
-      "aiSummaryKo": "조합 최적화 문제는 매우 복잡해서 효율적인 해결 방법을 찾기가 어렵다. 기존에는 대규모 언어 모델(LLM)을 한 번만 사용하여 코드를 생성하는 방식이 주로 사용되었는데, 이는 모델의 반복 추론 능력을 제대로 활용하지 못했다. 연구팀은 ReVEL이라는 새로운 프레임워크를 제안했는데, 이는 LLM을 진화 알고리즘 내에 포함시켜 여러 차례 상호작용하며 성능 피드백을 받도록 설계했다. 이 하이브리드 방식은 LLM이 단순 코드 생성자가 아니라 문제 해결 과정에서 지속적으로 개선되는 \"생각하는 파트너\"로 역할하게 한다. 구조화된 성능 피드백을 통해 휴리스틱(문제 해결 방법)이 단계별로 진화하면서 더 효과적인 최적화 전략이 개발될 수 있다. 본 연구는 복잡한 실세계 문제 해결에서 AI와 진화 알고리즘의 결합 가능성을 보여준다. 다만 연구 결과 구체적인 수치가 제시되지 않아 성능 개선 정도를 정확히 평가하기 어렵다는 한계가 있다.",
-      "aiSummaryEn": "Combinatorial optimization problems, such as NP-hard challenges, are notoriously difficult to solve and typically require expert-designed heuristics. Previous approaches using large language models (LLMs) relied primarily on one-shot code generation, which fails to leverage the models' capacity for iterative reasoning and produces brittle solutions. The researchers proposed ReVEL (Multi-Turn Reflective LLM-Guided Heuristic Evolution), a hybrid framework that embeds LLMs as interactive, multi-turn reasoners within an evolutionary algorithm (EA). In this approach, LLMs function not merely as code generators but as adaptive problem-solvers that receive structured performance feedback and iteratively refine heuristics through multiple interaction cycles. Through structured feedback mechanisms, the framework enables heuristics to evolve progressively, resulting in more effective optimization strategies. This research demonstrates the potential of combining AI reasoning with evolutionary algorithms to address complex real-world problems. However, the abstract lacks specific numerical results, making it difficult to assess the magnitude of performance improvements.",
-      "keyPoints": [
-        "**기존 한계**: 기존 LLM 활용 방식은 일회성 코드 생성에 의존하여 모델의 반복 추론 능력을 미활용 / Existing LLM approaches rely on one-shot generation, underutilizing iterative reasoning capabilities",
-        "**혁신적 방법론**: LLM을 진화 알고리즘 내에 통합하여 구조화된 피드백을 통한 다중 턴 상호작용 실현 / Novel integration of LLMs as multi-turn reasoners within evolutionary algorithms with structured feedback loops",
-        "**하이브리드 프레임워크**: AI의 추론 능력과 진화 알고리즘의 최적화 능력을 결합하여 휴리스틱이 단계적으로 개선되도록 설계 / Hybrid approach combines AI reasoning with evolutionary optimization to enable progressive heuristic refinement",
-        "**실용적 의의**: NP-hard 조합 최적화 같은 복잡한 실세계 문제 해결에 새로운 가능성 제시 / Offers promising solution pathway for complex NP-hard combinatorial optimization and real-world problem-solving"
-      ],
-      "url": "https://arxiv.org/abs/2604.04940",
       "featured": false
     }
   ]
