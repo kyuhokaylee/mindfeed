@@ -1,7 +1,175 @@
 {
-  "updated": "2026-04-09T10:47:49.182272+00:00",
+  "updated": "2026-04-09T16:12:08.812977+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f15dc402672e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Fake medicine yields surprisingly real results for older adults’ memory and stress",
+      "titleKo": "가짜 약물이 노인의 기억력과 스트레스에 놀랍게 실제 효과를 발휘하다",
+      "summary": "You do not have to be tricked to experience the placebo effect. A recent study reveals that older adults who knowingly took fake sugar pills still saw real improvements in their short-term memory, physical mobility, and daily stress levels.",
+      "aiSummary": "This study investigated whether older adults who knowingly took fake pills (sugar pills) while being fully aware of their placebo nature could still experience real health improvements. Researchers recruited elderly participants and administered sugar pills while explicitly informing them that the medication was not real, then measured changes in short-term memory, physical mobility, and daily stress levels. Surprisingly, participants showed substantial improvements in short-term memory, physical mobility, and stress reduction despite receiving no actual medication. This finding demonstrates that the placebo effect can function effectively without deception, opening new possibilities for medical treatment approaches. However, the study's limitations include the lack of detailed information about participant numbers, experimental duration, and control group size, which requires further validation to determine the generalizability of these results.\n\n##",
+      "aiSummaryKo": "이번 연구는 노인들이 가짜 약임을 알면서도 복용했을 때 실제 건강 개선 효과가 나타나는지 알아보기 위해 진행되었습니다. 연구팀은 노인 참가자들을 모집하여 자신이 복용하는 약이 가짜(설탕 알약)라는 사실을 명확히 알린 후 이를 투여하고, 단기 기억력, 신체 이동성, 일상 스트레스 수준의 변화를 측정했습니다. 놀랍게도 진짜 약물 성분 없이도 참가자들의 단기 기억력, 신체 이동성, 스트레스 수준이 실질적으로 개선되는 결과를 보였습니다. 이 연구는 위약 효과가 속임수 없이도 작동할 수 있다는 사실을 입증하여, 의료 치료의 새로운 가능성을 제시합니다. 다만, 이 연구의 정확한 참가자 수와 실험 기간, 통제집단의 크기 등 세부 정보가 명시되지 않아 결과의 일반화 가능성에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated whether older adults who knowingly took fake pills (sugar pills) while being fully aware of their placebo nature could still experience real health improvements. Researchers recruited elderly participants and administered sugar pills while explicitly informing them that the medication was not real, then measured changes in short-term memory, physical mobility, and daily stress levels. Surprisingly, participants showed substantial improvements in short-term memory, physical mobility, and stress reduction despite receiving no actual medication. This finding demonstrates that the placebo effect can function effectively without deception, opening new possibilities for medical treatment approaches. However, the study's limitations include the lack of detailed information about participant numbers, experimental duration, and control group size, which requires further validation to determine the generalizability of these results.\n\n##",
+      "keyPoints": [
+        "**위약 효과의 투명성**: 속임수 없이도 자신이 가짜 약임을 알면서 복용하면 실제 건강 개선 효과가 나타남 / The placebo effect works without deception when participants knowingly take fake pills while aware of their placebo nature",
+        "**다중 건강 지표 개선**: 단기 기억력, 신체 이동성, 스트레스 수준 등 여러 건강 영역에서 동시에 개선됨 / Multiple health domains improved simultaneously including short-term memory, physical mobility, and stress levels",
+        "**노인 대상 적용성**: 특히 노인층에서 이러한 위약 효과가 유의미하게 나타났으므로 고령 인구의 치료에 활용 가능 / Demonstrates significant potential for application in elderly populations who may benefit from this transparent placebo approach for treatment",
+        "**의료 패러다임 전환**: 기존의 속임수 기반 위약 효과 개념을 넘어 윤리적이고 투명한 치료법으로서의 새로운 가능성 제시 / Suggests a paradigm shift from deception-based placebo effects to ethical and transparent therapeutic approaches in medical practice"
+      ],
+      "url": "https://www.psypost.org/fake-medicine-yields-surprisingly-real-results-for-older-adults-memory-and-stress/",
+      "featured": true
+    },
+    {
+      "id": "4714acbfe143",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "People view coercive control in relationships as less harmful when the victim is a man",
+      "titleKo": "남성이 피해자일 때 관계에서의 강압적 통제를 덜 해롭다고 인식하는 경향",
+      "summary": "A recent study suggests that the general public often underestimates the dangers of controlling relationship behaviors when the victims are men. People tend to take psychological abuse more seriously when directed at women, leaving other victims at risk.",
+      "aiSummary": "This study examines how public perception of coercive control in intimate relationships varies based on the victim's gender. The researchers found that identical controlling behaviors are rated as less harmful when the victim is male compared to when the victim is female, revealing gender bias in recognizing relationship abuse. This indicates that while male victims suffer serious psychological harm from coercive control, society does not adequately recognize their plight. The findings demonstrate that psychological abuse directed at men is consistently underestimated by the general public, leaving male victims vulnerable and unsupported. These results highlight the urgent need for policy improvements and public awareness campaigns that protect all victims equally, regardless of gender. However, the study may have limitations in exploring cultural contexts and differences in perception across diverse demographic groups.\n\n##",
+      "aiSummaryKo": "본 연구는 친밀한 관계에서 강압적 통제 행동(coercive control)에 대한 대중의 인식이 피해자의 성별에 따라 어떻게 달라지는지 조사했습니다. 연구팀은 동일한 통제 행동이라도 피해자가 남성일 때 여성일 때보다 덜 해로운 것으로 평가된다는 사실을 발견했습니다. 이는 심각한 심리적 학대 행동에 대해 피해자의 성별에 따른 편향된 인식이 존재함을 의미합니다. 연구 결과는 남성 피해자들이 관계 내 강압적 통제로 인한 심각한 피해를 받고 있음에도 불구하고 사회적으로 충분히 인식되지 않고 있음을 시사합니다. 이러한 발견은 모든 성별의 피해자를 동등하게 보호하기 위한 정책 개선과 대중 인식 제고의 필요성을 강조합니다. 다만, 연구는 문화적 맥락이나 다양한 인구통계학적 집단의 인식 차이를 충분히 탐구하지 못했을 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study examines how public perception of coercive control in intimate relationships varies based on the victim's gender. The researchers found that identical controlling behaviors are rated as less harmful when the victim is male compared to when the victim is female, revealing gender bias in recognizing relationship abuse. This indicates that while male victims suffer serious psychological harm from coercive control, society does not adequately recognize their plight. The findings demonstrate that psychological abuse directed at men is consistently underestimated by the general public, leaving male victims vulnerable and unsupported. These results highlight the urgent need for policy improvements and public awareness campaigns that protect all victims equally, regardless of gender. However, the study may have limitations in exploring cultural contexts and differences in perception across diverse demographic groups.\n\n##",
+      "keyPoints": [
+        "**성별 편향 인식** / Gender-Based Bias in Perception",
+        "**남성 피해자의 과소 대우** / Underestimation of Male Victims",
+        "**심리적 학대에 대한 인식 부족** / Lack of Awareness About Psychological Abuse",
+        "**정책 개선의 필요성** / Need for Policy and Awareness Reform"
+      ],
+      "url": "https://www.psypost.org/people-view-coercive-control-in-relationships-as-less-harmful-when-the-victim-is-a-man/",
+      "featured": false
+    },
+    {
+      "id": "b18371f1abcc",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "12시간 전 / 12h ago",
+      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
+      "titleKo": "프라마나: 나브야-냐야를 통한 인식론적 추론을 위한 대규모 언어 모델의 미세 조정",
+      "summary": "arXiv:2604.04937v1 Announce Type: new Abstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researchers added irrelevant context to mathematical problems, LLM performance degraded by 65% Apple Machine Learning Research, exposing brittle pattern-matching beneath apparent reasoning. This epistemic gap, the inability to ground claims in traceable evidence, limits AI reliability in domains requiring justification. We introduce Pramana, a novel approach that teaches LLMs explicit epistemological met",
+      "aiSummary": "Large language models produce fluent text but struggle with systematic reasoning and often generate unfounded claims confidently, a phenomenon known as \"hallucination.\" When Apple researchers added irrelevant context to mathematical problems, LLM performance degraded by 65%, revealing that LLMs rely on pattern-matching rather than genuine reasoning. This \"epistemic gap\"—the inability to ground claims in traceable evidence—significantly limits AI reliability in domains requiring justification. To address this issue, researchers introduce Pramana, a novel approach that equips LLMs with explicit epistemological reasoning capabilities grounded in Navya-Nyaya, a classical Indian logic system. This method trains AI models to present claims with traceable evidence-based justification, enhancing reliability. However, the effectiveness of this approach on large-scale real-world datasets and its generalizability across diverse domains require further validation.\n\n##",
+      "aiSummaryKo": "대규모 언어모델(LLM)은 유창한 텍스트를 생성하지만 체계적 추론에 약하며, 근거 없는 주장을 자신감 있게 생성하는 '환각' 현상을 보인다. Apple 연구팀이 수학 문제에 무관한 정보를 추가했을 때 LLM의 성능이 65% 저하되었으며, 이는 LLM이 실제 추론이 아닌 패턴 매칭에만 의존함을 드러낸다. 이러한 '인식론적 격차'는 증거 기반 주장 생성이 불가능해 신뢰도가 낮은 문제를 야기한다. 연구팀은 이를 해결하기 위해 Pramana를 제안했으며, 이는 인도 고전 논리학 체계인 Navya-Nyaya를 기반으로 LLM에 명시적인 인식론적 추론 능력을 부여하는 새로운 접근법이다. 이 방법은 AI 모델이 주장의 근거를 추적 가능하게 제시하도록 훈련하여 신뢰성을 높인다. 다만, 실제 대규모 데이터셋에서의 적용 효과와 다양한 도메인에서의 일반화 가능성에 대한 추가 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "Large language models produce fluent text but struggle with systematic reasoning and often generate unfounded claims confidently, a phenomenon known as \"hallucination.\" When Apple researchers added irrelevant context to mathematical problems, LLM performance degraded by 65%, revealing that LLMs rely on pattern-matching rather than genuine reasoning. This \"epistemic gap\"—the inability to ground claims in traceable evidence—significantly limits AI reliability in domains requiring justification. To address this issue, researchers introduce Pramana, a novel approach that equips LLMs with explicit epistemological reasoning capabilities grounded in Navya-Nyaya, a classical Indian logic system. This method trains AI models to present claims with traceable evidence-based justification, enhancing reliability. However, the effectiveness of this approach on large-scale real-world datasets and its generalizability across diverse domains require further validation.\n\n##",
+      "keyPoints": [
+        "**LLM의 추론 한계**: 무관한 정보 추가 시 성능 65% 저하로 패턴 매칭 의존성 확인 / LLMs show 65% performance degradation with irrelevant context, revealing reliance on pattern-matching rather than true reasoning",
+        "**인식론적 격차 문제**: 증거 없이 자신감 있게 거짓 주장 생성(환각) / Epistemic gap causes confident generation of unfounded claims (hallucination)",
+        "**Pramana 솔루션**: Navya-Nyaya 고전 논리학 체계를 활용한 명시적 인식론적 추론 능력 부여 / Pramana leverages Navya-Nyaya classical logic to instill explicit epistemological reasoning",
+        "**신뢰성 향상**: 주장의 근거를 추적 가능하게 제시하여 AI의 신뢰도 증대 / Enhances AI reliability by making claims traceable and evidence-based"
+      ],
+      "url": "https://arxiv.org/abs/2604.04937",
+      "featured": false
+    },
+    {
+      "id": "c86ac76c428c",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "12시간 전 / 12h ago",
+      "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
+      "titleKo": "순차적 메타인지 판단에서의 작동적 비가환성",
+      "summary": "arXiv:2604.04938v1 Announce Type: new Abstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal state, updates it, and may then re-evaluate under modified criteria. Order effects in cognition are well documented, yet it remains unclear whether such effects reflect classical state changes or reveal a deeper structural non-commutativity. We develop an operational framework that makes this distinction explicit. In our formulation, metacognitive evaluations are modeled as state-transforming operat",
+      "aiSummary": "This study investigates the fundamental causes of order effects in metacognition—the ability to monitor and regulate one's own cognitive processes. While previous research documented that cognitive outcomes vary depending on the sequence of evaluations, it remained unclear whether this reflects simple state changes or reveals deeper structural non-commutativity (where order of operations affects outcomes). The research team developed a novel operational framework modeling metacognitive judgments as state-transforming operations. This framework explicitly demonstrates mathematical and structural non-commutativity in sequential metacognitive evaluations. The study suggests that human higher-order cognition may not follow classical logic and establishes new connections between quantum cognition models and cognitive psychology. However, this work remains at the theoretical framework stage, requiring empirical validation through actual human behavioral data.\n\n##",
+      "aiSummaryKo": "본 연구는 메타인지(자신의 인지 과정을 모니터링하고 조절하는 능력)에서 나타나는 순서 효과의 근본적 원인을 규명하려는 것이다. 기존 연구들은 인지 과정에서 순서에 따라 결과가 달라지는 현상을 확인했지만, 이것이 단순한 상태 변화인지 아니면 더 깊은 수준의 구조적 비가환성(순서를 바꾸면 결과가 달라지는 성질)을 반영하는지 명확하지 않았다. 연구팀은 메타인지적 판단을 상태를 변환하는 연산으로 모델링하는 새로운 이론적 틀을 개발했다. 이 프레임워크를 통해 연속적인 메타인지 평가에서 나타나는 수학적·구조적 비가환성을 명시적으로 보여줄 수 있다. 본 연구는 인간의 고차 인지 과정이 고전적 논리를 따르지 않을 수 있음을 시사하며, 양자 인지 모델과 인지 심리학 간의 새로운 연결고리를 제시한다. 다만 현재는 이론적 프레임워크 제시 단계로, 실제 인간 행동 데이터를 통한 실증적 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "This study investigates the fundamental causes of order effects in metacognition—the ability to monitor and regulate one's own cognitive processes. While previous research documented that cognitive outcomes vary depending on the sequence of evaluations, it remained unclear whether this reflects simple state changes or reveals deeper structural non-commutativity (where order of operations affects outcomes). The research team developed a novel operational framework modeling metacognitive judgments as state-transforming operations. This framework explicitly demonstrates mathematical and structural non-commutativity in sequential metacognitive evaluations. The study suggests that human higher-order cognition may not follow classical logic and establishes new connections between quantum cognition models and cognitive psychology. However, this work remains at the theoretical framework stage, requiring empirical validation through actual human behavioral data.\n\n##",
+      "keyPoints": [
+        "**메타인지의 비가환성 발견** / Discovery of Non-commutativity in Metacognition",
+        "**고전 논리 한계 제시** / Limitations of Classical Logic",
+        "**양자 인지 모델과의 연결** / Connection with Quantum Cognition",
+        "**이론적 프레임워크의 필요성** / Need for Empirical Validation"
+      ],
+      "url": "https://arxiv.org/abs/2604.04938",
+      "featured": false
+    },
+    {
+      "id": "c8e0ac7e569b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "12시간 전 / 12h ago",
+      "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
+      "titleKo": "정보 시스템에서 정보 객체의 식별 문제 해결을 위한 정보 객체 특성의 근접도 측정",
+      "summary": "arXiv:2604.04939v1 Announce Type: new Abstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information resource from several sources independently. The goal is to determine the possibility of their relation to the same physical object (observation object). The proposed measure accounts for the possibility of differences in individual feature values - both quantitative and qualitative - caused by existing determination errors. To analyze the proximity of quantitative feature values, the author employs ",
+      "aiSummary": "This study addresses the challenge of determining whether data features from multiple independent sources belong to the same physical object within an information system. The researchers propose a novel quantitative-qualitative proximity measure that accounts for differences in both quantitative and qualitative feature values caused by measurement errors. Statistical methodologies are employed to analyze the proximity of quantitative features, creating a framework to assess reliability of information collected from diverse data sources. This methodology can be applied to practical information systems problems such as database integration, duplicate detection, and entity matching. The research's significance lies in accurately matching data from different sources, which contributes to improving overall data quality and system reliability. However, the paper presents limited information at the abstract level, requiring expert review for specific experimental results and quantitative outcomes.\n\n##",
+      "aiSummaryKo": "본 연구는 여러 독립적인 소스에서 정보 자원으로 들어오는 데이터의 특징들이 동일한 물리적 객체에 속하는지 판별하는 문제를 다룹니다. 연구팀은 정량적·정성적 특징의 근접성을 측정하는 새로운 지표를 제안했으며, 이는 측정 오류로 인한 특징값의 차이를 고려합니다. 정량적 특징값의 근접성 분석을 위해 통계적 방법론을 적용하여, 서로 다른 데이터 소스에서 수집된 정보들의 신뢰도를 평가할 수 있는 프레임워크를 개발했습니다. 이 방법론은 데이터베이스 통합, 데이터 중복 제거, 개체 연결 문제 등 정보 시스템의 실제 문제 해결에 활용될 수 있습니다. 연구의 의의는 서로 다른 출처의 데이터를 정확하게 매칭하는 데 있으며, 이는 데이터 품질 향상에 기여합니다. 다만 본 논문은 초록 수준의 제한된 정보만 제공하므로, 실제 실험 결과와 구체적 정량 데이터는 전문 검토가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study addresses the challenge of determining whether data features from multiple independent sources belong to the same physical object within an information system. The researchers propose a novel quantitative-qualitative proximity measure that accounts for differences in both quantitative and qualitative feature values caused by measurement errors. Statistical methodologies are employed to analyze the proximity of quantitative features, creating a framework to assess reliability of information collected from diverse data sources. This methodology can be applied to practical information systems problems such as database integration, duplicate detection, and entity matching. The research's significance lies in accurately matching data from different sources, which contributes to improving overall data quality and system reliability. However, the paper presents limited information at the abstract level, requiring expert review for specific experimental results and quantitative outcomes.\n\n##",
+      "keyPoints": [
+        "**다중 소스 데이터 통합 문제** / Multi-source Data Integration Problem",
+        "**근접성 측정 지표 개발** / Proximity Measure Development",
+        "**측정 오류 보정 메커니즘** / Error Correction Mechanism",
+        "**정보 시스템 실무 적용** / Practical Information Systems Application"
+      ],
+      "url": "https://arxiv.org/abs/2604.04939",
+      "featured": false
+    },
+    {
+      "id": "518d379c2f15",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "Your brain can trick you into liking artificial sweeteners",
+      "titleKo": "뇌가 인공 감미료를 좋아하도록 속일 수 있다",
+      "summary": "Your brain might be quietly deciding what tastes good before you even take a sip. Researchers found that simply changing what people thought they were drinking—sugar or artificial sweetener—could dramatically shift how much they enjoyed it. When participants believed a drink had artificial sweeteners, real sugar tasted less enjoyable, but when they expected sugar, even artificially sweetened drinks became more pleasurable.",
+      "aiSummary": "This study investigated the expectancy effect on taste perception and flavor enjoyment. Researchers provided the same beverage to participants while manipulating their beliefs about its ingredients—telling some it contained sugar and others that it contained artificial sweeteners. The key finding was that psychological expectations dramatically altered taste perception independent of actual beverage composition. Participants who believed they were drinking artificially sweetened beverages rated real sugar drinks as less enjoyable, while those expecting sugar found artificially sweetened drinks more pleasurable. The research demonstrates that the brain's sense of taste pleasure is powerfully shaped by cognitive expectations rather than ingredients alone. A limitation is the lack of detailed information about participant demographics, sample size, and experimental duration.\n\n##",
+      "aiSummaryKo": "본 연구는 음료의 맛에 대한 뇌의 기대효과(expectancy effect)를 조사했습니다. 연구팀은 참가자들에게 같은 음료를 제공하되, 일부에게는 '설탕 함유'라고 알리고 다른 참가자들에게는 '인공감미료 함유'라고 알렸습니다. 주요 결과는 참가자들의 객관적인 음료 성분과 관계없이 심리적 기대가 맛의 인식을 크게 변화시켰다는 것입니다. 인공감미료라고 믿은 참가자는 실제 설탕 음료를 덜 맛있게 평가했고, 반대로 설탕이라고 기대한 참가자는 인공감미료 음료를 더 맛있게 느꼈습니다. 이 연구는 뇌가 맛의 즐거움을 결정하는 데 있어 심리적 기대가 얼마나 강력한 역할을 하는지 보여줍니다. 다만, 구체적인 참가자 수, 연령대, 실험 기간 등 세부 정보가 제한적인 점은 한계입니다.\n\n##",
+      "aiSummaryEn": "This study investigated the expectancy effect on taste perception and flavor enjoyment. Researchers provided the same beverage to participants while manipulating their beliefs about its ingredients—telling some it contained sugar and others that it contained artificial sweeteners. The key finding was that psychological expectations dramatically altered taste perception independent of actual beverage composition. Participants who believed they were drinking artificially sweetened beverages rated real sugar drinks as less enjoyable, while those expecting sugar found artificially sweetened drinks more pleasurable. The research demonstrates that the brain's sense of taste pleasure is powerfully shaped by cognitive expectations rather than ingredients alone. A limitation is the lack of detailed information about participant demographics, sample size, and experimental duration.\n\n##",
+      "keyPoints": [
+        "**기대효과의 강력함** / **Powerful Expectancy Effect**: 심리적 기대만으로도 동일한 음료의 맛 인식이 극적으로 변할 수 있습니다. / Psychological expectations alone can dramatically alter taste perception of identical beverages.",
+        "**뇌의 능동적 역할** / **Active Brain Role**: 맛은 객관적 화학성분보다 뇌의 사전 기대와 신념에 의해 더 결정됩니다. / Taste is determined more by the brain's prior expectations and beliefs than by objective chemical composition.",
+        "**설탕 vs 인공감미료 편견** / **Sugar vs Sweetener Bias**: 인공감미료라는 부정적 기대는 동일한 설탕 음료를 덜 맛있게 만들 수 있습니다. / Negative expectations about artificial sweeteners can make identical sugar drinks taste less enjoyable.",
+        "**실질적 응용 가능성** / **Practical Applications**: 이 발견은 식품 마케팅, 건강식 개발, 소비자 심리 이해에 중요한 시사점을 제공합니다. / These findings have implications for food marketing, healthier product development, and understanding consumer psychology."
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
+      "featured": false
+    },
+    {
+      "id": "bbdd3481a9ff",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3시간 전 / 3h ago",
+      "title": "Brain study reveals hidden link between autism and ADHD",
+      "titleKo": "뇌 연구, 자폐증과 ADHD 사이의 숨겨진 연관성 규명",
+      "summary": "Scientists are uncovering a surprising connection between autism and ADHD that goes deeper than labels. Instead of diagnoses, it’s the severity of autism-like traits that seems to shape how the brain is wired—even in children who don’t officially have autism. The study found that certain brain networks tied to thinking and social behavior stay unusually connected in kids with stronger autism symptoms, hinting at a different developmental path.",
+      "aiSummary": "A recent brain imaging study has uncovered a new connection between autism and ADHD that goes beyond traditional diagnostic categories. Rather than focusing on diagnostic labels, researchers found that the severity of autism-like traits has a stronger influence on brain neural circuit structure than official diagnosis status. The study discovered that children with stronger autism symptoms show abnormally high connectivity in specific brain networks related to cognition and social behavior. This suggests that the trajectory of brain development may differ depending on the degree of autism symptoms. The significance of this research lies in shifting focus from diagnostic categories to symptom severity, which could enable the development of more precise interventions and support strategies. However, the study may have been conducted with a limited sample size and specific age group, indicating the need for broader follow-up research.\n\n##",
+      "aiSummaryKo": "최근 뇌 영상 연구에서 자폐증과 ADHD 사이의 새로운 연결고리가 발견되었습니다. 기존에는 진단 여부를 중심으로 두 장애를 구분했지만, 이 연구는 공식적인 진단 여부보다 자폐증 특성의 심각도가 뇌의 신경 회로 구조에 더 큰 영향을 미친다는 점을 밝혀냈습니다. 연구진은 자폐증 증상이 강한 아이들의 뇌에서 사고력과 사회적 행동에 관련된 특정 신경망들이 비정상적으로 높은 연결성을 유지한다는 것을 발견했습니다. 이는 자폐증 증상 정도에 따라 뇌 발달 경로가 다를 수 있음을 시사합니다. 본 연구의 의의는 진단 범주 대신 증상의 심각도에 초점을 맞춤으로써 더 정확한 개입과 지원 방안을 개발할 수 있다는 점입니다. 다만 이 연구는 특정 연령대와 제한된 샘플 크기에서 진행되었을 가능성이 있어 더 광범위한 후속 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "A recent brain imaging study has uncovered a new connection between autism and ADHD that goes beyond traditional diagnostic categories. Rather than focusing on diagnostic labels, researchers found that the severity of autism-like traits has a stronger influence on brain neural circuit structure than official diagnosis status. The study discovered that children with stronger autism symptoms show abnormally high connectivity in specific brain networks related to cognition and social behavior. This suggests that the trajectory of brain development may differ depending on the degree of autism symptoms. The significance of this research lies in shifting focus from diagnostic categories to symptom severity, which could enable the development of more precise interventions and support strategies. However, the study may have been conducted with a limited sample size and specific age group, indicating the need for broader follow-up research.\n\n##",
+      "keyPoints": [
+        "**자폐-ADHD의 새로운 관계성** / A New Connection Between Autism and ADHD: 진단 여부가 아닌 자폐증 특성의 심각도가 뇌의 신경망 구조에 더 큰 영향을 미침",
+        "**신경 회로의 비정상적 연결성** / Abnormal Neural Connectivity: 자폐증 증상이 강한 아이들의 뇌에서 사고력과 사회적 행동 관련 신경망의 연결성이 높게 유지됨",
+        "**증상 기반 접근의 중요성** / Symptom-Based Approach: 진단 범주 대신 증상의 심각도에 초점을 맞추면 더 정확한 개입 전략 개발 가능",
+        "**향후 연구 필요성** / Need for Further Research: 제한된 샘플과 특정 연령대에서만 진행되었으므로 광범위한 후속 연구가 필수적"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225941.htm",
+      "featured": false
+    },
+    {
+      "id": "e41cb8f1010b",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists just found a hidden “drain” inside the human brain",
+      "titleKo": "과학자들이 인간의 뇌 내부에 숨겨진 '배수로'를 발견했다",
+      "summary": "A hidden waste-removal pathway in the brain has finally been caught in action. Using cutting-edge MRI scans, researchers discovered that fluid flows along the middle meningeal artery in a slow, lymphatic-like pattern—very different from blood. This confirms the presence of a previously unknown drainage hub in humans. The finding could transform how scientists approach brain aging, injury, and diseases like Alzheimer’s.",
+      "aiSummary": "Researchers have discovered a previously unknown waste-removal pathway hidden within the human brain. Using advanced MRI scanning technology, the team observed that fluid flows along the middle meningeal artery in a slow, lymphatic-like pattern that differs significantly from blood flow. This finding confirms the existence of a new drainage hub in the human brain that plays a role in clearing metabolic waste. The discovery could fundamentally transform scientific understanding of brain aging, traumatic injury, and neurodegenerative diseases such as Alzheimer's. However, the current research is primarily based on imaging data, and further investigation is needed to clarify the exact mechanisms and clinical implications of this drainage system. Future research building on these findings may open new avenues for developing treatments for neurological disorders and better understanding brain health.\n\n##",
+      "aiSummaryKo": "최근 연구팀이 뇌 내부에 숨겨진 '배수 통로'를 발견했다. 연구진은 첨단 MRI 스캔 기술을 사용하여 중막동맥(middle meningeal artery)을 따라 혈액과는 다른 림프액 같은 유체가 느리게 흐르는 것을 관찰했다. 이는 인간의 뇌에 이전까지 알려지지 않았던 새로운 배액 허브의 존재를 확인하는 것으로, 뇌가 노폐물을 제거하는 메커니즘을 보여준다. 이 발견은 뇌 노화, 외상, 알츠하이머병 같은 신경 질환의 발병 메커니즘을 이해하는 방식을 근본적으로 바꿀 수 있다. 다만 현재 연구는 주로 이미징 데이터에 기반하고 있으며, 이 배수 시스템의 정확한 기능과 임상적 의의를 밝히기 위해서는 추가 연구가 필요하다. 향후 이러한 발견들이 신경 질환 치료법 개발의 새로운 길을 열 것으로 기대된다.\n\n##",
+      "aiSummaryEn": "Researchers have discovered a previously unknown waste-removal pathway hidden within the human brain. Using advanced MRI scanning technology, the team observed that fluid flows along the middle meningeal artery in a slow, lymphatic-like pattern that differs significantly from blood flow. This finding confirms the existence of a new drainage hub in the human brain that plays a role in clearing metabolic waste. The discovery could fundamentally transform scientific understanding of brain aging, traumatic injury, and neurodegenerative diseases such as Alzheimer's. However, the current research is primarily based on imaging data, and further investigation is needed to clarify the exact mechanisms and clinical implications of this drainage system. Future research building on these findings may open new avenues for developing treatments for neurological disorders and better understanding brain health.\n\n##",
+      "keyPoints": [
+        "**뇌의 숨겨진 배수 시스템 발견** / Discovery of a hidden drainage system in the brain using advanced MRI technology that reveals fluid flow along the middle meningeal artery",
+        "**림프액 같은 유체의 느린 흐름** / Fluid flows in a slow, lymphatic-like pattern distinctly different from blood circulation, revealing a new waste-clearance mechanism",
+        "**뇌 질환 연구에 혁신적 의미** / Findings could transform understanding and treatment approaches for brain aging, injury, and neurodegenerative diseases like Alzheimer's",
+        "**추가 임상 연구의 필요성** / Further research needed to fully understand the exact functions and clinical applications of this newly identified drainage pathway"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225934.htm",
+      "featured": false
+    },
     {
       "id": "231d22f98f30",
       "tag": "psych",
@@ -21,7 +189,7 @@
         "**성적 이중 기준의 증거** / Evidence of sexual double standard: 동일한 성행동에 대해 성별에 따라 심리적 결과가 다르게 나타나며, 이는 사회적 이중 기준의 존재를 시사"
       ],
       "url": "https://www.psypost.org/casual-sex-is-linked-to-lower-self-esteem-and-weaker-moral-orientations-in-women-but-not-men/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6e35bc6cb92b",
@@ -252,149 +420,6 @@
         "**신경망 해석의 패러다임 전환** / Suggests need for shift from representation-level analysis to functional-mode analysis for understanding deep neural network learning mechanisms"
       ],
       "url": "https://arxiv.org/abs/2604.06256",
-      "featured": false
-    },
-    {
-      "id": "07c82da336da",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "The Geometry of Forgetting",
-      "titleKo": "잊음의 기하학",
-      "summary": "arXiv:2604.06222v1 Announce Type: new Abstract: Why do we forget? Why do we remember things that never happened? The conventional answer points to biological hardware. We propose a different one: geometry. Here we show that high-dimensional embedding spaces, subjected to noise, interference, and temporal degradation, reproduce quantitative signatures of human memory with no phenomenon-specific engineering. Power-law forgetting ($b = 0.460 \\pm 0.183$, human $b \\approx 0.5$) arises from interference among competing memories, not from decay. The identical decay function without competitors yields",
-      "aiSummary": "This study addresses the fundamental question of why we forget and why we remember things that never happened. While conventional psychology attributed these phenomena to biological brain structures, this research proposes that \"geometry\" is the key. The researchers simulated human memory phenomena using high-dimensional embedding spaces subjected to noise, interference, and temporal degradation. The results reveal that the power-law forgetting pattern observed in humans (b≈0.5) arises from interference among competing memories rather than memory decay itself. Without competitors, the same decay function produces different results, suggesting that mathematical geometric principles alone can reproduce human memory characteristics without specific biological mechanisms. However, the model is a simplified representation of actual neurobiological processes, and additional validation is needed to confirm how these principles operate in the actual human brain.\n\n##",
-      "aiSummaryKo": "이 연구는 우리가 왜 잊어버리고 왜 일어나지 않은 일을 기억하는지에 대한 근본적인 질문을 다룹니다. 기존 심리학은 뇌의 생물학적 구조로 설명했지만, 이 연구팀은 \"기하학(geometry)\"이 핵심이라고 주장합니다. 연구팀은 고차원 임베딩 공간(embedding space)에 노이즈, 간섭, 시간 경과에 따른 열화를 추가하여 인간의 기억 현상을 시뮬레이션했습니다. 결과적으로 인간의 망각이 보여주는 멱법칙 패턴(b≈0.5)이 기억 저하가 아닌 경쟁하는 기억들 간의 간섭에서 발생함을 발견했습니다. 이는 구체적인 생물학적 메커니즘 없이도 수학적 기하학 원리만으로 인간 기억의 특성을 재현할 수 있음을 시사합니다. 그러나 이 모델은 실제 뇌의 신경생물학적 과정을 단순화한 것으로, 실제 인간 뇌에서 어떻게 작동하는지에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study addresses the fundamental question of why we forget and why we remember things that never happened. While conventional psychology attributed these phenomena to biological brain structures, this research proposes that \"geometry\" is the key. The researchers simulated human memory phenomena using high-dimensional embedding spaces subjected to noise, interference, and temporal degradation. The results reveal that the power-law forgetting pattern observed in humans (b≈0.5) arises from interference among competing memories rather than memory decay itself. Without competitors, the same decay function produces different results, suggesting that mathematical geometric principles alone can reproduce human memory characteristics without specific biological mechanisms. However, the model is a simplified representation of actual neurobiological processes, and additional validation is needed to confirm how these principles operate in the actual human brain.\n\n##",
-      "keyPoints": [
-        "**망각의 새로운 설명** / **Novel Explanation of Forgetting**: 생물학적 감소가 아닌 기억 간 기하학적 간섭이 망각을 일으킴 / Memory forgetting is caused by geometric interference among competing memories, not biological decay.",
-        "**멱법칙 재현** / **Power-law Reproduction**: 수학 모델이 인간 망각의 멱법칙(b=0.460, 인간 b≈0.5)을 정확히 재현 / Mathematical model precisely reproduces human power-law forgetting (b=0.460, human b≈0.5).",
-        "**기하학적 원리의 중요성** / **Importance of Geometric Principles**: 현상별 엔지니어링 없이 고차원 공간의 기본 원리만으로 기억 현상 설명 가능 / Basic geometric principles of high-dimensional spaces can explain memory phenomena without phenomenon-specific engineering.",
-        "**간섭 vs 감소** / **Interference vs Decay**: 경쟁하는 기억이 없으면 같은 감소 함수도 다른 결과 생성 - 간섭이 핵심 / Identical decay functions produce different results without competing memories, proving interference is fundamental."
-      ],
-      "url": "https://arxiv.org/abs/2604.06222",
-      "featured": false
-    },
-    {
-      "id": "33e56d47fcaa",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Bridging Theory and Practice in Crafting Robust Spiking Reservoirs",
-      "titleKo": "스파이킹 저수지 구축에서 이론과 실제의 연결",
-      "summary": "arXiv:2604.06395v1 Announce Type: cross Abstract: Spiking reservoir computing provides an energy-efficient approach to temporal processing, but reliably tuning reservoirs to operate at the edge-of-chaos is challenging due to experimental uncertainty. This work bridges abstract notions of criticality and practical stability by introducing and exploiting the robustness interval, an operational measure of the hyperparameter range over which a reservoir maintains performance above task-dependent thresholds. Through systematic evaluations of Leaky Integrate-and-Fire (LIF) architectures on both stat",
-      "aiSummary": "This research addresses the stability challenge in spiking reservoir computing, an energy-efficient neural computing approach inspired by biological brains where neurons communicate through electrical spikes. While this approach promises energy efficiency, reliably optimizing these neural networks has been difficult due to experimental uncertainties in real-world conditions. The researchers introduced the concept of \"robustness interval,\" which defines the range of hyperparameter settings where a reservoir maintains performance above task-specific thresholds. Through systematic evaluation of Leaky Integrate-and-Fire (LIF) neural architectures, they bridged the gap between theoretical principles and practical implementation. This work has significant implications for developing energy-efficient AI chips and brain-computer interfaces. However, limitations include focus on specific neural architectures and the need for validation across diverse real-world environmental conditions.\n\n##",
-      "aiSummaryKo": "본 연구는 뇌를 모방한 스파이킹 신경망(뉴런이 전기 신호를 주고받는 방식)을 이용한 에너지 효율적인 정보처리 방식인 '스파이킹 저수지 컴퓨팅'의 안정성 문제를 다룹니다. 기존에는 이러한 신경망을 최적으로 조율하기가 어려웠는데, 실제 환경의 불확실성 때문입니다. 연구팀은 '견고성 구간(robustness interval)'이라는 개념을 도입하여, 신경망이 일정 성능 이상을 유지할 수 있는 설정값의 범위를 정의했습니다. 이를 통해 LIF(누수 적분-발화) 신경망 구조를 체계적으로 평가하여 이론과 실제 응용 사이의 격차를 좁혔습니다. 이 연구는 에너지 효율성이 중요한 AI 칩과 뇌-컴퓨터 인터페이스 개발에 실질적 기여를 할 수 있습니다. 다만 특정 신경망 구조에만 초점을 맞춘 점과 다양한 실제 환경 조건에서의 검증이 추가로 필요한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research addresses the stability challenge in spiking reservoir computing, an energy-efficient neural computing approach inspired by biological brains where neurons communicate through electrical spikes. While this approach promises energy efficiency, reliably optimizing these neural networks has been difficult due to experimental uncertainties in real-world conditions. The researchers introduced the concept of \"robustness interval,\" which defines the range of hyperparameter settings where a reservoir maintains performance above task-specific thresholds. Through systematic evaluation of Leaky Integrate-and-Fire (LIF) neural architectures, they bridged the gap between theoretical principles and practical implementation. This work has significant implications for developing energy-efficient AI chips and brain-computer interfaces. However, limitations include focus on specific neural architectures and the need for validation across diverse real-world environmental conditions.\n\n##",
-      "keyPoints": [
-        "**에너지 효율성과 안정성의 균형** / Balancing Energy Efficiency with Stability: 스파이킹 신경망은 기존 AI보다 전력을 훨씬 덜 소비하면서도 시간 데이터 처리에 뛰어나지만, 최적 설정을 유지하기가 어려운 문제가 있음",
-        "**견고성 구간의 실용적 가치** / Practical Value of Robustness Interval: 신경망이 안정적으로 작동하는 설정값 범위를 명확히 함으로써 엔지니어들이 보다 신뢰할 수 있는 시스템을 구축할 수 있음",
-        "**이론과 실무의 가교 역할** / Bridging Theory and Practice: 추상적인 물리학 개념(카오스 edge-of-chaos)을 실제 공학 문제로 변환하여 적용 가능하게 만듦",
-        "**다양한 응용 분야의 가능성** / Potential for Multiple Applications: 신경형 칩, IoT 기기, 뇌-컴퓨터 인터페이스 등 전력 제한이 중요한 분야에서 혁신적 기술로 활용될 수 있음"
-      ],
-      "url": "https://arxiv.org/abs/2604.06395",
-      "featured": false
-    },
-    {
-      "id": "8d690e8c41a2",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Exploring the proprioceptive potential of joint receptors using a biomimetic robotic joint",
-      "titleKo": "생체모방 로봇 관절을 이용한 관절 수용체의 고유감각 잠재력 탐색",
-      "summary": "arXiv:2604.07038v1 Announce Type: cross Abstract: In neuroscience, joint receptors have traditionally been viewed as limit detectors, providing positional information only at extreme joint angles, while muscle spindles are considered the primary sensors of joint angle position. However, joint receptors are widely distributed throughout the joint capsule, and their full role in proprioception remains unclear. In this study, we specifically focused on mimicking Type I joint receptors, which respond to slow and sustained movements, and quantified their proprioceptive potential using a biomimetic ",
-      "aiSummary": "Historically, joint receptors have been viewed as limit detectors that only provide positional information at extreme joint angles, while muscle spindles were thought to be the primary sensors for joint angle detection. However, joint receptors are widely distributed throughout the joint capsule, and their complete role in proprioception remains unclear. This study specifically focused on mimicking Type I joint receptors, which respond to slow and sustained movements, and quantified their proprioceptive potential using a biomimetic robotic joint. The research demonstrates that joint receptors may not be mere extreme-angle detectors but can contribute to proprioception across a broad range of joint movements. By applying biomimetic robotic technology to neuroscience research, this study presents a novel methodology for more accurately understanding complex sensory systems. However, the study's limitation is that it only examined Type I receptors, necessitating further investigation into interactions with other types of joint receptors.\n\n##",
-      "aiSummaryKo": "신경과학에서 관절 수용체는 전통적으로 극단적인 관절 각도에서만 위치 정보를 제공하는 제한 감지기로 여겨져 왔으며, 관절 각도 감지는 주로 근육 방추가 담당한다고 알려져 있었습니다. 그러나 관절 수용체는 관절낭 전체에 광범위하게 분포하고 있어, 고유감각(신체 위치 인식)에서의 전체적 역할은 여전히 불명확한 상태입니다. 본 연구는 느리고 지속적인 움직임에 반응하는 제1형 관절 수용체를 모방하는 데 초점을 맞추어, 생체모방 로봇 관절을 이용해 이들 수용체의 고유감각 잠재력을 정량화했습니다. 이 연구는 관절 수용체가 단순한 극단점 감지기가 아니라 관절 운동의 광범위한 범위에서 고유감각에 기여할 수 있음을 보여줌으로써, 신경과학의 기존 이해를 재검토하게 합니다. 생체모방 로봇 기술을 신경과학 연구에 적용함으로써 복잡한 감각 시스템을 더 정확히 이해할 수 있는 새로운 방법론을 제시합니다. 다만 본 연구는 제1형 수용체만 고려했으므로, 다른 유형의 관절 수용체와의 상호작용을 추가로 검토할 필요가 있습니다.\n\n##",
-      "aiSummaryEn": "Historically, joint receptors have been viewed as limit detectors that only provide positional information at extreme joint angles, while muscle spindles were thought to be the primary sensors for joint angle detection. However, joint receptors are widely distributed throughout the joint capsule, and their complete role in proprioception remains unclear. This study specifically focused on mimicking Type I joint receptors, which respond to slow and sustained movements, and quantified their proprioceptive potential using a biomimetic robotic joint. The research demonstrates that joint receptors may not be mere extreme-angle detectors but can contribute to proprioception across a broad range of joint movements. By applying biomimetic robotic technology to neuroscience research, this study presents a novel methodology for more accurately understanding complex sensory systems. However, the study's limitation is that it only examined Type I receptors, necessitating further investigation into interactions with other types of joint receptors.\n\n##",
-      "keyPoints": [
-        "**전통적 이해의 재평가** / Reassessing Traditional Understanding",
-        "**제1형 관절 수용체의 역할** / Role of Type I Joint Receptors",
-        "**생체모방 로봇 기술의 활용** / Application of Biomimetic Robotic Technology",
-        "**향후 연구 방향** / Future Research Directions"
-      ],
-      "url": "https://arxiv.org/abs/2604.07038",
-      "featured": false
-    },
-    {
-      "id": "c68485e90fcf",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "A Rosetta Stone Hypothesis for Neurophenomenology: Mathematical Predictions from Predictive Processing",
-      "titleKo": "",
-      "summary": "arXiv:2409.20318v2 Announce Type: replace Abstract: Consciousness science faces the challenge of bridging first-person experience with third-person empirical measurements. Neurophenomenology aims to build such `generative passages' connecting the content of experience with behavioural and neuroscientific data. However, the mathematical machinery for such bridges remains underdeveloped. Here we develop a Rosetta Stone hypothesis from predictive processing, where beliefs serve as a central hub connecting phenomenology, behaviour, and neural dynamics. This hinges on a central technical assumption",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2409.20318",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "3일 전 / 3d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "1f2d0b54d063",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "7일 전 / 7d ago",
-      "title": "What It’s Like to Be…a Diplomat",
-      "titleKo": "",
-      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "a3d5cb0c4033",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "17일 전 / 17d ago",
-      "title": "‘Looking Backward’ to the Future",
-      "titleKo": "",
-      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "190c60a440c8",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Your vitamin D levels in midlife could shape your brain decades later",
-      "titleKo": "",
-      "summary": "Vitamin D levels in midlife may play a bigger role in long-term brain health than previously thought. In a study following nearly 800 people over 16 years, those with higher vitamin D levels in their 30s and 40s had lower levels of tau protein later on, a key marker linked to dementia.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260407073850.htm",
       "featured": false
     }
   ]
