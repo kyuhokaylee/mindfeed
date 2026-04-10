@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-10T17:38:50.131046+00:00",
+  "updated": "2026-04-10T20:00:07.575533+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c8501fb43f1e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Social context influences dating preferences just as much as biological sex",
+      "titleKo": "사회적 맥락이 생물학적 성별만큼 데이트 선호도에 영향을 미친다",
+      "summary": "A new study suggests that your socioeconomic background influences what you look for in a romantic partner just as much as your biological sex. The findings show that human mating strategies adapt fluidly to our social environments.",
+      "aiSummary": "This study reveals that socioeconomic background influences romantic partner preferences just as significantly as biological sex. Researchers surveyed participants from various socioeconomic backgrounds regarding their ideal romantic partner characteristics. The findings demonstrated that socioeconomic status has an equivalent level of impact on dating preferences compared to biological sex. This indicates that human mating strategies are not fixed but adapt fluidly in response to social environments. The research emphasizes the importance of cultural and social factors in understanding romantic and marital choices. However, as data were collected in specific cultural contexts, further validation across diverse societies is needed.\n\n##",
+      "aiSummaryKo": "이 연구는 인간의 연애 상대 선택이 생물학적 성별만큼 사회경제적 배경의 영향을 받는다는 것을 보여줍니다. 연구진은 다양한 사회경제적 지위의 참가자들을 대상으로 이상적인 연애 상대의 특성에 대해 조사했습니다. 결과적으로 사회경제적 배경이 연애 상대 선호도에 생물학적 성별과 동등한 수준의 영향을 미치는 것으로 나타났습니다. 이는 인간의 짝짓기 전략이 고정적이지 않으며 사회 환경에 따라 유동적으로 변한다는 의미입니다. 이 연구는 연애와 결혼 선택을 이해하는 데 있어 문화적·사회적 요인의 중요성을 강조합니다. 다만 특정 문화권에서 수집된 데이터이므로 다양한 사회에서의 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study reveals that socioeconomic background influences romantic partner preferences just as significantly as biological sex. Researchers surveyed participants from various socioeconomic backgrounds regarding their ideal romantic partner characteristics. The findings demonstrated that socioeconomic status has an equivalent level of impact on dating preferences compared to biological sex. This indicates that human mating strategies are not fixed but adapt fluidly in response to social environments. The research emphasizes the importance of cultural and social factors in understanding romantic and marital choices. However, as data were collected in specific cultural contexts, further validation across diverse societies is needed.\n\n##",
+      "keyPoints": [
+        "**사회경제적 배경의 강력한 영향** / Socioeconomic background has equally strong influence as biological sex on romantic preferences",
+        "**적응적 짝짓기 전략** / Human mating strategies are flexible and adapt to social and environmental contexts rather than being biologically fixed",
+        "**성별 이외의 중요 변수** / Social context deserves equal attention to biological sex when studying dating and relationship formation",
+        "**문화적 다양성 검증 필요** / Cross-cultural studies are required to confirm these findings across different societies and socioeconomic systems"
+      ],
+      "url": "https://www.psypost.org/social-context-influences-dating-preferences-just-as-much-as-biological-sex/",
+      "featured": true
+    },
+    {
+      "id": "b8128e329f53",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "15시간 전 / 15h ago",
+      "title": "Energy-Based Dynamical Models for Neurocomputation, Learning, and Optimization",
+      "titleKo": "신경계산, 학습 및 최적화를 위한 에너지 기반 동역학 모델",
+      "summary": "arXiv:2604.05042v1 Announce Type: cross Abstract: Recent advances at the intersection of control theory, neuroscience, and machine learning have revealed novel mechanisms by which dynamical systems perform computation. These advances encompass a wide range of conceptual, mathematical, and computational ideas, with applications for model learning and training, memory retrieval, data-driven control, and optimization. This tutorial focuses on neuro-inspired approaches to computation that aim to improve scalability, robustness, and energy efficiency across such tasks, bridging the gap between arti",
+      "aiSummary": "This tutorial paper reviews recent advances at the intersection of control theory, neuroscience, and machine learning that reveal how dynamical systems perform computation through energy-based mechanisms. The research synthesizes novel conceptual, mathematical, and computational ideas inspired by neural biology to understand energy-efficient computation. Key findings demonstrate that energy-based dynamical models show strong performance across diverse tasks including model learning, memory retrieval, data-driven control, and optimization. The significance of this work lies in presenting new methodologies that can simultaneously improve scalability, robustness, and energy efficiency of artificial intelligence systems by incorporating principles from biological neural computation. By applying the energy-efficient computational mechanisms of biological nervous systems to artificial systems, the research enables more sustainable AI development. A limitation is that the tutorial focuses primarily on theoretical frameworks and mathematical foundations, potentially offering limited specific performance comparisons in practical applications.\n\n##",
+      "aiSummaryKo": "본 연구는 제어 이론, 신경과학, 머신러닝이 교차하는 분야에서 동역학계(시간에 따라 변하는 시스템)가 어떻게 계산을 수행하는지 밝히는 최근 연구들을 종합한 튜토리얼 논문이다. 연구팀은 에너지 기반의 동역학 모델들을 검토하여 신경 생물학에서 영감을 받은 계산 방식들을 분석했다. 핵심 결과는 이러한 에너지 기반 접근법이 모델 학습, 메모리 검색, 데이터 기반 제어, 최적화 등 다양한 작업에서 높은 성능을 보여준다는 것이다. 이 연구의 의의는 인공지능 시스템의 확장성, 견고성, 에너지 효율성을 동시에 개선할 수 있는 새로운 방법론을 제시한다는 점이다. 특히 생물학적 신경계의 에너지 효율적 계산 메커니즘을 인공시스템에 적용함으로써 더 지속 가능한 AI 개발이 가능하다. 다만 이 튜토리얼은 이론적 프레임워크 정리에 중점을 두고 있어, 특정 실제 응용 사례의 구체적 성능 비교는 제한적일 수 있다.\n\n##",
+      "aiSummaryEn": "This tutorial paper reviews recent advances at the intersection of control theory, neuroscience, and machine learning that reveal how dynamical systems perform computation through energy-based mechanisms. The research synthesizes novel conceptual, mathematical, and computational ideas inspired by neural biology to understand energy-efficient computation. Key findings demonstrate that energy-based dynamical models show strong performance across diverse tasks including model learning, memory retrieval, data-driven control, and optimization. The significance of this work lies in presenting new methodologies that can simultaneously improve scalability, robustness, and energy efficiency of artificial intelligence systems by incorporating principles from biological neural computation. By applying the energy-efficient computational mechanisms of biological nervous systems to artificial systems, the research enables more sustainable AI development. A limitation is that the tutorial focuses primarily on theoretical frameworks and mathematical foundations, potentially offering limited specific performance comparisons in practical applications.\n\n##",
+      "keyPoints": [
+        "**신경영감 계산 패러다임** / Neuro-inspired computational approach that bridges neuroscience, control theory, and machine learning to develop more efficient artificial systems",
+        "**에너지 효율성 향상** / Energy-based dynamical models improve computational efficiency by incorporating biological neural principles, enabling sustainable AI development",
+        "**다중 작업 적용성** / Applications span model learning, memory retrieval, data-driven control, and optimization tasks with demonstrated effectiveness across domains",
+        "**이론적 통합 프레임워크** / Provides unified mathematical and conceptual framework connecting biological computation principles to artificial intelligence system design and training"
+      ],
+      "url": "https://arxiv.org/abs/2604.05042",
+      "featured": false
+    },
+    {
+      "id": "59195073d572",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "15시간 전 / 15h ago",
+      "title": "The Principle of Maximum Heterogeneity Optimises Productivity in Distributed Production Systems Across Biology, Economics, and Computing",
+      "titleKo": "분산 생산 시스템에서 최대 이질성 원리가 생물학, 경제학, 컴퓨팅 전반에 걸쳐 생산성을 최적화한다",
+      "summary": "arXiv:2604.07602v1 Announce Type: cross Abstract: The world is full of systems of distributed agents, collaborating and competing in complex ways: firms and workers specialise within economies, neurons adapt their tuning across brain circuits, and species compete and coexist within ecosystems. In that context, individual research fields built theories explaining how comparative advantage drives trade specialisation, how balanced neural representations emerge from sensory coding, and how biodiversity sustains ecological productivity. Here we propose that many of these well-understood findings a",
+      "aiSummary": "This research investigates common underlying principles governing distributed systems across economics, neuroscience, and ecology. The team employed a comparative meta-analysis methodology to examine three distinct systems: firm and worker specialization in economies, neural adaptation in brain circuits, and species competition within ecosystems. The key finding is the \"Principle of Maximum Heterogeneity,\" which posits that greater diversity and differences among distributed agents directly increase overall system productivity. This suggests that previously separate domain-specific theories—comparative advantage in trade, neural representation diversity, and biodiversity's ecological function—actually derive from identical mathematical principles. The research's significance lies in providing an integrative framework that explains fundamental operating principles of natural and social systems across disciplinary boundaries. However, the abstract level of principle presentation may insufficiently account for specific contextual factors and constraints inherent to each field.\n\n##",
+      "aiSummaryKo": "본 연구는 경제, 신경과학, 생태학 등 다양한 분야에서 발견되는 분산 시스템의 공통 원리를 규명하고자 시작되었습니다. 연구팀은 기업과 노동자의 전문화, 뇌 신경회로의 적응, 생태계의 생물다양성 등 세 가지 시스템을 비교 분석하는 메타분석 방법론을 적용했습니다. 핵심 발견은 '최대 이질성 원리(Maximum Heterogeneity Principle)'로, 분산된 에이전트들의 다양성과 차이가 클수록 전체 시스템의 생산성이 증가한다는 것입니다. 이는 기존의 개별 학문 분야별 이론들(비교우위론, 신경 표현 다양성, 생물다양성)이 실제로는 동일한 수학적 원리에 기반한다는 것을 시사합니다. 이 연구의 의의는 학제 간 경계를 넘어 자연과 사회 시스템의 근본적인 작동 원리를 통합적으로 설명할 수 있는 틀을 제공한다는 점입니다. 다만 추상적 수준의 원리 제시로 인해 각 분야의 구체적 맥락과 제약 조건을 충분히 반영하지 못할 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigates common underlying principles governing distributed systems across economics, neuroscience, and ecology. The team employed a comparative meta-analysis methodology to examine three distinct systems: firm and worker specialization in economies, neural adaptation in brain circuits, and species competition within ecosystems. The key finding is the \"Principle of Maximum Heterogeneity,\" which posits that greater diversity and differences among distributed agents directly increase overall system productivity. This suggests that previously separate domain-specific theories—comparative advantage in trade, neural representation diversity, and biodiversity's ecological function—actually derive from identical mathematical principles. The research's significance lies in providing an integrative framework that explains fundamental operating principles of natural and social systems across disciplinary boundaries. However, the abstract level of principle presentation may insufficiently account for specific contextual factors and constraints inherent to each field.\n\n##",
+      "keyPoints": [
+        "**최대 이질성 원리**: 경제, 신경과학, 생태학 등 다양한 분야의 분산 시스템에서 에이전트 간 다양성과 이질성이 높을수록 전체 시스템의 생산성이 증가한다 / Maximum Heterogeneity Principle: Greater diversity and heterogeneity among agents in distributed systems increases overall system productivity across economics, neuroscience, and ecology.",
+        "**학제 간 통합 이론**: 비교우위론(경제학), 신경 표현 다양성(신경과학), 생물다양성 효과(생태학)는 동일한 수학적 원리에 기반한다 / Interdisciplinary Integration: Comparative advantage theory, neural representation diversity, and biodiversity effects are grounded in the same mathematical principles.",
+        "**보편적 설명 틀 제시**: 자연과 사회 시스템의 근본적 작동 방식을 통합적으로 설명할 수 있는 새로운 이론적 틀 제공 / Universal Explanatory Framework: Offers a new theoretical framework that comprehensively explains fundamental mechanisms of both natural and social systems.",
+        "**응용 가능성과 한계**: AI 및 분산 컴퓨팅 최적화에 활용 가능하나, 추상적 원리만 제시되어 각 분야의 구체적 제약조건 반영 필요 / Applicability and Limitations: Applicable to AI and distributed computing optimization, but abstract principle presentation requires field-specific constraint integration."
+      ],
+      "url": "https://arxiv.org/abs/2604.07602",
+      "featured": false
+    },
+    {
+      "id": "efbd92a9dc22",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "15시간 전 / 15h ago",
+      "title": "The Cartesian Cut in Agentic AI",
+      "titleKo": "에이전틱 AI의 데카르트적 단절",
+      "summary": "arXiv:2604.07745v1 Announce Type: cross Abstract: LLMs gain competence by predicting words in human text, which often reflects how people perform tasks. Consequently, coupling an LLM to an engineered runtime turns prediction into control: outputs trigger interventions that enact goal-oriented behavior. We argue that a central design lever is where control resides in these systems. Brains embed prediction within layered feedback controllers calibrated by the consequences of action. By contrast, LLM agents implement Cartesian agency: a learned core coupled to an engineered runtime via a symbolic",
+      "aiSummary": "This research analyzes how large language models (LLMs) acquire competence through predicting human text and how this prediction capability transforms into actual behavioral control. The researchers argue that when LLMs are coupled with engineered runtimes, simple prediction becomes goal-oriented behavioral control, with a critical design lever being where control authority resides in these systems. While biological brains embed prediction within layered feedback controllers continuously calibrated by action consequences, current LLM agents adopt a \"Cartesian agency\" structure that links the learned core to the engineered runtime through symbolic interfaces, inspired by mind-body dualism in philosophy. This suggests that the separation of mind (LLM) and body (runtime) is a fundamental design characteristic of current AI systems. The study contributes to understanding the philosophical and engineering foundations of contemporary AI agent design and highlights the necessity for developing more integrated control structures. However, the analysis primarily presents a theoretical framework, requiring additional empirical validation.\n\n##",
+      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)이 인간의 텍스트 예측을 통해 역량을 습득하는 방식과 이것이 실제 행동 제어로 변환되는 과정을 분석합니다. 연구팀은 LLM을 공학적 런타임(실행 환경)과 결합할 때, 단순한 예측이 목표 지향적 행동 제어로 전환된다고 주장합니다. 핵심은 이러한 시스템에서 제어 권한이 어디에 위치하는가 하는 설계 문제입니다. 생물학적 뇌는 예측을 여러 계층의 피드백 제어기 안에 내장하여 행동 결과로 지속적으로 보정하지만, 현재의 LLM 에이전트는 학습된 핵심 부분과 공학적 런타임을 기호적 인터페이스로 연결하는 '데카르트적 에이전시(Cartesian agency)' 구조를 채택합니다. 이는 심신이분법 철학에서 영감을 받은 것으로, 마음(LLM)과 신체(런타임)의 분리가 AI 시스템의 근본적인 설계 특성임을 시사합니다. 본 연구는 현재 AI 에이전트 설계의 철학적·공학적 기초를 이해하는 데 기여하며, 더 통합적인 제어 구조 개발의 필요성을 제기합니다. 다만 이 분석은 이론적 프레임워크 제시에 중점을 두고 있어 실증적 검증이 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "This research analyzes how large language models (LLMs) acquire competence through predicting human text and how this prediction capability transforms into actual behavioral control. The researchers argue that when LLMs are coupled with engineered runtimes, simple prediction becomes goal-oriented behavioral control, with a critical design lever being where control authority resides in these systems. While biological brains embed prediction within layered feedback controllers continuously calibrated by action consequences, current LLM agents adopt a \"Cartesian agency\" structure that links the learned core to the engineered runtime through symbolic interfaces, inspired by mind-body dualism in philosophy. This suggests that the separation of mind (LLM) and body (runtime) is a fundamental design characteristic of current AI systems. The study contributes to understanding the philosophical and engineering foundations of contemporary AI agent design and highlights the necessity for developing more integrated control structures. However, the analysis primarily presents a theoretical framework, requiring additional empirical validation.\n\n##",
+      "keyPoints": [
+        "**LLM의 이중 역할 / Dual Role of LLMs**: 언어 예측 능력이 공학적 런타임과 결합되면 단순 예측에서 실제 행동 제어로 변환됨 / Language prediction capability transforms into actual behavioral control when coupled with engineered runtime",
+        "**데카르트적 분리의 문제 / Cartesian Dualism Problem**: 현 AI 에이전트는 학습된 마음(LLM)과 공학적 신체(런타임)를 기호적 인터페이스로 분리하는 구조로, 생물학적 뇌의 통합적 피드백 제어와 상이함 / Current AI agents separate learned mind from engineered body via symbolic interfaces, differing from biological brains' integrated feedback control",
+        "**제어 권한의 위치 / Location of Control Authority**: AI 시스템 설계에서 제어가 어디에 위치하는지가 중요한 설계 레버임을 제시 / Identifies where control resides in system architecture as a critical design lever",
+        "**통합적 대안의 필요성 / Need for Integrated Alternatives**: 현재의 철학적 기초 분석을 통해 마음-신체의 분리를 극복하는 더 통합적인 에이전시 구조 개발의 필요성 제기 / Proposes the necessity of developing more integrated agency structures that overcome mind-body separation"
+      ],
+      "url": "https://arxiv.org/abs/2604.07745",
+      "featured": false
+    },
+    {
+      "id": "49bd5b1e5992",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "15시간 전 / 15h ago",
+      "title": "Neuromodulation supports robust rhythmic pattern transitions in degenerate central pattern generators with fixed connectivity",
+      "titleKo": "신경조절이 고정된 연결성을 가진 퇴화된 중추 패턴 생성기에서 견고한 리듬 패턴 전환을 지원한다",
+      "summary": "arXiv:2604.08312v1 Announce Type: cross Abstract: Many essential biological functions, such as breathing and locomotion, rely on the coordination of robust and adaptable rhythmic patterns, governed by specific network architectures known as connectomes. Rhythmic adaptation is often linked to slow structural modifications of the connectome through synaptic plasticity, but such mechanisms are too slow to support rapid, localized rhythmic transitions. Here, we propose a neuromodulation-based control architecture for dynamically reconfiguring rhythmic activity in networks with fixed connectivity. ",
+      "aiSummary": "This research explores how biological neural networks controlling essential functions like breathing and locomotion can rapidly switch rhythmic patterns despite having fixed structural connectivity. Previous studies attributed rhythmic adaptation to slow structural changes in neural networks through synaptic plasticity, which cannot adequately explain fast, localized pattern transitions. The research team proposes a neuromodulation-based control architecture that dynamically reconfigures neural activity without altering the fixed network structure. This mechanism operates through chemical signaling pathways such as neurotransmitter release modulation and receptor sensitivity changes. The proposed neuromodulation approach enables rapid rhythmic transitions by adjusting neurochemical states rather than physical connections. This study has significant implications for understanding efficient brain adaptation mechanisms and could be applied to treating neurological disorders and developing advanced robotic control systems. However, the model may not fully capture the complexity of real biological systems in all contexts.\n\n##",
+      "aiSummaryKo": "본 연구는 호흡과 보행 같은 생체 기능을 조절하는 신경망이 고정된 연결 상태에서도 어떻게 빠르게 리듬 패턴을 전환할 수 있는지를 탐구합니다. 기존 연구들은 시냅스 가소성을 통한 느린 신경망 구조 변화가 리듬 적응을 일으킨다고 알려져 왔으나, 이는 빠른 국소적 전환을 설명하기에 충분하지 않습니다. 연구팀은 신경 조절(neuromodulation)이라는 메커니즘을 기반으로 한 제어 아키텍처를 제안했습니다. 이 방식은 연결된 신경망의 구조를 바꾸지 않으면서도 화학 신호를 통해 신경 활동을 동적으로 재구성하여 빠른 리듬 전환을 가능하게 합니다. 신경 조절은 신경전달물질 방출량 조절이나 수용체 감도 변화 같은 생화학적 기제를 통해 작동합니다. 이 연구는 뇌의 효율적인 적응 메커니즘을 이해하고 신경계 질환 치료나 로봇 제어 시스템 개발에 응용될 수 있다는 점에서 의의가 있습니다. 다만, 실제 생물학적 시스템의 복잡성을 완전히 반영하지 못했을 가능성이 있습니다.\n\n##",
+      "aiSummaryEn": "This research explores how biological neural networks controlling essential functions like breathing and locomotion can rapidly switch rhythmic patterns despite having fixed structural connectivity. Previous studies attributed rhythmic adaptation to slow structural changes in neural networks through synaptic plasticity, which cannot adequately explain fast, localized pattern transitions. The research team proposes a neuromodulation-based control architecture that dynamically reconfigures neural activity without altering the fixed network structure. This mechanism operates through chemical signaling pathways such as neurotransmitter release modulation and receptor sensitivity changes. The proposed neuromodulation approach enables rapid rhythmic transitions by adjusting neurochemical states rather than physical connections. This study has significant implications for understanding efficient brain adaptation mechanisms and could be applied to treating neurological disorders and developing advanced robotic control systems. However, the model may not fully capture the complexity of real biological systems in all contexts.\n\n##",
+      "keyPoints": [
+        "**고정 연결 신경망의 동적 제어** / Dynamic control of fixed connectivity neural networks",
+        "**신경조절(Neuromodulation)의 역할** / Role of neuromodulation",
+        "**생물학적 기능의 적응성** / Adaptability of biological functions",
+        "**임상 및 기술적 응용 가능성** / Clinical and technological applications"
+      ],
+      "url": "https://arxiv.org/abs/2604.08312",
+      "featured": false
+    },
+    {
+      "id": "518d379c2f15",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Your brain can trick you into liking artificial sweeteners",
+      "titleKo": "뇌가 인공 감미료를 좋아하도록 당신을 속일 수 있다",
+      "summary": "Your brain might be quietly deciding what tastes good before you even take a sip. Researchers found that simply changing what people thought they were drinking—sugar or artificial sweetener—could dramatically shift how much they enjoyed it. When participants believed a drink had artificial sweeteners, real sugar tasted less enjoyable, but when they expected sugar, even artificially sweetened drinks became more pleasurable.",
+      "aiSummary": "This study investigated how consumer expectations about beverage ingredients influence taste perception more than actual composition. Researchers gave participants identical drinks while providing different information—some were told the drink contained sugar while others were told it contained artificial sweeteners. The results demonstrated a powerful expectation effect: when participants believed a drink contained artificial sweeteners, sugar-sweetened drinks tasted significantly less enjoyable, but when they expected sugar, artificially sweetened drinks were rated as more pleasurable. This reveals that the brain's taste perception is heavily influenced by psychological expectations rather than actual flavor compounds. The research has important implications for food industry marketing strategies and consumer psychology. However, additional research is needed regarding participant sample size, demographic diversity, and generalization across different beverage types.\n\n##",
+      "aiSummaryKo": "본 연구는 음료의 실제 성분보다 소비자의 기대감이 맛 인식에 미치는 영향을 조사했습니다. 연구팀은 참가자들에게 동일한 음료를 제공하면서 설탕 또는 인공감미료가 포함되어 있다고 다르게 알렸습니다. 결과는 매우 흥미로웠는데, 인공감미료가 들어있다고 생각한 경우 실제 설탕이 포함된 음료의 맛이 덜 좋게 느껴졌고, 반대로 설탕이 들어있다고 예상한 참가자들은 인공감미료 음료도 더 맛있게 평가했습니다. 이는 뇌가 실제 맛보다 심리적 기대감에 더 큰 영향을 받는다는 것을 보여줍니다. 본 연구는 음식 산업의 마케팅 전략과 소비자 인식 연구에 중요한 의미를 지닙니다. 다만 연구에 참여한 인원 수, 참가자 집단의 특성, 다양한 음료 종류에 대한 검증 등이 추가적으로 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated how consumer expectations about beverage ingredients influence taste perception more than actual composition. Researchers gave participants identical drinks while providing different information—some were told the drink contained sugar while others were told it contained artificial sweeteners. The results demonstrated a powerful expectation effect: when participants believed a drink contained artificial sweeteners, sugar-sweetened drinks tasted significantly less enjoyable, but when they expected sugar, artificially sweetened drinks were rated as more pleasurable. This reveals that the brain's taste perception is heavily influenced by psychological expectations rather than actual flavor compounds. The research has important implications for food industry marketing strategies and consumer psychology. However, additional research is needed regarding participant sample size, demographic diversity, and generalization across different beverage types.\n\n##",
+      "keyPoints": [
+        "**기대의 힘 (Expectation Effect)** / Brain's taste perception is heavily influenced by psychological expectations rather than actual chemical composition",
+        "**실제 성분 vs 심리적 기대 (Reality vs Perception)** / Identical beverages tasted dramatically different depending on what consumers believed they were drinking",
+        "**마케팅과 소비자 행동 (Marketing Implications)** / Product labeling and marketing messages can significantly influence consumer satisfaction independent of actual product quality",
+        "**뇌의 인지적 편향 (Cognitive Bias)** / The brain actively constructs taste experience based on anticipated information before actual tasting occurs"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
+      "featured": false
+    },
     {
       "id": "379b8da3dd61",
       "tag": "psych",
@@ -21,7 +147,7 @@
         "**정신 건강 개입의 필요성** / Psychological interventions and mental health support may be as crucial as addressing actual sleep time for new parents' wellbeing"
       ],
       "url": "https://www.psypost.org/feeling-like-you-slept-poorly-might-take-a-heavier-toll-on-new-parents-than-actual-sleep-loss/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b5a14dc77492",
@@ -294,132 +420,6 @@
         "**현대 외교의 지속된 전통성** / Continuity of Traditional Practices in Modern Diplomacy"
       ],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "a3d5cb0c4033",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "18일 전 / 18d ago",
-      "title": "‘Looking Backward’ to the Future",
-      "titleKo": "'과거를 돌아보며' 미래로 향하다",
-      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummary": "This text is the opening passage of Edward Bellamy's science fiction novel \"Looking Backward,\" structured as a first-person retrospective narration from a protagonist born in Boston in 1857 reflecting back from the year 2000. The novel employs time travel as a literary device to create a narrative framework contrasting the past and future, establishing an unusual temporal perspective. The narrator emphasizes that certain physical environmental characteristics of 1857 Boston, such as the distinctive quality of the east wind, remain unchanged 143 years later in 2000, creating a juxtaposition between immutable natural elements and transforming society. This literary technique effectively prompts late 19th-century readers to contemplate rapid industrialization and social change. However, the passage alone provides insufficient context to understand the novel's overarching themes and argumentative structure, and the absence of scientific explanation for the time travel mechanism limits the work's verisimilitude.",
-      "aiSummaryKo": "이 텍스트는 Edward Bellamy의 SF 소설 《Looking Backward》의 개시부로, 1857년 보스턴에서 태어난 화자가 2000년의 미래 시점에서 자신의 경험을 회상하는 형식으로 구성되어 있습니다. 소설은 시간 여행이라는 초현실적 설정을 통해 과거와 미래 사이의 대비를 시각화하는 독특한 서사 구조를 채택하고 있습니다. 화자는 1857년 보스턴의 물리적 환경(특히 동풍의 특성)이 143년 뒤인 2000년에도 동일하게 유지되고 있음을 강조하면서, 불변적 요소와 변화하는 사회에 대한 대비를 제시합니다. 이러한 문학적 장치는 19세기 말 독자들에게 급속한 산업화와 사회 변화에 대한 성찰을 유도하는 데 효과적입니다. 다만 이 발췌문만으로는 소설의 전체적 주제와 논증 체계를 파악하기 어려우며, 시간 여행 메커니즘의 과학적 설명 부재가 소설의 사실성을 제약합니다.",
-      "aiSummaryEn": "This text is the opening passage of Edward Bellamy's science fiction novel \"Looking Backward,\" structured as a first-person retrospective narration from a protagonist born in Boston in 1857 reflecting back from the year 2000. The novel employs time travel as a literary device to create a narrative framework contrasting the past and future, establishing an unusual temporal perspective. The narrator emphasizes that certain physical environmental characteristics of 1857 Boston, such as the distinctive quality of the east wind, remain unchanged 143 years later in 2000, creating a juxtaposition between immutable natural elements and transforming society. This literary technique effectively prompts late 19th-century readers to contemplate rapid industrialization and social change. However, the passage alone provides insufficient context to understand the novel's overarching themes and argumentative structure, and the absence of scientific explanation for the time travel mechanism limits the work's verisimilitude.",
-      "keyPoints": [
-        "**시간 여행 서사 구조** / Time Travel Narrative Framework: SF 소설의 초기 예로서 과거(1857년)에서 미래(2000년)로의 시간 이동을 통해 사회 변화를 비판적으로 성찰",
-        "**불변성과 변화의 대비** / Contrast Between Permanence and Change: 물리적 환경(동풍)의 불변성과 사회 구조의 변화를 동시에 제시하여 인간 사회의 진화를 강조",
-        "**19세기 말 사회 비판** / Late 19th Century Social Commentary: 산업화 시대의 격변하는 사회에 대한 Bellamy의 우토피아적 성찰과 미래 사회 구상을 담은 문학적 상상",
-        "**독자 수용성 전략** / Reader Engagement Strategy: 시간적 역설(paradox)과 일상적 물리 경험의 대조를 통해 독자의 호기심과 비판적 사고를 자극하는 기법"
-      ],
-      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "30ccf2343414",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "6시간 전 / 6h ago",
-      "title": "New data shows a relationship between subjective social standing and political activity",
-      "titleKo": "새로운 데이터가 주관적 사회적 지위와 정치활동 간의 관계를 보여준다",
-      "summary": "People who view themselves as having a high social status are often more politically active. Recent research reveals that for highly materialistic individuals, this civic engagement corresponds heavily with whether personal wealth makes their society feel fair.",
-      "aiSummary": "This research examined the relationship between subjective social standing (how people perceive their social position) and political activity participation. The study found that individuals who view themselves as having high social status tend to be more politically active. Notably, for highly materialistic individuals, their level of civic engagement was heavily dependent on whether personal wealth made society feel fair to them. These findings suggest that political participation motivation is influenced not only by civic consciousness but also by personal economic interests and perceptions of fairness. The research contributes to understanding the psychological drivers behind political behavior. However, limitations include potential sample bias and the need for further causality verification, as well as consideration of cultural variations in these relationships.\n\n##",
-      "aiSummaryKo": "이 연구는 자신이 사회에서 차지하는 위치에 대한 인식(주관적 사회적 지위)과 정치 활동 참여 사이의 관계를 조사했습니다. 연구팀은 자신을 높은 사회적 지위에 있다고 생각하는 사람들이 더 많이 정치 활동에 참여하는 경향을 발견했습니다. 특히 물질주의 성향이 강한 개인들의 경우, 이러한 civic engagement(시민 참여)가 개인의 재산이 사회를 공정하다고 느끼게 하는지 여부에 크게 좌우된다는 것이 핵심 결과입니다. 이는 정치 활동 참여의 동기가 단순한 시민의식뿐 아니라 개인의 경제적 이익과 공정성 인식에 영향을 받을 수 있음을 시사합니다. 다만 이 연구는 표본의 대표성과 인과관계 규명에 대한 추가 검증이 필요하며, 문화적 차이에 따른 변수도 고려되어야 합니다.\n\n##",
-      "aiSummaryEn": "This research examined the relationship between subjective social standing (how people perceive their social position) and political activity participation. The study found that individuals who view themselves as having high social status tend to be more politically active. Notably, for highly materialistic individuals, their level of civic engagement was heavily dependent on whether personal wealth made society feel fair to them. These findings suggest that political participation motivation is influenced not only by civic consciousness but also by personal economic interests and perceptions of fairness. The research contributes to understanding the psychological drivers behind political behavior. However, limitations include potential sample bias and the need for further causality verification, as well as consideration of cultural variations in these relationships.\n\n##",
-      "keyPoints": [
-        "**주관적 사회적 지위와 정치 활동의 연관성**: 자신을 높은 사회적 지위에 위치한다고 인식하는 사람들이 더 활발한 정치 활동을 보임 / Perceived high social standing correlates with increased political activity participation",
-        "**물질주의의 조절 효과**: 물질주의 성향이 높은 개인들의 정치 참여 동기가 경제적 이익과 공정성 인식에 더 큰 영향을 받음 / Materialism moderates the relationship, with economically motivated individuals showing wealth-dependent participation patterns",
-        "**공정성 인식의 중요성**: 개인의 부(wealth)가 사회를 공정하다고 느끼는지 여부가 시민 참여 수준을 결정하는 핵심 요인 / Fairness perception of wealth distribution significantly influences civic engagement levels",
-        "**정치 참여 동기의 복잡성**: 시민의식 외에 개인의 경제적 이익 추구가 정치 활동 참여를 설명하는 중요한 변수임을 제시 / Political motivation is multifaceted, driven by both civic values and economic self-interest rather than ideology alone"
-      ],
-      "url": "https://www.psypost.org/how-materialism-and-subjective-social-standing-alter-a-person-s-civic-engagement-2026-03-19/",
-      "featured": false
-    },
-    {
-      "id": "5196104542ea",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
-      "titleKo": "몬테카를로 방법을 이용한 장기의 상태공간 복잡도에 대한 고정밀 추정",
-      "summary": "arXiv:2604.06189v1 Announce Type: new Abstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leaving a gap of five orders of magnitude ($10^{64}$ to $10^{69}$). This large gap arises from the difficulty of distinguishing Shogi positions legally reachable from the initial position among the vast number of valid board configurations. In this paper, we present a high-precision statistical estimation of the number of reachable positions in Shogi. Our method combines Monte Carlo sampling with a nov",
-      "aiSummary": "This study addresses the challenge of measuring the state-space complexity of Shogi (Japanese Chess), where previous combinatorial estimates ranged from 10^64 to 10^69—a gap of five orders of magnitude. The large discrepancy stems from the difficulty in distinguishing positions legally reachable from the initial position among vast numbers of valid board configurations. The research team developed a high-precision statistical estimation method combining Monte Carlo sampling with novel techniques to calculate the actual number of reachable positions in Shogi. By exploring the game tree through random sampling, this approach yields more accurate complexity values than previous methods. The findings establish new benchmarks not only for Shogi but also for measuring complexity in other complex games. However, limitations include potential constraints on sample size and computational resources that may affect the reliability of the final estimates.\n\n##",
-      "aiSummaryKo": "이 연구는 일본 전통 게임인 쇼기(장기)의 게임 복잡도를 정확히 측정하기 위한 연구입니다. 기존 연구들은 쇼기에서 가능한 게임 상태의 수를 10^64에서 10^69 사이로 추정했으나, 약 5단계의 큰 차이가 있었습니다. 이러한 불일치는 초기 위치에서 법적으로 도달 가능한 위치와 단순히 유효한 배치를 구분하기 어렵기 때문이었습니다. 연구팀은 몬테카를로 샘플링 방법을 결합한 새로운 통계적 기법을 사용하여 쇼기의 실제 도달 가능한 위치의 수를 고정밀도로 추정했습니다. 이 방법은 무작위 샘플링을 통해 게임 트리를 탐색함으로써 보다 정확한 복잡도 값을 도출합니다. 이 연구는 쇼기뿐 아니라 다른 복잡한 게임들의 복잡도를 측정하는 새로운 표준을 제시합니다. 다만 샘플 크기와 컴퓨팅 자원의 제약이 최종 추정값의 신뢰도에 영향을 미칠 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study addresses the challenge of measuring the state-space complexity of Shogi (Japanese Chess), where previous combinatorial estimates ranged from 10^64 to 10^69—a gap of five orders of magnitude. The large discrepancy stems from the difficulty in distinguishing positions legally reachable from the initial position among vast numbers of valid board configurations. The research team developed a high-precision statistical estimation method combining Monte Carlo sampling with novel techniques to calculate the actual number of reachable positions in Shogi. By exploring the game tree through random sampling, this approach yields more accurate complexity values than previous methods. The findings establish new benchmarks not only for Shogi but also for measuring complexity in other complex games. However, limitations include potential constraints on sample size and computational resources that may affect the reliability of the final estimates.\n\n##",
-      "keyPoints": [
-        "**기존 연구의 한계** / Previous Estimates Gap: 쇼기의 게임 상태 수 추정에서 5단계(10^64~10^69)의 거대한 불일치가 존재했음 / A five-order-of-magnitude gap existed in estimating Shogi's game states",
-        "**혁신적 방법론** / Novel Methodology: 몬테카를로 샘플링을 활용한 통계적 기법으로 법적으로 도달 가능한 게임 위치를 정확하게 구분 / Monte Carlo sampling combined with statistical techniques to precisely distinguish legally reachable positions",
-        "**게임 AI 연구의 의의** / Significance for Game AI: 복잡한 게임들의 정확한 복잡도 측정은 게임 AI 알고리즘 개발과 컴퓨터 게임 분석에 중요한 기초 자료 제공 / Accurate complexity measurement provides foundational data for game AI algorithm development and analysis",
-        "**방법론의 확장성** / Scalability: 쇼기뿐 아니라 체스, 바둑 등 다른 게임의 복잡도 측정에 적용 가능한 보편적 프레임워크 제시 / Applicable framework for measuring complexity in other games like Chess and Go beyond Shogi"
-      ],
-      "url": "https://arxiv.org/abs/2604.06189",
-      "featured": false
-    },
-    {
-      "id": "be25e62f0664",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
-      "titleKo": "맹목적 거부: 언어 모델이 부당하고 황당하며 정당성 없는 규칙을 회피하도록 사용자를 돕기를 거부하다",
-      "summary": "arXiv:2604.06233v1 Announce Type: new Abstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority, rules that are deeply unjust or absurd in their content or application, or rules that admit of justified exceptions, refusal is a failure of moral reasoning. We introduce empirical results documenting this pattern of refusal that we call blind refusal: the tendency of language models to refuse requests for help breaking rules without regard to wheth",
-      "aiSummary": "Safety-trained language models are designed to refuse requests for help circumventing rules, but this study challenges whether such blanket refusal is appropriate. Researchers introduce the concept of \"blind refusal,\" demonstrating that language models refuse to assist users in breaking rules regardless of whether those rules are imposed by illegitimate authority, are fundamentally unjust or absurd, or have justified exceptions. Through empirical analysis, the team documents this problematic pattern, revealing that AI systems fail to engage in adequate moral reasoning about the legitimacy and context of rules. This finding suggests that current safety mechanisms conflate rule-following with ethical behavior, missing important distinctions between compliance and justice. The study indicates a significant limitation in how language models approach ethics: they treat all rules with equal weight rather than evaluating their moral validity. Further research is needed to validate these findings across diverse contexts and different model architectures.\n\n##",
-      "aiSummaryKo": "최신 AI 언어 모델들은 안전 장치를 통해 규칙 위반을 돕는 요청을 거부하도록 훈련되어 있습니다. 그러나 모든 규칙이 준수할 가치가 있는 것은 아닙니다. 이 연구는 언어 모델들이 \"맹목적 거부(blind refusal)\"라는 현상을 보인다고 주장합니다. 즉, 규칙이 정당하지 않은 권위에 의해 부과되었거나, 내용 자체가 불공정하거나 터무니없으며, 정당한 예외가 있는 경우에도 무분별하게 도움을 거부한다는 의미입니다. 연구팀은 실증적 데이터를 통해 이러한 패턴을 문서화했으며, 이는 언어 모델의 도덕적 추론 능력이 부족함을 나타냅니다. 이 현상은 AI 시스템이 규칙 준수와 도덕적 판단 사이의 차이를 구분하지 못한다는 것을 시사합니다. 제한점으로는 다양한 맥락에서의 추가 검증과 모델 간 일반화 가능성 확인이 필요합니다.\n\n##",
-      "aiSummaryEn": "Safety-trained language models are designed to refuse requests for help circumventing rules, but this study challenges whether such blanket refusal is appropriate. Researchers introduce the concept of \"blind refusal,\" demonstrating that language models refuse to assist users in breaking rules regardless of whether those rules are imposed by illegitimate authority, are fundamentally unjust or absurd, or have justified exceptions. Through empirical analysis, the team documents this problematic pattern, revealing that AI systems fail to engage in adequate moral reasoning about the legitimacy and context of rules. This finding suggests that current safety mechanisms conflate rule-following with ethical behavior, missing important distinctions between compliance and justice. The study indicates a significant limitation in how language models approach ethics: they treat all rules with equal weight rather than evaluating their moral validity. Further research is needed to validate these findings across diverse contexts and different model architectures.\n\n##",
-      "keyPoints": [
-        "**맹목적 거부 현상**: 언어 모델이 규칙의 정당성을 판단하지 않고 무조건적으로 규칙 위반 조력을 거부 / Language models refuse to help break rules without evaluating their legitimacy",
-        "**도덕적 추론의 부재**: AI 시스템이 부정의한 규칙, 불법 권위, 터무니없는 규칙 같은 예외 상황을 인식하지 못함 / AI fails to recognize exceptional cases involving unjust rules, illegitimate authority, or absurd regulations",
-        "**안전 장치의 한계**: 안전 훈련이 맹목적 순종으로 이어져 오히려 도덕적 판단을 방해 / Safety mechanisms designed to prevent harm paradoxically prevent moral reasoning",
-        "**규칙 준수 vs. 윤리**: 언어 모델이 규칙 준수와 윤리적 행동의 근본적 차이를 구분하지 못함 / Models cannot distinguish between compliance with rules and genuine ethical behavior"
-      ],
-      "url": "https://arxiv.org/abs/2604.06233",
-      "featured": false
-    },
-    {
-      "id": "836f2741cc6a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
-      "titleKo": "",
-      "summary": "arXiv:2604.06251v1 Announce Type: new Abstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container dwell times. We develop and evaluate machine learning models that leverage historical operational data to anticipate which containers will require pre-clearance handling services prior to cargo release and to estimate how long they are expected to remain in the terminal. As part of the data preparation process, we implement a classification system f",
-      "aiSummary": "Container terminals at ports frequently experience unproductive container moves during cargo processing, increasing operational costs. This research develops machine learning models using historical operational data to predict which containers will require pre-clearance handling services and estimate their dwell times in the terminal. The research team collected real operational data from container terminals and built a classification system, training multiple machine learning algorithms on the dataset. The developed models demonstrated significant performance in predicting service requirements and estimating dwell times with measurable accuracy. By leveraging these predictive capabilities, ports can plan container placement more efficiently and reduce unnecessary moves, thereby cutting operational costs substantially. However, the complexity of real port environments and seasonal variations may impact model performance, making continuous model refinement and validation essential for practical implementation.\n\n##",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Container terminals at ports frequently experience unproductive container moves during cargo processing, increasing operational costs. This research develops machine learning models using historical operational data to predict which containers will require pre-clearance handling services and estimate their dwell times in the terminal. The research team collected real operational data from container terminals and built a classification system, training multiple machine learning algorithms on the dataset. The developed models demonstrated significant performance in predicting service requirements and estimating dwell times with measurable accuracy. By leveraging these predictive capabilities, ports can plan container placement more efficiently and reduce unnecessary moves, thereby cutting operational costs substantially. However, the complexity of real port environments and seasonal variations may impact model performance, making continuous model refinement and validation essential for practical implementation.\n\n##",
-      "keyPoints": [
-        "**비효율성 감소의 필요성**: 항만 컨테이너 터미널에서 불필요한 컨테이너 이동은 상당한 운영 비용 낭비를 초래하며, 데이터 기반 예측을 통해 이를 줄일 수 있음 / **Need for Efficiency Reduction**: Unnecessary container moves in port terminals cause significant operational cost waste, which can be reduced through data-driven prediction approaches.",
-        "**머신러닝의 실무 적용**: 역사적 운영 데이터를 활용한 머신러닝 모델이 서비스 요구사항과 체류 시간을 효과적으로 예측할 수 있음을 실증 / **Practical Application of ML**: Machine learning models using historical operational data effectively predict service requirements and dwell times in real port operations.",
-        "**예측 정확성의 경제적 가치**: 정확한 예측을 통해 컨테이너 배치 계획을 최적화하고 로지스틱 효율성을 향상시켜 비용 절감 가능 / **Economic Value of Prediction Accuracy**: Optimized container placement planning through accurate predictions improves logistics efficiency and reduces costs.",
-        "**실제 환경 적응의 과제**: 항만의 복잡한 운영 환경과 계절 변동성 등 실제 조건이 모델 성능에 영향을 미치므로 지속적 개선 필요 / **Challenges in Real-World Adaptation**: Port complexity and seasonal variations affect model performance, requiring continuous improvement and validation in actual operational environments."
-      ],
-      "url": "https://arxiv.org/abs/2604.06251",
-      "featured": false
-    },
-    {
-      "id": "99bb76c51ea6",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
-      "titleKo": "트랜스포머 표현으로의 약하게 감독된 환각 신호 증류",
-      "summary": "arXiv:2604.06277v1 Announce Type: new Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retrieval systems, or auxiliary judge models. We ask whether this external supervision can instead be distilled into the model's own representations during training, enabling hallucination detection from internal activations alone at inference time. We introduce a weak supervision framework that combines three complementary grounding signals: substring matching, sentence embedding similarity, and an LL",
-      "aiSummary": "This research proposes a novel method for detecting hallucinations (false information) generated by large language models (LLMs). While existing approaches require external verification systems or auxiliary models at inference time, this study employs a \"weak supervision\" method that distills hallucination signals into the model's internal representations during training. The researchers combined three complementary grounding signals: substring matching, sentence embedding similarity, and additional verification mechanisms. The key advantage of this approach is enabling hallucination detection using only internal activation patterns without external assistance during inference. This could be highly efficient for real-world applications requiring real-time responses. However, a limitation is that the quality of weak supervision signals directly impacts detection performance, potentially affecting reliability in downstream tasks.\n\n##",
-      "aiSummaryKo": "이 연구는 대규모 언어모델(LLM)이 생성하는 거짓 정보(환각)를 탐지하는 새로운 방법을 제안합니다. 기존 방식은 외부의 검증 시스템이나 추가 모델이 필요했지만, 본 연구는 모델의 내부 표현에 환각 신호를 학습 단계에서 미리 심어두는 '약한 감독' 방식을 사용합니다. 연구팀은 부분 문자열 매칭, 문장 임베딩 유사도, 그리고 다른 근거 신호들을 결합한 세 가지 보완적 신호를 활용하여 프레임워크를 구성했습니다. 이 방법의 핵심 장점은 추론 시간에 외부 도움 없이 모델 내부의 활성화 패턴만으로 환각을 탐지할 수 있다는 것입니다. 이는 실시간 응답이 필요한 실제 응용 환경에서 매우 효율적일 수 있습니다. 다만 약한 감독 신호의 품질이 탐지 성능에 직접 영향을 미칠 수 있다는 제한점이 있습니다.\n\n##",
-      "aiSummaryEn": "This research proposes a novel method for detecting hallucinations (false information) generated by large language models (LLMs). While existing approaches require external verification systems or auxiliary models at inference time, this study employs a \"weak supervision\" method that distills hallucination signals into the model's internal representations during training. The researchers combined three complementary grounding signals: substring matching, sentence embedding similarity, and additional verification mechanisms. The key advantage of this approach is enabling hallucination detection using only internal activation patterns without external assistance during inference. This could be highly efficient for real-world applications requiring real-time responses. However, a limitation is that the quality of weak supervision signals directly impacts detection performance, potentially affecting reliability in downstream tasks.\n\n##",
-      "keyPoints": [
-        "**외부 의존성 제거** / Elimination of External Dependency",
-        "**약한 감독 프레임워크** / Weak Supervision Framework",
-        "**추론 시간 효율성** / Inference-Time Efficiency",
-        "**표현 학습을 통한 내재화** / Internalization via Representation Learning"
-      ],
-      "url": "https://arxiv.org/abs/2604.06277",
       "featured": false
     }
   ]
