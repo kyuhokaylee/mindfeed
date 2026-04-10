@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-10T10:36:24.580624+00:00",
+  "updated": "2026-04-10T14:37:06.031160+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "317c8b98aa33",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The unexpected link between loneliness, status, and shopping habits",
+      "titleKo": "외로움, 지위, 쇼핑 습관 사이의 예상 밖의 연관성",
+      "summary": "A new study reveals how feelings of social isolation can trigger a sequence of shopping behaviors, transforming private emotional compensation into public displays of status that ultimately foster online shopping addiction.",
+      "aiSummary": "This psychological study investigates how feelings of loneliness influence shopping behaviors and consumption patterns. Researchers examined behavioral sequences triggered by social isolation and emotional disconnection. The key finding reveals that loneliness doesn't simply lead to shopping for emotional compensation; instead, it evolves into a need for public status displays that can ultimately develop into online shopping addiction. The research demonstrates a clear causal pathway: social isolation → emotional compensation shopping → status-seeking behavior → addictive shopping patterns. The significance of this work lies in providing scientific evidence for the psychological mechanisms underlying shopping addiction, which can inform intervention strategies. However, limitations include potential cultural bias, as the study may have been conducted primarily in regions with developed online shopping cultures, restricting generalizability across diverse populations.\n\n##",
+      "aiSummaryKo": "이 연구는 외로움이 쇼핑 습관에 어떤 영향을 미치는지 탐구한 심리학 연구입니다. 연구팀은 사회적 고립감을 느끼는 사람들이 어떤 쇼핑 행동 패턴을 보이는지 조사했습니다. 주요 발견은 외로움이 단순한 감정 보상을 위한 쇼핑을 넘어서, 자신의 사회적 지위를 공개적으로 드러내려는 욕구로 발전한다는 것입니다. 이러한 과정이 반복되면서 온라인 쇼핑 중독으로 진행될 수 있다는 점을 보여줍니다. 연구의 의의는 심리적 공허감과 소비 행동 사이의 연결고리를 과학적으로 증명함으로써, 쇼핑 중독의 근본 원인을 이해하는 데 도움을 준다는 것입니다. 다만 이 연구는 온라인 쇼핑 문화가 발달한 특정 지역에서만 수행되었을 가능성이 있어, 다양한 문화권에서의 일반화에는 제한이 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This psychological study investigates how feelings of loneliness influence shopping behaviors and consumption patterns. Researchers examined behavioral sequences triggered by social isolation and emotional disconnection. The key finding reveals that loneliness doesn't simply lead to shopping for emotional compensation; instead, it evolves into a need for public status displays that can ultimately develop into online shopping addiction. The research demonstrates a clear causal pathway: social isolation → emotional compensation shopping → status-seeking behavior → addictive shopping patterns. The significance of this work lies in providing scientific evidence for the psychological mechanisms underlying shopping addiction, which can inform intervention strategies. However, limitations include potential cultural bias, as the study may have been conducted primarily in regions with developed online shopping cultures, restricting generalizability across diverse populations.\n\n##",
+      "keyPoints": [
+        "**외로움의 연쇄 반응** / Cascading Effect of Loneliness",
+        "**개인적 보상에서 공개적 지위 추구로의 전환** / From Private Compensation to Public Status Display",
+        "**온라인 쇼핑 중독의 심리적 기반** / Psychological Foundation of Online Shopping Addiction",
+        "**임상적 및 정책적 시사점** / Clinical and Policy Implications"
+      ],
+      "url": "https://www.psypost.org/how-loneliness-and-the-desire-for-status-fuel-online-shopping-addiction-2026-03-20/",
+      "featured": true
+    },
+    {
+      "id": "c4999bff15d0",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Scientists uncover the neurological mechanisms behind cannabis-induced “munchies”",
+      "titleKo": "과학자들이 대마초로 인한 \"마초스(식욕증가)\" 뒤의 신경학적 메커니즘을 규명하다",
+      "summary": "By studying humans and rats, researchers pinpointed how cannabis causes hunger. The plant interacts directly with brain receptors to increase the reward value of food, driving consumption regardless of the body's caloric needs.",
+      "aiSummary": "This study aimed to uncover the neurological mechanisms explaining why cannabis induces intense hunger, commonly known as \"munchies.\" Researchers conducted comparative studies using both humans and rats as subjects to identify the underlying biological processes. The key finding revealed that cannabis directly interacts with specific brain receptors, increasing the reward value of food and thereby promoting eating behavior regardless of the body's actual caloric needs. Rather than simply affecting the digestive system's signals, cannabis operates by directly modulating the brain's reward system. This research makes an important contribution to understanding appetite regulation mechanisms and how addictive substances affect the brain. However, larger-scale clinical trials in human subjects are needed, and individual differences in response patterns require further investigation.\n\n##",
+      "aiSummaryKo": "이 연구는 대마초가 왜 극도의 식욕 증진(일명 \"munchies\")을 유발하는지 그 신경학적 메커니즘을 규명하기 위해 수행되었습니다. 연구팀은 인간과 쥐를 대상으로 비교 연구를 진행했으며, 대마초의 주요 성분이 뇌의 특정 수용체와 직접 상호작용한다는 사실을 발견했습니다. 핵심 발견은 대마초가 음식의 보상 가치(reward value)를 증가시켜, 신체가 실제로 필요로 하는 칼로리와 관계없이 식사 섭취를 촉진한다는 것입니다. 이는 단순한 소화기관의 신호가 아닌 뇌의 보상 시스템을 직접 조절하는 방식으로 작동함을 의미합니다. 본 연구는 식욕 조절 메커니즘과 중독성 물질의 작용 원리를 이해하는 데 중요한 기여를 합니다. 다만, 인간을 대상으로 한 대규모 임상 연구가 추가로 필요하며, 개인차에 따른 반응 차이도 추가로 조사되어야 합니다.\n\n##",
+      "aiSummaryEn": "This study aimed to uncover the neurological mechanisms explaining why cannabis induces intense hunger, commonly known as \"munchies.\" Researchers conducted comparative studies using both humans and rats as subjects to identify the underlying biological processes. The key finding revealed that cannabis directly interacts with specific brain receptors, increasing the reward value of food and thereby promoting eating behavior regardless of the body's actual caloric needs. Rather than simply affecting the digestive system's signals, cannabis operates by directly modulating the brain's reward system. This research makes an important contribution to understanding appetite regulation mechanisms and how addictive substances affect the brain. However, larger-scale clinical trials in human subjects are needed, and individual differences in response patterns require further investigation.\n\n##",
+      "keyPoints": [
+        "**뇌 수용체의 직접 작용** / Cannabis directly interacts with brain receptors to increase food reward value rather than affecting digestive signals",
+        "**보상 시스템의 조절** / The mechanism operates by modulating the brain's reward system, not by affecting hunger-related hormones or satiety signals",
+        "**동물 모델 활용** / Study utilized comparative research with both human and rat subjects to establish neurological parallels",
+        "**섭취 행동의 독립성** / Eating behavior is stimulated regardless of actual bodily caloric needs, demonstrating the dominance of brain reward signals over physiological hunger cues"
+      ],
+      "url": "https://www.psypost.org/scientists-uncover-the-neurological-mechanisms-behind-cannabis-induced-munchies/",
+      "featured": false
+    },
+    {
+      "id": "77f0c681069b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "10시간 전 / 10h ago",
+      "title": "Spectral Edge Dynamics Reveal Functional Modes of Learning",
+      "titleKo": "스펙트럼 엣지 역학이 드러내는 학습의 기능적 모드",
+      "summary": "arXiv:2604.06256v1 Announce Type: new Abstract: Training dynamics during grokking concentrate along a small number of dominant update directions -- the spectral edge -- which reliably distinguishes grokking from non-grokking regimes. We show that standard mechanistic interpretability tools (head attribution, activation probing, sparse autoencoders) fail to capture these directions: their structure is not localized in parameter or feature space. Instead, each direction induces a structured function over the input domain, revealing low-dimensional functional modes invisible to representation-lev",
+      "aiSummary": "This study investigates the neural mechanisms underlying \"grokking\"—a phenomenon where neural networks show sudden performance improvement after a period of stagnation during training. The researchers developed a novel methodology analyzing the \"spectral edge,\" a small number of dominant directions in neural network weight updates, to understand this mechanism. Experimental results demonstrated that these spectral edge directions reliably distinguish between grokking and non-grokking regimes. Notably, conventional mechanistic interpretability tools (head attribution, activation probing, sparse autoencoders) failed to capture these critical directions, suggesting their structure is not localized in parameter or feature space. Instead, each direction induces structured functions over the input domain, revealing low-dimensional functional modes invisible to representation-level analysis. This finding has significant implications for understanding how neural networks learn and could contribute to developing more interpretable AI systems. However, the study's limitation is its focus on specific experimental settings, requiring future validation across diverse tasks and architectures for broader generalization.\n\n##",
+      "aiSummaryKo": "본 연구는 머신러닝의 '그로킹(grokking)' 현상 - 초기에는 학습이 정체되다가 갑자기 성능이 급상승하는 현상 - 의 신경망 학습 메커니즘을 규명하고자 했다. 연구팀은 신경망 가중치 업데이트의 '스펙트럼 엣지(spectral edge)'라고 불리는 소수의 지배적인 방향들을 분석하는 새로운 방법론을 개발했다. 실험 결과, 이러한 스펙트럼 엣지 방향들이 그로킹이 발생하는 경우와 발생하지 않는 경우를 신뢰할 수 있게 구분할 수 있음을 발견했다. 주목할 점은 기존의 기계적 해석 도구들(헤드 어트리뷰션, 활성화 프로빙, 희소 자동인코더)이 이러한 중요한 방향들을 포착하지 못했다는 것이다. 대신 각 방향이 입력 영역에서의 구조화된 함수를 유도하여, 표현 수준의 분석으로는 보이지 않는 저차원의 기능적 모드를 드러낸다. 이 발견은 신경망이 어떻게 학습하는지 이해하는 데 중요한 의의가 있으며, 향후 해석 가능성 높은 AI 개발에 기여할 수 있다. 다만 연구가 특정 실험 환경에 국한되어 있어 다양한 작업과 아키텍처에 대한 일반화 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "This study investigates the neural mechanisms underlying \"grokking\"—a phenomenon where neural networks show sudden performance improvement after a period of stagnation during training. The researchers developed a novel methodology analyzing the \"spectral edge,\" a small number of dominant directions in neural network weight updates, to understand this mechanism. Experimental results demonstrated that these spectral edge directions reliably distinguish between grokking and non-grokking regimes. Notably, conventional mechanistic interpretability tools (head attribution, activation probing, sparse autoencoders) failed to capture these critical directions, suggesting their structure is not localized in parameter or feature space. Instead, each direction induces structured functions over the input domain, revealing low-dimensional functional modes invisible to representation-level analysis. This finding has significant implications for understanding how neural networks learn and could contribute to developing more interpretable AI systems. However, the study's limitation is its focus on specific experimental settings, requiring future validation across diverse tasks and architectures for broader generalization.\n\n##",
+      "keyPoints": [
+        "**스펙트럼 엣지 발견 / Spectral Edge Discovery**: 신경망 학습 중 소수의 지배적인 업데이트 방향(스펙트럼 엣지)이 그로킹 현상을 신뢰할 수 있게 구분 | A small number of dominant update directions (spectral edge) reliably distinguish grokking phenomena during neural network training.",
+        "**기존 도구의 한계 / Limitations of Conventional Tools**: 헤드 어트리뷰션, 활성화 프로빙, 희소 자동인코더 등 표준 해석 도구가 이러한 핵심 방향들을 포착하지 못함 | Standard interpretability tools fail to capture these critical directions, indicating limitations in current mechanistic interpretability approaches.",
+        "**함수 수준의 이해 / Functional-Level Understanding**: 각 방향이 입력 영역의 구조화된 함수를 유도하여 표현 수준 분석으로 보이지 않는 저차원 기능적 모드 발견 | Each direction induces structured functions revealing low-dimensional functional modes invisible to representation-level analysis.",
+        "**해석 가능한 AI 발전 / Advancement in Interpretable AI**: 신경망 학습 메커니즘의 더 깊은 이해를 통해 설명 가능성 높은 인공지능 개발에 기여 가능 | Enhanced understanding of neural network learning mechanisms contributes to developing more interpret"
+      ],
+      "url": "https://arxiv.org/abs/2604.06256",
+      "featured": false
+    },
+    {
+      "id": "381971e27c77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "24일 전 / 24d ago",
+      "title": "Facts and the Fight for Moral High Ground",
+      "titleKo": "사실과 도덕적 우위를 위한 투쟁",
+      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
+      "aiSummary": "This article examines an environmental justice case in southwest Philadelphia beginning in August 2019. Residents of the Gray's Ferry neighborhood had long suffered environmental pollution and health impacts from the nearby Philadelphia Energy Solutions refinery, the largest on the Eastern Seaboard at that time. The research documents how community members used public testimony and personal narratives to challenge environmental injustice. The case illustrates how scientific facts (pollution data, health statistics) combined with moral arguments can drive social change. The study's significance lies in demonstrating that environmental justice movements in marginalized communities can achieve real policy outcomes, including industrial facility closure. However, the provided excerpt lacks specific details about methodology, participant numbers, experimental design, and quantitative results, limiting comprehensive analysis.\n\n##",
+      "aiSummaryKo": "이 기사는 2019년 8월 필라델피아에서 일어난 환경 정의 사례를 다루고 있습니다. Gray's Ferry 지역 주민들은 오랫동안 인근 대형 정유소(Philadelphia Energy Solutions)로 인한 환경 오염과 건강 피해를 겪어왔습니다. 연구는 주민들의 증언과 공개 진술을 통해 지역사회가 환경 부정의에 맞서는 과정을 기록했습니다. 이 사례는 과학적 사실(오염 데이터, 건강 통계)과 도덕적 주장이 어떻게 사회 변화를 이끌어내는지 보여줍니다. 연구의 의의는 소수 지역사회의 환경 정의 투쟁이 실제 정책 변화(정유소 폐쇄)로 이어질 수 있음을 입증한 것입니다. 그러나 제시된 기사 발췌본만으로는 구체적인 실험 설계, 참가자 규모, 정량적 결과 수치 등이 불명확합니다.\n\n##",
+      "aiSummaryEn": "This article examines an environmental justice case in southwest Philadelphia beginning in August 2019. Residents of the Gray's Ferry neighborhood had long suffered environmental pollution and health impacts from the nearby Philadelphia Energy Solutions refinery, the largest on the Eastern Seaboard at that time. The research documents how community members used public testimony and personal narratives to challenge environmental injustice. The case illustrates how scientific facts (pollution data, health statistics) combined with moral arguments can drive social change. The study's significance lies in demonstrating that environmental justice movements in marginalized communities can achieve real policy outcomes, including industrial facility closure. However, the provided excerpt lacks specific details about methodology, participant numbers, experimental design, and quantitative results, limiting comprehensive analysis.\n\n##",
+      "keyPoints": [
+        "**환경 정의와 사실의 역할** / Environmental Justice and the Role of Facts: 과학적 증거와 도덕적 주장의 결합이 사회 변화를 이끌어냄",
+        "**지역사회 목소리의 힘** / Community Voices and Advocacy: 일반 주민들의 직접적인 증언과 공개 진술이 정책 결정에 영향을 미침",
+        "**환경 불평등의 현실** / Environmental Inequality Reality: 저소득층·소수 지역사회가 대형 오염 산업시설에 더 많이 노출됨",
+        "**집단 행동의 효과** / Efficacy of Collective Action: Gray's Ferry 주민들의 지속적인 투쟁이 결국 정유소 폐쇄라는 구체적 결과 도출"
+      ],
+      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
+      "featured": false
+    },
+    {
+      "id": "39ff72bc0b09",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "방금 전 / Just now",
+      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
+      "titleKo": "과학자들, 알츠하이머병 치료법이 완전히 잘못됐다고 지적",
+      "summary": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. Scientists are now pushing toward multi-pronged strategies, from gene editing to brain-cell rejuvenation and gut health interventions. The goal: stop treating Alzheimer’s as one disease and start tackling it as a complex system.",
+      "aiSummary": "Alzheimer's disease is not a single disorder but rather a complex interplay of biological factors, aging, and overall health conditions, according to recent scientific findings. Historically, researchers have developed treatments targeting single factors such as specific protein accumulation in the brain, but these approaches have yielded only modest benefits. Contemporary research is now shifting toward multi-pronged strategies encompassing gene editing, brain-cell rejuvenation, and gut health interventions. This represents a fundamental paradigm shift from treating Alzheimer's as a simple, monolithic disease to understanding it as a complex biological system. Multi-targeted therapeutic approaches show greater promise than traditional single-target medications. However, significant challenges remain in translating these integrated strategies into practical clinical applications, including the need for large-scale clinical trials and cost considerations.\n\n##",
+      "aiSummaryKo": "알츠하이머병은 단순한 하나의 질병이 아니라 생물학적 요인, 노화, 그리고 전반적인 건강상태가 복합적으로 얽힌 질환이라는 연구 결과가 발표되었다. 지금까지 과학자들은 뇌의 특정 단백질 축적 같은 단일 요인을 표적으로 하는 치료법을 개발해왔으나, 이러한 접근법은 제한적인 효과만 보여주었다. 최신 연구들은 이제 유전자 편집, 뇌세포 재생, 장내 건강 개선 등 다양한 방면의 통합적 전략으로 전환하고 있다. 이는 알츠하이머병을 하나의 단순한 질병으로 보기보다는 복잡한 생물학적 시스템으로 이해하고 접근해야 한다는 의미이다. 이러한 다중 표적 치료법(multi-pronged approach)은 기존의 단일 표적 약물보다 더 효과적일 가능성을 시사한다. 다만 복합적 접근이 실제 임상 치료로 적용되기까지는 추가적인 대규모 임상시험과 비용 문제 등 여러 과제가 남아있다.\n\n##",
+      "aiSummaryEn": "Alzheimer's disease is not a single disorder but rather a complex interplay of biological factors, aging, and overall health conditions, according to recent scientific findings. Historically, researchers have developed treatments targeting single factors such as specific protein accumulation in the brain, but these approaches have yielded only modest benefits. Contemporary research is now shifting toward multi-pronged strategies encompassing gene editing, brain-cell rejuvenation, and gut health interventions. This represents a fundamental paradigm shift from treating Alzheimer's as a simple, monolithic disease to understanding it as a complex biological system. Multi-targeted therapeutic approaches show greater promise than traditional single-target medications. However, significant challenges remain in translating these integrated strategies into practical clinical applications, including the need for large-scale clinical trials and cost considerations.\n\n##",
+      "keyPoints": [
+        "**질병 복잡성 인식** / Disease Complexity Recognition",
+        "**기존 치료법의 한계** / Limitations of Previous Approaches",
+        "**통합 치료 전략 전환** / Shift to Integrated Treatment Strategies",
+        "**시스템 기반 치료 패러다임** / System-Based Therapeutic Paradigm"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
+      "featured": false
+    },
+    {
+      "id": "ea6c28f8b419",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+      "titleKo": "과학자들, ALS와 치매 뒤에 숨겨진 장내 유발 요인 발견",
+      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
+      "aiSummary": "Recent research reveals that gut bacteria may be a hidden trigger for ALS and frontotemporal dementia. Specifically, harmful sugars produced by microbes can activate immune responses that damage the brain. This finding explains why only some genetically at-risk individuals develop these diseases while others remain unaffected. Importantly, experimental reduction of these harmful sugars showed improvements in brain health, opening new therapeutic possibilities. However, the study remains in its preliminary stages and requires further validation through human clinical trials. These findings could eventually lead to targeted interventions based on microbiome modification rather than genetic factors alone.\n\n##",
+      "aiSummaryKo": "최근 연구에 따르면 장내 박테리아가 근위축성 측삭경화증(ALS)과 측두엽 치매의 발병을 촉발하는 숨겨진 원인일 수 있다는 사실이 밝혀졌다. 미생물들이 생성하는 해로운 당류(당 유도체)가 뇌를 손상시키는 면역반응을 유발하는 메커니즘이 발견되었다. 이 발견은 같은 유전적 위험을 가진 사람들 중에서 일부만 질병이 발병되는 이유를 설명해준다. 연구팀이 실험에서 이러한 해로운 당류를 감소시켰을 때 뇌 건강이 개선되는 결과를 확인하여, 신약 개발의 새로운 가능성을 제시했다. 다만 이 연구는 아직 초기 단계이며, 인간 대상의 임상 시험을 통한 추가 검증이 필요하다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Recent research reveals that gut bacteria may be a hidden trigger for ALS and frontotemporal dementia. Specifically, harmful sugars produced by microbes can activate immune responses that damage the brain. This finding explains why only some genetically at-risk individuals develop these diseases while others remain unaffected. Importantly, experimental reduction of these harmful sugars showed improvements in brain health, opening new therapeutic possibilities. However, the study remains in its preliminary stages and requires further validation through human clinical trials. These findings could eventually lead to targeted interventions based on microbiome modification rather than genetic factors alone.\n\n##",
+      "keyPoints": [
+        "**장내 미생물-뇌 질환 연결고리**: 장내 박테리아가 생성하는 특정 당류가 면역계를 자극하여 ALS와 측두엽 치매를 유발할 수 있음 / Specific sugars produced by gut bacteria trigger immune responses that can cause ALS and frontotemporal dementia",
+        "**유전적 위험의 새로운 해석**: 같은 유전자 변이를 가져도 장내 미생물 환경의 차이가 질병 발병 여부를 결정하는 요소임 / Genetic predisposition alone doesn't determine disease onset; gut microbiome composition plays a crucial mediating role",
+        "**치료의 새로운 가능성**: 해로운 당류 감소로 뇌 건강이 개선되어 약물 개발과 식이 치료의 새로운 방향 제시 / Reducing harmful microbial sugars improved brain health in experiments, suggesting microbiome-targeting therapies as novel treatment approaches",
+        "**신경퇴행성 질환 이해의 전환**: 뇌 질환을 단순 신경계 문제가 아닌 장-뇌 면역계 상호작용으로 이해하는 패러다임 변화 / Shifts the understanding of neurodegenerative diseases from purely neurological to a gut-brain-immune axis perspective"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
+      "featured": false
+    },
     {
       "id": "d538943de5b8",
       "tag": "psych",
@@ -21,7 +147,7 @@
         "**심리 치료의 필요성** / Need for Psychological Intervention"
       ],
       "url": "https://www.psypost.org/new-psychology-research-explains-why-some-women-devalue-their-own-orgasms/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0a3fd970e18a",
@@ -284,122 +410,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
-      "featured": false
-    },
-    {
-      "id": "bbdd3481a9ff",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "17시간 전 / 17h ago",
-      "title": "Brain study reveals hidden link between autism and ADHD",
-      "titleKo": "",
-      "summary": "Scientists are uncovering a surprising connection between autism and ADHD that goes deeper than labels. Instead of diagnoses, it’s the severity of autism-like traits that seems to shape how the brain is wired—even in children who don’t officially have autism. The study found that certain brain networks tied to thinking and social behavior stay unusually connected in kids with stronger autism symptoms, hinting at a different developmental path.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225941.htm",
-      "featured": false
-    },
-    {
-      "id": "e41cb8f1010b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "16시간 전 / 16h ago",
-      "title": "Scientists just found a hidden “drain” inside the human brain",
-      "titleKo": "",
-      "summary": "A hidden waste-removal pathway in the brain has finally been caught in action. Using cutting-edge MRI scans, researchers discovered that fluid flows along the middle meningeal artery in a slow, lymphatic-like pattern—very different from blood. This confirms the presence of a previously unknown drainage hub in humans. The finding could transform how scientists approach brain aging, injury, and diseases like Alzheimer’s.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225934.htm",
-      "featured": false
-    },
-    {
-      "id": "06a330c801f3",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Psychedelic retreats linked to mental health improvements in people with severe childhood trauma",
-      "titleKo": "심각한 어린 시절 트라우마를 경험한 사람들의 정신 건강 개선과 연결된 환각제 심화 치료",
-      "summary": "Individuals with a history of severe childhood trauma who attended ceremonial psychedelic retreats reported marked reductions in anxiety and increased well-being. The findings suggest psychedelics could offer a novel approach for populations historically resistant to traditional mental health therapies.",
-      "aiSummary": "The study examined the effects of ceremonial psychedelic use on mental health outcomes in individuals with severe childhood trauma. Participants with trauma histories attended guided psychedelic retreats conducted in structured, supportive settings. Results showed significant reductions in anxiety symptoms and marked improvements in overall well-being and mental health indicators among retreat attendees. These findings suggest psychedelics may offer a novel therapeutic approach for trauma survivors who have historically shown resistance to conventional mental health treatments. However, the research had notable limitations, including the absence of a control group, small sample size, and lack of long-term follow-up data to assess sustained effects.\n\n##",
-      "aiSummaryKo": "심각한 어린 시절 트라우마를 경험한 사람들을 대상으로 의식적 사이코델릭 약물 사용이 정신건강에 미치는 영향을 연구했다. 연구에 참여한 트라우마 생존자들은 의식적 환경에서 진행되는 사이코델릭 레트릿(명상/치료 프로그램)에 참석했다. 연구 결과, 프로그램 참여자들은 불안감이 현저히 감소했고 전반적인 삶의 만족도와 정신건강이 유의미하게 개선되었다. 이 발견은 전통적 정신치료에 반응하지 않던 사람들에게 사이코델릭이 새로운 치료 대안이 될 수 있음을 시사한다. 다만 이 연구는 통제 집단이 없었고 표본 크기가 제한적이었으며, 장기 효과에 대한 추적 데이터가 부족한 한계가 있다.\n\n##",
-      "aiSummaryEn": "The study examined the effects of ceremonial psychedelic use on mental health outcomes in individuals with severe childhood trauma. Participants with trauma histories attended guided psychedelic retreats conducted in structured, supportive settings. Results showed significant reductions in anxiety symptoms and marked improvements in overall well-being and mental health indicators among retreat attendees. These findings suggest psychedelics may offer a novel therapeutic approach for trauma survivors who have historically shown resistance to conventional mental health treatments. However, the research had notable limitations, including the absence of a control group, small sample size, and lack of long-term follow-up data to assess sustained effects.\n\n##",
-      "keyPoints": [
-        "심각한 어린 시절 트라우마 환자의 불안감이 현저히 감소 / Significant reduction in anxiety symptoms in severe childhood trauma survivors",
-        "의식적 사이코델릭 레트릿을 통한 정신건강 개선 / Mental health improvements through ceremonial psychedelic retreats",
-        "전통 치료에 저항적이던 집단에 새로운 치료 대안 제시 / Novel therapeutic alternative for populations resistant to traditional mental health therapies",
-        "제한된 표본과 대조군 부재 등 추가 연구 필요 / Need for further research with control groups and larger sample sizes"
-      ],
-      "url": "https://www.psypost.org/psychedelic-retreats-linked-to-mental-health-improvements-in-people-with-severe-2026-03-20/",
-      "featured": false
-    },
-    {
-      "id": "b5a14dc77492",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "A Benchmark of Classical and Deep Learning Models for Agricultural Commodity Price Forecasting on A Novel Bangladeshi Market Price Dataset",
-      "titleKo": "새로운 방글라데시 시장 가격 데이터셋을 이용한 농산물 가격 예측의 고전적 머신러닝 모델과 딥러닝 모델 벤치마크",
-      "summary": "arXiv:2604.06227v1 Announce Type: new Abstract: Accurate short-term forecasting of agricultural commodity prices is critical for food security planning and smallholder income stabilisation in developing economies, yet machine-learning-ready datasets for this purpose remain scarce in South Asia. This paper makes two contributions. First, we introduce AgriPriceBD, a benchmark dataset of 1,779 daily retail mid-prices for five Bangladeshi commodities - garlic, chickpea, green chilli, cucumber, and sweet pumpkin - spanning July 2020 to June 2025, extracted from government reports via an LLM-assiste",
-      "aiSummary": "This study compared classical machine learning and deep learning models for predicting agricultural commodity prices in Bangladesh. Researchers constructed the 'AgriPriceBD' benchmark dataset containing 1,779 daily retail prices for five commodities—garlic, chickpea, green chilli, cucumber, and sweet pumpkin—spanning from July 2020 to June 2025, extracted from government reports using LLM assistance. Various forecasting models including ARIMA, LSTM, and Transformer were applied to this dataset to compare prediction accuracy. The research findings serve as crucial baseline data for food security planning and income stabilization of smallholder farmers in developing nations. The study's key significance is providing the first machine-learning-ready agricultural dataset for South Asia, addressing a previously scarce resource. However, limitations include the dataset covering only certain regions of Bangladesh and inadequate incorporation of external factors such as climate changes and policy shifts affecting prices.\n\n##",
-      "aiSummaryKo": "본 연구는 방글라데시의 농산물 가격 변동을 예측하기 위해 고전적 머신러닝과 딥러닝 모델을 비교 분석했습니다. 연구팀은 2020년 7월부터 2025년 6월까지 5년간 마늘, 병아리콩, 청고추, 오이, 단호박 등 5개 농산물의 일일 소매가격 1,779개 데이터를 정부 보고서에서 수집하여 'AgriPriceBD' 벤치마크 데이터셋을 구축했습니다. 이 데이터셋에 ARIMA, LSTM, Transformer 등 다양한 모델을 적용하여 가격 예측 정확도를 비교했습니다. 연구 결과는 개발도상국의 식량 안보 계획과 영세농의 소득 안정화에 중요한 기초 자료가 됩니다. 본 연구의 주요 의의는 남아시아 지역의 부족했던 머신러닝용 농업 데이터셋을 처음으로 제공한 것입니다. 다만 방글라데시의 일부 지역 데이터만 포함되어 있고, 외부 요인(기후, 정책 변화)이 충분히 반영되지 않았다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study compared classical machine learning and deep learning models for predicting agricultural commodity prices in Bangladesh. Researchers constructed the 'AgriPriceBD' benchmark dataset containing 1,779 daily retail prices for five commodities—garlic, chickpea, green chilli, cucumber, and sweet pumpkin—spanning from July 2020 to June 2025, extracted from government reports using LLM assistance. Various forecasting models including ARIMA, LSTM, and Transformer were applied to this dataset to compare prediction accuracy. The research findings serve as crucial baseline data for food security planning and income stabilization of smallholder farmers in developing nations. The study's key significance is providing the first machine-learning-ready agricultural dataset for South Asia, addressing a previously scarce resource. However, limitations include the dataset covering only certain regions of Bangladesh and inadequate incorporation of external factors such as climate changes and policy shifts affecting prices.\n\n##",
-      "keyPoints": [
-        "**데이터셋 구축**: 방글라데시 5개 농산물의 5년간 1,779개 일일 가격 데이터를 정부 보고서에서 LLM을 활용하여 수집·구성 / **Dataset Construction**: Compiled 1,779 daily price records for five Bangladeshi commodities over five years using LLM-assisted extraction from government reports",
-        "**모델 비교 분석**: ARIMA, LSTM, Transformer 등 고전적·딥러닝 모델의 가격 예측 성능을 체계적으로 벤치마킹 / **Model Comparison**: Systematically benchmarked forecasting performance across classical and deep learning approaches including ARIMA, LSTM, and Transformer models",
-        "**실무적 가치**: 영세농의 소득 안정화와 개발도상국의 식량 안보 계획 수립에 필요한 데이터 기반 제공 / **Practical Value**: Provides data-driven foundation for smallholder income stabilization and food security planning in developing economies",
-        "**지역적 한계**: 남아시아의 농업 데이터셋 부족 현상을 완화하지만 방글라데시 특정 지역만 포함되어 일반화 가능성 제한 / **Geographic Limitation**: While addressing South Asian agricultural data scarcity, coverage limited to specific Bangladeshi regions, reducing generalizability"
-      ],
-      "url": "https://arxiv.org/abs/2604.06227",
-      "featured": false
-    },
-    {
-      "id": "7b1006ea503e",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse",
-      "titleKo": "확률 언어 트라이: 압축, 의사결정 정책, 실행 재사용을 위한 통합 프레임워크",
-      "summary": "arXiv:2604.06228v1 Announce Type: new Abstract: We introduce probabilistic language tries (PLTs), a unified representation that makes explicit the prefix structure implicitly defined by any generative model over sequences. By assigning to each outgoing edge the conditional probability of the corresponding token or action, a PLT simultaneously serves as: (i) an optimal lossless compressor via frequency-weighted interval encoding, generalizing arithmetic coding to model-conditioned distributions; (ii) a policy representation for sequential decision problems including games, search, and robotic c",
-      "aiSummary": "This study introduces Probabilistic Language Tries (PLTs), a novel unified framework that explicitly represents the prefix structure of generative AI models' token probability distributions. The researchers demonstrate that PLTs simultaneously function as three tools: (i) an optimal lossless data compressor using frequency-weighted interval encoding, extending arithmetic coding to model-conditioned distributions; (ii) a policy representation for sequential decision-making problems including games, search algorithms, and robotic control; and (iii) a mechanism for execution reuse across multiple tasks. The primary contribution is enabling multiple AI optimization tasks through a single mathematical representation. However, the computational efficiency and practical performance improvements on large-scale models require further validation. Additionally, the complex mathematical formulation may pose challenges for real-world implementation and broader adoption.\n\n##",
-      "aiSummaryKo": "본 연구는 생성형 AI 모델이 만드는 토큰(언어 단위)의 확률 구조를 시각화하고 활용하는 새로운 방법인 '확률적 언어 트라이(PLT)'를 제안합니다. 연구팀은 이 구조를 수학적으로 정의하고, 세 가지 주요 기능—데이터 압축, 의사결정 정책 표현, 계산 재사용—을 동시에 수행할 수 있음을 보였습니다. 이는 기존 산술 부호화 방식을 AI 모델 기반으로 확장한 것으로, 게임, 탐색, 로봇 제어 등 다양한 순차 의사결정 문제에 적용될 수 있습니다. 핵심 성과는 단일 표현으로 여러 AI 작업을 최적화할 수 있다는 점입니다. 다만 실제 대규모 모델에서의 계산 효율성과 성능 개선 정도는 추가 검증이 필요합니다. 또한 복잡한 수학적 개념으로 인해 실제 응용까지의 거리가 있을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study introduces Probabilistic Language Tries (PLTs), a novel unified framework that explicitly represents the prefix structure of generative AI models' token probability distributions. The researchers demonstrate that PLTs simultaneously function as three tools: (i) an optimal lossless data compressor using frequency-weighted interval encoding, extending arithmetic coding to model-conditioned distributions; (ii) a policy representation for sequential decision-making problems including games, search algorithms, and robotic control; and (iii) a mechanism for execution reuse across multiple tasks. The primary contribution is enabling multiple AI optimization tasks through a single mathematical representation. However, the computational efficiency and practical performance improvements on large-scale models require further validation. Additionally, the complex mathematical formulation may pose challenges for real-world implementation and broader adoption.\n\n##",
-      "keyPoints": [
-        "**포인트1**: PLT는 단일 표현으로 데이터 압축, 의사결정 정책, 계산 재사용의 세 기능을 동시에 수행 / PLTs enable three functions—compression, policy representation, and execution reuse—through a unified mathematical framework",
-        "**포인트2**: 기존 산술 부호화를 AI 모델 기반 확률 분포로 일반화하여 더 효율적인 인코딩 가능 / The framework generalizes traditional arithmetic coding to model-conditioned probability distributions for improved encoding efficiency",
-        "**포인트3**: 게임, 로봇 제어, 탐색 등 순차 의사결정 문제의 다양한 분야에 적용 가능 / Applicable across diverse sequential decision-making domains including games, robotic control, and search algorithms",
-        "**포인트4**: 실제 대규모 모델에서의 성능과 계산 효율성 검증이 필요하며 추상적 수학 개념으로 인한 구현 난도 존재 / Requires further validation of computational efficiency on large-scale models and faces implementation challenges due to complex mathematical abstraction"
-      ],
-      "url": "https://arxiv.org/abs/2604.06228",
-      "featured": false
-    },
-    {
-      "id": "b2f33fbecb06",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "FLeX: Fourier-based Low-rank EXpansion for multilingual transfer",
-      "titleKo": "FLeX: 다국어 전이를 위한 푸리에 기반 저계수 전개",
-      "summary": "arXiv:2604.06253v1 Announce Type: new Abstract: Cross-lingual code generation is critical in enterprise environments where multiple programming languages coexist. However, fine-tuning large language models (LLMs) individually for each language is computationally prohibitive. This paper investigates whether parameter-efficient fine-tuning methods and optimizer enhancements can improve cross-lingual transfer from Python to languages like Java. We fine-tune the Code Llama 7B model using low-rank adaptation (LoRA) to optimize a small subset of parameters and compare Adam and Sophia optimizers, whi",
-      "aiSummary": "This research addresses the challenge of cross-lingual code generation in enterprise environments where multiple programming languages coexist. Since individually fine-tuning large language models (LLMs) for each language is computationally prohibitive, the researchers investigated whether parameter-efficient fine-tuning methods and optimizer enhancements can improve transfer learning from Python to other languages like Java. The team fine-tuned the Code Llama 7B model using Low-Rank Adaptation (LoRA) to optimize only a small subset of parameters and compared the performance of Adam and Sophia optimizers. The significance of this work lies in demonstrating methods to improve multilingual code generation performance while maintaining computational efficiency. However, the current abstract provides limited information regarding specific performance improvement metrics, experimental scale, and detailed evaluation criteria.\n\n##",
-      "aiSummaryKo": "본 연구는 기업 환경에서 여러 프로그래밍 언어가 공존할 때 발생하는 교차 언어 코드 생성 문제를 다룹니다. 대규모 언어 모델(LLM)을 각 언어마다 개별적으로 학습시키는 것은 계산 비용이 매우 크기 때문에, 연구팀은 매개변수 효율적 미세 조정 방법이 파이썬에서 자바 같은 다른 언어로의 전이 학습을 개선할 수 있는지 검증했습니다. Code Llama 7B 모델을 저랭크 적응(LoRA) 기법으로 미세 조정하여 소수의 매개변수만 최적화하고, Adam과 Sophia 옵티마이저를 비교했습니다. 이 연구의 의의는 계산 효율성을 유지하면서 다중 언어 코드 생성 성능을 향상시킬 수 있는 방법을 제시한다는 점입니다. 다만 현재까지 발표된 정보만으로는 구체적인 성능 개선 수치와 실험 참가자 규모, 평가 메트릭 세부 사항이 제한적입니다.\n\n##",
-      "aiSummaryEn": "This research addresses the challenge of cross-lingual code generation in enterprise environments where multiple programming languages coexist. Since individually fine-tuning large language models (LLMs) for each language is computationally prohibitive, the researchers investigated whether parameter-efficient fine-tuning methods and optimizer enhancements can improve transfer learning from Python to other languages like Java. The team fine-tuned the Code Llama 7B model using Low-Rank Adaptation (LoRA) to optimize only a small subset of parameters and compared the performance of Adam and Sophia optimizers. The significance of this work lies in demonstrating methods to improve multilingual code generation performance while maintaining computational efficiency. However, the current abstract provides limited information regarding specific performance improvement metrics, experimental scale, and detailed evaluation criteria.\n\n##",
-      "keyPoints": [
-        "**교차 언어 코드 생성의 필요성** / Cross-lingual code generation necessity in enterprise environments with multiple programming languages",
-        "**매개변수 효율적 미세 조정(LoRA)의 활용** / Implementation of parameter-efficient fine-tuning through Low-Rank Adaptation to reduce computational costs",
-        "**옵티마이저 비교 연구** / Comparative analysis between Adam and Sophia optimizers for improved transfer learning performance",
-        "**실무 적용 가능성** / Practical applicability for enterprise systems requiring multilingual programming language support with limited computational resources"
-      ],
-      "url": "https://arxiv.org/abs/2604.06253",
       "featured": false
     }
   ]
