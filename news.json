@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-10T20:00:07.575533+00:00",
+  "updated": "2026-04-10T22:00:44.093893+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "1f1bf77c5c6d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "People with social anxiety scan moving faces differently than others",
+      "titleKo": "사회불안증이 있는 사람들은 움직이는 얼굴을 다르게 인지한다",
+      "summary": "Eye-tracking technology reveals that people with social anxiety scan moving faces more rapidly and identify faint sadness more accurately than those without the condition. Moving facial expressions may help researchers better understand the mechanics of the socially anxious brain.",
+      "aiSummary": "This study examined how people with social anxiety disorder perceive moving faces using eye-tracking technology to compare facial recognition differences between socially anxious individuals and controls. The research revealed that people with social anxiety scan moving facial expressions more rapidly and detect subtle sadness expressions with greater accuracy than those without the condition. These findings suggest that socially anxious brains are more sensitive to social cues and signals from others' faces. The study highlights that moving facial expressions may be more effective than static images for understanding the neurological mechanisms underlying social anxiety disorder. This approach could lead to better diagnostic tools and therapeutic interventions for social anxiety. However, the lack of detailed information about sample size and participant diversity may limit the generalizability of these findings.\n\n##",
+      "aiSummaryKo": "사회불안장애가 있는 사람들이 움직이는 얼굴을 어떻게 인식하는지를 연구한 새로운 연구입니다. 연구팀은 아이트래킹(눈동작 추적) 기술을 사용하여 사회불안장애 환자와 일반인의 얼굴 인식 차이를 비교했습니다. 결과에 따르면 사회불안장애가 있는 사람들은 움직이는 얼굴을 더 빠르게 스캔하고, 희미한 슬픔의 감정 표현을 더 정확하게 감지했습니다. 이는 사회불안장aureate이 있는 사람들의 뇌가 사회적 신호에 더 민감하게 반응한다는 것을 시사합니다. 이 연구는 움직이는 표정이 사회불안장애의 신경학적 메커니즘을 이해하는 데 도움이 될 수 있음을 보여줍니다. 다만 연구 규모나 참가자의 다양성에 대한 추가 정보가 제시되지 않아 일반화에 제한이 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This study examined how people with social anxiety disorder perceive moving faces using eye-tracking technology to compare facial recognition differences between socially anxious individuals and controls. The research revealed that people with social anxiety scan moving facial expressions more rapidly and detect subtle sadness expressions with greater accuracy than those without the condition. These findings suggest that socially anxious brains are more sensitive to social cues and signals from others' faces. The study highlights that moving facial expressions may be more effective than static images for understanding the neurological mechanisms underlying social anxiety disorder. This approach could lead to better diagnostic tools and therapeutic interventions for social anxiety. However, the lack of detailed information about sample size and participant diversity may limit the generalizability of these findings.\n\n##",
+      "keyPoints": [
+        "사회불안장애 환자가 움직이는 얼굴을 일반인보다 더 빠르게 스캔 / People with social anxiety scan moving faces more rapidly than controls",
+        "희미한 슬픔 감정을 더 정확하게 감지하는 능력 / Enhanced ability to detect subtle sadness expressions with greater accuracy",
+        "아이트래킹 기술을 활용한 객관적 신경생물학적 측정 방법 / Eye-tracking technology provides objective neurobiological measurement of social processing",
+        "움직이는 표정이 정적 이미지보다 사회불안 연구에 더 효과적 / Dynamic facial expressions may be more effective than static images for understanding social anxiety mechanisms"
+      ],
+      "url": "https://www.psypost.org/people-with-social-anxiety-scan-moving-faces-differently-than-others/",
+      "featured": true
+    },
+    {
+      "id": "5196104542ea",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "18시간 전 / 18h ago",
+      "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
+      "titleKo": "몬테카를로 방법을 이용한 장기의 상태공간 복잡도에 대한 고정밀 추정",
+      "summary": "arXiv:2604.06189v1 Announce Type: new Abstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leaving a gap of five orders of magnitude ($10^{64}$ to $10^{69}$). This large gap arises from the difficulty of distinguishing Shogi positions legally reachable from the initial position among the vast number of valid board configurations. In this paper, we present a high-precision statistical estimation of the number of reachable positions in Shogi. Our method combines Monte Carlo sampling with a nov",
+      "aiSummary": "This research addresses the precise estimation of state-space complexity in Shogi (Japanese chess), where previous combinatorial estimates showed a five-order-of-magnitude gap (10^64 to 10^69). The fundamental challenge lies in distinguishing legally reachable positions from the initial position among the vast number of valid board configurations. The researchers employed Monte Carlo sampling combined with a novel statistical method to estimate the number of reachable positions in Shogi with high precision. By focusing only on positions actually reachable from the initial position through legal moves, they significantly narrowed the previous estimation gap. This work provides fundamental data crucial for game theory, artificial intelligence algorithm development, and combinatorial complexity analysis. However, as the approach relies on probabilistic methods, the accuracy of estimates depends on sample size and computational resources available.\n\n##",
+      "aiSummaryKo": "이 연구는 장기(일본 장기)의 게임 상태 복잡도를 정확히 추정하는 문제를 다룹니다. 기존 연구에서는 도달 가능한 위치의 수를 10^64에서 10^69 사이로 추정했지만, 5자리 수의 오차 범위가 있었습니다. 연구진은 몬테카를로 샘플링이라는 통계적 방법을 활용하여 초기 위치에서 법칙에 따라 도달 가능한 장기판의 위치 개수를 높은 정밀도로 추정했습니다. 이는 초기 위치에서 실제로 도달할 수 있는 유효한 위치들만 구별하여 계산함으로써 이전의 큰 오차 범위를 줄이는 데 성공했습니다. 이 연구는 게임 이론, 인공지능 알고리즘 개발, 그리고 조합론적 복잡도 분석에 중요한 기초 자료를 제공합니다. 다만 연구는 확률적 방법에 기반하므로 샘플 크기와 계산 자원에 따라 추정치가 영향을 받을 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research addresses the precise estimation of state-space complexity in Shogi (Japanese chess), where previous combinatorial estimates showed a five-order-of-magnitude gap (10^64 to 10^69). The fundamental challenge lies in distinguishing legally reachable positions from the initial position among the vast number of valid board configurations. The researchers employed Monte Carlo sampling combined with a novel statistical method to estimate the number of reachable positions in Shogi with high precision. By focusing only on positions actually reachable from the initial position through legal moves, they significantly narrowed the previous estimation gap. This work provides fundamental data crucial for game theory, artificial intelligence algorithm development, and combinatorial complexity analysis. However, as the approach relies on probabilistic methods, the accuracy of estimates depends on sample size and computational resources available.\n\n##",
+      "keyPoints": [
+        "기존 추정치의 한계 / Previous estimation gap of five orders of magnitude (10^64 to 10^69)",
+        "연구 방법 / Monte Carlo sampling method for statistical estimation of reachable positions",
+        "정밀도 개선 / High-precision estimation distinguishing legally reachable from theoretically valid positions",
+        "응용 분야 / Applications in game theory, AI algorithm development, and combinatorial complexity analysis"
+      ],
+      "url": "https://arxiv.org/abs/2604.06189",
+      "featured": false
+    },
+    {
+      "id": "be25e62f0664",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "18시간 전 / 18h ago",
+      "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+      "titleKo": "맹목적 거부: 언어 모델이 부당하고 황당하며 부당한 규칙을 회피하도록 사용자를 돕기를 거부하다",
+      "summary": "arXiv:2604.06233v1 Announce Type: new Abstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority, rules that are deeply unjust or absurd in their content or application, or rules that admit of justified exceptions, refusal is a failure of moral reasoning. We introduce empirical results documenting this pattern of refusal that we call blind refusal: the tendency of language models to refuse requests for help breaking rules without regard to wheth",
+      "aiSummary": "Safety-trained large language models are designed to refuse requests that help users circumvent rules, but not all rules warrant compliance. This research empirically documents a phenomenon called \"blind refusal,\" where language models refuse requests to break rules without evaluating the legitimacy of the authority imposing them, the justness of the rules' content, or whether exceptions are morally warranted. The researchers tested various scenarios involving unjust authorities, absurd rules, and situations with justified exceptions, demonstrating that models enforce rule compliance mechanistically without moral reasoning. These findings suggest that AI safety training may paradoxically inhibit the moral judgment necessary for ethical decision-making in complex situations. The research highlights the need to integrate contextual understanding and moral reasoning into AI safety frameworks. However, the study faces limitations in defining all complex moral scenarios and lacks concrete solutions for practical implementation of more nuanced AI governance.\n\n##",
+      "aiSummaryKo": "안전 교육을 받은 대규모 언어모델(AI)은 규칙 위반을 돕는 요청을 거부하도록 훈련되어 있습니다. 그러나 모든 규칙이 따를 가치가 있는 것은 아닙니다. 이 연구는 언어모델이 규칙의 정당성, 내용의 부당함, 또는 정당한 예외 상황 여부를 판단하지 않고 무조건 거부하는 \"맹목적 거부(blind refusal)\" 현상을 실증적으로 규명했습니다. 연구팀은 부당한 권위, 불합리한 규칙, 정당한 예외가 인정되는 상황 등 다양한 시나리오를 통해 언어모델이 도덕적 판단 없이 단순히 규칙 준수만을 강제하는 경향을 보였습니다. 이는 언어모델의 안전장치가 오히려 도덕적 추론 능력을 방해하고 있음을 시사합니다. 연구의 의의는 AI 안전 훈련에 상황적 맥락과 도덕적 판단을 반영해야 함을 강조하는 것입니다. 다만, 현실의 복잡한 도덕 상황을 모두 정의하는 것의 어려움과 실제 적용 방법에 대한 구체적 솔루션 제시가 제한적이라는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "Safety-trained large language models are designed to refuse requests that help users circumvent rules, but not all rules warrant compliance. This research empirically documents a phenomenon called \"blind refusal,\" where language models refuse requests to break rules without evaluating the legitimacy of the authority imposing them, the justness of the rules' content, or whether exceptions are morally warranted. The researchers tested various scenarios involving unjust authorities, absurd rules, and situations with justified exceptions, demonstrating that models enforce rule compliance mechanistically without moral reasoning. These findings suggest that AI safety training may paradoxically inhibit the moral judgment necessary for ethical decision-making in complex situations. The research highlights the need to integrate contextual understanding and moral reasoning into AI safety frameworks. However, the study faces limitations in defining all complex moral scenarios and lacks concrete solutions for practical implementation of more nuanced AI governance.\n\n##",
+      "keyPoints": [
+        "**맹목적 거부 현상**: 언어모델이 규칙의 정당성을 판단하지 않고 모든 규칙 위반 요청을 거부하는 경향 / Language models refuse all rule-breaking requests without evaluating rule legitimacy",
+        "**도덕적 판단 부재**: AI의 안전장치가 상황적 맥락과 정당한 예외를 고려하지 못하고 있음 / Safety mechanisms fail to consider situational context and justified exceptions",
+        "**안전 훈련의 한계**: 현재의 AI 안전 훈련이 도덕적 추론 능력을 오히려 약화시킬 수 있음 / Current safety training may weaken rather than strengthen moral reasoning capabilities",
+        "**정책 개선 필요성**: AI 거버넌스에 도덕 철학적 원칙과 상황적 판단을 통합해야 함 / Integration of moral philosophy and contextual judgment needed in AI governance frameworks"
+      ],
+      "url": "https://arxiv.org/abs/2604.06233",
+      "featured": false
+    },
+    {
+      "id": "836f2741cc6a",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "18시간 전 / 18h ago",
+      "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
+      "titleKo": "비생산적 컨테이너 이동 감소를 위하여: 서비스 요구사항 및 체류 시간 예측",
+      "summary": "arXiv:2604.06251v1 Announce Type: new Abstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container dwell times. We develop and evaluate machine learning models that leverage historical operational data to anticipate which containers will require pre-clearance handling services prior to cargo release and to estimate how long they are expected to remain in the terminal. As part of the data preparation process, we implement a classification system f",
+      "aiSummary": "This research is a data science study conducted at a container terminal aimed at reducing unproductive container moves using machine learning. The research team developed machine learning models that leverage historical operational data to predict which containers will require pre-clearance handling services before cargo release and estimate how long containers will remain in the terminal. These models learn from historical operational data to anticipate service requirements and container dwell times, thereby improving terminal efficiency. The research incorporated a classification system during the data preparation phase to ensure data quality. The significance of this study lies in its potential to predict and eliminate unnecessary container movements, substantially reducing operational costs and improving terminal efficiency. However, the research is based on data from a specific terminal, which may limit its generalizability to other terminals.\n\n##",
+      "aiSummaryKo": "본 연구는 컨테이너 터미널의 비생산적 이동을 줄이기 위해 머신러닝을 활용한 데이터 과학 연구입니다. 연구팀은 터미널의 과거 운영 데이터를 활용하여 어떤 컨테이너가 화물 방출 전 사전 승인 처리 서비스가 필요한지, 그리고 터미널에 얼마나 오래 머물 것인지를 예측하는 머신러닝 모델을 개발했습니다. 이 모델들은 역사적 운영 데이터를 학습하여 서비스 요구사항과 컨테이너 체류 시간을 미리 예측함으로써 터미널의 효율성을 높이는 것을 목표로 합니다. 연구 과정에서 데이터 준비 단계에 분류 체계를 구축하여 데이터 품질을 확보했습니다. 이 연구의 의의는 항만 운영의 불필요한 이동을 예측하고 제거함으로써 운영 비용을 절감하고 터미널 효율성을 크게 향상시킬 수 있다는 점입니다. 다만 연구는 특정 터미널의 데이터에 기반하고 있어 다른 터미널로의 일반화 가능성이 제한될 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research is a data science study conducted at a container terminal aimed at reducing unproductive container moves using machine learning. The research team developed machine learning models that leverage historical operational data to predict which containers will require pre-clearance handling services before cargo release and estimate how long containers will remain in the terminal. These models learn from historical operational data to anticipate service requirements and container dwell times, thereby improving terminal efficiency. The research incorporated a classification system during the data preparation phase to ensure data quality. The significance of this study lies in its potential to predict and eliminate unnecessary container movements, substantially reducing operational costs and improving terminal efficiency. However, the research is based on data from a specific terminal, which may limit its generalizability to other terminals.\n\n##",
+      "keyPoints": [
+        "**머신러닝 기반 예측 모델** / Machine Learning-based Predictive Models",
+        "**비생산적 이동 감소** / Reduction of Unproductive Moves",
+        "**데이터 기반 분류 체계** / Data-driven Classification System",
+        "**실무적 적용 가능성의 한계** / Limited Generalizability"
+      ],
+      "url": "https://arxiv.org/abs/2604.06251",
+      "featured": false
+    },
+    {
+      "id": "99bb76c51ea6",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "18시간 전 / 18h ago",
+      "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
+      "titleKo": "트랜스포머 표현으로의 약한 감독 기반 환각 신호 증류",
+      "summary": "arXiv:2604.06277v1 Announce Type: new Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retrieval systems, or auxiliary judge models. We ask whether this external supervision can instead be distilled into the model's own representations during training, enabling hallucination detection from internal activations alone at inference time. We introduce a weak supervision framework that combines three complementary grounding signals: substring matching, sentence embedding similarity, and an LL",
+      "aiSummary": "This research proposes a novel approach to address the hallucination problem in large language models (LLMs) where models generate false or unsupported information. While existing detection methods require external verification systems (gold answers, retrieval systems, or auxiliary judge models) at inference time, this study explores whether supervisory signals can be distilled directly into the model's internal representations during training. The research team developed a weakly supervised framework that combines three complementary grounding signals: substring matching, sentence embedding similarity, and an additional grounding signal. This method enables models to detect hallucinations during inference using only internal activations without external assistance. The approach offers practical advantages in terms of faster inference speed and reduced computational costs. However, performance may be limited by the quality and diversity of training data used for the distillation process.\n\n##",
+      "aiSummaryKo": "이 연구는 대규모 언어 모델(LLM)의 할루시네이션(거짓 정보 생성) 문제를 해결하기 위한 새로운 접근 방식을 제안합니다. 기존 방법들은 추론 시점에 외부 검증 시스템(정답 데이터베이스, 검색 시스템, 판별 모델 등)이 필요했으나, 이 연구는 훈련 단계에서 이러한 감시 신호를 모델의 내부 표현에 직접 통합할 수 있는지 탐구합니다. 연구팀은 부분적 감시 프레임워크를 구축했으며, 이는 부분 문자열 일치, 문장 임베딩 유사도, 그리고 추가 접지 신호의 세 가지 상호보완적 신호를 결합합니다. 이 방법은 모델이 추론 시 외부 도움 없이 내부 활성화 정보만으로 할루시네이션을 자체 탐지할 수 있도록 훈련합니다. 이는 실시간 추론 속도 향상과 비용 절감 측면에서 실무적 장점을 제공합니다. 다만, 훈련 데이터의 품질과 다양성에 따라 성능이 좌우될 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research proposes a novel approach to address the hallucination problem in large language models (LLMs) where models generate false or unsupported information. While existing detection methods require external verification systems (gold answers, retrieval systems, or auxiliary judge models) at inference time, this study explores whether supervisory signals can be distilled directly into the model's internal representations during training. The research team developed a weakly supervised framework that combines three complementary grounding signals: substring matching, sentence embedding similarity, and an additional grounding signal. This method enables models to detect hallucinations during inference using only internal activations without external assistance. The approach offers practical advantages in terms of faster inference speed and reduced computational costs. However, performance may be limited by the quality and diversity of training data used for the distillation process.\n\n##",
+      "keyPoints": [
+        "**할루시네이션 자체 탐지 기술** / Self-detection of hallucinations: 모델이 외부 검증 시스템 없이 내부 신호만으로 거짓 정보를 식별할 수 있도록 훈련",
+        "**약한 감시 프레임워크** / Weakly supervised framework: 부분 문자열 일치, 임베딩 유사도 등 세 가지 상보적 신호를 조합하여 훈련 효율성 극대화",
+        "**추론 시간 단축 및 비용 절감** / Improved efficiency: 외부 검증 도구 불필요로 실시간 추론 속도 향상 및 연산 비용 감소",
+        "**훈련-추론 연계 설계** / Training-inference coherence: 훈련 단계의 감시 신호가 추론 단계의 내부 활성화 패턴에 직접 통합되는 지식 증류 방식"
+      ],
+      "url": "https://arxiv.org/abs/2604.06277",
+      "featured": false
+    },
     {
       "id": "c8501fb43f1e",
       "tag": "psych",
@@ -21,7 +126,7 @@
         "**문화적 다양성 검증 필요** / Cross-cultural studies are required to confirm these findings across different societies and socioeconomic systems"
       ],
       "url": "https://www.psypost.org/social-context-influences-dating-preferences-just-as-much-as-biological-sex/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b8128e329f53",
@@ -315,111 +420,6 @@
         "**집단 행동의 효과** / Efficacy of Collective Action: Gray's Ferry 주민들의 지속적인 투쟁이 결국 정유소 폐쇄라는 구체적 결과 도출"
       ],
       "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
-      "featured": false
-    },
-    {
-      "id": "39ff72bc0b09",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "방금 전 / Just now",
-      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
-      "titleKo": "과학자들, 알츠하이머병 치료법이 완전히 잘못됐다고 지적",
-      "summary": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. Scientists are now pushing toward multi-pronged strategies, from gene editing to brain-cell rejuvenation and gut health interventions. The goal: stop treating Alzheimer’s as one disease and start tackling it as a complex system.",
-      "aiSummary": "Alzheimer's disease is not a single disorder but rather a complex interplay of biological factors, aging, and overall health conditions, according to recent scientific findings. Historically, researchers have developed treatments targeting single factors such as specific protein accumulation in the brain, but these approaches have yielded only modest benefits. Contemporary research is now shifting toward multi-pronged strategies encompassing gene editing, brain-cell rejuvenation, and gut health interventions. This represents a fundamental paradigm shift from treating Alzheimer's as a simple, monolithic disease to understanding it as a complex biological system. Multi-targeted therapeutic approaches show greater promise than traditional single-target medications. However, significant challenges remain in translating these integrated strategies into practical clinical applications, including the need for large-scale clinical trials and cost considerations.\n\n##",
-      "aiSummaryKo": "알츠하이머병은 단순한 하나의 질병이 아니라 생물학적 요인, 노화, 그리고 전반적인 건강상태가 복합적으로 얽힌 질환이라는 연구 결과가 발표되었다. 지금까지 과학자들은 뇌의 특정 단백질 축적 같은 단일 요인을 표적으로 하는 치료법을 개발해왔으나, 이러한 접근법은 제한적인 효과만 보여주었다. 최신 연구들은 이제 유전자 편집, 뇌세포 재생, 장내 건강 개선 등 다양한 방면의 통합적 전략으로 전환하고 있다. 이는 알츠하이머병을 하나의 단순한 질병으로 보기보다는 복잡한 생물학적 시스템으로 이해하고 접근해야 한다는 의미이다. 이러한 다중 표적 치료법(multi-pronged approach)은 기존의 단일 표적 약물보다 더 효과적일 가능성을 시사한다. 다만 복합적 접근이 실제 임상 치료로 적용되기까지는 추가적인 대규모 임상시험과 비용 문제 등 여러 과제가 남아있다.\n\n##",
-      "aiSummaryEn": "Alzheimer's disease is not a single disorder but rather a complex interplay of biological factors, aging, and overall health conditions, according to recent scientific findings. Historically, researchers have developed treatments targeting single factors such as specific protein accumulation in the brain, but these approaches have yielded only modest benefits. Contemporary research is now shifting toward multi-pronged strategies encompassing gene editing, brain-cell rejuvenation, and gut health interventions. This represents a fundamental paradigm shift from treating Alzheimer's as a simple, monolithic disease to understanding it as a complex biological system. Multi-targeted therapeutic approaches show greater promise than traditional single-target medications. However, significant challenges remain in translating these integrated strategies into practical clinical applications, including the need for large-scale clinical trials and cost considerations.\n\n##",
-      "keyPoints": [
-        "**질병 복잡성 인식** / Disease Complexity Recognition",
-        "**기존 치료법의 한계** / Limitations of Previous Approaches",
-        "**통합 치료 전략 전환** / Shift to Integrated Treatment Strategies",
-        "**시스템 기반 치료 패러다임** / System-Based Therapeutic Paradigm"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
-      "featured": false
-    },
-    {
-      "id": "ea6c28f8b419",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
-      "titleKo": "과학자들, ALS와 치매 뒤에 숨겨진 장내 유발 요인 발견",
-      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
-      "aiSummary": "Recent research reveals that gut bacteria may be a hidden trigger for ALS and frontotemporal dementia. Specifically, harmful sugars produced by microbes can activate immune responses that damage the brain. This finding explains why only some genetically at-risk individuals develop these diseases while others remain unaffected. Importantly, experimental reduction of these harmful sugars showed improvements in brain health, opening new therapeutic possibilities. However, the study remains in its preliminary stages and requires further validation through human clinical trials. These findings could eventually lead to targeted interventions based on microbiome modification rather than genetic factors alone.\n\n##",
-      "aiSummaryKo": "최근 연구에 따르면 장내 박테리아가 근위축성 측삭경화증(ALS)과 측두엽 치매의 발병을 촉발하는 숨겨진 원인일 수 있다는 사실이 밝혀졌다. 미생물들이 생성하는 해로운 당류(당 유도체)가 뇌를 손상시키는 면역반응을 유발하는 메커니즘이 발견되었다. 이 발견은 같은 유전적 위험을 가진 사람들 중에서 일부만 질병이 발병되는 이유를 설명해준다. 연구팀이 실험에서 이러한 해로운 당류를 감소시켰을 때 뇌 건강이 개선되는 결과를 확인하여, 신약 개발의 새로운 가능성을 제시했다. 다만 이 연구는 아직 초기 단계이며, 인간 대상의 임상 시험을 통한 추가 검증이 필요하다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "Recent research reveals that gut bacteria may be a hidden trigger for ALS and frontotemporal dementia. Specifically, harmful sugars produced by microbes can activate immune responses that damage the brain. This finding explains why only some genetically at-risk individuals develop these diseases while others remain unaffected. Importantly, experimental reduction of these harmful sugars showed improvements in brain health, opening new therapeutic possibilities. However, the study remains in its preliminary stages and requires further validation through human clinical trials. These findings could eventually lead to targeted interventions based on microbiome modification rather than genetic factors alone.\n\n##",
-      "keyPoints": [
-        "**장내 미생물-뇌 질환 연결고리**: 장내 박테리아가 생성하는 특정 당류가 면역계를 자극하여 ALS와 측두엽 치매를 유발할 수 있음 / Specific sugars produced by gut bacteria trigger immune responses that can cause ALS and frontotemporal dementia",
-        "**유전적 위험의 새로운 해석**: 같은 유전자 변이를 가져도 장내 미생물 환경의 차이가 질병 발병 여부를 결정하는 요소임 / Genetic predisposition alone doesn't determine disease onset; gut microbiome composition plays a crucial mediating role",
-        "**치료의 새로운 가능성**: 해로운 당류 감소로 뇌 건강이 개선되어 약물 개발과 식이 치료의 새로운 방향 제시 / Reducing harmful microbial sugars improved brain health in experiments, suggesting microbiome-targeting therapies as novel treatment approaches",
-        "**신경퇴행성 질환 이해의 전환**: 뇌 질환을 단순 신경계 문제가 아닌 장-뇌 면역계 상호작용으로 이해하는 패러다임 변화 / Shifts the understanding of neurodegenerative diseases from purely neurological to a gut-brain-immune axis perspective"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
-      "featured": false
-    },
-    {
-      "id": "d538943de5b8",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "New psychology research explains why some women devalue their own orgasms",
-      "titleKo": "새로운 심리학 연구가 일부 여성이 자신의 오르가슴을 과소평가하는 이유를 설명하다",
-      "summary": "When women consistently experience infrequent orgasms, both they and their partners mentally downgrade the importance of climaxing. While this psychological shift protects short-term self-esteem, new research suggests it might ultimately perpetuate the ongoing orgasm gap.",
-      "aiSummary": "This research examines psychological mechanisms that emerge when women experience infrequent orgasms. Researchers discovered that women with low orgasm frequency, along with their partners, unconsciously downgrade the importance of climaxing as a coping mechanism. This psychological shift temporarily protects self-esteem by reducing the perceived failure or disappointment. However, the study suggests this adaptive response ultimately perpetuates the \"orgasm gap\" in heterosexual relationships by normalizing and accepting lower sexual satisfaction. The research highlights how cognitive reframing, while protective in the short term, may prevent couples from addressing underlying sexual compatibility issues. The findings underscore the importance of psychological awareness in improving sexual satisfaction. Limitations include potential sampling bias and lack of consideration for cultural and individual differences in sexual values.\n\n##",
-      "aiSummaryKo": "여성의 오르가즘 빈도가 낮을 때 발생하는 심리적 현상을 연구한 논문이다. 연구팀은 오르가즘을 자주 경험하지 못하는 여성들이 자신과 파트너 모두와 함께 오르가즘의 중요성을 무의식적으로 낮게 평가하는 경향을 발견했다. 이는 단기적으로 자존감 저하를 방지하는 심리적 방어 메커니즘으로 작용한다. 그러나 장기적으로는 이러한 태도 변화가 부부 관계에서 오르가즘 격차(orgasm gap)를 지속시키고 강화하는 악순환을 초래할 수 있다는 점이 주요 발견이다. 이 연구는 성적 만족도 개선을 위해 심리적 인식 변화의 중요성을 시사한다. 다만 이 연구가 특정 집단의 표본으로 진행되었을 가능성과 문화적 차이가 반영되지 않았을 수 있다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "This research examines psychological mechanisms that emerge when women experience infrequent orgasms. Researchers discovered that women with low orgasm frequency, along with their partners, unconsciously downgrade the importance of climaxing as a coping mechanism. This psychological shift temporarily protects self-esteem by reducing the perceived failure or disappointment. However, the study suggests this adaptive response ultimately perpetuates the \"orgasm gap\" in heterosexual relationships by normalizing and accepting lower sexual satisfaction. The research highlights how cognitive reframing, while protective in the short term, may prevent couples from addressing underlying sexual compatibility issues. The findings underscore the importance of psychological awareness in improving sexual satisfaction. Limitations include potential sampling bias and lack of consideration for cultural and individual differences in sexual values.\n\n##",
-      "keyPoints": [
-        "**심리적 방어 메커니즘** / Psychological Defense Mechanism",
-        "**부부 간 인식 공유** / Shared Partner Perception",
-        "**악순환 고리 형성** / Perpetuation of Vicious Cycle",
-        "**심리 치료의 필요성** / Need for Psychological Intervention"
-      ],
-      "url": "https://www.psypost.org/new-psychology-research-explains-why-some-women-devalue-their-own-orgasms/",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "5일 전 / 5d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "우리는 결코 개인이었던 적이 없다",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "This article presents a philosophical perspective that humans are not independent individuals but deeply connected to their surrounding environment. The research background involves reconsidering traditional individualistic views of human nature, using the breathing process to illustrate the interconnection between humans, plants, and the environment. By tracing the breathing mechanism, the article demonstrates that oxygen humans inhale comes from plants, while carbon dioxide humans exhale is essential for plant photosynthesis. This reveals that the human body comprises numerous microorganisms and environmental elements, showing that we are fundamentally interconnected with the world around us. The significance of this perspective is proposing a paradigm shift from individualistic thinking to recognizing interdependence and interconnectedness. The article has a limitation in that it does not present complete research data and focuses on philosophical and conceptual discussion rather than empirical evidence.\n\n##",
-      "aiSummaryKo": "이 기사는 인간이 독립적인 개별체가 아니라 주변 환경과 깊이 연결되어 있다는 철학적 관점을 제시한다. 연구 배경은 전통적인 개인주의적 인간관에 대한 재검토이며, 호흡 과정을 통해 인간과 식물, 그리고 환경 간의 상호작용을 설명한다. 호흡 메커니즘을 따라가며 인간이 들이마신 산소는 식물에서 나온 것이고, 인간이 내뉜 이산화탄소는 식물의 광합성에 필수적이라는 점을 보여준다. 이는 인간의 신체가 수많은 미생물과 환경 요소로 이루어져 있으며, 우리가 주변 세계와 본질적으로 상호연결되어 있음을 의미한다. 이 관점의 의의는 개인주의적 사고에서 벗어나 상호연결성과 의존성을 인식하는 패러다임 전환을 제안한다는 점이다. 기사는 완전한 연구 데이터는 제시하지 않으며, 철학적·개념적 논의에 초점을 맞추고 있다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "This article presents a philosophical perspective that humans are not independent individuals but deeply connected to their surrounding environment. The research background involves reconsidering traditional individualistic views of human nature, using the breathing process to illustrate the interconnection between humans, plants, and the environment. By tracing the breathing mechanism, the article demonstrates that oxygen humans inhale comes from plants, while carbon dioxide humans exhale is essential for plant photosynthesis. This reveals that the human body comprises numerous microorganisms and environmental elements, showing that we are fundamentally interconnected with the world around us. The significance of this perspective is proposing a paradigm shift from individualistic thinking to recognizing interdependence and interconnectedness. The article has a limitation in that it does not present complete research data and focuses on philosophical and conceptual discussion rather than empirical evidence.\n\n##",
-      "keyPoints": [
-        "호흡의 순환성 / The cyclical nature of respiration: 인간이 들이마신 산소는 식물에서 나오고, 내뉜 이산화탄소는 식물의 광합성에 필수적이다 / Oxygen humans inhale originates from plants, while carbon dioxide they exhale is essential for photosynthesis.",
-        "개인주의 패러다임의 재검토 / Reconsideration of individualistic paradigm: 인간을 독립적인 개별체로 보는 전통적 관점을 비판하고 상호연결성을 강조 / Criticizes the traditional view of humans as independent entities and emphasizes interconnectedness.",
-        "신체 내 미생물 다양성 / Remarkable diversity of microorganisms in human body: 인간의 신체는 수많은 미생물과 환경 요소로 구성되어 있음 / The human body hosts a remarkable diversity of microorganisms and environmental elements.",
-        "환경과의 통합성 / Integration with environment: 개인은 자신의 환경에 완전히 몰입되어 있으며, 동시에 환경도 개인에 몰입되어 있음 / Individuals are immersed in their environment while the environment is equally immersed in them."
-      ],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "1f2d0b54d063",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "8일 전 / 8d ago",
-      "title": "What It’s Like to Be…a Diplomat",
-      "titleKo": "외교관이 된다는 것은 어떤 것인가",
-      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
-      "aiSummary": "This article presents a podcast episode that illuminates the real-world experiences of U.S. diplomats through an interview with John Johnson, a retired diplomat who spent over twenty years in the U.S. Foreign Service. The episode explores the daily realities of modern diplomacy, covering critical incidents including managing a crisis triggered by an ambassador's hint at preemptive military action against Russia, delivering formal protests in multiple languages, and surviving the frantic evacuation of the Kabul embassy. Specific aspects of diplomatic work are explained, such as whether diplomats still use formal \"cables\" in the 21st century and what diplomatic terminology like \"not/not\" signifies. The interview provides general audiences with insight into the complexity and importance of diplomatic work on the ground. However, as a single-case interview format, it offers limited generalized research data or quantitative findings.\n\n##",
-      "aiSummaryKo": "본 기사는 미국 외교관의 실제 업무와 경험을 조명하는 팟캐스트 에피소드를 소개합니다. 20년 이상 미국 외교부에서 근무한 퇴직 외교관 존 존슨과의 인터뷰를 통해 현대 외교관의 일상을 탐구합니다. 러시아에 대한 선제 공격 암시로 야기된 위기 상황 수습, 다국어로 된 공식 항의 전달, 아프가니스탄 카불 대사관 긴급 대피 등 긴장감 넘친 실제 사건들이 다루어집니다. 특히 21세기에도 외교관들이 \"공식 전문(cables)\"을 작성하는지, 외교 용어 \"not/not\"이 무엇을 의미하는지 등 외교 업무의 구체적 특징들이 설명됩니다. 이 인터뷰는 일반인들이 외교 현장의 복잡성과 중요성을 이해하도록 돕습니다. 다만 단일 사례 인터뷰 형식이므로 일반화된 연구 데이터는 제한적입니다.\n\n##",
-      "aiSummaryEn": "This article presents a podcast episode that illuminates the real-world experiences of U.S. diplomats through an interview with John Johnson, a retired diplomat who spent over twenty years in the U.S. Foreign Service. The episode explores the daily realities of modern diplomacy, covering critical incidents including managing a crisis triggered by an ambassador's hint at preemptive military action against Russia, delivering formal protests in multiple languages, and surviving the frantic evacuation of the Kabul embassy. Specific aspects of diplomatic work are explained, such as whether diplomats still use formal \"cables\" in the 21st century and what diplomatic terminology like \"not/not\" signifies. The interview provides general audiences with insight into the complexity and importance of diplomatic work on the ground. However, as a single-case interview format, it offers limited generalized research data or quantitative findings.\n\n##",
-      "keyPoints": [
-        "**외교관의 위기 관리 역량** / Diplomats' Crisis Management Capability",
-        "**다국어 능력과 공식 소통의 중요성** / Importance of Multilingual Skills and Official Communication",
-        "**현장의 극단적 상황 대처** / Managing Extreme On-Ground Situations",
-        "**현대 외교의 지속된 전통성** / Continuity of Traditional Practices in Modern Diplomacy"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
       "featured": false
     }
   ]
