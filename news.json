@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-11T10:59:17.830974+00:00",
+  "updated": "2026-04-11T11:59:28.184739+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "518d379c2f15",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Your brain can trick you into liking artificial sweeteners",
+      "titleKo": "뇌가 인공 감미료를 좋아하도록 속일 수 있다",
+      "summary": "Your brain might be quietly deciding what tastes good before you even take a sip. Researchers found that simply changing what people thought they were drinking—sugar or artificial sweetener—could dramatically shift how much they enjoyed it. When participants believed a drink had artificial sweeteners, real sugar tasted less enjoyable, but when they expected sugar, even artificially sweetened drinks became more pleasurable.",
+      "aiSummary": "This study reveals that our expectations about what we're drinking have a greater impact on taste enjoyment than the actual ingredients. Researchers gave participants the same beverage but provided misleading information—telling some it contained sugar and others that it contained artificial sweetener. Results showed that participants who expected artificial sweetener rated real sugar drinks as less enjoyable, while those expecting sugar found artificially sweetened drinks more pleasurable. This demonstrates that our brains determine taste satisfaction based on psychological expectations rather than actual flavor components. The findings have significant implications for the food industry and marketing strategies. However, the study's limitation is that it only measures short-term responses, and additional research is needed to understand how taste adaptation changes over longer periods.\n\n##",
+      "aiSummaryKo": "이 연구는 음료의 실제 성분보다 우리가 기대하는 것이 맛의 즐거움에 더 큰 영향을 미친다는 것을 보여줍니다. 연구진은 참가자들에게 같은 음료를 마시도록 한 후, 일부에게는 설탕이 들어있다고, 다른 일부에게는 인공감미료가 들어있다고 잘못된 정보를 제공했습니다. 결과적으로 인공감미료라고 예상한 사람들은 실제 설탕 음료도 덜 맛있다고 평가했고, 설탕이라고 예상한 사람들은 인공감미료 음료도 더 맛있다고 느꼈습니다. 이는 우리의 뇌가 실제 맛보다 심리적 기대감에 의해 맛의 만족도가 결정된다는 것을 의미합니다. 이 연구는 식품 산업과 마케팅 전략에 중요한 시사점을 제공합니다. 다만 이 연구는 단기 실험이므로 장기적인 맛의 적응이 어떻게 변하는지는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study reveals that our expectations about what we're drinking have a greater impact on taste enjoyment than the actual ingredients. Researchers gave participants the same beverage but provided misleading information—telling some it contained sugar and others that it contained artificial sweetener. Results showed that participants who expected artificial sweetener rated real sugar drinks as less enjoyable, while those expecting sugar found artificially sweetened drinks more pleasurable. This demonstrates that our brains determine taste satisfaction based on psychological expectations rather than actual flavor components. The findings have significant implications for the food industry and marketing strategies. However, the study's limitation is that it only measures short-term responses, and additional research is needed to understand how taste adaptation changes over longer periods.\n\n##",
+      "keyPoints": [
+        "**기대감의 힘** / The Power of Expectations",
+        "**플라시보 효과의 작용** / Placebo Effect in Taste",
+        "**심리적 영향의 중요성** / Psychological Impact Significance",
+        "**산업 적용 가능성** / Industry Application"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
+      "featured": true
+    },
     {
       "id": "e513c51d343c",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**전략적 감정 관리**: 상대방의 평판 손상을 목표로 한다면 눈물은 효과적이지만, 장기적 사회적 지위를 고려할 때는 신중한 선택이 필요 / Crying is strategically effective for damaging opponents' reputations but requires careful consideration given its costs to one's own long-term social standing"
       ],
       "url": "https://www.psypost.org/crying-during-a-conflict-damages-your-opponents-reputation-at-a-cost-to-your-own/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b964f255269e",
@@ -399,27 +420,6 @@
         "**통합적 대안의 필요성 / Need for Integrated Alternatives**: 현재의 철학적 기초 분석을 통해 마음-신체의 분리를 극복하는 더 통합적인 에이전시 구조 개발의 필요성 제기 / Proposes the necessity of developing more integrated agency structures that overcome mind-body separation"
       ],
       "url": "https://arxiv.org/abs/2604.07745",
-      "featured": false
-    },
-    {
-      "id": "49bd5b1e5992",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "15시간 전 / 15h ago",
-      "title": "Neuromodulation supports robust rhythmic pattern transitions in degenerate central pattern generators with fixed connectivity",
-      "titleKo": "신경조절이 고정된 연결성을 가진 퇴화된 중추 패턴 생성기에서 견고한 리듬 패턴 전환을 지원한다",
-      "summary": "arXiv:2604.08312v1 Announce Type: cross Abstract: Many essential biological functions, such as breathing and locomotion, rely on the coordination of robust and adaptable rhythmic patterns, governed by specific network architectures known as connectomes. Rhythmic adaptation is often linked to slow structural modifications of the connectome through synaptic plasticity, but such mechanisms are too slow to support rapid, localized rhythmic transitions. Here, we propose a neuromodulation-based control architecture for dynamically reconfiguring rhythmic activity in networks with fixed connectivity. ",
-      "aiSummary": "This research explores how biological neural networks controlling essential functions like breathing and locomotion can rapidly switch rhythmic patterns despite having fixed structural connectivity. Previous studies attributed rhythmic adaptation to slow structural changes in neural networks through synaptic plasticity, which cannot adequately explain fast, localized pattern transitions. The research team proposes a neuromodulation-based control architecture that dynamically reconfigures neural activity without altering the fixed network structure. This mechanism operates through chemical signaling pathways such as neurotransmitter release modulation and receptor sensitivity changes. The proposed neuromodulation approach enables rapid rhythmic transitions by adjusting neurochemical states rather than physical connections. This study has significant implications for understanding efficient brain adaptation mechanisms and could be applied to treating neurological disorders and developing advanced robotic control systems. However, the model may not fully capture the complexity of real biological systems in all contexts.\n\n##",
-      "aiSummaryKo": "본 연구는 호흡과 보행 같은 생체 기능을 조절하는 신경망이 고정된 연결 상태에서도 어떻게 빠르게 리듬 패턴을 전환할 수 있는지를 탐구합니다. 기존 연구들은 시냅스 가소성을 통한 느린 신경망 구조 변화가 리듬 적응을 일으킨다고 알려져 왔으나, 이는 빠른 국소적 전환을 설명하기에 충분하지 않습니다. 연구팀은 신경 조절(neuromodulation)이라는 메커니즘을 기반으로 한 제어 아키텍처를 제안했습니다. 이 방식은 연결된 신경망의 구조를 바꾸지 않으면서도 화학 신호를 통해 신경 활동을 동적으로 재구성하여 빠른 리듬 전환을 가능하게 합니다. 신경 조절은 신경전달물질 방출량 조절이나 수용체 감도 변화 같은 생화학적 기제를 통해 작동합니다. 이 연구는 뇌의 효율적인 적응 메커니즘을 이해하고 신경계 질환 치료나 로봇 제어 시스템 개발에 응용될 수 있다는 점에서 의의가 있습니다. 다만, 실제 생물학적 시스템의 복잡성을 완전히 반영하지 못했을 가능성이 있습니다.\n\n##",
-      "aiSummaryEn": "This research explores how biological neural networks controlling essential functions like breathing and locomotion can rapidly switch rhythmic patterns despite having fixed structural connectivity. Previous studies attributed rhythmic adaptation to slow structural changes in neural networks through synaptic plasticity, which cannot adequately explain fast, localized pattern transitions. The research team proposes a neuromodulation-based control architecture that dynamically reconfigures neural activity without altering the fixed network structure. This mechanism operates through chemical signaling pathways such as neurotransmitter release modulation and receptor sensitivity changes. The proposed neuromodulation approach enables rapid rhythmic transitions by adjusting neurochemical states rather than physical connections. This study has significant implications for understanding efficient brain adaptation mechanisms and could be applied to treating neurological disorders and developing advanced robotic control systems. However, the model may not fully capture the complexity of real biological systems in all contexts.\n\n##",
-      "keyPoints": [
-        "**고정 연결 신경망의 동적 제어** / Dynamic control of fixed connectivity neural networks",
-        "**신경조절(Neuromodulation)의 역할** / Role of neuromodulation",
-        "**생물학적 기능의 적응성** / Adaptability of biological functions",
-        "**임상 및 기술적 응용 가능성** / Clinical and technological applications"
-      ],
-      "url": "https://arxiv.org/abs/2604.08312",
       "featured": false
     }
   ]
