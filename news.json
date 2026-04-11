@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-11T21:51:31.106788+00:00",
+  "updated": "2026-04-11T23:05:53.310741+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "30fd693a144b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Artificial intelligence makes consumers more impatient",
+      "titleKo": "인공지능이 소비자들을 더욱 성급하게 만든다",
+      "summary": "Getting advice from an automated chatbot might accidentally change how you perceive the passage of time. A new psychological study suggests that waiting for an artificial intelligence agent makes future delays feel longer, leading to highly impatient consumer choices.",
+      "aiSummary": "This study examined how interactions with artificial intelligence affect consumers' perception of time. Researchers hypothesized that waiting for responses from automated chatbots makes subsequent delays feel longer and conducted psychological experiments to test this. Results showed that participants who waited for AI agents demonstrated increased impatience in future situations and showed a higher tendency to choose immediate rewards over delayed ones. This finding suggests that experiences with AI interactions can unconsciously reduce consumer patience. The research has important implications for understanding socio-psychological changes brought about by expanding AI technology. However, the study's limitations include the controlled laboratory environment and potential variations in AI response times.\n\n##",
+      "aiSummaryKo": "이 연구는 인공지능과의 상호작용이 소비자의 시간 지각에 어떤 영향을 미치는지 조사했습니다. 연구진은 자동화된 챗봇의 응답을 기다리는 경험이 이후의 지연을 더 길게 느끼게 한다고 가정하고 심리학 실험을 진행했습니다. 실험 결과, AI 에이전트를 기다린 참가자들은 향후 상황에서 더 높은 인내심 부족을 보였으며, 즉시적인 보상을 선택하는 경향이 증가했습니다. 이는 AI와의 상호작용 경험이 무의식적으로 소비자의 인내심을 감소시킬 수 있음을 시사합니다. 이 발견은 AI 기술의 확대로 인한 사회심리적 변화를 이해하는 데 중요한 함의를 가집니다. 다만, 실험실 환경에서의 제한된 조건과 AI 응답 시간의 편차 등이 연구의 제약으로 작용할 수 있습니다.\n\n##",
+      "aiSummaryEn": "This study examined how interactions with artificial intelligence affect consumers' perception of time. Researchers hypothesized that waiting for responses from automated chatbots makes subsequent delays feel longer and conducted psychological experiments to test this. Results showed that participants who waited for AI agents demonstrated increased impatience in future situations and showed a higher tendency to choose immediate rewards over delayed ones. This finding suggests that experiences with AI interactions can unconsciously reduce consumer patience. The research has important implications for understanding socio-psychological changes brought about by expanding AI technology. However, the study's limitations include the controlled laboratory environment and potential variations in AI response times.\n\n##",
+      "keyPoints": [
+        "**시간 지각의 변화** / **Altered Time Perception**: AI와의 상호작용 대기 경험이 이후 시간이 더 길게 느껴지도록 변화시킴",
+        "**소비자 행동의 변화** / **Consumer Behavior Shift**: AI 대기 후 즉시적 보상을 선택하는 비율 증가로 인내심 감소",
+        "**무의식적 영향** / **Unconscious Impact**: 소비자가 자각하지 못한 상태에서 심리 상태가 변화하는 현상 발생",
+        "**AI 기술의 사회심리적 영향** / **Socio-psychological Implications of AI**: AI 기술 확대 시대에 인간의 심리적 적응과 행동 변화에 대한 주의 필요"
+      ],
+      "url": "https://www.psypost.org/artificial-intelligence-makes-consumers-more-impatient/",
+      "featured": true
+    },
     {
       "id": "9af9b1ab7cd8",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**연구 설계의 한계**: 관찰 연구로서 인과관계의 확립에 제한이 있으며, 추가 종단연구와 기전 연구 필요 / Observational study design limits causal inference; longitudinal and mechanistic research needed for stronger evidence"
       ],
       "url": "https://www.psypost.org/stacking-bad-habits-triples-the-risk-of-co-occurring-anxiety-and-depression-in-teenagers/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "cd8e3f77002f",
@@ -399,27 +420,6 @@
         "응용 분야 / Applications in game theory, AI algorithm development, and combinatorial complexity analysis"
       ],
       "url": "https://arxiv.org/abs/2604.06189",
-      "featured": false
-    },
-    {
-      "id": "be25e62f0664",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
-      "titleKo": "맹목적 거부: 언어 모델이 부당하고 황당하며 부당한 규칙을 회피하도록 사용자를 돕기를 거부하다",
-      "summary": "arXiv:2604.06233v1 Announce Type: new Abstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority, rules that are deeply unjust or absurd in their content or application, or rules that admit of justified exceptions, refusal is a failure of moral reasoning. We introduce empirical results documenting this pattern of refusal that we call blind refusal: the tendency of language models to refuse requests for help breaking rules without regard to wheth",
-      "aiSummary": "Safety-trained large language models are designed to refuse requests that help users circumvent rules, but not all rules warrant compliance. This research empirically documents a phenomenon called \"blind refusal,\" where language models refuse requests to break rules without evaluating the legitimacy of the authority imposing them, the justness of the rules' content, or whether exceptions are morally warranted. The researchers tested various scenarios involving unjust authorities, absurd rules, and situations with justified exceptions, demonstrating that models enforce rule compliance mechanistically without moral reasoning. These findings suggest that AI safety training may paradoxically inhibit the moral judgment necessary for ethical decision-making in complex situations. The research highlights the need to integrate contextual understanding and moral reasoning into AI safety frameworks. However, the study faces limitations in defining all complex moral scenarios and lacks concrete solutions for practical implementation of more nuanced AI governance.\n\n##",
-      "aiSummaryKo": "안전 교육을 받은 대규모 언어모델(AI)은 규칙 위반을 돕는 요청을 거부하도록 훈련되어 있습니다. 그러나 모든 규칙이 따를 가치가 있는 것은 아닙니다. 이 연구는 언어모델이 규칙의 정당성, 내용의 부당함, 또는 정당한 예외 상황 여부를 판단하지 않고 무조건 거부하는 \"맹목적 거부(blind refusal)\" 현상을 실증적으로 규명했습니다. 연구팀은 부당한 권위, 불합리한 규칙, 정당한 예외가 인정되는 상황 등 다양한 시나리오를 통해 언어모델이 도덕적 판단 없이 단순히 규칙 준수만을 강제하는 경향을 보였습니다. 이는 언어모델의 안전장치가 오히려 도덕적 추론 능력을 방해하고 있음을 시사합니다. 연구의 의의는 AI 안전 훈련에 상황적 맥락과 도덕적 판단을 반영해야 함을 강조하는 것입니다. 다만, 현실의 복잡한 도덕 상황을 모두 정의하는 것의 어려움과 실제 적용 방법에 대한 구체적 솔루션 제시가 제한적이라는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "Safety-trained large language models are designed to refuse requests that help users circumvent rules, but not all rules warrant compliance. This research empirically documents a phenomenon called \"blind refusal,\" where language models refuse requests to break rules without evaluating the legitimacy of the authority imposing them, the justness of the rules' content, or whether exceptions are morally warranted. The researchers tested various scenarios involving unjust authorities, absurd rules, and situations with justified exceptions, demonstrating that models enforce rule compliance mechanistically without moral reasoning. These findings suggest that AI safety training may paradoxically inhibit the moral judgment necessary for ethical decision-making in complex situations. The research highlights the need to integrate contextual understanding and moral reasoning into AI safety frameworks. However, the study faces limitations in defining all complex moral scenarios and lacks concrete solutions for practical implementation of more nuanced AI governance.\n\n##",
-      "keyPoints": [
-        "**맹목적 거부 현상**: 언어모델이 규칙의 정당성을 판단하지 않고 모든 규칙 위반 요청을 거부하는 경향 / Language models refuse all rule-breaking requests without evaluating rule legitimacy",
-        "**도덕적 판단 부재**: AI의 안전장치가 상황적 맥락과 정당한 예외를 고려하지 못하고 있음 / Safety mechanisms fail to consider situational context and justified exceptions",
-        "**안전 훈련의 한계**: 현재의 AI 안전 훈련이 도덕적 추론 능력을 오히려 약화시킬 수 있음 / Current safety training may weaken rather than strengthen moral reasoning capabilities",
-        "**정책 개선 필요성**: AI 거버넌스에 도덕 철학적 원칙과 상황적 판단을 통합해야 함 / Integration of moral philosophy and contextual judgment needed in AI governance frameworks"
-      ],
-      "url": "https://arxiv.org/abs/2604.06233",
       "featured": false
     }
   ]
