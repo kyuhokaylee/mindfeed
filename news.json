@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-11T08:02:15.199565+00:00",
+  "updated": "2026-04-11T10:59:17.830974+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e513c51d343c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Crying during a conflict damages your opponent’s reputation at a cost to your own",
+      "titleKo": "분쟁 중 울음은 자신의 평판을 손상시키면서 상대방의 평판을 훼손한다",
+      "summary": "A new study reveals a fascinating social tradeoff during arguments. While staying calm protects your own reputation, shedding tears actually inflicts the most damage on your opponent’s social standing, albeit at a cost to your own.",
+      "aiSummary": "A recent study reveals a fascinating social tradeoff that occurs during conflicts and arguments. Researchers investigated how emotional expressions in argumentative situations affect both the expresser's and the opponent's social reputation. Key findings show that maintaining composure best protects one's own reputation, while crying inflicts the greatest damage on the opponent's social standing. This suggests that emotional expressions function as a powerful social signal not merely indicating weakness but also morally discrediting the opponent. However, this strategy comes at the cost of damaging one's own reputation. The research demonstrates how nuanced the role of emotions is in interpersonal relationships and social dynamics. Future studies should examine potential variations based on cultural differences and contextual factors.\n\n##",
+      "aiSummaryKo": "최근 연구에 따르면 갈등 상황에서 눈물을 흘리는 것이 복잡한 사회적 트레이드오프를 만든다는 것이 밝혀졌습니다. 연구팀은 논쟁 상황에서 사람들의 감정 표현이 자신과 상대방의 평판에 어떤 영향을 미치는지 조사했습니다. 주요 결과는 차분한 태도를 유지하면 자신의 평판을 가장 잘 보호할 수 있지만, 눈물을 흘리면 상대방의 사회적 평판에 가장 큰 손상을 입힐 수 있다는 것입니다. 이는 감정 표현이 단순히 개인의 약함을 드러내는 것이 아니라 상대방을 도덕적으로 평가절하하는 강력한 사회적 신호로 작용할 수 있음을 시사합니다. 다만 이 전략은 자신의 평판 손상이라는 대가를 치르게 됩니다. 이 연구는 감정이 대인관계와 사회적 역학에서 얼마나 정교한 역할을 하는지 보여줍니다. 향후 연구에서는 문화적 차이나 맥락에 따른 효과의 변이를 살펴볼 필요가 있습니다.\n\n##",
+      "aiSummaryEn": "A recent study reveals a fascinating social tradeoff that occurs during conflicts and arguments. Researchers investigated how emotional expressions in argumentative situations affect both the expresser's and the opponent's social reputation. Key findings show that maintaining composure best protects one's own reputation, while crying inflicts the greatest damage on the opponent's social standing. This suggests that emotional expressions function as a powerful social signal not merely indicating weakness but also morally discrediting the opponent. However, this strategy comes at the cost of damaging one's own reputation. The research demonstrates how nuanced the role of emotions is in interpersonal relationships and social dynamics. Future studies should examine potential variations based on cultural differences and contextual factors.\n\n##",
+      "keyPoints": [
+        "**감정의 양면성**: 눈물은 자신의 평판을 손상시키면서도 상대방에게 최대의 평판 피해를 입히는 양날의 검 역할을 함 / Tears serve as a double-edged sword, damaging one's own reputation while inflicting maximum reputational damage on opponents",
+        "**평정심의 가치**: 갈등 상황에서 차분함을 유지하는 것이 자신의 사회적 평판을 최우선적으로 보호하는 최적의 전략 / Maintaining composure during conflict is the optimal strategy for best protecting one's own social reputation",
+        "**감정의 사회적 신호 기능**: 눈물과 같은 감정 표현은 단순한 감정 표출이 아닌 상대방을 도덕적으로 폄하하는 강력한 사회적 신호로 작용 / Emotional expressions like crying function as powerful social signals that morally discredit opponents, not merely as emotional outlets",
+        "**전략적 감정 관리**: 상대방의 평판 손상을 목표로 한다면 눈물은 효과적이지만, 장기적 사회적 지위를 고려할 때는 신중한 선택이 필요 / Crying is strategically effective for damaging opponents' reputations but requires careful consideration given its costs to one's own long-term social standing"
+      ],
+      "url": "https://www.psypost.org/crying-during-a-conflict-damages-your-opponents-reputation-at-a-cost-to-your-own/",
+      "featured": true
+    },
     {
       "id": "b964f255269e",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**연구의 제한점** / **Research Limitations**"
       ],
       "url": "https://www.psypost.org/reasoning-and-memory-skills-build-on-each-other-in-growing-children/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "381971e27c77",
@@ -399,27 +420,6 @@
         "**임상 및 기술적 응용 가능성** / Clinical and technological applications"
       ],
       "url": "https://arxiv.org/abs/2604.08312",
-      "featured": false
-    },
-    {
-      "id": "518d379c2f15",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Your brain can trick you into liking artificial sweeteners",
-      "titleKo": "뇌가 인공 감미료를 좋아하도록 당신을 속일 수 있다",
-      "summary": "Your brain might be quietly deciding what tastes good before you even take a sip. Researchers found that simply changing what people thought they were drinking—sugar or artificial sweetener—could dramatically shift how much they enjoyed it. When participants believed a drink had artificial sweeteners, real sugar tasted less enjoyable, but when they expected sugar, even artificially sweetened drinks became more pleasurable.",
-      "aiSummary": "This study investigated how consumer expectations about beverage ingredients influence taste perception more than actual composition. Researchers gave participants identical drinks while providing different information—some were told the drink contained sugar while others were told it contained artificial sweeteners. The results demonstrated a powerful expectation effect: when participants believed a drink contained artificial sweeteners, sugar-sweetened drinks tasted significantly less enjoyable, but when they expected sugar, artificially sweetened drinks were rated as more pleasurable. This reveals that the brain's taste perception is heavily influenced by psychological expectations rather than actual flavor compounds. The research has important implications for food industry marketing strategies and consumer psychology. However, additional research is needed regarding participant sample size, demographic diversity, and generalization across different beverage types.\n\n##",
-      "aiSummaryKo": "본 연구는 음료의 실제 성분보다 소비자의 기대감이 맛 인식에 미치는 영향을 조사했습니다. 연구팀은 참가자들에게 동일한 음료를 제공하면서 설탕 또는 인공감미료가 포함되어 있다고 다르게 알렸습니다. 결과는 매우 흥미로웠는데, 인공감미료가 들어있다고 생각한 경우 실제 설탕이 포함된 음료의 맛이 덜 좋게 느껴졌고, 반대로 설탕이 들어있다고 예상한 참가자들은 인공감미료 음료도 더 맛있게 평가했습니다. 이는 뇌가 실제 맛보다 심리적 기대감에 더 큰 영향을 받는다는 것을 보여줍니다. 본 연구는 음식 산업의 마케팅 전략과 소비자 인식 연구에 중요한 의미를 지닙니다. 다만 연구에 참여한 인원 수, 참가자 집단의 특성, 다양한 음료 종류에 대한 검증 등이 추가적으로 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated how consumer expectations about beverage ingredients influence taste perception more than actual composition. Researchers gave participants identical drinks while providing different information—some were told the drink contained sugar while others were told it contained artificial sweeteners. The results demonstrated a powerful expectation effect: when participants believed a drink contained artificial sweeteners, sugar-sweetened drinks tasted significantly less enjoyable, but when they expected sugar, artificially sweetened drinks were rated as more pleasurable. This reveals that the brain's taste perception is heavily influenced by psychological expectations rather than actual flavor compounds. The research has important implications for food industry marketing strategies and consumer psychology. However, additional research is needed regarding participant sample size, demographic diversity, and generalization across different beverage types.\n\n##",
-      "keyPoints": [
-        "**기대의 힘 (Expectation Effect)** / Brain's taste perception is heavily influenced by psychological expectations rather than actual chemical composition",
-        "**실제 성분 vs 심리적 기대 (Reality vs Perception)** / Identical beverages tasted dramatically different depending on what consumers believed they were drinking",
-        "**마케팅과 소비자 행동 (Marketing Implications)** / Product labeling and marketing messages can significantly influence consumer satisfaction independent of actual product quality",
-        "**뇌의 인지적 편향 (Cognitive Bias)** / The brain actively constructs taste experience based on anticipated information before actual tasting occurs"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
       "featured": false
     }
   ]
