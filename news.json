@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-11T14:10:52.462050+00:00",
+  "updated": "2026-04-11T16:02:17.852835+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "40bc6b2c8610",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Drumming with friends increases oxytocin levels in children, study finds",
+      "titleKo": "친구들과 함께 드럼을 치면 어린이의 옥시토신 수치가 증가한다는 연구 결과",
+      "summary": "A new Japanese study reveals that participating in a drum circle boosts oxytocin—the \"bonding hormone\"—in elementary school girls. However, this biological boost only happens when the children play alongside their friends, not strangers.",
+      "aiSummary": "A new Japanese study examined how drumming activities affect hormone levels in children, specifically focusing on the \"bonding hormone\" oxytocin. Elementary school girls participated in drum circle activities, with measurements taken when they played with friends versus with strangers. The results showed that oxytocin levels increased significantly when children played drums with their friends, but no such increase occurred when playing with unfamiliar peers. This suggests that while group musical activities can enhance social bonding, the effect depends on the quality of existing relationships. The research provides biological evidence that collaborative musical experiences may positively impact children's social and psychological well-being. However, limitations include the small sample size, focus only on girls, and the need for validation across different age groups and cultural contexts.\n\n##",
+      "aiSummaryKo": "본 연구는 일본 연구팀이 드럼 연주가 아이들의 호르몬 수치에 미치는 영향을 조사한 것입니다. 연구진은 초등학교 여학생들을 대상으로 친구들과 함께 드럼 서클(원형으로 앉아 함께 드럼을 연주하는 활동)에 참여하게 했을 때 \"유대감 호르몬\"으로 알려진 옥시토신 수치가 증가하는지 확인했습니다. 연구 결과, 아이들이 친구들과 드럼을 연주할 때 옥시토신 수치가 유의미하게 증가했으나, 낯선 사람들과 함께했을 때는 이러한 호르몬 증가 효과가 나타나지 않았습니다. 이는 공동 활동이 사회적 유대감을 강화하는데, 그 효과가 관계의 질에 따라 달라진다는 것을 시사합니다. 연구의 의의는 음악적 활동이 신체적·심리적 건강에 긍정적 영향을 미칠 수 있음을 생물학적 증거로 제시한 것입니다. 다만 샘플 크기, 여학생만 대상으로 한 제한, 그리고 다양한 연령대와 문화적 배경에서의 재검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "A new Japanese study examined how drumming activities affect hormone levels in children, specifically focusing on the \"bonding hormone\" oxytocin. Elementary school girls participated in drum circle activities, with measurements taken when they played with friends versus with strangers. The results showed that oxytocin levels increased significantly when children played drums with their friends, but no such increase occurred when playing with unfamiliar peers. This suggests that while group musical activities can enhance social bonding, the effect depends on the quality of existing relationships. The research provides biological evidence that collaborative musical experiences may positively impact children's social and psychological well-being. However, limitations include the small sample size, focus only on girls, and the need for validation across different age groups and cultural contexts.\n\n##",
+      "keyPoints": [
+        "**친구와의 공동 활동 효과** / Bonding hormone increases only with friends, not strangers - demonstrating that relationship quality matters in group activities",
+        "**옥시토신 증가 메커니즘** / Oxytocin (bonding hormone) levels significantly elevated during drum circle participation with familiar peers, supporting neurobiological basis of social connection",
+        "**음악의 사회적 기능** / Group drumming serves as a practical tool to enhance children's social bonding and emotional connection through synchronized physical activity",
+        "**연구의 제한점** / Study limited to elementary school girls, requiring broader replication across genders, ages, and cultural populations for generalization"
+      ],
+      "url": "https://www.psypost.org/drumming-with-friends-increases-oxytocin-levels-in-children-study-finds/",
+      "featured": true
+    },
     {
       "id": "2881ff2fd662",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**연구의 한계와 일반화 문제** / Limitations and Generalizability Issues"
       ],
       "url": "https://www.psypost.org/cognitive-dissonance-helps-explain-why-trump-supporters-remain-loyal-new-research-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "14128a55c7d2",
@@ -399,27 +420,6 @@
         "**문화적 다양성 검증 필요** / Cross-cultural studies are required to confirm these findings across different societies and socioeconomic systems"
       ],
       "url": "https://www.psypost.org/social-context-influences-dating-preferences-just-as-much-as-biological-sex/",
-      "featured": false
-    },
-    {
-      "id": "b8128e329f53",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "15시간 전 / 15h ago",
-      "title": "Energy-Based Dynamical Models for Neurocomputation, Learning, and Optimization",
-      "titleKo": "신경계산, 학습 및 최적화를 위한 에너지 기반 동역학 모델",
-      "summary": "arXiv:2604.05042v1 Announce Type: cross Abstract: Recent advances at the intersection of control theory, neuroscience, and machine learning have revealed novel mechanisms by which dynamical systems perform computation. These advances encompass a wide range of conceptual, mathematical, and computational ideas, with applications for model learning and training, memory retrieval, data-driven control, and optimization. This tutorial focuses on neuro-inspired approaches to computation that aim to improve scalability, robustness, and energy efficiency across such tasks, bridging the gap between arti",
-      "aiSummary": "This tutorial paper reviews recent advances at the intersection of control theory, neuroscience, and machine learning that reveal how dynamical systems perform computation through energy-based mechanisms. The research synthesizes novel conceptual, mathematical, and computational ideas inspired by neural biology to understand energy-efficient computation. Key findings demonstrate that energy-based dynamical models show strong performance across diverse tasks including model learning, memory retrieval, data-driven control, and optimization. The significance of this work lies in presenting new methodologies that can simultaneously improve scalability, robustness, and energy efficiency of artificial intelligence systems by incorporating principles from biological neural computation. By applying the energy-efficient computational mechanisms of biological nervous systems to artificial systems, the research enables more sustainable AI development. A limitation is that the tutorial focuses primarily on theoretical frameworks and mathematical foundations, potentially offering limited specific performance comparisons in practical applications.\n\n##",
-      "aiSummaryKo": "본 연구는 제어 이론, 신경과학, 머신러닝이 교차하는 분야에서 동역학계(시간에 따라 변하는 시스템)가 어떻게 계산을 수행하는지 밝히는 최근 연구들을 종합한 튜토리얼 논문이다. 연구팀은 에너지 기반의 동역학 모델들을 검토하여 신경 생물학에서 영감을 받은 계산 방식들을 분석했다. 핵심 결과는 이러한 에너지 기반 접근법이 모델 학습, 메모리 검색, 데이터 기반 제어, 최적화 등 다양한 작업에서 높은 성능을 보여준다는 것이다. 이 연구의 의의는 인공지능 시스템의 확장성, 견고성, 에너지 효율성을 동시에 개선할 수 있는 새로운 방법론을 제시한다는 점이다. 특히 생물학적 신경계의 에너지 효율적 계산 메커니즘을 인공시스템에 적용함으로써 더 지속 가능한 AI 개발이 가능하다. 다만 이 튜토리얼은 이론적 프레임워크 정리에 중점을 두고 있어, 특정 실제 응용 사례의 구체적 성능 비교는 제한적일 수 있다.\n\n##",
-      "aiSummaryEn": "This tutorial paper reviews recent advances at the intersection of control theory, neuroscience, and machine learning that reveal how dynamical systems perform computation through energy-based mechanisms. The research synthesizes novel conceptual, mathematical, and computational ideas inspired by neural biology to understand energy-efficient computation. Key findings demonstrate that energy-based dynamical models show strong performance across diverse tasks including model learning, memory retrieval, data-driven control, and optimization. The significance of this work lies in presenting new methodologies that can simultaneously improve scalability, robustness, and energy efficiency of artificial intelligence systems by incorporating principles from biological neural computation. By applying the energy-efficient computational mechanisms of biological nervous systems to artificial systems, the research enables more sustainable AI development. A limitation is that the tutorial focuses primarily on theoretical frameworks and mathematical foundations, potentially offering limited specific performance comparisons in practical applications.\n\n##",
-      "keyPoints": [
-        "**신경영감 계산 패러다임** / Neuro-inspired computational approach that bridges neuroscience, control theory, and machine learning to develop more efficient artificial systems",
-        "**에너지 효율성 향상** / Energy-based dynamical models improve computational efficiency by incorporating biological neural principles, enabling sustainable AI development",
-        "**다중 작업 적용성** / Applications span model learning, memory retrieval, data-driven control, and optimization tasks with demonstrated effectiveness across domains",
-        "**이론적 통합 프레임워크** / Provides unified mathematical and conceptual framework connecting biological computation principles to artificial intelligence system design and training"
-      ],
-      "url": "https://arxiv.org/abs/2604.05042",
       "featured": false
     }
   ]
