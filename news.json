@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-10T23:55:43.261240+00:00",
+  "updated": "2026-04-11T05:22:21.665061+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b964f255269e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "5시간 전 / 5h ago",
+      "title": "Longitudinal study links associative learning gains to later improvements in fluid intelligence",
+      "titleKo": "연합 학습 향상이 후속 유동성 지능 개선과 연관된 종단 연구",
+      "summary": "As children grow, their capacity to memorize associations and their ability to solve novel problems actively reinforce each other. New research suggests that these core cognitive skills develop together in a bidirectional loop during elementary school.",
+      "aiSummary": "This research investigated how associative learning (the ability to connect and memorize new information) and fluid intelligence (the ability to solve novel problems) develop together in children. The researchers used a longitudinal study design tracking elementary school-aged children over time, though specific participant numbers and detailed measurement methods were not specified in the article. The key finding is that these two cognitive abilities form a bidirectional reinforcement loop: improvements in associative learning enhance fluid intelligence, while advances in fluid intelligence simultaneously strengthen associative learning capacity. This research contributes to understanding the fundamental mechanisms of child cognitive development and has implications for designing educational and learning support programs. However, the study is limited to the elementary school period, so the relationship between these abilities in adolescence and adulthood remains unclear, and potential effects of cultural and environmental factors may not have been thoroughly examined.\n\n##",
+      "aiSummaryKo": "이 연구는 아동의 인지발달 과정에서 연상학습(새로운 정보를 연결하고 기억하는 능력)과 유동지능(새로운 문제를 푸는 능력)이 어떻게 발달하는지를 조사했습니다. 연구팀은 초등학교 재학 중인 아동들을 장기간 추적 관찰하는 종단연구 설계를 사용했으며, 참가자 수와 구체적 측정 방법은 기사에 명시되지 않았습니다. 핵심 발견은 두 인지능력이 상호 강화하는 양방향 루프를 형성한다는 것입니다. 즉, 연상학습 능력이 향상되면 유동지능이 증진되고, 반대로 유동지능이 발달하면 연상학습 능력도 함께 발전합니다. 이 연구는 아동 인지발달의 기본 메커니즘을 밝혀냈다는 점에서 교육 및 학습 지원 프로그램 개발에 기여할 수 있습니다. 다만 초등학교 시기만 연구했으므로 청소년기 이후 발달 단계에서의 관계는 명확하지 않으며, 문화적·환경적 요인의 영향은 충분히 검토되지 않았을 가능성이 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigated how associative learning (the ability to connect and memorize new information) and fluid intelligence (the ability to solve novel problems) develop together in children. The researchers used a longitudinal study design tracking elementary school-aged children over time, though specific participant numbers and detailed measurement methods were not specified in the article. The key finding is that these two cognitive abilities form a bidirectional reinforcement loop: improvements in associative learning enhance fluid intelligence, while advances in fluid intelligence simultaneously strengthen associative learning capacity. This research contributes to understanding the fundamental mechanisms of child cognitive development and has implications for designing educational and learning support programs. However, the study is limited to the elementary school period, so the relationship between these abilities in adolescence and adulthood remains unclear, and potential effects of cultural and environmental factors may not have been thoroughly examined.\n\n##",
+      "keyPoints": [
+        "**상호강화 메커니즘** / **Bidirectional Reinforcement Mechanism**",
+        "**발달 시기의 중요성** / **Critical Developmental Period**",
+        "**교육적 함의** / **Educational Implications**",
+        "**연구의 제한점** / **Research Limitations**"
+      ],
+      "url": "https://www.psypost.org/reasoning-and-memory-skills-build-on-each-other-in-growing-children/",
+      "featured": true
+    },
+    {
+      "id": "381971e27c77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "25일 전 / 25d ago",
+      "title": "Facts and the Fight for Moral High Ground",
+      "titleKo": "사실과 도덕적 우위를 둘러싼 투쟁",
+      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
+      "aiSummary": "This article examines the voices of residents in Philadelphia regarding the closure of a major oil refinery and the moral debate surrounding environmental justice. The background involves Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard, operating in close proximity to the Gray's Ferry residential neighborhood, causing environmental pollution and public health concerns. The article documents testimonies from community activists, including Ricky, a Gray's Ferry resident who advocates for the refinery's closure. Key findings reveal that residents strongly demanded the refinery's shutdown for environmental justice and health rights, reflecting the broader social struggle over moral authority. This case demonstrates how environmental inequality disproportionately affects low-income Black communities. However, the article's limitation is the lack of longitudinal research on the economic and social impacts on the community following the refinery's closure.\n\n##",
+      "aiSummaryKo": "이 기사는 2019년 8월 필라델피아에서 벌어진 석유정제소 폐쇄에 관한 지역사회 주민들의 목소리와 도덕적 정당성 논쟁을 다루고 있습니다. 연구 배경은 동부 해안 최대 규모의 필라델피아 에너지 솔루션(PES) 정제소가 주거지역에 인접하여 운영되면서 발생한 환경오염과 공중보건 문제입니다. 기사는 Gray's Ferry 지역 주민인 Ricky를 포함한 지역사회 활동가들의 증언과 정제소 폐쇄 이후의 변화를 기록하고 있습니다. 주요 결과는 주민들이 환경정의와 건강권을 위해 정제소 폐쇄를 강력히 요청했으며, 이는 도덕적 우월성을 두고 벌어지는 사회적 투쟁을 반영합니다. 이 사례는 환경불평등이 저소득 흑인 지역사회에 불균형적으로 영향을 미친다는 점을 보여주는 중요한 사례입니다. 다만 기사는 정제소 폐쇄 이후 지역사회의 경제적·사회적 영향에 대한 장기 추적 연구가 부족합니다.\n\n##",
+      "aiSummaryEn": "This article examines the voices of residents in Philadelphia regarding the closure of a major oil refinery and the moral debate surrounding environmental justice. The background involves Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard, operating in close proximity to the Gray's Ferry residential neighborhood, causing environmental pollution and public health concerns. The article documents testimonies from community activists, including Ricky, a Gray's Ferry resident who advocates for the refinery's closure. Key findings reveal that residents strongly demanded the refinery's shutdown for environmental justice and health rights, reflecting the broader social struggle over moral authority. This case demonstrates how environmental inequality disproportionately affects low-income Black communities. However, the article's limitation is the lack of longitudinal research on the economic and social impacts on the community following the refinery's closure.\n\n##",
+      "keyPoints": [
+        "**환경불평등과 공중보건**: 저소득 흑인 지역사회가 산업오염으로부터 불균형적으로 피해를 입고 있음 / Environmental inequality showing disproportionate health impacts on low-income Black communities from industrial pollution",
+        "**도덕적 정당성의 투쟁**: 정제소 폐쇄를 요구하는 지역주민들의 목소리가 환경정의와 생명권의 도덕적 우월성을 주장 / Community residents claiming moral authority through environmental justice and the right to life in demanding refinery closure",
+        "**지역사회 주도의 변화**: Philly Thrive와 같은 풀뿌리 운동조직이 주민들의 증언과 기록을 통해 사회변화를 추동 / Grassroots organizations like Philly Thrive driving social change through resident testimonies and documentation",
+        "**장기 영향 평가의 필요성**: 정제소 폐쇄 이후 지역사회의 경제, 건강, 사회적 회복에 관한 추적 연구가 필요 / Need for longitudinal studies on economic, health, and social recovery outcomes following industrial facility closure"
+      ],
+      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
+      "featured": false
+    },
+    {
+      "id": "bbdd3481a9ff",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Brain study reveals hidden link between autism and ADHD",
+      "titleKo": "뇌 연구, 자폐증과 ADHD 사이의 숨겨진 연관성 밝혀내다",
+      "summary": "Scientists are uncovering a surprising connection between autism and ADHD that goes deeper than labels. Instead of diagnoses, it’s the severity of autism-like traits that seems to shape how the brain is wired—even in children who don’t officially have autism. The study found that certain brain networks tied to thinking and social behavior stay unusually connected in kids with stronger autism symptoms, hinting at a different developmental path.",
+      "aiSummary": "This study investigates the hidden neurobiological connections between autism and ADHD, revealing that the severity of autism-like traits may be more influential than formal diagnoses in shaping brain structure. Rather than focusing on diagnostic labels, researchers examined how the degree of autism characteristics affects neural network organization in children. Key findings showed that children with stronger autism symptoms displayed unusually high connectivity in brain networks responsible for cognition and social behavior, suggesting a distinct developmental trajectory. This indicates that trait severity rather than diagnostic categorization may be the primary factor determining brain development patterns in neurodevelopmental conditions. The research challenges conventional diagnostic frameworks and could contribute to the development of personalized treatment approaches. However, the study has limitations including insufficient details about sample size, participant age range, and longitudinal follow-up periods, which may affect the generalizability of findings.\n\n##",
+      "aiSummaryKo": "본 연구는 자폐증과 ADHD 사이의 숨겨진 신경생물학적 연관성을 규명하기 위해 수행되었습니다. 연구팀은 공식적인 진단 여부보다는 자폐증 특성의 심각도가 뇌 네트워크 구조에 미치는 영향을 중점적으로 조사했습니다. 연구 결과, 자폐증 증상이 강한 아동들에게서 사고와 사회적 행동을 담당하는 뇌 네트워크가 비정상적으로 높은 연결성을 보였습니다. 이는 진단 라벨보다 특성의 정도가 뇌 발달 경로를 결정하는 더 중요한 요인일 수 있음을 시사합니다. 본 연구는 신경발달장애의 기존 진단 체계를 재평가할 필요성을 제기하며 개인맞춤형 치료법 개발에 기여할 수 있습니다. 다만 구체적인 샘플 크기, 참가자의 연령대, 추적 관찰 기간 등의 상세 정보가 부족하여 결과의 일반화 가능성에 제한이 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigates the hidden neurobiological connections between autism and ADHD, revealing that the severity of autism-like traits may be more influential than formal diagnoses in shaping brain structure. Rather than focusing on diagnostic labels, researchers examined how the degree of autism characteristics affects neural network organization in children. Key findings showed that children with stronger autism symptoms displayed unusually high connectivity in brain networks responsible for cognition and social behavior, suggesting a distinct developmental trajectory. This indicates that trait severity rather than diagnostic categorization may be the primary factor determining brain development patterns in neurodevelopmental conditions. The research challenges conventional diagnostic frameworks and could contribute to the development of personalized treatment approaches. However, the study has limitations including insufficient details about sample size, participant age range, and longitudinal follow-up periods, which may affect the generalizability of findings.\n\n##",
+      "keyPoints": [
+        "**진단 라벨을 넘어선 특성 중심 접근** / Moving beyond diagnostic labels to focus on trait severity as the primary determinant of brain structure",
+        "**뇌 네트워크 연결성의 이상** / Atypical connectivity in cognition and social behavior brain networks correlates with autism symptom severity, not formal diagnosis status",
+        "**신경발달장애의 연속체 모델** / Suggests neurodevelopmental disorders exist on a spectrum where trait intensity shapes neural development patterns across traditional diagnostic boundaries",
+        "**개인맞춤형 의료의 필요성** / Supports shift from categorical diagnosis-based treatment to trait-based precision medicine approaches for improved clinical outcomes"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225941.htm",
+      "featured": false
+    },
     {
       "id": "f72378c25f04",
       "tag": "psych",
@@ -21,7 +84,7 @@
         "**주류화된 극단주의** / Mainstreamed Extremism"
       ],
       "url": "https://www.psypost.org/how-extremist-theories-were-disguised-as-election-integrity-in-2024-2026-03-26/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0a3fd970e18a",
@@ -357,69 +420,6 @@
         "**뇌의 인지적 편향 (Cognitive Bias)** / The brain actively constructs taste experience based on anticipated information before actual tasting occurs"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
-      "featured": false
-    },
-    {
-      "id": "379b8da3dd61",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Feeling like you slept poorly might take a heavier toll on new parents than actual sleep loss",
-      "titleKo": "실제 수면 부족보다 수면을 잘 못 잔 것 같은 느낌이 새로운 부모들에게 더 큰 타격을 미칠 수 있다",
-      "summary": "Wearable trackers show a new parent's actual sleep time doesn't predict their mental health. Instead, a new study finds that psychological distress actually worsens perceived sleep quality over the first year postpartum for both parents.",
-      "aiSummary": "New parents experience severe sleep deprivation, but a new study reveals that actual sleep time has less impact on mental health than expected. Researchers tracked new parents wearing wearable sleep trackers for one year postpartum and found no clear correlation between measured sleep duration and mental health status. Instead, higher psychological stress and anxiety were associated with parents perceiving their sleep as worse quality. This suggests that negative psychological perception of sleep affects mental health more significantly than actual sleep loss itself. The findings indicate that psychological interventions are as important as sleep improvement for managing new parents' mental health. However, the study's sample may be limited, and further validation across different cultural contexts and diverse parenting environments is needed.\n\n##",
-      "aiSummaryKo": "신생아 부모들은 극심한 수면 부족을 경험하지만, 실제 수면 시간이 정신 건강에 미치는 영향은 예상보다 작다는 연구 결과가 나왔다. 이 연구는 웨어러블 수면 추적기를 착용한 신생아 부모들을 출산 후 1년간 추적했으며, 실제 측정된 수면 시간과 정신 건강 상태 사이에 뚜렷한 상관관계가 없다는 것을 발견했다. 대신 심리적 스트레스와 불안감이 높을수록 부모들이 자신의 수면을 더 나쁘게 인식하는 경향이 있었다. 이는 실제 수면 부족보다 수면에 대한 부정적인 심리 상태가 정신 건강에 더 큰 영향을 미친다는 것을 시사한다. 이 연구는 신생아 부모의 정신 건강 관리에 심리적 개입이 수면 개선만큼 중요함을 보여준다. 다만 연구 대상이 제한적일 수 있으며, 문화적 차이나 다양한 양육 환경에서의 추가 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "New parents experience severe sleep deprivation, but a new study reveals that actual sleep time has less impact on mental health than expected. Researchers tracked new parents wearing wearable sleep trackers for one year postpartum and found no clear correlation between measured sleep duration and mental health status. Instead, higher psychological stress and anxiety were associated with parents perceiving their sleep as worse quality. This suggests that negative psychological perception of sleep affects mental health more significantly than actual sleep loss itself. The findings indicate that psychological interventions are as important as sleep improvement for managing new parents' mental health. However, the study's sample may be limited, and further validation across different cultural contexts and diverse parenting environments is needed.\n\n##",
-      "keyPoints": [
-        "**실제 수면 vs. 수면 인식의 차이** / Actual sleep duration does not predict mental health outcomes; perceived sleep quality matters more",
-        "**심리적 스트레스의 중요성** / Psychological distress and anxiety worsen the perception of sleep quality, creating a vicious cycle affecting mental health",
-        "**양 부모 모두 해당** / Both mothers and fathers experience similar patterns where emotional distress influences their subjective sleep experience over the first postpartum year",
-        "**정신 건강 개입의 필요성** / Psychological interventions and mental health support may be as crucial as addressing actual sleep time for new parents' wellbeing"
-      ],
-      "url": "https://www.psypost.org/feeling-like-you-slept-poorly-might-take-a-heavier-toll-on-new-parents-than-actual-sleep-loss/",
-      "featured": false
-    },
-    {
-      "id": "b5a14dc77492",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "13시간 전 / 13h ago",
-      "title": "A Benchmark of Classical and Deep Learning Models for Agricultural Commodity Price Forecasting on A Novel Bangladeshi Market Price Dataset",
-      "titleKo": "",
-      "summary": "arXiv:2604.06227v1 Announce Type: new Abstract: Accurate short-term forecasting of agricultural commodity prices is critical for food security planning and smallholder income stabilisation in developing economies, yet machine-learning-ready datasets for this purpose remain scarce in South Asia. This paper makes two contributions. First, we introduce AgriPriceBD, a benchmark dataset of 1,779 daily retail mid-prices for five Bangladeshi commodities - garlic, chickpea, green chilli, cucumber, and sweet pumpkin - spanning July 2020 to June 2025, extracted from government reports via an LLM-assiste",
-      "aiSummary": "This study benchmarks AI model performance for agricultural commodity price forecasting in Bangladesh. The research team collected 1,779 daily retail prices for five commodities—garlic, chickpea, green chilli, cucumber, and sweet pumpkin—spanning July 2020 to June 2025 from government reports using LLM assistance, creating the AgriPriceBD dataset. Classical statistical models (ARIMA, etc.) and modern deep learning models (LSTM, Transformer, etc.) were compared for short-term price prediction accuracy. This research provides the first standardized dataset and benchmark for agricultural price prediction in South Asia, potentially supporting food security planning and smallholder income stabilization in developing economies. However, limitations include geographically restricted data from Bangladesh only and incomplete capture of complex real-market factors such as seasonality and market volatility.\n\n##",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "This study benchmarks AI model performance for agricultural commodity price forecasting in Bangladesh. The research team collected 1,779 daily retail prices for five commodities—garlic, chickpea, green chilli, cucumber, and sweet pumpkin—spanning July 2020 to June 2025 from government reports using LLM assistance, creating the AgriPriceBD dataset. Classical statistical models (ARIMA, etc.) and modern deep learning models (LSTM, Transformer, etc.) were compared for short-term price prediction accuracy. This research provides the first standardized dataset and benchmark for agricultural price prediction in South Asia, potentially supporting food security planning and smallholder income stabilization in developing economies. However, limitations include geographically restricted data from Bangladesh only and incomplete capture of complex real-market factors such as seasonality and market volatility.\n\n##",
-      "keyPoints": [
-        "**데이터셋 구축** / Dataset Development: 방글라데시 5개 농산물 5년간(2020.7-2025.6) 1,779개 일일 가격 데이터를 정부 보고서에서 LLM 기술로 자동 추출하여 표준화된 AgriPriceBD 벤치마크 데이터셋 최초 구축",
-        "**모델 비교 평가** / Model Comparison: ARIMA, SARIMA 등 전통 시계열 모델과 LSTM, GRU, Transformer 등 딥러닝 모델의 단기 농산물 가격 예측 성능을 체계적으로 비교 분석",
-        "**개발도상국 응용성** / Developing Economy Application: 남아시아 지역 식량 안보 계획과 소농민 소득 안정화를 위한 기계학습 기반 가격 예측 솔루션 제공으로 정책 결정 지원 가능",
-        "**연구 한계와 과제** / Limitations and Future Work: 지역별 제한된 데이터, 계절성·기후·시장 구조 등 복합 변수 미반영으로 실제 시장 복잡성 완전 포착 부족, 향후 다국가 데이터 확대 및 외생변수 통합 필요"
-      ],
-      "url": "https://arxiv.org/abs/2604.06227",
-      "featured": false
-    },
-    {
-      "id": "7b1006ea503e",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "13시간 전 / 13h ago",
-      "title": "Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse",
-      "titleKo": "확률적 언어 트라이: 압축, 의사결정 정책, 실행 재사용을 위한 통합 프레임워크",
-      "summary": "arXiv:2604.06228v1 Announce Type: new Abstract: We introduce probabilistic language tries (PLTs), a unified representation that makes explicit the prefix structure implicitly defined by any generative model over sequences. By assigning to each outgoing edge the conditional probability of the corresponding token or action, a PLT simultaneously serves as: (i) an optimal lossless compressor via frequency-weighted interval encoding, generalizing arithmetic coding to model-conditioned distributions; (ii) a policy representation for sequential decision problems including games, search, and robotic c",
-      "aiSummary": "This research introduces probabilistic language tries (PLTs), a novel representation framework that makes explicit the underlying prefix structures of generative models over sequences. The researchers developed a method to construct tree structures using conditional probabilities from generative models, demonstrating that PLTs simultaneously perform three key functions: (i) achieving optimal lossless compression through frequency-weighted interval encoding, (ii) serving as policy representations for sequential decision-making problems including games and robotic control, and (iii) enabling computational reuse to improve efficiency. The significance of this work lies in providing a unified framework for understanding the probabilistic structure of language models while maximizing efficiency across multiple application domains. However, the study requires further validation on large-scale language models and investigation of applicability across diverse domains.\n\n##",
-      "aiSummaryKo": "이 연구는 언어 모델이 생성하는 수열의 내부 구조를 시각화하고 활용할 수 있는 '확률론적 언어 트라이(PLT)'라는 새로운 표현 방식을 제안합니다. 연구팀은 생성 모델의 조건부 확률을 이용해 트리 구조를 구축하는 방식을 개발했으며, 이 구조가 세 가지 주요 기능을 동시에 수행할 수 있음을 보여주었습니다. PLT는 빈도 가중 구간 부호화를 통해 최적의 무손실 압축을 달성하고, 게임이나 로봇 제어 같은 순차적 의사결정 문제의 정책 표현으로도 활용되며, 동시에 반복되는 계산을 재사용하여 효율성을 높일 수 있습니다. 이 연구의 의의는 언어 모델의 확률 구조를 통일된 틀로 이해하고 여러 응용분야에서 효율성을 극대화할 수 있다는 점입니다. 다만, 대규모 언어 모델에서의 실제 성능 검증과 다양한 도메인에서의 적용 가능성에 대한 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This research introduces probabilistic language tries (PLTs), a novel representation framework that makes explicit the underlying prefix structures of generative models over sequences. The researchers developed a method to construct tree structures using conditional probabilities from generative models, demonstrating that PLTs simultaneously perform three key functions: (i) achieving optimal lossless compression through frequency-weighted interval encoding, (ii) serving as policy representations for sequential decision-making problems including games and robotic control, and (iii) enabling computational reuse to improve efficiency. The significance of this work lies in providing a unified framework for understanding the probabilistic structure of language models while maximizing efficiency across multiple application domains. However, the study requires further validation on large-scale language models and investigation of applicability across diverse domains.\n\n##",
-      "keyPoints": [
-        "**확률론적 언어 트라이(PLT) 프레임워크** / Novel unified representation that makes prefix structures explicit using conditional probabilities from generative models",
-        "**다중 기능 통합** / Single framework serving simultaneously as: (i) optimal lossless compressor via frequency-weighted interval encoding, (ii) policy representation for sequential decision problems, (iii) computation reuse mechanism",
-        "**산술 부호화의 일반화** / Extends arithmetic coding to model-conditioned distributions, improving upon traditional compression methods",
-        "**실제 응용 가능성** / Applicable to diverse domains including games, search algorithms, and robotic control, though requiring further validation on large-scale models and diverse domains"
-      ],
-      "url": "https://arxiv.org/abs/2604.06228",
       "featured": false
     }
   ]
