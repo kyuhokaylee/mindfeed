@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-11T16:02:17.852835+00:00",
+  "updated": "2026-04-11T18:02:30.414053+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "1a08fe88326b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Scientists discover intriguing brainwave patterns linked to rhythmic sound meditation",
+      "titleKo": "과학자들이 리듬감 있는 소리 명상과 연결된 흥미로운 뇌파 패턴 발견",
+      "summary": "A recent study published in the Annals of Neurosciences suggests that practicing sound-based meditation can quiet electrical brain activity. Despite this reduction in overall brain energy, the technique tends to simultaneously increase a person's sense of alertness.",
+      "aiSummary": "A recent study published in the Annals of Neurosciences reveals that sound-based meditation can reduce electrical brain activity while paradoxically increasing alertness. Researchers measured brainwave patterns in participants practicing rhythmic sound meditation to observe changes in brain energy consumption. The findings demonstrated that overall brain electrical activity decreased during meditation; however, participants simultaneously experienced increased levels of alertness and attentional focus. This suggests that the brain can conserve energy while maintaining or even enhancing conscious awareness. The research contributes to understanding the neurobiological mechanisms underlying meditation and provides scientific evidence for meditation's potential benefits in stress reduction and mental health improvement. However, further studies examining larger sample sizes, extended measurement periods, and individual differences are necessary to validate these findings.\n\n##",
+      "aiSummaryKo": "최근 신경과학 분야의 연구에서 음향 기반 명상이 뇌의 전기적 활동을 감소시킬 수 있다는 흥미로운 발견이 보고되었습니다. 연구팀은 음향 명상을 실시한 참가자들의 뇌파를 측정하여 뇌 에너지 소비의 변화를 관찰했습니다. 연구 결과, 음향 명상 중에 뇌의 전반적인 전기적 활동이 감소하는 현상이 관찰되었으나, 흥미롭게도 동시에 참가자들의 각성 수준과 주의집중력은 증가하는 것으로 나타났습니다. 이는 뇌가 에너지를 절약하면서도 의식 수준을 유지할 수 있다는 가능성을 시사합니다. 이 연구는 명상의 신경생물학적 메커니즘을 이해하는 데 기여하며, 스트레스 감소 및 정신건강 개선을 위한 명상 기법의 과학적 근거를 제공합니다. 다만 참가자 규모, 측정 기간, 개인차 등에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "A recent study published in the Annals of Neurosciences reveals that sound-based meditation can reduce electrical brain activity while paradoxically increasing alertness. Researchers measured brainwave patterns in participants practicing rhythmic sound meditation to observe changes in brain energy consumption. The findings demonstrated that overall brain electrical activity decreased during meditation; however, participants simultaneously experienced increased levels of alertness and attentional focus. This suggests that the brain can conserve energy while maintaining or even enhancing conscious awareness. The research contributes to understanding the neurobiological mechanisms underlying meditation and provides scientific evidence for meditation's potential benefits in stress reduction and mental health improvement. However, further studies examining larger sample sizes, extended measurement periods, and individual differences are necessary to validate these findings.\n\n##",
+      "keyPoints": [
+        "**음향 명상의 이중 효과** / Dual Effects of Sound-Based Meditation",
+        "**뇌 에너지 효율성** / Brain Energy Efficiency",
+        "**신경생물학적 메커니즘 규명** / Neurobiological Mechanism Clarification",
+        "**후속 연구의 필요성** / Need for Further Research"
+      ],
+      "url": "https://www.psypost.org/scientists-discover-intriguing-brainwave-patterns-linked-to-rhythmic-sound-meditation/",
+      "featured": true
+    },
     {
       "id": "40bc6b2c8610",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**연구의 제한점** / Study limited to elementary school girls, requiring broader replication across genders, ages, and cultural populations for generalization"
       ],
       "url": "https://www.psypost.org/drumming-with-friends-increases-oxytocin-levels-in-children-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2881ff2fd662",
@@ -399,27 +420,6 @@
         "**훈련-추론 연계 설계** / Training-inference coherence: 훈련 단계의 감시 신호가 추론 단계의 내부 활성화 패턴에 직접 통합되는 지식 증류 방식"
       ],
       "url": "https://arxiv.org/abs/2604.06277",
-      "featured": false
-    },
-    {
-      "id": "c8501fb43f1e",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Social context influences dating preferences just as much as biological sex",
-      "titleKo": "사회적 맥락이 생물학적 성별만큼 데이트 선호도에 영향을 미친다",
-      "summary": "A new study suggests that your socioeconomic background influences what you look for in a romantic partner just as much as your biological sex. The findings show that human mating strategies adapt fluidly to our social environments.",
-      "aiSummary": "This study reveals that socioeconomic background influences romantic partner preferences just as significantly as biological sex. Researchers surveyed participants from various socioeconomic backgrounds regarding their ideal romantic partner characteristics. The findings demonstrated that socioeconomic status has an equivalent level of impact on dating preferences compared to biological sex. This indicates that human mating strategies are not fixed but adapt fluidly in response to social environments. The research emphasizes the importance of cultural and social factors in understanding romantic and marital choices. However, as data were collected in specific cultural contexts, further validation across diverse societies is needed.\n\n##",
-      "aiSummaryKo": "이 연구는 인간의 연애 상대 선택이 생물학적 성별만큼 사회경제적 배경의 영향을 받는다는 것을 보여줍니다. 연구진은 다양한 사회경제적 지위의 참가자들을 대상으로 이상적인 연애 상대의 특성에 대해 조사했습니다. 결과적으로 사회경제적 배경이 연애 상대 선호도에 생물학적 성별과 동등한 수준의 영향을 미치는 것으로 나타났습니다. 이는 인간의 짝짓기 전략이 고정적이지 않으며 사회 환경에 따라 유동적으로 변한다는 의미입니다. 이 연구는 연애와 결혼 선택을 이해하는 데 있어 문화적·사회적 요인의 중요성을 강조합니다. 다만 특정 문화권에서 수집된 데이터이므로 다양한 사회에서의 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study reveals that socioeconomic background influences romantic partner preferences just as significantly as biological sex. Researchers surveyed participants from various socioeconomic backgrounds regarding their ideal romantic partner characteristics. The findings demonstrated that socioeconomic status has an equivalent level of impact on dating preferences compared to biological sex. This indicates that human mating strategies are not fixed but adapt fluidly in response to social environments. The research emphasizes the importance of cultural and social factors in understanding romantic and marital choices. However, as data were collected in specific cultural contexts, further validation across diverse societies is needed.\n\n##",
-      "keyPoints": [
-        "**사회경제적 배경의 강력한 영향** / Socioeconomic background has equally strong influence as biological sex on romantic preferences",
-        "**적응적 짝짓기 전략** / Human mating strategies are flexible and adapt to social and environmental contexts rather than being biologically fixed",
-        "**성별 이외의 중요 변수** / Social context deserves equal attention to biological sex when studying dating and relationship formation",
-        "**문화적 다양성 검증 필요** / Cross-cultural studies are required to confirm these findings across different societies and socioeconomic systems"
-      ],
-      "url": "https://www.psypost.org/social-context-influences-dating-preferences-just-as-much-as-biological-sex/",
       "featured": false
     }
   ]
