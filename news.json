@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-11T18:02:30.414053+00:00",
+  "updated": "2026-04-11T20:00:14.129983+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "cd8e3f77002f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "When the pay gap is wide, women see professional beauty as a strategic asset",
+      "titleKo": "임금 격차가 클수록 여성들이 직업적 미모를 전략적 자산으로 인식한다",
+      "summary": "New research reveals that many women view beauty as a practical tool for professional success. When faced with a gender pay gap, those who reject traditional gender roles often leverage their appearance to compete in the labor market.",
+      "aiSummary": "This research investigates how gender pay gaps influence women's professional success strategies. The researchers analyzed how women who reject traditional gender roles compete in the labor market. Key findings reveal that larger wage gaps correlate with women perceiving beauty as a practical tool for professional advancement. Notably, women with stronger objections to gender stereotypes showed greater tendency to strategically leverage their appearance. The study demonstrates how economic inequality impacts individual self-presentation methods. However, additional validation regarding sample size and cultural context is needed for broader application.\n\n##",
+      "aiSummaryKo": "이 연구는 성별 임금 격차가 여성의 직업적 성공 전략에 미치는 영향을 조사했습니다. 연구진은 성별 역할에 대한 전통적 태도를 거부하는 여성들이 노동시장에서 어떻게 경쟁하는지 분석했습니다. 주요 발견은 임금 격차가 클수록 여성들이 외모를 직업적 성공을 위한 실질적 도구로 인식한다는 것입니다. 특히 성 역할 고정관념에 거부감을 가진 여성들이 자신의 외모를 더 전략적으로 활용하려는 경향을 보였습니다. 이 연구는 경제적 불평등이 개인의 자기표현 방식에 어떻게 영향을 미치는지 보여줍니다. 다만 연구 표본의 규모와 문화적 맥락에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research investigates how gender pay gaps influence women's professional success strategies. The researchers analyzed how women who reject traditional gender roles compete in the labor market. Key findings reveal that larger wage gaps correlate with women perceiving beauty as a practical tool for professional advancement. Notably, women with stronger objections to gender stereotypes showed greater tendency to strategically leverage their appearance. The study demonstrates how economic inequality impacts individual self-presentation methods. However, additional validation regarding sample size and cultural context is needed for broader application.\n\n##",
+      "keyPoints": [
+        "**임금 격차와 전략적 선택**: 성별 임금 격차가 클수록 여성이 외모를 직업 경쟁의 도구로 활용 / The larger the gender pay gap, the more women utilize appearance as a tool for workplace competition",
+        "**성 역할 거부와 모순적 행동**: 전통적 성 역할을 거부하는 여성일수록 외모를 더 전략적으로 활용하는 경향 / Women who reject traditional gender roles paradoxically leverage appearance more strategically",
+        "**경제적 불평등의 심리적 영향**: 구조적 경제 불평등이 개인의 자기표현 방식을 변화시킴 / Structural economic inequality shapes individual self-presentation choices and strategies",
+        "**직업 성공의 복합적 요인**: 외모는 전통적 성 역할의 강요가 아닌 현실적 생존 전략으로 작용 / Appearance functions as practical survival strategy rather than enforced traditional gender expectation"
+      ],
+      "url": "https://www.psypost.org/how-women-use-physical-attractiveness-to-navigate-the-gender-wage-gap/",
+      "featured": true
+    },
     {
       "id": "1a08fe88326b",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**후속 연구의 필요성** / Need for Further Research"
       ],
       "url": "https://www.psypost.org/scientists-discover-intriguing-brainwave-patterns-linked-to-rhythmic-sound-meditation/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "40bc6b2c8610",
@@ -399,27 +420,6 @@
         "**실무적 적용 가능성의 한계** / Limited Generalizability"
       ],
       "url": "https://arxiv.org/abs/2604.06251",
-      "featured": false
-    },
-    {
-      "id": "99bb76c51ea6",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
-      "titleKo": "트랜스포머 표현으로의 약한 감독 기반 환각 신호 증류",
-      "summary": "arXiv:2604.06277v1 Announce Type: new Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retrieval systems, or auxiliary judge models. We ask whether this external supervision can instead be distilled into the model's own representations during training, enabling hallucination detection from internal activations alone at inference time. We introduce a weak supervision framework that combines three complementary grounding signals: substring matching, sentence embedding similarity, and an LL",
-      "aiSummary": "This research proposes a novel approach to address the hallucination problem in large language models (LLMs) where models generate false or unsupported information. While existing detection methods require external verification systems (gold answers, retrieval systems, or auxiliary judge models) at inference time, this study explores whether supervisory signals can be distilled directly into the model's internal representations during training. The research team developed a weakly supervised framework that combines three complementary grounding signals: substring matching, sentence embedding similarity, and an additional grounding signal. This method enables models to detect hallucinations during inference using only internal activations without external assistance. The approach offers practical advantages in terms of faster inference speed and reduced computational costs. However, performance may be limited by the quality and diversity of training data used for the distillation process.\n\n##",
-      "aiSummaryKo": "이 연구는 대규모 언어 모델(LLM)의 할루시네이션(거짓 정보 생성) 문제를 해결하기 위한 새로운 접근 방식을 제안합니다. 기존 방법들은 추론 시점에 외부 검증 시스템(정답 데이터베이스, 검색 시스템, 판별 모델 등)이 필요했으나, 이 연구는 훈련 단계에서 이러한 감시 신호를 모델의 내부 표현에 직접 통합할 수 있는지 탐구합니다. 연구팀은 부분적 감시 프레임워크를 구축했으며, 이는 부분 문자열 일치, 문장 임베딩 유사도, 그리고 추가 접지 신호의 세 가지 상호보완적 신호를 결합합니다. 이 방법은 모델이 추론 시 외부 도움 없이 내부 활성화 정보만으로 할루시네이션을 자체 탐지할 수 있도록 훈련합니다. 이는 실시간 추론 속도 향상과 비용 절감 측면에서 실무적 장점을 제공합니다. 다만, 훈련 데이터의 품질과 다양성에 따라 성능이 좌우될 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research proposes a novel approach to address the hallucination problem in large language models (LLMs) where models generate false or unsupported information. While existing detection methods require external verification systems (gold answers, retrieval systems, or auxiliary judge models) at inference time, this study explores whether supervisory signals can be distilled directly into the model's internal representations during training. The research team developed a weakly supervised framework that combines three complementary grounding signals: substring matching, sentence embedding similarity, and an additional grounding signal. This method enables models to detect hallucinations during inference using only internal activations without external assistance. The approach offers practical advantages in terms of faster inference speed and reduced computational costs. However, performance may be limited by the quality and diversity of training data used for the distillation process.\n\n##",
-      "keyPoints": [
-        "**할루시네이션 자체 탐지 기술** / Self-detection of hallucinations: 모델이 외부 검증 시스템 없이 내부 신호만으로 거짓 정보를 식별할 수 있도록 훈련",
-        "**약한 감시 프레임워크** / Weakly supervised framework: 부분 문자열 일치, 임베딩 유사도 등 세 가지 상보적 신호를 조합하여 훈련 효율성 극대화",
-        "**추론 시간 단축 및 비용 절감** / Improved efficiency: 외부 검증 도구 불필요로 실시간 추론 속도 향상 및 연산 비용 감소",
-        "**훈련-추론 연계 설계** / Training-inference coherence: 훈련 단계의 감시 신호가 추론 단계의 내부 활성화 패턴에 직접 통합되는 지식 증류 방식"
-      ],
-      "url": "https://arxiv.org/abs/2604.06277",
       "featured": false
     }
   ]
