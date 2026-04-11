@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-11T20:00:14.129983+00:00",
+  "updated": "2026-04-11T21:51:31.106788+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9af9b1ab7cd8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Stacking bad habits triples the risk of co-occurring anxiety and depression in teenagers",
+      "titleKo": "나쁜 습관의 누적이 청소년의 불안과 우울증 동시 발생 위험을 3배 증가시킨다",
+      "summary": "A new study of over 6,600 adolescents reveals that bad daily habits rarely occur alone. When behaviors like poor sleep and physical inactivity cluster together, they dramatically increase a teen's risk of developing both anxiety and depression.",
+      "aiSummary": "This study investigated how multiple bad daily habits affect mental health in adolescents. Researchers analyzed patterns of clustering habits such as poor sleep, physical inactivity, and unhealthy eating in over 6,600 teenagers. The findings revealed that when multiple bad habits occur simultaneously, the risk of developing both anxiety and depression increases threefold compared to single habits. This research emphasizes that the combination of unhealthy behaviors has a more significant impact on mental health than individual habits alone. The study highlights the importance of comprehensive lifestyle interventions rather than targeting single behaviors for adolescent mental health management. However, as an observational study, it has limitations in establishing causality, and longitudinal studies are needed for further confirmation.\n\n##",
+      "aiSummaryKo": "이 연구는 청소년들의 나쁜 생활습관이 정신건강에 미치는 영향을 조사했습니다. 6,600명 이상의 청소년을 대상으로 수면 부족, 신체활동 부족, 부정적인 식습관 등 여러 나쁜 습관들이 함께 나타나는 패턴을 분석했습니다. 연구 결과, 여러 나쁜 습관이 동시에 나타날 경우 불안증과 우울증의 발병 위험이 3배까지 증가하는 것으로 나타났습니다. 특히 개별 습관보다는 습관들이 함께 뭉쳐서 나타날 때 더욱 심각한 정신건강 문제를 초래한다는 점이 중요합니다. 이 연구는 청소년 정신건강 관리를 위해 단순히 한두 가지 습관 개선이 아닌 종합적인 생활습관 개선의 필요성을 시사합니다. 다만 이 연구는 관찰 연구로서 인과관계를 확정하기에는 제한이 있으며, 추가 종단연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated how multiple bad daily habits affect mental health in adolescents. Researchers analyzed patterns of clustering habits such as poor sleep, physical inactivity, and unhealthy eating in over 6,600 teenagers. The findings revealed that when multiple bad habits occur simultaneously, the risk of developing both anxiety and depression increases threefold compared to single habits. This research emphasizes that the combination of unhealthy behaviors has a more significant impact on mental health than individual habits alone. The study highlights the importance of comprehensive lifestyle interventions rather than targeting single behaviors for adolescent mental health management. However, as an observational study, it has limitations in establishing causality, and longitudinal studies are needed for further confirmation.\n\n##",
+      "keyPoints": [
+        "**습관의 중첩 효과**: 나쁜 습관이 혼자 나타나지 않으며, 여러 습관이 함께 나타날 때 정신건강 위험이 3배 증가 / Bad habits rarely occur in isolation; combined unhealthy behaviors triple the risk of anxiety and depression",
+        "**청소년 정신건강 위험**: 수면 부족, 신체활동 부족 등의 생활습관이 불안증과 우울증 발병과 강한 연관성을 보임 / Adolescent mental health is significantly vulnerable to clustered unhealthy behaviors like poor sleep and physical inactivity",
+        "**통합적 중재의 필요성**: 단일 습관 개선보다는 식습관, 운동, 수면 등을 포괄적으로 개선하는 접근이 더 효과적 / Comprehensive lifestyle interventions addressing multiple behaviors simultaneously are more effective than single-factor interventions",
+        "**연구 설계의 한계**: 관찰 연구로서 인과관계의 확립에 제한이 있으며, 추가 종단연구와 기전 연구 필요 / Observational study design limits causal inference; longitudinal and mechanistic research needed for stronger evidence"
+      ],
+      "url": "https://www.psypost.org/stacking-bad-habits-triples-the-risk-of-co-occurring-anxiety-and-depression-in-teenagers/",
+      "featured": true
+    },
     {
       "id": "cd8e3f77002f",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**직업 성공의 복합적 요인**: 외모는 전통적 성 역할의 강요가 아닌 현실적 생존 전략으로 작용 / Appearance functions as practical survival strategy rather than enforced traditional gender expectation"
       ],
       "url": "https://www.psypost.org/how-women-use-physical-attractiveness-to-navigate-the-gender-wage-gap/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1a08fe88326b",
@@ -399,27 +420,6 @@
         "**정책 개선 필요성**: AI 거버넌스에 도덕 철학적 원칙과 상황적 판단을 통합해야 함 / Integration of moral philosophy and contextual judgment needed in AI governance frameworks"
       ],
       "url": "https://arxiv.org/abs/2604.06233",
-      "featured": false
-    },
-    {
-      "id": "836f2741cc6a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
-      "titleKo": "비생산적 컨테이너 이동 감소를 위하여: 서비스 요구사항 및 체류 시간 예측",
-      "summary": "arXiv:2604.06251v1 Announce Type: new Abstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container dwell times. We develop and evaluate machine learning models that leverage historical operational data to anticipate which containers will require pre-clearance handling services prior to cargo release and to estimate how long they are expected to remain in the terminal. As part of the data preparation process, we implement a classification system f",
-      "aiSummary": "This research is a data science study conducted at a container terminal aimed at reducing unproductive container moves using machine learning. The research team developed machine learning models that leverage historical operational data to predict which containers will require pre-clearance handling services before cargo release and estimate how long containers will remain in the terminal. These models learn from historical operational data to anticipate service requirements and container dwell times, thereby improving terminal efficiency. The research incorporated a classification system during the data preparation phase to ensure data quality. The significance of this study lies in its potential to predict and eliminate unnecessary container movements, substantially reducing operational costs and improving terminal efficiency. However, the research is based on data from a specific terminal, which may limit its generalizability to other terminals.\n\n##",
-      "aiSummaryKo": "본 연구는 컨테이너 터미널의 비생산적 이동을 줄이기 위해 머신러닝을 활용한 데이터 과학 연구입니다. 연구팀은 터미널의 과거 운영 데이터를 활용하여 어떤 컨테이너가 화물 방출 전 사전 승인 처리 서비스가 필요한지, 그리고 터미널에 얼마나 오래 머물 것인지를 예측하는 머신러닝 모델을 개발했습니다. 이 모델들은 역사적 운영 데이터를 학습하여 서비스 요구사항과 컨테이너 체류 시간을 미리 예측함으로써 터미널의 효율성을 높이는 것을 목표로 합니다. 연구 과정에서 데이터 준비 단계에 분류 체계를 구축하여 데이터 품질을 확보했습니다. 이 연구의 의의는 항만 운영의 불필요한 이동을 예측하고 제거함으로써 운영 비용을 절감하고 터미널 효율성을 크게 향상시킬 수 있다는 점입니다. 다만 연구는 특정 터미널의 데이터에 기반하고 있어 다른 터미널로의 일반화 가능성이 제한될 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research is a data science study conducted at a container terminal aimed at reducing unproductive container moves using machine learning. The research team developed machine learning models that leverage historical operational data to predict which containers will require pre-clearance handling services before cargo release and estimate how long containers will remain in the terminal. These models learn from historical operational data to anticipate service requirements and container dwell times, thereby improving terminal efficiency. The research incorporated a classification system during the data preparation phase to ensure data quality. The significance of this study lies in its potential to predict and eliminate unnecessary container movements, substantially reducing operational costs and improving terminal efficiency. However, the research is based on data from a specific terminal, which may limit its generalizability to other terminals.\n\n##",
-      "keyPoints": [
-        "**머신러닝 기반 예측 모델** / Machine Learning-based Predictive Models",
-        "**비생산적 이동 감소** / Reduction of Unproductive Moves",
-        "**데이터 기반 분류 체계** / Data-driven Classification System",
-        "**실무적 적용 가능성의 한계** / Limited Generalizability"
-      ],
-      "url": "https://arxiv.org/abs/2604.06251",
       "featured": false
     }
   ]
