@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-12T11:49:49.561743+00:00",
+  "updated": "2026-04-12T14:25:13.505457+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a358822ccc5f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Reduced gray matter and altered brain connectivity are linked to problematic smartphone use",
+      "titleKo": "감소된 회백질과 변화된 뇌 연결성이 문제적 스마트폰 사용과 관련이 있다",
+      "summary": "A comprehensive review of brain imaging research suggests problematic smartphone use is associated with distinct neural differences. These variations appear in brain areas tied to reward processing, impulse control, and the deep-seated human need for social connection.",
+      "aiSummary": "A comprehensive review of brain imaging studies reveals that problematic smartphone use is associated with reduced gray matter and altered connectivity patterns in specific brain regions. These neural changes occur particularly in areas responsible for reward processing, impulse control, and social connection—core drivers of smartphone addiction. The research demonstrates that smartphone addiction has neurobiological foundations, affecting the brain's physical structure and functional organization beyond mere behavioral habit. This meta-analysis synthesizes findings from multiple neuroimaging studies, providing a broader understanding of addiction mechanisms. However, the research has limitations including methodological variations across studies and inconsistent sample sizes in the reviewed literature. Additionally, it remains unclear whether the observed brain changes are the cause or consequence of problematic smartphone use, requiring longitudinal studies for causal clarification.\n\n##",
+      "aiSummaryKo": "최근 뇌 영상 연구들을 종합 분석한 결과, 스마트폰을 과도하게 사용하는 사람들의 뇌에서 회백질(신경세포 밀도)이 감소하고 뇌 영역 간 연결성이 변화하는 현상이 발견되었다. 이러한 신경학적 변화는 보상처리, 충동조절, 사회적 연결 욕구와 관련된 특정 뇌 영역에서 나타났다. 이 연구는 스마트폰 중독이 단순한 행동 습관이 아니라 뇌의 물리적 구조와 기능에 실질적인 영향을 미친다는 것을 보여줌으로써 중독 메커니즘의 신경생물학적 기초를 규명했다는 점에서 의의가 있다. 다만 이 연구는 기존 뇌 영상 연구들을 검토한 메타분석(종합 분석)으로, 연구 간 방법론의 차이와 표본 크기의 편차라는 한계가 있다. 또한 뇌 구조 변화가 스마트폰 과다 사용의 원인인지 결과인지를 명확히 규명하지 못했다. 향후 장기 추적 연구를 통해 인과 관계를 명확히 할 필요가 있다.\n\n##",
+      "aiSummaryEn": "A comprehensive review of brain imaging studies reveals that problematic smartphone use is associated with reduced gray matter and altered connectivity patterns in specific brain regions. These neural changes occur particularly in areas responsible for reward processing, impulse control, and social connection—core drivers of smartphone addiction. The research demonstrates that smartphone addiction has neurobiological foundations, affecting the brain's physical structure and functional organization beyond mere behavioral habit. This meta-analysis synthesizes findings from multiple neuroimaging studies, providing a broader understanding of addiction mechanisms. However, the research has limitations including methodological variations across studies and inconsistent sample sizes in the reviewed literature. Additionally, it remains unclear whether the observed brain changes are the cause or consequence of problematic smartphone use, requiring longitudinal studies for causal clarification.\n\n##",
+      "keyPoints": [
+        "**뇌 구조적 변화** / Brain Structural Changes",
+        "**관련 뇌 영역** / Associated Brain Regions",
+        "**신경생물학적 기초** / Neurobiological Foundation",
+        "**인과관계 규명 필요** / Need for Causal Clarification"
+      ],
+      "url": "https://www.psypost.org/reduced-gray-matter-and-altered-brain-connectivity-are-linked-to-problematic-smartphone-use/",
+      "featured": true
+    },
+    {
+      "id": "6f281ac5dcc5",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Your breathing pattern is as unique as a fingerprint",
+      "titleKo": "당신의 호흡 패턴은 지문만큼 독특하다",
+      "summary": "By tracking continuous nasal airflow over 24 hours, researchers discovered that human breathing acts as a unique biometric fingerprint. This respiratory signature can identify individuals with near-perfect accuracy while predicting traits like mood, anxiety, and body mass.",
+      "aiSummary": "This study was based on the hypothesis that breathing patterns act as unique biometric signals similar to fingerprints for individual identification. Researchers collected respiratory data by continuously tracking nasal airflow over 24 hours from participants. The analysis revealed that individual respiratory signatures could identify people with near-perfect accuracy, comparable to traditional biometric methods. Moreover, breathing patterns alone could predict both physical and psychological characteristics such as mood, anxiety levels, and body mass index (BMI). This research is significant as it suggests potential applications in developing new biometric authentication technologies and mental health monitoring systems. However, additional validation is needed regarding sample size, respiratory variations across diverse environmental conditions, and the pathway toward clinical implementation.\n\n##",
+      "aiSummaryKo": "이 연구는 호흡 패턴이 지문처럼 개인을 식별할 수 있는 독특한 생체 신호라는 가설에서 출발했습니다. 연구팀은 참가자들의 비강 기류를 24시간 동안 지속적으로 추적하는 방식으로 호흡 데이터를 수집했습니다. 분석 결과, 개인의 호흡 서명(respiratory signature)으로 거의 완벽한 정확도(near-perfect accuracy)에 가까운 수준으로 개인을 식별할 수 있음을 발견했습니다. 나아가 호흡 패턴만으로도 기분, 불안감, 체질량지수(BMI) 같은 신체 및 심리적 특성을 예측할 수 있었습니다. 이 연구는 호흡을 활용한 새로운 생체인식 기술 개발과 정신 건강 모니터링 시스템에 활용될 수 있다는 점에서 의의가 있습니다. 다만, 연구 대상자 수, 다양한 환경 조건에서의 호흡 변화, 그리고 실제 임상 적용까지의 검증 과정이 추가적으로 필요합니다.\n\n##",
+      "aiSummaryEn": "This study was based on the hypothesis that breathing patterns act as unique biometric signals similar to fingerprints for individual identification. Researchers collected respiratory data by continuously tracking nasal airflow over 24 hours from participants. The analysis revealed that individual respiratory signatures could identify people with near-perfect accuracy, comparable to traditional biometric methods. Moreover, breathing patterns alone could predict both physical and psychological characteristics such as mood, anxiety levels, and body mass index (BMI). This research is significant as it suggests potential applications in developing new biometric authentication technologies and mental health monitoring systems. However, additional validation is needed regarding sample size, respiratory variations across diverse environmental conditions, and the pathway toward clinical implementation.\n\n##",
+      "keyPoints": [
+        "**호흡의 독특성** / Uniqueness of Breathing: 각 개인의 호흡 패턴은 지문처럼 고유하며, 거의 완벽한 정확도로 개인 식별이 가능함 / Each individual's breathing pattern is unique like a fingerprint, enabling near-perfect individual identification accuracy.",
+        "**심리-신체 지표 예측** / Psychosomatic Indicator Prediction: 호흡 데이터만으로 기분, 불안감, BMI 등 정신신체적 특성을 예측할 수 있음 / Breathing data alone can predict psychosomatic characteristics including mood, anxiety, and body mass index.",
+        "**생체인식 기술 활용** / Biometric Technology Application: 호흡 기반 생체인식은 지문이나 홍채 인식을 대체할 수 있는 새로운 보안 기술로 개발될 가능성 / Breathing-based biometrics could be developed as novel security technology alternative to fingerprint or iris recognition.",
+        "**건강 모니터링 시스템** / Health Monitoring Potential: 24시간 호흡 추적을 통해 지속적인 정신 건강 및 신체 건강 상태 모니터링이 가능할 수 있음 / Continuous 24-hour respiratory tracking enables potential real-time mental and physical health monitoring systems."
+      ],
+      "url": "https://www.psypost.org/your-breathing-pattern-is-as-unique-as-a-fingerprint/",
+      "featured": false
+    },
     {
       "id": "b8a5a91419be",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**일반 대중 적용의 한계** / Limitations in General Population Application"
       ],
       "url": "https://www.psypost.org/extreme-athletes-just-helped-scientists-unlock-a-deep-evolutionary-secret-about-human-survival/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6c7c2bc688a9",
@@ -378,48 +420,6 @@
         "**심리학/AI 연구와 무관** / Not applicable to psychology or AI research analysis"
       ],
       "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "39ff72bc0b09",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "9시간 전 / 9h ago",
-      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
-      "titleKo": "과학자들, \"알츠하이머병 치료법을 완전히 잘못 이해하고 있었다\"고 지적",
-      "summary": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. Scientists are now pushing toward multi-pronged strategies, from gene editing to brain-cell rejuvenation and gut health interventions. The goal: stop treating Alzheimer’s as one disease and start tackling it as a complex system.",
-      "aiSummary": "Alzheimer's disease is increasingly recognized as a complex problem involving intertwined biological factors, aging, and overall health—not a single disease entity. For decades, scientists focused on single-target drug approaches (such as amyloid protein), but these strategies showed limited efficacy. Recent research teams are now pursuing multi-pronged therapeutic strategies including gene editing, brain-cell rejuvenation, and gut microbiome interventions. This represents a paradigm shift in how Alzheimer's is conceptualized and treated—from a single disease to a complex biological system. However, large-scale clinical studies are still needed to validate the effectiveness of these integrative approaches in real-world settings.",
-      "aiSummaryKo": "알츠하이머병은 단순한 질환이 아니라 생물학적 요인, 노화, 전반적 건강 상태가 얽혀있는 복합적 문제라는 새로운 인식이 확산되고 있습니다. 지난 수십 년간 과학자들은 단일 요인(예: 아밀로이드 단백질)을 표적으로 하는 약물 개발에 집중했으나, 이러한 접근법은 제한된 효과만 보여주었습니다. 최근 연구진들은 유전자 편집, 뇌세포 재생, 장내 미생물 건강 개선 등 여러 방향의 통합적 치료 전략을 추진하고 있습니다. 이는 알츠하이머병을 단일 질환이 아닌 복잡한 생물학적 시스템으로 재정의하고 치료하려는 패러다임 전환을 의미합니다. 다만 이러한 다각적 접근법의 임상적 효과를 입증하기 위해서는 추가적인 대규모 연구가 필요한 상황입니다.",
-      "aiSummaryEn": "Alzheimer's disease is increasingly recognized as a complex problem involving intertwined biological factors, aging, and overall health—not a single disease entity. For decades, scientists focused on single-target drug approaches (such as amyloid protein), but these strategies showed limited efficacy. Recent research teams are now pursuing multi-pronged therapeutic strategies including gene editing, brain-cell rejuvenation, and gut microbiome interventions. This represents a paradigm shift in how Alzheimer's is conceptualized and treated—from a single disease to a complex biological system. However, large-scale clinical studies are still needed to validate the effectiveness of these integrative approaches in real-world settings.",
-      "keyPoints": [
-        "단일 표적 약물의 한계 / Limitations of single-target drug approaches",
-        "복합 병인의 인식 / Recognition of multifactorial etiology",
-        "다각적 치료 전략 / Multi-pronged therapeutic strategies (gene editing, cell rejuvenation, gut health)",
-        "치료 패러다임의 전환 / Paradigm shift from single-disease to systems-based approach"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
-      "featured": false
-    },
-    {
-      "id": "ea6c28f8b419",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
-      "titleKo": "과학자들이 ALS와 치매 뒤에 숨겨진 장 신호 경로 발견",
-      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
-      "aiSummary": "A groundbreaking study reveals that gut bacteria may be a hidden trigger for ALS and frontotemporal dementia development. Researchers discovered that harmful sugars produced by intestinal microbes trigger immune responses that damage the brain, explaining why some genetically at-risk individuals develop these diseases while others remain healthy. This finding bridges the gap between genetic predisposition and actual disease manifestation, highlighting the role of environmental factors. Notably, experiments showed that reducing these harmful sugars improved brain health outcomes in tested models. The research suggests promising new treatment avenues targeting gut microbiota rather than genetic factors alone. However, the study is currently at the animal testing stage, requiring further clinical trials in humans before application to patients.\n\n##",
-      "aiSummaryKo": "장내 박테리아가 ALS(근위축성측삭경화증)와 전측두엽치매 발병의 숨겨진 원인일 수 있다는 연구 결과가 발표되었다. 연구팀은 장내 미생물이 생산하는 해로운 당류가 면역 반응을 유발하여 뇌 손상을 일으킨다는 것을 발견했다. 이 발견은 같은 유전적 위험 요소를 가진 사람들 중 일부만 질병이 발병하는 이유를 설명해주는 중요한 단서가 된다. 더욱 고무적인 것은 실험에서 이러한 해로운 당류를 감소시켰을 때 뇌 건강이 개선되었다는 점으로, 새로운 치료법 개발의 가능성을 시사한다. 본 연구는 신경퇴행성 질환의 발병 메커니즘을 이해하는 데 중요한 진전을 이루었으며, 유전자뿐 아니라 환경 요인의 역할을 강조한다. 다만 동물 실험 단계이므로 인간에 대한 추가 임상 시험이 필요하다.\n\n##",
-      "aiSummaryEn": "A groundbreaking study reveals that gut bacteria may be a hidden trigger for ALS and frontotemporal dementia development. Researchers discovered that harmful sugars produced by intestinal microbes trigger immune responses that damage the brain, explaining why some genetically at-risk individuals develop these diseases while others remain healthy. This finding bridges the gap between genetic predisposition and actual disease manifestation, highlighting the role of environmental factors. Notably, experiments showed that reducing these harmful sugars improved brain health outcomes in tested models. The research suggests promising new treatment avenues targeting gut microbiota rather than genetic factors alone. However, the study is currently at the animal testing stage, requiring further clinical trials in humans before application to patients.\n\n##",
-      "keyPoints": [
-        "**장내 미생물의 역할** / Role of Gut Microbiota",
-        "**면역 반응 메커니즘** / Immune Response Mechanism",
-        "**유전-환경 상호작용** / Gene-Environment Interaction",
-        "**치료 개발 가능성** / Treatment Development Potential"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
       "featured": false
     }
   ]
