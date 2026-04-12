@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-12T21:53:53.368481+00:00",
+  "updated": "2026-04-12T23:55:06.483550+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "11be9cd54a1f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Bladder toxicity risk appears low for psychiatric ketamine patients, though data is limited",
+      "titleKo": "정신과 환자의 케타민 사용 시 방광 독성 위험은 낮아 보이나 데이터는 제한적",
+      "summary": "A comprehensive review of clinical studies suggests that adults receiving ketamine for mental health conditions do not experience a high rate of severe bladder complications, though researchers warn that long-term safety data is still missing.",
+      "aiSummary": "Concerns have been raised about the potential bladder complications from ketamine use in psychiatric treatment. Researchers conducted a comprehensive review of clinical studies examining adults receiving ketamine for mental health conditions. The analysis revealed that patients undergoing ketamine therapy experienced a low rate of severe bladder complications. This suggests that long-term ketamine use may not cause the bladder damage that healthcare professionals had previously worried about. However, the research team emphasized that current data is insufficient to establish long-term safety, and additional follow-up studies are necessary. These findings may help strengthen confidence in the safety profile of ketamine therapy for patients with depression, anxiety disorders, and other mental health conditions.\n\n##",
+      "aiSummaryKo": "정신 질환 치료에 사용되는 케타민이 방광에 미치는 영향에 대한 우려가 제기되어 왔습니다. 연구진은 정신 건강 치료를 받는 성인 환자들을 대상으로 한 임상 연구들을 종합적으로 검토했습니다. 분석 결과, 케타민 치료를 받은 환자들에게서 심각한 방광 합병증의 발생률이 낮은 것으로 나타났습니다. 이는 장기간의 케타민 사용이 의료 전문가들이 우려했던 만큼 방광에 손상을 주지 않을 수 있음을 시사합니다. 다만 연구진은 현재 데이터가 장기 안전성을 입증하기에 부족하며, 추가적인 추적 연구가 필요하다고 강조했습니다. 이 결과는 우울증, 불안장애 등 정신 질환 환자들에게 케타민 치료의 안전성을 더욱 확보하는 데 도움이 될 수 있습니다.\n\n##",
+      "aiSummaryEn": "Concerns have been raised about the potential bladder complications from ketamine use in psychiatric treatment. Researchers conducted a comprehensive review of clinical studies examining adults receiving ketamine for mental health conditions. The analysis revealed that patients undergoing ketamine therapy experienced a low rate of severe bladder complications. This suggests that long-term ketamine use may not cause the bladder damage that healthcare professionals had previously worried about. However, the research team emphasized that current data is insufficient to establish long-term safety, and additional follow-up studies are necessary. These findings may help strengthen confidence in the safety profile of ketamine therapy for patients with depression, anxiety disorders, and other mental health conditions.\n\n##",
+      "keyPoints": [
+        "**안전성 확인**: 정신 건강 치료를 위한 케타민 사용 시 심각한 방광 합병증 발생률이 낮음 / Low rate of severe bladder complications observed in psychiatric ketamine patients",
+        "**제한된 증거**: 장기 안전성 데이터가 현재 부족하여 추가 연구 필요 / Long-term safety data remains limited, requiring further investigation",
+        "**임상적 의의**: 우울증, 불안장애 등 치료-저항성 정신 질환에 대한 케타민 치료의 임상적 활용 가능성 증대 / Enhanced clinical potential for treatment-resistant mental health conditions",
+        "**향후 과제**: 장기간 추적 관찰 연구 및 더 큰 규모의 임상 데이터 수집 필요 / Need for long-term follow-up studies and larger-scale clinical data collection"
+      ],
+      "url": "https://www.psypost.org/bladder-toxicity-risk-appears-low-for-psychiatric-ketamine-patients-though-data/",
+      "featured": true
+    },
+    {
+      "id": "518d379c2f15",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Your brain can trick you into liking artificial sweeteners",
+      "titleKo": "뇌가 인공 감미료를 좋아하도록 당신을 속일 수 있다",
+      "summary": "Your brain might be quietly deciding what tastes good before you even take a sip. Researchers found that simply changing what people thought they were drinking—sugar or artificial sweetener—could dramatically shift how much they enjoyed it. When participants believed a drink had artificial sweeteners, real sugar tasted less enjoyable, but when they expected sugar, even artificially sweetened drinks became more pleasurable.",
+      "aiSummary": "This research demonstrates that our brains form taste expectations before we even take a sip, and these expectations can significantly alter how much we enjoy a beverage. Researchers had participants consume identical drinks while providing different information—telling some the drink contained sugar and others that it contained artificial sweetener. Results showed that participants who believed they were consuming artificial sweetener found real sugar drinks less enjoyable, while those expecting sugar found artificially sweetened drinks more pleasurable. This suggests that psychological expectations and preconceptions influence our taste perception more than the actual flavor itself. These findings have important implications for marketing and health food development strategies. However, the study's limitations include a limited number of participants and a restricted variety of beverages tested, requiring further research to generalize findings across diverse food products.\n\n##",
+      "aiSummaryKo": "이 연구는 우리의 뇌가 음료를 마시기 전에 맛에 대한 기대감을 형성하고, 이것이 실제 맛의 즐거움을 크게 변화시킬 수 있다는 것을 보여줍니다. 연구팀은 참가자들에게 같은 음료를 마시게 하면서 어떤 음료는 설탕이 들어있다고, 어떤 음료는 인공감미료가 들어있다고 다르게 정보를 제공했습니다. 결과적으로 인공감미료가 들어있다고 생각한 참가자들은 실제 설탕 음료를 덜 맛있다고 평가했고, 반대로 설탕이 들어있을 것으로 예상한 참가자들은 인공감미료 음료를 더 맛있다고 느꼈습니다. 이는 우리가 실제 맛보다 심리적 기대와 선입견에 의해 음식의 맛을 인지한다는 것을 시사합니다. 이러한 발견은 마케팅과 건강식품 개발에 중요한 의미를 가질 수 있습니다. 다만 이 연구는 제한된 수의 참가자와 제한된 음료 종류에서만 진행되어 다양한 식품에 일반화하기 위해서는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This research demonstrates that our brains form taste expectations before we even take a sip, and these expectations can significantly alter how much we enjoy a beverage. Researchers had participants consume identical drinks while providing different information—telling some the drink contained sugar and others that it contained artificial sweetener. Results showed that participants who believed they were consuming artificial sweetener found real sugar drinks less enjoyable, while those expecting sugar found artificially sweetened drinks more pleasurable. This suggests that psychological expectations and preconceptions influence our taste perception more than the actual flavor itself. These findings have important implications for marketing and health food development strategies. However, the study's limitations include a limited number of participants and a restricted variety of beverages tested, requiring further research to generalize findings across diverse food products.\n\n##",
+      "keyPoints": [
+        "**심리적 기대의 힘** / The Power of Psychological Expectations",
+        "**설탕 vs 인공감미료 역설** / Sugar vs Artificial Sweetener Paradox",
+        "**마케팅의 신경심리학적 기초** / Neuropsychological Foundation of Marketing",
+        "**건강식품 개발 전략의 재고** / Rethinking Healthy Food Development Strategy"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
+      "featured": false
+    },
     {
       "id": "b6bae062bde7",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**추가 연구 필요성 / Need for Further Research**: 소규모 표본, 장기 효과 미검증, 안전성 데이터 부족 등으로 인해 대규모 임상시험 및 추적조사 필요"
       ],
       "url": "https://www.psypost.org/low-doses-of-lsd-alter-emotional-brain-responses-in-people-with-mild-depression/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "381971e27c77",
@@ -378,48 +420,6 @@
         "**연구의 제한점** / Study limited to elementary school girls, requiring broader replication across genders, ages, and cultural populations for generalization"
       ],
       "url": "https://www.psypost.org/drumming-with-friends-increases-oxytocin-levels-in-children-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "2881ff2fd662",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Cognitive dissonance helps explain why Trump supporters remain loyal, new research suggests",
-      "titleKo": "새로운 연구가 트럼프 지지자들이 충성을 유지하는 이유를 인지부조화로 설명할 수 있음을 시사합니다",
-      "summary": "A new study explores how supporters of Donald Trump maintain their loyalty despite serious allegations. The findings suggest psychological discomfort drives voters to deny accusations, prioritize political policies, or claim other politicians act similarly.",
-      "aiSummary": "This study investigates how Donald Trump supporters maintain loyalty despite serious allegations. The research identifies cognitive dissonance—psychological discomfort arising from holding contradictory beliefs simultaneously—as the key mechanism explaining this phenomenon. To alleviate this psychological tension, supporters employ three primary strategies: denying the accusations entirely, prioritizing the politician's policy achievements, or claiming other politicians engage in similar behavior. The findings contribute to political psychology by elucidating the psychological mechanisms underlying the persistence of political beliefs. However, the study's generalizability may be limited if the sample focused exclusively on supporters from specific regions or political contexts, potentially restricting broader application of the findings.\n\n##",
-      "aiSummaryKo": "본 연구는 심각한 의혹에도 불구하고 트럼프 지지자들이 어떻게 지지를 유지하는지를 탐구합니다. 연구팀은 인지부조화(cognitive dissonance) - 서로 모순되는 신념을 동시에 가질 때 느끼는 심리적 불편함 - 가 이를 설명하는 핵심 메커니즘임을 발견했습니다. 지지자들은 이러한 심리적 불편함을 해소하기 위해 의혹 자체를 부인하거나, 정책 성과에 집중하거나, 다른 정치인들도 유사한 행동을 한다고 주장하는 방식으로 대응합니다. 이 연구는 정치적 신념의 지속성과 변화에 영향을 미치는 심리적 메커니즘을 규명함으로써 정치심리학 분야에 기여합니다. 다만 특정 정치인과 지역의 지지자들만을 대상으로 했을 가능성이 있어, 결과의 일반화 가능성에 제한이 있을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigates how Donald Trump supporters maintain loyalty despite serious allegations. The research identifies cognitive dissonance—psychological discomfort arising from holding contradictory beliefs simultaneously—as the key mechanism explaining this phenomenon. To alleviate this psychological tension, supporters employ three primary strategies: denying the accusations entirely, prioritizing the politician's policy achievements, or claiming other politicians engage in similar behavior. The findings contribute to political psychology by elucidating the psychological mechanisms underlying the persistence of political beliefs. However, the study's generalizability may be limited if the sample focused exclusively on supporters from specific regions or political contexts, potentially restricting broader application of the findings.\n\n##",
-      "keyPoints": [
-        "**인지부조화 메커니즘** / Cognitive Dissonance Mechanism",
-        "**세 가지 대처 전략** / Three Coping Strategies",
-        "**정치심리학의 중요성** / Importance of Political Psychology",
-        "**연구의 한계와 일반화 문제** / Limitations and Generalizability Issues"
-      ],
-      "url": "https://www.psypost.org/cognitive-dissonance-helps-explain-why-trump-supporters-remain-loyal-new-research-suggests/",
-      "featured": false
-    },
-    {
-      "id": "14128a55c7d2",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1시간 전 / 1h ago",
-      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
-      "titleKo": "증상이 시작되기 수년 전에 코로 알츠하이머병을 감지할 수 있다",
-      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
-      "aiSummary": "Loss of smell could signal Alzheimer's disease years before cognitive symptoms appear, according to recent scientific findings. Researchers discovered that immune cells in the brain actively destroy olfactory nerve fibers after detecting abnormal signals associated with Alzheimer's pathology. This neural damage occurs in the early stages of the disease, well before cognitive decline becomes apparent. The mechanism involves brain immune cells triggering an inflammatory response when they detect abnormality linked to Alzheimer's, leading to destruction of olfactory nerves. This discovery offers potential for early identification of at-risk patients before symptomatic onset, enabling timely intervention. However, the study has limitations including lack of specific participant numbers and sample size details, suggesting this represents early-stage research that may be based on animal models rather than large-scale clinical trials.\n\n##",
-      "aiSummaryKo": "알츠하이머병은 인지 기능 저하 이전에 후각 상실로 나타날 수 있다는 연구 결과가 발표되었다. 과학자들은 뇌의 면역세포가 비정상적인 신호를 감지한 후 후각 신경섬유를 적극적으로 파괴하는 메커니즘을 발견했다. 이러한 신경 손상은 질병의 초기 단계에서부터 시작되며, 인지 기능 저하가 나타나기 훨씬 전에 발생한다. 연구팀은 뇌 면역세포가 알츠하이머 관련 비정상 단백질을 감지했을 때 염증 반응을 일으켜 후각 신경을 손상시킨다고 설명했다. 이 발견은 증상 발현 수년 전에 위험군 환자를 조기에 식별할 수 있는 가능성을 제시한다. 연구의 한계는 세부적인 참가자 수와 구체적인 임상 시험 규모가 명시되지 않았으며, 동물 실험 기반의 초기 발견이라는 점이다.\n\n##",
-      "aiSummaryEn": "Loss of smell could signal Alzheimer's disease years before cognitive symptoms appear, according to recent scientific findings. Researchers discovered that immune cells in the brain actively destroy olfactory nerve fibers after detecting abnormal signals associated with Alzheimer's pathology. This neural damage occurs in the early stages of the disease, well before cognitive decline becomes apparent. The mechanism involves brain immune cells triggering an inflammatory response when they detect abnormality linked to Alzheimer's, leading to destruction of olfactory nerves. This discovery offers potential for early identification of at-risk patients before symptomatic onset, enabling timely intervention. However, the study has limitations including lack of specific participant numbers and sample size details, suggesting this represents early-stage research that may be based on animal models rather than large-scale clinical trials.\n\n##",
-      "keyPoints": [
-        "**후각 상실의 조기 신호** / Olfactory loss as early biomarker: 알츠하이머병의 인지 증상이 나타나기 수년 전에 후각 기능 저하가 발생할 수 있어 조기 진단의 지표가 될 수 있음",
-        "**면역세포의 신경 파괴 메커니즘** / Immune-mediated nerve damage mechanism: 뇌의 면역세포가 알츠하이머 관련 비정상 단백질을 감지하고 후각 신경섬유를 능동적으로 파괴하는 구체적 생물학적 메커니즘 규명",
-        "**질병 초기 단계에서의 발생** / Early disease stage occurrence: 신경 손상이 인지 기능 저하보다 훨씬 먼저 시작되므로 증상 발현 전 개입의 시간적 여유가 존재",
-        "**임상적 응용 가능성** / Clinical application potential: 후각 검사를 이용한 간편한 스크리닝 방법으로 고위험군을 조기에 식별하고 치료 시점을 최적화할 수 있는 가능성 제시"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
       "featured": false
     }
   ]
