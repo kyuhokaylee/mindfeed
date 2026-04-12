@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-12T17:07:04.208872+00:00",
+  "updated": "2026-04-12T19:56:12.929956+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "bf3186f2b348",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Narcissistic traits are linked to a brain area governing emotional control",
+      "titleKo": "자기애적 특성은 정서 조절을 관장하는 뇌 영역과 연결되어 있다",
+      "summary": "A new brain imaging study reveals how the physical structure of a region called the anterior insula links narcissistic personality traits to the everyday habit of suppressing one's emotions.",
+      "aiSummary": "This neuroimaging study investigates the relationship between narcissistic personality traits and brain structure. Researchers conducted MRI brain scans on participants and compared the results with narcissistic personality assessments. The findings reveal that the physical structure of the anterior insula, a brain region responsible for emotional control, is linked to narcissistic traits and habitual emotion suppression in daily life. This suggests that narcissistic personality is not merely a psychological characteristic but is associated with the biological structure of the brain. The research contributes to understanding the neurobiological basis of personality disorders. However, limitations include sample size, difficulty establishing causality, and potential cultural differences in trait expression.\n\n##",
+      "aiSummaryKo": "이 연구는 자기애적 성격 특성과 뇌 구조 간의 관계를 조사한 뇌 영상 연구입니다. 연구팀은 참가자들의 뇌를 MRI로 촬영하고 자기애 성격 검사를 실시하여 두 데이터를 비교 분석했습니다. 결과적으로 감정 조절을 담당하는 뇌 영역인 전뇌도(anterior insula)의 물리적 구조가 자기애적 특성과 일상적인 감정 억압 습관과 연결되어 있음을 발견했습니다. 이는 자기애적 성격이 단순한 심리적 특성이 아니라 뇌의 생물학적 구조와 관련이 있음을 시사합니다. 이 연구는 성격 장애의 신경생물학적 기반을 이해하는 데 기여할 수 있습니다. 다만 표본 크기, 인과관계 규명의 어려움, 문화적 차이 등이 한계점으로 지적됩니다.\n\n##",
+      "aiSummaryEn": "This neuroimaging study investigates the relationship between narcissistic personality traits and brain structure. Researchers conducted MRI brain scans on participants and compared the results with narcissistic personality assessments. The findings reveal that the physical structure of the anterior insula, a brain region responsible for emotional control, is linked to narcissistic traits and habitual emotion suppression in daily life. This suggests that narcissistic personality is not merely a psychological characteristic but is associated with the biological structure of the brain. The research contributes to understanding the neurobiological basis of personality disorders. However, limitations include sample size, difficulty establishing causality, and potential cultural differences in trait expression.\n\n##",
+      "keyPoints": [
+        "**전뇌도와 자기애의 연결** / Anterior insula structure linked to narcissism",
+        "감정 조절 담당 뇌 영역의 물리적 구조가 자기애적 특성과 관련",
+        "**감정 억압 메커니즘** / Emotion suppression mechanism",
+        "자기애적 성격을 가진 사람들이 일상에서 감정을 의도적으로 억압하는 습관과 뇌 구조의 연관성"
+      ],
+      "url": "https://www.psypost.org/how-the-brain-connects-narcissistic-traits-and-emotional-suppression/",
+      "featured": true
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "7일 전 / 7d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article presents a philosophical perspective that humans are not independent individuals but deeply interconnected with nature. The research background involves reconsidering traditional individualistic views of human nature, using the breathing process as an illustrative example. The oxygen we inhale comes from plants, and the carbon dioxide we exhale is essential for plant photosynthesis, emphasizing this biological reciprocal interaction. This suggests that humans are not completely separate from the environment but exist within a web of interconnectedness with diverse living organisms. The significance of this perspective is that it can provide new understanding of environmental issues and human relationships. However, the article focuses primarily on philosophical argumentation, with a limitation that specific quantitative research data or concrete experimental designs are not explicitly presented.\n\n##",
+      "aiSummaryKo": "이 기사는 인간이 독립적인 개체가 아니라 자연과 깊게 얽혀 있다는 철학적 관점을 제시합니다. 연구 배경으로는 전통적인 개인주의적 인간관을 재검토하려는 움직임이 있으며, 호흡을 통한 물질 교환 과정을 예시로 설명합니다. 우리가 들이마신 산소는 식물에서 나온 것이고, 우리가 내뱉은 이산화탄소는 식물의 광합성에 필요한 물질이라는 생물학적 상호작용을 강조합니다. 이는 인간이 환경과 완전히 분리된 독립적 존재가 아니며, 다양한 생명체들과의 상호연결성 속에서 존재함을 의미합니다. 이러한 관점의 의의는 환경 문제와 인간관계에 대한 새로운 이해를 제공할 수 있다는 점입니다. 다만 이 기사는 철학적 논증에 초점을 두고 있어 정량적 연구 데이터나 구체적인 실험 설계가 명시되지 않은 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This article presents a philosophical perspective that humans are not independent individuals but deeply interconnected with nature. The research background involves reconsidering traditional individualistic views of human nature, using the breathing process as an illustrative example. The oxygen we inhale comes from plants, and the carbon dioxide we exhale is essential for plant photosynthesis, emphasizing this biological reciprocal interaction. This suggests that humans are not completely separate from the environment but exist within a web of interconnectedness with diverse living organisms. The significance of this perspective is that it can provide new understanding of environmental issues and human relationships. However, the article focuses primarily on philosophical argumentation, with a limitation that specific quantitative research data or concrete experimental designs are not explicitly presented.\n\n##",
+      "keyPoints": [
+        "**상호호흡의 순환** / Reciprocal Breathing Cycle: 인간과 식물은 호흡을 통해 산소와 이산화탄소를 교환하며 서로 의존적 관계를 유지합니다. / Humans and plants maintain a dependent relationship through the exchange of oxygen and carbon dioxide via respiration.",
+        "**개인주의적 인간관의 재검토** / Reconsidering Individualism: 전통적인 \"개인\"의 개념을 벗어나 인간을 생태계의 일부로 보는 새로운 시각 제시합니다. / Moving beyond the traditional concept of \"individuals\" to view humans as part of an ecosystem.",
+        "**상호연결성(Interconnectedness)** / Interconnectedness: 인간의 신체는 외부 환경과 지속적으로 상호작용하며, 세계가 우리 안에, 우리가 세계 안에 존재합니다. / The human body constantly interacts with the external environment; the world is immersed in us, and we are immersed in the world.",
+        "**생물학적 증거를 통한 철학적 성찰** / Philosophical Reflection Through Biological Evidence: 단순한 호흡 과정이라는 생물학적 사실을 통해 인간 존재의 본질과 환경과의 관계에 대한 깊이 있는 사유를 유도합니다. / Biological facts of the simple breathing process inspire profound reflection on human existence and our relationship with the environment."
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
+    {
+      "id": "1f2d0b54d063",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "11일 전 / 11d ago",
+      "title": "What It’s Like to Be…a Diplomat",
+      "titleKo": "외교관이 되는 것은 어떤 것일까...",
+      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
+      "aiSummary": "This article features a podcast episode from the \"What It's Like to Be...\" series, where bestselling author Dan Heath interviews John Johnson, a retired U.S. Foreign Service diplomat with over twenty years of experience. Rather than a research study, this is an in-depth interview format that explores dramatic real-world situations diplomats encounter, including defusing international crises after ambassadors hint at preemptive military action, delivering demarches in multiple languages, and managing emergency evacuations such as the chaotic withdrawal from the Kabul embassy. The episode reveals practical aspects of diplomatic work unfamiliar to the general public, such as whether diplomats still use traditional \"cables\" in the 21st century and the meaning of specialized diplomatic terminology like \"not/not.\" This project, part of the \"What It's Like to Be...\" series, aims to help general audiences understand the reality of specific professions. However, the limitation is that it is based on a single individual's experience and may not represent universal experiences across the diplomatic profession.\n\n##",
+      "aiSummaryKo": "이 기사는 미국 외교관의 실제 업무 경험을 다루는 팟캐스트 에피소드에 관한 것으로, 베스트셀러 저자 댄 히스가 20년 이상 미국 외교부에서 근무한 퇴직 외교관 존 존슨과의 대담을 담고 있습니다. 연구나 실험이 아닌 심층 인터뷰 형식으로 진행되었으며, 러시아에 대한 선제공격 암시 이후의 외교 위기 상황 진정, 다국어 성명 전달, 아프가니스탄 카불 대사관 긴급 철수 등 외교관이 실제로 경험하는 극적인 상황들을 소개합니다. 또한 21세기에도 외교관들이 \"전문(cables)\"을 작성하는지, 외교 용어 \"not/not\"의 의미 등 일반인들이 잘 모르는 외교 현장의 실제 업무 방식을 드러냅니다. 이 프로젝트는 \"What It's Like to Be...\" 시리즈의 일환으로 일반인들이 특정 직업의 현실을 이해하도록 돕는 데 의의가 있습니다. 다만 단일 인물의 경험에 기반하고 있어 외교관 전체의 보편적 경험을 대표하지 못할 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This article features a podcast episode from the \"What It's Like to Be...\" series, where bestselling author Dan Heath interviews John Johnson, a retired U.S. Foreign Service diplomat with over twenty years of experience. Rather than a research study, this is an in-depth interview format that explores dramatic real-world situations diplomats encounter, including defusing international crises after ambassadors hint at preemptive military action, delivering demarches in multiple languages, and managing emergency evacuations such as the chaotic withdrawal from the Kabul embassy. The episode reveals practical aspects of diplomatic work unfamiliar to the general public, such as whether diplomats still use traditional \"cables\" in the 21st century and the meaning of specialized diplomatic terminology like \"not/not.\" This project, part of the \"What It's Like to Be...\" series, aims to help general audiences understand the reality of specific professions. However, the limitation is that it is based on a single individual's experience and may not represent universal experiences across the diplomatic profession.\n\n##",
+      "keyPoints": [
+        "**외교 위기 상황의 실제 대응**: 러시아 선제공격 위협 이후 위기 진정, 다국어 성명 전달 등 외교관의 현장 경험 / Real-world diplomatic crisis management including defusing threats and delivering multilingual statements",
+        "**현대 외교 업무의 실제 모습**: 21세기에도 여전히 \"cables\" 작성 및 전문 용어 사용 등 전통적 업무 방식 존속 / Continuation of traditional diplomatic methods like cable communications and specialized terminology in modern diplomacy",
+        "**극한 상황에서의 외교관 역할**: 아프가니스탄 카불 대사관 긴급 철수 같은 위험 상황에서의 대처 능력과 책임 / Diplomat's critical role and responsibility during extreme situations such as emergency embassy evacuations",
+        "**일반인의 이해 확대**: 전문 팟캐스트 시리즈를 통해 특정 직업의 현실을 알리는 대중 교육의 시도 / Public education initiative to increase general understanding of professional realities through specialized podcast series"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
+      "featured": false
+    },
+    {
+      "id": "a3d5cb0c4033",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "21일 전 / 21d ago",
+      "title": "‘Looking Backward’ to the Future",
+      "titleKo": "'과거를 돌아보며' 미래로 나아가다",
+      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummary": "This passage is the opening of Edward Bellamy's science fiction novel 'Looking Backward' (1888), featuring a protagonist born in Boston in 1857 who awakens in the year 2000. The work employs a unique narrative structure connecting past and future through the concept of time travel, with a 143-year temporal gap. The protagonist's confusion and astonishment guide readers to experience the dramatic social changes of the future society alongside him. The novel's significance lies in its dual purpose: critiquing 19th-century social issues (labor, inequality, economic systems) while imaginatively presenting a future society transformed by technological advancement. As a pioneering work of modern science fiction, it psychologically explores human temporal perception and society's adaptive capacity to change. However, the limitation is that only a portion of the original text is presented, making it difficult to identify specific numerical data regarding comprehensive research or experimental results.",
+      "aiSummaryKo": "이 글은 Edward Bellamy의 SF 소설 『Looking Backward』(1888)의 도입부로, 1857년 보스턴에서 태어난 주인공이 2000년에 깨어나는 설정을 다룹니다. 이 고전 SF 작품은 시간 여행이라는 개념을 통해 과거와 미래를 연결하는 독특한 서사 구조를 사용합니다. 주인공이 143년의 시간 차이에서 느끼는 혼란과 놀라움은 독자들이 미래 사회의 급격한 변화를 함께 경험하도록 유도합니다. 소설의 주요 의의는 19세기의 사회 문제(노동, 불평등, 경제 체제)를 비판하면서 동시에 기술 발전에 따른 미래 사회의 모습을 상상력 있게 제시한다는 점입니다. 이 작품은 현대 SF 문학의 선구자로서 심리학적으로 시간 지각과 사회 변화에 대한 인간의 적응 능력을 탐구합니다. 다만 원문의 일부만 제시되어 전체 연구나 실험 결과에 대한 구체적 수치를 파악하기 어려운 한계가 있습니다.",
+      "aiSummaryEn": "This passage is the opening of Edward Bellamy's science fiction novel 'Looking Backward' (1888), featuring a protagonist born in Boston in 1857 who awakens in the year 2000. The work employs a unique narrative structure connecting past and future through the concept of time travel, with a 143-year temporal gap. The protagonist's confusion and astonishment guide readers to experience the dramatic social changes of the future society alongside him. The novel's significance lies in its dual purpose: critiquing 19th-century social issues (labor, inequality, economic systems) while imaginatively presenting a future society transformed by technological advancement. As a pioneering work of modern science fiction, it psychologically explores human temporal perception and society's adaptive capacity to change. However, the limitation is that only a portion of the original text is presented, making it difficult to identify specific numerical data regarding comprehensive research or experimental results.",
+      "keyPoints": [
+        "시간 여행 장치로 143년의 시간 격차를 표현하여 독자에게 미래 사회 변화를 극적으로 전달 / Time travel device with 143-year temporal gap dramatically conveys future social transformation to readers",
+        "19세기의 사회 경제 문제(노동 착취, 빈부격차, 불공정한 경제 체제)에 대한 비판적 성찰 / Critical reflection on 19th-century socioeconomic issues including labor exploitation, wealth inequality, and unfair economic systems",
+        "인간의 시간 지각과 급격한 사회 변화에 대한 심리적 적응 과정을 문학적으로 탐구 / Literary exploration of psychological adaptation processes in human temporal perception and rapid social change",
+        "현대 SF 문학의 원형이자 미래 예측 문학의 선구적 작품으로서의 문화적 의의 / Cultural significance as a prototype of modern science fiction and pioneering work in speculative future literature"
+      ],
+      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
+      "featured": false
+    },
     {
       "id": "060eea97172c",
       "tag": "psych",
@@ -21,7 +105,7 @@
         "**개선된 접근 방식의 필요성** / Need for enhanced approaches"
       ],
       "url": "https://www.psypost.org/can-video-games-make-kids-feel-better-about-their-bodies/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "39ff72bc0b09",
@@ -336,90 +420,6 @@
         "**전략적 감정 관리**: 상대방의 평판 손상을 목표로 한다면 눈물은 효과적이지만, 장기적 사회적 지위를 고려할 때는 신중한 선택이 필요 / Crying is strategically effective for damaging opponents' reputations but requires careful consideration given its costs to one's own long-term social standing"
       ],
       "url": "https://www.psypost.org/crying-during-a-conflict-damages-your-opponents-reputation-at-a-cost-to-your-own/",
-      "featured": false
-    },
-    {
-      "id": "b964f255269e",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "5시간 전 / 5h ago",
-      "title": "Longitudinal study links associative learning gains to later improvements in fluid intelligence",
-      "titleKo": "연합 학습 향상이 후속 유동성 지능 개선과 연관된 종단 연구",
-      "summary": "As children grow, their capacity to memorize associations and their ability to solve novel problems actively reinforce each other. New research suggests that these core cognitive skills develop together in a bidirectional loop during elementary school.",
-      "aiSummary": "This research investigated how associative learning (the ability to connect and memorize new information) and fluid intelligence (the ability to solve novel problems) develop together in children. The researchers used a longitudinal study design tracking elementary school-aged children over time, though specific participant numbers and detailed measurement methods were not specified in the article. The key finding is that these two cognitive abilities form a bidirectional reinforcement loop: improvements in associative learning enhance fluid intelligence, while advances in fluid intelligence simultaneously strengthen associative learning capacity. This research contributes to understanding the fundamental mechanisms of child cognitive development and has implications for designing educational and learning support programs. However, the study is limited to the elementary school period, so the relationship between these abilities in adolescence and adulthood remains unclear, and potential effects of cultural and environmental factors may not have been thoroughly examined.\n\n##",
-      "aiSummaryKo": "이 연구는 아동의 인지발달 과정에서 연상학습(새로운 정보를 연결하고 기억하는 능력)과 유동지능(새로운 문제를 푸는 능력)이 어떻게 발달하는지를 조사했습니다. 연구팀은 초등학교 재학 중인 아동들을 장기간 추적 관찰하는 종단연구 설계를 사용했으며, 참가자 수와 구체적 측정 방법은 기사에 명시되지 않았습니다. 핵심 발견은 두 인지능력이 상호 강화하는 양방향 루프를 형성한다는 것입니다. 즉, 연상학습 능력이 향상되면 유동지능이 증진되고, 반대로 유동지능이 발달하면 연상학습 능력도 함께 발전합니다. 이 연구는 아동 인지발달의 기본 메커니즘을 밝혀냈다는 점에서 교육 및 학습 지원 프로그램 개발에 기여할 수 있습니다. 다만 초등학교 시기만 연구했으므로 청소년기 이후 발달 단계에서의 관계는 명확하지 않으며, 문화적·환경적 요인의 영향은 충분히 검토되지 않았을 가능성이 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigated how associative learning (the ability to connect and memorize new information) and fluid intelligence (the ability to solve novel problems) develop together in children. The researchers used a longitudinal study design tracking elementary school-aged children over time, though specific participant numbers and detailed measurement methods were not specified in the article. The key finding is that these two cognitive abilities form a bidirectional reinforcement loop: improvements in associative learning enhance fluid intelligence, while advances in fluid intelligence simultaneously strengthen associative learning capacity. This research contributes to understanding the fundamental mechanisms of child cognitive development and has implications for designing educational and learning support programs. However, the study is limited to the elementary school period, so the relationship between these abilities in adolescence and adulthood remains unclear, and potential effects of cultural and environmental factors may not have been thoroughly examined.\n\n##",
-      "keyPoints": [
-        "**상호강화 메커니즘** / **Bidirectional Reinforcement Mechanism**",
-        "**발달 시기의 중요성** / **Critical Developmental Period**",
-        "**교육적 함의** / **Educational Implications**",
-        "**연구의 제한점** / **Research Limitations**"
-      ],
-      "url": "https://www.psypost.org/reasoning-and-memory-skills-build-on-each-other-in-growing-children/",
-      "featured": false
-    },
-    {
-      "id": "381971e27c77",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "25일 전 / 25d ago",
-      "title": "Facts and the Fight for Moral High Ground",
-      "titleKo": "사실과 도덕적 우위를 둘러싼 투쟁",
-      "summary": "In southwest Philadelphia in August 2019, a young Black man sat down on a folding chair in a high school auditorium and clipped a lapel mic to a bright yellow T-shirt that read “Philly Thrive.” “So, how you doin’? My name is Ricky,” he said into a camera. “I’m a resident in the Gray’s Ferry community, and I’m hoping and praying the refinery gets shutdown.” The refinery in question was Philadelphia Energy Solutions (PES), up to that point the largest oil refinery on the Eastern Seaboard. It had operated just a stone’s throw from the Gray’s Ferry neighborhood until two months earlier. In the ear",
-      "aiSummary": "This article examines the voices of residents in Philadelphia regarding the closure of a major oil refinery and the moral debate surrounding environmental justice. The background involves Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard, operating in close proximity to the Gray's Ferry residential neighborhood, causing environmental pollution and public health concerns. The article documents testimonies from community activists, including Ricky, a Gray's Ferry resident who advocates for the refinery's closure. Key findings reveal that residents strongly demanded the refinery's shutdown for environmental justice and health rights, reflecting the broader social struggle over moral authority. This case demonstrates how environmental inequality disproportionately affects low-income Black communities. However, the article's limitation is the lack of longitudinal research on the economic and social impacts on the community following the refinery's closure.\n\n##",
-      "aiSummaryKo": "이 기사는 2019년 8월 필라델피아에서 벌어진 석유정제소 폐쇄에 관한 지역사회 주민들의 목소리와 도덕적 정당성 논쟁을 다루고 있습니다. 연구 배경은 동부 해안 최대 규모의 필라델피아 에너지 솔루션(PES) 정제소가 주거지역에 인접하여 운영되면서 발생한 환경오염과 공중보건 문제입니다. 기사는 Gray's Ferry 지역 주민인 Ricky를 포함한 지역사회 활동가들의 증언과 정제소 폐쇄 이후의 변화를 기록하고 있습니다. 주요 결과는 주민들이 환경정의와 건강권을 위해 정제소 폐쇄를 강력히 요청했으며, 이는 도덕적 우월성을 두고 벌어지는 사회적 투쟁을 반영합니다. 이 사례는 환경불평등이 저소득 흑인 지역사회에 불균형적으로 영향을 미친다는 점을 보여주는 중요한 사례입니다. 다만 기사는 정제소 폐쇄 이후 지역사회의 경제적·사회적 영향에 대한 장기 추적 연구가 부족합니다.\n\n##",
-      "aiSummaryEn": "This article examines the voices of residents in Philadelphia regarding the closure of a major oil refinery and the moral debate surrounding environmental justice. The background involves Philadelphia Energy Solutions (PES), the largest oil refinery on the Eastern Seaboard, operating in close proximity to the Gray's Ferry residential neighborhood, causing environmental pollution and public health concerns. The article documents testimonies from community activists, including Ricky, a Gray's Ferry resident who advocates for the refinery's closure. Key findings reveal that residents strongly demanded the refinery's shutdown for environmental justice and health rights, reflecting the broader social struggle over moral authority. This case demonstrates how environmental inequality disproportionately affects low-income Black communities. However, the article's limitation is the lack of longitudinal research on the economic and social impacts on the community following the refinery's closure.\n\n##",
-      "keyPoints": [
-        "**환경불평등과 공중보건**: 저소득 흑인 지역사회가 산업오염으로부터 불균형적으로 피해를 입고 있음 / Environmental inequality showing disproportionate health impacts on low-income Black communities from industrial pollution",
-        "**도덕적 정당성의 투쟁**: 정제소 폐쇄를 요구하는 지역주민들의 목소리가 환경정의와 생명권의 도덕적 우월성을 주장 / Community residents claiming moral authority through environmental justice and the right to life in demanding refinery closure",
-        "**지역사회 주도의 변화**: Philly Thrive와 같은 풀뿌리 운동조직이 주민들의 증언과 기록을 통해 사회변화를 추동 / Grassroots organizations like Philly Thrive driving social change through resident testimonies and documentation",
-        "**장기 영향 평가의 필요성**: 정제소 폐쇄 이후 지역사회의 경제, 건강, 사회적 회복에 관한 추적 연구가 필요 / Need for longitudinal studies on economic, health, and social recovery outcomes following industrial facility closure"
-      ],
-      "url": "https://behavioralscientist.org/facts-and-the-fight-for-moral-high-ground/",
-      "featured": false
-    },
-    {
-      "id": "bbdd3481a9ff",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Brain study reveals hidden link between autism and ADHD",
-      "titleKo": "뇌 연구, 자폐증과 ADHD 사이의 숨겨진 연관성 밝혀내다",
-      "summary": "Scientists are uncovering a surprising connection between autism and ADHD that goes deeper than labels. Instead of diagnoses, it’s the severity of autism-like traits that seems to shape how the brain is wired—even in children who don’t officially have autism. The study found that certain brain networks tied to thinking and social behavior stay unusually connected in kids with stronger autism symptoms, hinting at a different developmental path.",
-      "aiSummary": "This study investigates the hidden neurobiological connections between autism and ADHD, revealing that the severity of autism-like traits may be more influential than formal diagnoses in shaping brain structure. Rather than focusing on diagnostic labels, researchers examined how the degree of autism characteristics affects neural network organization in children. Key findings showed that children with stronger autism symptoms displayed unusually high connectivity in brain networks responsible for cognition and social behavior, suggesting a distinct developmental trajectory. This indicates that trait severity rather than diagnostic categorization may be the primary factor determining brain development patterns in neurodevelopmental conditions. The research challenges conventional diagnostic frameworks and could contribute to the development of personalized treatment approaches. However, the study has limitations including insufficient details about sample size, participant age range, and longitudinal follow-up periods, which may affect the generalizability of findings.\n\n##",
-      "aiSummaryKo": "본 연구는 자폐증과 ADHD 사이의 숨겨진 신경생물학적 연관성을 규명하기 위해 수행되었습니다. 연구팀은 공식적인 진단 여부보다는 자폐증 특성의 심각도가 뇌 네트워크 구조에 미치는 영향을 중점적으로 조사했습니다. 연구 결과, 자폐증 증상이 강한 아동들에게서 사고와 사회적 행동을 담당하는 뇌 네트워크가 비정상적으로 높은 연결성을 보였습니다. 이는 진단 라벨보다 특성의 정도가 뇌 발달 경로를 결정하는 더 중요한 요인일 수 있음을 시사합니다. 본 연구는 신경발달장애의 기존 진단 체계를 재평가할 필요성을 제기하며 개인맞춤형 치료법 개발에 기여할 수 있습니다. 다만 구체적인 샘플 크기, 참가자의 연령대, 추적 관찰 기간 등의 상세 정보가 부족하여 결과의 일반화 가능성에 제한이 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigates the hidden neurobiological connections between autism and ADHD, revealing that the severity of autism-like traits may be more influential than formal diagnoses in shaping brain structure. Rather than focusing on diagnostic labels, researchers examined how the degree of autism characteristics affects neural network organization in children. Key findings showed that children with stronger autism symptoms displayed unusually high connectivity in brain networks responsible for cognition and social behavior, suggesting a distinct developmental trajectory. This indicates that trait severity rather than diagnostic categorization may be the primary factor determining brain development patterns in neurodevelopmental conditions. The research challenges conventional diagnostic frameworks and could contribute to the development of personalized treatment approaches. However, the study has limitations including insufficient details about sample size, participant age range, and longitudinal follow-up periods, which may affect the generalizability of findings.\n\n##",
-      "keyPoints": [
-        "**진단 라벨을 넘어선 특성 중심 접근** / Moving beyond diagnostic labels to focus on trait severity as the primary determinant of brain structure",
-        "**뇌 네트워크 연결성의 이상** / Atypical connectivity in cognition and social behavior brain networks correlates with autism symptom severity, not formal diagnosis status",
-        "**신경발달장애의 연속체 모델** / Suggests neurodevelopmental disorders exist on a spectrum where trait intensity shapes neural development patterns across traditional diagnostic boundaries",
-        "**개인맞춤형 의료의 필요성** / Supports shift from categorical diagnosis-based treatment to trait-based precision medicine approaches for improved clinical outcomes"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225941.htm",
-      "featured": false
-    },
-    {
-      "id": "f72378c25f04",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Conservative 2024 campaigns reframed demographic shifts as an election integrity issue",
-      "titleKo": "2024년 보수진영 캠프, 인구통계학적 변화를 선거 무결성 문제로 재정의",
-      "summary": "Conservative political campaigns are increasingly repackaging extremist demographic theories into mainstream debates over electoral integrity. A recent analysis reveals how the language of democracy is utilized to mask exclusionary rhetoric and reshape public anxieties about national identity.",
-      "aiSummary": "Conservative political campaigns in the 2024 election cycle are repackaging extremist demographic theories into mainstream discussions about electoral integrity. Researchers conducted a systematic analysis of campaign statements, advertisements, and media materials to trace how demographic replacement theories are being mainstreamed into acceptable political discourse. The analysis reveals that while campaigns invoke \"protecting democracy,\" they simultaneously amplify exclusionary rhetoric targeting specific demographic groups. This rhetorical strategy deliberately reframes public anxieties about national identity changes into concerns about election integrity. The research highlights how democratic language can be instrumentalized to justify exclusionary policies. However, the study is limited to specific time periods and regions, requiring cautious interpretation before broader generalizations can be made.",
-      "aiSummaryKo": "보수 진영의 2024년 선거 캠프가 인구통계학적 변화를 선거 무결성 문제로 재구성하고 있다는 연구 분석이 발표되었다. 연구진은 보수 정치 캠프의 공개 선언문, 광고, 언론 자료 등을 체계적으로 분석하여 극단주의적 인구 이론이 주류 담론으로 포장되는 과정을 추적했다. 분석 결과, 보수 캠프가 \"민주주의 수호\"라는 언어를 사용하면서도 실제로는 특정 인구 집단에 대한 배타적 수사를 강화하고 있음이 드러났다. 이러한 전략은 국가 정체성 변화에 대한 국민의 불안감을 선거 무결성 우려로 의도적으로 전환시키는 것으로 해석된다. 연구는 민주주의 담론이 배타주의를 정당화하는 도구로 악용될 수 있다는 점을 지적한다. 다만 이 분석은 특정 시기와 지역의 캠프 자료에 제한되어 있어 일반화에는 신중한 접근이 필요하다.",
-      "aiSummaryEn": "Conservative political campaigns in the 2024 election cycle are repackaging extremist demographic theories into mainstream discussions about electoral integrity. Researchers conducted a systematic analysis of campaign statements, advertisements, and media materials to trace how demographic replacement theories are being mainstreamed into acceptable political discourse. The analysis reveals that while campaigns invoke \"protecting democracy,\" they simultaneously amplify exclusionary rhetoric targeting specific demographic groups. This rhetorical strategy deliberately reframes public anxieties about national identity changes into concerns about election integrity. The research highlights how democratic language can be instrumentalized to justify exclusionary policies. However, the study is limited to specific time periods and regions, requiring cautious interpretation before broader generalizations can be made.",
-      "keyPoints": [
-        "**전략적 언어 재구성** / Strategic Reframing of Language",
-        "**민주주의 담론의 악용** / Misuse of Democratic Discourse",
-        "**국민 불안감 조작** / Manipulation of Public Anxiety",
-        "**주류화된 극단주의** / Mainstreamed Extremism"
-      ],
-      "url": "https://www.psypost.org/how-extremist-theories-were-disguised-as-election-integrity-in-2024-2026-03-26/",
       "featured": false
     }
   ]
