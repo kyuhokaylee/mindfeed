@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-11T23:05:53.310741+00:00",
+  "updated": "2026-04-12T06:12:11.267887+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6c7c2bc688a9",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "6시간 전 / 6h ago",
+      "title": "How different negative emotions change the size of your pupils",
+      "titleKo": "부정적인 감정의 종류에 따라 동공의 크기가 어떻게 달라지는가",
+      "summary": "When humans feel disgust or sadness, their pupils involuntarily widen. Conversely, feelings of anger are associated with a narrowing of the pupils. These distinct physical responses provide new clues about how the nervous system handles specific negative emotions.",
+      "aiSummary": "This research investigates how negative emotions affect pupil size responses. The study presented participants with stimuli designed to evoke various negative emotions and measured corresponding changes in pupil dilation. Key findings revealed that disgust and sadness trigger pupil dilation, while anger causes pupil constriction. These distinct physiological responses provide insight into how the nervous system processes different negative emotions. Since pupil responses are automatic and involuntary, they may serve as objective indicators of emotional states. However, the study was limited to specific negative emotions, suggesting the need for further research on positive emotions and complex emotional states.\n\n##",
+      "aiSummaryKo": "이 연구는 부정적인 감정이 동공 크기에 어떻게 영향을 미치는지 조사한 것입니다. 연구팀은 참가자들에게 다양한 감정을 유발하는 자극을 제시하고 동공의 크기 변화를 측정했습니다. 주요 결과는 혐오감과 슬픔을 느낄 때 동공이 확장되는 반면, 분노를 느낄 때는 동공이 수축한다는 것입니다. 이러한 발견은 신경계가 각기 다른 부정적 감정을 어떻게 처리하는지에 대한 생리적 메커니즘을 보여줍니다. 동공 반응은 자동적이고 의식적으로 통제할 수 없으므로 감정 상태의 객관적인 지표가 될 수 있습니다. 다만 이 연구는 특정 부정적 감정만 다루었으므로 긍정적 감정이나 다른 복합 감정에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This research investigates how negative emotions affect pupil size responses. The study presented participants with stimuli designed to evoke various negative emotions and measured corresponding changes in pupil dilation. Key findings revealed that disgust and sadness trigger pupil dilation, while anger causes pupil constriction. These distinct physiological responses provide insight into how the nervous system processes different negative emotions. Since pupil responses are automatic and involuntary, they may serve as objective indicators of emotional states. However, the study was limited to specific negative emotions, suggesting the need for further research on positive emotions and complex emotional states.\n\n##",
+      "keyPoints": [
+        "**혐오감과 슬픔의 생리 반응**: 혐오감과 슬픔을 느낄 때 동공이 자동으로 확장되는 현상 / Pupil dilation occurs automatically during disgust and sadness",
+        "**분노의 역방향 반응**: 분노 감정은 동공 수축을 유발하는 독특한 신경 반응 / Anger triggers pupil constriction, showing distinct neural processing",
+        "**자동적이고 통제 불가능한 지표**: 동공 반응은 의식적 통제 불가능하므로 감정 상태의 객관적 증거로 활용 가능 / Involuntary pupil responses can serve as objective markers of emotional states",
+        "**신경계의 감정 처리 메커니즘**: 감정 유형별로 다른 신경 경로가 활성화되어 신체 반응 차이 발생 / Different negative emotions activate distinct neural pathways, resulting in varying physiological responses"
+      ],
+      "url": "https://www.psypost.org/how-different-negative-emotions-change-the-size-of-your-pupils/",
+      "featured": true
+    },
     {
       "id": "30fd693a144b",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**AI 기술의 사회심리적 영향** / **Socio-psychological Implications of AI**: AI 기술 확대 시대에 인간의 심리적 적응과 행동 변화에 대한 주의 필요"
       ],
       "url": "https://www.psypost.org/artificial-intelligence-makes-consumers-more-impatient/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9af9b1ab7cd8",
@@ -399,27 +420,6 @@
         "움직이는 표정이 정적 이미지보다 사회불안 연구에 더 효과적 / Dynamic facial expressions may be more effective than static images for understanding social anxiety mechanisms"
       ],
       "url": "https://www.psypost.org/people-with-social-anxiety-scan-moving-faces-differently-than-others/",
-      "featured": false
-    },
-    {
-      "id": "5196104542ea",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
-      "titleKo": "몬테카를로 방법을 이용한 장기의 상태공간 복잡도에 대한 고정밀 추정",
-      "summary": "arXiv:2604.06189v1 Announce Type: new Abstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leaving a gap of five orders of magnitude ($10^{64}$ to $10^{69}$). This large gap arises from the difficulty of distinguishing Shogi positions legally reachable from the initial position among the vast number of valid board configurations. In this paper, we present a high-precision statistical estimation of the number of reachable positions in Shogi. Our method combines Monte Carlo sampling with a nov",
-      "aiSummary": "This research addresses the precise estimation of state-space complexity in Shogi (Japanese chess), where previous combinatorial estimates showed a five-order-of-magnitude gap (10^64 to 10^69). The fundamental challenge lies in distinguishing legally reachable positions from the initial position among the vast number of valid board configurations. The researchers employed Monte Carlo sampling combined with a novel statistical method to estimate the number of reachable positions in Shogi with high precision. By focusing only on positions actually reachable from the initial position through legal moves, they significantly narrowed the previous estimation gap. This work provides fundamental data crucial for game theory, artificial intelligence algorithm development, and combinatorial complexity analysis. However, as the approach relies on probabilistic methods, the accuracy of estimates depends on sample size and computational resources available.\n\n##",
-      "aiSummaryKo": "이 연구는 장기(일본 장기)의 게임 상태 복잡도를 정확히 추정하는 문제를 다룹니다. 기존 연구에서는 도달 가능한 위치의 수를 10^64에서 10^69 사이로 추정했지만, 5자리 수의 오차 범위가 있었습니다. 연구진은 몬테카를로 샘플링이라는 통계적 방법을 활용하여 초기 위치에서 법칙에 따라 도달 가능한 장기판의 위치 개수를 높은 정밀도로 추정했습니다. 이는 초기 위치에서 실제로 도달할 수 있는 유효한 위치들만 구별하여 계산함으로써 이전의 큰 오차 범위를 줄이는 데 성공했습니다. 이 연구는 게임 이론, 인공지능 알고리즘 개발, 그리고 조합론적 복잡도 분석에 중요한 기초 자료를 제공합니다. 다만 연구는 확률적 방법에 기반하므로 샘플 크기와 계산 자원에 따라 추정치가 영향을 받을 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research addresses the precise estimation of state-space complexity in Shogi (Japanese chess), where previous combinatorial estimates showed a five-order-of-magnitude gap (10^64 to 10^69). The fundamental challenge lies in distinguishing legally reachable positions from the initial position among the vast number of valid board configurations. The researchers employed Monte Carlo sampling combined with a novel statistical method to estimate the number of reachable positions in Shogi with high precision. By focusing only on positions actually reachable from the initial position through legal moves, they significantly narrowed the previous estimation gap. This work provides fundamental data crucial for game theory, artificial intelligence algorithm development, and combinatorial complexity analysis. However, as the approach relies on probabilistic methods, the accuracy of estimates depends on sample size and computational resources available.\n\n##",
-      "keyPoints": [
-        "기존 추정치의 한계 / Previous estimation gap of five orders of magnitude (10^64 to 10^69)",
-        "연구 방법 / Monte Carlo sampling method for statistical estimation of reachable positions",
-        "정밀도 개선 / High-precision estimation distinguishing legally reachable from theoretically valid positions",
-        "응용 분야 / Applications in game theory, AI algorithm development, and combinatorial complexity analysis"
-      ],
-      "url": "https://arxiv.org/abs/2604.06189",
       "featured": false
     }
   ]
