@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-12T09:33:17.973362+00:00",
+  "updated": "2026-04-12T11:49:49.561743+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b8a5a91419be",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Extreme athletes just helped scientists unlock a deep evolutionary secret about human survival",
+      "titleKo": "극한 운동선수들이 인간 생존에 관한 심오한 진화의 비밀을 풀도록 과학자들을 도왔다",
+      "summary": "How does the human body manage its energy when pushed to the brink? New research shows that during extreme physical stress, deep evolutionary programming kicks in, sacrificing tissue repair and reproduction to keep the immune system active.",
+      "aiSummary": "This research investigated how the human body manages energy allocation during extreme physical stress by studying elite extreme athletes. Scientists discovered that during intense bodily exertion, ancient evolutionary programming activates to prioritize survival mechanisms over normal physiological functions. The key finding reveals that the body sacrifices tissue repair and reproductive functions to maintain an active immune system under extreme stress conditions. This represents an evolutionary adaptation that prioritized infection resistance and immune response in life-threatening situations throughout human evolutionary history. The study provides significant insights into how humans have developed sophisticated energy prioritization systems over hundreds of thousands of years. However, the research was limited to extreme athletes as subjects, so broader applicability to the general population requires further investigation and validation.\n\n##",
+      "aiSummaryKo": "이 연구는 극한 신체 활동 중 인간의 에너지 관리 메커니즘을 규명하기 위해 극한 운동 선수들을 대상으로 진행되었습니다. 연구진은 극도의 신체 스트레스 상황에서 인체가 어떻게 에너지를 배분하는지를 분석했으며, 그 결과 진화적으로 오래전부터 프로그래밍된 생존 메커니즘이 작동함을 발견했습니다. 핵심 발견은 극한 상황에서 신체가 조직 재생과 생식 기능을 억제하면서까지 면역 체계를 최우선으로 유지한다는 것입니다. 이는 급성 감염 위협 상황에서 생존율을 높이기 위한 진화적 적응으로 해석됩니다. 이 연구는 인간이 수십만 년에 걸쳐 개발한 에너지 우선순위 체계를 이해하는 데 중요한 의의를 지닙니다. 다만 연구는 극한 운동 선수라는 제한된 집단을 대상으로 했으므로, 일반 대중에 대한 적용 가능성은 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research investigated how the human body manages energy allocation during extreme physical stress by studying elite extreme athletes. Scientists discovered that during intense bodily exertion, ancient evolutionary programming activates to prioritize survival mechanisms over normal physiological functions. The key finding reveals that the body sacrifices tissue repair and reproductive functions to maintain an active immune system under extreme stress conditions. This represents an evolutionary adaptation that prioritized infection resistance and immune response in life-threatening situations throughout human evolutionary history. The study provides significant insights into how humans have developed sophisticated energy prioritization systems over hundreds of thousands of years. However, the research was limited to extreme athletes as subjects, so broader applicability to the general population requires further investigation and validation.\n\n##",
+      "keyPoints": [
+        "**진화적 에너지 우선순위 체계** / Evolutionary Energy Prioritization System",
+        "**생존 메커니즘의 활성화** / Activation of Survival Mechanisms",
+        "**극한 선수 그룹을 통한 검증** / Validation Through Elite Athletes",
+        "**일반 대중 적용의 한계** / Limitations in General Population Application"
+      ],
+      "url": "https://www.psypost.org/extreme-athletes-just-helped-scientists-unlock-a-deep-evolutionary-secret-about-human-survival/",
+      "featured": true
+    },
     {
       "id": "6c7c2bc688a9",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**신경계의 감정 처리 메커니즘**: 감정 유형별로 다른 신경 경로가 활성화되어 신체 반응 차이 발생 / Different negative emotions activate distinct neural pathways, resulting in varying physiological responses"
       ],
       "url": "https://www.psypost.org/how-different-negative-emotions-change-the-size-of-your-pupils/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "30fd693a144b",
@@ -399,27 +420,6 @@
         "**치료 개발 가능성** / Treatment Development Potential"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
-      "featured": false
-    },
-    {
-      "id": "1f1bf77c5c6d",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "People with social anxiety scan moving faces differently than others",
-      "titleKo": "사회불안증이 있는 사람들은 움직이는 얼굴을 다르게 인지한다",
-      "summary": "Eye-tracking technology reveals that people with social anxiety scan moving faces more rapidly and identify faint sadness more accurately than those without the condition. Moving facial expressions may help researchers better understand the mechanics of the socially anxious brain.",
-      "aiSummary": "This study examined how people with social anxiety disorder perceive moving faces using eye-tracking technology to compare facial recognition differences between socially anxious individuals and controls. The research revealed that people with social anxiety scan moving facial expressions more rapidly and detect subtle sadness expressions with greater accuracy than those without the condition. These findings suggest that socially anxious brains are more sensitive to social cues and signals from others' faces. The study highlights that moving facial expressions may be more effective than static images for understanding the neurological mechanisms underlying social anxiety disorder. This approach could lead to better diagnostic tools and therapeutic interventions for social anxiety. However, the lack of detailed information about sample size and participant diversity may limit the generalizability of these findings.\n\n##",
-      "aiSummaryKo": "사회불안장애가 있는 사람들이 움직이는 얼굴을 어떻게 인식하는지를 연구한 새로운 연구입니다. 연구팀은 아이트래킹(눈동작 추적) 기술을 사용하여 사회불안장애 환자와 일반인의 얼굴 인식 차이를 비교했습니다. 결과에 따르면 사회불안장애가 있는 사람들은 움직이는 얼굴을 더 빠르게 스캔하고, 희미한 슬픔의 감정 표현을 더 정확하게 감지했습니다. 이는 사회불안장aureate이 있는 사람들의 뇌가 사회적 신호에 더 민감하게 반응한다는 것을 시사합니다. 이 연구는 움직이는 표정이 사회불안장애의 신경학적 메커니즘을 이해하는 데 도움이 될 수 있음을 보여줍니다. 다만 연구 규모나 참가자의 다양성에 대한 추가 정보가 제시되지 않아 일반화에 제한이 있을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study examined how people with social anxiety disorder perceive moving faces using eye-tracking technology to compare facial recognition differences between socially anxious individuals and controls. The research revealed that people with social anxiety scan moving facial expressions more rapidly and detect subtle sadness expressions with greater accuracy than those without the condition. These findings suggest that socially anxious brains are more sensitive to social cues and signals from others' faces. The study highlights that moving facial expressions may be more effective than static images for understanding the neurological mechanisms underlying social anxiety disorder. This approach could lead to better diagnostic tools and therapeutic interventions for social anxiety. However, the lack of detailed information about sample size and participant diversity may limit the generalizability of these findings.\n\n##",
-      "keyPoints": [
-        "사회불안장애 환자가 움직이는 얼굴을 일반인보다 더 빠르게 스캔 / People with social anxiety scan moving faces more rapidly than controls",
-        "희미한 슬픔 감정을 더 정확하게 감지하는 능력 / Enhanced ability to detect subtle sadness expressions with greater accuracy",
-        "아이트래킹 기술을 활용한 객관적 신경생물학적 측정 방법 / Eye-tracking technology provides objective neurobiological measurement of social processing",
-        "움직이는 표정이 정적 이미지보다 사회불안 연구에 더 효과적 / Dynamic facial expressions may be more effective than static images for understanding social anxiety mechanisms"
-      ],
-      "url": "https://www.psypost.org/people-with-social-anxiety-scan-moving-faces-differently-than-others/",
       "featured": false
     }
   ]
