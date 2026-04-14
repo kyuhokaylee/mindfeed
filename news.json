@@ -1,7 +1,239 @@
 {
-  "updated": "2026-04-13T23:31:49.040695+00:00",
+  "updated": "2026-04-14T06:21:40.420424+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e367e9574bcd",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "2시간 전 / 2h ago",
+      "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
+      "titleKo": "LABBench2: 생물학 연구를 수행하는 AI 시스템을 위한 개선된 벤치마크",
+      "summary": "arXiv:2604.09554v1 Announce Type: new Abstract: Optimism for accelerating scientific discovery with AI continues to grow. Current applications of AI in scientific research range from training dedicated foundation models on scientific data to agentic autonomous hypothesis generation systems to AI-driven autonomous labs. The need to measure progress of AI systems in scientific domains correspondingly must not only accelerate, but increasingly shift focus to more real-world capabilities. Beyond rote knowledge and even just reasoning to actually measuring the ability to perform meaningful work. Pr",
+      "aiSummary": "As AI applications in scientific research continue to expand, there is a growing need for accurate benchmarks to evaluate AI system performance in scientific domains. This research presents LABBench2, an improved benchmark designed to assess AI systems performing biology research. The study shifts focus beyond simple knowledge testing and reasoning ability evaluation to measure actual capability to perform meaningful scientific work. LABBench2 encompasses diverse AI applications including foundation model training on scientific data, autonomous hypothesis generation systems, and AI-driven autonomous laboratories. The benchmark provides a standardized evaluation tool to accurately measure real progress of AI in scientific research. However, the incomplete information in the available abstract limits detailed assessment of specific methodologies and quantitative results.\n\n##",
+      "aiSummaryKo": "과학 분야에서 AI의 활용이 급증하면서 AI 시스템의 성능을 정확히 측정할 수 있는 벤치마크의 필요성이 대두되고 있습니다. 이 연구는 생물학 연구를 수행하는 AI 시스템을 평가하기 위해 LABBench2라는 개선된 벤치마크를 제시합니다. 기존의 단순한 지식 테스트나 추론 능력 평가를 넘어서, 실제 과학 연구 작업을 수행할 수 있는 능력을 측정하는 데 초점을 맞추고 있습니다. 이 벤치마크는 기초 모델 학습, 자동 가설 생성 시스템, AI 기반 자동 실험실 등 다양한 AI 응용 분야를 포괄합니다. LABBench2는 과학 분야에서 AI의 실제 진전을 정확히 파악할 수 있는 표준화된 평가 도구를 제공합니다. 다만 현재 기사의 불완전한 정보로 인해 구체적인 연구 방법론과 성과에 대한 세부 평가는 제한적입니다.\n\n##",
+      "aiSummaryEn": "As AI applications in scientific research continue to expand, there is a growing need for accurate benchmarks to evaluate AI system performance in scientific domains. This research presents LABBench2, an improved benchmark designed to assess AI systems performing biology research. The study shifts focus beyond simple knowledge testing and reasoning ability evaluation to measure actual capability to perform meaningful scientific work. LABBench2 encompasses diverse AI applications including foundation model training on scientific data, autonomous hypothesis generation systems, and AI-driven autonomous laboratories. The benchmark provides a standardized evaluation tool to accurately measure real progress of AI in scientific research. However, the incomplete information in the available abstract limits detailed assessment of specific methodologies and quantitative results.\n\n##",
+      "keyPoints": [
+        "**벤치마크의 진화 필요성** / Need for Evolved Benchmarking: 단순 지식 평가에서 실제 과학 작업 수행 능력 평가로의 전환 / Shift from rote knowledge assessment to measuring real-world scientific work capabilities",
+        "**AI의 다층적 응용 평가** / Multi-level AI Application Assessment: 기초 모델부터 자동 가설 생성, 자동 실험실까지 다양한 단계의 AI 시스템 평가 포함 / Evaluation of AI systems across foundation models, autonomous hypothesis generation, and automated labs",
+        "**생물학 연구 중심 측정** / Biology Research-Focused Measurement: 생물학 분야의 AI 성능을 체계적으로 측정하는 표준화된 도구 제공 / Standardized tool for systematically measuring AI performance in biology research",
+        "**실제 과학 응용 역량 강조** / Emphasis on Practical Scientific Application: 이론적 능력이 아닌 실제 의미 있는 과학 연구 작업 수행 능력 평가의 중요성 / Importance of evaluating practical capability to perform meaningful research work rather than theoretical abilities"
+      ],
+      "url": "https://arxiv.org/abs/2604.09554",
+      "featured": true
+    },
+    {
+      "id": "a7756e1ebd62",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "2시간 전 / 2h ago",
+      "title": "Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis",
+      "titleKo": "기수형 및 순서형 데이터를 이용한 다기준 평가 선형계획법: 비관적 가상격차 분석",
+      "summary": "arXiv:2604.09555v1 Announce Type: new Abstract: Multi-criteria Analysis (MCA) is used to rank alternatives based on various criteria. Key MCA methods, such as Multiple Criteria Decision Making (MCDM) methods, estimate parameters for criteria to compute the performance of each alternative. Nonetheless, subjective evaluations and biases frequently influence the reliability of results, while the diversity of data affects the precision of the parameters. The novel linear programming-based Virtual Gap Analysis (VGA) models tackle these issues. This paper outlines a two-step method that integrates t",
+      "aiSummary": "Multi-Criteria Analysis (MCA) is a decision-making method used to rank alternatives based on various evaluation criteria. Existing Multiple Criteria Decision Making (MCDM) methods estimate weights for each criterion to evaluate the performance of alternatives; however, subjective evaluations and biases can compromise the reliability of results. This research proposes a Linear Programming-based Virtual Gap Analysis (VGA) model to address these limitations. The method employs a two-step approach capable of handling both cardinal (numerical) and ordinal (rank-order) data, while minimizing subjective bias and ensuring accurate analysis of diverse data types. By analyzing virtual gaps from a \"pessimistic\" perspective, it provides more conservative and reliable assessments. This approach can enhance decision-making quality in practical situations requiring multiple criteria considerations, such as business decisions, policy-making, and medical diagnosis. However, further validation of the methodology's real-world applicability and testing across various scenarios is necessary.\n\n##",
+      "aiSummaryKo": "다중 기준 분석(MCA)은 여러 평가 기준에 따라 선택지들을 순위 매기는 의사결정 방법입니다. 기존의 다중 기준 의사결정(MCDM) 방법들은 각 기준에 대한 가중치를 추정하여 선택지들의 성능을 평가하지만, 주관적 평가와 편향이 결과의 신뢰성을 해칠 수 있습니다. 이 연구는 선형계획법 기반의 '가상 격차 분석(VGA)' 모델을 제안합니다. 이 방법은 수치형 데이터와 순서형 데이터를 모두 처리할 수 있는 2단계 접근법을 사용하여, 의사결정자의 주관적 편향을 최소화하면서도 다양한 데이터 형태를 정확하게 분석합니다. 특히 '비관적' 관점에서 가상의 격차를 분석함으로써 더욱 보수적이고 신뢰할 수 있는 평가를 제공합니다. 이는 기업, 정책 결정, 의료 진단 등 여러 기준을 고려해야 하는 실무적 의사결정 상황에서 의사결정의 질을 향상시킬 수 있습니다. 다만 이 방법론의 실제 적용성과 다양한 시나리오에서의 검증이 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "Multi-Criteria Analysis (MCA) is a decision-making method used to rank alternatives based on various evaluation criteria. Existing Multiple Criteria Decision Making (MCDM) methods estimate weights for each criterion to evaluate the performance of alternatives; however, subjective evaluations and biases can compromise the reliability of results. This research proposes a Linear Programming-based Virtual Gap Analysis (VGA) model to address these limitations. The method employs a two-step approach capable of handling both cardinal (numerical) and ordinal (rank-order) data, while minimizing subjective bias and ensuring accurate analysis of diverse data types. By analyzing virtual gaps from a \"pessimistic\" perspective, it provides more conservative and reliable assessments. This approach can enhance decision-making quality in practical situations requiring multiple criteria considerations, such as business decisions, policy-making, and medical diagnosis. However, further validation of the methodology's real-world applicability and testing across various scenarios is necessary.\n\n##",
+      "keyPoints": [
+        "**다양한 데이터 형태 통합 처리** / Integration of Cardinal and Ordinal Data",
+        "**주관적 편향 최소화** / Reduction of Subjective Bias",
+        "**비관적 접근을 통한 보수적 평가** / Pessimistic Virtual Gap Analysis",
+        "**다양한 실무 분야 적용 가능성** / Wide Application Potential"
+      ],
+      "url": "https://arxiv.org/abs/2604.09555",
+      "featured": false
+    },
+    {
+      "id": "958051b412f5",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "2시간 전 / 2h ago",
+      "title": "Seven simple steps for log analysis in AI systems",
+      "titleKo": "AI 시스템에서 로그 분석을 위한 7가지 간단한 단계",
+      "summary": "arXiv:2604.09563v1 Announce Type: new Abstract: AI systems produce large volumes of logs as they interact with tools and users. Analysing these logs can help understand model capabilities, propensities, and behaviours, or assess whether an evaluation worked as intended. Researchers have started developing methods for log analysis, but a standardised approach is still missing. Here we suggest a pipeline based on current best practices. We illustrate it with concrete code examples in the Inspect Scout library, provide detailed guidance on each step, and highlight common pitfalls. Our framework p",
+      "aiSummary": "This research addresses the need for a standardized methodology in analyzing large volumes of logs generated by AI systems during their interactions with tools and users. While various log analysis methods have been developed, a consistent and unified approach has been lacking in the field. The research team proposes a seven-step pipeline based on current best practices, providing detailed guidance for each step with concrete code examples from the Inspect Scout library. The framework helps researchers understand AI model capabilities, propensities, and behaviors, and verify whether evaluations were conducted as intended. The significance of this work lies in improving consistency and reproducibility in AI system analysis while facilitating collaboration among researchers. However, further validation is needed regarding whether the proposed pipeline can be uniformly applied to all types of AI systems and its scalability in real-world industrial environments.\n\n##",
+      "aiSummaryKo": "본 연구는 AI 시스템이 도구 및 사용자와 상호작용하면서 생성하는 대량의 로그 데이터를 효과적으로 분석하기 위한 표준화된 방법론의 필요성에서 출발했다. 현재까지 로그 분석 방법들이 개발되어 왔지만, 일관된 접근 방식이 부족한 상황이다. 연구팀은 현재의 모범 사례들을 바탕으로 7단계의 파이프라인을 제시했으며, Inspect Scout 라이브러리의 구체적인 코드 예제를 통해 각 단계별 상세한 지침을 제공했다. 이 프레임워크는 AI 모델의 능력, 특성, 행동을 파악하고 평가의 타당성을 검증하는 데 도움을 줄 수 있다. 연구의 의의는 AI 시스템 분석의 일관성과 재현성을 향상시키고 연구자들 간의 협업을 용이하게 한다는 점이다. 다만 제시된 파이프라인이 모든 유형의 AI 시스템에 균등하게 적용 가능한지, 그리고 실제 산업 환경에서의 확장성에 대한 추가 검증이 필요할 수 있다.\n\n##",
+      "aiSummaryEn": "This research addresses the need for a standardized methodology in analyzing large volumes of logs generated by AI systems during their interactions with tools and users. While various log analysis methods have been developed, a consistent and unified approach has been lacking in the field. The research team proposes a seven-step pipeline based on current best practices, providing detailed guidance for each step with concrete code examples from the Inspect Scout library. The framework helps researchers understand AI model capabilities, propensities, and behaviors, and verify whether evaluations were conducted as intended. The significance of this work lies in improving consistency and reproducibility in AI system analysis while facilitating collaboration among researchers. However, further validation is needed regarding whether the proposed pipeline can be uniformly applied to all types of AI systems and its scalability in real-world industrial environments.\n\n##",
+      "keyPoints": [
+        "**체계적 접근법의 필요성** / Need for Systematic Approach",
+        "**7단계 분석 파이프라인** / Seven-Step Analysis Pipeline",
+        "**실용적 지침 제공** / Practical Guidance",
+        "**재현성과 협업 향상** / Enhanced Reproducibility and Collaboration"
+      ],
+      "url": "https://arxiv.org/abs/2604.09563",
+      "featured": false
+    },
+    {
+      "id": "8fc2754f0bf8",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "2시간 전 / 2h ago",
+      "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization",
+      "titleKo": "화면 위의 튜링 테스트: 모바일 GUI 에이전트 인간화 벤치마크",
+      "summary": "arXiv:2604.09574v1 Announce Type: new Abstract: The rise of autonomous GUI agents has triggered adversarial countermeasures from digital platforms, yet existing research prioritizes utility and robustness over the critical dimension of anti-detection. We argue that for agents to survive in human-centric ecosystems, they must evolve Humanization capabilities. We introduce the ``Turing Test on Screen,'' formally modeling the interaction as a MinMax optimization problem between a detector and an agent aiming to minimize behavioral divergence. We then collect a new high-fidelity dataset of mobile ",
+      "aiSummary": "As autonomous GUI agents proliferate, digital platforms have intensified countermeasures to detect them, yet existing research prioritizes utility and robustness over the critical anti-detection capability. This study argues that AI agents must develop \"humanization\" capabilities to survive in human-centric digital ecosystems. The researchers introduce the \"Turing Test on Screen,\" formally modeling interactions between a detector and an agent as a MinMax optimization problem aimed at minimizing behavioral divergence. They collect a novel high-fidelity dataset of mobile interactions to benchmark agents' humanization performance. This work establishes a new evaluation standard for assessing AI agents' practical viability and highlights the underexplored dimension of anti-detection in autonomous systems. However, limitations include potentially limited dataset scale and coverage of diverse platforms, which may constrain the generalizability of findings across different digital environments.\n\n##",
+      "aiSummaryKo": "자동화된 GUI(그래픽 사용자 인터페이스) 에이전트가 증가하면서 디지털 플랫폼들이 이를 탐지하려는 대응책을 강화하고 있습니다. 기존 연구들은 에이전트의 유용성과 견고성에 초점을 맞춰왔으나, 탐지 회피(anti-detection) 능력의 중요성을 간과해왔습니다. 이 연구는 인간 중심 생태계에서 AI 에이전트가 생존하기 위해 '인간화(Humanization)' 능력을 갖춰야 한다고 주장합니다. 연구팀은 '화면 위의 튜링 테스트(Turing Test on Screen)'라는 개념을 제시하며, 탐지기와 에이전트 간의 상호작용을 최소-최대 최적화 문제로 형식화했습니다. 고충실도의 모바일 상호작용 데이터셋을 새롭게 구축하여 에이전트의 인간화 성능을 벤치마킹합니다. 이 연구는 AI 에이전트의 진정한 실용성을 평가하는 새로운 기준을 제시한다는 점에서 의의가 있으나, 현재 데이터셋의 규모와 다양한 플랫폼 커버리지 측면에서 제한이 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "As autonomous GUI agents proliferate, digital platforms have intensified countermeasures to detect them, yet existing research prioritizes utility and robustness over the critical anti-detection capability. This study argues that AI agents must develop \"humanization\" capabilities to survive in human-centric digital ecosystems. The researchers introduce the \"Turing Test on Screen,\" formally modeling interactions between a detector and an agent as a MinMax optimization problem aimed at minimizing behavioral divergence. They collect a novel high-fidelity dataset of mobile interactions to benchmark agents' humanization performance. This work establishes a new evaluation standard for assessing AI agents' practical viability and highlights the underexplored dimension of anti-detection in autonomous systems. However, limitations include potentially limited dataset scale and coverage of diverse platforms, which may constrain the generalizability of findings across different digital environments.\n\n##",
+      "keyPoints": [
+        "**AI 에이전트의 새로운 평가 기준**: 기존의 유용성(utility) 중심 평가에서 벗어나 '인간처럼 행동하기' 능력을 핵심 성능 지표로 제시 / New evaluation criteria for AI agents: shifting from utility-focused metrics to humanization as a core performance indicator",
+        "**MinMax 최적화 프레임워크**: 탐지기와 에이전트 간의 대립 관계를 수학적으로 모델링하여 체계적인 벤치마킹 가능 / MinMax optimization framework: mathematically modeling the adversarial relationship between detectors and agents for systematic benchmarking",
+        "**고충실도 모바일 상호작용 데이터셋 구축**: 실제 모바일 환경에서의 인간 행동 데이터를 수집하여 에이전트 학습용 기준 제공 / High-fidelity mobile interaction dataset: collecting real-world mobile behavior data as a gold standard for training humanized agents",
+        "**현실 세계의 AI 에이전트 생존성 문제**: 단순히 작동하는 것을 넘어 플랫폼 탐지를 회피하며 지속 가능해야 한다는 실용적 관점 강조 / Practical sustainability of real-world AI agents: emphasizing the need for agents to evade platform detection while maintaining functionality beyond mere operational capability"
+      ],
+      "url": "https://arxiv.org/abs/2604.09574",
+      "featured": false
+    },
+    {
+      "id": "2a4d7a10754b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "2시간 전 / 2h ago",
+      "title": "The Diffusion-Attention Connection",
+      "titleKo": "확산과 주의의 연결",
+      "summary": "arXiv:2604.09560v1 Announce Type: new Abstract: Transformers, diffusion-maps, and magnetic Laplacians are usually treated as separate tools; we show they are all different regimes of a single Markov geometry built from pre-softmax query-scores. We define a QK \"bidivergence\" whose exponentiated and normalized forms yield attention, diffusion-maps, and magnetic diffusion. And use product of experts and Schr\\\"odinger-bridges to connect and organize them into equilibrium, nonequilibrium steady-state, and driven dynamics.",
+      "aiSummary": "This theoretical research demonstrates that three major machine learning techniques—Transformers, Diffusion Maps, and Magnetic Laplacians—are actually different manifestations of a single Markov geometry built from pre-softmax query-key scores. The researchers defined a new concept called \"QK bidivergence\" and mathematically proved that its exponentiated and normalized forms yield attention mechanisms, diffusion maps, and magnetic diffusion respectively. Using the product of experts and Schrödinger bridges, they systematically organized these techniques into three dynamic regimes: equilibrium, nonequilibrium steady-state, and driven dynamics. The significance of this work lies in providing a unified mathematical foundation for seemingly disparate machine learning techniques, offering deeper theoretical understanding and paving the way for future algorithm development. However, as a theoretical contribution, its practical impact on real-world performance requires further empirical validation.\n\n##",
+      "aiSummaryKo": "본 연구는 머신러닝의 세 가지 주요 기술인 트랜스포머(Transformer), 확산 맵(Diffusion Maps), 자기 라플라시안(Magnetic Laplacian)이 사실상 동일한 마르코프 기하학의 다른 표현 형태임을 보여주는 이론적 연구입니다. 연구팀은 쿼리-키 점수(Query-Key scores)를 기반으로 \"QK 양발산(bidivergence)\"이라는 새로운 개념을 정의하고, 이를 지수화 및 정규화하면 어텐션, 확산 맵, 자기 확산이 모두 도출됨을 수학적으로 증명했습니다. 전문가의 곱(Product of Experts)과 슈뢰딩거 다리(Schrödinger Bridges) 개념을 활용하여 이들 기술을 평형, 비평형 정상상태, 구동 동역학으로 체계적으로 조직화했습니다. 이 연구의 의의는 서로 다른 머신러닝 기술들의 수학적 기초를 통합함으로써 깊은 이해를 제공하고, 향후 새로운 알고리즘 개발의 이론적 토대를 마련하는 것입니다. 다만 이는 이론적 수준의 연구로, 실제 응용 성능에 미치는 영향은 추가 실증 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This theoretical research demonstrates that three major machine learning techniques—Transformers, Diffusion Maps, and Magnetic Laplacians—are actually different manifestations of a single Markov geometry built from pre-softmax query-key scores. The researchers defined a new concept called \"QK bidivergence\" and mathematically proved that its exponentiated and normalized forms yield attention mechanisms, diffusion maps, and magnetic diffusion respectively. Using the product of experts and Schrödinger bridges, they systematically organized these techniques into three dynamic regimes: equilibrium, nonequilibrium steady-state, and driven dynamics. The significance of this work lies in providing a unified mathematical foundation for seemingly disparate machine learning techniques, offering deeper theoretical understanding and paving the way for future algorithm development. However, as a theoretical contribution, its practical impact on real-world performance requires further empirical validation.\n\n##",
+      "keyPoints": [
+        "**개념적 통합** / Conceptual Unification",
+        "**QK 양발산의 도입** / Introduction of QK Bidivergence",
+        "키 점수 기반의 새로운 수학적 개념이 다양한 머신러닝 메커니즘을 연결하는 핵심 도구 역할",
+        "key scores serves as a key tool connecting various machine learning mechanisms."
+      ],
+      "url": "https://arxiv.org/abs/2604.09560",
+      "featured": false
+    },
+    {
+      "id": "2a2166628ce0",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "2시간 전 / 2h ago",
+      "title": "Fairboard: a quantitative framework for equity assessment of healthcare models",
+      "titleKo": "공정성 측정판: 의료 모델의 형평성 평가를 위한 정량적 프레임워크",
+      "summary": "arXiv:2604.09656v1 Announce Type: new Abstract: Despite there now being more than 1,000 FDA-authorised AI medical devices, formal equity assessments -- whether model performance is uniform across patient subgroups -- are rare. Here, we evaluate the equity of 18 open-source brain tumour segmentation models across 648 glioma patients from two independent datasets (n = 11,664 model inferences) along distinct univariate, Bayesian multivariate, spatial, and representational dimensions. We find that patient identity consistently explains more performance variance than model choice, with clinical fac",
+      "aiSummary": "Despite the existence of over 1,000 FDA-authorized AI medical devices, formal equity assessments to determine whether model performance is uniform across different patient populations remain rare. This study evaluated the equity of 18 open-source brain tumor segmentation models across 648 glioma patients from two independent datasets, analyzing a total of 11,664 model inferences. The researchers conducted evaluations across multiple dimensions: univariate, Bayesian multivariate, spatial, and representational perspectives. A key finding is that patient identity consistently explains more performance variance than model choice, with clinical factors playing significant roles. The study introduces Fairboard, a quantitative framework for equity assessment of healthcare AI models, which could standardize fairness validation in future AI medical device development. However, the research is limited to brain tumor segmentation models, necessitating validation across other medical domains and disease areas.\n\n##",
+      "aiSummaryKo": "의료 AI 기술의 발전으로 1,000개 이상의 FDA 승인 AI 의료기기가 존재하지만, 서로 다른 환자 집단에서 모델의 성능이 균등한지 평가하는 공식적인 공평성 검사는 거의 이루어지지 않고 있습니다. 이번 연구는 뇌종양 분할 AI 18개 모델의 공평성을 평가하기 위해 두 개의 독립적인 데이터베이스에서 648명의 신경교종 환자 데이터를 수집하여 총 11,664개의 모델 예측을 분석했습니다. 연구진은 일변량, 베이지안 다변량, 공간적, 표현 차원 등 다양한 관점에서 평가를 수행했습니다. 주요 발견은 모델 선택보다 환자의 개인적 특성이 성능 편차를 더 크게 설명한다는 것이며, 임상적 요인들이 중요한 역할을 한다는 점입니다. 이 연구는 의료 AI의 공평성 평가를 위한 정량적 프레임워크(Fairboard)를 제시하여 향후 AI 의료기기 개발 시 공평성 검증의 표준화를 이룰 수 있는 의의가 있습니다. 다만 이 연구는 뇌종양 분할 모델에 국한되었으므로, 다른 의료 영역과 질병에서도 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Despite the existence of over 1,000 FDA-authorized AI medical devices, formal equity assessments to determine whether model performance is uniform across different patient populations remain rare. This study evaluated the equity of 18 open-source brain tumor segmentation models across 648 glioma patients from two independent datasets, analyzing a total of 11,664 model inferences. The researchers conducted evaluations across multiple dimensions: univariate, Bayesian multivariate, spatial, and representational perspectives. A key finding is that patient identity consistently explains more performance variance than model choice, with clinical factors playing significant roles. The study introduces Fairboard, a quantitative framework for equity assessment of healthcare AI models, which could standardize fairness validation in future AI medical device development. However, the research is limited to brain tumor segmentation models, necessitating validation across other medical domains and disease areas.\n\n##",
+      "keyPoints": [
+        "**공평성 평가의 부재** / Absence of Formal Equity Assessment: 1,000개 이상의 FDA 승인 AI 의료기기 중 정식 공평성 평가가 거의 없음 / Formal equity assessments are rare despite 1,000+ FDA-authorized AI medical devices",
+        "**환자 특성의 우월성** / Patient Identity as Primary Factor: 모델 선택보다 환자의 개인적 특성이 성능 편차를 더 크게 설명 / Patient identity explains more performance variance than model choice itself",
+        "**Fairboard 프레임워크 도입** / Introduction of Fairboard Framework: 다양한 차원(일변량, 베이지안 다변량, 공간적, 표현적)에서 의료 AI의 공평성을 정량화하는 표준화된 평가 도구 / Introduces quantitative framework for standardized equity assessment across multiple analytical dimensions",
+        "**임상적 검증 필요성** / Need for Clinical Validation: 뇌종양 분할 영역에서 개발된 프레임워크가 다른 의료 분야와 질병으로 확대 적용되어야 함 / Framework developed for brain tumor segmentation requires validation across other medical domains and diseases"
+      ],
+      "url": "https://arxiv.org/abs/2604.09656",
+      "featured": false
+    },
+    {
+      "id": "362ea24b63d3",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "2시간 전 / 2h ago",
+      "title": "Deliberative Alignment is Deep, but Uncertainty Remains: Inference time safety improvement in reasoning via attribution of unsafe behavior to base model",
+      "titleKo": "심층적인 숙고적 정렬이지만 불확실성은 남아있다: 기본 모델에 대한 불안전한 행동 귀속을 통한 추론 시 안전성 개선",
+      "summary": "arXiv:2604.09665v1 Announce Type: new Abstract: While the wide adoption of refusal training in large language models (LLMs) has showcased improvements in model safety, recent works have highlighted shortcomings due to the shallow nature of these alignment methods. To this end, the work on Deliberative alignment proposed distilling reasoning capabilities from stronger reasoning models, thereby instilling deeper safety in LLMs. In this work, we study the impact of deliberative alignment in language models. First, we show that despite being larger in model size and stronger in safety capability, ",
+      "aiSummary": "This research examines safety mechanisms in large language models (LLMs). While traditional refusal training has shown some improvements in model safety, recent studies indicate these alignment methods are superficial. To address this limitation, \"Deliberative Alignment\" was proposed—a method that distills reasoning capabilities from stronger reasoning models to instill deeper safety in LLMs. This study investigates how deliberative alignment affects language model safety by attributing unsafe behavior to the base model during inference. The research demonstrates that despite larger model size and stronger safety capabilities, certain limitations persist in this approach. The significance of this work lies in providing a deeper understanding of LLM safety alignment mechanisms and potentially contributing to developing more robust safety systems. However, the research remains incomplete with considerable uncertainties, indicating that further validation is necessary.\n\n##",
+      "aiSummaryKo": "이 연구는 대형언어모델(LLM)의 안전성 확보 방식에 관한 것입니다. 기존 거부 훈련(refusal training)은 표면적 수준의 안전 정렬만 제공하는 문제가 있었고, 이를 개선하기 위해 '숙고적 정렬(Deliberative Alignment)' 방식이 제안되었습니다. 이 방법은 더 강력한 추론 모델의 추론 능력을 증류하여 언어모델에 더 깊은 수준의 안전성을 주입합니다. 연구팀은 추론 시간에 불안전한 행동을 기본 모델에 귀속시킴으로써 안전성 개선을 시도했습니다. 연구 결과는 모델 크기가 더 크고 안전 능력이 더 강하더라도 특정 한계가 존재함을 보여줍니다. 이 연구의 의의는 LLM의 안전성 정렬 메커니즘을 더 깊이 있게 이해하는 것이며, 향후 더욱 견고한 안전 시스템 개발에 기여할 수 있습니다. 다만 연구는 아직 진행 중이며 불확실성이 남아있어 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research examines safety mechanisms in large language models (LLMs). While traditional refusal training has shown some improvements in model safety, recent studies indicate these alignment methods are superficial. To address this limitation, \"Deliberative Alignment\" was proposed—a method that distills reasoning capabilities from stronger reasoning models to instill deeper safety in LLMs. This study investigates how deliberative alignment affects language model safety by attributing unsafe behavior to the base model during inference. The research demonstrates that despite larger model size and stronger safety capabilities, certain limitations persist in this approach. The significance of this work lies in providing a deeper understanding of LLM safety alignment mechanisms and potentially contributing to developing more robust safety systems. However, the research remains incomplete with considerable uncertainties, indicating that further validation is necessary.\n\n##",
+      "keyPoints": [
+        "**기존 방식의 한계**: 거부 훈련(Refusal Training)은 표면적이고 얕은 수준의 안전 정렬만 제공 / Existing refusal training methods provide only shallow, superficial safety alignment",
+        "**숙고적 정렬의 제안**: 강력한 추론 모델에서 추론 능력을 증류하여 더 깊은 안전성 주입 / Deliberative Alignment distills reasoning from stronger models to embed deeper safety",
+        "**추론 시간 개선 기법**: 추론 과정에서 불안전한 행동을 기본 모델에 귀속시켜 안전성 향상 시도 / Inference-time safety improvement through attribution of unsafe behavior to base models",
+        "**불완전성과 불확실성**: 모델 크기와 안전 능력 향상에도 불구하고 한계 존재하며 추가 연구 필요 / Uncertainties remain despite improvements, indicating need for further research and validation"
+      ],
+      "url": "https://arxiv.org/abs/2604.09665",
+      "featured": false
+    },
+    {
+      "id": "3a3eef23f508",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "2시간 전 / 2h ago",
+      "title": "Human-like Working Memory Interference in Large Language Models",
+      "titleKo": "대형 언어 모델의 인간과 유사한 작업 기억 간섭",
+      "summary": "arXiv:2604.09670v1 Announce Type: new Abstract: Intelligent systems must maintain and manipulate task-relevant information online to adapt to dynamic environments and changing goals. This capacity, known as working memory, is fundamental to human reasoning and intelligence. Despite having on the order of 100 billion neurons, both biological and artificial systems exhibit limitations in working memory. This raises a key question: why do large language models (LLMs) show such limitations, given that transformers have full access to prior context through attention? We find that although a two-lay",
+      "aiSummary": "This study investigates why large language models (LLMs) exhibit human-like working memory limitations despite having approximately 100 billion neurons and full contextual access through attention mechanisms. Working memory—the capacity to maintain and manipulate task-relevant information for reasoning—is fundamental to intelligence in both biological and artificial systems, yet both show remarkable limitations. Researchers conducted experiments on two-layer transformer models to examine whether LLM limitations stem from architectural constraints or information processing bottlenecks. The findings revealed that LLMs demonstrate working memory interference patterns remarkably similar to those observed in human cognition. This discovery suggests that cognitive limitations in LLMs may reflect fundamental principles of information processing shared with human cognition. However, the study's scope was limited to smaller model architectures, and further validation with larger-scale LLMs is necessary.\n\n##",
+      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)이 인간과 유사한 작업 기억(working memory) 제한을 보이는 이유를 규명하기 위해 수행되었습니다. 인간의 뇌와 마찬가지로 약 1,000억 개의 뉴런을 가진 LLM도 동적 환경에 적응하기 위해 관련 정보를 유지하고 조작해야 하는데, 이러한 기능이 제한적입니다. 연구팀은 트랜스포머 아키텍처가 이전 맥락에 완전히 접근할 수 있음에도 불구하고 왜 LLM이 작업 기억 한계를 보이는지 조사했습니다. 2계층 모델을 대상으로 한 실험 결과, LLM은 인간과 유사한 패턴의 작업 기억 간섭 현상(간섭 효과)을 나타냈습니다. 이 발견은 LLM의 인지적 특성이 인간의 인지 구조와 근본적으로 유사할 수 있음을 시사합니다. 다만 연구는 제한된 모델 규모로 수행되었으며, 더 큰 규모의 LLM에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigates why large language models (LLMs) exhibit human-like working memory limitations despite having approximately 100 billion neurons and full contextual access through attention mechanisms. Working memory—the capacity to maintain and manipulate task-relevant information for reasoning—is fundamental to intelligence in both biological and artificial systems, yet both show remarkable limitations. Researchers conducted experiments on two-layer transformer models to examine whether LLM limitations stem from architectural constraints or information processing bottlenecks. The findings revealed that LLMs demonstrate working memory interference patterns remarkably similar to those observed in human cognition. This discovery suggests that cognitive limitations in LLMs may reflect fundamental principles of information processing shared with human cognition. However, the study's scope was limited to smaller model architectures, and further validation with larger-scale LLMs is necessary.\n\n##",
+      "keyPoints": [
+        "**작업 기억의 보편적 제한** / Universal limitation of working memory: 인간과 LLM 모두 신경원 개수에 관계없이 정보 처리 용량에 제약이 존재함을 보여줌 / Both humans and LLMs show working memory constraints despite substantial neural capacity",
+        "**인간과 유사한 간섭 현상** / Human-like interference patterns: LLM이 인간과 동일한 유형의 작업 기억 간섭(interference effect)을 나타내, 인지 구조의 유사성을 시사 / LLMs exhibit interference effects identical to human patterns, suggesting shared cognitive mechanisms",
+        "**아키텍처의 역설** / Architectural paradox: 트랜스포머의 주의 메커니즘이 모든 이전 정보에 접근 가능함에도 실제로는 작업 기억 제약이 발생함 / Despite attention mechanisms providing full contextual access, practical working memory limitations emerge",
+        "**인지과학과 AI의 수렴성** / Convergence of cognitive science and AI: 인간 인지의 제약이 LLM의 설계 결함이 아닌 정보 처리의 근본적 원리일 가능성을 제시 / Suggests human cognitive limitations may reflect fundamental information processing principles rather than design flaws in AI"
+      ],
+      "url": "https://arxiv.org/abs/2604.09670",
+      "featured": false
+    },
+    {
+      "id": "0b0f4d5593ad",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "2시간 전 / 2h ago",
+      "title": "The Rise and Fall of $G$ in AGI",
+      "titleKo": "",
+      "summary": "arXiv:2604.09911v1 Announce Type: new Abstract: In the psychological literature the term `general intelligence' describes correlations between abilities and not simply the number of abilities. This paper connects Spearman's $g$-factor from psychometrics, measuring a positive manifold, to the implicit ``$G$-factor'' in claims about artificial general intelligence (AGI) performance on temporally structured benchmarks. By treating LLM benchmark batteries as cognitive test batteries and model releases as subjects, principal component analysis is applied to a models $\\times$ benchmarks $\\times$ tim",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.09911",
+      "featured": false
+    },
+    {
+      "id": "16c8f521d053",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "2시간 전 / 2h ago",
+      "title": "Astrocytic resource diffusion stabilizes persistent activity in neural fields",
+      "titleKo": "",
+      "summary": "arXiv:2604.10036v1 Announce Type: new Abstract: Persistent neural activity underlying working memory requires sustained synaptic transmission, yet the metabolic and neurotransmitter support provided by astrocyte networks is largely absent from spatially extended neural circuit models. We introduce a coupled astrocyte-neural field model in which synaptic efficacy is regulated by depletion and recovery of a conserved resource pool recycled and spatially redistributed through diffusively coupled astrocytes. We obtain explicit stationary bump profiles and self-consistency conditions for bump width",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.10036",
+      "featured": false
+    },
+    {
+      "id": "00d37269aa13",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "2시간 전 / 2h ago",
+      "title": "Relaxing in Warped Spaces: Generalized Hierarchical and Modular Dynamical Neural Network",
+      "titleKo": "",
+      "summary": "arXiv:2604.10606v1 Announce Type: new Abstract: We propose a dynamical neural network model with a hierarchical and modular structure. The network architecture can be derived by minimizing an energy function that is originally designed based on two kinds of neurons with quite different time constants. It has multiple subspaces that are spanned by neural parameters employed in the energy function, and adjacent subspaces are related to each other with a layered internetwork. Each internetwork further consists of a pair of a forward subnet and a backward one, and signals flowing through these sub",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.10606",
+      "featured": false
+    },
+    {
+      "id": "0523099f0222",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "2시간 전 / 2h ago",
+      "title": "Probabilistic Prediction of Neural Dynamics via Autoregressive Flow Matching",
+      "titleKo": "",
+      "summary": "arXiv:2604.11178v1 Announce Type: new Abstract: Forecasting neural activity in response to naturalistic stimuli remains a key challenge for understanding brain dynamics and enabling downstream neurotechnological applications. Here, we introduce a generative forecasting framework for modeling neural dynamics based on autoregressive flow matching (AFM). Building on recent advances in transport-based generative modeling, our approach probabilistically predicts neural responses at scale from multimodal sensory input. Specifically, we learn the conditional distribution of future neural activity giv",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.11178",
+      "featured": false
+    },
     {
       "id": "0f538dcb10e5",
       "tag": "ai",
@@ -21,7 +253,7 @@
         "**평가 기준의 재정의 필요** / Need for Stricter Evaluation Standards"
       ],
       "url": "https://arxiv.org/abs/2604.08571",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b20161182e50",
@@ -168,253 +400,6 @@
         "**사회 분극화 위험** / Risk of social polarization: 이러한 악순환이 지역사회 내 집단 간 신뢰 붕괴와 정책 합의 불가능으로 이어질 수 있음"
       ],
       "url": "https://www.psypost.org/trust-and-turbines-how-conspiratorial-thinking-and-wind-farm-opposition-fuel-eac/",
-      "featured": false
-    },
-    {
-      "id": "c1d7d1e43287",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "8시간 전 / 8h ago",
-      "title": "What It’s Like to Be…an Aerospace Engineer",
-      "titleKo": "항공우주공학자의 삶은 어떨까요",
-      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
-      "aiSummary": "This article features a podcast episode interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing her work in space exploration. The research background focuses on understanding the Mars Perseverance rover landing process and aerospace engineering challenges in Mars exploration. Part of the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath, this episode employs an in-depth interview approach to provide insights into a real space engineer's professional experience. Key topics include the \"seven minutes of terror\" phenomenon during Mars landing, hundreds of engineering trade-off decisions, and microbial management procedures in clean rooms. This article has significance in helping the general public understand the complex technical processes of space exploration and the real-world experiences of field engineers. However, as a podcast-based content, it is limited by its focus on personal anecdotes rather than rigorous scientific research findings.",
-      "aiSummaryKo": "이 기사는 NASA 제트추진연구소의 항공우주공학자 스와티 모한과의 인터뷰를 다룬 팟캐스트 에피소드이다. 연구 배경은 화성 탐사 로버인 퍼서비어런스의 착륙 과정과 화성에서의 우주탐사 활동을 이해하는 것이다. 이 에피소드는 베스트셀러 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 시리즈의 일부로, 실제 우주항공 엔지니어의 업무 경험을 심층 인터뷰하는 방식으로 구성되었다. 핵심 내용으로는 화성 착륙의 \"7분의 공포(seven minutes of terror)\" 현상과 수백 가지의 엔지니어링 트레이드오프 결정 과정, 그리고 클린룸에서의 미생물 관리 절차가 포함된다. 이 기사는 일반 대중이 우주탐사의 복잡한 기술적 과정과 현장 엔지니어의 실제 경험을 이해하는 데 의의가 있다. 다만, 이 팟캐스트는 정보 전달 형식이므로 엄밀한 과학적 연구 결과보다는 개인 경험담 위주로 구성되어 있다는 한계가 있다.",
-      "aiSummaryEn": "This article features a podcast episode interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing her work in space exploration. The research background focuses on understanding the Mars Perseverance rover landing process and aerospace engineering challenges in Mars exploration. Part of the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath, this episode employs an in-depth interview approach to provide insights into a real space engineer's professional experience. Key topics include the \"seven minutes of terror\" phenomenon during Mars landing, hundreds of engineering trade-off decisions, and microbial management procedures in clean rooms. This article has significance in helping the general public understand the complex technical processes of space exploration and the real-world experiences of field engineers. However, as a podcast-based content, it is limited by its focus on personal anecdotes rather than rigorous scientific research findings.",
-      "keyPoints": [
-        "**화성 착륙의 \"7분의 공포\"** / The \"Seven Minutes of Terror\" during Mars landing - 신호 전달 지연으로 인해 착륙 과정을 실시간으로 제어할 수 없는 우주탐사의 핵심 과제",
-        "**복잡한 엔지니어링 트레이드오프** / Complex Engineering Trade-offs - 수백 가지의 설계 결정 과정을 통해 우주선의 성능과 안전성을 동시에 확보해야 하는 엔지니어링의 현실",
-        "**클린룸 미생물 관리** / Microbial Control in Clean Rooms - 우주탐사에서 지구 미생물의 오염을 최소화하기 위한 엄격한 환경 제어의 중요성",
-        "**현장 전문가의 경험 공유** / Field Expert Experience Sharing - 대중 커뮤니케이션을 통해 우주항공 엔지니어의 실제 업무와 도전 과제를 일반인에게 알리는 과학 커뮤니케이션의 역할"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "8일 전 / 8d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "This article presents a philosophical and biological perspective that humans are not independent individuals but deeply interconnected with surrounding living beings. Using the breathing process as an example, it illustrates the interdependent relationship between humans and plants through the exchange of oxygen and carbon dioxide. The article is based on the biological fact that we constantly exchange matter with surrounding organisms every moment, and that the human body hosts diverse microorganisms. This redefines the traditional concept of \"individuality\" and suggests viewing humans as part of an ecosystem rather than separate from the world. The limitation of this article is the absence of specific research data, participant numbers, or quantitative results, as it remains primarily at the philosophical and conceptual level of discussion.\n\n##",
-      "aiSummaryKo": "이 기사는 인간이 독립적인 개체가 아니라 주변 생물과 깊은 상호연결 관계에 있다는 철학적·생물학적 관점을 제시한다. 호흡 과정을 예시로 들어 인간과 식물이 산소와 이산화탄소를 교환하는 상호의존적 관계를 설명한다. 연구 내용은 우리가 매 순간 주변 생물들과 물질을 교환하며 살아가고 있으며, 인간의 몸이 다양한 미생물을 호스팅하고 있다는 생물학적 사실에 기반한다. 이는 전통적인 '개인'이라는 개념을 재정의하고, 인간을 세계와 완전히 분리된 존재가 아닌 생태계의 일부로 봐야 한다는 의의를 가진다. 기사의 한계는 구체적인 연구 데이터나 참가자 수, 정량적 결과가 제시되지 않은 점이며, 주로 철학적·개념적 논의에 머물러 있다는 점이다.\n\n##",
-      "aiSummaryEn": "This article presents a philosophical and biological perspective that humans are not independent individuals but deeply interconnected with surrounding living beings. Using the breathing process as an example, it illustrates the interdependent relationship between humans and plants through the exchange of oxygen and carbon dioxide. The article is based on the biological fact that we constantly exchange matter with surrounding organisms every moment, and that the human body hosts diverse microorganisms. This redefines the traditional concept of \"individuality\" and suggests viewing humans as part of an ecosystem rather than separate from the world. The limitation of this article is the absence of specific research data, participant numbers, or quantitative results, as it remains primarily at the philosophical and conceptual level of discussion.\n\n##",
-      "keyPoints": [
-        "**상호호흡 순환** / Reciprocal Breathing Cycle: 인간이 배출하는 이산화탄소는 식물의 광합성에 필수이고, 식물이 배출하는 산소는 인간이 생존에 필요로 하는 완벽한 상호의존 시스템",
-        "**개체성의 재정의** / Redefinition of Individuality: \"우리는 결코 개인이 아니었다(We Have Never Been Individuals)\"는 명제로 독립적 개체라는 전통적 개념의 해체",
-        "**미생물 호스팅** / Microbial Hosting: 인간의 신체가 remarkable diversity(주목할 만한 다양성)의 미생물을 포함하고 있어 다중 유기체 체계임을 시사",
-        "**생태적 몸담음** / Ecological Immersion: 인간이 세계에 몸담겨 있고 동시에 세계가 인간 내부에 몸담겨 있는 상호침투적 관계성의 강조"
-      ],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "1f2d0b54d063",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "What It’s Like to Be…a Diplomat",
-      "titleKo": "어떤 삶일까…외교관의 삶",
-      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
-      "aiSummary": "This article features a podcast interview with John Johnson, a retired US diplomat who served in the Foreign Service for over twenty years. The episode, hosted by bestselling author Dan Heath in his \"What It's Like to Be...\" series, explores the real-world experiences of diplomatic work. The content covers crisis management situations including managing tensions after an ambassador's hint at preemptive strikes against Russia, delivering demarches in multiple languages, and surviving the emergency evacuation of the Kabul embassy. The episode explains whether diplomats still use \"cables\" for official communications in the 21st century and clarifies diplomatic terminology. Through personal anecdotes, the podcast provides general audiences with insight into the actual work and complexity of diplomatic service, making the profession more accessible and understandable.",
-      "aiSummaryKo": "이 기사는 미국 국무부에서 20년 이상 근무한 퇴직 외교관 존 존슨과의 인터뷰를 다루고 있습니다. 기사는 팟캐스트 형식으로 진행되며, 실제 외교관의 일상과 위기 상황 대응 경험을 조명합니다. 주요 내용으로는 대사의 러시아 선제공격 암시 이후 위기 관리, 다국어 외교담장 전달(demarches), 카불 대사관 긴급 철수 등 실제 사례를 포함합니다. 현대 21세기에도 외교관들이 여전히 \"케이블(cables)\"을 통해 공식 통신을 하는지, 외교용어의 의미 등을 설명합니다. 베스트셀러 저자 댄 히스(Dan Heath)가 진행하는 \"What It's Like to Be...\" 팟캐스트 시리즈의 일부로, 일반인이 외교 업무의 실제 모습과 복잡성을 이해할 수 있도록 구성되어 있습니다.",
-      "aiSummaryEn": "This article features a podcast interview with John Johnson, a retired US diplomat who served in the Foreign Service for over twenty years. The episode, hosted by bestselling author Dan Heath in his \"What It's Like to Be...\" series, explores the real-world experiences of diplomatic work. The content covers crisis management situations including managing tensions after an ambassador's hint at preemptive strikes against Russia, delivering demarches in multiple languages, and surviving the emergency evacuation of the Kabul embassy. The episode explains whether diplomats still use \"cables\" for official communications in the 21st century and clarifies diplomatic terminology. Through personal anecdotes, the podcast provides general audiences with insight into the actual work and complexity of diplomatic service, making the profession more accessible and understandable.",
-      "keyPoints": [
-        "외교관의 실제 업무 / Actual diplomatic work includes crisis management, multilingual communication, and emergency operations",
-        "현대 외교 통신 수단 / Modern diplomacy still uses traditional \"cables\" as official communication channels alongside contemporary methods",
-        "고위기 상황 대응 경험 / Diplomats must manage critical situations such as preventing military escalation and coordinating emergency evacuations",
-        "일반인을 위한 외교 교육 / Podcasts and interviews help the public understand the complex realities of diplomatic work beyond stereotypes"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "a3d5cb0c4033",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "22일 전 / 22d ago",
-      "title": "‘Looking Backward’ to the Future",
-      "titleKo": "",
-      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "518d379c2f15",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Your brain can trick you into liking artificial sweeteners",
-      "titleKo": "당신의 뇌는 인공 감미료를 좋아하도록 당신을 속일 수 있습니다",
-      "summary": "Your brain might be quietly deciding what tastes good before you even take a sip. Researchers found that simply changing what people thought they were drinking—sugar or artificial sweetener—could dramatically shift how much they enjoyed it. When participants believed a drink had artificial sweeteners, real sugar tasted less enjoyable, but when they expected sugar, even artificially sweetened drinks became more pleasurable.",
-      "aiSummary": "This study investigated how psychological expectations about beverages dramatically influence taste enjoyment, sometimes more than actual flavor. Researchers gave participants identical drinks but told one group the drink contained sugar while telling another group it contained artificial sweetener, providing false information to one group. Remarkably, participants who believed they were drinking sugar-sweetened beverages rated the same drinks as significantly more pleasurable than those who thought they were drinking artificially sweetened versions. This demonstrates that the brain prioritizes psychological expectations over actual taste receptor signals. These findings have important implications for marketing strategies, consumer acceptance of health foods, and understanding the subjective nature of sensory experience. However, the study focused only on immediate taste evaluation, and it remains unclear whether psychological expectation effects persist with repeated exposure.\n\n##",
-      "aiSummaryKo": "본 연구는 음료에 대한 실제 맛보다 사람들의 심리적 기대감이 맛의 즐거움에 얼마나 큰 영향을 미치는지를 조사했습니다. 연구팀은 참가자들에게 동일한 음료를 제공하면서 일부는 \"설탕 함유\"라고, 다른 그룹은 \"인공 감미료 함유\"라고 잘못된 정보를 제시했습니다. 놀랍게도 설탕 음료라고 믿은 사람들은 인공 감미료라고 생각한 사람들보다 같은 음료를 훨씬 더 맛있게 평가했습니다. 이는 뇌가 실제 맛 수용체의 신호보다 심리적 기대를 우선시한다는 것을 시사합니다. 이 연구는 마케팅, 건강 식품 수용성, 그리고 감각 경험이 얼마나 주관적인지를 이해하는 데 중요한 의미가 있습니다. 다만 이 연구는 단기적 맛 평가에만 초점을 맞췄으며, 반복 노출 시 심리적 기대의 효과가 지속되는지는 불명확합니다.\n\n##",
-      "aiSummaryEn": "This study investigated how psychological expectations about beverages dramatically influence taste enjoyment, sometimes more than actual flavor. Researchers gave participants identical drinks but told one group the drink contained sugar while telling another group it contained artificial sweetener, providing false information to one group. Remarkably, participants who believed they were drinking sugar-sweetened beverages rated the same drinks as significantly more pleasurable than those who thought they were drinking artificially sweetened versions. This demonstrates that the brain prioritizes psychological expectations over actual taste receptor signals. These findings have important implications for marketing strategies, consumer acceptance of health foods, and understanding the subjective nature of sensory experience. However, the study focused only on immediate taste evaluation, and it remains unclear whether psychological expectation effects persist with repeated exposure.\n\n##",
-      "keyPoints": [
-        "**맛의 주관성**: 실제 맛보다 뇌의 심리적 기대감이 음료 선호도를 더 강력하게 결정 / **Subjectivity of Taste**: Psychological expectations in the brain determine beverage preference more powerfully than actual flavor",
-        "**위약 효과(Placebo Effect) 적용**: 음식 산업에서 기대감 조성이 소비자 만족도에 직접적 영향 / **Placebo Effect in Food Industry**: Creating consumer expectations directly impacts satisfaction levels",
-        "**마케팅의 심리학적 중요성**: 제품 표시, 브랜딩, 광고가 실제 제품 성분만큼 중요할 수 있음 / **Psychological Importance of Marketing**: Product labeling, branding, and advertising can be as important as actual product ingredients",
-        "**뇌의 예측 처리 능력**: 뇌는 실시간 감각 정보뿐 아니라 사전 정보와 기대를 종합하여 경험을 구성 / **Brain's Predictive Processing**: The brain constructs experiences by integrating prior information and expectations, not just real-time sensory signals"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
-      "featured": false
-    },
-    {
-      "id": "f8459e8c0d1e",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Advanced meditation techniques linked to younger brain age during sleep",
-      "titleKo": "숙면 중 더 젊은 뇌 나이와 연관된 고급 명상 기법",
-      "summary": "People who regularly practice advanced meditation techniques exhibit brain activity patterns during sleep that appear noticeably younger than their actual age. Researchers suggest these habits might help protect against cognitive decline, though questions about exact causes remain.",
-      "aiSummary": "A recent study reveals that individuals who regularly practice advanced meditation techniques demonstrate brain activity patterns during sleep that appear significantly younger than their chronological age. Researchers analyzed brain activity data and found that meditators' brain age during sleep was notably lower than their actual age, suggesting potential protective effects against cognitive decline. This research highlights the possibility that meditation, a non-invasive practice, could help maintain brain health and prevent age-related cognitive deterioration. However, the exact neurological mechanisms by which meditation slows brain aging remain unclear and require further investigation. Additionally, the study has limitations regarding specific guidelines on meditation practice intensity and duration needed for optimal benefits. Long-term longitudinal studies are needed to confirm these preliminary findings and establish causal relationships.\n\n##",
-      "aiSummaryKo": "고급 명상 기법을 정기적으로 수련하는 사람들이 수면 중 더 젊은 뇌 활동 패턴을 보인다는 연구 결과가 발표되었습니다. 연구팀은 뇌 활동 데이터를 분석하여 명상 수련자들의 수면 중 뇌 나이가 실제 나이보다 현저히 낮음을 확인했습니다. 이는 명상이 인지 기능 저하를 예방하는 데 도움이 될 수 있음을 시사합니다. 연구의 의의는 명상이라는 비침습적 방법으로 뇌 건강을 유지할 수 있다는 가능성을 제시한 점입니다. 다만 명상이 실제로 뇌 노화를 늦추는 정확한 메커니즘은 아직 밝혀지지 않았으며, 더 많은 장기 추적 연구가 필요합니다. 또한 어떤 수준의 명상 수련이 효과적인지에 대한 구체적인 지침도 부족한 상태입니다.\n\n##",
-      "aiSummaryEn": "A recent study reveals that individuals who regularly practice advanced meditation techniques demonstrate brain activity patterns during sleep that appear significantly younger than their chronological age. Researchers analyzed brain activity data and found that meditators' brain age during sleep was notably lower than their actual age, suggesting potential protective effects against cognitive decline. This research highlights the possibility that meditation, a non-invasive practice, could help maintain brain health and prevent age-related cognitive deterioration. However, the exact neurological mechanisms by which meditation slows brain aging remain unclear and require further investigation. Additionally, the study has limitations regarding specific guidelines on meditation practice intensity and duration needed for optimal benefits. Long-term longitudinal studies are needed to confirm these preliminary findings and establish causal relationships.\n\n##",
-      "keyPoints": [
-        "**명상과 뇌 나이**: 고급 명상 수련자들이 수면 중 실제 나이보다 젊은 뇌 활동 패턴을 나타냄 / Advanced meditators show younger brain activity patterns during sleep compared to their actual age",
-        "**인지 기능 보호**: 명상이 비침습적 방식으로 뇌 건강 유지 및 인지 기능 저하 예방에 도움될 가능성 / Meditation may help preserve cognitive function and prevent age-related mental decline through non-invasive means",
-        "**메커니즘 미규명**: 명상이 뇌 노화를 늦추는 정확한 생물학적 원리는 아직 밝혀지지 않음 / The exact neurological mechanisms explaining how meditation slows brain aging remain undetermined",
-        "**추가 연구 필요**: 효과적인 명상 수련의 구체적 기준 및 장기적 효과를 확인하기 위한 후속 연구 필요 / Further longitudinal research is required to establish specific meditation guidelines and confirm long-term efficacy"
-      ],
-      "url": "https://www.psypost.org/advanced-meditation-techniques-linked-to-younger-brain-age-during-sleep/",
-      "featured": false
-    },
-    {
-      "id": "6e5e9d7ad773",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Even mild opioid use disorder is linked to a significantly higher risk of suicide",
-      "titleKo": "경미한 오피오이드 사용 장애도 자살 위험의 상당한 증가와 연관되어 있다",
-      "summary": "A new study reveals that even mild opioid use disorder drastically increases a person’s risk of suicidal thoughts and attempts. Researchers urge doctors to screen all opioid patients for self-harm, rather than focusing only on severe addiction.",
-      "aiSummary": "A new study demonstrates that even mild opioid use disorder significantly increases suicide risk, contrary to previous assumptions that only severe addiction poses serious mental health dangers. Researchers analyzed data from opioid patients to investigate the relationship between addiction severity and suicidal ideation or attempts. The findings reveal a substantial elevation in suicide risk across all levels of opioid use disorder, not limited to severe cases. Medical professionals are urged to implement universal screening for self-harm and suicidal thoughts in all opioid patients, regardless of addiction severity. This research has important clinical implications for improving mental health monitoring and prevention strategies among individuals taking opioids. However, the study's limitations include lack of detailed information about sample size, participant demographics, and follow-up periods, which limits the generalizability of findings.\n\n##",
-      "aiSummaryKo": "최근 연구에 따르면 가벼운 수준의 오피오이드 사용장애도 자살 위험을 현저히 증가시키는 것으로 나타났다. 오피오이드는 통증 관리를 위해 처방되는 강력한 약물이지만, 의존성 문제가 제기되어 왔다. 연구진은 오피오이드를 복용하는 모든 환자들을 심각한 중독 여부와 관계없이 자해 위험에 대해 선별 검사할 것을 의료진에게 권장하고 있다. 이전에는 심각한 중독 환자만 자살 위험이 높은 것으로 인식되었으나, 본 연구는 가벼운 수준의 사용장애도 주목할 필요가 있음을 보여준다. 이 연구는 오피오이드 복용 환자의 정신건강 관리를 개선하는 데 중요한 의미가 있다. 다만 구체적인 연구 표본 규모, 참가자 특성, 추적 기간 등의 상세한 방법론 정보가 제시되지 않아 연구의 일반화 가능성을 평가하기 어렵다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "A new study demonstrates that even mild opioid use disorder significantly increases suicide risk, contrary to previous assumptions that only severe addiction poses serious mental health dangers. Researchers analyzed data from opioid patients to investigate the relationship between addiction severity and suicidal ideation or attempts. The findings reveal a substantial elevation in suicide risk across all levels of opioid use disorder, not limited to severe cases. Medical professionals are urged to implement universal screening for self-harm and suicidal thoughts in all opioid patients, regardless of addiction severity. This research has important clinical implications for improving mental health monitoring and prevention strategies among individuals taking opioids. However, the study's limitations include lack of detailed information about sample size, participant demographics, and follow-up periods, which limits the generalizability of findings.\n\n##",
-      "keyPoints": [
-        "**가벼운 중독도 위험**: 심각한 중독뿐만 아니라 가벼운 수준의 오피오이드 사용장애도 자살 위험을 크게 증가시킴 / Mild opioid use disorder significantly increases suicide risk, not just severe addiction",
-        "**의료진 선별 권장**: 의사들은 오피오이드 복용 환자 전체를 자해 위험으로부터 보호하기 위해 정신건강 검사를 실시해야 함 / Healthcare providers should screen all opioid patients for self-harm risk, not only severe addiction cases",
-        "**예방 전략 필요**: 오피오이드 처방 시 자살 위험 평가 및 정신건강 모니터링이 필수적인 임상 관행이 되어야 함 / Universal screening for suicidal thoughts and self-harm should become standard clinical practice for opioid users",
-        "**공중보건 관점**: 오피오이드 사용의 신체적 위험뿐만 아니라 정신건강 위험도 함께 관리하는 통합적 접근 필요 / Comprehensive risk management addressing both physical dependence and mental health concerns in opioid treatment"
-      ],
-      "url": "https://www.psypost.org/even-mild-opioid-use-disorder-is-linked-to-a-significantly-higher-risk-of-suicide/",
-      "featured": false
-    },
-    {
-      "id": "33a8b324fee3",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "4시간 전 / 4h ago",
-      "title": "120-year text analysis reveals how society’s view of lawyers’ personalities has shifted",
-      "titleKo": "120년 텍스트 분석으로 드러난 사회의 변하는 변호사상",
-      "summary": "A new text analysis of millions of books reveals how the public image of lawyers has evolved over the past 120 years. While legal professionals are viewed as highly conscientious, they are increasingly seen as lacking in warmth.",
-      "aiSummary": "A new text analysis of millions of books published over 120 years reveals how society's perception of lawyers has evolved over time. Researchers used automated analysis tools to process vast amounts of textual data from digital archives, tracking changes in words used to describe legal professionals. The findings show that lawyers have consistently received high evaluations related to \"conscientiousness\" throughout the past 120 years. However, the public's perception of lawyers' \"warmth\" and emotional approachability has significantly declined over the same period. This suggests that lawyers are increasingly viewed as competent but emotionally distant professionals. This research provides a meaningful example of how social perceptions change longitudinally over extended periods. However, questions remain about whether written descriptions in books fully reflect actual societal attitudes, and cultural and regional differences may not have been adequately captured in the analysis.",
-      "aiSummaryKo": "120년간 출판된 수백만 권의 책을 텍스트 분석한 새로운 연구가 사회가 법조인을 어떻게 인식해왔는지 보여주었다. 연구팀은 디지털 아카이브에 저장된 방대한 양의 텍스트 데이터를 자동화된 분석 도구로 처리하여 법조인을 설명하는 단어들의 변화 추이를 추적했다. 연구 결과, 법조인들은 지난 120년 동안 일관되게 '성실함(conscientious)'과 관련된 높은 평가를 받아온 것으로 나타났다. 그러나 동시에 법조인에 대한 '따뜻함(warmth)'이나 감정적 친근성을 나타내는 이미지는 시간이 지날수록 감소하는 추세를 보였다. 이는 법조인들이 능력 있지만 감정적으로 거리감 있는 전문가 집단으로 점차 인식되고 있음을 의미한다. 이 연구는 사회적 통념이 시간에 따라 어떻게 변화하는지를 장기적으로 추적한 의미 있는 사례를 제공한다. 다만 책에 나타난 표현이 실제 사회의식을 완벽히 반영하는지에 대한 논의가 필요하며, 문화적·지역적 차이는 충분히 반영되지 않았을 수 있다.",
-      "aiSummaryEn": "A new text analysis of millions of books published over 120 years reveals how society's perception of lawyers has evolved over time. Researchers used automated analysis tools to process vast amounts of textual data from digital archives, tracking changes in words used to describe legal professionals. The findings show that lawyers have consistently received high evaluations related to \"conscientiousness\" throughout the past 120 years. However, the public's perception of lawyers' \"warmth\" and emotional approachability has significantly declined over the same period. This suggests that lawyers are increasingly viewed as competent but emotionally distant professionals. This research provides a meaningful example of how social perceptions change longitudinally over extended periods. However, questions remain about whether written descriptions in books fully reflect actual societal attitudes, and cultural and regional differences may not have been adequately captured in the analysis.",
-      "keyPoints": [
-        "**성실함은 지속적으로 높게 평가** / Conscientiousness has remained consistently highly rated over 120 years",
-        "**따뜻함/감정성은 점차 감소** / Perceived warmth and emotional approachability have declined significantly over time",
-        "**대규모 텍스트 분석을 통한 사회적 통념 추적** / Large-scale text analysis method used to track shifts in public perception",
-        "**법조인의 이미지: 능력 있지만 거리감 있는 전문가** / Lawyers increasingly viewed as competent but emotionally distant professionals"
-      ],
-      "url": "https://www.psypost.org/120-year-text-analysis-reveals-how-societys-view-of-lawyers-personalities-has-shifted/",
-      "featured": false
-    },
-    {
-      "id": "7b66ffaa5d14",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Disrupted sleep is the primary pathway linking problematic social media use to reduced wellbeing",
-      "titleKo": "문제적 소셜미디어 사용과 웰빙 감소를 연결하는 주요 경로는 수면 방해이다",
-      "summary": "Compulsive social media habits are closely linked to later symptoms of depression and anxiety, and new research suggests poor sleep is a major factor. Protecting your nightly rest might be key to maintaining your psychological wellbeing.",
-      "aiSummary": "This research investigates the mechanisms by which problematic social media use leads to symptoms of depression and anxiety, suggesting that sleep disruption is a critical mediating factor. Researchers analyzed the relationship between excessive social media habits and reduced psychological wellbeing, finding that poor sleep quality plays a fundamental role in this connection. The findings underscore how crucial adequate nighttime rest is for maintaining mental health. The study indicates that improving sleep hygiene is strategically important in preventing the harmful effects of compulsive social media use on psychological wellbeing. The results suggest that protecting sleep should be a primary intervention strategy for individuals struggling with problematic social media habits. However, the study's specific sample size and detailed experimental design parameters are not provided, suggesting the need for further validation of generalizability.\n\n##",
-      "aiSummaryKo": "본 연구는 문제적 소셜미디어 사용이 우울증과 불안증으로 이어지는 메커니즘을 규명하기 위해 수행되었습니다. 연구자들은 수면 방해가 이 두 조건 사이의 주요 연결 고리일 가능성을 제시했습니다. 연구팀은 소셜미디어 과다 사용 습관과 심리적 웰빙 감소 사이의 관계를 분석했으며, 수면 질의 저하가 이러한 관계에서 핵심적인 역할을 하는 것으로 나타났습니다. 이는 밤 시간의 충분한 휴식이 정신건강 유지에 얼마나 중요한지를 보여줍니다. 연구 결과는 강박적인 소셜미디어 사용의 해로운 영향을 막기 위해서는 수면 위생 개선이 전략적으로 중요함을 시사합니다. 다만, 이 연구의 정확한 참가자 규모와 구체적인 실험 설계 세부 사항이 제시되지 않아 결과의 일반화 가능성에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research investigates the mechanisms by which problematic social media use leads to symptoms of depression and anxiety, suggesting that sleep disruption is a critical mediating factor. Researchers analyzed the relationship between excessive social media habits and reduced psychological wellbeing, finding that poor sleep quality plays a fundamental role in this connection. The findings underscore how crucial adequate nighttime rest is for maintaining mental health. The study indicates that improving sleep hygiene is strategically important in preventing the harmful effects of compulsive social media use on psychological wellbeing. The results suggest that protecting sleep should be a primary intervention strategy for individuals struggling with problematic social media habits. However, the study's specific sample size and detailed experimental design parameters are not provided, suggesting the need for further validation of generalizability.\n\n##",
-      "keyPoints": [
-        "**수면 방해의 중요성** / Sleep disruption as primary pathway: 문제적 소셜미디어 사용과 정신건강 악화 사이의 주요 연결고리가 바로 불충분한 수면입니다. / Poor sleep is the main mechanism linking problematic social media use to reduced wellbeing.",
-        "**심리건강 위험 증가** / Mental health risks: 강박적인 소셜미디어 습관이 우울증과 불안증의 이후 증상 발생과 밀접한 연관이 있습니다. / Compulsive social media habits are closely associated with later symptoms of depression and anxiety.",
-        "**예방적 개입 전략** / Preventive intervention: 심리적 웰빙 유지의 핵심은 충분한 야간 휴식을 보호하고 수면 위생을 개선하는 것입니다. / Protecting nightly rest and improving sleep hygiene is key to maintaining psychological wellbeing.",
-        "**추가 연구 필요** / Need for further research: 구체적인 참가자 수와 실험 설계 세부 정보가 부재하여 결과의 재현성 검증과 다양한 집단에 대한 일반화 가능성 확인이 필요합니다. / Specific sample sizes and detailed methodology information are not provided, necessitating further validation."
-      ],
-      "url": "https://www.psypost.org/disrupted-sleep-is-the-primary-pathway-linking-problematic-social-media-use-to-reduced-wellbeing/",
-      "featured": false
-    },
-    {
-      "id": "39ff72bc0b09",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
-      "titleKo": "과학자들, 알츠하이머병 치료법이 완전히 잘못되었다고 지적",
-      "summary": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. Scientists are now pushing toward multi-pronged strategies, from gene editing to brain-cell rejuvenation and gut health interventions. The goal: stop treating Alzheimer’s as one disease and start tackling it as a complex system.",
-      "aiSummary": "Alzheimer's disease is increasingly recognized as a complex disorder involving intertwined biological factors, aging, and overall health status rather than a single disease entity. Traditional approaches focusing on single-target drug therapies have demonstrated limited efficacy despite some modest therapeutic benefits. Scientists are now pursuing multi-pronged treatment strategies including gene editing, brain-cell rejuvenation, and gut microbiota interventions. This represents a paradigm shift from viewing Alzheimer's as a monolithic disease to understanding it as a complex biological system requiring comprehensive intervention. The multi-faceted approach offers greater potential for developing more effective treatments. However, the complete mechanisms of interaction between various contributing factors remain incompletely understood, representing a significant research limitation.\n\n##",
-      "aiSummaryKo": "알츠하이머병은 단순한 하나의 질병이 아니라 생물학적 요인, 노화, 전반적인 건강 상태가 복잡하게 얽혀 있는 질환이라는 새로운 인식이 대두되고 있습니다. 기존에는 단일 요인을 표적으로 하는 약물 치료에 집중해왔지만, 이러한 접근법은 제한적인 효과만 보여주었습니다. 과학자들은 이제 유전자 편집, 뇌세포 재생, 장내 미생물 건강 개선 등 다각적인 치료 전략을 추구하고 있습니다. 이는 알츠하이머병을 단일 질병으로 보는 기존의 관점에서 벗어나 복잡한 생물학적 시스템으로 접근해야 한다는 패러다임 전환을 의미합니다. 이러한 다중 접근 방식은 보다 효과적인 치료법 개발 가능성을 높입니다. 다만, 각 요인들 간의 상호작용 메커니즘이 완전히 규명되지 않았다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "Alzheimer's disease is increasingly recognized as a complex disorder involving intertwined biological factors, aging, and overall health status rather than a single disease entity. Traditional approaches focusing on single-target drug therapies have demonstrated limited efficacy despite some modest therapeutic benefits. Scientists are now pursuing multi-pronged treatment strategies including gene editing, brain-cell rejuvenation, and gut microbiota interventions. This represents a paradigm shift from viewing Alzheimer's as a monolithic disease to understanding it as a complex biological system requiring comprehensive intervention. The multi-faceted approach offers greater potential for developing more effective treatments. However, the complete mechanisms of interaction between various contributing factors remain incompletely understood, representing a significant research limitation.\n\n##",
-      "keyPoints": [
-        "**기존 치료의 한계** / Limitations of conventional single-target therapy",
-        "factor drug treatments showed only modest benefits",
-        "**질병의 복잡성 인식** / Recognition of disease complexity",
-        "**다중 치료 전략 필요** / Need for multi-pronged approaches"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
-      "featured": false
-    },
-    {
-      "id": "ea6c28f8b419",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
-      "titleKo": "과학자들이 ALS와 치매 뒤에 숨겨진 장내 유발 인자를 발견하다",
-      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
-      "aiSummary": "A groundbreaking study reveals that gut bacteria play a crucial role in triggering ALS and frontotemporal dementia. Researchers discovered that harmful sugars produced by certain microbes activate immune responses that damage the brain, explaining why some genetically at-risk individuals develop these diseases while others do not. In experimental settings, reducing these harmful sugars improved brain health, offering promising possibilities for new treatment approaches. This finding represents a major breakthrough in understanding the mechanisms of neurodegenerative diseases and could potentially lead to preventative therapies. The research highlights the previously underestimated importance of the gut-brain axis in neurological disorders. However, the study is still in early stages and requires clinical trials in human subjects to validate these findings and develop practical treatments.\n\n##",
-      "aiSummaryKo": "루게릭병(ALS)과 전측두엽치매의 발병 원인을 규명하기 위한 연구에서 장내 박테리아가 핵심적인 역할을 한다는 사실이 발견되었다. 연구팀은 유해한 박테리아가 생산하는 특정 당 물질이 뇌를 손상시키는 면역 반응을 촉발한다는 것을 규명했다. 이는 유전적 위험 요인을 가진 사람 중에서도 일부만 질병이 발병하는 이유를 설명해주는 중요한 발견이다. 실험에서 이러한 유해한 당을 감소시켰을 때 뇌 건강이 개선되는 결과를 관찰했으며, 이는 새로운 치료법 개발의 가능성을 시사한다. 이 연구는 신경퇴행성 질환의 발병 메커니즘을 이해하는 데 획기적인 역할을 할 수 있다. 다만 현재 연구는 초기 단계이며 인간 대상의 임상시험이 필요하다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "A groundbreaking study reveals that gut bacteria play a crucial role in triggering ALS and frontotemporal dementia. Researchers discovered that harmful sugars produced by certain microbes activate immune responses that damage the brain, explaining why some genetically at-risk individuals develop these diseases while others do not. In experimental settings, reducing these harmful sugars improved brain health, offering promising possibilities for new treatment approaches. This finding represents a major breakthrough in understanding the mechanisms of neurodegenerative diseases and could potentially lead to preventative therapies. The research highlights the previously underestimated importance of the gut-brain axis in neurological disorders. However, the study is still in early stages and requires clinical trials in human subjects to validate these findings and develop practical treatments.\n\n##",
-      "keyPoints": [
-        "**장내 박테리아의 역할** / Gut bacteria's role: 장내 박테리아가 생산하는 유해한 당이 ALS와 치매 발병의 숨겨진 트리거 역할을 한다는 새로운 메커니즘 발견",
-        "**면역 반응과 뇌 손상** / Immune response mechanism: 박테리아 당이 면역계를 자극하여 뇌를 공격하는 자가면역 반응을 촉발하며, 이것이 신경 손상으로 이어진다",
-        "**유전적 소인의 설명** / Genetic susceptibility explanation: 동일한 유전적 위험 요인을 가져도 장내 환경이 다르면 질병 발병 여부가 달라지는 개인차의 원인 규명",
-        "**치료 가능성** / Treatment potential: 실험에서 유해한 당의 감소가 뇌 건강 개선으로 이어졌으며, 이는 새로운 치료법 개발과 질병 예방 전략 수립의 기초가 될 수 있음"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
-      "featured": false
-    },
-    {
-      "id": "e8c3c18755e7",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "3시간 전 / 3h ago",
-      "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
-      "titleKo": "OpenKedge: 실행 경계 안전성과 증거 체인을 통한 에이전트 변이 제어",
-      "summary": "arXiv:2604.08601v1 Announce Type: new Abstract: The rise of autonomous AI agents exposes a fundamental flaw in API-centric architectures: probabilistic systems directly execute state mutations without sufficient context, coordination, or safety guarantees. We introduce OpenKedge, a protocol that redefines mutation as a governed process rather than an immediate consequence of API invocation. OpenKedge requires actors to submit declarative intent proposals, which are evaluated against deterministically derived system state, temporal signals, and policy constraints prior to execution. Approved in",
-      "aiSummary": "Current API-based AI systems have a critical vulnerability: autonomous agents execute state mutations immediately without sufficient safety verification. Researchers introduce OpenKedge, a new protocol designed to address this problem. OpenKedge requires AI agents to submit declarative intent proposals rather than directly executing actions. These proposals are systematically validated against current system state, temporal signals, and policy constraints before approval. Through this governance approach, OpenKedge prevents unpredictable errors caused by uncontrolled agent behavior. This enables the deployment of autonomous AI agents in safety-critical domains such as finance, healthcare, and infrastructure management. However, further validation is needed regarding the protocol's effectiveness in real large-scale systems and its performance overhead.\n\n##",
-      "aiSummaryKo": "현재의 API 기반 AI 시스템은 자율 에이전트가 충분한 안전 검증 없이 즉시 시스템 상태를 변경하는 문제를 가지고 있습니다. 연구팀은 이러한 문제를 해결하기 위해 OpenKedge라는 새로운 프로토콜을 개발했습니다. OpenKedge는 AI 에이전트가 직접 행동을 실행하기 전에 자신의 의도를 선언적 제안 형태로 제시하도록 요구합니다. 이 제안들은 현재 시스템 상태, 시간 신호, 정책 제약 조건 등에 대해 체계적으로 검증된 후에만 실행됩니다. 이러한 설계를 통해 OpenKedge는 자율 AI 에이전트의 예측 불가능한 행동으로 인한 오류를 사전에 방지할 수 있습니다. 이는 금융, 의료, 인프라 관리 등 안전이 중요한 분야에서 AI 에이전트 활용을 가능하게 합니다. 다만 이 프로토콜의 실제 대규모 시스템 적용 효과와 성능 오버헤드에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "Current API-based AI systems have a critical vulnerability: autonomous agents execute state mutations immediately without sufficient safety verification. Researchers introduce OpenKedge, a new protocol designed to address this problem. OpenKedge requires AI agents to submit declarative intent proposals rather than directly executing actions. These proposals are systematically validated against current system state, temporal signals, and policy constraints before approval. Through this governance approach, OpenKedge prevents unpredictable errors caused by uncontrolled agent behavior. This enables the deployment of autonomous AI agents in safety-critical domains such as finance, healthcare, and infrastructure management. However, further validation is needed regarding the protocol's effectiveness in real large-scale systems and its performance overhead.\n\n##",
-      "keyPoints": [
-        "**문제 인식**: 현재 API 중심 아키텍처에서 확률적 AI 에이전트가 충분한 맥락(context)과 안전 보장 없이 직접 시스템 상태를 변경하는 근본적 결함 존재 / Current API-centric architectures allow probabilistic AI agents to directly mutate system state without sufficient context and safety guarantees",
-        "**핵심 해결책**: OpenKedge 프로토콜은 API 호출의 즉각적 실행을 대신해 선언적 의도 제안 → 결정론적 시스템 상태 평가 → 정책 제약 검증 → 승인 후 실행의 다단계 프로세스 도입 / OpenKedge replaces immediate execution with a multi-stage process: declarative intent submission → deterministic state evaluation → policy constraint validation → conditional execution",
-        "**적용 범위**: 금융 거래, 의료 시스템, 인프라 관리 등 상태 변화의 안전성이 중요한 모든 자율 에이전트 시스템에 적용 가능한 일반적 거버넌스 프레임워크 / Applicable to all autonomous agent systems where state mutation safety is critical, including financial, healthcare, and infrastructure domains",
-        "**제한점**: 대규모 실제 시스템에서의 실질적 효과 검증 필요 및 검증 프로세스로 인한 성능 오버헤드 측정 미흡 / Requires further validation of real-world effectiveness in large-scale systems and quantification of performance overhead from the validation process"
-      ],
-      "url": "https://arxiv.org/abs/2604.08601",
       "featured": false
     }
   ]
