@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-14T10:53:11.561103+00:00",
+  "updated": "2026-04-14T15:54:05.095371+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "bd7625464ed7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Ketone esters show promise as a new treatment for alcohol use disorder",
+      "titleKo": "케톤 에스터가 알코올 사용 장애의 새로운 치료법으로 주목받다",
+      "summary": "By acting as an alternative fuel for a brain starved of alcohol byproducts, a simple ketone ester drink rapidly altered brain metabolism and reduced self-reported alcohol cravings by over 30 percent in a recent study.",
+      "aiSummary": "This study investigated ketone esters as a novel treatment for alcohol use disorder. Individuals with alcohol addiction experience abnormal brain metabolism due to dependence on alcohol metabolites; ketone esters can provide an alternative fuel source to compensate for this metabolic dysfunction. Researchers administered a ketone ester drink to participants and measured changes in brain metabolism and alcohol cravings. Results showed rapid alterations in brain metabolism following ketone ester consumption, with self-reported alcohol cravings decreasing by over 30 percent. This finding has significant implications as a potential pharmacological intervention for addiction treatment. However, limitations include small sample size, lack of long-term follow-up data, and the need to verify whether reduced cravings translate to actual reductions in drinking behavior.\n\n##",
+      "aiSummaryKo": "본 연구는 알코올 사용 장애(술 중독)의 새로운 치료법으로 케톤 에스터(ketone ester)의 효과를 검증했다. 알코올 중독자의 뇌는 알코올 대사 산물에 의존하게 되어 정상적인 에너지 대사에 문제가 생기는데, 케톤 에스터는 뇌에 대체 에너지원을 제공함으로써 이를 보완할 수 있다. 연구팀은 참가자들에게 케톤 에스터 음료를 제공한 후 뇌 대사 변화와 음주 갈망 수준을 측정했다. 결과적으로 케톤 에스터 섭취 후 뇌의 대사 과정이 빠르게 변화했으며, 자기보고식 평가에서 알코올 갈망이 30% 이상 감소했다. 이는 중독 치료의 새로운 약물 치료 가능성을 제시한다는 점에서 의의가 있다. 다만 표본 크기, 장기 추적 관찰 부재, 실제 음주 행동 감소 여부 검증 필요 등이 제한점으로 지적된다.\n\n##",
+      "aiSummaryEn": "This study investigated ketone esters as a novel treatment for alcohol use disorder. Individuals with alcohol addiction experience abnormal brain metabolism due to dependence on alcohol metabolites; ketone esters can provide an alternative fuel source to compensate for this metabolic dysfunction. Researchers administered a ketone ester drink to participants and measured changes in brain metabolism and alcohol cravings. Results showed rapid alterations in brain metabolism following ketone ester consumption, with self-reported alcohol cravings decreasing by over 30 percent. This finding has significant implications as a potential pharmacological intervention for addiction treatment. However, limitations include small sample size, lack of long-term follow-up data, and the need to verify whether reduced cravings translate to actual reductions in drinking behavior.\n\n##",
+      "keyPoints": [
+        "작용 메커니즘: 케톤 에스터가 알코올 부재 시 뇌의 에너지 대사를 정상화하는 대체 연료 역할 수행 / Ketone esters serve as an alternative fuel source to normalize brain metabolism in the absence of alcohol",
+        "즉각적 효과: 단순한 음료 형태의 케톤 에스터 섭취로 뇌 대사가 빠르게 변화 / Simple ketone ester drink rapidly altered brain metabolism",
+        "임상 효과: 알코올 갈망이 30% 이상 감소하여 중독 치료의 새로운 가능성 제시 / Over 30% reduction in self-reported alcohol cravings, suggesting new therapeutic potential",
+        "연구 제한점: 표본 크기 및 장기 추적 관찰 부재, 실제 음주 행동 감소 확인 필요 / Limited by sample size, lack of longitudinal data, and need for validation of behavioral outcomes"
+      ],
+      "url": "https://www.psypost.org/ketone-esters-show-promise-as-a-new-treatment-for-alcohol-use-disorder/",
+      "featured": true
+    },
+    {
+      "id": "54a7577de132",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Psychedelic therapy and traditional antidepressants show similar results under open-label conditions",
+      "titleKo": "개방형 임상시험 조건에서 환각제 치료와 전통적 항우울제의 유사한 효과",
+      "summary": "Recent research is dampening the hype around psychedelic therapy. By adjusting for how clinical trials are designed, scientists found that drugs like LSD and psilocybin offer similar depression relief to traditional antidepressants, rather than vastly superior results.",
+      "aiSummary": "Recent research is tempering enthusiasm surrounding psychedelic therapy. By statistically adjusting for clinical trial design bias, scientists discovered that hallucinogenic drugs like LSD and psilocybin provide similar depression relief compared to traditional antidepressants, rather than dramatically superior results. Previous studies showed impressive outcomes in open-label trials where both researchers and participants knew the treatment type, likely inflated by placebo expectations. By mathematically correcting for these design biases, researchers demonstrated more objective comparisons are possible between psychedelics and conventional medications. This finding is significant for realistic evaluation of psychedelic therapy's true efficacy in clinical settings. However, the research has limitations, requiring further validation of long-term effects and effectiveness across various types of depression.",
+      "aiSummaryKo": "최근 연구는 환각제 치료에 대한 과도한 기대감을 낮추고 있습니다. 임상시험의 설계 방식을 고려하여 조정한 결과, LSD와 실로사이빈 같은 환각제들이 전통적인 항우울제와 유사한 수준의 우울증 완화 효과를 보인다는 것이 밝혀졌습니다. 기존 연구들은 개방형 임상시험(연구자와 참가자 모두 약물 종류를 알고 있는 방식)에서 환각제가 매우 우수한 결과를 보였으나, 이는 심리적 기대 효과(플라시보 효과)에 의해 과장되었을 가능성이 높습니다. 과학자들은 임상시험 설계의 편향을 통계적으로 조정함으로써 더 객관적인 비교가 가능하다는 것을 입증했습니다. 이 발견은 환각제 치료의 실제 효과를 현실적으로 평가하는 데 중요한 의의가 있습니다. 다만, 연구는 장기적 효과나 다양한 우울증 유형에 대한 검증이 더 필요하다는 한계를 가지고 있습니다.",
+      "aiSummaryEn": "Recent research is tempering enthusiasm surrounding psychedelic therapy. By statistically adjusting for clinical trial design bias, scientists discovered that hallucinogenic drugs like LSD and psilocybin provide similar depression relief compared to traditional antidepressants, rather than dramatically superior results. Previous studies showed impressive outcomes in open-label trials where both researchers and participants knew the treatment type, likely inflated by placebo expectations. By mathematically correcting for these design biases, researchers demonstrated more objective comparisons are possible between psychedelics and conventional medications. This finding is significant for realistic evaluation of psychedelic therapy's true efficacy in clinical settings. However, the research has limitations, requiring further validation of long-term effects and effectiveness across various types of depression.",
+      "keyPoints": [
+        "**환각제 우월성의 신화** / **Myth of Psychedelic Superiority**: 개방형 임상시험에서 과대평가된 환각제의 효과가 통계적 조정 후 항우울제 수준으로 나타남",
+        "**플라시보 효과의 영향** / **Placebo Effect Impact**: 연구자와 참가자가 치료 방식을 알고 있는 환경에서 심리적 기대감이 치료 결과를 크게 왜곡할 수 있음",
+        "**임상시험 설계의 중요성** / **Clinical Trial Design Significance**: 더욱 엄격한 이중맹검 설계가 필요하며, 기존 연구의 편향을 고려한 재평가가 필수적",
+        "**현실적 기대 조정** / **Realistic Expectation Adjustment**: 환각제 치료의 실제 임상적 가치는 기존 언론의 과장 보도보다 낮을 수 있으며, 신중한 접근이 필요함"
+      ],
+      "url": "https://www.psypost.org/psychedelic-therapy-and-traditional-antidepressants-show-similar-results-under-open-label-conditions/",
+      "featured": false
+    },
+    {
+      "id": "89ac8af12708",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "19시간 전 / 19h ago",
+      "title": "New research links personality traits to confidence in recognizing artificial intelligence deception",
+      "titleKo": "새로운 연구, 성격 특성과 인공지능 속임수 식별 신뢰도의 연관성 규명",
+      "summary": "A new study reveals that specific personality traits, particularly honesty and agreeableness, predict how confident young adults feel in their ability to spot deepfakes. This highlights how our psychology shapes our perceived vulnerability to digital deception.",
+      "aiSummary": "A new study demonstrates that specific personality traits, particularly honesty and agreeableness, predict how confident young adults feel about their ability to detect deepfakes and AI-generated deception. This research reveals how psychological characteristics shape our perceived vulnerability to digital manipulation. Researchers conducted the study with young adult participants, administering personality assessments and evaluating their self-reported confidence in detecting deepfakes. The results showed that individuals with higher honesty and agreeableness scores exhibited greater confidence in identifying AI deception, suggesting that personality traits significantly influence beliefs about one's ability to recognize online threats. These findings have implications for developing personalized digital literacy education and targeted deepfake defense strategies. However, further research is needed to clarify the relationship between self-reported confidence and actual deepfake detection ability.",
+      "aiSummaryKo": "새로운 연구에 따르면 성격 특성, 특히 정직성과 친화성이 젊은 성인들이 딥페이크를 탐지할 수 있다고 느끼는 자신감 수준을 예측한다고 합니다. 이 연구는 우리의 심리적 특성이 디지털 속임수에 대한 취약성 인식에 어떻게 영향을 미치는지를 보여줍니다. 연구팀은 젊은 성인 참가자들을 모집하여 성격 검사와 딥페이크 탐지 능력에 대한 자신감 평가를 실시했습니다. 결과적으로 정직하고 친화적인 성향을 가진 사람들이 더 높은 자신감을 보였으며, 이는 개인의 성격 특성이 온라인 위협 감지 능력에 대한 믿음을 형성하는 데 중요한 역할을 함을 시사합니다. 이 발견은 개인 맞춤형 디지털 리터러시 교육과 딥페이크 방어 전략 개발에 도움이 될 수 있습니다. 다만, 자신감과 실제 탐지 능력 간의 관계를 더 명확히 파악하기 위한 추가 연구가 필요합니다.",
+      "aiSummaryEn": "A new study demonstrates that specific personality traits, particularly honesty and agreeableness, predict how confident young adults feel about their ability to detect deepfakes and AI-generated deception. This research reveals how psychological characteristics shape our perceived vulnerability to digital manipulation. Researchers conducted the study with young adult participants, administering personality assessments and evaluating their self-reported confidence in detecting deepfakes. The results showed that individuals with higher honesty and agreeableness scores exhibited greater confidence in identifying AI deception, suggesting that personality traits significantly influence beliefs about one's ability to recognize online threats. These findings have implications for developing personalized digital literacy education and targeted deepfake defense strategies. However, further research is needed to clarify the relationship between self-reported confidence and actual deepfake detection ability.",
+      "keyPoints": [
+        "**성격과 자신감의 연관성** / Personality traits correlate with perceived detection confidence",
+        "정직성과 친화성이 높을수록 딥페이크 탐지 자신감이 높음",
+        "**심리적 요인의 중요성** / Psychological factors shape digital vulnerability perception",
+        "개인의 성격이 온라인 위협에 대한 인식과 자신감을 형성하는 데 영향을 미침"
+      ],
+      "url": "https://www.psypost.org/new-research-links-personality-traits-to-confidence-in-recognizing-artificial-intelligence-deception/",
+      "featured": false
+    },
+    {
+      "id": "0523099f0222",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "11시간 전 / 11h ago",
+      "title": "Probabilistic Prediction of Neural Dynamics via Autoregressive Flow Matching",
+      "titleKo": "자동회귀 흐름 매칭을 통한 신경 역학의 확률적 예측",
+      "summary": "arXiv:2604.11178v1 Announce Type: new Abstract: Forecasting neural activity in response to naturalistic stimuli remains a key challenge for understanding brain dynamics and enabling downstream neurotechnological applications. Here, we introduce a generative forecasting framework for modeling neural dynamics based on autoregressive flow matching (AFM). Building on recent advances in transport-based generative modeling, our approach probabilistically predicts neural responses at scale from multimodal sensory input. Specifically, we learn the conditional distribution of future neural activity giv",
+      "aiSummary": "This study addresses the challenge of predicting neural activity in response to naturalistic stimuli, which is crucial for understanding brain dynamics and advancing neurotechnology applications. The research team developed a novel generative forecasting framework using autoregressive flow matching (AFM), building on recent advances in transport-based generative modeling. The approach probabilistically predicts future neural responses across multiple scales from multimodal sensory inputs including vision and auditory information. By learning the conditional distribution of future neural activity, this method enables more accurate and flexible predictions compared to traditional approaches. The research has significant implications for understanding how the brain processes information and for developing neurotechnological applications. However, predicting neural activity under naturalistic conditions remains a complex challenge, and further research is needed to account for individual differences and variability in neural responses.\n\n##",
+      "aiSummaryKo": "이 연구는 자연스러운 자극에 대한 뇌의 신경 활동을 예측하는 것을 목표로 한다. 연구팀은 자동회귀 흐름 매칭(AFM)이라는 새로운 생성 모델링 기법을 개발했다. 이 방법은 최근의 수송 기반 생성 모델링 기술을 바탕으로, 시각, 청각 등 다양한 감각 입력으로부터 미래의 신경 활동을 확률적으로 예측한다. 기존 방식들과 달리 조건부 신경 활동 분포를 학습함으로써 더욱 정확하고 유연한 예측을 가능하게 한다. 이 연구는 뇌의 동역학을 이해하고 신경 기술 응용 분야를 발전시키는 데 중요한 의의를 가진다. 다만, 자연스러운 자극 조건에서의 신경 활동 예측은 여전히 복잡한 과제이며, 다양한 개인 차이를 모두 반영하기 위한 추가 연구가 필요하다.\n\n##",
+      "aiSummaryEn": "This study addresses the challenge of predicting neural activity in response to naturalistic stimuli, which is crucial for understanding brain dynamics and advancing neurotechnology applications. The research team developed a novel generative forecasting framework using autoregressive flow matching (AFM), building on recent advances in transport-based generative modeling. The approach probabilistically predicts future neural responses across multiple scales from multimodal sensory inputs including vision and auditory information. By learning the conditional distribution of future neural activity, this method enables more accurate and flexible predictions compared to traditional approaches. The research has significant implications for understanding how the brain processes information and for developing neurotechnological applications. However, predicting neural activity under naturalistic conditions remains a complex challenge, and further research is needed to account for individual differences and variability in neural responses.\n\n##",
+      "keyPoints": [
+        "**새로운 예측 모델 개발** / Novel Predictive Framework",
+        "**멀티모달 입력 처리** / Multimodal Input Processing",
+        "**조건부 분포 학습** / Conditional Distribution Learning",
+        "**신경과학과 AI 융합 연구** / Neuroscience-AI Integration"
+      ],
+      "url": "https://arxiv.org/abs/2604.11178",
+      "featured": false
+    },
+    {
+      "id": "ce2be44378d8",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "Lonely people have worse memory but don’t decline faster, study finds",
+      "titleKo": "외로운 사람들은 기억력이 더 나쁘지만 더 빠르게 악화되지는 않는다는 연구 결과",
+      "summary": "Loneliness may quietly affect how well older adults remember things—but it might not be speeding up mental decline after all. A large European study tracking over 10,000 people for seven years found that those who felt lonelier started off with weaker memory, yet their memory didn’t deteriorate any faster than those who felt more socially connected. The findings challenge the idea that loneliness directly accelerates cognitive decline or dementia, suggesting instead that it impacts baseline brain performance.",
+      "aiSummary": "A large-scale European study challenges common assumptions about loneliness and cognitive decline in older adults. Researchers conducted a longitudinal study tracking over 10,000 participants over seven years to examine the relationship between loneliness and memory performance. The key finding revealed that lonely individuals started with lower baseline memory scores, but their rate of memory deterioration was similar to socially connected individuals over the study period. This contradicts the widespread belief that loneliness directly accelerates cognitive decline or dementia risk. Instead, the results suggest that loneliness primarily affects baseline cognitive performance rather than the pace of age-related decline. While this research provides valuable insights into long-term cognitive effects, limitations include the need for shorter-term analyses and investigation into other cognitive domains beyond memory.",
+      "aiSummaryKo": "외로움이 노인의 기억력에 미치는 영향을 조사한 대규모 유럽 연구가 예상과 다른 결과를 도출했습니다. 연구진은 7년에 걸쳐 10,000명 이상의 참가자를 추적 조사하는 종단 연구를 실시했습니다. 연구 결과, 외로움을 느끼는 사람들은 초기 기억력이 더 낮았지만, 시간이 지남에 따라 기억력 감퇴 속도는 사회적으로 잘 연결된 사람들과 다르지 않았습니다. 이는 외로움이 인지 능력 저하나 치매를 가속화한다는 기존의 통념에 도전하는 발견입니다. 대신 외로움은 뇌의 기초 성능 수준에 영향을 미치는 것으로 보입니다. 이 연구는 외로움의 장기적 인지 영향에 대한 이해를 재정의하지만, 더 짧은 기간의 변화나 다른 인지 영역에 대한 추가 연구가 필요합니다.",
+      "aiSummaryEn": "A large-scale European study challenges common assumptions about loneliness and cognitive decline in older adults. Researchers conducted a longitudinal study tracking over 10,000 participants over seven years to examine the relationship between loneliness and memory performance. The key finding revealed that lonely individuals started with lower baseline memory scores, but their rate of memory deterioration was similar to socially connected individuals over the study period. This contradicts the widespread belief that loneliness directly accelerates cognitive decline or dementia risk. Instead, the results suggest that loneliness primarily affects baseline cognitive performance rather than the pace of age-related decline. While this research provides valuable insights into long-term cognitive effects, limitations include the need for shorter-term analyses and investigation into other cognitive domains beyond memory.",
+      "keyPoints": [
+        "외로운 노인은 낮은 초기 기억력을 보이지만, 기억력 감퇴 속도는 정상 / Lonely older adults show lower baseline memory but similar rates of memory decline as socially connected peers",
+        "7년 종단 연구에서 10,000명 이상 추적으로 장기적 추이 확인 / Over 10,000 participants tracked for 7 years in longitudinal design provides robust long-term evidence",
+        "외로움이 인지 능력 저하를 가속화하지 않는다는 것이 핵심 발견 / Core finding challenges the assumption that loneliness accelerates cognitive decline or dementia",
+        "외로움은 뇌의 기초 성능에 영향을 미치는 상태적 요인으로 해석 / Loneliness appears to impact baseline brain performance rather than the trajectory of age-related cognitive changes"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075633.htm",
+      "featured": false
+    },
+    {
+      "id": "14128a55c7d2",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
+      "titleKo": "당신의 코가 증상이 나타나기 수년 전에 알츠하이머병을 감지할 수 있습니다",
+      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
+      "aiSummary": "Loss of smell could signal Alzheimer's disease far earlier than cognitive decline becomes apparent. Scientists discovered that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their cell surfaces. This neurological damage begins in the early stages of the disease, well before memory and thinking problems emerge. The significance of this finding lies in its potential to identify at-risk patients much earlier, enabling earlier intervention and treatment timing optimization. However, the current research only establishes the mechanism of immune-mediated nerve fiber destruction, so large-scale clinical studies are necessary before this can be implemented as a diagnostic tool in clinical practice.\n\n##",
+      "aiSummaryKo": "알츠하이머병은 인지능력 저하 이전에 후각 상실로 나타날 수 있다는 연구 결과가 발표되었습니다. 과학자들은 뇌의 면역세포가 비정상 신호를 감지한 후 후각 관련 신경섬유를 적극적으로 파괴한다는 사실을 발견했습니다. 이러한 신경 손상은 질병의 초기 단계에서 시작되며, 인지 기능 저하가 나타나기 훨씬 이전에 발생합니다. 이 발견의 가장 큰 의의는 알츠하이머병 고위험군을 더 조기에 식별할 수 있다는 점이며, 이를 통해 치료 시기를 앞당길 수 있습니다. 다만 현재 연구는 면역세포의 신경섬유 파괴 메커니즘을 규명한 단계이므로, 임상적 진단 도구로 활용되기 위해서는 추가적인 대규모 임상 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Loss of smell could signal Alzheimer's disease far earlier than cognitive decline becomes apparent. Scientists discovered that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their cell surfaces. This neurological damage begins in the early stages of the disease, well before memory and thinking problems emerge. The significance of this finding lies in its potential to identify at-risk patients much earlier, enabling earlier intervention and treatment timing optimization. However, the current research only establishes the mechanism of immune-mediated nerve fiber destruction, so large-scale clinical studies are necessary before this can be implemented as a diagnostic tool in clinical practice.\n\n##",
+      "keyPoints": [
+        "**조기 진단 바이오마커** / Early Diagnostic Biomarker",
+        "**면역 시스템의 역할** / Immune System's Role",
+        "**질병 진행의 신체적 증거** / Physical Evidence of Disease Progression",
+        "**치료 개입 시간 확대** / Extended Treatment Intervention Window"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
+      "featured": false
+    },
     {
       "id": "47c277813f6c",
       "tag": "psych",
@@ -21,7 +147,7 @@
         "**기존 심리학 이론의 재검토 필요** / Challenges conventional psychological theories about narcissistic relationships"
       ],
       "url": "https://www.psypost.org/romances-with-narcissists-dont-deteriorate-the-way-psychologists-expected/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f8459e8c0d1e",
@@ -284,117 +410,6 @@
         "key scores serves as a key tool connecting various machine learning mechanisms."
       ],
       "url": "https://arxiv.org/abs/2604.09560",
-      "featured": false
-    },
-    {
-      "id": "2a2166628ce0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Fairboard: a quantitative framework for equity assessment of healthcare models",
-      "titleKo": "공정성 측정판: 의료 모델의 형평성 평가를 위한 정량적 프레임워크",
-      "summary": "arXiv:2604.09656v1 Announce Type: new Abstract: Despite there now being more than 1,000 FDA-authorised AI medical devices, formal equity assessments -- whether model performance is uniform across patient subgroups -- are rare. Here, we evaluate the equity of 18 open-source brain tumour segmentation models across 648 glioma patients from two independent datasets (n = 11,664 model inferences) along distinct univariate, Bayesian multivariate, spatial, and representational dimensions. We find that patient identity consistently explains more performance variance than model choice, with clinical fac",
-      "aiSummary": "Despite the existence of over 1,000 FDA-authorized AI medical devices, formal equity assessments to determine whether model performance is uniform across different patient populations remain rare. This study evaluated the equity of 18 open-source brain tumor segmentation models across 648 glioma patients from two independent datasets, analyzing a total of 11,664 model inferences. The researchers conducted evaluations across multiple dimensions: univariate, Bayesian multivariate, spatial, and representational perspectives. A key finding is that patient identity consistently explains more performance variance than model choice, with clinical factors playing significant roles. The study introduces Fairboard, a quantitative framework for equity assessment of healthcare AI models, which could standardize fairness validation in future AI medical device development. However, the research is limited to brain tumor segmentation models, necessitating validation across other medical domains and disease areas.\n\n##",
-      "aiSummaryKo": "의료 AI 기술의 발전으로 1,000개 이상의 FDA 승인 AI 의료기기가 존재하지만, 서로 다른 환자 집단에서 모델의 성능이 균등한지 평가하는 공식적인 공평성 검사는 거의 이루어지지 않고 있습니다. 이번 연구는 뇌종양 분할 AI 18개 모델의 공평성을 평가하기 위해 두 개의 독립적인 데이터베이스에서 648명의 신경교종 환자 데이터를 수집하여 총 11,664개의 모델 예측을 분석했습니다. 연구진은 일변량, 베이지안 다변량, 공간적, 표현 차원 등 다양한 관점에서 평가를 수행했습니다. 주요 발견은 모델 선택보다 환자의 개인적 특성이 성능 편차를 더 크게 설명한다는 것이며, 임상적 요인들이 중요한 역할을 한다는 점입니다. 이 연구는 의료 AI의 공평성 평가를 위한 정량적 프레임워크(Fairboard)를 제시하여 향후 AI 의료기기 개발 시 공평성 검증의 표준화를 이룰 수 있는 의의가 있습니다. 다만 이 연구는 뇌종양 분할 모델에 국한되었으므로, 다른 의료 영역과 질병에서도 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "Despite the existence of over 1,000 FDA-authorized AI medical devices, formal equity assessments to determine whether model performance is uniform across different patient populations remain rare. This study evaluated the equity of 18 open-source brain tumor segmentation models across 648 glioma patients from two independent datasets, analyzing a total of 11,664 model inferences. The researchers conducted evaluations across multiple dimensions: univariate, Bayesian multivariate, spatial, and representational perspectives. A key finding is that patient identity consistently explains more performance variance than model choice, with clinical factors playing significant roles. The study introduces Fairboard, a quantitative framework for equity assessment of healthcare AI models, which could standardize fairness validation in future AI medical device development. However, the research is limited to brain tumor segmentation models, necessitating validation across other medical domains and disease areas.\n\n##",
-      "keyPoints": [
-        "**공평성 평가의 부재** / Absence of Formal Equity Assessment: 1,000개 이상의 FDA 승인 AI 의료기기 중 정식 공평성 평가가 거의 없음 / Formal equity assessments are rare despite 1,000+ FDA-authorized AI medical devices",
-        "**환자 특성의 우월성** / Patient Identity as Primary Factor: 모델 선택보다 환자의 개인적 특성이 성능 편차를 더 크게 설명 / Patient identity explains more performance variance than model choice itself",
-        "**Fairboard 프레임워크 도입** / Introduction of Fairboard Framework: 다양한 차원(일변량, 베이지안 다변량, 공간적, 표현적)에서 의료 AI의 공평성을 정량화하는 표준화된 평가 도구 / Introduces quantitative framework for standardized equity assessment across multiple analytical dimensions",
-        "**임상적 검증 필요성** / Need for Clinical Validation: 뇌종양 분할 영역에서 개발된 프레임워크가 다른 의료 분야와 질병으로 확대 적용되어야 함 / Framework developed for brain tumor segmentation requires validation across other medical domains and diseases"
-      ],
-      "url": "https://arxiv.org/abs/2604.09656",
-      "featured": false
-    },
-    {
-      "id": "362ea24b63d3",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Deliberative Alignment is Deep, but Uncertainty Remains: Inference time safety improvement in reasoning via attribution of unsafe behavior to base model",
-      "titleKo": "심층적인 숙고적 정렬이지만 불확실성은 남아있다: 기본 모델에 대한 불안전한 행동 귀속을 통한 추론 시 안전성 개선",
-      "summary": "arXiv:2604.09665v1 Announce Type: new Abstract: While the wide adoption of refusal training in large language models (LLMs) has showcased improvements in model safety, recent works have highlighted shortcomings due to the shallow nature of these alignment methods. To this end, the work on Deliberative alignment proposed distilling reasoning capabilities from stronger reasoning models, thereby instilling deeper safety in LLMs. In this work, we study the impact of deliberative alignment in language models. First, we show that despite being larger in model size and stronger in safety capability, ",
-      "aiSummary": "This research examines safety mechanisms in large language models (LLMs). While traditional refusal training has shown some improvements in model safety, recent studies indicate these alignment methods are superficial. To address this limitation, \"Deliberative Alignment\" was proposed—a method that distills reasoning capabilities from stronger reasoning models to instill deeper safety in LLMs. This study investigates how deliberative alignment affects language model safety by attributing unsafe behavior to the base model during inference. The research demonstrates that despite larger model size and stronger safety capabilities, certain limitations persist in this approach. The significance of this work lies in providing a deeper understanding of LLM safety alignment mechanisms and potentially contributing to developing more robust safety systems. However, the research remains incomplete with considerable uncertainties, indicating that further validation is necessary.\n\n##",
-      "aiSummaryKo": "이 연구는 대형언어모델(LLM)의 안전성 확보 방식에 관한 것입니다. 기존 거부 훈련(refusal training)은 표면적 수준의 안전 정렬만 제공하는 문제가 있었고, 이를 개선하기 위해 '숙고적 정렬(Deliberative Alignment)' 방식이 제안되었습니다. 이 방법은 더 강력한 추론 모델의 추론 능력을 증류하여 언어모델에 더 깊은 수준의 안전성을 주입합니다. 연구팀은 추론 시간에 불안전한 행동을 기본 모델에 귀속시킴으로써 안전성 개선을 시도했습니다. 연구 결과는 모델 크기가 더 크고 안전 능력이 더 강하더라도 특정 한계가 존재함을 보여줍니다. 이 연구의 의의는 LLM의 안전성 정렬 메커니즘을 더 깊이 있게 이해하는 것이며, 향후 더욱 견고한 안전 시스템 개발에 기여할 수 있습니다. 다만 연구는 아직 진행 중이며 불확실성이 남아있어 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research examines safety mechanisms in large language models (LLMs). While traditional refusal training has shown some improvements in model safety, recent studies indicate these alignment methods are superficial. To address this limitation, \"Deliberative Alignment\" was proposed—a method that distills reasoning capabilities from stronger reasoning models to instill deeper safety in LLMs. This study investigates how deliberative alignment affects language model safety by attributing unsafe behavior to the base model during inference. The research demonstrates that despite larger model size and stronger safety capabilities, certain limitations persist in this approach. The significance of this work lies in providing a deeper understanding of LLM safety alignment mechanisms and potentially contributing to developing more robust safety systems. However, the research remains incomplete with considerable uncertainties, indicating that further validation is necessary.\n\n##",
-      "keyPoints": [
-        "**기존 방식의 한계**: 거부 훈련(Refusal Training)은 표면적이고 얕은 수준의 안전 정렬만 제공 / Existing refusal training methods provide only shallow, superficial safety alignment",
-        "**숙고적 정렬의 제안**: 강력한 추론 모델에서 추론 능력을 증류하여 더 깊은 안전성 주입 / Deliberative Alignment distills reasoning from stronger models to embed deeper safety",
-        "**추론 시간 개선 기법**: 추론 과정에서 불안전한 행동을 기본 모델에 귀속시켜 안전성 향상 시도 / Inference-time safety improvement through attribution of unsafe behavior to base models",
-        "**불완전성과 불확실성**: 모델 크기와 안전 능력 향상에도 불구하고 한계 존재하며 추가 연구 필요 / Uncertainties remain despite improvements, indicating need for further research and validation"
-      ],
-      "url": "https://arxiv.org/abs/2604.09665",
-      "featured": false
-    },
-    {
-      "id": "3a3eef23f508",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Human-like Working Memory Interference in Large Language Models",
-      "titleKo": "대형 언어 모델의 인간과 유사한 작업 기억 간섭",
-      "summary": "arXiv:2604.09670v1 Announce Type: new Abstract: Intelligent systems must maintain and manipulate task-relevant information online to adapt to dynamic environments and changing goals. This capacity, known as working memory, is fundamental to human reasoning and intelligence. Despite having on the order of 100 billion neurons, both biological and artificial systems exhibit limitations in working memory. This raises a key question: why do large language models (LLMs) show such limitations, given that transformers have full access to prior context through attention? We find that although a two-lay",
-      "aiSummary": "This study investigates why large language models (LLMs) exhibit human-like working memory limitations despite having approximately 100 billion neurons and full contextual access through attention mechanisms. Working memory—the capacity to maintain and manipulate task-relevant information for reasoning—is fundamental to intelligence in both biological and artificial systems, yet both show remarkable limitations. Researchers conducted experiments on two-layer transformer models to examine whether LLM limitations stem from architectural constraints or information processing bottlenecks. The findings revealed that LLMs demonstrate working memory interference patterns remarkably similar to those observed in human cognition. This discovery suggests that cognitive limitations in LLMs may reflect fundamental principles of information processing shared with human cognition. However, the study's scope was limited to smaller model architectures, and further validation with larger-scale LLMs is necessary.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)이 인간과 유사한 작업 기억(working memory) 제한을 보이는 이유를 규명하기 위해 수행되었습니다. 인간의 뇌와 마찬가지로 약 1,000억 개의 뉴런을 가진 LLM도 동적 환경에 적응하기 위해 관련 정보를 유지하고 조작해야 하는데, 이러한 기능이 제한적입니다. 연구팀은 트랜스포머 아키텍처가 이전 맥락에 완전히 접근할 수 있음에도 불구하고 왜 LLM이 작업 기억 한계를 보이는지 조사했습니다. 2계층 모델을 대상으로 한 실험 결과, LLM은 인간과 유사한 패턴의 작업 기억 간섭 현상(간섭 효과)을 나타냈습니다. 이 발견은 LLM의 인지적 특성이 인간의 인지 구조와 근본적으로 유사할 수 있음을 시사합니다. 다만 연구는 제한된 모델 규모로 수행되었으며, 더 큰 규모의 LLM에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigates why large language models (LLMs) exhibit human-like working memory limitations despite having approximately 100 billion neurons and full contextual access through attention mechanisms. Working memory—the capacity to maintain and manipulate task-relevant information for reasoning—is fundamental to intelligence in both biological and artificial systems, yet both show remarkable limitations. Researchers conducted experiments on two-layer transformer models to examine whether LLM limitations stem from architectural constraints or information processing bottlenecks. The findings revealed that LLMs demonstrate working memory interference patterns remarkably similar to those observed in human cognition. This discovery suggests that cognitive limitations in LLMs may reflect fundamental principles of information processing shared with human cognition. However, the study's scope was limited to smaller model architectures, and further validation with larger-scale LLMs is necessary.\n\n##",
-      "keyPoints": [
-        "**작업 기억의 보편적 제한** / Universal limitation of working memory: 인간과 LLM 모두 신경원 개수에 관계없이 정보 처리 용량에 제약이 존재함을 보여줌 / Both humans and LLMs show working memory constraints despite substantial neural capacity",
-        "**인간과 유사한 간섭 현상** / Human-like interference patterns: LLM이 인간과 동일한 유형의 작업 기억 간섭(interference effect)을 나타내, 인지 구조의 유사성을 시사 / LLMs exhibit interference effects identical to human patterns, suggesting shared cognitive mechanisms",
-        "**아키텍처의 역설** / Architectural paradox: 트랜스포머의 주의 메커니즘이 모든 이전 정보에 접근 가능함에도 실제로는 작업 기억 제약이 발생함 / Despite attention mechanisms providing full contextual access, practical working memory limitations emerge",
-        "**인지과학과 AI의 수렴성** / Convergence of cognitive science and AI: 인간 인지의 제약이 LLM의 설계 결함이 아닌 정보 처리의 근본적 원리일 가능성을 제시 / Suggests human cognitive limitations may reflect fundamental information processing principles rather than design flaws in AI"
-      ],
-      "url": "https://arxiv.org/abs/2604.09670",
-      "featured": false
-    },
-    {
-      "id": "0b0f4d5593ad",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "The Rise and Fall of $G$ in AGI",
-      "titleKo": "",
-      "summary": "arXiv:2604.09911v1 Announce Type: new Abstract: In the psychological literature the term `general intelligence' describes correlations between abilities and not simply the number of abilities. This paper connects Spearman's $g$-factor from psychometrics, measuring a positive manifold, to the implicit ``$G$-factor'' in claims about artificial general intelligence (AGI) performance on temporally structured benchmarks. By treating LLM benchmark batteries as cognitive test batteries and model releases as subjects, principal component analysis is applied to a models $\\times$ benchmarks $\\times$ tim",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.09911",
-      "featured": false
-    },
-    {
-      "id": "16c8f521d053",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Astrocytic resource diffusion stabilizes persistent activity in neural fields",
-      "titleKo": "",
-      "summary": "arXiv:2604.10036v1 Announce Type: new Abstract: Persistent neural activity underlying working memory requires sustained synaptic transmission, yet the metabolic and neurotransmitter support provided by astrocyte networks is largely absent from spatially extended neural circuit models. We introduce a coupled astrocyte-neural field model in which synaptic efficacy is regulated by depletion and recovery of a conserved resource pool recycled and spatially redistributed through diffusively coupled astrocytes. We obtain explicit stationary bump profiles and self-consistency conditions for bump width",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.10036",
-      "featured": false
-    },
-    {
-      "id": "00d37269aa13",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Relaxing in Warped Spaces: Generalized Hierarchical and Modular Dynamical Neural Network",
-      "titleKo": "",
-      "summary": "arXiv:2604.10606v1 Announce Type: new Abstract: We propose a dynamical neural network model with a hierarchical and modular structure. The network architecture can be derived by minimizing an energy function that is originally designed based on two kinds of neurons with quite different time constants. It has multiple subspaces that are spanned by neural parameters employed in the energy function, and adjacent subspaces are related to each other with a layered internetwork. Each internetwork further consists of a pair of a forward subnet and a backward one, and signals flowing through these sub",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.10606",
       "featured": false
     }
   ]
