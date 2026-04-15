@@ -1,7 +1,191 @@
 {
-  "updated": "2026-04-15T18:55:00.148435+00:00",
+  "updated": "2026-04-15T22:06:35.940751+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "03a1609833b6",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "A daily mindfulness habit can improve your memory for future plans",
+      "titleKo": "매일의 명상 습관이 미래 계획 기억력을 향상시킬 수 있다",
+      "summary": "A daily meditation practice might help you remember future tasks. A new psychology experiment revealed that a week of mindfulness training boosted time-based memory, particularly when participants could not easily check a clock.",
+      "aiSummary": "This study investigated how daily meditation practice affects memory for future plans. Researchers conducted an experiment where participants received one week of mindfulness training. The key finding was that participants who completed mindfulness training showed significant improvements in time-based memory, particularly in situations where they could not easily check a clock. This suggests that meditation practice may enhance the brain's ability to track time, helping people remember future appointments and tasks. However, the study only measured short-term training effects, so additional research on long-term benefits is needed. A limitation is the lack of specific information about sample size and participant characteristics.\n\n##",
+      "aiSummaryKo": "본 연구는 일상적인 명상 수련이 미래 계획 기억에 미치는 영향을 조사했습니다. 연구팀은 참가자들을 대상으로 1주일간의 마음챙김 훈련 프로그램을 실시하는 실험 설계를 사용했습니다. 핵심 결과는 마음챙김 훈련을 받은 참가자들이 시간 기반 기억력, 특히 시계를 쉽게 확인할 수 없는 상황에서의 기억력이 유의미하게 향상되었다는 것입니다. 이는 명상 수련이 뇌의 시간 인식 능력을 강화하여 미래 일정이나 약속을 잊지 않는 데 도움이 될 수 있음을 시사합니다. 다만 본 연구는 단기간의 훈련 효과만을 측정했으므로 장기적 효과에 대한 추가 연구가 필요합니다. 또한 연구 규모와 참가자 특성에 대한 구체적 정보가 제한적인 것이 한계점입니다.\n\n##",
+      "aiSummaryEn": "This study investigated how daily meditation practice affects memory for future plans. Researchers conducted an experiment where participants received one week of mindfulness training. The key finding was that participants who completed mindfulness training showed significant improvements in time-based memory, particularly in situations where they could not easily check a clock. This suggests that meditation practice may enhance the brain's ability to track time, helping people remember future appointments and tasks. However, the study only measured short-term training effects, so additional research on long-term benefits is needed. A limitation is the lack of specific information about sample size and participant characteristics.\n\n##",
+      "keyPoints": [
+        "**마음챙김 훈련의 기억력 개선 효과** / Mindfulness training improves memory performance",
+        "**시간 기반 기억에 특히 효과적** / Particularly effective for time-based memory (prospective memory)",
+        "**시계 확인 불가 상황에서 더욱 유용** / More beneficial when external time cues are unavailable",
+        "**추가 연구 필요** / Long-term effects and larger sample sizes needed for validation"
+      ],
+      "url": "https://www.psypost.org/a-daily-mindfulness-habit-can-improve-your-memory-for-future-plans/",
+      "featured": true
+    },
+    {
+      "id": "aa60d13cb7aa",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "18시간 전 / 18h ago",
+      "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
+      "titleKo": "저자 응답으로부터 건설적인 과학 논문 피드백 학습하기",
+      "summary": "arXiv:2604.11924v1 Announce Type: new Abstract: While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researchers rather than to automate research without human oversight. To this end, we study constructive feedback generation, the task of producing targeted, actionable feedback that helps authors improve both their research and its presentation. In this work, we operationalize the effectiveness of feedback along two author-centric axes-validity and author action. We first curate GoodPoint-ICLR, a dataset of 19K ICLR papers wit",
+      "aiSummary": "This research explores how large language models (LLMs) can be utilized to generate scientific paper feedback while augmenting rather than automating research. The study emphasizes using LLMs to empower researchers with human oversight. The methodology involved analyzing 19,000 ICLR conference papers and corresponding author responses to create the GoodPoint-ICLR dataset. Researchers evaluated feedback effectiveness using two author-centric metrics: validity and actual author action taken. Key findings demonstrate that by identifying characteristics of feedback that authors actually implemented, AI models can be trained to generate more constructive feedback. The research's significance lies in improving scientific communication and research quality through better feedback mechanisms. However, limitations include reliance on a single conference venue (ICLR) and the need for validation across diverse academic disciplines and research domains.\n\n##",
+      "aiSummaryKo": "이 연구는 대규모 언어모델(LLM)이 과학 논문의 피드백 생성에 어떻게 활용될 수 있는지를 탐구합니다. 연구팀은 논문 자동화보다는 연구자를 지원하는 방향으로 LLM을 사용할 것을 주장합니다. 연구 방법은 ICLR 학회의 19,000개 논문과 저자 응답을 분석하여 GoodPoint-ICLR 데이터셋을 구성했습니다. 피드백의 효과성을 평가하기 위해 '타당성'과 '저자의 실제 행동' 두 가지 기준을 사용했습니다. 핵심 결과는 저자들이 실제로 반영한 피드백의 특성을 파악함으로써 더 건설적인 피드백을 생성하는 AI 모델을 개발할 수 있음을 보여줍니다. 이 연구의 의의는 과학 커뮤니케이션 개선과 연구 품질 향상에 기여할 수 있다는 점입니다. 다만 특정 학회(ICLR)의 데이터만 사용되었고, 다양한 학문 분야의 적용 가능성은 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research explores how large language models (LLMs) can be utilized to generate scientific paper feedback while augmenting rather than automating research. The study emphasizes using LLMs to empower researchers with human oversight. The methodology involved analyzing 19,000 ICLR conference papers and corresponding author responses to create the GoodPoint-ICLR dataset. Researchers evaluated feedback effectiveness using two author-centric metrics: validity and actual author action taken. Key findings demonstrate that by identifying characteristics of feedback that authors actually implemented, AI models can be trained to generate more constructive feedback. The research's significance lies in improving scientific communication and research quality through better feedback mechanisms. However, limitations include reliance on a single conference venue (ICLR) and the need for validation across diverse academic disciplines and research domains.\n\n##",
+      "keyPoints": [
+        "**저자 중심의 평가 기준** / Author-centric evaluation metrics: 피드백의 효과를 \"저자가 실제로 반영했는가\"라는 행동 기준으로 평가하여 실질적 영향력을 측정",
+        "**대규모 학술 데이터셋 구축** / Large-scale academic dataset creation: 19,000개의 ICLR 논문과 저자 응답을 분석하여 GoodPoint-ICLR 데이터셋 개발",
+        "**AI의 증강적 역할 강조** / Emphasis on augmentative AI role: 연구 자동화가 아닌 연구자 권능화(empowerment)를 목표로 하는 책임감 있는 AI 활용",
+        "**과학 피드백 생성의 실질적 개선** / Practical improvement of scientific feedback generation: 건설적이고 실행 가능한 피드백 생성으로 과학 연구 품질 및 커뮤니케이션 향상"
+      ],
+      "url": "https://arxiv.org/abs/2604.11924",
+      "featured": false
+    },
+    {
+      "id": "9ad36bf8ea59",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "18시간 전 / 18h ago",
+      "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
+      "titleKo": "ArcDeck를 활용한 내러티브 기반 논문-슬라이드 변환",
+      "summary": "arXiv:2604.11969v1 Announce Type: new Abstract: We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing methods that directly summarize raw text into slides, ArcDeck explicitly models the source paper's logical flow. It first parses the input to construct a discourse tree and establish a global commitment document, ensuring the high-level intent is preserved. These structural priors then guide an iterative multi-agent refinement process, where specialized agents iteratively critique and revise the pr",
+      "aiSummary": "This research introduces ArcDeck, a multi-agent AI framework designed to automatically convert academic papers into presentation slides while preserving their logical structure and narrative flow. Unlike conventional approaches that simply summarize raw text, ArcDeck explicitly models the source paper's structural organization by constructing a discourse tree and establishing a global commitment document that captures the paper's high-level intent. The system employs specialized agents that iteratively critique and refine slide content through a multi-agent refinement process guided by these structural priors. This approach aims to maintain the paper's original logic and meaning more effectively than traditional summarization methods, enhancing academic communication efficiency. However, the system may face limitations in interpreting complex mathematical formulas, tables, and graphical representations. The framework represents a significant advancement in automating scholarly knowledge dissemination.\n\n##",
+      "aiSummaryKo": "본 연구는 학술 논문을 프레젠테이션 슬라이드로 자동 변환하는 인공지능 시스템 'ArcDeck'을 제시한다. 기존 방식이 논문의 텍스트를 단순히 요약하는 방식이었다면, ArcDeck은 논문의 논리적 흐름과 구조를 명시적으로 분석하는 접근법을 사용한다. 이 시스템은 먼저 입력 논문을 분석하여 담론 구조(discourse tree)를 구성하고, 논문의 핵심 의도를 담은 '글로벌 약속 문서(global commitment document)'를 작성한다. 이러한 구조적 정보를 바탕으로 여러 전문 에이전트들이 협력하여 슬라이드를 반복적으로 검토하고 개선하는 다중에이전트 정제 과정을 거친다. 이 방식은 기존의 단순 요약 방식보다 논문의 의도와 논리를 더 잘 보존할 수 있으며, 학술 커뮤니케이션의 효율성을 높일 수 있다. 다만 복잡한 수식이나 표, 그래프 해석에는 여전히 한계가 있을 수 있다.\n\n##",
+      "aiSummaryEn": "This research introduces ArcDeck, a multi-agent AI framework designed to automatically convert academic papers into presentation slides while preserving their logical structure and narrative flow. Unlike conventional approaches that simply summarize raw text, ArcDeck explicitly models the source paper's structural organization by constructing a discourse tree and establishing a global commitment document that captures the paper's high-level intent. The system employs specialized agents that iteratively critique and refine slide content through a multi-agent refinement process guided by these structural priors. This approach aims to maintain the paper's original logic and meaning more effectively than traditional summarization methods, enhancing academic communication efficiency. However, the system may face limitations in interpreting complex mathematical formulas, tables, and graphical representations. The framework represents a significant advancement in automating scholarly knowledge dissemination.\n\n##",
+      "keyPoints": [
+        "**구조 기반 처리**: 단순 텍스트 요약이 아닌 논문의 논리적 흐름과 담론 구조를 명시적으로 분석하여 핵심 의도 보존 / **Structure-Based Processing**: Explicitly analyzes logical flow and discourse structure rather than simple text summarization to preserve core intent",
+        "**다중에이전트 협력**: 여러 전문 에이전트들이 반복적으로 슬라이드를 검토하고 개선하는 협력 메커니즘 도입 / **Multi-Agent Collaboration**: Implements cooperative mechanism where specialized agents iteratively critique and refine slides",
+        "**글로벌 약속 문서**: 논문의 고수준 의도를 명시적으로 문서화하여 슬라이드 생성 전 과정에서 원본 논문의 의도 유지 / **Global Commitment Document**: Explicitly documents high-level intent to maintain original paper's purpose throughout slide generation",
+        "**실용적 활용성**: 학술 발표, 학회 참석, 연구 커뮤니케이션 등에서 자동으로 효율적인 슬라이드 제작 가능 / **Practical Applicability**: Enables automatic and efficient slide creation for academic presentations, conference attendance, and research communication"
+      ],
+      "url": "https://arxiv.org/abs/2604.11969",
+      "featured": false
+    },
+    {
+      "id": "86b29b64715d",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "18시간 전 / 18h ago",
+      "title": "Uncertainty Quantification in CNN Through the Bootstrap of Convex Neural Networks",
+      "titleKo": "CNN에서 볼록 신경망 부트스트랩을 통한 불확실성 정량화",
+      "summary": "arXiv:2604.11833v1 Announce Type: new Abstract: Despite the popularity of Convolutional Neural Networks (CNN), the problem of uncertainty quantification (UQ) of CNN has been largely overlooked. Lack of efficient UQ tools severely limits the application of CNN in certain areas, such as medicine, where prediction uncertainty is critically important. Among the few existing UQ approaches that have been proposed for deep learning, none of them has theoretical consistency that can guarantee the uncertainty quality. To address this issue, we propose a novel bootstrap based framework for the estimatio",
+      "aiSummary": "This research addresses the critical issue of uncertainty quantification (UQ) in Convolutional Neural Networks (CNN), which is essential for applications requiring reliable predictions such as medical diagnosis. Existing deep learning UQ methods lack theoretical consistency to guarantee prediction reliability. The researchers propose a novel bootstrap-based framework utilizing convex neural networks to estimate CNN uncertainty more accurately. This approach provides mathematical theoretical consistency, ensuring the reliability of predictions. This method enables broader application of CNN in high-stakes fields such as medical diagnosis and autonomous driving. However, the research is still in early stages and requires additional validation on real clinical datasets.\n\n##",
+      "aiSummaryKo": "본 연구는 의료 진단 등 중요한 의사결정이 필요한 분야에서 CNN(합성곱 신경망)의 예측 신뢰도를 측정하는 문제를 다룬다. 기존의 딥러닝 불확실성 정량화 방법들은 이론적 일관성이 부족하여 예측의 정확한 신뢰도를 보장하지 못했다. 연구진은 볼록 신경망의 부트스트랩 기법을 활용한 새로운 프레임워크를 제안하여 CNN의 불확실성을 더 정확하게 추정할 수 있는 방법을 개발했다. 이 방법은 수학적으로 이론적 일관성을 갖추고 있어 예측 결과의 신뢰성을 보장한다. 의료 진단, 자율주행 등 높은 신뢰성이 요구되는 분야에서 CNN 활용을 확대할 수 있게 한다. 다만 연구는 아직 초기 단계이며 실제 임상 데이터에 대한 추가 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "This research addresses the critical issue of uncertainty quantification (UQ) in Convolutional Neural Networks (CNN), which is essential for applications requiring reliable predictions such as medical diagnosis. Existing deep learning UQ methods lack theoretical consistency to guarantee prediction reliability. The researchers propose a novel bootstrap-based framework utilizing convex neural networks to estimate CNN uncertainty more accurately. This approach provides mathematical theoretical consistency, ensuring the reliability of predictions. This method enables broader application of CNN in high-stakes fields such as medical diagnosis and autonomous driving. However, the research is still in early stages and requires additional validation on real clinical datasets.\n\n##",
+      "keyPoints": [
+        "**문제 인식** / Problem Identification: CNN의 광범위한 사용에도 불구하고 예측 불확실성을 정량화하는 효율적인 도구가 부재하며, 이는 의료 분야 등에서 심각한 제약이 되고 있음",
+        "**혁신적 방법론** / Novel Methodology: 볼록 신경망의 부트스트랩 기법을 기반으로 한 새로운 프레임워크 제안으로 이론적 일관성을 확보한 불확실성 정량화 솔루션 개발",
+        "**이론적 강점** / Theoretical Strength: 기존 방법과 달리 수학적으로 이론적 일관성(theoretical consistency)을 보장하여 예측의 품질과 신뢰도를 확실하게 검증 가능",
+        "**실무 적용 의의** / Practical Significance: 의료진단, 자율주행 등 높은 신뢰성과 설명가능성이 요구되는 분야에서 CNN의 실제 적용 범위를 크게 확대할 수 있는 기초 제공"
+      ],
+      "url": "https://arxiv.org/abs/2604.11833",
+      "featured": false
+    },
+    {
+      "id": "de4a8c49df15",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "18시간 전 / 18h ago",
+      "title": "Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning",
+      "titleKo": "LLM을 활용한 스키마 적응형 테이블 표현 학습을 통한 일반화 가능한 다중 양식 임상 추론",
+      "summary": "arXiv:2604.11835v1 Announce Type: new Abstract: Machine learning for tabular data remains constrained by poor schema generalization, a challenge rooted in the lack of semantic understanding of structured variables. This challenge is particularly acute in domains like clinical medicine, where electronic health record (EHR) schemas vary significantly. To solve this problem, we propose Schema-Adaptive Tabular Representation Learning, a novel method that leverages large language models (LLMs) to create transferable tabular embeddings. By transforming structured variables into semantic natural lang",
+      "aiSummary": "This study addresses the \"schema generalization problem\" in medical data analysis, where machine learning models trained on one hospital's electronic health records (EHR) fail to work on data from another hospital due to different data structures. The research team developed a novel Schema-Adaptive Tabular Representation Learning method that leverages large language models (LLMs) to convert structured medical data into semantically meaningful natural language representations, creating transferable embeddings. This approach enables AI models to be applied across different healthcare institutions with varying data formats, significantly improving the generalizability of clinical decision support systems. However, the study remains in early stages and requires further validation in real clinical settings, as well as additional investigation into the cost-effectiveness and interpretability of LLM-based approaches.\n\n##",
+      "aiSummaryKo": "본 연구는 의료 데이터 분석에서 발생하는 '스키마 일반화 문제'를 해결하기 위해 진행되었습니다. 전자의무기록(EHR) 시스템마다 데이터 구조가 다르기 때문에, 한 병원의 머신러닝 모델이 다른 병원의 데이터에 적용되지 않는 문제가 있었습니다. 연구팀은 대규모언어모델(LLM)을 활용하여 구조화된 의료 데이터를 의미 있는 자연언어로 변환하고, 이를 통해 '전이 가능한 임베딩'을 만드는 새로운 방법을 개발했습니다. 이 방식은 서로 다른 병원 간에도 모델을 적용할 수 있는 범용성을 제공하여 임상 의사결정을 보다 광범위하게 지원할 수 있습니다. 다만, 본 연구의 성과는 아직 초기 단계이며, 실제 임상 환경에서의 검증이 필요하고 LLM 기반 접근 방식의 비용과 해석 가능성에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study addresses the \"schema generalization problem\" in medical data analysis, where machine learning models trained on one hospital's electronic health records (EHR) fail to work on data from another hospital due to different data structures. The research team developed a novel Schema-Adaptive Tabular Representation Learning method that leverages large language models (LLMs) to convert structured medical data into semantically meaningful natural language representations, creating transferable embeddings. This approach enables AI models to be applied across different healthcare institutions with varying data formats, significantly improving the generalizability of clinical decision support systems. However, the study remains in early stages and requires further validation in real clinical settings, as well as additional investigation into the cost-effectiveness and interpretability of LLM-based approaches.\n\n##",
+      "keyPoints": [
+        "**스키마 일반화 문제 해결** / Addressing Schema Generalization Problem",
+        "**의미론적 임베딩 생성** / Semantic Embedding Creation",
+        "**모델의 범용성 향상** / Improved Model Transferability",
+        "**임상 의사결정 시스템 고도화** / Enhanced Clinical Decision Support"
+      ],
+      "url": "https://arxiv.org/abs/2604.11835",
+      "featured": false
+    },
+    {
+      "id": "783fb0437bdf",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "18시간 전 / 18h ago",
+      "title": "A Layer-wise Analysis of Supervised Fine-Tuning",
+      "titleKo": "지도 학습 기반 미세 조정의 계층별 분석",
+      "summary": "arXiv:2604.11838v1 Announce Type: new Abstract: While critical for alignment, Supervised Fine-Tuning (SFT) incurs the risk of catastrophic forgetting, yet the layer-wise emergence of instruction-following capabilities remains elusive. We investigate this mechanism via a comprehensive analysis utilizing information-theoretic, geometric, and optimization metrics across model scales (1B-32B). Our experiments reveal a distinct depth-dependent pattern: middle layers (20\\%-80\\%) are stable, whereas final layers exhibit high sensitivity. Leveraging this insight, we propose Mid-Block Efficient Tuning,",
+      "aiSummary": "This research investigates how instruction-following capabilities emerge across different layers during Supervised Fine-Tuning (SFT) of large language models, addressing the challenge of catastrophic forgetting. The team conducted comprehensive experiments on models ranging from 1B to 32B parameters using information-theoretic, geometric, and optimization metrics. The key finding reveals a distinct depth-dependent pattern: middle layers (20%-80% of model depth) remain stable during training, while final layers exhibit high sensitivity to parameter changes. Based on this insight, researchers propose Mid-Block Efficient Tuning, a selective fine-tuning approach targeting only middle layers. This research contributes to understanding the neural mechanisms of model fine-tuning and enables development of more efficient model training methods. However, the study is limited to specific model sizes, and practical applicability in production environments requires further validation.\n\n##",
+      "aiSummaryKo": "본 연구는 대규모 언어모델의 지도학습 미세조정(SFT) 과정에서 모델의 각 계층별로 어떻게 명령어 따르기 능력이 발달하는지를 규명하는 것을 목표로 한다. 연구팀은 1B부터 32B 규모의 다양한 모델에 대해 정보이론, 기하학적 분석, 최적화 지표를 활용한 종합적인 실험을 진행했다. 핵심 발견은 모델의 깊이에 따라 서로 다른 패턴이 나타난다는 것으로, 중간층(전체 깊이의 20%-80%)은 학습 과정에서 안정적인 반면 최종층은 높은 민감도를 보인다는 점이다. 이러한 통찰을 바탕으로 연구팀은 중간층만 선택적으로 조정하는 '중간층 효율적 미세조정(Mid-Block Efficient Tuning)' 방법을 제안했다. 이 연구는 모델 미세조정 과정의 신경생물학적 메커니즘을 이해하는 데 기여하며, 더 효율적인 모델 학습 방법 개발을 가능하게 한다. 다만, 연구는 특정 규모의 모델들에 한정되었으며 실제 프로덕션 환경에서의 적용 가능성은 추가 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "This research investigates how instruction-following capabilities emerge across different layers during Supervised Fine-Tuning (SFT) of large language models, addressing the challenge of catastrophic forgetting. The team conducted comprehensive experiments on models ranging from 1B to 32B parameters using information-theoretic, geometric, and optimization metrics. The key finding reveals a distinct depth-dependent pattern: middle layers (20%-80% of model depth) remain stable during training, while final layers exhibit high sensitivity to parameter changes. Based on this insight, researchers propose Mid-Block Efficient Tuning, a selective fine-tuning approach targeting only middle layers. This research contributes to understanding the neural mechanisms of model fine-tuning and enables development of more efficient model training methods. However, the study is limited to specific model sizes, and practical applicability in production environments requires further validation.\n\n##",
+      "keyPoints": [
+        "**계층별 안정성 차이 발견** / Discovery of layer-wise stability differences: 모델의 중간층은 미세조정 중 안정적이나 최종층은 높은 민감도를 보임 / Middle layers remain stable during fine-tuning while final layers show high sensitivity",
+        "**다층적 분석 방법론** / Multi-dimensional analytical approach: 정보이론, 기하학적 분석, 최적화 지표를 통합하여 1B-32B 규모 모델 검증 / Integration of information-theoretic, geometric, and optimization metrics across 1B-32B scale models",
+        "**효율적 미세조정 기법 제안** / Proposed efficient fine-tuning technique: 중간층만 선택적으로 조정하여 계산 효율성 증대 / Selective tuning of middle layers only, improving computational efficiency",
+        "**실무 적용 가능성과 한계** / Practical applicability and limitations: 모델 학습 효율화에 기여하지만 다양한 모델 규모와 실제 운영 환경에서의 추가 검증 필요 / Contributes to model efficiency but requires further validation across diverse model sizes and real-world production environments"
+      ],
+      "url": "https://arxiv.org/abs/2604.11838",
+      "featured": false
+    },
+    {
+      "id": "21c272fb18ae",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "18시간 전 / 18h ago",
+      "title": "When Reasoning Models Hurt Behavioral Simulation: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation",
+      "titleKo": "추론 모델이 행동 시뮬레이션을 방해할 때: 다중 에이전트 LLM 협상에서의 솔버-샘플러 불일치",
+      "summary": "arXiv:2604.11840v1 Announce Type: new Abstract: Large language models are increasingly used as agents in social, economic, and policy simulations. A common assumption is that stronger reasoning should improve simulation fidelity. We argue that this assumption can fail when the objective is not to solve a strategic problem, but to sample plausible boundedly rational behavior. In such settings, reasoning-enhanced models can become better solvers and worse simulators: they can over-optimize for strategically dominant actions, collapse compromise-oriented terminal behavior, and sometimes exhibit a",
+      "aiSummary": "This study challenges the assumption that stronger reasoning in large language models (LLMs) always improves behavioral simulation fidelity. Researchers compared how basic LLMs and reasoning-enhanced models (o1 models) behaved in multi-agent negotiation scenarios. Key findings revealed that reasoning-enhanced models, while becoming better strategic solvers, become worse behavioral simulators by over-optimizing for dominant actions and reducing compromise-oriented behavior—failing to capture human bounded rationality. The models collapsed diverse behavioral patterns into narrower strategic choices, suggesting a fundamental mismatch between solving optimization problems and sampling realistic behavior. This research highlights the critical distinction between model selection for problem-solving versus behavioral simulation. However, limitations include sample size constraints and specificity to particular negotiation contexts.\n\n##",
+      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)이 협상 시뮬레이션에서 더 강력한 추론 능력이 항상 더 나은 결과를 주는지 검증했다. 연구팀은 다중 에이전트 협상 시나리오에서 기본 LLM과 추론 강화 LLM(o1 모델)의 행동을 비교 분석했다. 주요 결과는 추론 강화 모델이 전략적으로 최적화된 행동에만 집중하면서 현실의 제한된 합리성을 갖춘 인간 행동을 제대로 모사하지 못한다는 것이다. 구체적으로, 강화된 모델들은 타협 지향적 행동을 줄이고 지배적 전략만 과도하게 선택하는 경향을 보였다. 이 연구는 시뮬레이션 목표와 모델 선택을 구분해야 한다는 중요한 통찰을 제공한다. 다만 연구 표본 크기와 특정 협상 시나리오에 제한될 수 있다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This study challenges the assumption that stronger reasoning in large language models (LLMs) always improves behavioral simulation fidelity. Researchers compared how basic LLMs and reasoning-enhanced models (o1 models) behaved in multi-agent negotiation scenarios. Key findings revealed that reasoning-enhanced models, while becoming better strategic solvers, become worse behavioral simulators by over-optimizing for dominant actions and reducing compromise-oriented behavior—failing to capture human bounded rationality. The models collapsed diverse behavioral patterns into narrower strategic choices, suggesting a fundamental mismatch between solving optimization problems and sampling realistic behavior. This research highlights the critical distinction between model selection for problem-solving versus behavioral simulation. However, limitations include sample size constraints and specificity to particular negotiation contexts.\n\n##",
+      "keyPoints": [
+        "**추론 강화의 역설** / The Reasoning Paradox: 더 나은 추론 능력이 현실적 행동 모사를 방해할 수 있으며, 문제 해결과 행동 시뮬레이션은 다른 목표를 요구함",
+        "**협상 행동 붕괴** / Behavioral Collapse in Negotiation: 강화된 모델들이 제한된 합리성(bounded rationality)을 반영하지 못하고 타협적 행동을 과도하게 감소시킴",
+        "**Solver-Sampler 불일치** / Solver-Sampler Mismatch: 최적 전략 탐색(solving)과 타당한 행동 샘플링(sampling)은 서로 다른 모델 특성을 필요로 함",
+        "**사회경제 시뮬레이션의 함의** / Implications for Socioeconomic Simulation: 정책·경제·사회 시뮬레이션에서 모델 선택 시 작업 특성을 명확히 정의해야 하며, 무조건적인 모델 강화는 역효과를 초래할 수 있음"
+      ],
+      "url": "https://arxiv.org/abs/2604.11840",
+      "featured": false
+    },
+    {
+      "id": "9f3694f88913",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "18시간 전 / 18h ago",
+      "title": "The illusory simplicity of the feedforward pass: evidence for the dynamical nature of stimulus encoding along the primate ventral stream",
+      "titleKo": "피드포워드 통과의 허상적 단순성: 영장류 배쪽 시각 경로를 따른 자극 부호화의 동역학적 특성에 대한 증거",
+      "summary": "arXiv:2604.12825v1 Announce Type: new Abstract: In studying primate vision, a large body of work focuses on the first feedforward sweep. During this initial time window, information is thought to pass through ventral stream regions in a stage-like fashion in an effort to extract high-level information from the retinal input. Consequently, electrophysiological analyses commonly focus on spatial response patterns, either by averaging data in time, or by applying decoders in a temporally local fashion. By analysing data recorded simultaneously across multiple arrays placed along the macaque ventr",
+      "aiSummary": "Research on primate vision has traditionally assumed that visual information passes through the ventral stream in a stage-like, feedforward manner to extract complex visual features from retinal input. This study employed simultaneous multi-array electrophysiological recordings across the macaque ventral stream to examine neural activity patterns in detail. Rather than using conventional temporal averaging or locally-applied decoders, the researchers tracked temporal dynamics to reveal that visual information processing is not a simple sequential process but rather a dynamic one involving continuous interactions. The findings suggest that the primate brain processes visual information in a more complex and flexible manner than previously understood. This research contributes to fundamental neuroscience understanding and could inform brain-computer interface development. However, the study is limited by its reliance solely on macaque neural data, restricting direct comparisons to human visual processing.\n\n##",
+      "aiSummaryKo": "영장류 시각 연구에서는 망막으로부터 받은 정보가 복잡한 시각적 특징을 추출하기 위해 뇌의 배복측 경로(ventral stream)를 통해 단계별로 처리된다고 알려져 왔습니다. 본 연구는 원숭이의 뇌에 여러 전극 배열을 동시에 삽입하여 배복측 경로 전체에서 신경 활동을 기록하는 방식으로 진행되었습니다. 기존의 시간 평균화나 국소적 디코더 분석과 달리, 연구팀은 시간적 역학 변화를 추적하여 시각 정보 처리가 단순한 단계적 과정이 아니라 역동적인 과정임을 발견했습니다. 이 발견은 영장류 뇌가 시각 정보를 더 복잡하고 유연한 방식으로 처리한다는 것을 시사합니다. 연구는 신경과학 이해와 뇌-컴퓨터 인터페이스 개발에 기여할 수 있습니다. 다만 원숭이 뇌 데이터만을 사용했으므로 인간 시각 처리와의 직접적 비교에는 제한이 있습니다.\n\n##",
+      "aiSummaryEn": "Research on primate vision has traditionally assumed that visual information passes through the ventral stream in a stage-like, feedforward manner to extract complex visual features from retinal input. This study employed simultaneous multi-array electrophysiological recordings across the macaque ventral stream to examine neural activity patterns in detail. Rather than using conventional temporal averaging or locally-applied decoders, the researchers tracked temporal dynamics to reveal that visual information processing is not a simple sequential process but rather a dynamic one involving continuous interactions. The findings suggest that the primate brain processes visual information in a more complex and flexible manner than previously understood. This research contributes to fundamental neuroscience understanding and could inform brain-computer interface development. However, the study is limited by its reliance solely on macaque neural data, restricting direct comparisons to human visual processing.\n\n##",
+      "keyPoints": [
+        "**단계적 처리의 재해석** / Reinterpretation of Hierarchical Processing: 기존의 단순한 단계별(feedforward) 시각 정보 처리 모델이 실제로는 역동적이고 상호작용적인 과정임을 실증적으로 증명",
+        "**기술적 혁신의 중요성** / Importance of Technical Innovation: 동시 다중 전극 배열과 시간적 역학 분석이 신경 처리 메커니즘의 더 정밀한 이해를 가능하게 함",
+        "**신경과학 패러다임 전환** / Paradigm Shift in Neuroscience: 시간 평균화 방식에서 벗어나 시간적 동역학을 고려하는 분석 방법의 필요성 강조",
+        "**응용 가능성과 제한점** / Applications and Limitations: AI 시스템 개발과 뇌-컴퓨터 인터페이스에 활용 가능하나, 동물 모델 기반 연구의 인간 적용 일반화에 주의 필요"
+      ],
+      "url": "https://arxiv.org/abs/2604.12825",
+      "featured": false
+    },
+    {
+      "id": "f23ffc320790",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "18시간 전 / 18h ago",
+      "title": "Brain-DiT: A Universal Multi-state fMRI Foundation Model with Metadata-Conditioned Pretraining",
+      "titleKo": "",
+      "summary": "arXiv:2604.12683v1 Announce Type: cross Abstract: Current fMRI foundation models primarily rely on a limited range of brain states and mismatched pretraining tasks, restricting their ability to learn generalized representations across diverse brain states. We present \\textit{Brain-DiT}, a universal multi-state fMRI foundation model pretrained on 349,898 sessions from 24 datasets spanning resting, task, naturalistic, disease, and sleep states. Unlike prior fMRI foundation models that rely on masked reconstruction in the raw-signal space or a latent space, \\textit{Brain-DiT} adopts metadata-cond",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.12683",
+      "featured": false
+    },
     {
       "id": "f80f8dba867f",
       "tag": "psych",
@@ -21,7 +205,7 @@
         "**문화적·맥락적 변수의 필요성** / Need for cultural and contextual variables: 추후 연구에서 성별, 문화권, 플랫폼 유형별 차이를 고려해야 함 / Future research should consider gender, cultural, and platform-specific differences"
       ],
       "url": "https://www.psypost.org/sexualized-dating-profiles-can-sabotage-long-term-relationship-prospects-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ac342593ba18",
@@ -216,195 +400,6 @@
         "**노화 방지 및 인지 기능 보존** / Cognitive Reserve and Aging Prevention: 적절한 식단 관리가 노인의 인지 기능 저하를 예방하고 뇌 예비능력(cognitive reserve)을 유지하는 데 도움이 될 수 있습니다. / Appropriate dietary management may help prevent cognitive decline in older adults and maintain cognitive reserve."
       ],
       "url": "https://www.psypost.org/this-mediterranean-style-diet-is-linked-to-a-slower-loss-of-brain-volume-as-we-age/",
-      "featured": false
-    },
-    {
-      "id": "e6acb17d3a3f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "The surprising reason you’re so productive one day and not the next",
-      "titleKo": "어떤 날은 엄청 생산적인데 다음 날은 아닌 놀라운 이유",
-      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
-      "aiSummary": "This research investigates the relationship between daily fluctuations in mental acuity and productivity levels. Researchers tracked participants' cognitive performance variations alongside their goal-setting patterns and actual task completion rates. The key finding reveals that on days when cognitive function is sharper, individuals set more ambitious goals and are more likely to achieve them, resulting in up to an extra 40 minutes of productivity per day. This indicates that the subjective feeling of being \"mentally on\" has a measurable and tangible impact on actual performance outcomes. However, the study identified a critical limitation: maintaining this high-intensity effort for extended periods causes the positive effect to reverse and diminish. These findings suggest that mental state management is crucial for optimizing work efficiency and personal achievement.\n\n##",
-      "aiSummaryKo": "이 연구는 날마다 달라지는 우리의 정신 상태와 생산성 사이의 관계를 조사했습니다. 연구팀은 참가자들의 인지 능력 변화와 목표 설정, 그리고 실제 업무 수행량의 연관성을 추적했습니다. 흥미로운 결과는 정신이 더 맑은 날에 사람들이 더 높은 목표를 세우고 이를 달성할 가능성이 높으며, 이러한 효과가 하루에 최대 40분의 추가 생산성으로 이어진다는 것입니다. 즉, \"오늘은 잘된다\"는 느낌이 단순한 주관적 경험이 아니라 실제 성과에 측정 가능한 영향을 미친다는 의미입니다. 다만 장시간 높은 강도로 계속 추진하려 하면 오히려 반대 효과가 나타난다는 한계가 있습니다. 이 연구는 우리가 일의 효율성을 높이기 위해 정신 상태 관리의 중요성을 이해해야 함을 시사합니다.\n\n##",
-      "aiSummaryEn": "This research investigates the relationship between daily fluctuations in mental acuity and productivity levels. Researchers tracked participants' cognitive performance variations alongside their goal-setting patterns and actual task completion rates. The key finding reveals that on days when cognitive function is sharper, individuals set more ambitious goals and are more likely to achieve them, resulting in up to an extra 40 minutes of productivity per day. This indicates that the subjective feeling of being \"mentally on\" has a measurable and tangible impact on actual performance outcomes. However, the study identified a critical limitation: maintaining this high-intensity effort for extended periods causes the positive effect to reverse and diminish. These findings suggest that mental state management is crucial for optimizing work efficiency and personal achievement.\n\n##",
-      "keyPoints": [
-        "**인지 능력과 생산성의 인과관계** / Causal relationship between cognitive sharpness and productivity levels",
-        "**목표 설정의 연쇄 효과** / Goal-setting as the mediating mechanism between mental state and task completion",
-        "**정량화 가능한 성과: 40분** / Measurable productivity gains: up to 40 additional minutes per day of effective work",
-        "**지속성의 한계 (피로 역효과)** / Sustainability limitation: prolonged high-intensity effort reverses positive effects"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "featured": false
-    },
-    {
-      "id": "ce2be44378d8",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Lonely people have worse memory but don’t decline faster, study finds",
-      "titleKo": "외로운 사람들은 기억력이 더 나쁘지만 인지능력 저하 속도는 더 빠르지 않다는 연구 결과",
-      "summary": "Loneliness may quietly affect how well older adults remember things—but it might not be speeding up mental decline after all. A large European study tracking over 10,000 people for seven years found that those who felt lonelier started off with weaker memory, yet their memory didn’t deteriorate any faster than those who felt more socially connected. The findings challenge the idea that loneliness directly accelerates cognitive decline or dementia, suggesting instead that it impacts baseline brain performance.",
-      "aiSummary": "This study investigated how loneliness affects memory in older adults. A large-scale European research team tracked over 10,000 participants for seven years to analyze the relationship between loneliness and cognitive abilities. The findings revealed that people who experienced greater loneliness had lower baseline memory performance; however, their memory did not deteriorate faster over time compared to those with stronger social connections. This contradicts the existing hypothesis that loneliness directly accelerates dementia and cognitive decline. Instead, loneliness appears to impact baseline brain performance rather than the rate of decline. The study demonstrates high reliability through its large sample size and longitudinal data, though validation across diverse cultural contexts remains necessary.\n\n##",
-      "aiSummaryKo": "이 연구는 노년층의 고독감이 기억력에 미치는 영향을 조사했습니다. 유럽의 대규모 연구팀은 7년간 10,000명 이상의 참가자를 추적 관찰하여 고독감과 인지 능력의 관계를 분석했습니다. 연구 결과, 고독감을 많이 느끼는 사람들은 초기 기억력이 더 낮았으나, 시간이 지나면서 기억력이 더 빠르게 저하되지는 않았습니다. 이는 고독감이 치매나 인지 저하를 직접적으로 가속화한다는 기존 가설과 다른 결과입니다. 대신 고독감은 뇌의 기본 성능 수준에만 영향을 미치는 것으로 보입니다. 이 연구는 장기 추적 데이터 기반의 대규모 표본을 사용하여 신뢰성이 높으나, 다양한 문화권에서의 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated how loneliness affects memory in older adults. A large-scale European research team tracked over 10,000 participants for seven years to analyze the relationship between loneliness and cognitive abilities. The findings revealed that people who experienced greater loneliness had lower baseline memory performance; however, their memory did not deteriorate faster over time compared to those with stronger social connections. This contradicts the existing hypothesis that loneliness directly accelerates dementia and cognitive decline. Instead, loneliness appears to impact baseline brain performance rather than the rate of decline. The study demonstrates high reliability through its large sample size and longitudinal data, though validation across diverse cultural contexts remains necessary.\n\n##",
-      "keyPoints": [
-        "고독감은 초기 기억력을 낮추지만, 시간에 따른 저하 속도는 영향을 주지 않음 / Loneliness reduces baseline memory but does not accelerate the rate of cognitive decline over time",
-        "7년 추적 조사에서 10,000명 이상 참가자를 대상으로 한 대규모 유럽 연구 / Large-scale European study tracking 10,000+ participants over seven years",
-        "기존의 '고독감이 치매를 가속화한다'는 통설에 대한 의문 제기 / Challenges the conventional wisdom that loneliness directly accelerates dementia development",
-        "고독감은 뇌의 절대적 성능 수준에 영향을 미치는 구조적 요인으로 해석 / Suggests loneliness affects baseline brain performance as a structural factor rather than a progressive mechanism"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075633.htm",
-      "featured": false
-    },
-    {
-      "id": "14128a55c7d2",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
-      "titleKo": "당신의 코가 증상이 나타나기 몇 년 전에 알츠하이머병을 감지할 수 있다",
-      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
-      "aiSummary": "A loss of sense of smell could signal Alzheimer's disease years before cognitive symptoms appear. Scientists discovered that immune cells in the brain detect abnormal signals and actively destroy smell-related nerve fibers in the early stages of the disease. This neural damage occurs well before cognitive decline becomes evident. The findings suggest that simple smell tests could identify at-risk patients without invasive procedures like cerebrospinal fluid analysis or brain imaging. This breakthrough could enable earlier diagnosis and treatment initiation, potentially delaying or preventing cognitive deterioration. However, the limitation is that olfactory loss can occur in other conditions, requiring development of additional diagnostic criteria for specificity.",
-      "aiSummaryKo": "알츠하이머병의 초기 징후를 후각 능력 저하에서 찾을 수 있다는 연구 결과가 발표되었습니다. 과학자들은 뇌의 면역세포들이 비정상적인 신호를 감지한 후 후각 신경섬유를 적극적으로 파괴하는 메커니즘을 발견했습니다. 이러한 신경 손상은 인지기능 저하가 나타나기 훨씬 전인 알츠하이머병의 초기 단계에서부터 시작됩니다. 이번 연구는 뇌척수액 검사나 뇌 영상과 같은 침습적 진단 방법 없이도 냄새 감각 검사만으로 위험군을 조기에 식별할 수 있는 가능성을 제시합니다. 따라서 증상이 나타나기 수 년 전에 알츠하이머병을 진단하고 조기 치료를 시작할 수 있는 기회를 열어줍니다. 다만, 후각 저하가 다른 질환에서도 나타날 수 있어 추가 진단 기준 개발이 필요합니다.",
-      "aiSummaryEn": "A loss of sense of smell could signal Alzheimer's disease years before cognitive symptoms appear. Scientists discovered that immune cells in the brain detect abnormal signals and actively destroy smell-related nerve fibers in the early stages of the disease. This neural damage occurs well before cognitive decline becomes evident. The findings suggest that simple smell tests could identify at-risk patients without invasive procedures like cerebrospinal fluid analysis or brain imaging. This breakthrough could enable earlier diagnosis and treatment initiation, potentially delaying or preventing cognitive deterioration. However, the limitation is that olfactory loss can occur in other conditions, requiring development of additional diagnostic criteria for specificity.",
-      "keyPoints": [
-        "후각 저하가 알츠하이머병의 초기 징후 / Olfactory decline is an early indicator of Alzheimer's disease",
-        "뇌의 면역세포가 후각 신경섬유를 파괴하는 메커니즘 규명 / Immune cells in the brain actively destroy smell-related nerve fibers",
-        "인지기능 저하보다 수 년 먼저 나타나는 신호 / Signal appears years before cognitive decline manifests",
-        "비침습적 진단 방법으로 조기 선별 가능 / Non-invasive smell tests could enable early patient identification and treatment timing improvement"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
-      "featured": false
-    },
-    {
-      "id": "5a60e83333c2",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "These types of breakups tend to coincide with moving on more easily",
-      "titleKo": "이러한 유형의 헤어짐은 더 쉽게 다음 단계로 넘어가는 경향이 있습니다",
-      "summary": "Scientists have found an association between honest, understanding breakups and feeling more energized afterward. While supportive communication doesn't reduce immediate sadness, it tends to coincide with a better overall outlook for everyone involved.",
-      "aiSummary": "This research investigates factors that influence psychological recovery following romantic breakups. Scientists examined participants who recently experienced breakups to analyze the relationship between communication styles during separation and subsequent emotional states. The key finding is that when couples employ honest and understanding communication during breakups, participants tend to feel more energized and maintain a more positive outlook. Notably, while supportive communication did not immediately reduce sadness in the aftermath, it showed a strong association with long-term psychological recovery and positive attitudes for all parties involved. This research suggests that how people communicate during the difficult experience of breakup significantly impacts individual resilience. However, as this study demonstrates correlation rather than causation, further research is needed to determine whether specific communication styles necessarily produce better outcomes.\n\n##",
-      "aiSummaryKo": "이 연구는 헤어짐 이후 심리적 회복에 영향을 미치는 요인을 조사했습니다. 연구팀은 최근 헤어짐을 경험한 참가자들을 대상으로 헤어짐 과정에서의 의사소통 방식과 그 이후 감정 상태 간의 관계를 분석했습니다. 핵심 발견은 솔직하고 이해심 있는 의사소통을 통해 헤어진 경우, 참가자들이 더욱 활기차고 긍정적인 전망을 가지는 경향이 있다는 것입니다. 흥미롭게도 지지적인 의사소통이 직후의 슬픔을 즉각적으로 줄이지는 못했지만, 장기적인 심리적 회복과 긍정적 태도와는 강한 연관성을 보였습니다. 이 연구는 헤어짐이라는 어려운 상황에서도 어떻게 대화하는지가 개인의 회복력에 중요하다는 것을 시사합니다. 다만 이 연구는 상관관계를 보여주는 것으로, 특정 의사소통 방식이 반드시 더 나은 결과를 초래하는지는 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This research investigates factors that influence psychological recovery following romantic breakups. Scientists examined participants who recently experienced breakups to analyze the relationship between communication styles during separation and subsequent emotional states. The key finding is that when couples employ honest and understanding communication during breakups, participants tend to feel more energized and maintain a more positive outlook. Notably, while supportive communication did not immediately reduce sadness in the aftermath, it showed a strong association with long-term psychological recovery and positive attitudes for all parties involved. This research suggests that how people communicate during the difficult experience of breakup significantly impacts individual resilience. However, as this study demonstrates correlation rather than causation, further research is needed to determine whether specific communication styles necessarily produce better outcomes.\n\n##",
-      "keyPoints": [
-        "**솔직하고 이해심 있는 소통의 중요성** / Importance of honest and understanding communication during breakups",
-        "**장기적 회복과의 연관성** / Association with long-term psychological recovery and positive outlook",
-        "**즉각적 슬픔 감소 효과 없음** / Does not reduce immediate sadness but supports overall emotional well-being",
-        "**모든 관계자의 심리적 안녕에 영향** / Affects psychological well-being for everyone involved in the breakup"
-      ],
-      "url": "https://www.psypost.org/these-types-of-breakups-tend-to-coincide-with-moving-on-more-easily/",
-      "featured": false
-    },
-    {
-      "id": "ced34d0a1fcd",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "16시간 전 / 16h ago",
-      "title": "Why thinking hard feels bad: the emotional root of deliberation",
-      "titleKo": "왜 깊이 생각하는 것은 힘들까: 숙고의 감정적 근원",
-      "summary": "Doubt is not just a lack of information; it is an unpleasant emotional state. New psychological research reveals that this negative feeling serves as a necessary alarm bell, pushing the human brain to abandon mental shortcuts and think critically.",
-      "aiSummary": "This research reveals that doubt and uncertainty are not merely a lack of information but rather an unpleasant emotional state. Psychologists discovered that the negative feeling we experience when thinking deeply about difficult problems is actually an important signal mechanism. The research team presented participants with cognitive tasks of varying difficulty and measured their emotional responses. Results showed that when people abandoned intuitive thinking (mental shortcuts) and shifted to critical thinking, they experienced discomfort—and this emotion drove more careful and accurate judgments. The findings suggest that doubt and anxiety are not obstacles but evolutionarily useful signaling systems. However, the study was conducted in controlled laboratory settings, so additional research is needed to verify its applicability in real-world, everyday situations.\n\n##",
-      "aiSummaryKo": "이 연구는 의심과 불확실성이 단순한 정보 부족이 아니라 불쾌한 정감 상태라는 점을 밝혀냈다. 심리학자들은 우리가 어려운 문제를 깊이 있게 생각할 때 느끼는 부정적 감정이 실제로는 중요한 신호라는 것을 발견했다. 연구팀은 참가자들에게 다양한 난이도의 인지 과제를 제시하고 그들의 정서 반응을 측정했다. 결과적으로 사람들이 직관적 사고(정신적 지름길)를 포기하고 비판적 사고로 전환할 때 불쾌감을 느꼈으며, 이러한 감정이 더 신중하고 정확한 판단을 유도했다. 이 발견은 의심과 불안감이 단순한 장애물이 아니라 진화적으로 유용한 신호 체계임을 시사한다. 다만 이 연구는 실험실 환경에서의 제한된 상황에서 수행되었으므로, 실제 일상생활에서의 적용 가능성을 검증하기 위한 추가 연구가 필요하다.\n\n##",
-      "aiSummaryEn": "This research reveals that doubt and uncertainty are not merely a lack of information but rather an unpleasant emotional state. Psychologists discovered that the negative feeling we experience when thinking deeply about difficult problems is actually an important signal mechanism. The research team presented participants with cognitive tasks of varying difficulty and measured their emotional responses. Results showed that when people abandoned intuitive thinking (mental shortcuts) and shifted to critical thinking, they experienced discomfort—and this emotion drove more careful and accurate judgments. The findings suggest that doubt and anxiety are not obstacles but evolutionarily useful signaling systems. However, the study was conducted in controlled laboratory settings, so additional research is needed to verify its applicability in real-world, everyday situations.\n\n##",
-      "keyPoints": [
-        "**의심은 감정이다** / Doubt is an emotional state, not just information gap",
-        "**부정적 감정이 좋은 역할을 한다** / Negative emotions serve as necessary alarm bells for critical thinking",
-        "**직관 포기의 신호** / The discomfort signals abandoning mental shortcuts and engaging deeper cognition",
-        "**진화적 유용성** / Doubt represents an evolutionarily adaptive mechanism for better decision-making"
-      ],
-      "url": "https://www.psypost.org/why-thinking-hard-feels-bad-the-emotional-root-of-deliberation/",
-      "featured": false
-    },
-    {
-      "id": "1feb820f194c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
-      "titleKo": "평생 이를 실천하면 알츠하이머병 위험을 38% 감소시킬 수 있습니다",
-      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
-      "aiSummary": "This research investigated whether lifelong mental stimulation—such as reading, writing, and acquiring new skills—can reduce the risk of Alzheimer's disease. Researchers measured participants' levels of cognitive enrichment and tracked their outcomes over time. Results showed that individuals with the highest levels of cognitive stimulation experienced a 38% reduction in Alzheimer's risk compared to those with the lowest levels, and delayed symptom onset by several years. These findings suggest that strengthening cognitive reserve through mental engagement may provide protection against neurodegenerative diseases. However, as an observational study, it does not establish causation, and potential confounding variables such as socioeconomic status and educational background could not be entirely controlled for.\n\n##",
-      "aiSummaryKo": "본 연구는 평생에 걸친 정신적 자극이 알츠하이머병 발병 위험을 줄일 수 있다는 가설을 검증했습니다. 연구진은 독서, 글쓰기, 새로운 기술 학습 등의 인지적 풍요로움(cognitive enrichment) 수준을 측정하여 참가자들을 추적 조사했습니다. 결과적으로 인지적 자극이 가장 높은 수준의 사람들은 가장 낮은 수준의 사람들 대비 알츠하이머병 위험을 약 38% 감소시켰으며, 증상 발현 시기를 수 년 더 늦출 수 있었습니다. 이는 뇌의 인지 예비력(cognitive reserve)을 강화하면 신경퇴행성 질환으로부터 보호할 수 있음을 시사합니다. 다만 본 연구는 관찰 연구로 인과관계를 명확히 증명하지는 못했으며, 사회경제적 지위나 교육 수준 등 혼재변수의 영향을 완전히 배제할 수 없다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigated whether lifelong mental stimulation—such as reading, writing, and acquiring new skills—can reduce the risk of Alzheimer's disease. Researchers measured participants' levels of cognitive enrichment and tracked their outcomes over time. Results showed that individuals with the highest levels of cognitive stimulation experienced a 38% reduction in Alzheimer's risk compared to those with the lowest levels, and delayed symptom onset by several years. These findings suggest that strengthening cognitive reserve through mental engagement may provide protection against neurodegenerative diseases. However, as an observational study, it does not establish causation, and potential confounding variables such as socioeconomic status and educational background could not be entirely controlled for.\n\n##",
-      "keyPoints": [
-        "**38% 위험 감소** / 38% risk reduction: 높은 수준의 인지적 자극은 알츠하이머병 발병 위험을 약 38% 감소시킴",
-        "**증상 발현 지연** / Delayed symptom onset: 정신 활동이 많은 사람들이 알츠하이머 증상을 수 년 더 늦게 경험하는 경향",
-        "**인지 예비력 강화** / Cognitive reserve enhancement: 독서, 글쓰기, 새로운 기술 학습 등이 뇌의 보호 메커니즘을 구축",
-        "**생애 전반의 개입** / Lifelong intervention: 특정 시기가 아닌 평생에 걸친 지속적인 정신적 자극이 중요하다는 점"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
-      "featured": false
-    },
-    {
-      "id": "39ff72bc0b09",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
-      "titleKo": "과학자들 \"알츠하이머병 치료, 우리가 완전히 잘못 접근했다\"",
-      "summary": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. Scientists are now pushing toward multi-pronged strategies, from gene editing to brain-cell rejuvenation and gut health interventions. The goal: stop treating Alzheimer’s as one disease and start tackling it as a complex system.",
-      "aiSummary": "Alzheimer's disease is increasingly recognized by the scientific community not as a simple brain condition but as a complex disorder involving intertwined biological factors, aging processes, and overall health status. Traditional pharmaceutical approaches have focused on targeting single factors, yet this strategy has proven to have limited effectiveness in treating the disease. Although recent medications show modest therapeutic benefits, scientists are advocating for integrated, multi-pronged treatment strategies including gene editing, brain-cell rejuvenation, and gut microbiome interventions. The significance of this paradigm shift lies in reconceptualizing Alzheimer's not as a single disease entity but as a complex biological system requiring systemic intervention. However, this multifaceted approach faces limitations, including the need for further clarification of interaction mechanisms between different treatments and extensive long-term clinical trials before practical clinical implementation.\n\n##",
-      "aiSummaryKo": "알츠하이머병은 단순한 뇌 질환이 아니라 생물학적 요인, 노화, 전반적인 건강 상태가 복잡하게 얽혀 있는 질환이라는 새로운 과학적 인식이 확산되고 있다. 그동안 의약학 계는 특정 단일 요인만을 겨냥한 약물 개발에 집중했으나, 이러한 접근법의 효과가 제한적임이 밝혀졌다. 최근의 신약들이 어느 정도의 긍정적 효과를 보이고 있지만, 과학자들은 유전자 편집, 뇌세포 재생, 장내 미생물 관리 등 여러 방향의 통합적 전략으로 전환할 것을 주장하고 있다. 이러한 연구 의의는 알츠하이머병을 단일 질환으로 보지 않고 복잡한 생물학적 체계로 이해하려는 패러다임 전환에 있다. 다만 이러한 다층적 접근이 실제 임상에 적용되기까지는 각 치료법의 상호작용 메커니즘 규명과 장기적 임상시험이 필요한 한계를 지니고 있다.\n\n##",
-      "aiSummaryEn": "Alzheimer's disease is increasingly recognized by the scientific community not as a simple brain condition but as a complex disorder involving intertwined biological factors, aging processes, and overall health status. Traditional pharmaceutical approaches have focused on targeting single factors, yet this strategy has proven to have limited effectiveness in treating the disease. Although recent medications show modest therapeutic benefits, scientists are advocating for integrated, multi-pronged treatment strategies including gene editing, brain-cell rejuvenation, and gut microbiome interventions. The significance of this paradigm shift lies in reconceptualizing Alzheimer's not as a single disease entity but as a complex biological system requiring systemic intervention. However, this multifaceted approach faces limitations, including the need for further clarification of interaction mechanisms between different treatments and extensive long-term clinical trials before practical clinical implementation.\n\n##",
-      "keyPoints": [
-        "단일 요인 치료의 한계 / Limitations of single-factor treatment approaches, necessitating a shift toward more comprehensive strategies",
-        "복합적 원인 규명 / Recognition that Alzheimer's involves complex interactions between biology, aging, and overall health status",
-        "다층적 치료 전략 필요 / Multi-pronged treatment strategies including gene therapy, cellular rejuvenation, and microbiome interventions",
-        "질환 개념의 재정의 / Paradigm shift from viewing Alzheimer's as a single disease to understanding it as a complex biological system requiring systemic intervention"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
-      "featured": false
-    },
-    {
-      "id": "e231273b02eb",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
-      "titleKo": "과학적 지식의 비최적성: 경로 의존성, 잠금(Lock-In), 그리고 국소 최소값의 함정",
-      "summary": "arXiv:2604.11828v1 Announce Type: new Abstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific discovery is rarely examined as an optimization problem in its own right. This paper argues that the body of scientific knowledge, at any given historical moment, represents a \\emph{local optimum} rather than a global one--that the frameworks, formalisms, and paradigms through which we understand nature are substantially shaped by historical contingency, cognitive path dependence, and institutional l",
-      "aiSummary": "This research challenges the common assumption that science represents the optimal path to understanding nature, arguing instead that scientific knowledge at any historical moment constitutes a *local optimum* rather than a *global optimum*. The study posits that the frameworks, formalisms, and paradigms through which we comprehend nature are substantially shaped by historical contingency, cognitive path dependence, and institutional factors rather than pure merit-based discovery. This implies that scientific progress is constrained by prior choices and decisions, and under different initial conditions, entirely different knowledge systems could have developed. The research fundamentally questions conventional assumptions about scientific objectivity and contributes to our understanding of the limitations inherent in scientific methodology. However, the analysis remains primarily theoretical without presenting specific historical case studies or empirical data to substantiate the arguments, which represents a notable limitation.\n\n##",
-      "aiSummaryKo": "이 연구는 과학이 자연의 진실을 밝히는 가장 신뢰할 수 있는 방법으로 간주되지만, 과학적 발견의 궤적이 최적화 문제로서 거의 검토되지 않는다는 점에 주목합니다. 연구진은 특정 역사적 시점의 과학 지식이 전역 최적값(최고의 상태)이 아닌 국소 최적값(국한된 범위에서의 최고 상태)을 나타낸다고 주장합니다. 이는 자연을 이해하는 틀, 형식, 패러다임이 역사적 우연성, 인지적 경로 의존성, 그리고 제도적 요인에 의해 크게 영향받는다는 의미입니다. 연구는 과학적 진보가 이전의 선택과 결정에 의해 제약받으며, 다른 초기 조건이었다면 완전히 다른 지식 체계가 발전했을 가능성을 제시합니다. 이 분석은 과학의 객관성에 대한 일반적인 가정에 도전하며, 과학적 방법론의 한계를 이해하는 데 중요합니다. 다만 구체적인 역사적 사례나 실증 데이터가 제시되지 않아 이론적 논의 수준에 머물러 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research challenges the common assumption that science represents the optimal path to understanding nature, arguing instead that scientific knowledge at any historical moment constitutes a *local optimum* rather than a *global optimum*. The study posits that the frameworks, formalisms, and paradigms through which we comprehend nature are substantially shaped by historical contingency, cognitive path dependence, and institutional factors rather than pure merit-based discovery. This implies that scientific progress is constrained by prior choices and decisions, and under different initial conditions, entirely different knowledge systems could have developed. The research fundamentally questions conventional assumptions about scientific objectivity and contributes to our understanding of the limitations inherent in scientific methodology. However, the analysis remains primarily theoretical without presenting specific historical case studies or empirical data to substantiate the arguments, which represents a notable limitation.\n\n##",
-      "keyPoints": [
-        "**국소 최적값의 함정** / Local Optimum Trap: 과학적 지식은 절대적 진실이 아닌 특정 역사적 맥락 내에서의 최선의 상태에 불과하며, 더 나은 대안이 존재할 수 있음 / Scientific knowledge represents the best solution within specific historical contexts, not absolute truth, and superior alternatives may exist.",
-        "**경로 의존성(Path Dependence)** / Historical Contingency: 초기의 과학적 선택과 패러다임이 이후 발전 방향을 결정하며, 다른 초기 조건이었다면 완전히 다른 과학 체계가 형성되었을 수 있음 / Early scientific choices and paradigms determine subsequent development directions, and different initial conditions could have led to entirely different scientific systems.",
-        "**제도적 제약** / Institutional Lock-In: 대학, 학술지, 학파 등 과학 제도가 기존 패러다임을 강화하고 혁신적 대안의 수용을 어렵게 함 / Scientific institutions like universities and academic journals reinforce existing paradigms and inhibit acceptance of radical alternatives.",
-        "**객관성에 대한 재검토** / Objectivity Reconsidered: 과학의 객관성은 순수한 증거 기반이 아니라 역사적 맥락, 인지적 편향, 제도적 이익에 의해 중대하게 영향받음 / Scientific objectivity is substantially influenced by historical context, cognitive biases, and institutional interests, not purely by evidence alone."
-      ],
-      "url": "https://arxiv.org/abs/2604.11828",
-      "featured": false
-    },
-    {
-      "id": "d54fe17a028b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
-      "titleKo": "연속시간 다중시간척도 에이전트의 메타인지로부터의 교훈: 구조적 통합에서의 자기-모니터링 이점",
-      "summary": "arXiv:2604.11914v1 Announce Type: new Abstract: Self-monitoring capabilities -- metacognition, self-prediction, and subjective duration -- are often proposed as useful additions to reinforcement learning agents. But do they actually help? We investigate this question in a continuous-time multi-timescale agent operating in predator-prey survival environments of varying complexity, including a 2D partially observable variant. We first show that three self-monitoring modules, implemented as auxiliary-loss add-ons to a multi-timescale cortical hierarchy, provide no statistically significant benefi",
-      "aiSummary": "This study investigates whether self-monitoring capabilities—metacognition, self-prediction, and subjective time perception—actually benefit reinforcement learning agents. The research team conducted experiments using a continuous-time multi-timescale agent operating in predator-prey survival environments of varying complexity, including a 2D partially observable environment. Initial results showed that three self-monitoring modules, implemented as auxiliary-loss add-ons, did not provide statistically significant performance improvements when used independently. However, when these modules were structurally integrated into the neural network, the agent's performance improved meaningfully. The study suggests that self-monitoring functions are more effective when properly integrated into the architecture rather than simply added as auxiliary components. Further validation of generalizability across different environments is needed.\n\n##",
-      "aiSummaryKo": "본 연구는 강화학습 에이전트에 자기 모니터링 능력(메타인지, 자기예측, 주관적 시간 인지)이 실제로 도움이 되는지를 검증하는 것을 목표로 합니다. 연구팀은 포식자-피식자 생존 환경에서 작동하는 다중 시간 척도 연동 에이전트를 사용하여 실험을 설계했으며, 2차원 부분 관찰 가능 환경을 포함한 다양한 복잡도의 환경을 구성했습니다. 초기 결과로 세 가지 자기 모니터링 모듈(보조 손실 추가로 구현)이 단독으로는 통계적으로 유의미한 성능 향상을 제공하지 못했습니다. 그러나 이러한 모듈들을 구조적으로 통합했을 때, 에이전트의 성능이 의미 있게 개선되었습니다. 본 연구는 자기 모니터링 기능이 단순히 추가되는 것보다 신경망의 구조 내에 적절히 통합될 때 그 효과를 발휘할 수 있음을 시사합니다. 다만, 특정 환경에서의 일반화 가능성 검증이 추가로 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigates whether self-monitoring capabilities—metacognition, self-prediction, and subjective time perception—actually benefit reinforcement learning agents. The research team conducted experiments using a continuous-time multi-timescale agent operating in predator-prey survival environments of varying complexity, including a 2D partially observable environment. Initial results showed that three self-monitoring modules, implemented as auxiliary-loss add-ons, did not provide statistically significant performance improvements when used independently. However, when these modules were structurally integrated into the neural network, the agent's performance improved meaningfully. The study suggests that self-monitoring functions are more effective when properly integrated into the architecture rather than simply added as auxiliary components. Further validation of generalizability across different environments is needed.\n\n##",
-      "keyPoints": [
-        "**자기 모니터링의 역할 재정의** / Redefining the Role of Self-Monitoring: 메타인지와 같은 심리학 개념이 AI 에이전트에도 필요하다는 가정을 실증적으로 검증하는 연구",
-        "**구조적 통합의 중요성** / Importance of Structural Integration: 보조 손실(auxiliary loss)로만 추가하는 것보다 신경망의 기본 구조에 통합할 때 성능 향상 효과가 나타남",
-        "**다중 시간 척도 처리** / Multi-Timescale Processing: 연속 시간 환경에서 서로 다른 속도의 의사결정을 처리할 수 있는 에이전트 설계의 효율성",
-        "**실험 환경의 확대 필요** / Need for Expanded Experimental Validation: 포식자-피식자 환경에서의 결과가 다른 복잡한 환경으로 얼마나 일반화되는지 추가 검증 필요"
-      ],
-      "url": "https://arxiv.org/abs/2604.11914",
       "featured": false
     }
   ]
