@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-16T10:51:36.117220+00:00",
+  "updated": "2026-04-16T16:12:42.857896+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "611ce0bafb1b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Can psychedelics help trauma survivors reconnect intimately?",
+      "titleKo": "향정신성 물질이 트라우마 생존자들의 친밀한 관계 회복에 도움이 될 수 있을까?",
+      "summary": "Women who use psychedelics to cope with sexual trauma report increased emotional intimacy during sex, but these perceived benefits vary widely based on gender and personal history, according to a recent analysis of global drug users.",
+      "aiSummary": "This study examines the impact of psychedelic use on sexual intimacy among women with histories of sexual trauma, based on analysis of global drug user data. Researchers collected data from worldwide drug users and focused analysis on female participants with sexual trauma histories. Key findings show that women who used psychedelics reported increased emotional intimacy during sexual experiences. However, these perceived benefits varied significantly based on gender, personal history, and specific trauma characteristics. The research suggests new therapeutic possibilities for trauma treatment, but notable limitations include self-selection bias in the user population and lack of long-term effect data. Future controlled clinical trials are needed to systematically validate these effects and establish safety protocols.\n\n##",
+      "aiSummaryKo": "본 연구는 성적 트라우마를 겪은 여성들이 사이코델릭(환각제) 사용이 성적 친밀감에 미치는 영향을 조사한 글로벌 약물 사용자 분석 연구입니다. 연구진은 전 세계 약물 사용자들의 데이터를 수집하여 성적 트라우마 병력이 있는 여성 참가자들을 중심으로 분석했습니다. 주요 결과는 사이코델릭을 사용한 여성들이 성관계 중 정서적 친밀감 증가를 보고했다는 것입니다. 그러나 이러한 긍정적 효과는 성별, 개인적 병력, 트라우마 특성에 따라 매우 광범위하게 변동하는 것으로 나타났습니다. 본 연구는 트라우마 치료의 새로운 가능성을 제시하지만, 사용자 집단의 자기선택 편향과 장기 효과에 대한 데이터 부족이 주요 한계입니다. 향후 통제된 임상 시험을 통해 효과를 더욱 체계적으로 검증할 필요가 있습니다.\n\n##",
+      "aiSummaryEn": "This study examines the impact of psychedelic use on sexual intimacy among women with histories of sexual trauma, based on analysis of global drug user data. Researchers collected data from worldwide drug users and focused analysis on female participants with sexual trauma histories. Key findings show that women who used psychedelics reported increased emotional intimacy during sexual experiences. However, these perceived benefits varied significantly based on gender, personal history, and specific trauma characteristics. The research suggests new therapeutic possibilities for trauma treatment, but notable limitations include self-selection bias in the user population and lack of long-term effect data. Future controlled clinical trials are needed to systematically validate these effects and establish safety protocols.\n\n##",
+      "keyPoints": [
+        "**성적 트라우마와 정서적 친밀감**: 사이코델릭 사용 여성들이 성관계 중 정서적 친밀감 증가를 보고함 / Women using psychedelics reported increased emotional intimacy during sexual experiences",
+        "**개인차의 중요성**: 긍정적 효과가 성별, 개인적 병력, 트라우마 유형에 따라 광범위하게 변동 / Perceived benefits vary widely based on gender, personal history, and trauma characteristics",
+        "**자기선택 편향의 한계**: 연구 참가자가 자발적 약물 사용자 집단으로 제한되어 인과관계 추론의 어려움 / Self-selection bias limits causal inference as participants are from voluntary user populations",
+        "**임상적 검증 필요성**: 통제된 임상 시험을 통한 체계적 검증과 안전성 프로토콜 개발의 필요성 / Controlled clinical trials needed to establish efficacy, safety protocols, and long-term outcomes"
+      ],
+      "url": "https://www.psypost.org/psychedelics-affect-sexual-intimacy-differently-depending-on-a-survivor-s-gender/",
+      "featured": true
+    },
+    {
+      "id": "5cc1ad38ca5c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Cannabinoid use is linked to both pro- and anti-inflammatory effects, massive review finds",
+      "titleKo": "카나비노이드 사용은 친염증성 및 항염증성 효과 모두와 연관되어 있다는 대규모 검토 결과",
+      "summary": "A new review in Brain, Behavior, and Immunity challenges the idea that cannabis is strictly anti-inflammatory. Analyzing over 54,000 people, researchers found that regular cannabinoid use is linked to both pro- and anti-inflammatory immune responses.",
+      "aiSummary": "This review challenges the prevailing assumption that cannabis is strictly anti-inflammatory. Published in Brain, Behavior, and Immunity, the analysis of over 54,000 people reveals that regular cannabinoid use is associated with both pro-inflammatory and anti-inflammatory immune responses simultaneously. Researchers demonstrated that the traditional understanding of cannabis as purely anti-inflammatory is oversimplified and inaccurate. This finding suggests that evaluating cannabis's medical potential requires consideration of more complex biological mechanisms. However, as this is a meta-analysis synthesizing large-scale data, additional research is needed to clarify the specific effects of variables such as individual differences, cannabis type and dosage, and duration of use.\n\n##",
+      "aiSummaryKo": "이 연구는 대마초의 염증 억제 효과만 강조해온 기존 통념을 재검토한 대규모 종합 분석입니다. 뇌, 행동, 면역학(Brain, Behavior, and Immunity) 저널에 발표된 이 연구는 54,000명 이상의 사람들을 분석하여 정기적인 카나비노이드 사용이 염증을 억제하면서 동시에 염증을 유발하는 양쪽 면역 반응과 모두 연관되어 있음을 발견했습니다. 연구자들은 기존에 대마초가 순전히 항염증 물질이라는 단순한 이해가 부정확함을 보여주었습니다. 이는 대마초의 의료용 사용 가능성을 평가할 때 더욱 복잡한 생물학적 메커니즘을 고려해야 함을 시사합니다. 다만 이 연구는 대규모 데이터를 종합한 메타분석이므로 개인차, 대마초의 종류와 복용량, 사용 기간 등 구체적인 변수들의 영향을 명확히 파악하기 위해서는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This review challenges the prevailing assumption that cannabis is strictly anti-inflammatory. Published in Brain, Behavior, and Immunity, the analysis of over 54,000 people reveals that regular cannabinoid use is associated with both pro-inflammatory and anti-inflammatory immune responses simultaneously. Researchers demonstrated that the traditional understanding of cannabis as purely anti-inflammatory is oversimplified and inaccurate. This finding suggests that evaluating cannabis's medical potential requires consideration of more complex biological mechanisms. However, as this is a meta-analysis synthesizing large-scale data, additional research is needed to clarify the specific effects of variables such as individual differences, cannabis type and dosage, and duration of use.\n\n##",
+      "keyPoints": [
+        "**양면적 면역 반응** / Dual immune responses: 대마초가 항염증 효과만 가지는 것이 아니라 염증을 촉진하는 효과도 동시에 나타낼 수 있음",
+        "**대규모 증거 기반** / Large-scale evidence: 54,000명 이상의 데이터 분석으로 통념을 체계적으로 검증한 신뢰도 높은 연구",
+        "**의료용 판단의 복잡성** / Medical complexity: 대마초의 치료 가능성 평가 시 단순한 항염증 효과만이 아닌 다양한 생물학적 영향을 종합적으로 검토해야 함",
+        "**개인차 고려 필요** / Individual variability: 대마초 종류, 용량, 사용 기간, 사용자의 개인적 특성에 따라 면역 반응이 달라질 수 있으므로 맞춤형 연구 필요"
+      ],
+      "url": "https://www.psypost.org/cannabinoid-use-is-linked-to-both-pro-and-anti-inflammatory-effects-massive-review-finds/",
+      "featured": false
+    },
+    {
+      "id": "199c868cdc85",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "New psychology study links relationship insecurity to the pursuit of wealth and status",
+      "titleKo": "새로운 심리학 연구, 관계 불안정성과 부와 지위 추구의 연관성 밝혀내다",
+      "summary": "People with attachment anxiety constantly worry about being unloved. According to a new study, they often cope with this relationship insecurity by aggressively striving for social status and wealth to intimidate same-sex rivals.",
+      "aiSummary": "This study examined behavioral patterns in individuals who experience anxiety in romantic relationships. People with high attachment anxiety constantly worry about being unloved, and the research found that this relationship insecurity leads to the pursuit of social status and wealth. Specifically, researchers discovered that status-seeking behavior functions as a defensive mechanism to intimidate same-sex rivals. The study confirmed that insecure attachment patterns intensify the pursuit of material success and status-seeking behaviors. This research has significant implications for understanding how psychological insecurity influences economic behavior and social competition. However, the study's cross-sectional design limits its ability to establish clear causality, and findings may be confined to specific cultural populations.\n\n##",
+      "aiSummaryKo": "본 연구는 연애 관계에서 불안감을 느끼는 사람들이 어떤 행동 패턴을 보이는지 조사했습니다. 애착 불안이 높은 사람들은 자신이 사랑받지 못할 것이라는 걱정을 지속적으로 경험합니다. 연구진은 이러한 관계 불안감이 사회적 지위와 부의 추구로 이어진다고 발견했으며, 특히 같은 성별의 경쟁자를 위협하기 위한 방어 기제로 작동한다고 설명합니다. 연구자들은 불안정한 애착 유형이 물질적 성공 추구와 상태 행동(status-seeking behavior)을 심화시킨다는 것을 확인했습니다. 이 연구는 심리적 불안감이 경제적 행동과 사회적 경쟁에 미치는 영향을 이해하는 데 중요한 의의를 갖습니다. 다만, 본 연구는 횡단 설계로 진행되어 인과관계를 명확히 규명하지 못했으며, 특정 문화권의 참가자로 제한될 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study examined behavioral patterns in individuals who experience anxiety in romantic relationships. People with high attachment anxiety constantly worry about being unloved, and the research found that this relationship insecurity leads to the pursuit of social status and wealth. Specifically, researchers discovered that status-seeking behavior functions as a defensive mechanism to intimidate same-sex rivals. The study confirmed that insecure attachment patterns intensify the pursuit of material success and status-seeking behaviors. This research has significant implications for understanding how psychological insecurity influences economic behavior and social competition. However, the study's cross-sectional design limits its ability to establish clear causality, and findings may be confined to specific cultural populations.\n\n##",
+      "keyPoints": [
+        "**애착 불안과 지위 추구의 연관성** / Link between attachment anxiety and status-seeking: 관계 불안감을 느끼는 개인들이 사회적 지위와 부를 적극적으로 추구하는 경향을 보임",
+        "**같은 성별 경쟁자 위협 메커니즘** / Same-sex rival intimidation mechanism: 부와 지위 추구가 동성 경쟁자를 제압하기 위한 심리적 방어 기제로 작동함",
+        "**심리-경제 행동 연결고리** / Psychological-economic behavior connection: 개인의 심리적 불안감이 물질적 성공 추구와 소비 행동으로 직결되는 실제 메커니즘 규명",
+        "**연구 제한과 인과관계 미확립** / Research limitations and causality not established: 횡단 설계 사용으로 인한 인과관계 규명의 어려움과 문화적 일반화의 제한성"
+      ],
+      "url": "https://www.psypost.org/new-psychology-study-links-relationship-insecurity-to-the-pursuit-of-wealth-and-status/",
+      "featured": false
+    },
+    {
+      "id": "c1d7d1e43287",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "3일 전 / 3d ago",
+      "title": "What It’s Like to Be…an Aerospace Engineer",
+      "titleKo": "이렇게 산다는 것…항공우주 엔지니어의 삶",
+      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummary": "This article introduces a podcast episode featuring Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing her professional experiences. The methodology involves an interview-based podcast series called \"What It's Like to Be...\" hosted by bestselling author Dan Heath, which provides in-depth exploration of an aerospace engineer's daily work. Key topics covered include the landing process of the Perseverance rover on Mars, work in clean rooms to minimize microbial contamination, and hundreds of engineering trade-off decisions. Specific topics such as the \"seven minutes of terror\" during Mars landing and evidence of past life on Mars are discussed. The article is significant in enhancing public understanding of what actual experts in the engineering field do. However, the article lacks specific research data or quantitative results and serves as a podcast preview only, limiting the depth of information provided.\n\n##",
+      "aiSummaryKo": "본 기사는 NASA 제트 추진 연구소(JPL)의 항공우주공학자 스와티 모한(Swati Mohan)의 업무 경험을 다루는 팟캐스트 에피소드 소개글입니다. 연구 방법은 베스트셀러 저자 댄 히스(Dan Heath)가 진행하는 인터뷰 형식의 팟캐스트 'What It's Like to Be...' 시리즈를 통해 항공우주공학자의 일상을 심층 탐구하는 것입니다. 주요 내용은 화성 탐사로봇 퍼서비어런스(Perseverance)의 착륙 과정, 미생물 오염을 최소화하기 위한 무균실 작업, 그리고 수백 가지의 공학적 트레이드오프 결정 과정을 포함합니다. 특히 화성 착륙 시 \"공포의 7분(seven minutes of terror)\"이라 불리는 통신 불가 구간과 화성의 과거 생명체 증거 탐색 여부에 대한 질문들이 다루어집니다. 본 기사는 공학 분야의 전문가가 실제로 어떤 일을 수행하는지에 대한 대중의 이해를 높이는 데 의의가 있습니다. 다만 구체적인 연구 데이터나 정량적 결과가 부족하고, 팟캐스트 미리보기에 불과하여 심층적 정보 제공에 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This article introduces a podcast episode featuring Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing her professional experiences. The methodology involves an interview-based podcast series called \"What It's Like to Be...\" hosted by bestselling author Dan Heath, which provides in-depth exploration of an aerospace engineer's daily work. Key topics covered include the landing process of the Perseverance rover on Mars, work in clean rooms to minimize microbial contamination, and hundreds of engineering trade-off decisions. Specific topics such as the \"seven minutes of terror\" during Mars landing and evidence of past life on Mars are discussed. The article is significant in enhancing public understanding of what actual experts in the engineering field do. However, the article lacks specific research data or quantitative results and serves as a podcast preview only, limiting the depth of information provided.\n\n##",
+      "keyPoints": [
+        "**화성 탐사의 도전과제** / **Mars Exploration Challenges**: 퍼서비어런스 로봇 착륙 시 통신 불가 구간인 \"공포의 7분(seven minutes of terror)\"은 항공우주공학의 가장 높은 난이도의 작업 / The \"seven minutes of terror\" represents one of the most challenging moments in aerospace engineering where communication is impossible during rover landing.",
+        "**공학적 의사결정 과정** / **Engineering Decision-Making**: 엔지니어들은 수백 가지의 공학적 트레이드오프를 분석하고 최적의 솔루션을 찾아야 함 / Engineers must analyze hundreds of engineering trade-offs to find optimal solutions.",
+        "**무균 작업 환경의 중요성** / **Importance of Clean Room Operations**: 화성 탐사를 위해 미생물 오염을 최소화하는 무균실 작업이 필수적 / Minimizing microbial contamination through clean room work is essential for Mars exploration missions.",
+        "**과학적 호기심과 실무의 결합** / **Combination of Scientific Curiosity and Practical Work**: 화성의 과거 생명체 증거 탐색과 같은 과학적 궁금증이 실제 공학 업무의 동기가 됨 / Scientific curiosity about evidence of past life on Mars drives actual engineering work and mission objectives."
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
+      "featured": false
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "11일 전 / 11d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article presents a philosophical perspective that humans are not independent individuals but deeply interconnected beings immersed in their environment. The research background is rooted in explaining human-nature interdependence through the everyday act of breathing. Specifically, it emphasizes the biological cycle: oxygen humans inhale originates from plants, while carbon dioxide humans exhale is essential for plant photosynthesis. This suggests that humans actually exist as complex ecosystems alongside microorganisms, bacteria, and plants rather than isolated entities. The significance of this perspective challenges traditional humanistic views based on individuality and independence, proposing instead a new understanding of humanity grounded in interdependence and connectivity. However, the article's limitation lies in its emphasis on philosophical reflection with potentially limited empirical experimental data or quantitative evidence to support these concepts.\n\n##",
+      "aiSummaryKo": "이 기사는 인간이 독립적인 개체가 아니라 주변 환경과 밀접하게 상호작용하는 존재라는 철학적 관점을 제시한다. 연구 배경은 호흡이라는 일상적 행위를 통해 인간과 자연의 상호의존성을 설명하는 데 있다. 구체적으로, 인간이 들이마신 산소는 식물에서 비롯되었고, 인간이 내쉬는 이산화탄소는 식물의 광합성에 필요한 물질이라는 생물학적 순환을 강조한다. 이는 인간이 실제로는 미생물, 박테리아, 식물 등 수많은 생명체들과 함께 존재하는 복합적인 생태계임을 의미한다. 연구의 의의는 개별성과 독립성에 기반한 전통적 인간관을 재검토하도록 촉구하며, 상호의존성과 연결성에 기반한 새로운 인간이해를 제안한다. 다만 이 기사는 철학적 사유에 중점을 두고 있어 실증적 실험 데이터나 정량적 근거가 제한적일 수 있다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This article presents a philosophical perspective that humans are not independent individuals but deeply interconnected beings immersed in their environment. The research background is rooted in explaining human-nature interdependence through the everyday act of breathing. Specifically, it emphasizes the biological cycle: oxygen humans inhale originates from plants, while carbon dioxide humans exhale is essential for plant photosynthesis. This suggests that humans actually exist as complex ecosystems alongside microorganisms, bacteria, and plants rather than isolated entities. The significance of this perspective challenges traditional humanistic views based on individuality and independence, proposing instead a new understanding of humanity grounded in interdependence and connectivity. However, the article's limitation lies in its emphasis on philosophical reflection with potentially limited empirical experimental data or quantitative evidence to support these concepts.\n\n##",
+      "keyPoints": [
+        "**호흡을 통한 상호의존성** / Mutual Dependence Through Respiration",
+        "**신체 내 미생물 생태계** / Microbial Ecosystem Within the Body",
+        "**개별성 관념의 재정의** / Redefinition of Individuality",
+        "**환경과의 융합적 존재** / Existence as Integrated with Environment"
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
+    {
+      "id": "1f2d0b54d063",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "15일 전 / 15d ago",
+      "title": "What It’s Like to Be…a Diplomat",
+      "titleKo": "외교관이 된다는 것은 어떤 경험인가",
+      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
+      "aiSummary": "This article features a podcast episode introducing real-world experiences of U.S. diplomats. Bestselling author Dan Heath interviews John Johnson, a retired diplomat with over 20 years of service in the U.S. Foreign Service, to illuminate the actual nature of modern diplomacy. The interview covers concrete diplomatic cases including defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the chaotic evacuation of the Kabul embassy. This research demonstrates the importance of psychological and cognitive competencies of modern diplomats in the 21st century, such as crisis management abilities, multilingual communication skills, and capacity to handle extreme situations. The study particularly emphasizes decision-making and interpersonal management skills in high-risk environments. However, this material has limitations as a qualitative, single-case analysis lacking statistical validation or large-scale sample research.\n\n##",
+      "aiSummaryKo": "이 기사는 미국 외교관의 실제 업무 경험을 다루는 팟캐스트 에피소드를 소개합니다. 베스트셀러 저자 댄 히스가 20년 이상 미국 외교부에서 근무한 퇴직 외교관 존 존슨과의 인터뷰를 통해 현대 외교의 실제 모습을 조명합니다. 인터뷰에서는 대러시아 선제 공격 암시 이후 위기 상황을 진정시킨 사례, 다국어로 진행되는 외교적 항의(demarche) 전달, 그리고 카불 대사관의 혼란스러운 철수 상황 생존기 등 구체적인 외교 사례들이 다루어집니다. 이 연구는 21세기 현대 외교관의 위기 관리 능력, 다중 언어 소통 능력, 극단적 상황 대처 능력 등 심리적·인지적 역량의 중요성을 보여줍니다. 특히 고위험 상황에서의 의사결정과 대인 관계 관리 능력이 강조됩니다. 다만 이 자료는 단일 사례 중심의 정성적 분석으로, 통계적 검증이나 광범위한 표본 연구의 한계를 가집니다.\n\n##",
+      "aiSummaryEn": "This article features a podcast episode introducing real-world experiences of U.S. diplomats. Bestselling author Dan Heath interviews John Johnson, a retired diplomat with over 20 years of service in the U.S. Foreign Service, to illuminate the actual nature of modern diplomacy. The interview covers concrete diplomatic cases including defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the chaotic evacuation of the Kabul embassy. This research demonstrates the importance of psychological and cognitive competencies of modern diplomats in the 21st century, such as crisis management abilities, multilingual communication skills, and capacity to handle extreme situations. The study particularly emphasizes decision-making and interpersonal management skills in high-risk environments. However, this material has limitations as a qualitative, single-case analysis lacking statistical validation or large-scale sample research.\n\n##",
+      "keyPoints": [
+        "**위기 관리 능력 / Crisis Management Competency**: 외교관은 국가 간 갈등 상황에서 에스컬레이션을 방지하고 평화적 해결책을 도출하는 심리적 긴장 관리 능력이 필수적입니다.",
+        "**다중 언어 및 문화 소통 / Multilingual & Intercultural Communication**: 21세기 외교는 단순한 언어 번역을 넘어 문화적 맥락을 이해하고 복잡한 정치적 메시지를 정확히 전달하는 고도의 인지적 능력을 요구합니다.",
+        "**극한 상황 심리 회복력 / Psychological Resilience in Extreme Situations**: 카불 대사관 철수와 같은 극도로 위험한 상황에서 냉정함을 유지하고 효과적으로 판단하는 감정 조절 능력의 중요성을 보여줍니다.",
+        "**현대 외교의 디지털 도구 변화 / Evolution of Diplomatic Tools in Digital Age**: \"케이블(cables)\" 등 전통적 외교 통신 수단이 여전히 21세기에도 사용되는지에 대한 질문은 디지털 시대 외교 실무의 변화를 탐색합니다."
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
+      "featured": false
+    },
+    {
+      "id": "a3d5cb0c4033",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "24일 전 / 24d ago",
+      "title": "‘Looking Backward’ to the Future",
+      "titleKo": "'과거를 돌아보며' 미래로",
+      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummary": "The provided text is not a psychology or AI research article, but rather the preface of Edward Bellamy's novel \"Looking Backward\" (1888). This classic literary work employs a time-travel premise where the protagonist, born in 1857, awakens in the modern era (year 2000) to explore social change. There is no specific research methodology, participant numbers, experimental design, quantitative data, or psychological/AI research findings presented. Since this is a literary work's introduction rather than a scientific paper or research news article, an academic analysis in the requested format cannot be performed. To provide accurate analysis, please submit an actual psychology or AI-related research article.",
+      "aiSummaryKo": "제시된 텍스트는 심리학이나 AI 연구 기사가 아닌 Edward Bellamy의 소설 『Looking Backward』(1888)의 서문으로 보입니다. 이 고전 문학작품은 1857년생 주인공이 현대(2000년)에 깨어나는 설정을 통해 시간 여행과 사회 변화를 다룹니다. 구체적인 연구 방법, 참가자 수, 실험 설계가 없으며, 정량적 데이터나 심리학/AI 연구 결과를 포함하지 않습니다. 이는 과학 논문이나 연구 뉴스가 아닌 문학 작품의 도입부이므로, 요청하신 형식의 학술적 분석을 수행할 수 없습니다. 정확한 분석을 위해서는 실제 심리학 또는 AI 관련 연구 기사를 제공해 주시기 바랍니다.",
+      "aiSummaryEn": "The provided text is not a psychology or AI research article, but rather the preface of Edward Bellamy's novel \"Looking Backward\" (1888). This classic literary work employs a time-travel premise where the protagonist, born in 1857, awakens in the modern era (year 2000) to explore social change. There is no specific research methodology, participant numbers, experimental design, quantitative data, or psychological/AI research findings presented. Since this is a literary work's introduction rather than a scientific paper or research news article, an academic analysis in the requested format cannot be performed. To provide accurate analysis, please submit an actual psychology or AI-related research article.",
+      "keyPoints": [
+        "제공된 자료는 심리학/AI 연구 기사가 아님 / The provided material is not a psychology/AI research article",
+        "Edward Bellamy의 고전 소설 『Looking Backward』의 문학적 도입부 / Literary preface from Edward Bellamy's classic novel",
+        "학술적 연구 데이터나 방법론 부재 / Absence of academic research data or methodology",
+        "정확한 분석을 위해 실제 연구 기사 필요 / Actual research article required for accurate analysis"
+      ],
+      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
+      "featured": false
+    },
     {
       "id": "ddf25bbb3cc0",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**현대 정치 커뮤니케이션의 문제** / Contemporary Political Communication Crisis"
       ],
       "url": "https://www.psypost.org/republican-lawmakers-lead-the-trend-of-using-insults-to-chase-media-attention-instead-of-policy-wins/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "334f96f2fd2e",
@@ -253,123 +400,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2604.13281",
-      "featured": false
-    },
-    {
-      "id": "2a603c6e0bc0",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "From Brain Models to Executable Digital Twins: Execution Semantics and Neuro-Neuromorphic Systems",
-      "titleKo": "",
-      "summary": "arXiv:2604.13574v1 Announce Type: cross Abstract: Brain digital twins aim to provide faithful, individualized computational representations of brains as dynamical systems, enabling mechanistic understanding and supporting prediction of clinical interventions. Yet current approaches remain fragmented across data pipelines, model classes, temporal scales, and computing platforms, which prevents the preservation of execution semantics across the end-toend workflow. This survey introduces physically constrained executability as a unifying perspective for comparing approaches at the level of execut",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.13574",
-      "featured": false
-    },
-    {
-      "id": "7583c4f3be33",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Modeling of Self-sustained Neuron Population without External Stimulus",
-      "titleKo": "",
-      "summary": "arXiv:2604.13719v1 Announce Type: cross Abstract: Self-sustained neural activity in the absence of ongoing external input is a fundamental feature of nervous system dynamics, yet the conditions under which it can emerge in biophysically grounded network models remain incompletely understood. We studied whether a recurrent network of Hodgkin-Huxley neurons with spike-timing-dependent plasticity and intrinsic stochasticity can maintain autonomous activity after brief transient stimulation. The simulated network comprised 200 neurons (160 excitatory, 40 inhibitory) with 80% connection probability",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.13719",
-      "featured": false
-    },
-    {
-      "id": "e6acb17d3a3f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "17시간 전 / 17h ago",
-      "title": "The surprising reason you’re so productive one day and not the next",
-      "titleKo": "",
-      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "featured": false
-    },
-    {
-      "id": "1feb820f194c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "22시간 전 / 22h ago",
-      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
-      "titleKo": "",
-      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
-      "featured": false
-    },
-    {
-      "id": "ce2be44378d8",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Lonely people have worse memory but don’t decline faster, study finds",
-      "titleKo": "",
-      "summary": "Loneliness may quietly affect how well older adults remember things—but it might not be speeding up mental decline after all. A large European study tracking over 10,000 people for seven years found that those who felt lonelier started off with weaker memory, yet their memory didn’t deteriorate any faster than those who felt more socially connected. The findings challenge the idea that loneliness directly accelerates cognitive decline or dementia, suggesting instead that it impacts baseline brain performance.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075633.htm",
-      "featured": false
-    },
-    {
-      "id": "14128a55c7d2",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
-      "titleKo": "",
-      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
-      "featured": false
-    },
-    {
-      "id": "03a1609833b6",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "A daily mindfulness habit can improve your memory for future plans",
-      "titleKo": "매일의 명상 습관이 미래 계획 기억력을 향상시킬 수 있다",
-      "summary": "A daily meditation practice might help you remember future tasks. A new psychology experiment revealed that a week of mindfulness training boosted time-based memory, particularly when participants could not easily check a clock.",
-      "aiSummary": "This study investigated how daily meditation practice affects memory for future plans. Researchers conducted an experiment where participants received one week of mindfulness training. The key finding was that participants who completed mindfulness training showed significant improvements in time-based memory, particularly in situations where they could not easily check a clock. This suggests that meditation practice may enhance the brain's ability to track time, helping people remember future appointments and tasks. However, the study only measured short-term training effects, so additional research on long-term benefits is needed. A limitation is the lack of specific information about sample size and participant characteristics.\n\n##",
-      "aiSummaryKo": "본 연구는 일상적인 명상 수련이 미래 계획 기억에 미치는 영향을 조사했습니다. 연구팀은 참가자들을 대상으로 1주일간의 마음챙김 훈련 프로그램을 실시하는 실험 설계를 사용했습니다. 핵심 결과는 마음챙김 훈련을 받은 참가자들이 시간 기반 기억력, 특히 시계를 쉽게 확인할 수 없는 상황에서의 기억력이 유의미하게 향상되었다는 것입니다. 이는 명상 수련이 뇌의 시간 인식 능력을 강화하여 미래 일정이나 약속을 잊지 않는 데 도움이 될 수 있음을 시사합니다. 다만 본 연구는 단기간의 훈련 효과만을 측정했으므로 장기적 효과에 대한 추가 연구가 필요합니다. 또한 연구 규모와 참가자 특성에 대한 구체적 정보가 제한적인 것이 한계점입니다.\n\n##",
-      "aiSummaryEn": "This study investigated how daily meditation practice affects memory for future plans. Researchers conducted an experiment where participants received one week of mindfulness training. The key finding was that participants who completed mindfulness training showed significant improvements in time-based memory, particularly in situations where they could not easily check a clock. This suggests that meditation practice may enhance the brain's ability to track time, helping people remember future appointments and tasks. However, the study only measured short-term training effects, so additional research on long-term benefits is needed. A limitation is the lack of specific information about sample size and participant characteristics.\n\n##",
-      "keyPoints": [
-        "**마음챙김 훈련의 기억력 개선 효과** / Mindfulness training improves memory performance",
-        "**시간 기반 기억에 특히 효과적** / Particularly effective for time-based memory (prospective memory)",
-        "**시계 확인 불가 상황에서 더욱 유용** / More beneficial when external time cues are unavailable",
-        "**추가 연구 필요** / Long-term effects and larger sample sizes needed for validation"
-      ],
-      "url": "https://www.psypost.org/a-daily-mindfulness-habit-can-improve-your-memory-for-future-plans/",
       "featured": false
     }
   ]
