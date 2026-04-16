@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-16T16:12:42.857896+00:00",
+  "updated": "2026-04-16T20:08:39.484694+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "7a54b166fdf7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Children with ADHD report applying less effort on cognitive tasks compared to their peers",
+      "titleKo": "ADHD가 있는 아동들이 또래 아이들에 비해 인지 과제에 덜 노력을 기울인다고 보고합니다",
+      "summary": "A new study reveals that children with ADHD report putting significantly less effort into cognitive tasks than their peers. Surprisingly, they don't find these tasks any more difficult, highlighting a unique gap in how they perceive mental exertion.",
+      "aiSummary": "This study investigated the perceived effort that children with ADHD exert on cognitive tasks compared to their typically developing peers. Researchers administered identical cognitive tasks to both ADHD and control groups and measured the subjective effort each child reported experiencing. The key finding revealed that children with ADHD reported applying significantly less effort to these tasks than their peers, despite perceiving the tasks as no more difficult. This surprising disconnect between effort expenditure and task difficulty perception suggests a unique neuropsychological characteristic of ADHD. The research has important implications for understanding how children with ADHD are motivated and regulate cognitive effort differently from their peers. However, the study relied solely on self-report measures, limiting its conclusions and necessitating validation through objective neuroimaging data in future research.\n\n##",
+      "aiSummaryKo": "이 연구는 ADHD(주의력결핍과잉행동장애)를 가진 아동들이 인지 과제를 수행할 때 얼마나 노력하는지를 조사하기 위해 진행되었습니다. 연구진은 ADHD 아동과 일반 아동들에게 동일한 인지 과제를 제시하고 각자가 느끼는 노력 정도를 측정했습니다. 놀랍게도 ADHD 아동들은 같은 과제를 수행할 때 또래 아동들보다 훨씬 적은 노력을 기울였다고 보고했습니다. 더욱 흥미로운 점은 이들이 과제의 난이도를 더 어렵다고 느끼지는 않았다는 것으로, 이는 인지적 노력과 난이도 인식 사이에 불일치가 있음을 시사합니다. 이 발견은 ADHD 아동들이 정신적 노력을 동기부여하고 조절하는 방식이 또래와 다르다는 점을 이해하는 데 중요한 의의가 있습니다. 다만 이 연구는 자기보고식 측정에만 의존했으므로, 객관적 뇌 영상 데이터와의 연결을 통한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated the perceived effort that children with ADHD exert on cognitive tasks compared to their typically developing peers. Researchers administered identical cognitive tasks to both ADHD and control groups and measured the subjective effort each child reported experiencing. The key finding revealed that children with ADHD reported applying significantly less effort to these tasks than their peers, despite perceiving the tasks as no more difficult. This surprising disconnect between effort expenditure and task difficulty perception suggests a unique neuropsychological characteristic of ADHD. The research has important implications for understanding how children with ADHD are motivated and regulate cognitive effort differently from their peers. However, the study relied solely on self-report measures, limiting its conclusions and necessitating validation through objective neuroimaging data in future research.\n\n##",
+      "keyPoints": [
+        "**노력 인식의 차이** / **Effort Perception Gap**: ADHD 아동들이 인지 과제 수행 시 또래보다 현저히 적은 노력을 투입한다고 보고함. Children with ADHD report exerting significantly less effort on cognitive tasks than their peers.",
+        "**난이도와의 불일치** / **Disconnect from Difficulty**: 과제를 더 어렵지 않다고 인식하면서도 노력을 덜 기울이는 모순적 패턴 발견. A paradoxical pattern where low effort doesn't correlate with perceived task difficulty.",
+        "**동기부여 및 자기조절의 문제** / **Motivation and Self-Regulation Issue**: 이는 ADHD 아동의 독특한 동기부여 메커니즘과 인지적 노력 조절 방식의 차이를 반영함. Suggests ADHD involves distinct motivation and cognitive effort regulation mechanisms.",
+        "**자기보고식 측정의 한계** / **Self-Report Limitation**: 뇌 영상 및 객관적 신경생리학적 지표와의 비교를 통한 추가 검증 필요. Future research requires objective neuroimaging validation alongside subjective measures."
+      ],
+      "url": "https://www.psypost.org/children-with-adhd-report-applying-less-effort-on-cognitive-tasks-compared-to-their-peers/",
+      "featured": true
+    },
+    {
+      "id": "2a603c6e0bc0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "From Brain Models to Executable Digital Twins: Execution Semantics and Neuro-Neuromorphic Systems",
+      "titleKo": "뇌 모델에서 실행 가능한 디지털 쌍둥이로: 실행 의미론과 신경-신경형태 시스템",
+      "summary": "arXiv:2604.13574v1 Announce Type: cross Abstract: Brain digital twins aim to provide faithful, individualized computational representations of brains as dynamical systems, enabling mechanistic understanding and supporting prediction of clinical interventions. Yet current approaches remain fragmented across data pipelines, model classes, temporal scales, and computing platforms, which prevents the preservation of execution semantics across the end-toend workflow. This survey introduces physically constrained executability as a unifying perspective for comparing approaches at the level of execut",
+      "aiSummary": "This research addresses the current state and challenges of creating \"brain digital twins\"—computational models that faithfully represent individual brains as dynamic systems. Existing brain modeling approaches remain fragmented across data pipelines, model architectures, temporal scales, and computing platforms, preventing the preservation of execution semantics throughout the entire workflow. The research team proposes \"physically constrained executability\" as a unifying framework for comparing different approaches. This framework is significant for enabling mechanistic understanding of brain function and supporting prediction of clinical interventions for neurological conditions. Key limitations include the technical difficulty of achieving complete brain representation at current technological levels and the challenge of encompassing individual variations in brain characteristics. This survey is expected to serve as a foundation for future integrated research in neuro-neuromorphic systems.\n\n##",
+      "aiSummaryKo": "이 연구는 뇌를 디지털로 복제하는 '뇌 디지털 쌍둥이(Brain Digital Twin)' 기술의 현황과 과제를 다루고 있습니다. 현재의 뇌 모델링 연구들은 데이터 수집, 모델 구축, 시간 척도 설정, 컴퓨팅 플랫폼 등 여러 단계에서 분산되어 있어 전체 워크플로우에서 실행 의미론(execution semantics)을 보존하지 못하고 있습니다. 연구팀은 물리적 제약 조건을 고려한 '실행 가능성(executability)'을 통합적 관점으로 제시하여 서로 다른 접근 방식들을 비교할 수 있는 틀을 제안합니다. 이는 임상 치료 예측과 뇌 질환 메커니즘 이해에 중요한 의의를 갖습니다. 본 연구의 한계는 현재 기술 수준에서 완전한 뇌 재현이 기술적으로 매우 어렵다는 점과, 개인별 뇌 특성의 다양성을 모두 포괄하기 어렵다는 점입니다. 이 논문은 향후 뇌-신경형태 시스템(neuro-neuromorphic systems) 통합 연구의 기초가 될 것으로 예상됩니다.\n\n##",
+      "aiSummaryEn": "This research addresses the current state and challenges of creating \"brain digital twins\"—computational models that faithfully represent individual brains as dynamic systems. Existing brain modeling approaches remain fragmented across data pipelines, model architectures, temporal scales, and computing platforms, preventing the preservation of execution semantics throughout the entire workflow. The research team proposes \"physically constrained executability\" as a unifying framework for comparing different approaches. This framework is significant for enabling mechanistic understanding of brain function and supporting prediction of clinical interventions for neurological conditions. Key limitations include the technical difficulty of achieving complete brain representation at current technological levels and the challenge of encompassing individual variations in brain characteristics. This survey is expected to serve as a foundation for future integrated research in neuro-neuromorphic systems.\n\n##",
+      "keyPoints": [
+        "**뇌 디지털 쌍둥이의 필요성** / Brain digital twins enable faithful, individualized computational representations of individual brains as dynamical systems for clinical prediction",
+        "**현재의 주요 문제점: 단편화** / Current approaches are fragmented across data pipelines, model classes, temporal scales, and computing platforms, losing execution semantics",
+        "**통합적 해결책: 물리적 제약 기반 실행 가능성** / Physical constraint-based executability is proposed as a unifying perspective to compare different methodological approaches",
+        "**뇌-신경형태 시스템 통합의 중요성** / Integration of neuro-neuromorphic systems could revolutionize mechanistic understanding and clinical intervention strategies for brain disorders"
+      ],
+      "url": "https://arxiv.org/abs/2604.13574",
+      "featured": false
+    },
+    {
+      "id": "7583c4f3be33",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Modeling of Self-sustained Neuron Population without External Stimulus",
+      "titleKo": "외부 자극 없이 자기유지되는 신경집단의 모델링",
+      "summary": "arXiv:2604.13719v1 Announce Type: cross Abstract: Self-sustained neural activity in the absence of ongoing external input is a fundamental feature of nervous system dynamics, yet the conditions under which it can emerge in biophysically grounded network models remain incompletely understood. We studied whether a recurrent network of Hodgkin-Huxley neurons with spike-timing-dependent plasticity and intrinsic stochasticity can maintain autonomous activity after brief transient stimulation. The simulated network comprised 200 neurons (160 excitatory, 40 inhibitory) with 80% connection probability",
+      "aiSummary": "This study investigates the conditions under which neural networks can maintain autonomous activity without external stimuli, a fundamental feature of brain function. Researchers used biophysically realistic Hodgkin-Huxley neuron models to construct a recurrent network containing 200 neurons (160 excitatory, 40 inhibitory) with 80% connection probability. The simulation incorporated spike-timing-dependent plasticity (synaptic learning) and intrinsic stochasticity to test whether the network could sustain activity after brief transient stimulation. This research is significant for understanding how the brain maintains continuous activity and processes information without constant external input, which is essential for memory retention and cognitive functions. The findings contribute to fundamental neuroscience by demonstrating mechanisms of self-sustained neural dynamics. However, the study's limitations include its reliance on computational modeling, which may not fully capture the complexity of biological neural systems.\n\n##",
+      "aiSummaryKo": "이 연구는 외부 자극이 없어도 신경망이 자체적으로 활동을 유지할 수 있는 조건을 규명하기 위해 수행되었습니다. 연구팀은 생물물리학적으로 정확한 호지킨-헉슬리 신경세포 모델을 사용하여 200개의 신경세포(흥분성 160개, 억제성 40개)로 이루어진 재귀적 신경망을 구성했고, 80% 연결 확률로 설정했습니다. 이 네트워크에 시냅스 가소성(학습에 따른 신경연결 변화)과 자발적 불규칙성을 포함시켜, 짧은 자극 후에도 자체적으로 신경활동을 지속할 수 있는지 시뮬레이션으로 검증했습니다. 이 연구는 뇌가 외부 입력 없이도 어떻게 지속적인 활동을 유지하는지 이해하는 데 기초적 역할을 합니다. 이러한 자체 유지 신경활동은 기억 유지, 인지 과정, 뇌의 안정적 작동에 필수적입니다. 다만 이 연구는 컴퓨터 시뮬레이션 기반이므로 실제 뇌의 복잡성을 완전히 반영하지 못할 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigates the conditions under which neural networks can maintain autonomous activity without external stimuli, a fundamental feature of brain function. Researchers used biophysically realistic Hodgkin-Huxley neuron models to construct a recurrent network containing 200 neurons (160 excitatory, 40 inhibitory) with 80% connection probability. The simulation incorporated spike-timing-dependent plasticity (synaptic learning) and intrinsic stochasticity to test whether the network could sustain activity after brief transient stimulation. This research is significant for understanding how the brain maintains continuous activity and processes information without constant external input, which is essential for memory retention and cognitive functions. The findings contribute to fundamental neuroscience by demonstrating mechanisms of self-sustained neural dynamics. However, the study's limitations include its reliance on computational modeling, which may not fully capture the complexity of biological neural systems.\n\n##",
+      "keyPoints": [
+        "**외부 자극 없는 신경활동 유지** / Self-sustained neural activity without external input is a fundamental nervous system feature that remains incompletely understood",
+        "**생물물리학적 신경망 모델 사용** / Biophysically grounded Hodgkin-Huxley neurons with 200-cell network (160 excitatory, 40 inhibitory) at 80% connectivity",
+        "**시냅스 가소성의 역할** / Spike-timing-dependent plasticity combined with intrinsic stochasticity enables autonomous activity maintenance after transient stimulation",
+        "**뇌 기능 이해의 기초** / Results clarify mechanisms underlying memory retention, cognitive processing, and stable brain operation independent of external input"
+      ],
+      "url": "https://arxiv.org/abs/2604.13719",
+      "featured": false
+    },
+    {
+      "id": "e6acb17d3a3f",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "The surprising reason you’re so productive one day and not the next",
+      "titleKo": "어떤 날은 생산성이 높고 어떤 날은 낮은 놀라운 이유",
+      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
+      "aiSummary": "Researchers investigated how daily fluctuations in mental clarity affect productivity. The study addresses the common experience of why the same person performs well on some days but not others. The findings revealed that sharper thinking on a given day leads people to set higher goals and successfully pursue them, resulting in up to 40 additional minutes of productivity. However, sustained high-intensity work over prolonged periods reverses this positive effect, leading to decreased productivity. The research suggests that managing mental state and taking appropriate breaks are crucial for sustained productivity improvement. This discovery highlights the importance of understanding circadian and cognitive fluctuations in optimizing daily performance.\n\n##",
+      "aiSummaryKo": "연구진은 사람들의 일일 정신 상태 변화가 생산성에 미치는 영향을 조사했습니다. 이 연구는 왜 같은 사람이도 어떤 날은 매우 생산적이고 다른 날은 그렇지 않은지를 설명하기 위해 진행되었습니다. 연구 결과, 특정 날에 정신이 맑고 명확한 사고를 할 수 있는 상태에 있으면 사람들은 더 높은 목표를 설정하고 이를 실행할 가능성이 높아진다는 것을 발견했습니다. 이러한 정신적 예리함은 최대 40분 정도의 추가 생산성 향상으로 이어질 수 있습니다. 그러나 장시간 과도하게 높은 강도로 작업을 지속하면 이러한 긍정적 효과가 역으로 작용하여 생산성이 감소합니다. 이 연구는 생산성 향상을 위해서는 정신 상태 관리와 적절한 휴식이 중요함을 시사합니다.\n\n##",
+      "aiSummaryEn": "Researchers investigated how daily fluctuations in mental clarity affect productivity. The study addresses the common experience of why the same person performs well on some days but not others. The findings revealed that sharper thinking on a given day leads people to set higher goals and successfully pursue them, resulting in up to 40 additional minutes of productivity. However, sustained high-intensity work over prolonged periods reverses this positive effect, leading to decreased productivity. The research suggests that managing mental state and taking appropriate breaks are crucial for sustained productivity improvement. This discovery highlights the importance of understanding circadian and cognitive fluctuations in optimizing daily performance.\n\n##",
+      "keyPoints": [
+        "**정신 상태의 중요성** / Mental clarity directly impacts productivity and goal-setting behavior, with sharper cognition leading to more ambitious objectives.",
+        "**구체적 생산성 향상** / Daily mental acuity improvements can translate into approximately 40 additional minutes of productive work output.",
+        "**과로의 부작용** / Pushing too hard for extended periods without breaks paradoxically reverses the productivity gains, causing performance to decline.",
+        "**개인 최적화의 필요성** / Understanding one's own cognitive fluctuations and managing mental state effectively is essential for consistent high performance and sustainable productivity."
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
+      "featured": false
+    },
+    {
+      "id": "1feb820f194c",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
+      "titleKo": "평생 이를 실천하면 알츠하이머병 위험을 38% 줄일 수 있습니다",
+      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
+      "aiSummary": "This research examined how lifelong mental stimulation—such as reading, writing, and learning new skills—affects Alzheimer's disease prevention. Researchers compared cognitive enrichment levels between high and low stimulation groups to analyze Alzheimer's risk and symptom onset timing. The study found that individuals with the highest levels of cognitive enrichment experienced a 38% reduction in Alzheimer's disease risk and delayed symptom manifestation by several years compared to those with minimal stimulation. These findings suggest that cognitive reserve plays a crucial protective role against neurodegenerative diseases. The research highlights the importance of maintaining mental engagement throughout life for brain health. However, as an observational study, it cannot establish complete causality, and confounding factors such as education level and socioeconomic status may influence the results.\n\n##",
+      "aiSummaryKo": "이 연구는 평생에 걸친 정신적 자극이 알츠하이머병 예방에 미치는 영향을 조사했습니다. 읽기, 쓰기, 새로운 기술 학습 등 인지적 자극 활동이 뇌 노화를 지연시킬 수 있다는 가정 하에 진행되었습니다. 연구팀은 인지적 자극 수준이 높은 집단과 낮은 집단을 비교하여 알츠하이머병 발병 위험도와 증상 발현 시기를 분석했습니다. 결과적으로 평생 정신적 자극을 많이 받은 사람들은 알츠하이머병 위험이 38% 감소했으며, 증상이 나타나는 시기도 수년 늦춰지는 것으로 나타났습니다. 이 발견은 인지 예비력(cognitive reserve)이 신경퇴행성 질환 예방에 중요한 역할을 함을 시사합니다. 다만, 이 연구는 관찰 연구로서 인과관계를 완전히 증명하지는 못했으며, 개인의 교육 수준이나 사회경제적 지위 등 혼재 변인의 영향이 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This research examined how lifelong mental stimulation—such as reading, writing, and learning new skills—affects Alzheimer's disease prevention. Researchers compared cognitive enrichment levels between high and low stimulation groups to analyze Alzheimer's risk and symptom onset timing. The study found that individuals with the highest levels of cognitive enrichment experienced a 38% reduction in Alzheimer's disease risk and delayed symptom manifestation by several years compared to those with minimal stimulation. These findings suggest that cognitive reserve plays a crucial protective role against neurodegenerative diseases. The research highlights the importance of maintaining mental engagement throughout life for brain health. However, as an observational study, it cannot establish complete causality, and confounding factors such as education level and socioeconomic status may influence the results.\n\n##",
+      "keyPoints": [
+        "**38% 위험도 감소**: 평생 정신적 자극이 많은 사람들은 알츠하이머병 발병 위험이 38% 낮음 / A 38% reduction in Alzheimer's disease risk for those with high lifelong cognitive stimulation",
+        "**증상 발현 지연**: 인지적 자극이 많은 집단은 알츠하이머 증상이 수년 늦게 나타남 / Symptom onset delayed by several years in the high cognitive enrichment group",
+        "**인지 예비력(Cognitive Reserve)**: 정신 활동이 뇌 신경망을 강화하여 신경퇴행성 질환에 대한 저항력 증가 / Mental activities strengthen neural networks, building cognitive reserve against neurodegeneration",
+        "**평생 학습의 중요성**: 읽기, 쓰기, 새로운 기술 습득 등 지속적인 정신 자극이 뇌 건강 유지의 핵심 / Continuous mental engagement through reading, writing, and skill acquisition is essential for maintaining brain health throughout life"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
+      "featured": false
+    },
+    {
+      "id": "ce2be44378d8",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Lonely people have worse memory but don’t decline faster, study finds",
+      "titleKo": "외로운 사람들은 기억력이 더 나쁘지만 더 빠르게 악화되지는 않는다는 연구 결과",
+      "summary": "Loneliness may quietly affect how well older adults remember things—but it might not be speeding up mental decline after all. A large European study tracking over 10,000 people for seven years found that those who felt lonelier started off with weaker memory, yet their memory didn’t deteriorate any faster than those who felt more socially connected. The findings challenge the idea that loneliness directly accelerates cognitive decline or dementia, suggesting instead that it impacts baseline brain performance.",
+      "aiSummary": "This large-scale European study examined the long-term impact of loneliness on cognitive function in older adults. Researchers tracked over 10,000 participants for seven years to analyze the relationship between loneliness and memory. Key findings revealed that lonely individuals demonstrated weaker baseline memory performance initially, but their memory did not decline faster than socially connected individuals over the study period. These results challenge the prevailing assumption that loneliness directly accelerates cognitive decline or dementia, suggesting instead that loneliness primarily affects baseline brain performance. The study's limitations include the inability to establish clear causality and its focus on European populations, which may limit generalizability to other demographic groups.\n\n##",
+      "aiSummaryKo": "본 연구는 외로움이 노인의 인지 기능에 미치는 영향을 장기적으로 추적한 유럽 대규모 연구입니다. 연구팀은 10,000명 이상의 참가자를 7년간 추적하여 외로움과 기억력의 관계를 분석했습니다. 주요 결과는 외로움을 느끼는 사람들이 초기에 더 약한 기억력을 보였으나, 시간이 지남에 따라 기억력이 사회적 연결감이 높은 사람들보다 더 빠르게 저하되지는 않았다는 것입니다. 이는 외로움이 인지 저하나 치매를 직접적으로 가속화한다는 기존의 가정에 도전하는 결과입니다. 대신 연구는 외로움이 뇌의 기본 성능 수준에 영향을 미친다는 것을 시사합니다. 이 연구의 한계는 인과관계를 명확히 증명하지 못했다는 점과 특정 지역의 유럽 인구만을 대상으로 했다는 점입니다.\n\n##",
+      "aiSummaryEn": "This large-scale European study examined the long-term impact of loneliness on cognitive function in older adults. Researchers tracked over 10,000 participants for seven years to analyze the relationship between loneliness and memory. Key findings revealed that lonely individuals demonstrated weaker baseline memory performance initially, but their memory did not decline faster than socially connected individuals over the study period. These results challenge the prevailing assumption that loneliness directly accelerates cognitive decline or dementia, suggesting instead that loneliness primarily affects baseline brain performance. The study's limitations include the inability to establish clear causality and its focus on European populations, which may limit generalizability to other demographic groups.\n\n##",
+      "keyPoints": [
+        "**외로움의 기저 효과** / Baseline Effect of Loneliness",
+        "**7년 추적 연구 규모** / Large-Scale Longitudinal Study",
+        "**기존 가설 재검토** / Challenge to Conventional Wisdom",
+        "**조기 개입의 중요성** / Importance of Early Intervention"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075633.htm",
+      "featured": false
+    },
+    {
+      "id": "14128a55c7d2",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "5일 전 / 5d ago",
+      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
+      "titleKo": "증상이 나타나기 수년 전에 코로 알츠하이머병을 감지할 수 있다",
+      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
+      "aiSummary": "A new study reveals that loss of smell could signal Alzheimer's disease years before cognitive symptoms appear. Researchers discovered that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This neural damage begins in the early stages of the disease, well before cognitive decline occurs. This finding could enable earlier identification of at-risk patients and improve the timing of therapeutic interventions. However, the research is still in its preliminary stages and requires large-scale clinical studies for practical application. The significance lies in opening possibilities for olfactory testing as an early screening tool for Alzheimer's disease, potentially allowing preventive treatment before irreversible cognitive damage occurs.\n\n##",
+      "aiSummaryKo": "알츠하이머병은 인지 저하 증상이 나타나기 훨씬 전에 후각 상실로 신호를 보낼 수 있다는 연구 결과가 나왔다. 과학자들은 뇌의 면역 세포들이 비정상 신호를 감지한 후 후각 신경 섬유를 적극적으로 파괴한다는 것을 발견했다. 이러한 신경 손상은 질병의 초기 단계에서 시작되며, 인지 기능 저하가 나타나기 훨씬 전에 발생한다. 이 발견은 알츠하이머병 고위험군 환자를 조기에 식별하고 치료 시기를 개선하는 데 도움이 될 수 있다. 다만 현재 연구는 기초 단계이며, 임상 응용을 위해서는 추가적인 대규모 연구가 필요하다. 후각 검사가 알츠하이머병의 초기 선별 도구로 활용될 가능성을 열어주었다는 점이 의의이다.\n\n##",
+      "aiSummaryEn": "A new study reveals that loss of smell could signal Alzheimer's disease years before cognitive symptoms appear. Researchers discovered that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This neural damage begins in the early stages of the disease, well before cognitive decline occurs. This finding could enable earlier identification of at-risk patients and improve the timing of therapeutic interventions. However, the research is still in its preliminary stages and requires large-scale clinical studies for practical application. The significance lies in opening possibilities for olfactory testing as an early screening tool for Alzheimer's disease, potentially allowing preventive treatment before irreversible cognitive damage occurs.\n\n##",
+      "keyPoints": [
+        "**조기 진단 마커**: 후각 상실이 알츠하이머병의 인지 증상보다 훨씬 먼저 나타나는 신뢰할 수 있는 지표 / Loss of smell is a reliable indicator appearing years before cognitive symptoms of Alzheimer's disease",
+        "**면역학적 메커니즘**: 뇌의 면역 세포가 비정상 신호를 인식하고 후각 신경 섬유를 파괴하는 구체적인 손상 메커니즘 규명 / Brain immune cells actively destroy olfactory nerve fibers after detecting abnormal protein signals",
+        "**질병 조기 개입 가능성**: 증상 전 단계에서 환자를 식별하면 질병 진행을 늦추거나 예방할 수 있는 치료 기회 제공 / Early identification enables preventive treatment intervention before irreversible cognitive damage occurs",
+        "**향후 임상 응용 전망**: 간단한 후각 검사를 알츠하이머병 조기 선별 도구로 개발할 수 있는 실질적 기초 마련 / Olfactory testing could become a practical, non-invasive screening tool for Alzheimer's disease risk assessment in clinical settings"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
+      "featured": false
+    },
     {
       "id": "611ce0bafb1b",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**임상적 검증 필요성**: 통제된 임상 시험을 통한 체계적 검증과 안전성 프로토콜 개발의 필요성 / Controlled clinical trials needed to establish efficacy, safety protocols, and long-term outcomes"
       ],
       "url": "https://www.psypost.org/psychedelics-affect-sexual-intimacy-differently-depending-on-a-survivor-s-gender/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5cc1ad38ca5c",
@@ -273,133 +420,6 @@
         "**실무 적용 시 안정성 보장의 중요성** / Importance of Stability Assurance in Practical Application"
       ],
       "url": "https://arxiv.org/abs/2604.13206",
-      "featured": false
-    },
-    {
-      "id": "046517b5d90e",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Optimizing Earth Observation Satellite Schedules under Unknown Operational Constraints: An Active Constraint Acquisition Approach",
-      "titleKo": "미지의 운영 제약 조건 하에서 지구 관측 위성 스케줄 최적화: 능동형 제약 획득 접근법",
-      "summary": "arXiv:2604.13283v1 Announce Type: new Abstract: Earth Observation (EO) satellite scheduling (deciding which imaging tasks to perform and when) is a well-studied combinatorial optimization problem. Existing methods typically assume that the operational constraint model is fully specified in advance. In practice, however, constraints governing separation between observations, power budgets, and thermal limits are often embedded in engineering artefacts or high-fidelity simulators rather than in explicit mathematical models. We study EO scheduling under \\emph{unknown constraints}: the objective i",
-      "aiSummary": "This research addresses the optimization of Earth Observation (EO) satellite scheduling, which determines which imaging tasks to perform and when. Previous satellite scheduling studies assumed that all operational constraints were explicitly defined in advance; however, in practice, constraints such as observation separation intervals, power budgets, and thermal limits are embedded in engineering simulators rather than clearly expressed in mathematical models. The researchers propose an \"Active Constraint Acquisition\" approach to optimize satellite scheduling under unknown constraints. This method enables the system to find optimal schedules through interaction with simulators without explicitly knowing the constraints. The research reflects the complexity of real satellite operations and provides more practical optimization solutions. However, the study remains largely theoretical, and validation of performance with large-scale real satellite data is needed.\n\n##",
-      "aiSummaryKo": "본 연구는 지구관측(EO) 위성의 촬영 스케줄을 최적화하는 문제를 다룹니다. 기존의 위성 스케줄링 연구들은 모든 운영 제약 조건이 사전에 명확히 정의되어 있다고 가정했으나, 실제로는 촬영 간격, 전력 예산, 열 제한 등의 제약이 엔지니어링 시뮬레이터에 숨어있어 수학적 모델로 명확히 표현되지 않습니다. 연구진은 '능동적 제약 습득(Active Constraint Acquisition)' 기법을 제안하여 미지의 제약 조건 하에서 위성 스케줄링을 최적화하는 방법을 개발했습니다. 이 접근법은 시스템이 제약을 명시적으로 알지 못하면서도 시뮬레이터와의 상호작용을 통해 최적의 스케줄을 찾아낼 수 있게 합니다. 이 연구는 실제 위성 운영의 복잡성을 반영하여 보다 현실적인 최적화 솔루션을 제공합니다. 다만, 연구는 이론적 프레임워크 수준이며 대규모 실제 위성 데이터에서의 성능 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research addresses the optimization of Earth Observation (EO) satellite scheduling, which determines which imaging tasks to perform and when. Previous satellite scheduling studies assumed that all operational constraints were explicitly defined in advance; however, in practice, constraints such as observation separation intervals, power budgets, and thermal limits are embedded in engineering simulators rather than clearly expressed in mathematical models. The researchers propose an \"Active Constraint Acquisition\" approach to optimize satellite scheduling under unknown constraints. This method enables the system to find optimal schedules through interaction with simulators without explicitly knowing the constraints. The research reflects the complexity of real satellite operations and provides more practical optimization solutions. However, the study remains largely theoretical, and validation of performance with large-scale real satellite data is needed.\n\n##",
-      "keyPoints": [
-        "**미지의 제약 조건 처리** / Handling Unknown Operational Constraints: 기존 방식과 달리 제약 조건이 명시적으로 주어지지 않는 현실적 상황을 다루며, 시뮬레이터와의 상호작용을 통해 제약을 학습하는 능동적 접근법을 제시",
-        "**실무 적용성 향상** / Improved Practical Applicability: 엔지니어링 아티팩트와 고충실도 시뮬레이터에 내재된 복잡한 제약들을 명시적으로 모델화할 필요 없이 위성 스케줄을 최적화할 수 있어 실제 운영 환경에 더 적합",
-        "**조합 최적화 문제의 현실적 해결** / Realistic Solution to Combinatorial Optimization: 위성 촬영 작업 선택과 시간 결정 같은 조합 최적화 문제를 제약 조건 불확실성 하에서 해결하는 새로운 방법론 제공",
-        "**시뮬레이터 기반 학습** / Simulator-Based Learning Approach: 고충실도 시뮬레이터와의 반복적 상호작용을 통해 암묵적 제약을 습득함으로써 수학적 모델링의 어려움을 극복하는 혁신적 기법 도입"
-      ],
-      "url": "https://arxiv.org/abs/2604.13283",
-      "featured": false
-    },
-    {
-      "id": "cf80803dc296",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Sparse Goodness: How Selective Measurement Transforms Forward-Forward Learning",
-      "titleKo": "희소한 선함: 선택적 측정이 순방향-순방향 학습을 어떻게 변환하는가",
-      "summary": "arXiv:2604.13081v1 Announce Type: new Abstract: The Forward-Forward (FF) algorithm is a biologically plausible alternative to backpropagation that trains neural networks layer by layer using a local goodness function to distinguish positive from negative data. Since its introduction, sum-of-squares (SoS) has served as the default goodness function. In this work, we systematically study the design space of goodness functions, investigating both which activations to measure and how to aggregate them. We introduce top-k goodness, which evaluates only the k most active neurons, and show that it su",
-      "aiSummary": "This study systematically investigates the design space of goodness functions in the Forward-Forward (FF) algorithm, a biologically plausible neural network learning method that trains networks layer-by-layer without backpropagation. While sum-of-squares (SoS) has been the default goodness function since FF's introduction, the researchers examined which activations to measure and how to aggregate them. The researchers introduced top-k goodness, which evaluates only the k most active neurons instead of all neurons, and demonstrated superior performance compared to traditional approaches. This selective measurement approach improves learning efficiency while maintaining biological plausibility of the learning mechanism. The findings suggest that sparse, selective measurement of neural activations could enhance neural network training algorithms. However, the study's generalizability across different network architectures and datasets remains to be further validated.\n\n##",
-      "aiSummaryKo": "이 연구는 생물학적으로 타당한 신경망 학습 알고리즘인 Forward-Forward(FF) 알고리즘의 성능을 개선하기 위해 \"좋음 함수(goodness function)\"의 설계를 체계적으로 분석했습니다. FF 알고리즘은 역전파 대신 계층별로 신경망을 훈련하며, 지금까지 합-제곱(sum-of-squares) 방식이 기본으로 사용되어 왔습니다. 연구자들은 어떤 뉴런을 측정할지, 어떻게 집계할지에 대해 조사하였으며, 특히 가장 활성화된 k개의 뉴런만 평가하는 \"top-k 좋음 함수\"를 제안했습니다. 이 선택적 측정 방식이 기존의 모든 뉴런을 측정하는 방식보다 우수한 성능을 보였습니다. 이는 신경망 학습의 효율성을 높이고 생물학적으로 더 가능성 있는 학습 메커니즘을 제시합니다. 다만 연구는 특정 네트워크 구조와 데이터셋에서만 검증되었을 수 있으며, 다양한 상황에서의 일반화 가능성은 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study systematically investigates the design space of goodness functions in the Forward-Forward (FF) algorithm, a biologically plausible neural network learning method that trains networks layer-by-layer without backpropagation. While sum-of-squares (SoS) has been the default goodness function since FF's introduction, the researchers examined which activations to measure and how to aggregate them. The researchers introduced top-k goodness, which evaluates only the k most active neurons instead of all neurons, and demonstrated superior performance compared to traditional approaches. This selective measurement approach improves learning efficiency while maintaining biological plausibility of the learning mechanism. The findings suggest that sparse, selective measurement of neural activations could enhance neural network training algorithms. However, the study's generalizability across different network architectures and datasets remains to be further validated.\n\n##",
-      "keyPoints": [
-        "**Forward-Forward 알고리즘의 효율성 향상** / Enhanced efficiency of Forward-Forward algorithm through improved goodness function design",
-        "**선택적 측정의 우월성** / Superiority of top-k selective measurement over measuring all neuron activations",
-        "**생물학적 타당성 유지** / Maintenance of biological plausibility while improving computational efficiency",
-        "**좋음 함수 설계의 중요성** / Critical importance of goodness function design in local learning rules for neural networks"
-      ],
-      "url": "https://arxiv.org/abs/2604.13081",
-      "featured": false
-    },
-    {
-      "id": "b7ece288d95b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "The Long Delay to Arithmetic Generalization: When Learned Representations Outrun Behavior",
-      "titleKo": "산술 일반화의 긴 지연: 학습된 표현이 행동을 앞설 때",
-      "summary": "arXiv:2604.13082v1 Announce Type: new Abstract: Grokking in transformers trained on algorithmic tasks is characterized by a long delay between training-set fit and abrupt generalization, but the source of that delay remains poorly understood. In encoder-decoder arithmetic models, we argue that this delay reflects limited access to already learned structure rather than failure to acquire that structure in the first place. We study one-step Collatz prediction and find that the encoder organizes parity and residue structure within the first few thousand training steps, while output accuracy remai",
-      "aiSummary": "This study investigates the \"grokking\" phenomenon in transformer neural networks trained on arithmetic tasks, where a long delay occurs between fitting training data and achieving sudden generalization. Researchers used encoder-decoder arithmetic models to study one-step Collatz sequence prediction tasks. The key finding reveals that the encoder (input processing component) learns parity and residue structure within the first few thousand training steps. However, the network's ability to access these learned structures remains limited, keeping output accuracy low until much later when performance suddenly improves dramatically. This suggests the delay reflects constrained access to already-learned representations rather than failure to acquire structure initially. The research provides important insights into AI learning mechanisms, though it is limited by its focus on a single task.\n\n##",
-      "aiSummaryKo": "본 연구는 트랜스포머 신경망이 산술 문제를 학습할 때 나타나는 '그로킹(Grokking)' 현상을 조사합니다. 그로킹은 훈련 데이터에 맞춘 후 오랜 시간이 지나 갑자기 일반화되는 특이한 학습 패턴입니다. 연구진은 인코더-디코더 구조의 산술 모델을 사용하여 한 단계 콜라츠 수열 예측 과제를 실험했습니다. 핵심 발견은 신경망의 인코더(입력 처리 부분)가 훈련 초기 수천 단계 안에 패리티(홀짝성)와 나머지 구조를 이미 학습한다는 것입니다. 그러나 이 학습된 구조에 접근하는 능력이 제한되어 출력 정확도가 낮게 유지되다가 훨씬 나중에 급격히 향상됩니다. 이는 신경망이 구조를 학습하지 못해서가 아니라 학습한 구조를 활용하지 못했다는 의미입니다. 연구 결과는 AI의 학습 메커니즘을 이해하는 데 중요하지만, 단일 과제 분석이라는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigates the \"grokking\" phenomenon in transformer neural networks trained on arithmetic tasks, where a long delay occurs between fitting training data and achieving sudden generalization. Researchers used encoder-decoder arithmetic models to study one-step Collatz sequence prediction tasks. The key finding reveals that the encoder (input processing component) learns parity and residue structure within the first few thousand training steps. However, the network's ability to access these learned structures remains limited, keeping output accuracy low until much later when performance suddenly improves dramatically. This suggests the delay reflects constrained access to already-learned representations rather than failure to acquire structure initially. The research provides important insights into AI learning mechanisms, though it is limited by its focus on a single task.\n\n##",
-      "keyPoints": [
-        "**그로킹 현상의 재해석** / Reinterpretation of Grokking: 오랜 지연은 구조 학습 실패가 아닌 학습된 표현에 대한 제한된 접근이 원인",
-        "**조기 구조 습득** / Early Structure Acquisition: 신경망의 인코더는 훈련 초기 수천 단계 내에 패리티와 나머지 구조를 이미 획득",
-        "**표현과 행동의 불일치** / Representation-Behavior Gap: 내부 표현(학습된 구조)과 외부 행동(정확한 출력)이 오랜 기간 동안 괴리를 보임",
-        "**산술 과제의 메커니즘** / Arithmetic Task Mechanism: 콜라츠 수열 예측을 통해 신경망의 알고리즘적 학습 프로세스와 일반화 메커니즘을 규명"
-      ],
-      "url": "https://arxiv.org/abs/2604.13082",
-      "featured": false
-    },
-    {
-      "id": "0c431afcc22b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Adaptive Memory Crystallization for Autonomous AI Agent Learning in Dynamic Environments",
-      "titleKo": "",
-      "summary": "arXiv:2604.13085v1 Announce Type: new Abstract: Autonomous AI agents operating in dynamic environments face a persistent challenge: acquiring new capabilities without erasing prior knowledge. We present Adaptive Memory Crystallization (AMC), a memory architecture for progressive experience consolidation in continual reinforcement learning. AMC is conceptually inspired by the qualitative structure of synaptic tagging and capture (STC) theory, the idea that memories transition through discrete stability phases, but makes no claim to model the underlying molecular or synaptic mechanisms. AMC mode",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.13085",
-      "featured": false
-    },
-    {
-      "id": "72c15b038225",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Design Conditions for Intra-Group Learning of Sequence-Level Rewards: Token Gradient Cancellation",
-      "titleKo": "",
-      "summary": "arXiv:2604.13088v1 Announce Type: new Abstract: In sparse termination rewards, intra-group comparisons have become the dominant paradigm for fine-tuning reasoning models via reinforcement learning. However, long-term training often leads to issues like ineffective update accumulation (learning tax), solution probability drift, and entropy collapse. This paper presents a necessary condition for algorithm design from a token-level credit assignment perspective: to prevent reward-irrelevant drift, intra-group objectives must maintain gradient exchangeability across token updates, enabling gradien",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.13088",
-      "featured": false
-    },
-    {
-      "id": "0e79b6c25f19",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays",
-      "titleKo": "",
-      "summary": "arXiv:2604.14096v1 Announce Type: new Abstract: Working memory -- the ability to store and recall precise temporal patterns of neural activity -- remains an open challenge for spiking neural networks (SNNs). We propose a recurrent SNN of $N$ neurons in which each synapse is equipped with $D = 41$ delays, modelled as a weight tensor $\\mathbf{W} \\in \\mathbb{R}^{N \\times N \\times D}$ and trained end-to-end with surrogate-gradient backpropagation through time. The network stores $M$ arbitrary target spike patterns by representing each as a sequential chain of overlapping Spiking Motifs: contiguous",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.14096",
-      "featured": false
-    },
-    {
-      "id": "c38cebea3847",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Attention to task structure for cognitive flexibility",
-      "titleKo": "",
-      "summary": "arXiv:2604.13281v1 Announce Type: cross Abstract: Humans and artificial agents must often learn and switch between multiple tasks in dynamic environments. Success in such settings requires cognitive flexibility: the ability to retain prior knowledge (cognitive stability) while also transferring it to novel tasks (cognitive generalization). Cognitive flexibility research has largely focused on the role of model architecture to achieve these complementary goals. However, it is less well understood how the structure of the environment itself influences cognitive flexibility, and how it interacts ",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.13281",
       "featured": false
     }
   ]
