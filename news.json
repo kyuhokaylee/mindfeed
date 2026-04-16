@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-16T06:16:52.076286+00:00",
+  "updated": "2026-04-16T10:51:36.117220+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ddf25bbb3cc0",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Republican lawmakers lead the trend of using insults to chase media attention instead of policy wins",
+      "titleKo": "공화당 의원들, 정책 성과 대신 모욕으로 언론 관심 끌기 선도",
+      "summary": "A new study in PNAS Nexus reveals that politicians who rely on personal insults gain massive media attention but fail to achieve better legislative or electoral success, suggesting some lawmakers prioritize national celebrity over traditional lawmaking duties.",
+      "aiSummary": "This study published in PNAS Nexus examines how modern politicians gain attention through personal insults rather than policy discussions. The research reveals that politicians who frequently use personal attacks and insults do achieve substantial media attention. However, paradoxically, this confrontational strategy fails to translate into legislative success or electoral victories. The researchers conclude that some lawmakers prioritize national celebrity status and media coverage over traditional legislative duties and policy achievements. The study highlights a significant shift in contemporary political communication and reveals a disconnect between media attention and actual political performance. The findings demonstrate that while controversial rhetoric generates headlines, it does not produce tangible policy outcomes or improved electoral results. Further research is needed to verify whether these patterns hold across different political contexts and time periods.\n\n##",
+      "aiSummaryKo": "본 연구는 현대 정치에서 정책 논의보다 인신공격을 통해 주목을 얻으려는 정치인들의 경향을 분석했습니다. PNAS Nexus에 발표된 이 연구는 개인적 모욕과 비난을 많이 사용하는 정치인들이 실제로 상당한 미디어 주목도를 얻는다는 것을 발견했습니다. 그러나 흥미롭게도, 이러한 인신공격 전략이 입법 성과나 선거 승리로는 이어지지 않았습니다. 연구진은 일부 의원들이 전통적인 입법 활동보다 국가적 명성과 미디어 관심을 우선시하는 경향이 있다고 결론지었습니다. 이 연구는 현대 정치 커뮤니케이션의 변화된 양상을 보여주며, 미디어 주목도와 실제 정치적 성과 사이의 괴리를 드러냅니다. 다만, 이 연구가 특정 집단만을 분석했을 가능성과 시간적 변수를 모두 고려했는지에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study published in PNAS Nexus examines how modern politicians gain attention through personal insults rather than policy discussions. The research reveals that politicians who frequently use personal attacks and insults do achieve substantial media attention. However, paradoxically, this confrontational strategy fails to translate into legislative success or electoral victories. The researchers conclude that some lawmakers prioritize national celebrity status and media coverage over traditional legislative duties and policy achievements. The study highlights a significant shift in contemporary political communication and reveals a disconnect between media attention and actual political performance. The findings demonstrate that while controversial rhetoric generates headlines, it does not produce tangible policy outcomes or improved electoral results. Further research is needed to verify whether these patterns hold across different political contexts and time periods.\n\n##",
+      "keyPoints": [
+        "**인신공격의 미디어 효과** / Media Attention via Personal Attacks",
+        "**성과와의 괴리** / Disconnect Between Attention and Success",
+        "**우선순위의 변화** / Shift in Political Priorities",
+        "**현대 정치 커뮤니케이션의 문제** / Contemporary Political Communication Crisis"
+      ],
+      "url": "https://www.psypost.org/republican-lawmakers-lead-the-trend-of-using-insults-to-chase-media-attention-instead-of-policy-wins/",
+      "featured": true
+    },
     {
       "id": "334f96f2fd2e",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**실험 설계의 객관성** / **Objectivity of Experimental Design**"
       ],
       "url": "https://www.psypost.org/visual-cues-of-animal-mating-fail-to-trigger-human-sexual-arousal/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f18045746cb5",
@@ -349,27 +370,6 @@
         "**추가 연구 필요** / Long-term effects and larger sample sizes needed for validation"
       ],
       "url": "https://www.psypost.org/a-daily-mindfulness-habit-can-improve-your-memory-for-future-plans/",
-      "featured": false
-    },
-    {
-      "id": "aa60d13cb7aa",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
-      "titleKo": "저자 응답으로부터 건설적인 과학 논문 피드백 학습하기",
-      "summary": "arXiv:2604.11924v1 Announce Type: new Abstract: While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researchers rather than to automate research without human oversight. To this end, we study constructive feedback generation, the task of producing targeted, actionable feedback that helps authors improve both their research and its presentation. In this work, we operationalize the effectiveness of feedback along two author-centric axes-validity and author action. We first curate GoodPoint-ICLR, a dataset of 19K ICLR papers wit",
-      "aiSummary": "This research explores how large language models (LLMs) can be utilized to generate scientific paper feedback while augmenting rather than automating research. The study emphasizes using LLMs to empower researchers with human oversight. The methodology involved analyzing 19,000 ICLR conference papers and corresponding author responses to create the GoodPoint-ICLR dataset. Researchers evaluated feedback effectiveness using two author-centric metrics: validity and actual author action taken. Key findings demonstrate that by identifying characteristics of feedback that authors actually implemented, AI models can be trained to generate more constructive feedback. The research's significance lies in improving scientific communication and research quality through better feedback mechanisms. However, limitations include reliance on a single conference venue (ICLR) and the need for validation across diverse academic disciplines and research domains.\n\n##",
-      "aiSummaryKo": "이 연구는 대규모 언어모델(LLM)이 과학 논문의 피드백 생성에 어떻게 활용될 수 있는지를 탐구합니다. 연구팀은 논문 자동화보다는 연구자를 지원하는 방향으로 LLM을 사용할 것을 주장합니다. 연구 방법은 ICLR 학회의 19,000개 논문과 저자 응답을 분석하여 GoodPoint-ICLR 데이터셋을 구성했습니다. 피드백의 효과성을 평가하기 위해 '타당성'과 '저자의 실제 행동' 두 가지 기준을 사용했습니다. 핵심 결과는 저자들이 실제로 반영한 피드백의 특성을 파악함으로써 더 건설적인 피드백을 생성하는 AI 모델을 개발할 수 있음을 보여줍니다. 이 연구의 의의는 과학 커뮤니케이션 개선과 연구 품질 향상에 기여할 수 있다는 점입니다. 다만 특정 학회(ICLR)의 데이터만 사용되었고, 다양한 학문 분야의 적용 가능성은 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research explores how large language models (LLMs) can be utilized to generate scientific paper feedback while augmenting rather than automating research. The study emphasizes using LLMs to empower researchers with human oversight. The methodology involved analyzing 19,000 ICLR conference papers and corresponding author responses to create the GoodPoint-ICLR dataset. Researchers evaluated feedback effectiveness using two author-centric metrics: validity and actual author action taken. Key findings demonstrate that by identifying characteristics of feedback that authors actually implemented, AI models can be trained to generate more constructive feedback. The research's significance lies in improving scientific communication and research quality through better feedback mechanisms. However, limitations include reliance on a single conference venue (ICLR) and the need for validation across diverse academic disciplines and research domains.\n\n##",
-      "keyPoints": [
-        "**저자 중심의 평가 기준** / Author-centric evaluation metrics: 피드백의 효과를 \"저자가 실제로 반영했는가\"라는 행동 기준으로 평가하여 실질적 영향력을 측정",
-        "**대규모 학술 데이터셋 구축** / Large-scale academic dataset creation: 19,000개의 ICLR 논문과 저자 응답을 분석하여 GoodPoint-ICLR 데이터셋 개발",
-        "**AI의 증강적 역할 강조** / Emphasis on augmentative AI role: 연구 자동화가 아닌 연구자 권능화(empowerment)를 목표로 하는 책임감 있는 AI 활용",
-        "**과학 피드백 생성의 실질적 개선** / Practical improvement of scientific feedback generation: 건설적이고 실행 가능한 피드백 생성으로 과학 연구 품질 및 커뮤니케이션 향상"
-      ],
-      "url": "https://arxiv.org/abs/2604.11924",
       "featured": false
     }
   ]
