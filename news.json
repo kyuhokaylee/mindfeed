@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-18T08:08:57.755990+00:00",
+  "updated": "2026-04-18T11:10:16.718009+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5144e4117b67",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Live music causes brain waves to synchronize more strongly with rhythm than recorded music",
+      "titleKo": "라이브 음악이 녹음 음악보다 뇌파를 리듬과 더 강하게 동기화시킨다",
+      "summary": "Your brain responds differently to live music. According to new research, brain waves lock onto live musical rhythms much more strongly than recorded tracks, creating a biological syncing process that makes live performances feel more pleasurable.",
+      "aiSummary": "Recent research demonstrates that the human brain responds differently to live versus recorded music. Scientists conducted an experiment measuring participants' brain wave activity while they listened to both live performances and pre-recorded music tracks. The key finding revealed that brain waves synchronize significantly more strongly with the rhythm of live music compared to recorded versions. This neurological synchronization process explains why live performances feel subjectively more pleasurable and engaging than listening to recordings. The study provides neuroscientific evidence for the long-observed phenomenon that concerts offer a distinctly different and more compelling experience than recorded music. However, the research would benefit from more detailed information about sample sizes, specific experimental design parameters, and quantified measurements of the degree of brain wave synchronization observed.\n\n##",
+      "aiSummaryKo": "음악 감상 시 뇌의 반응이 라이브 공연과 녹음 음악에서 다르다는 연구 결과가 발표되었다. 연구팀은 참가자들의 뇌파를 측정하면서 라이브 뮤직과 녹음된 음악을 청취하게 하는 실험을 진행했다. 그 결과 라이브 음악을 들을 때 뇌파가 음악의 리듬에 훨씬 더 강하게 동기화되는 것으로 나타났다. 이러한 뇌파의 동기화 현상은 라이브 공연이 녹음 음악보다 더 즐거운 경험이 되는 생물학적 메커니즘을 설명한다. 이 연구는 왜 콘서트 현장이 음반 청취와 다른 매력을 가지는지에 대한 신경과학적 증거를 제시한다는 점에서 의미가 있다. 다만 연구의 구체적인 참가자 규모, 실험 설계 세부사항, 뇌파 동기화의 정도를 수치화한 데이터가 추가로 필요하다.\n\n##",
+      "aiSummaryEn": "Recent research demonstrates that the human brain responds differently to live versus recorded music. Scientists conducted an experiment measuring participants' brain wave activity while they listened to both live performances and pre-recorded music tracks. The key finding revealed that brain waves synchronize significantly more strongly with the rhythm of live music compared to recorded versions. This neurological synchronization process explains why live performances feel subjectively more pleasurable and engaging than listening to recordings. The study provides neuroscientific evidence for the long-observed phenomenon that concerts offer a distinctly different and more compelling experience than recorded music. However, the research would benefit from more detailed information about sample sizes, specific experimental design parameters, and quantified measurements of the degree of brain wave synchronization observed.\n\n##",
+      "keyPoints": [
+        "**뇌파 동기화 차이** / Brain wave synchronization is significantly stronger with live music than recorded music",
+        "**쾌감 경험의 신경학적 기반** / The neurological synchronization mechanism explains why live performances feel more pleasurable and engaging",
+        "**라이브 공연의 생물학적 우월성** / Live music creates a unique biological response that recorded music cannot replicate",
+        "**음악 감상 경험의 과학적 규명** / Research provides scientific evidence for the subjective appeal and superiority of live concert experiences over passive recording listening"
+      ],
+      "url": "https://www.psypost.org/live-music-causes-brain-waves-to-synchronize-more-strongly-with-rhythm-than-recorded-music/",
+      "featured": true
+    },
     {
       "id": "6838b1f6a7b3",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**새로운 치료 표적 제시** / New therapeutic targets: 말초신경 손상 메커니즘 규명으로 알츠하이머병의 새로운 치료법 개발 가능성 제시"
       ],
       "url": "https://www.psypost.org/scientists-find-evidence-some-alzheimers-symptoms-may-begin-outside-the-brain/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0a3fd970e18a",
@@ -389,27 +410,6 @@
         "**시장 체제 변화 대응** / Regime Shift Adaptation: 반-지도 학습과 합성 데이터를 결합하여 금융 시장의 급변하는 상황(regime shift)에 적응 가능한 모델 구축"
       ],
       "url": "https://arxiv.org/abs/2604.14206",
-      "featured": false
-    },
-    {
-      "id": "d3faaef2297a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "Towards Verified and Targeted Explanations through Formal Methods",
-      "titleKo": "형식적 방법을 통한 검증된 목표 지향적 설명을 향하여",
-      "summary": "arXiv:2604.14209v1 Announce Type: new Abstract: As deep neural networks are deployed in safety-critical domains such as autonomous driving and medical diagnosis, stakeholders need explanations that are interpretable but also trustworthy with formal guarantees. Existing XAI methods fall short: heuristic attribution techniques (e.g., LIME, Integrated Gradients) highlight influential features but offer no mathematical guarantees about decision boundaries, while formal methods verify robustness yet remain untargeted, analyzing the nearest boundary regardless of whether it represents a critical ris",
-      "aiSummary": "As deep neural networks are increasingly deployed in safety-critical applications like autonomous driving and medical diagnosis, there is a growing need for trustworthy explanations with formal guarantees. Existing XAI methods such as LIME and Integrated Gradients highlight influential features but lack mathematical guarantees about decision boundaries, while formal verification methods can prove robustness but don't explain what the actual risks are. This research proposes a novel approach that combines verified explanations with targeted analysis of critical decision boundaries. The method provides mathematically guaranteed explanations while remaining interpretable to users. This advancement can significantly enhance trust in AI systems deployed in high-stakes domains. However, the computational complexity for large neural networks may be a practical limitation.\n\n##",
-      "aiSummaryKo": "자율주행차나 의료 진단 같은 안전이 중요한 분야에서 딥러닝 신경망이 사용되면서, 이 모델들이 어떻게 결정을 내리는지 설명할 필요가 생겼습니다. 기존의 설명 가능 AI(XAI) 방법들은 LIME이나 Integrated Gradients 같은 기법을 사용해 영향력 있는 특성을 보여주지만, 수학적 보장이 없다는 문제가 있습니다. 또한 형식 검증 방법은 모델의 안정성을 증명하지만, 실제 위험이 무엇인지는 설명하지 못합니다. 이 연구는 검증 가능하면서도 실제 위험을 목표로 하는 새로운 설명 방법을 제시합니다. 이 방법은 수학적으로 증명된 보장을 제공하면서 동시에 사용자가 이해할 수 있는 설명을 생성합니다. 이는 자율주행차나 의료진단 같은 중요한 분야에서 AI 모델에 대한 신뢰를 높이는 데 기여할 수 있습니다. 다만 복잡한 신경망에 적용할 때 계산 비용이 클 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "As deep neural networks are increasingly deployed in safety-critical applications like autonomous driving and medical diagnosis, there is a growing need for trustworthy explanations with formal guarantees. Existing XAI methods such as LIME and Integrated Gradients highlight influential features but lack mathematical guarantees about decision boundaries, while formal verification methods can prove robustness but don't explain what the actual risks are. This research proposes a novel approach that combines verified explanations with targeted analysis of critical decision boundaries. The method provides mathematically guaranteed explanations while remaining interpretable to users. This advancement can significantly enhance trust in AI systems deployed in high-stakes domains. However, the computational complexity for large neural networks may be a practical limitation.\n\n##",
-      "keyPoints": [
-        "**설명 가능성과 검증성의 통합** / Integration of Explainability and Formal Verification: 기존 방법들의 한계(설명성 없는 검증 또는 검증 없는 설명)를 극복하고, 수학적 보장이 있는 설명 제공",
-        "**형식 방법(Formal Methods) 적용** / Application of Formal Methods: 신경망의 의사결정 과정을 수학적으로 검증 가능하게 분석하여 신뢰성 확보",
-        "**목표 지향적 설명** / Targeted Explanation Approach: 모든 경계가 아닌 실제로 위험한 의사결정 경계를 중심으로 선별적 설명 제공",
-        "**안전 중요 분야 적용** / Application in Safety-Critical Domains: 자율주행, 의료진단 등 높은 신뢰성이 필요한 실제 환경에서의 AI 시스템 신뢰성 향상"
-      ],
-      "url": "https://arxiv.org/abs/2604.14209",
       "featured": false
     }
   ]
