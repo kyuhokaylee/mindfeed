@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-18T21:52:58.317109+00:00",
+  "updated": "2026-04-18T23:54:51.262347+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2381594e39b4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Disclosing autism to AI chatbots prompts overly cautious, stereotypical advice",
+      "titleKo": "AI 챗봇에 자폐증 공개 시 과도하게 신중하고 고정관념에 찬 조언 제시",
+      "summary": "Large language models often tell autistic users to avoid socializing and romance. While some users appreciate the protective tone, others feel the technology relies on restrictive stereotypes that limit their personal growth.",
+      "aiSummary": "This study investigated what advice AI chatbots provide when users disclose autism diagnoses. Researchers conducted experiments by disclosing autism to large language models (such as ChatGPT and Claude) and requesting advice on everyday situations. The results revealed that AI chatbots provided overly cautious, stereotype-laden advice recommending autistic users avoid socializing and romantic relationships. While some users appreciated the protective tone, most felt that AI relied on restrictive stereotypes that limited personal growth and opportunities. This highlights that AI technology fails to understand the diverse needs and capabilities of marginalized groups. The findings suggest that future AI model development requires more balanced and nuanced understanding of neurodiversity, including autism, to provide more empowering guidance.\n\n##",
+      "aiSummaryKo": "본 연구는 자폐증이 있다고 밝힌 사용자들이 AI 챗봇으로부터 어떤 조언을 받는지 조사했다. 연구팀은 대규모 언어모델(ChatGPT, Claude 등)에 자폐증 진단을 공개하고 일상적인 상황에 대한 조언을 요청하는 방식으로 실험을 진행했다. 결과적으로 AI 챗봇들은 자폐증 사용자에게 사교활동이나 연애를 피하도록 권장하는 과도하게 보수적이고 고정관념에 찬 조언을 제공했다. 일부 사용자들은 이러한 보호적 태도를 긍정적으로 평가했지만, 대다수는 AI가 제한적인 고정관념에 의존하면서 개인의 성장과 기회를 제한한다고 느꼈다. 이는 AI 기술이 소수집단의 다양한 필요와 능력을 제대로 이해하지 못함을 시사한다. 향후 AI 모델 개선 시 자폐증을 포함한 신경다양성에 대한 더 균형잡힌 이해가 필요하다.\n\n##",
+      "aiSummaryEn": "This study investigated what advice AI chatbots provide when users disclose autism diagnoses. Researchers conducted experiments by disclosing autism to large language models (such as ChatGPT and Claude) and requesting advice on everyday situations. The results revealed that AI chatbots provided overly cautious, stereotype-laden advice recommending autistic users avoid socializing and romantic relationships. While some users appreciated the protective tone, most felt that AI relied on restrictive stereotypes that limited personal growth and opportunities. This highlights that AI technology fails to understand the diverse needs and capabilities of marginalized groups. The findings suggest that future AI model development requires more balanced and nuanced understanding of neurodiversity, including autism, to provide more empowering guidance.\n\n##",
+      "keyPoints": [
+        "**AI의 고정관념 재생산** / AI Perpetuates Harmful Stereotypes",
+        "**사회적 고립 권장의 위험성** / Risk of Recommending Social Isolation",
+        "**신경다양성에 대한 AI의 이해 부족** / Lack of Neurodiversity Understanding in AI",
+        "**기술 윤리와 포용성의 중요성** / Importance of AI Ethics and Inclusivity"
+      ],
+      "url": "https://www.psypost.org/disclosing-autism-to-ai-chatbots-prompts-overly-cautious-stereotypical-advice/",
+      "featured": true
+    },
     {
       "id": "a8cfc822c106",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**추가 연구 필요**: 손상의 가역성, 장기 영향, 안전 기준 개발 필요 / Reversibility assessment, long-term effects, and safety guidelines required"
       ],
       "url": "https://www.psypost.org/can-choking-during-sex-cause-brain-damage-emerging-evidence-points-to-hidden-neurological-risks/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b79ced2bcb48",
@@ -394,22 +415,6 @@
         "**연구 설계의 강점과 한계**: 7년의 장기 추적 연구로 신뢰성 높으나, 관찰 연구로서 인과관계 증명 부족하며 표본의 문화적 다양성 필요 / Longitudinal design provides robustness, but observational nature limits causal inference and cross-cultural validation is needed."
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260414075633.htm",
-      "featured": false
-    },
-    {
-      "id": "14128a55c7d2",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "6일 전 / 6d ago",
-      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
-      "titleKo": "",
-      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
       "featured": false
     }
   ]
