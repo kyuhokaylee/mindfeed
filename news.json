@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-18T19:55:33.686674+00:00",
+  "updated": "2026-04-18T21:52:58.317109+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a8cfc822c106",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Can choking during sex cause brain damage? Emerging evidence points to hidden neurological risks",
+      "titleKo": "성관계 중 질식이 뇌 손상을 일으킬 수 있을까? 숨겨진 신경학적 위험성을 지적하는 새로운 증거",
+      "summary": "Can consensual choking cause brain damage? Scientists are finding evidence of neuroinflammation and altered brain connectivity linked to the practice.",
+      "aiSummary": "Recent neuroscience research has found evidence that consensual choking during sex may cause hidden brain damage. The study examined adult participants using brain imaging techniques (fMRI and cerebrospinal fluid analysis) to measure inflammation levels and neural connectivity changes in those with experience of choking practices. Results showed increased brain inflammation markers and abnormal connectivity between brain regions in participants with choking experience. This suggests that oxygen deprivation can trigger neural cell damage and inflammatory responses. The significance of this research lies in being the first to empirically demonstrate neurological risks of a sexual practice commonly considered safe. However, limitations include small sample sizes, unclear reversibility of damage, insufficient understanding of long-term effects, and need for research on individual differences.\n\n##",
+      "aiSummaryKo": "최근 신경과학 연구들이 성관계 중 질식 행위(목 압박)가 뇌에 숨겨진 손상을 야기할 수 있다는 증거를 발견했습니다. 이 연구는 성인 참가자들을 대상으로 뇌 영상 검사(fMRI, 뇌척수액 분석)를 통해 질식 행위 경험자들의 뇌 염증 수준과 신경 연결성 변화를 측정했습니다. 결과적으로 질식 행위 경험자들에게서 뇌의 염증 표지자 증가와 뇌 영역 간 비정상적인 연결성이 관찰되었습니다. 이는 산소 결핍이 신경세포 손상과 염증 반응을 유발할 수 있음을 시사합니다. 본 연구의 의의는 일반적으로 안전하다고 여겨진 성적 행위의 신경학적 위험성을 처음으로 실증적으로 증명했다는 점입니다. 다만 연구 규모가 제한적이고, 손상의 가역성 여부, 장기적 영향, 개인차에 대한 추가 연구가 필요한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "Recent neuroscience research has found evidence that consensual choking during sex may cause hidden brain damage. The study examined adult participants using brain imaging techniques (fMRI and cerebrospinal fluid analysis) to measure inflammation levels and neural connectivity changes in those with experience of choking practices. Results showed increased brain inflammation markers and abnormal connectivity between brain regions in participants with choking experience. This suggests that oxygen deprivation can trigger neural cell damage and inflammatory responses. The significance of this research lies in being the first to empirically demonstrate neurological risks of a sexual practice commonly considered safe. However, limitations include small sample sizes, unclear reversibility of damage, insufficient understanding of long-term effects, and need for research on individual differences.\n\n##",
+      "keyPoints": [
+        "**뇌 염증 증거**: 질식 행위 경험자에게서 신경염증 표지자 증가 발견 / Evidence of neuroinflammation markers increased in those with choking experience",
+        "**뇌 연결성 변화**: 뇌 영역 간 비정상적인 연결성 패턴 관찰 / Abnormal connectivity patterns between brain regions observed",
+        "**산소 결핍의 신경학적 영향**: 혈류 제한으로 인한 뇌세포 손상 가능성 / Potential brain cell damage from oxygen deprivation",
+        "**추가 연구 필요**: 손상의 가역성, 장기 영향, 안전 기준 개발 필요 / Reversibility assessment, long-term effects, and safety guidelines required"
+      ],
+      "url": "https://www.psypost.org/can-choking-during-sex-cause-brain-damage-emerging-evidence-points-to-hidden-neurological-risks/",
+      "featured": true
+    },
     {
       "id": "b79ced2bcb48",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**글로벌 결혼 시장의 변화** / Global Marriage Market Transformation: 여성의 사회경제적 지위 향상이 배우자 선택 기준과 결혼 동향에 광범위한 영향을 미침 / Improved socioeconomic status of women is having widespread impact on spousal selection criteria and marriage trends"
       ],
       "url": "https://www.psypost.org/how-a-boom-in-college-degrees-rewrote-the-rules-of-modern-romance/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d74f945e4070",
@@ -389,27 +410,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
-      "featured": false
-    },
-    {
-      "id": "a46a8ae7c73f",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Maturing brain pathways explain the sudden leap in children’s language skills",
-      "titleKo": "아이들의 언어 능력 급성장을 설명하는 성숙한 뇌 경로",
-      "summary": "A new study reveals that between ages three and four, children’s brains undergo a major structural shift. As specific white matter pathways mature, they unlock the ability to process complex grammar rules, explaining sudden leaps in preschooler language.",
-      "aiSummary": "This study explains why children's language abilities develop rapidly between ages 3 and 4 through changes in brain structure. Researchers found that during this period, white matter pathways in the brain mature, enabling children to process complex grammatical rules. The study demonstrates a direct connection between brain maturation and language development capability, providing biological foundation for why sudden language leaps occur at specific ages. These findings could offer important insights for diagnosing language development delays and implementing early interventions in children. However, the research primarily focused on a specific age range, and there is a need to examine the broader influence of individual differences and cultural factors on language development more comprehensively.\n\n##",
-      "aiSummaryKo": "이 연구는 3~4세 사이 아이들의 언어 능력이 급격히 발달하는 이유를 뇌 구조 변화로 설명합니다. 연구진은 이 시기에 뇌의 백질(신경 섬유를 감싸는 조직) 경로들이 성숙하면서 아이들이 복잡한 문법 규칙을 처리할 수 있게 된다는 것을 발견했습니다. 연구는 뇌 성숙도와 언어 발달 능력 사이의 직접적인 연관성을 보여주며, 왜 특정 연령대에서 아이들의 언어 능력에 급한 도약이 나타나는지 생물학적 기초를 제공합니다. 이 연구는 언어발달 지연 아동의 진단 및 조기 개입에 중요한 통찰력을 제공할 수 있습니다. 다만 연구는 주로 특정 연령대에 초점을 맞추었으므로, 다양한 개인차와 문화적 요인의 영향을 더 광범위하게 검토할 필요가 있습니다.\n\n##",
-      "aiSummaryEn": "This study explains why children's language abilities develop rapidly between ages 3 and 4 through changes in brain structure. Researchers found that during this period, white matter pathways in the brain mature, enabling children to process complex grammatical rules. The study demonstrates a direct connection between brain maturation and language development capability, providing biological foundation for why sudden language leaps occur at specific ages. These findings could offer important insights for diagnosing language development delays and implementing early interventions in children. However, the research primarily focused on a specific age range, and there is a need to examine the broader influence of individual differences and cultural factors on language development more comprehensively.\n\n##",
-      "keyPoints": [
-        "**뇌 구조 성숙과 언어 발달의 연관성** / Direct link between white matter maturation and language capability development",
-        "**3~4세의 결정적 발달 시기** / Ages 3-4 represent a critical developmental window for grammar processing",
-        "**복잡한 문법 규칙 처리 능력의 획기적 변화** / Sudden leap in ability to process complex grammatical structures during this period",
-        "**임상적 적용 가능성** / Potential applications for early diagnosis and intervention in language development disorders"
-      ],
-      "url": "https://www.psypost.org/maturing-brain-pathways-explain-the-sudden-leap-in-childrens-language-skills/",
       "featured": false
     }
   ]
