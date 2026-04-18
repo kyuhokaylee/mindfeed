@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-18T14:25:43.829528+00:00",
+  "updated": "2026-04-18T17:05:29.696380+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d74f945e4070",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "New research finds a persistent and growing leftward tilt in the social sciences",
+      "titleKo": "새로운 연구, 사회과학에서 지속되고 심화되는 좌향 편향 발견",
+      "summary": "Artificial intelligence recently analyzed over half a million social science abstracts published since 1960. The results show a steady decline in political diversity, with academic research becoming increasingly left-leaning over the past six decades.",
+      "aiSummary": "A recent study utilizing artificial intelligence analyzed over 500,000 social science abstracts published since 1960. The research methodology employed AI algorithms to automatically classify the political orientation of academic papers and track temporal trends across six decades. Key findings revealed a steady and persistent decline in political diversity within academic research, with the social sciences increasingly exhibiting left-leaning orientations over the study period. The significance of this research lies in providing objective, data-driven evidence of ideological bias in academia and highlighting the need for greater political and intellectual diversity in scholarly work. However, limitations include questions about the accuracy of AI algorithms in determining political orientation and whether abstract analysis alone can reliably represent the full scope of research content and intentions.\n\n##",
+      "aiSummaryKo": "인공지능을 활용한 최근 연구는 1960년 이후 발표된 50만 개 이상의 사회과학 논문 초록을 분석했습니다. 연구 방법은 AI 알고리즘을 통해 논문들의 정치적 성향을 자동으로 분류하고 시간에 따른 추이를 추적하는 방식으로 진행되었습니다. 핵심 결과는 지난 60년간 학술 연구의 정치적 다양성이 지속적으로 감소했으며, 사회과학 분야가 점점 더 좌향적 성향을 보이고 있다는 것입니다. 이 연구의 의의는 학계의 정치적 편향 현상을 객관적 데이터로 입증했다는 점에 있으며, 학문적 다양성과 중립성 확보의 필요성을 시사합니다. 다만 AI의 정치적 성향 판단이 얼마나 정확한지, 초록만으로 전체 연구 내용을 올바르게 평가할 수 있는지에 대한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "A recent study utilizing artificial intelligence analyzed over 500,000 social science abstracts published since 1960. The research methodology employed AI algorithms to automatically classify the political orientation of academic papers and track temporal trends across six decades. Key findings revealed a steady and persistent decline in political diversity within academic research, with the social sciences increasingly exhibiting left-leaning orientations over the study period. The significance of this research lies in providing objective, data-driven evidence of ideological bias in academia and highlighting the need for greater political and intellectual diversity in scholarly work. However, limitations include questions about the accuracy of AI algorithms in determining political orientation and whether abstract analysis alone can reliably represent the full scope of research content and intentions.\n\n##",
+      "keyPoints": [
+        "**광범위한 데이터 분석** / Comprehensive Data Analysis",
+        "**지속적인 좌향화 추세** / Persistent Leftward Tilt",
+        "**AI 기반 객관적 평가** / AI-Driven Objective Assessment",
+        "**학문적 다양성의 중요성 강조** / Emphasis on Academic Diversity"
+      ],
+      "url": "https://www.psypost.org/new-research-finds-a-persistent-and-growing-leftward-tilt-in-the-social-sciences/",
+      "featured": true
+    },
+    {
+      "id": "37cd1bd555c7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "How a year of regular exercise alters the biology of stress",
+      "titleKo": "1년간의 규칙적인 운동이 스트레스의 생물학을 어떻게 변화시키는가",
+      "summary": "By tracking healthy adults over 12 months, researchers found that regular cardiovascular workouts lead to a drop in systemic cortisol. This reduction suggests physical activity provides a biological buffer against chronic stress.",
+      "aiSummary": "This study examined how regular exercise alters the body's stress response mechanisms in healthy adults over a 12-month period. Researchers tracked participants and measured the effects of consistent cardiovascular exercise on physiological stress markers. The key finding revealed that regular aerobic workouts significantly reduced systemic cortisol levels, the primary stress hormone. This reduction suggests that physical activity acts as a biological buffer against chronic stress, protecting the body's stress regulation systems. The research demonstrates that exercise benefits extend beyond physical fitness to improve internal stress management mechanisms. However, the study's limitations include its focus on healthy adults only, raising questions about whether these findings apply equally to different age groups or individuals with various health conditions.\n\n##",
+      "aiSummaryKo": "이 연구는 규칙적인 운동이 신체의 스트레스 반응을 어떻게 변화시키는지 알아보기 위해 진행되었습니다. 연구팀은 건강한 성인들을 12개월간 추적 관찰하여 규칙적인 심혈관 운동의 효과를 측정했습니다. 핵심 결과는 정기적인 유산소 운동이 스트레스 호르몬인 코르티솔(cortisol)의 전신 수치를 감소시킨다는 것입니다. 이는 신체 활동이 만성 스트레스로부터 생물학적 보호막 역할을 한다는 것을 시사합니다. 이 연구는 운동이 단순한 신체 건강뿐 아니라 신체 내부의 스트레스 조절 시스템까지 개선할 수 있음을 보여줍니다. 다만 연구 대상이 건강한 성인으로 제한되어 있어 다양한 연령대나 건강 상태의 사람들에게 동일하게 적용되는지는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study examined how regular exercise alters the body's stress response mechanisms in healthy adults over a 12-month period. Researchers tracked participants and measured the effects of consistent cardiovascular exercise on physiological stress markers. The key finding revealed that regular aerobic workouts significantly reduced systemic cortisol levels, the primary stress hormone. This reduction suggests that physical activity acts as a biological buffer against chronic stress, protecting the body's stress regulation systems. The research demonstrates that exercise benefits extend beyond physical fitness to improve internal stress management mechanisms. However, the study's limitations include its focus on healthy adults only, raising questions about whether these findings apply equally to different age groups or individuals with various health conditions.\n\n##",
+      "keyPoints": [
+        "**장기 운동의 생물학적 변화** / **Biological Changes from Long-term Exercise**",
+        "**스트레스 호르몬 조절 메커니즘** / **Stress Hormone Regulation Mechanism**",
+        "**예방적 건강 개입의 중요성** / **Importance of Preventive Health Intervention**",
+        "related diseases"
+      ],
+      "url": "https://www.psypost.org/how-a-year-of-regular-exercise-alters-the-biology-of-stress/",
+      "featured": false
+    },
+    {
+      "id": "6a05744f5c11",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "5시간 전 / 5h ago",
+      "title": "Scientists tested the creativity of AI models, and the results were surprisingly homogeneous",
+      "titleKo": "과학자들이 AI 모델의 창의성을 테스트했고, 결과는 놀랍도록 획일적이었다",
+      "summary": "According to research published in PNAS Nexus, popular language models produce highly similar creative concepts. This suggests that heavily relying on artificial intelligence for brainstorming tends to lead to a massive loss of unique human thought.",
+      "aiSummary": "A study published in PNAS Nexus revealed that popular language models generate remarkably similar creative concepts when tested for creativity. Researchers conducted experiments asking multiple AI models to produce creative ideas, and the analysis showed these models repeatedly generated highly similar concepts and ideas. This indicates that AI models exhibit a \"creative homogenization\" phenomenon due to similarities in training data and algorithms. The key finding suggests that over-reliance on AI-based brainstorming could significantly impair human original thinking. This discovery indicates caution is needed when organizations use AI as a creative tool. However, the study had limitations as it focused on a limited number of models and specific tasks, necessitating further research across diverse AI models and creative domains.\n\n##",
+      "aiSummaryKo": "최근 PNAS Nexus에 발표된 연구에 따르면, 인기 있는 언어 모델들의 창의성 테스트 결과가 놀랍도록 동질적이었습니다. 연구팀은 여러 AI 모델에게 창의적인 아이디어 생성을 요청하는 실험을 수행했으며, 분석 결과 이들이 매우 유사한 개념과 아이디어를 반복적으로 생성하는 것으로 나타났습니다. 이는 AI 모델들이 훈련 데이터와 알고리즘의 유사성으로 인해 '창의적 획일화' 현상을 보인다는 것을 의미합니다. 연구의 핵심 결과는 AI 기반 브레인스토밍에 과도하게 의존할 경우 인간의 독창적 사고가 크게 손상될 수 있다는 것입니다. 이 발견은 기업과 조직이 AI를 창의적 도구로 사용할 때 주의가 필요함을 시사합니다. 다만 본 연구는 제한된 수의 모델과 특정 작업만을 대상으로 했으므로, 다양한 AI 모델과 창의적 영역에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "A study published in PNAS Nexus revealed that popular language models generate remarkably similar creative concepts when tested for creativity. Researchers conducted experiments asking multiple AI models to produce creative ideas, and the analysis showed these models repeatedly generated highly similar concepts and ideas. This indicates that AI models exhibit a \"creative homogenization\" phenomenon due to similarities in training data and algorithms. The key finding suggests that over-reliance on AI-based brainstorming could significantly impair human original thinking. This discovery indicates caution is needed when organizations use AI as a creative tool. However, the study had limitations as it focused on a limited number of models and specific tasks, necessitating further research across diverse AI models and creative domains.\n\n##",
+      "keyPoints": [
+        "**창의성 획일화 현상** / Creative Homogenization Phenomenon",
+        "**인간 독창성 위협** / Threat to Human Originality",
+        "**알고리즘 구조의 한계** / Algorithmic Structural Limitations",
+        "**조직적 의사결정 개선 필요** / Need for Improved Organizational Decision-Making"
+      ],
+      "url": "https://www.psypost.org/scientists-tested-the-creativity-of-ai-models-and-the-results-were-surprisingly-homogeneous/",
+      "featured": false
+    },
+    {
+      "id": "5861058901d0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "9시간 전 / 9h ago",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "titleKo": "",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "aiSummary": "Engineers at Northwestern University have successfully developed artificial neurons that can communicate with living brain cells, representing a major breakthrough in brain-machine integration. The research team created flexible, low-cost artificial neuron devices using 3D printing technology and tested them on mouse brain tissue. These artificial neurons generate electrical signals that mimic biological neural activity and successfully activated real brain cells in the experimental setting. This research demonstrates significant progress toward merging mechanical systems with the human brain and has potential applications in treating neurological damage and developing brain-computer interfaces. However, the current study remains in early stages, using only mouse brain tissue samples, and substantial additional research is needed to validate safety and feasibility for human brain applications. The findings represent an important proof-of-concept for bio-electronic technology in the neuroengineering field.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Engineers at Northwestern University have successfully developed artificial neurons that can communicate with living brain cells, representing a major breakthrough in brain-machine integration. The research team created flexible, low-cost artificial neuron devices using 3D printing technology and tested them on mouse brain tissue. These artificial neurons generate electrical signals that mimic biological neural activity and successfully activated real brain cells in the experimental setting. This research demonstrates significant progress toward merging mechanical systems with the human brain and has potential applications in treating neurological damage and developing brain-computer interfaces. However, the current study remains in early stages, using only mouse brain tissue samples, and substantial additional research is needed to validate safety and feasibility for human brain applications. The findings represent an important proof-of-concept for bio-electronic technology in the neuroengineering field.",
+      "keyPoints": [
+        "**인공 신경원의 생물학적 통신 성공** / Artificial neurons successfully communicate with biological brain cells",
+        "**유연성과 저비용 설계** / Flexible and cost-effective design",
+        "**마우스 뇌 조직에서 검증됨** / Verified in mouse brain tissue",
+        "**신경공학 및 뇌-컴퓨터 인터페이스의 미래 응용** / Future applications in neuroengineering and brain-computer interfaces"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "featured": false
+    },
     {
       "id": "5144e4117b67",
       "tag": "psych",
@@ -21,7 +105,7 @@
         "**음악 감상 경험의 과학적 규명** / Research provides scientific evidence for the subjective appeal and superiority of live concert experiences over passive recording listening"
       ],
       "url": "https://www.psypost.org/live-music-causes-brain-waves-to-synchronize-more-strongly-with-rhythm-than-recorded-music/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6838b1f6a7b3",
@@ -326,90 +410,6 @@
         "**적용 가치** / **Practical Value**: 이상 탐지 알고리즘의 공정하고 엄밀한 비교 평가 가능, AI 모델 개선에 기여 / Enables fair and rigorous comparison of anomaly detection algorithms, contributing to AI model improvement"
       ],
       "url": "https://arxiv.org/abs/2604.14221",
-      "featured": false
-    },
-    {
-      "id": "ea4907afce95",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "16시간 전 / 16h ago",
-      "title": "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making",
-      "titleKo": "시뮬레이션을 위한 해석 가능하고 설명 가능한 대체 모델링: 최신 기술 동향 및 의사결정을 위한 설명 가능한 AI의 관점",
-      "summary": "arXiv:2604.14240v1 Announce Type: new Abstract: The simulation of complex systems increasingly relies on sophisticated but fundamentally opaque computational black-box simulators. Surrogate models play a central role in reducing the computational cost of complex systems simulations across a wide range of scientific and engineering domains. Notwithstanding, they inevitably inherit and often exacerbate this black-box nature, obscuring how input variables drive physical responses. Conversely, Explainable Artificial Intelligence (XAI) offers powerful tools to unpack these models. Yet, XAI methods ",
-      "aiSummary": "Complex computer simulations used in science and engineering increasingly rely on sophisticated but opaque \"black-box\" models that obscure how they produce results. To address this, researchers developed \"surrogate models\"—simpler mathematical approximations—but these still suffer from transparency issues regarding their internal mechanisms. This paper comprehensively reviews Explainable Artificial Intelligence (XAI) techniques designed to enhance the interpretability of surrogate models through a state-of-the-art survey. While specific experimental data is not presented, the research explores methods to reduce computational simulation costs while clarifying decision-making processes. The significance lies in making complex AI models more trustworthy for critical applications in medicine, engineering, and environmental science. However, as a literature review rather than empirical research, the study may have limitations in presenting novel data or groundbreaking methodologies.\n\n##",
-      "aiSummaryKo": "복잡한 시스템을 시뮬레이션할 때 사용되는 고도화된 컴퓨터 모델들은 어떻게 결과를 도출하는지 알기 어려운 '블랙박스' 문제를 가지고 있습니다. 이를 해결하기 위해 연구자들은 '대리 모델(Surrogate Model)'이라는 간단한 수학 모델을 개발했는데, 이 모델들도 여전히 내부 작동 원리가 불명확합니다. 본 연구는 설명 가능한 인공지능(XAI, Explainable AI) 기법을 활용하여 대리 모델의 투명성을 높이는 방법들을 종합적으로 검토한 논문입니다. 구체적인 실험 데이터는 제시되지 않았으나, 이 연구는 과학·공학 분야에서 시뮬레이션 비용을 줄이면서도 의사결정 과정을 명확하게 할 수 있는 방법을 모색합니다. 연구 의의는 복잡한 AI 모델을 의료, 공학, 환경 등 중요한 결정이 필요한 분야에서 더욱 신뢰할 수 있게 활용할 수 있다는 점입니다. 다만 이 논문은 기존 문헌의 종합 분석이므로 새로운 실증 데이터나 혁신적인 방법론의 제시가 제한적일 수 있습니다.\n\n##",
-      "aiSummaryEn": "Complex computer simulations used in science and engineering increasingly rely on sophisticated but opaque \"black-box\" models that obscure how they produce results. To address this, researchers developed \"surrogate models\"—simpler mathematical approximations—but these still suffer from transparency issues regarding their internal mechanisms. This paper comprehensively reviews Explainable Artificial Intelligence (XAI) techniques designed to enhance the interpretability of surrogate models through a state-of-the-art survey. While specific experimental data is not presented, the research explores methods to reduce computational simulation costs while clarifying decision-making processes. The significance lies in making complex AI models more trustworthy for critical applications in medicine, engineering, and environmental science. However, as a literature review rather than empirical research, the study may have limitations in presenting novel data or groundbreaking methodologies.\n\n##",
-      "keyPoints": [
-        "**블랙박스 문제의 악순환** / Cascade of Opacity: 복잡한 시뮬레이터 모델은 내부 작동이 불명확하며, 이를 단순화한 대리 모델도 같은 문제를 상속받고 악화시킴",
-        "**XAI의 해결 잠재력** / XAI as Solution: 설명 가능한 인공지능 기법이 대리 모델의 투명성을 높이는 강력한 도구로 제시됨",
-        "**다분야 응용 가치** / Multi-Domain Application: 과학·공학·의료·환경 등 다양한 분야에서 계산 비용 절감과 신뢰성 향상을 동시에 달성 가능",
-        "**의사결정의 신뢰성 강화** / Enhanced Decision-Making Reliability: 중요한 정책 결정이나 공학적 설계에서 AI 모델의 근거를 명확하게 제시할 수 있는 방법론 제공"
-      ],
-      "url": "https://arxiv.org/abs/2604.14240",
-      "featured": false
-    },
-    {
-      "id": "f959aa60b014",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery",
-      "titleKo": "악마는 그래디언트 얽힘에 숨어있다: 견고한 일반화 범주 발견을 위한 에너지 인식 그래디언트 조정자",
-      "summary": "arXiv:2604.14176v1 Announce Type: new Abstract: Generalized Category Discovery (GCD) leverages labeled data to categorize unlabeled samples from known or unknown classes. Most previous methods jointly optimize supervised and unsupervised objectives and achieve promising results. However, inherent optimization interference still limits their ability to improve further. Through quantitative analysis, we identify a key issue, i.e., gradient entanglement, which 1) distorts supervised gradients and weakens discrimination among known classes, and 2) induces representation-subspace overlap between kn",
-      "aiSummary": "This research addresses the \"gradient entanglement\" problem in Generalized Category Discovery (GCD), a technique that categorizes unlabeled data as known or unknown classes using labeled data. While previous GCD methods jointly optimized supervised and unsupervised objectives with promising results, they faced inherent optimization interference that limited further improvements. Through quantitative analysis, the researchers identified that gradient entanglement: 1) distorts supervised gradients and weakens discrimination among known classes, and 2) induces representation-subspace overlap between known and unknown classes. To address this issue, the team proposes an Energy-Aware Gradient Coordinator to mitigate the negative effects of gradient entanglement. This research is significant as it identifies fundamental optimization challenges in multi-task learning and provides a novel solution methodology. However, specific performance metrics on real datasets and comprehensive experimental validation results would be needed to fully assess the effectiveness of the proposed approach.\n\n##",
-      "aiSummaryKo": "본 연구는 일반화된 범주 발견(GCD) 기술에서 발생하는 '그래디언트 얽힘' 문제를 다룹니다. 기존의 GCD 방법들은 레이블이 있는 데이터와 없는 데이터를 동시에 학습하면서 좋은 성과를 보였지만, 이 두 학습 목표 간의 최적화 간섭으로 인한 한계가 있었습니다. 연구팀은 정량적 분석을 통해 그래디언트 얽힘이 지도학습의 정확도를 저하시키고 알려진 클래스 간 구분을 약화시킨다는 것을 밝혔습니다. 또한 이 현상이 알려진 클래스와 미지의 클래스 간 표현 공간의 겹침을 유발한다고 확인했습니다. 이를 해결하기 위해 에너지 기반의 그래디언트 조정자(Energy-Aware Gradient Coordinator)를 제안했습니다. 본 연구는 머신러닝의 멀티태스크 학습에서 발생하는 근본적인 최적화 문제를 규명하고 이를 해결하는 방법론을 제시한 점에서 의의가 있습니다. 다만, 제시된 방법의 실제 데이터셋에 대한 광범위한 성능 평가 결과가 요약에 포함되지 않아 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research addresses the \"gradient entanglement\" problem in Generalized Category Discovery (GCD), a technique that categorizes unlabeled data as known or unknown classes using labeled data. While previous GCD methods jointly optimized supervised and unsupervised objectives with promising results, they faced inherent optimization interference that limited further improvements. Through quantitative analysis, the researchers identified that gradient entanglement: 1) distorts supervised gradients and weakens discrimination among known classes, and 2) induces representation-subspace overlap between known and unknown classes. To address this issue, the team proposes an Energy-Aware Gradient Coordinator to mitigate the negative effects of gradient entanglement. This research is significant as it identifies fundamental optimization challenges in multi-task learning and provides a novel solution methodology. However, specific performance metrics on real datasets and comprehensive experimental validation results would be needed to fully assess the effectiveness of the proposed approach.\n\n##",
-      "keyPoints": [
-        "**그래디언트 얽힘의 발견** / Discovery of Gradient Entanglement",
-        "**다층적 부정적 영향** / Multi-level Negative Effects",
-        "**에너지 기반 해결책** / Energy-Based Solution",
-        "**머신러닝 기본 문제 해결** / Fundamental ML Problem Resolution"
-      ],
-      "url": "https://arxiv.org/abs/2604.14176",
-      "featured": false
-    },
-    {
-      "id": "5e4412808203",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining",
-      "titleKo": "MixAtlas: 멀티모달 LLM 중간 학습을 위한 불확실성 인식 데이터 혼합 최적화",
-      "summary": "arXiv:2604.14198v1 Announce Type: new Abstract: Domain reweighting can improve sample efficiency and downstream generalization, but data-mixture optimization for multimodal midtraining remains largely unexplored. Current multimodal training recipes tune mixtures along a single dimension, typically data format or task type. We introduce MixAtlas, a method that produces benchmark-targeted data recipes that can be inspected, adapted, and transferred to new corpora. MixAtlas decomposes the training corpus along two axes: image concepts (10 visual-domain clusters discovered via CLIP embeddings) and",
-      "aiSummary": "This study addresses the problem of optimizing data mixture ratios during the intermediate training phase of multimodal large language models (LLMs). While existing methods consider only single dimensions such as data format or task type, real-world data has much more complex structures. The research team proposes MixAtlas, a novel method that decomposes training data along two axes: image concepts (10 visual-domain clusters discovered via CLIP embeddings) and another dimension, generating 2D data recipes. The method can create data mixture strategies targeting specific benchmarks, with the generated recipes being inspectable, modifiable, and transferable to new datasets. This approach has the potential to increase sample efficiency and improve generalization performance across diverse tasks. However, the abstract does not present concrete performance metrics or comparative experimental results, so actual effect validation is needed.\n\n##",
-      "aiSummaryKo": "본 연구는 멀티모달 대형언어모델(LLM)의 중간 학습 단계에서 데이터 혼합 비율을 최적화하는 문제를 다룬다. 기존 방법들은 데이터 형식이나 작업 유형 같은 단일 차원만 고려했지만, 현실의 데이터는 훨씬 복잡한 구조를 가지고 있다. 연구팀은 MixAtlas라는 새로운 방법을 제안하는데, 이는 이미지 개념(CLIP 임베딩을 통해 발견한 10개의 시각 도메인 클러스터)과 또 다른 축을 따라 학습 데이터를 분해하여 2차원 데이터 레시피를 생성한다. 이 방법은 특정 벤치마크를 목표로 하는 데이터 혼합 전략을 만들 수 있으며, 생성된 레시피는 검토, 수정, 그리고 새로운 데이터셋으로 전이할 수 있다. 이러한 접근 방식은 샘플 효율성을 높이고 다양한 작업에서의 일반화 성능을 개선할 수 있는 잠재력을 지닌다. 다만, 현재 구체적인 성능 수치와 비교 실험 결과가 초록에 제시되지 않아 실제 효과 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "This study addresses the problem of optimizing data mixture ratios during the intermediate training phase of multimodal large language models (LLMs). While existing methods consider only single dimensions such as data format or task type, real-world data has much more complex structures. The research team proposes MixAtlas, a novel method that decomposes training data along two axes: image concepts (10 visual-domain clusters discovered via CLIP embeddings) and another dimension, generating 2D data recipes. The method can create data mixture strategies targeting specific benchmarks, with the generated recipes being inspectable, modifiable, and transferable to new datasets. This approach has the potential to increase sample efficiency and improve generalization performance across diverse tasks. However, the abstract does not present concrete performance metrics or comparative experimental results, so actual effect validation is needed.\n\n##",
-      "keyPoints": [
-        "**2차원 데이터 분해 방식** / Two-dimensional data decomposition approach",
-        "**CLIP 임베딩 기반 시각 클러스터링** / CLIP embedding-based visual clustering",
-        "**전이 가능한 데이터 레시피** / Transferable data recipes",
-        "**샘플 효율성 및 일반화 성능 개선** / Improved sample efficiency and generalization"
-      ],
-      "url": "https://arxiv.org/abs/2604.14198",
-      "featured": false
-    },
-    {
-      "id": "6ba9a27a283d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "Portfolio Optimization Proxies under Label Scarcity and Regime Shifts via Bayesian and Deterministic Students under Semi-Supervised Sandwich Training",
-      "titleKo": "반지도 샌드위치 학습을 통한 레이블 부족과 체제 변화 하에서의 포트폴리오 최적화 프록시: 베이지안 및 결정론적 학생 모델 접근",
-      "summary": "arXiv:2604.14206v1 Announce Type: new Abstract: This paper proposes a machine learning assisted portfolio optimization framework designed for low data environments and regime uncertainty. We construct a teacher student learning pipeline in which a Conditional Value at Risk (CVaR) optimizer generates supervisory labels, and neural models (Bayesian and deterministic) are trained using both real and synthetically augmented data. The synthetic data is generated using a factor based model with t copula residuals, enabling training beyond the limited real sample of 104 labeled observations. We evalu",
-      "aiSummary": "This study proposes a machine learning framework for portfolio optimization in data-scarce environments with unpredictable market conditions. The researchers employed a teacher-student learning pipeline where a Conditional Value at Risk (CVaR) optimizer generates supervisory labels, with neural network models (both Bayesian and deterministic) trained on real and synthetically augmented data. Since actual financial data was limited to approximately 10,000 labeled observations, the team generated synthetic data using factor-based models with t-copula residuals to supplement training material. The models were trained using semi-supervised learning, which leverages partially labeled data. This approach enables robust portfolio optimization even in low-data regimes and market regime shifts, offering practical applications in financial management. However, limitations include reliance on historical data simulations that may not predict future market conditions, and further validation during extreme market scenarios is needed.\n\n##",
-      "aiSummaryKo": "이 연구는 금융 시장에서 데이터가 부족하고 시장 상황이 급변할 때 포트폴리오(투자 자산 배분)를 최적화하는 인공지능 기법을 제안합니다. 연구팀은 '선생님-학생' 모델 구조를 사용하여, CVaR(조건부 가치 위험)이라는 위험 관리 도구가 만든 정답 데이터로 신경망 모델들을 훈련했습니다. 실제 데이터는 약 1만 개의 표본에 불과해서, 연구진은 금융 요인 모델과 t-코플라 방식을 이용해 인공 데이터를 만들어 부족한 학습 자료를 보충했습니다. 베이지안 신경망과 결정론적 신경망 두 가지 모델을 반-지도 학습(부분적으로 정답이 있는 데이터 학습) 방식으로 훈련했습니다. 이 방법은 데이터 부족 환경에서도 시장 변화에 강건한 포트폴리오 최적화를 가능하게 하여 실무 금융에 실질적 도움을 줄 수 있습니다. 다만 과거 데이터 기반 시뮬레이션이므로 미래 예측에는 한계가 있고, 극단적 시장 상황에서의 성능 검증이 추가로 필요합니다.\n\n##",
-      "aiSummaryEn": "This study proposes a machine learning framework for portfolio optimization in data-scarce environments with unpredictable market conditions. The researchers employed a teacher-student learning pipeline where a Conditional Value at Risk (CVaR) optimizer generates supervisory labels, with neural network models (both Bayesian and deterministic) trained on real and synthetically augmented data. Since actual financial data was limited to approximately 10,000 labeled observations, the team generated synthetic data using factor-based models with t-copula residuals to supplement training material. The models were trained using semi-supervised learning, which leverages partially labeled data. This approach enables robust portfolio optimization even in low-data regimes and market regime shifts, offering practical applications in financial management. However, limitations include reliance on historical data simulations that may not predict future market conditions, and further validation during extreme market scenarios is needed.\n\n##",
-      "keyPoints": [
-        "**데이터 부족 극복 전략** / Data Scarcity Solution: 1만 개 미만의 실제 라벨링 데이터를 보유한 현실적 제약을 t-코플라 기반 합성 데이터 생성으로 해결",
-        "**이중 신경망 구조** / Dual Neural Network Architecture: 불확실성 정량화가 가능한 베이지안 신경망과 계산 효율적인 결정론적 신경망을 모두 활용하여 강건성 확보",
-        "**CVaR 기반 감독 신호** / CVaR-Generated Supervision: 위험 관리 관점의 포트폴리오 최적화 목표를 직접 학습 신호로 활용하는 선생님-학생 학습 방식",
-        "**시장 체제 변화 대응** / Regime Shift Adaptation: 반-지도 학습과 합성 데이터를 결합하여 금융 시장의 급변하는 상황(regime shift)에 적응 가능한 모델 구축"
-      ],
-      "url": "https://arxiv.org/abs/2604.14206",
       "featured": false
     }
   ]
