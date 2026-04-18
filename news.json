@@ -1,7 +1,86 @@
 {
-  "updated": "2026-04-17T23:11:22.120738+00:00",
+  "updated": "2026-04-18T05:53:33.289811+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6838b1f6a7b3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "5시간 전 / 5h ago",
+      "title": "Scientists find evidence some Alzheimer’s symptoms may begin outside the brain",
+      "titleKo": "과학자들, 알츠하이머병의 일부 증상이 뇌 외부에서 시작될 수 있다는 증거 발견",
+      "summary": "Researchers used a microscopic model of human nerves and muscles to show that Alzheimer's disease directly damages peripheral nerves. This physical damage happens independently of cognitive decline and does not improve with standard medications for the illness.",
+      "aiSummary": "While Alzheimer's disease has been primarily understood as causing brain damage leading to cognitive decline, recent research provides evidence that the disease directly damages peripheral nerves outside the brain. Researchers used a microscopic model of human nerves and muscles to conduct experiments and demonstrated that Alzheimer's disease causes physical damage to peripheral nerves. Importantly, this peripheral nerve damage occurs independently of cognitive decline and does not improve with standard Alzheimer's medications currently in use. This discovery is significant as it expands our pathological understanding of Alzheimer's disease and suggests new therapeutic targets for treatment. However, since this research used microscopic models in laboratory conditions, further clinical studies are needed to confirm these effects in humans.\n\n##",
+      "aiSummaryKo": "알츠하이머병은 주로 뇌 손상으로 인한 인지 기능 저하로 알려져 왔으나, 최근 연구는 이 질병이 뇌 외부의 말초신경도 직접 손상시킨다는 증거를 제시했다. 연구진은 인간 신경과 근육을 모방한 미세 모델을 이용하여 실험을 진행했으며, 알츠하이머병이 말초신경에 물리적 손상을 일으킨다는 사실을 입증했다. 주목할 점은 이러한 말초신경 손상이 인지 기능 저하와 독립적으로 발생하며, 현재 사용되는 알츠하이머병 표준 약물로도 개선되지 않는다는 것이다. 이 발견은 알츠하이머병의 병리학적 이해를 확장하고 새로운 치료 표적을 제시한다는 점에서 의미가 있다. 다만 이 연구는 실험실 내 미세 모델을 사용했으므로, 인체에서의 효과를 확인하기 위한 후속 임상 연구가 필요하다.\n\n##",
+      "aiSummaryEn": "While Alzheimer's disease has been primarily understood as causing brain damage leading to cognitive decline, recent research provides evidence that the disease directly damages peripheral nerves outside the brain. Researchers used a microscopic model of human nerves and muscles to conduct experiments and demonstrated that Alzheimer's disease causes physical damage to peripheral nerves. Importantly, this peripheral nerve damage occurs independently of cognitive decline and does not improve with standard Alzheimer's medications currently in use. This discovery is significant as it expands our pathological understanding of Alzheimer's disease and suggests new therapeutic targets for treatment. However, since this research used microscopic models in laboratory conditions, further clinical studies are needed to confirm these effects in humans.\n\n##",
+      "keyPoints": [
+        "**뇌 외부 손상 발견** / Discovery of damage outside the brain: 알츠하이머병이 뇌뿐 아니라 말초신경에도 직접적인 물리적 손상을 일으킨다는 새로운 증거 발견",
+        "**인지 저하와 독립적 손상** / Damage independent of cognitive decline: 말초신경 손상이 인지 기능 저하와 분리되어 발생하는 별개의 병리 과정임을 시사",
+        "**기존 약물의 한계** / Limitations of existing medications: 현재 사용되는 알츠하이머병 표준 약물이 이러한 말초신경 손상을 개선하지 못함",
+        "**새로운 치료 표적 제시** / New therapeutic targets: 말초신경 손상 메커니즘 규명으로 알츠하이머병의 새로운 치료법 개발 가능성 제시"
+      ],
+      "url": "https://www.psypost.org/scientists-find-evidence-some-alzheimers-symptoms-may-begin-outside-the-brain/",
+      "featured": true
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "12일 전 / 12d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article presents a philosophical insight that humans are never independent individuals but rather beings in constant interaction with surrounding life forms. Through the everyday act of breathing, it illustrates how humans and plants mutually exchange oxygen and carbon dioxide in an interdependent relationship. The argument is grounded in the biological fact that each breath we take incorporates products from other living beings, while our exhaled substances become nutrients for other organisms. The human body hosts an ecosystem of diverse microorganisms, making individual boundaries fundamentally ambiguous. This perspective challenges traditional psychology's individualism-centered understanding and proposes a new paradigm emphasizing interconnection and interdependence. However, the article's limitation lies in its philosophical approach without presenting empirical data or concrete experimental methodology.",
+      "aiSummaryKo": "이 기사는 인간이 결코 독립적인 개체가 아니라 주변 생명체와 지속적으로 상호작용하는 존재라는 철학적 통찰을 제시한다. 호흡이라는 일상적 행위를 통해 인간과 식물이 산소와 이산화탄소를 교환하며 상호 의존하는 관계를 설명한다. 연구는 우리가 숨 쉴 때마다 다른 생명체의 산물을 받아들이고, 우리의 배출물이 다른 생명체의 영양이 된다는 생물학적 사실에 기초한다. 인간의 신체는 미생물 등 다양한 생명체의 생태계를 호스팅하고 있어 개인의 경계가 실제로는 매우 모호하다는 점을 강조한다. 이러한 관점은 개인주의 중심의 전통적 심리학적 이해에 도전하며, 상호연결성과 상호의존성을 강조하는 새로운 패러다임을 제안한다. 다만 철학적 주장 위주로 구성되어 실증적 데이터나 구체적 실험 방법론이 제시되지 않는 한계가 있다.",
+      "aiSummaryEn": "This article presents a philosophical insight that humans are never independent individuals but rather beings in constant interaction with surrounding life forms. Through the everyday act of breathing, it illustrates how humans and plants mutually exchange oxygen and carbon dioxide in an interdependent relationship. The argument is grounded in the biological fact that each breath we take incorporates products from other living beings, while our exhaled substances become nutrients for other organisms. The human body hosts an ecosystem of diverse microorganisms, making individual boundaries fundamentally ambiguous. This perspective challenges traditional psychology's individualism-centered understanding and proposes a new paradigm emphasizing interconnection and interdependence. However, the article's limitation lies in its philosophical approach without presenting empirical data or concrete experimental methodology.",
+      "keyPoints": [
+        "**개체성의 재정의** / Redefinition of Individuality: 인간은 독립적 개체가 아니라 다른 생명체와 상호작용하는 상호연결된 존재 / Humans are not independent entities but interconnected beings interacting with other life forms",
+        "**생물학적 상호의존성** / Biological Interdependence: 호흡을 통해 인간과 식물이 산소-이산화탄소를 교환하며, 우리의 배출물이 타 생명체의 필수 자원이 됨 / Through respiration, humans and plants exchange oxygen-carbon dioxide, with our waste products becoming essential resources for other organisms",
+        "**신체 내 생태계** / Internal Ecosystem: 인간의 신체는 미생물을 포함한 다양한 생명체의 생태계를 호스팅하여 개인의 경계가 모호함 / The human body hosts an ecosystem of diverse microorganisms, making individual boundaries ambiguous",
+        "**심리학 패러다임 전환** / Paradigm Shift in Psychology: 개인주의 중심의 전통적 접근에서 벗어나 상호연결성과 생태적 관계성을 강조하는 새로운 이해 필요 / A need to move away from individualism-centered traditional approaches toward emphasizing interconnectivity and ecological relationships"
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
+    {
+      "id": "1f2d0b54d063",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "16일 전 / 16d ago",
+      "title": "What It’s Like to Be…a Diplomat",
+      "titleKo": "외교관이 된다는 것은 어떤 느낌일까",
+      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
+      "aiSummary": "This article highlights an actual podcast episode about the real experiences and roles of American diplomats. Retired diplomat John Johnson, with over twenty years of experience in the U.S. Foreign Service, explains the everyday life of diplomats. The article presents specific cases including defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering official protests (demarches) in multiple languages, and managing the emergency evacuation of the Kabul embassy. The podcast addresses practical diplomatic questions such as whether diplomats still send \"cables\" (official telegrams) in the 21st century and the meaning of the diplomatic term \"not/not.\" As part of a series where bestselling author Dan Heath discusses what it's like to work in various professions, the episode aims to make the diplomat's role and challenges understandable to the general public. However, the article is formatted as a podcast preview without specific research data or statistics, instead focusing on the diplomat's personal experiences and anecdotes.",
+      "aiSummaryKo": "본 기사는 미국 외교관의 실제 경험과 역할을 조명하는 팟캐스트 에피소드를 다룬다. 은퇴한 외교관 존 존슨이 20년 이상의 미국 외교부 경력을 바탕으로 외교관의 일상을 설명한다. 기사에서는 대사가 러시아에 대한 선제 타격을 암시한 위기를 진정시킨 사건, 여러 언어로 공식 항의(데마르쉬)를 전달하는 업무, 그리고 카불 대사관 긴급 철수 상황 등 실제 외교 사건들을 사례로 제시한다. 팟캐스트는 21세기에 외교관들이 여전히 \"케이블\"(공식 전보)을 송수신하는지, 외교 용어 \"not/not\"의 의미가 무엇인지 등 외교 실무의 구체적 질문들을 다룬다. 베스트셀러 작가 댄 히스가 외교관의 역할과 도전을 일반 대중이 이해할 수 있도록 풀어서 설명하는 시리즈의 일환이다. 다만 기사는 팟캐스트 예고편 형식으로 구체적인 연구 데이터나 수치 없이 외교관의 경험담 중심으로 구성되어 있다.",
+      "aiSummaryEn": "This article highlights an actual podcast episode about the real experiences and roles of American diplomats. Retired diplomat John Johnson, with over twenty years of experience in the U.S. Foreign Service, explains the everyday life of diplomats. The article presents specific cases including defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering official protests (demarches) in multiple languages, and managing the emergency evacuation of the Kabul embassy. The podcast addresses practical diplomatic questions such as whether diplomats still send \"cables\" (official telegrams) in the 21st century and the meaning of the diplomatic term \"not/not.\" As part of a series where bestselling author Dan Heath discusses what it's like to work in various professions, the episode aims to make the diplomat's role and challenges understandable to the general public. However, the article is formatted as a podcast preview without specific research data or statistics, instead focusing on the diplomat's personal experiences and anecdotes.",
+      "keyPoints": [
+        "외교관의 역할: 국제 위기 상황에서 분쟁을 진정시키고 공식 항의를 다국어로 전달하는 고도의 전문성 필요 / Role of diplomats: High-level expertise required to defuse international crises and deliver official protests in multiple languages",
+        "현장 경험의 중요성: 20년 이상의 경력 외교관이 직접 겪은 카불 대사관 철수 같은 실제 사건들이 외교 업무의 위험성과 복잡성 증명 / Importance of field experience: Real events like the Kabul embassy evacuation directly experienced by career diplomats demonstrate the danger and complexity of diplomatic work",
+        "외교 실무의 세부 사항: \"케이블\" 송수신, \"not/not\" 같은 외교 용어 등 일반인이 잘 모르는 외교 실무의 구체적 도구와 언어 사용 / Diplomatic practice details: Specific tools and language such as sending \"cables\" and using diplomatic terms like \"not/not\" that are unfamiliar to the general public",
+        "대중 교육의 필요성: 베스트셀러 작가와의 대화 형식으로 외교관의 삶을 대중에게 알리려는 노력으로, 외교 분야의 이해도 향상에 기여 / Need for public education: Effort to inform the general public about diplomats' lives through conversation with a bestselling author, contributing to improved understanding of the diplomatic field"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
+      "featured": false
+    },
+    {
+      "id": "a3d5cb0c4033",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "26일 전 / 26d ago",
+      "title": "‘Looking Backward’ to the Future",
+      "titleKo": "",
+      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
+      "featured": false
+    },
     {
       "id": "4e115eb241f3",
       "tag": "psych",
@@ -21,7 +100,7 @@
         "**심리장애 이해와 대인관계 치료의 중요성** / Clinical implications for personality disorders: 이 발견은 자기애 성격장애 진단 및 치료, 그리고 대인관계 갈등 해결에 활용될 수 있습니다 / These findings can inform diagnosis and treatment of narcissistic personality disorder and help address interpersonal conflicts."
       ],
       "url": "https://www.psypost.org/the-narcissistic-mirror-how-extreme-personalities-view-their-friends-humor/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0d437c972ca4",
@@ -331,90 +410,6 @@
         "**안전 중요 분야 적용** / Application in Safety-Critical Domains: 자율주행, 의료진단 등 높은 신뢰성이 필요한 실제 환경에서의 AI 시스템 신뢰성 향상"
       ],
       "url": "https://arxiv.org/abs/2604.14209",
-      "featured": false
-    },
-    {
-      "id": "e1b1ba611fb4",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "People with better cardiorespiratory fitness tend to be less anxious and more resilient in emotional situations",
-      "titleKo": "심폐 체력이 우수한 사람들은 불안감이 적고 감정적 상황에서 더 탄력적인 경향이 있다",
-      "summary": "Can being physically fit protect your mental health? Researchers found that individuals with high cardiorespiratory fitness not only suffer from less daily anxiety, but also stay remarkably calmer when faced with sudden emotional stress.",
-      "aiSummary": "This study examines the impact of cardiorespiratory fitness on mental health and anxiety levels. Researchers discovered that individuals with high cardiorespiratory fitness experience not only lower daily anxiety but also maintain greater emotional calmness when facing sudden emotional stress. The findings suggest that regular physical activity strengthens the nervous system and enhances the body's ability to regulate stress responses. This research demonstrates that maintaining physical health extends beyond physical benefits to significantly improve psychological resilience and emotional stability. However, the article lacks detailed methodological information such as sample size, longitudinal follow-up data, and demographic diversity. Future research should further investigate the specific mechanisms underlying the relationship between cardiorespiratory fitness levels and mental health improvements.\n\n##",
-      "aiSummaryKo": "심신 건강의 연관성에 대한 연구에서 심폐 체력이 정신 건강에 미치는 영향을 조사했습니다. 연구진은 심폐 체력이 우수한 사람들이 일상에서 느끼는 불안감이 적을 뿐만 아니라 갑작스러운 감정적 스트레스 상황에서도 더욱 침착함을 유지한다는 것을 발견했습니다. 이는 규칙적인 신체 활동과 운동이 신경계를 강화하여 스트레스 반응을 조절하는 능력을 향상시킨다는 것을 시사합니다. 본 연구는 신체 건강 관리가 단순한 물리적 이득을 넘어 심리적 회복력과 정서적 안정성을 높이는 데 중요한 역할을 함을 보여줍니다. 다만, 연구에서 충분한 표본 크기, 장기 추적 데이터, 다양한 인구층의 포함 여부 등 더 자세한 방법론 정보가 부재합니다. 향후 연구에서는 신체 체력 수준과 정신 건강 개선 사이의 구체적인 메커니즘을 더욱 심층적으로 규명할 필요가 있습니다.\n\n##",
-      "aiSummaryEn": "This study examines the impact of cardiorespiratory fitness on mental health and anxiety levels. Researchers discovered that individuals with high cardiorespiratory fitness experience not only lower daily anxiety but also maintain greater emotional calmness when facing sudden emotional stress. The findings suggest that regular physical activity strengthens the nervous system and enhances the body's ability to regulate stress responses. This research demonstrates that maintaining physical health extends beyond physical benefits to significantly improve psychological resilience and emotional stability. However, the article lacks detailed methodological information such as sample size, longitudinal follow-up data, and demographic diversity. Future research should further investigate the specific mechanisms underlying the relationship between cardiorespiratory fitness levels and mental health improvements.\n\n##",
-      "keyPoints": [
-        "**심폐 체력과 일상 불안감의 관계** / Relationship between cardiorespiratory fitness and daily anxiety",
-        "**감정적 스트레스에 대한 회복력 증진** / Enhanced resilience to emotional stress",
-        "**신체 활동의 신경계 강화 메커니즘** / Nervous system strengthening mechanism through physical activity",
-        "**신체-정신 건강의 통합적 접근** / Integrated approach to physical and mental health"
-      ],
-      "url": "https://www.psypost.org/people-with-better-cardiorespiratory-fitness-tend-to-be-less-anxious-and-more-resilient-in-emotional-situations/",
-      "featured": false
-    },
-    {
-      "id": "2f43e4a47a1e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "13시간 전 / 13h ago",
-      "title": "Retina gap junctions support the robust perception by warping neural representational geometries along the visual hierarchy",
-      "titleKo": "망막 갭 정션이 시각 계층 구조를 따라 신경 표현 기하학을 왜곡함으로써 견고한 지각을 지원한다",
-      "summary": "arXiv:2604.14200v1 Announce Type: new Abstract: Deep Neural Networks (DNNs) are vulnerable to elaborately designed adversarial noise, although they have achieved extraordinary success in many tasks. Compared with DNNs, the human visual system is highly robust. However, it is unclear how the human visual system defends against adversarial attacks, especially the role of the early visual system and its influence on the brain manifold. Due to retina gap junctions being crucial for the denoising function in the early visual system, we combine a retina gap junction-based filter, G-filter, with DNN ",
-      "aiSummary": "This research investigates why the human visual system is highly robust against adversarial attacks while Deep Neural Networks (DNNs) remain vulnerable despite their outstanding performance. The research team focused on the denoising function of retina gap junctions in the early visual system and developed a G-filter based on this biological mechanism, which was then integrated with DNNs for testing. The results demonstrated that applying the gap junction-based G-filter significantly increases the robustness of neural networks against adversarial attacks and enhances perception robustness throughout the visual hierarchy by warping neural representational geometries along the brain manifold. The significance of this study lies in showing that mimicking biological visual system structures can improve AI stability and adversarial robustness. However, as this research is still in its early stages, additional validation is needed for more complex real-world environments and various types of adversarial attacks.\n\n##",
-      "aiSummaryKo": "이 연구는 인공신경망(DNN)이 적대적 공격(adversarial attack)에 취약한 반면, 인간의 시각 체계가 왜 그렇게 견고한지를 규명하려고 시작되었습니다. 연구팀은 망막의 간극연결(gap junctions)이 조기 시각 시스템에서 노이즈를 제거하는 역할을 한다는 점에 주목하여, 이를 바탕으로 한 G-필터를 개발하고 이를 심층신경망과 결합하여 테스트했습니다. 연구 결과, 망막 간극연결 기반의 G-필터를 적용하면 신경망이 적대적 공격에 더욱 견고해지며, 뇌의 신경 표현 기하학(neural representational geometry)을 따라 정보를 처리함으로써 시각 계층 전반에 걸쳐 인식의 견고성을 향상시킵니다. 이 연구의 의의는 생물학적 시각 체계의 구조를 모방함으로써 인공지능의 안정성을 개선할 수 있음을 보여준다는 점입니다. 다만 이 연구는 아직 초기 단계이며, 더 복잡한 실제 환경에서의 효과검증과 다양한 유형의 적대적 공격에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research investigates why the human visual system is highly robust against adversarial attacks while Deep Neural Networks (DNNs) remain vulnerable despite their outstanding performance. The research team focused on the denoising function of retina gap junctions in the early visual system and developed a G-filter based on this biological mechanism, which was then integrated with DNNs for testing. The results demonstrated that applying the gap junction-based G-filter significantly increases the robustness of neural networks against adversarial attacks and enhances perception robustness throughout the visual hierarchy by warping neural representational geometries along the brain manifold. The significance of this study lies in showing that mimicking biological visual system structures can improve AI stability and adversarial robustness. However, as this research is still in its early stages, additional validation is needed for more complex real-world environments and various types of adversarial attacks.\n\n##",
-      "keyPoints": [
-        "**생물학적 영감의 AI 안정화** / Biological mechanisms inspire AI robustness: 망막의 간극연결 구조를 모방한 G-필터가 심층신경망의 적대적 공격 저항성을 향상시킴",
-        "**조기 시각 시스템의 중요성** / Early visual system's critical role: 뇌의 조기 단계에서의 노이즈 제거 기능이 전체 시각 정보 처리 계층에 걸쳐 견고성을 제공함",
-        "**신경 표현 기하학의 왜곡** / Neural geometry warping mechanism: 시각 계층을 따라 신경 표현의 기하학적 구조를 조정함으로써 인식의 견고성을 확보",
-        "**인공지능의 생물학적 최적화 가능성** / Biological optimization of AI systems: 인간 시각체계의 진화된 특성을 AI 시스템에 적용하여 적대적 공격에 더욱 강인한 모델 개발 가능"
-      ],
-      "url": "https://arxiv.org/abs/2604.14200",
-      "featured": false
-    },
-    {
-      "id": "4ed52059b66c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "13시간 전 / 13h ago",
-      "title": "Bridging scalp and intracranial EEG in BCI via pretrained neural representations and geometric constraint embedding",
-      "titleKo": "사전 학습된 신경 표현과 기하학적 제약 임베딩을 통한 BCI에서의 두피 및 두개내 뇌전도 연결",
-      "summary": "arXiv:2604.14202v1 Announce Type: new Abstract: Electroencephalography (EEG) has become one of the key modalities underpinning brain-computer interfaces (BCIs) due to its high temporal resolution, rapid responsiveness, non-invasiveness, low cost, and portability. However, EEG signals are substantially inferior to intracranial EEG (iEEG) in signal-to-noise ratio and local spatial resolution, whereas iEEG suffers from extremely limited clinical accessibility owing to its invasive nature, hindering widespread application. To address this challenge, this study proposes a unified data-and prior kno",
-      "aiSummary": "This study addresses a critical challenge in brain-computer interface (BCI) development: the inherent limitations of scalp EEG versus intracranial EEG (iEEG). Scalp EEG offers non-invasiveness and low cost but suffers from poor signal quality, while iEEG provides superior signal-to-noise ratio and spatial resolution but requires invasive electrode implantation with extremely limited clinical accessibility. The research team proposes a unified approach using pretrained neural representations and geometric constraint embedding to bridge the performance gap between these two modalities. This method enables high-quality signal processing from non-invasive scalp EEG without invasive procedures, substantially improving the clinical applicability and practicality of BCI technology. The significance lies in demonstrating that non-invasive, cost-effective scalp EEG can achieve performance levels comparable to invasive iEEG. However, limitations include questions about generalizability and the need for validation across diverse patient populations.\n\n##",
-      "aiSummaryKo": "본 연구는 뇌파(EEG) 기반 뇌-컴퓨터 인터페이스(BCI) 개발의 핵심 문제를 해결하고자 한다. 두피에서 측정한 일반 뇌파는 신호 품질이 떨어지지만 비침투적이고 저렴한 반면, 뇌 내부에 전극을 삽입하여 측정하는 뇌내뇌파(iEEG)는 신호 품질이 우수하지만 침투적이고 임상 접근성이 극히 제한적이다. 연구팀은 사전학습된 신경망 표현과 기하학적 제약 임베딩 기법을 활용하여 두피 뇌파와 뇌내뇌파 간의 격차를 좁히는 통합 모델을 제안했다. 이 접근법은 침투적 절차 없이도 고품질의 뇌파 신호 처리가 가능하게 하여 BCI의 임상 적용성과 실용성을 크게 향상시킬 수 있다. 연구의 의의는 저비용·비침투적 뇌파 기술로 침투적 뇌내뇌파 수준의 성능 달성이 가능함을 보여주는 데 있다. 다만, 연구의 일반화 가능성과 다양한 환자군에서의 검증이 필요한 제한점이 있다.\n\n##",
-      "aiSummaryEn": "This study addresses a critical challenge in brain-computer interface (BCI) development: the inherent limitations of scalp EEG versus intracranial EEG (iEEG). Scalp EEG offers non-invasiveness and low cost but suffers from poor signal quality, while iEEG provides superior signal-to-noise ratio and spatial resolution but requires invasive electrode implantation with extremely limited clinical accessibility. The research team proposes a unified approach using pretrained neural representations and geometric constraint embedding to bridge the performance gap between these two modalities. This method enables high-quality signal processing from non-invasive scalp EEG without invasive procedures, substantially improving the clinical applicability and practicality of BCI technology. The significance lies in demonstrating that non-invasive, cost-effective scalp EEG can achieve performance levels comparable to invasive iEEG. However, limitations include questions about generalizability and the need for validation across diverse patient populations.\n\n##",
-      "keyPoints": [
-        "**신호 품질 격차 해결 / Bridging Signal Quality Gap**: 비침투적 두피 뇌파(EEG)와 침투적 뇌내뇌파(iEEG)의 신호 품질 차이를 기술적으로 극복하여 저비용 BCI 개발 가능성 제시",
-        "**사전학습 신경망 활용 / Pretrained Neural Representations**: 기존의 대규모 뇌파 데이터셋에서 학습된 신경망 모델을 활용하여 전이 학습을 통한 성능 향상",
-        "**기하학적 제약 임베딩 / Geometric Constraint Embedding**: 뇌의 공간적 해부학 정보를 수학적 제약으로 모델에 통합하여 신경 신호의 공간적 특성 반영",
-        "**BCI의 임상 적용성 확대 / Clinical Translation of BCI**: 침습 수술의 위험성 감소로 더 많은 환자가 접근 가능한 뇌-컴퓨터 인터페이스 기술 개발 기여"
-      ],
-      "url": "https://arxiv.org/abs/2604.14202",
-      "featured": false
-    },
-    {
-      "id": "1cf630db1e3a",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "13시간 전 / 13h ago",
-      "title": "Robust Evaluation of Neural Encoding Models via ground-truth approximation",
-      "titleKo": "지면 진리 근사를 통한 신경 인코딩 모델의 견고한 평가",
-      "summary": "arXiv:2604.14694v1 Announce Type: new Abstract: Encoding models enable measurement of how our brains represent sensory inputs using electro-and magneto-encephalography (MEEG). Evaluating how closely encoding models reflect the underlying brain functions is a crucial premise for model interpretation and hypothesis testing. However, the ground-truth neural activity is unknown, preventing model evaluation with respect to the target neural signal. Existing evaluation metrics must therefore relate model's predictions to noisy MEEG measurements, where most variance is stimulus-unrelated. Here, I int",
-      "aiSummary": "This research addresses the challenge of evaluating neural encoding models that measure how brains process sensory information using brain imaging data (MEEG). The fundamental problem is that ground-truth neural activity cannot be directly observed, making it difficult to assess whether models accurately reflect actual brain function when dealing with noisy measurements where most variance is unrelated to stimuli. The researchers propose a novel ground-truth approximation method to overcome this evaluation limitation and enable more robust model assessment. This approach reduces stimulus-unrelated noise and improves evaluation accuracy by approximating the true underlying neural signal. The methodology is significant for neuroscience research as it allows researchers to verify whether brain activity models truly reflect actual neural processes. However, the inherent complexity of real brain activity may still limit evaluation perfection. This work provides an essential methodological advancement for making brain signal analysis techniques more reliable and trustworthy in computational neuroscience.\n\n##",
-      "aiSummaryKo": "본 연구는 뇌가 감각 정보를 어떻게 처리하는지 측정하는 신경 인코딩 모델의 평가 방법 개선에 관한 것입니다. 기존에는 뇌파(MEEG) 데이터가 노이즈가 많아서 모델이 실제 뇌 활동을 얼마나 정확히 반영하는지 평가하기 어려웠습니다. 연구자들은 지표 근사(ground-truth approximation)라는 새로운 방법을 제안하여 실제 신경 신호에 더 가깝게 모델을 평가할 수 있게 했습니다. 이 방법은 자극과 관련 없는 노이즈를 줄여서 평가의 정확도를 높입니다. 이러한 개선은 뇌 과학 연구에서 뇌 활동 모델이 정말 작동하는지 확인하는 데 중요한 의미를 가집니다. 다만 실제 뇌 활동의 복잡성 때문에 여전히 완벽한 평가는 어려울 수 있습니다. 이 연구는 뇌 신호 분석 기술을 더욱 신뢰할 수 있게 만드는 기초 작업입니다.\n\n##",
-      "aiSummaryEn": "This research addresses the challenge of evaluating neural encoding models that measure how brains process sensory information using brain imaging data (MEEG). The fundamental problem is that ground-truth neural activity cannot be directly observed, making it difficult to assess whether models accurately reflect actual brain function when dealing with noisy measurements where most variance is unrelated to stimuli. The researchers propose a novel ground-truth approximation method to overcome this evaluation limitation and enable more robust model assessment. This approach reduces stimulus-unrelated noise and improves evaluation accuracy by approximating the true underlying neural signal. The methodology is significant for neuroscience research as it allows researchers to verify whether brain activity models truly reflect actual neural processes. However, the inherent complexity of real brain activity may still limit evaluation perfection. This work provides an essential methodological advancement for making brain signal analysis techniques more reliable and trustworthy in computational neuroscience.\n\n##",
-      "keyPoints": [
-        "**평가 문제**: 뇌파 데이터의 높은 노이즈로 인해 신경 인코딩 모델이 실제 뇌 활동을 얼마나 정확히 반영하는지 평가하기 어려움 / **Evaluation Challenge**: High noise in brain imaging data makes it difficult to assess how well neural encoding models reflect actual brain activity",
-        "**제안 방법**: 지표 근사(ground-truth approximation)를 통해 자극 무관 변동을 제거하고 실제 신경 신호에 더 가까운 평가 기준 제시 / **Proposed Solution**: Ground-truth approximation method reduces stimulus-unrelated variance and provides evaluation criteria closer to actual neural signals",
-        "**과학적 의의**: 신경 과학 연구에서 뇌 모델의 해석 가능성과 가설 검증의 신뢰도를 높임 / **Scientific Significance**: Improves interpretability of brain models and reliability of hypothesis testing in neuroscience research",
-        "**제한점**: 뇌 활동의 복잡한 특성으로 인해 완전한 지표 근사는 여전히 제한적일 수 있음 / **Limitation**: Perfect ground-truth approximation remains limited due to the inherent complexity of actual brain activity"
-      ],
-      "url": "https://arxiv.org/abs/2604.14694",
       "featured": false
     }
   ]
