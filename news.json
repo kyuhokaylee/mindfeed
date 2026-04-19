@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-19T11:53:14.438205+00:00",
+  "updated": "2026-04-19T14:26:20.326473+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "86a5fa79cc3a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "New study reveals how political bias conditions the impact of conspiracy thinking",
+      "titleKo": "새로운 연구가 정치적 편견이 음모론적 사고의 영향을 어떻게 형성하는지 밝혀내다",
+      "summary": "A person’s tendency to see secret plots strongly predicts their belief in political rumors. But new research suggests this trait has limits: people quickly dismiss conspiracies if the rumors make their own political allies look bad.",
+      "aiSummary": "This research investigated how conspiracy thinking tendencies influence belief in political rumors. The study presented participants with various political rumors and analyzed the relationship between their conspiracy mindset and rumor acceptance. The key finding reveals that while conspiracy thinking strongly predicts belief in political rumors, this effect is significantly limited by political bias. Notably, participants quickly dismissed rumors that portrayed their own political allies negatively, regardless of their conspiracy thinking tendency. This suggests that political bias serves as a stronger filter than conspiracy thinking itself in determining rumor acceptance. The research provides valuable insight into misinformation spread mechanisms, though it may have limitations in sample representation and cultural applicability.\n\n##",
+      "aiSummaryKo": "이 연구는 음모론적 사고방식이 정치적 루머 믿음에 미치는 영향을 조사했습니다. 연구팀은 참가자들에게 다양한 정치적 루머를 제시하고, 그들의 음모론 성향과 루머 수용도의 관계를 분석했습니다. 주요 결과는 음모론적 사고방식이 정치적 루머 믿음을 강하게 예측하지만, 그 영향은 정치적 편견에 의해 제한된다는 것입니다. 특히 참가자들은 자신의 정치적 동맹을 부정적으로 나타내는 루머는 음모론 성향이 높아도 빠르게 거부하는 경향을 보였습니다. 이는 음모론적 사고가 절대적인 요인이 아니라 정치적 편견이 더 강력한 필터 역할을 함을 시사합니다. 이 연구는 가짜정보 확산 메커니즘을 이해하는 데 중요하지만, 표본의 특성이나 문화적 차이를 충분히 반영하지 못했을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigated how conspiracy thinking tendencies influence belief in political rumors. The study presented participants with various political rumors and analyzed the relationship between their conspiracy mindset and rumor acceptance. The key finding reveals that while conspiracy thinking strongly predicts belief in political rumors, this effect is significantly limited by political bias. Notably, participants quickly dismissed rumors that portrayed their own political allies negatively, regardless of their conspiracy thinking tendency. This suggests that political bias serves as a stronger filter than conspiracy thinking itself in determining rumor acceptance. The research provides valuable insight into misinformation spread mechanisms, though it may have limitations in sample representation and cultural applicability.\n\n##",
+      "keyPoints": [
+        "**음모론 성향과 정치적 루머**: 음모론적 사고방식은 정치적 루머 수용을 강하게 예측하지만 절대적 요인은 아님 / Conspiracy thinking predicts political rumor belief, but is not an absolute determinant",
+        "**정치적 편견의 우선성**: 자신의 정치적 진영을 비난하는 루머는 음모론 성향이 높아도 거부됨 / Political bias overrides conspiracy thinking when rumors target one's own political allies",
+        "**선택적 신뢰 메커니즘**: 인간은 음모론과 정치적 편견 사이에서 정치적 편견을 우선시하는 필터링 작용 / People employ selective filtering that prioritizes political loyalty over conspiracy susceptibility",
+        "**가짜정보 대응의 복잡성**: 음모론 개선만으로는 부족하며 정치적 편견 해소가 가짜정보 확산 억제에 더 효과적 / Addressing misinformation requires tackling political bias rather than focusing solely on conspiracy thinking reduction"
+      ],
+      "url": "https://www.psypost.org/new-study-reveals-how-political-bias-conditions-the-impact-of-conspiracy-thinking/",
+      "featured": true
+    },
+    {
+      "id": "3226c82e2a89",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Cognition might emerge from embodied “grip” with the world rather than abstract mental processes",
+      "titleKo": "인지는 추상적인 정신 과정이 아닌 세계와의 구체적인 '접촉'으로부터 나타날 수 있다",
+      "summary": "A new paper challenges the traditional idea that the brain is simply a computer. Instead, it argues that human cognition and personality are built on embodied perception, relying on our ability to maintain a \"grip\" on reality.",
+      "aiSummary": "This research challenges the traditional view that human cognition arises from the brain's abstract information processing, comparable to a computer. Instead, researchers argue that human thinking is fundamentally rooted in embodied perception—our ability to interact with the world through our bodies. The core concept is that our capacity to maintain a \"grip\" on reality through physical interaction is central to cognitive development. The conventional brain-as-computer model overlooked the interaction between the body and environment, but this study emphasizes that bodily experience forms the foundation of abstract thinking capabilities. This offers significant implications for paradigm shifts in cognitive psychology, neuroscience, and developmental psychology. However, the study's specific experimental data and detailed methodology information are not provided, indicating a need for further validation through additional research.\n\n##",
+      "aiSummaryKo": "이 연구는 인간의 인지와 성격이 뇌의 추상적 정보처리 과정에서 비롯된다는 전통적 관점에 도전합니다. 연구진은 인간의 사고가 실제로는 신체를 통해 세계와 상호작용하는 '실체적 인식(embodied perception)'에 기반하고 있다고 주장합니다. 이 연구의 핵심은 우리가 현실에 대한 '파악력(grip)'을 유지하는 능력이 인지 발달의 중심이라는 개념입니다. 전통적 뇌-컴퓨터 모델은 신체와 환경과의 상호작용을 간과했으나, 이번 연구는 신체적 경험이 추상적 사고 능력의 기초를 이룬다고 강조합니다. 이는 인지심리학, 신경과학, 발달심리학의 패러다임을 전환할 수 있는 중요한 시사점을 제공합니다. 다만, 구체적인 실험 수치와 참가자 규모 등의 방법론 세부사항이 제시되지 않아 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research challenges the traditional view that human cognition arises from the brain's abstract information processing, comparable to a computer. Instead, researchers argue that human thinking is fundamentally rooted in embodied perception—our ability to interact with the world through our bodies. The core concept is that our capacity to maintain a \"grip\" on reality through physical interaction is central to cognitive development. The conventional brain-as-computer model overlooked the interaction between the body and environment, but this study emphasizes that bodily experience forms the foundation of abstract thinking capabilities. This offers significant implications for paradigm shifts in cognitive psychology, neuroscience, and developmental psychology. However, the study's specific experimental data and detailed methodology information are not provided, indicating a need for further validation through additional research.\n\n##",
+      "keyPoints": [
+        "신체-환경 상호작용 중심 / Body-environment interaction is central to cognition rather than abstract brain processing",
+        "추상적 사고의 물리적 기초 / Physical embodied experience forms the foundation of abstract thought and personality",
+        "뇌-컴퓨터 모델의 한계 / Traditional brain-as-computer model overlooked crucial embodied and environmental factors",
+        "다학문 패러다임 전환 / Potential paradigm shift across cognitive psychology, neuroscience, and developmental psychology disciplines"
+      ],
+      "url": "https://www.psypost.org/cognition-might-emerge-from-embodied-grip-with-the-world-rather-than-abstract-mental-processes/",
+      "featured": false
+    },
     {
       "id": "6db3e5d64c60",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**평균 점수 분석의 한계 극복** / Beyond average scores: 개인의 상대적 강점을 분석하여 더 정확한 인지 패턴 파악 / Moving beyond average test scores reveals more nuanced individual cognitive patterns"
       ],
       "url": "https://www.psypost.org/men-and-women-show-different-relative-cognitive-strengths-across-their-lifespans/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c1d7d1e43287",
@@ -378,43 +420,6 @@
         "대중 교육의 필요성: 베스트셀러 작가와의 대화 형식으로 외교관의 삶을 대중에게 알리려는 노력으로, 외교 분야의 이해도 향상에 기여 / Need for public education: Effort to inform the general public about diplomats' lives through conversation with a bestselling author, contributing to improved understanding of the diplomatic field"
       ],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
-      "featured": false
-    },
-    {
-      "id": "a3d5cb0c4033",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "26일 전 / 26d ago",
-      "title": "‘Looking Backward’ to the Future",
-      "titleKo": "",
-      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "4e115eb241f3",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "The narcissistic mirror: how extreme personalities view their friends’ humor",
-      "titleKo": "자기애적 거울: 극단적 성격의 사람들이 친구들의 유머를 보는 방식",
-      "summary": "Do you and your best friend share the same sense of humor? Research shows that people with highly narcissistic traits view their friendships through a distorted lens, acting out psychological conflicts by either devaluing or idealizing their closest peers.",
-      "aiSummary": "This research examines how people with extremely narcissistic traits perceive their friendships. While people typically view matching humor with friends as a sign of healthy relationships, individuals with high narcissistic traits see their friendships through a distorted psychological lens. According to the findings, these individuals engage in extreme behaviors—either devaluing or idealizing their closest friends—to manage internal psychological conflicts. Specifically, the higher the narcissistic tendency, the more likely a person is to either believe their humor is similar to their friend's or perceive it as completely different. This study has significant implications for understanding narcissistic personality disorder and revealing the psychological mechanisms behind interpersonal problems. However, the research may be limited to participants from specific cultural backgrounds, and further validation is needed to determine whether these patterns generalize to actual behavior.\n\n##",
-      "aiSummaryKo": "이 연구는 극단적인 자기애 성향이 강한 사람들이 친구관계를 어떻게 인식하는지 살펴봅니다. 일반적으로 친구와 유머감각이 비슷하다고 생각하는 것이 건강한 우정의 신호인데, 자기애 성향이 높은 사람들은 친구관계를 왜곡된 렌즈로 봅니다. 연구 결과에 따르면 이러한 사람들은 심리적 갈등을 해결하기 위해 친구를 과도하게 깎아내리거나 이상화하는 극단적인 행동을 보입니다. 구체적으로, 자기애 성향이 높을수록 자신과 친구의 유머감각이 비슷하다고 착각하거나 반대로 완전히 다르다고 인식하는 경향이 증가합니다. 이 연구는 자기애 성격장애를 이해하고 대인관계 문제의 심리적 기제를 규명하는 데 중요한 의의가 있습니다. 다만 본 연구는 특정 문화권의 참가자로 제한될 수 있으며, 실제 행동까지 일반화되는지는 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research examines how people with extremely narcissistic traits perceive their friendships. While people typically view matching humor with friends as a sign of healthy relationships, individuals with high narcissistic traits see their friendships through a distorted psychological lens. According to the findings, these individuals engage in extreme behaviors—either devaluing or idealizing their closest friends—to manage internal psychological conflicts. Specifically, the higher the narcissistic tendency, the more likely a person is to either believe their humor is similar to their friend's or perceive it as completely different. This study has significant implications for understanding narcissistic personality disorder and revealing the psychological mechanisms behind interpersonal problems. However, the research may be limited to participants from specific cultural backgrounds, and further validation is needed to determine whether these patterns generalize to actual behavior.\n\n##",
-      "keyPoints": [
-        "**자기애와 왜곡된 인식의 관계** / Narcissism and distorted perception of relationships: 자기애 성향이 높은 사람은 친구관계를 객관적으로 평가하지 못하고 심리적 갈등을 투영합니다 / High narcissistic individuals project their internal conflicts onto friendships, preventing objective evaluation.",
-        "**양극단적 이상화와 평가절하** / Idealization vs. devaluation: 친구의 유머감각을 과도하게 높이 평가하거나 반대로 심하게 깎아내리는 '검은색-흰색' 사고방식을 보입니다 / \"Black-and-white\" thinking patterns emerge, where friends' humor is either highly idealized or severely devalued.",
-        "**유머감각의 유사성 착각** / False humor compatibility: 자신과 친구의 유머감각이 실제보다 훨씬 비슷하거나 다르다고 잘못 인식합니다 / Narcissistic individuals misconceive whether their humor is actually aligned with friends' humor.",
-        "**심리장애 이해와 대인관계 치료의 중요성** / Clinical implications for personality disorders: 이 발견은 자기애 성격장애 진단 및 치료, 그리고 대인관계 갈등 해결에 활용될 수 있습니다 / These findings can inform diagnosis and treatment of narcissistic personality disorder and help address interpersonal conflicts."
-      ],
-      "url": "https://www.psypost.org/the-narcissistic-mirror-how-extreme-personalities-view-their-friends-humor/",
       "featured": false
     }
   ]
