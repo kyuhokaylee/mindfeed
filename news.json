@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-19T09:35:13.538443+00:00",
+  "updated": "2026-04-19T11:53:14.438205+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6db3e5d64c60",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Men and women show different relative cognitive strengths across their lifespans",
+      "titleKo": "남성과 여성은 생애 전반에 걸쳐 서로 다른 상대적 인지 능력을 보인다",
+      "summary": "Moving beyond average test scores reveals distinct cognitive patterns: men consistently show a personal strength in math, while women show one in reading. A large new study finds these trends remain stable across 30 countries and all ages.",
+      "aiSummary": "This large-scale international study investigated how cognitive abilities differ between men and women across the lifespan. Researchers assessed mathematical and reading abilities in participants of various ages across 30 countries. The key finding is that men consistently show a relative personal strength in mathematics, while women demonstrate a relative strength in reading. These patterns remained stable across all 30 countries and all age groups examined. By moving beyond simple average score comparisons to analyze individual relative strengths, the research provides a more nuanced understanding of gender-related cognitive characteristics. However, the study may not fully account for external factors such as cultural differences and educational environments that could influence these patterns.\n\n##",
+      "aiSummaryKo": "이 연구는 남녀의 인지능력이 전 생애에 걸쳐 어떻게 다른지 조사한 대규모 국제 연구입니다. 연구팀은 30개국의 다양한 연령대 참가자들을 대상으로 수학과 읽기 능력을 측정했습니다. 핵심 결과는 남성은 수학에서 상대적으로 더 강한 개인적 강점을 보이는 반면, 여성은 읽기에서 더 강한 강점을 나타낸다는 것입니다. 이러한 패턴은 30개국 전역과 모든 연령대에서 일관되게 나타났습니다. 이 연구는 단순한 평균 점수 비교를 넘어 개인의 상대적 강점을 분석함으로써 성별 인지 특성을 더 정확히 이해했습니다. 다만, 문화적 차이나 교육 환경 등 외부 요인이 이러한 패턴에 미치는 영향을 완전히 통제하지 못했을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This large-scale international study investigated how cognitive abilities differ between men and women across the lifespan. Researchers assessed mathematical and reading abilities in participants of various ages across 30 countries. The key finding is that men consistently show a relative personal strength in mathematics, while women demonstrate a relative strength in reading. These patterns remained stable across all 30 countries and all age groups examined. By moving beyond simple average score comparisons to analyze individual relative strengths, the research provides a more nuanced understanding of gender-related cognitive characteristics. However, the study may not fully account for external factors such as cultural differences and educational environments that could influence these patterns.\n\n##",
+      "keyPoints": [
+        "**성별 인지 강점의 차이** / Gender-specific cognitive strengths: 남성은 수학, 여성은 읽기에서 상대적 강점을 보임 / Men show relative strength in math while women show relative strength in reading",
+        "**광범위한 지역적 일관성** / Cross-cultural consistency: 이 패턴이 30개국 전역에서 일관되게 관찰됨 / The pattern remains consistent across all 30 countries studied",
+        "**전 생애에 걸친 안정성** / Stability across lifespan: 남녀의 인지 강점 차이가 모든 연령대에서 변하지 않음 / The cognitive differences between genders remain stable across all age groups",
+        "**평균 점수 분석의 한계 극복** / Beyond average scores: 개인의 상대적 강점을 분석하여 더 정확한 인지 패턴 파악 / Moving beyond average test scores reveals more nuanced individual cognitive patterns"
+      ],
+      "url": "https://www.psypost.org/men-and-women-show-different-relative-cognitive-strengths-across-their-lifespans/",
+      "featured": true
+    },
+    {
+      "id": "c1d7d1e43287",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "5일 전 / 5d ago",
+      "title": "What It’s Like to Be…an Aerospace Engineer",
+      "titleKo": "이것이 무엇인가를…항공우주 공학자가 되는 것이 어떤지\n\n또는\n\n항공우주 공학자가 된다는 것은 어떤 일인가\n\n또는\n\n항공우주 공학자의 삶은 어떨까",
+      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummary": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, presented as part of the \"What It's Like to Be...\" podcast series hosted by bestselling author Dan Heath. The episode explores the real-world experience of landing the Perseverance rover on Mars through in-depth conversation methodology. Key topics discussed include the \"Seven Minutes of Terror\" concept during Mars landing, sterile room work procedures to minimize microbial counts, and navigating hundreds of engineering trade-offs. The significance of this content lies in making complex space exploration projects accessible to general audiences by humanizing the scientists behind these missions. The interview also addresses scientific questions such as evidence of past life on Mars. By connecting behavioral science perspectives, this format illuminates the decision-making processes and psychological experiences of actual space exploration professionals.",
+      "aiSummaryKo": "본 기사는 NASA 제트 추진 연구소의 항공우주 공학자 스와티 모한과의 인터뷰를 통해 화성 탐사선 퍼서비어런스 로버 착륙 과정을 소개하는 팟캐스트 에피소드입니다. 저명한 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 시리즈의 일환으로, 항공우주 공학자의 실제 업무 경험을 탐구합니다. 연구 방법으로는 심층 인터뷰를 통해 화성 착륙의 \"7분의 공포(Seven Minutes of Terror)\" 개념, 미생물 제어를 위한 무균실 작업, 그리고 수백 가지 공학적 타협안을 다룹니다. 이 콘텐츠의 의의는 복잡한 우주 탐사 프로젝트의 뒷면에서 일하는 과학자들의 경험을 일반인이 이해하기 쉽게 전달한다는 점입니다. 또한 화성에서의 과거 생명 흔적 발견 가능성 같은 과학적 질문도 함께 탐구합니다. 본 인터뷰는 행동 과학 분야와 연결되어 실제 전문가들의 의사결정 과정과 심리 상태를 조명합니다.",
+      "aiSummaryEn": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, presented as part of the \"What It's Like to Be...\" podcast series hosted by bestselling author Dan Heath. The episode explores the real-world experience of landing the Perseverance rover on Mars through in-depth conversation methodology. Key topics discussed include the \"Seven Minutes of Terror\" concept during Mars landing, sterile room work procedures to minimize microbial counts, and navigating hundreds of engineering trade-offs. The significance of this content lies in making complex space exploration projects accessible to general audiences by humanizing the scientists behind these missions. The interview also addresses scientific questions such as evidence of past life on Mars. By connecting behavioral science perspectives, this format illuminates the decision-making processes and psychological experiences of actual space exploration professionals.",
+      "keyPoints": [
+        "화성 착륙의 \"7분의 공포\" / \"Seven Minutes of Terror\" during Mars landing represents the critical autonomous descent phase where communication delay makes real-time control impossible",
+        "미생물 제어의 중요성 / Microbial contamination control in clean rooms is essential to prevent Earth-based organisms from compromising Mars exploration objectives",
+        "공학적 타협 과정 / Hundreds of engineering trade-offs demonstrate the complex problem-solving required in aerospace projects with multiple competing constraints",
+        "과학과 인간 경험의 연결 / Behavioral science approach reveals how professional expertise intersects with human psychology and decision-making under high-stakes conditions"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
+      "featured": false
+    },
     {
       "id": "e6acb17d3a3f",
       "tag": "neuro",
@@ -21,7 +63,7 @@
         "**생산성 변동의 객관적 근거** / Productivity variations are scientifically grounded in cognitive and physical conditions, not merely psychological perception"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1feb820f194c",
@@ -373,48 +415,6 @@
         "**심리장애 이해와 대인관계 치료의 중요성** / Clinical implications for personality disorders: 이 발견은 자기애 성격장애 진단 및 치료, 그리고 대인관계 갈등 해결에 활용될 수 있습니다 / These findings can inform diagnosis and treatment of narcissistic personality disorder and help address interpersonal conflicts."
       ],
       "url": "https://www.psypost.org/the-narcissistic-mirror-how-extreme-personalities-view-their-friends-humor/",
-      "featured": false
-    },
-    {
-      "id": "0d437c972ca4",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Higher intelligence in adolescence linked to lower mental illness risk in adulthood",
-      "titleKo": "청소년기의 높은 지능이 성인기의 낮은 정신질환 위험과 연관",
-      "summary": "A massive longitudinal study of Norwegian men reveals that lower adolescent cognitive test scores and lower educational attainment strongly predict a higher risk of developing anxiety, depression, and other mental health conditions in adulthood.",
-      "aiSummary": "This study investigated the long-term impact of adolescent cognitive ability on adult mental health outcomes. Researchers conducted a large-scale longitudinal study on Norwegian men, measuring their cognitive test scores and educational attainment during adolescence and tracking the development of anxiety, depression, and other mental health disorders into adulthood. The findings demonstrated that individuals with lower adolescent cognitive test scores showed significantly higher risk of developing mental health conditions compared to those with higher scores, with educational attainment showing similar predictive power. These results suggest that cognitive functioning assessment during adolescence could serve as an important screening tool for identifying individuals at risk for mental health problems in adulthood. However, the study's limitations include its exclusive focus on Norwegian males, which restricts generalizability to females and other racial or cultural populations.\n\n##",
-      "aiSummaryKo": "본 연구는 청소년기의 인지능력이 성인기 정신건강에 미치는 영향을 규명하기 위해 실시되었습니다. 노르웨이 남성을 대상으로 한 대규모 종단연구에서 청소년기 인지능력 검사 점수와 교육 수준을 측정하고, 이들이 성인기에 불안장애, 우울증 등 정신질환 발병 위험도와 어떤 관계가 있는지 추적 조사했습니다. 연구 결과, 청소년기 인지능력이 낮은 집단이 높은 집단 대비 성인기 정신건강 문제 발생 위험이 현저히 높은 것으로 나타났으며, 교육 수준도 유사한 예측력을 보였습니다. 이는 청소년기의 인지기능 평가가 성인기 정신건강 위험군 선별의 중요한 지표가 될 수 있음을 시사합니다. 다만 본 연구는 노르웨이 남성만을 대상으로 했으므로, 여성이나 다른 인종·문화권에 대한 일반화에는 제한이 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigated the long-term impact of adolescent cognitive ability on adult mental health outcomes. Researchers conducted a large-scale longitudinal study on Norwegian men, measuring their cognitive test scores and educational attainment during adolescence and tracking the development of anxiety, depression, and other mental health disorders into adulthood. The findings demonstrated that individuals with lower adolescent cognitive test scores showed significantly higher risk of developing mental health conditions compared to those with higher scores, with educational attainment showing similar predictive power. These results suggest that cognitive functioning assessment during adolescence could serve as an important screening tool for identifying individuals at risk for mental health problems in adulthood. However, the study's limitations include its exclusive focus on Norwegian males, which restricts generalizability to females and other racial or cultural populations.\n\n##",
-      "keyPoints": [
-        "**청소년기 인지능력과 성인 정신건강의 연관성** / Significant link between adolescent cognitive ability and adult mental health risk: Lower cognitive test scores in adolescence strongly predict higher anxiety and depression risk in adulthood",
-        "**교육 수준의 예측력** / Educational attainment as a predictor: Educational achievement during adolescence demonstrates similar predictive value for adult mental health outcomes as cognitive test scores",
-        "**조기 선별의 중요성** / Early identification potential: Adolescent cognitive assessments could be utilized as screening tools to identify and support high-risk individuals before mental health problems develop",
-        "**성별·문화적 차이 고려 필요** / Research limitations regarding generalizability: Findings are limited to Norwegian males, requiring further research on females and diverse cultural/ethnic populations for broader applicability"
-      ],
-      "url": "https://www.psypost.org/adolescent-cognitive-scores-and-schooling-linked-to-adult-mental-health-outcomes/",
-      "featured": false
-    },
-    {
-      "id": "8f735993166f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "NuHF Claw: A Risk Constrained Cognitive Agent Framework for Human Centered Procedure Support in Digital Nuclear Control Rooms",
-      "titleKo": "NuHF Claw: 디지털 원자력 제어실의 인간 중심 절차 지원을 위한 위험 제약 인지 에이전트 프레임워크",
-      "summary": "arXiv:2604.14160v1 Announce Type: new Abstract: The rapid digitization of nuclear power plant main control rooms has fundamentally reshaped operator interaction patterns, introducing complex soft-control behaviors and elevated cognitive risks that are not adequately addressed by existing human reliability analysis approaches. Although recent advances in large language models and autonomous agents offer new opportunities for intelligent decision support, their deployment in safety critical environments remains constrained by risks of hallucinated reasoning and weakened human authority. This stu",
-      "aiSummary": "This research develops an AI-based decision support system to reduce cognitive load and enhance safety in digitalized nuclear power plant control rooms. The research team proposed the 'NuHF Claw' framework utilizing large language models (LLMs) and autonomous agent technologies, featuring a risk-constrained cognitive agent architecture. The key innovation is introducing mechanisms that control AI model 'hallucination' issues while preserving operator's final authority. This system is specifically designed for digital control room environments characterized by complex soft-control behaviors and high cognitive risks. The study's significance lies in providing new directions for safely deploying AI technology in safety-critical infrastructure. However, long-term validation in actual power plant operational environments is lacking, and additional evaluation of system performance across diverse crisis scenarios is needed.\n\n##",
-      "aiSummaryKo": "본 연구는 원자력 발전소의 디지털화된 중앙제어실에서 운영자의 인지 부하를 줄이고 안전을 향상시키기 위한 인공지능 기반 의사결정 지원 시스템을 개발했습니다. 연구팀은 대규모 언어모델(LLM)과 자율 에이전트 기술을 활용하여 'NuHF Claw' 프레임워크를 제안했으며, 이는 위험도 제약 조건을 포함한 인지 에이전트 구조를 특징으로 합니다. 핵심 혁신은 AI 모델의 '환각(hallucination)' 문제를 제어하고 운영자의 최종 권한을 보장하는 메커니즘을 도입한 점입니다. 이 시스템은 복잡한 소프트 제어 동작과 높은 인지 위험이 특징인 디지털 제어실 환경에 특화되어 있습니다. 연구의 의의는 안전이 중대한 핵심 시설에서 AI 기술을 안전하게 배포할 수 있는 새로운 방향을 제시한다는 점입니다. 다만 실제 발전소 운영 환경에서의 장기 실증 검증이 부족하며, 다양한 위기 상황에 대한 대응 성능 평가가 추가로 필요합니다.\n\n##",
-      "aiSummaryEn": "This research develops an AI-based decision support system to reduce cognitive load and enhance safety in digitalized nuclear power plant control rooms. The research team proposed the 'NuHF Claw' framework utilizing large language models (LLMs) and autonomous agent technologies, featuring a risk-constrained cognitive agent architecture. The key innovation is introducing mechanisms that control AI model 'hallucination' issues while preserving operator's final authority. This system is specifically designed for digital control room environments characterized by complex soft-control behaviors and high cognitive risks. The study's significance lies in providing new directions for safely deploying AI technology in safety-critical infrastructure. However, long-term validation in actual power plant operational environments is lacking, and additional evaluation of system performance across diverse crisis scenarios is needed.\n\n##",
-      "keyPoints": [
-        "**디지털 제어실의 인지 위험 대응** / Addressing cognitive risks in digitalized nuclear control rooms through AI-augmented decision support",
-        "**LLM 기반 자율 에이전트의 안전 제약** / Risk-constrained framework that prevents AI hallucination while maintaining human authority in safety-critical decisions",
-        "**운영자 중심의 설계 철학** / Human-centered approach ensuring operators retain final decision-making authority rather than autonomous AI control",
-        "**안전-중대 시설의 AI 배포 모델** / Novel framework for safely implementing advanced AI technologies in nuclear and other safety-critical infrastructure environments"
-      ],
-      "url": "https://arxiv.org/abs/2604.14160",
       "featured": false
     }
   ]
