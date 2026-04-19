@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-19T06:19:02.669093+00:00",
+  "updated": "2026-04-19T09:35:13.538443+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e6acb17d3a3f",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "The surprising reason you’re so productive one day and not the next",
+      "titleKo": "어떤 날은 생산성이 높고 어떤 날은 낮은 놀라운 이유",
+      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
+      "aiSummary": "This research explains why the same person experiences varying levels of productivity on different days. Researchers discovered that cognitive sharpness on any given day directly influences the size of goals people set and their ability to follow through. Specifically, being in a mentally \"sharp\" state can yield up to 40 additional minutes of productivity gains. However, attempting to maintain this heightened mental state through excessive effort for extended periods produces a reverse effect. The significance of this study lies in demonstrating that productivity fluctuations are based on physical and cognitive conditions rather than mere psychological states. The main limitation is that the research may be based on short-term observations and might not adequately account for individual differences and external environmental factors.\n\n##",
+      "aiSummaryKo": "이 연구는 같은 사람도 어떤 날은 생산성이 높고 어떤 날은 낮은 이유를 과학적으로 규명했습니다. 연구진은 특정 날의 인지능력(정신적 민첩성)이 사람들이 설정하는 목표의 크기와 목표 달성률에 직접적인 영향을 미친다는 것을 발견했습니다. 구체적으로, 정신적으로 \"예리한 상태\"에 있는 날에는 최대 40분의 추가 생산성 이득을 얻을 수 있습니다. 그러나 이러한 높은 정신상태를 무리해서 너무 오래 유지하려고 하면 오히려 역효과가 발생한다는 점이 중요합니다. 이 연구의 의의는 생산성 변동이 단순한 심리 상태가 아닌 신체적·인지적 조건에 기반한다는 것을 증명했다는 데 있습니다. 다만, 이 연구는 단기 관찰에 기초했을 가능성이 있으며, 개인차와 외부 환경요인의 영향을 충분히 고려하지 못했을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This research explains why the same person experiences varying levels of productivity on different days. Researchers discovered that cognitive sharpness on any given day directly influences the size of goals people set and their ability to follow through. Specifically, being in a mentally \"sharp\" state can yield up to 40 additional minutes of productivity gains. However, attempting to maintain this heightened mental state through excessive effort for extended periods produces a reverse effect. The significance of this study lies in demonstrating that productivity fluctuations are based on physical and cognitive conditions rather than mere psychological states. The main limitation is that the research may be based on short-term observations and might not adequately account for individual differences and external environmental factors.\n\n##",
+      "keyPoints": [
+        "**인지능력의 일일 변동성** / Daily fluctuation in cognitive performance directly affects goal-setting behavior and task completion rates",
+        "**40분의 생산성 이득** / Sharp mental state can yield up to 40 extra minutes of productivity per day",
+        "**역U자 관계** / Pushing too hard to maintain peak mental state for too long reverses the positive effect (inverted U-shaped relationship)",
+        "**생산성 변동의 객관적 근거** / Productivity variations are scientifically grounded in cognitive and physical conditions, not merely psychological perception"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
+      "featured": true
+    },
+    {
+      "id": "1feb820f194c",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "4일 전 / 4d ago",
+      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
+      "titleKo": "평생 이것을 실천하면 알츠하이머병 위험을 38% 감소시킬 수 있습니다",
+      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
+      "aiSummary": "This research investigated how lifelong mental stimulation through activities like reading, writing, and learning new skills can reduce Alzheimer's disease risk. The study analyzed the cumulative effects of cognitive enrichment activities across participants' lifespans. The findings revealed that people with the highest levels of cognitive enrichment experienced a 38% reduction in Alzheimer's risk compared to those with the lowest levels, and their symptom onset was delayed by several years. The research demonstrates how cognitive reserve—the brain's resilience built through mental engagement—protects against neurodegenerative disease. The significance lies in showing that simple, accessible lifestyle habits can have long-term protective effects on brain health. However, as an observational study, it cannot definitively establish causality, and further clinical trials are needed for confirmation.\n\n##",
+      "aiSummaryKo": "이 연구는 평생에 걸친 정신적 자극이 알츠하이머병 위험을 얼마나 줄일 수 있는지 조사했습니다. 연구팀은 독서, 글쓰기, 새로운 기술 학습 등 인지적 풍요로움 활동의 누적 효과를 분석했습니다. 연구 결과, 인지적 풍요로움이 가장 높은 집단은 가장 낮은 집단에 비해 알츠하이머병 발병 위험이 38% 감소했으며, 증상 발현이 수년 늦게 나타났습니다. 이는 뇌 인지 예비력(cognitive reserve)이 신경퇴행성 질환으로부터 보호하는 메커니즘을 보여줍니다. 이 연구의 의의는 누구나 실천할 수 있는 간단한 생활습관이 뇌 건강에 장기적 영향을 미칠 수 있다는 점입니다. 다만 이 연구는 관찰 연구(observational study)로, 인과관계를 완전히 증명하지는 못한 한계가 있으며, 추가적인 임상 시험이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research investigated how lifelong mental stimulation through activities like reading, writing, and learning new skills can reduce Alzheimer's disease risk. The study analyzed the cumulative effects of cognitive enrichment activities across participants' lifespans. The findings revealed that people with the highest levels of cognitive enrichment experienced a 38% reduction in Alzheimer's risk compared to those with the lowest levels, and their symptom onset was delayed by several years. The research demonstrates how cognitive reserve—the brain's resilience built through mental engagement—protects against neurodegenerative disease. The significance lies in showing that simple, accessible lifestyle habits can have long-term protective effects on brain health. However, as an observational study, it cannot definitively establish causality, and further clinical trials are needed for confirmation.\n\n##",
+      "keyPoints": [
+        "**38% 위험 감소** / 38% Risk Reduction: 인지적 풍요로움이 높은 사람들이 알츠하이머병 발병 위험을 38% 낮출 수 있음",
+        "**증상 발현 지연** / Delayed Symptom Onset: 높은 인지 자극을 받은 그룹에서 질병 증상이 수년 늦게 나타남",
+        "**예방 가능한 활동** / Preventable Activities: 독서, 글쓰기, 새로운 기술 학습 등 누구나 실천 가능한 일상적 활동들",
+        "**뇌 인지 예비력** / Cognitive Reserve: 평생의 정신적 자극이 뇌의 신경보호 메커니즘을 강화하는 메커니즘"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
+      "featured": false
+    },
     {
       "id": "47e4fd455638",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**인간 적용의 제한성**: 동물 실험 결과이므로 인간에 대한 직접적 영향 규명 및 추가 연구 필요 / Results from animal models require further human studies to establish direct health implications"
       ],
       "url": "https://www.psypost.org/early-exposure-to-forever-chemicals-linked-to-altered-brain-genes-and-impulsive-behavior-in-rats/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bf15e3d72db0",
@@ -373,48 +415,6 @@
         "**안전-중대 시설의 AI 배포 모델** / Novel framework for safely implementing advanced AI technologies in nuclear and other safety-critical infrastructure environments"
       ],
       "url": "https://arxiv.org/abs/2604.14160",
-      "featured": false
-    },
-    {
-      "id": "16f48a82ab89",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
-      "titleKo": "인간 인지 시뮬레이션: LLM 기반 AI 시스템을 위한 심박동 기반 자율 사고 활동 스케줄링",
-      "summary": "arXiv:2604.14178v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable capabilities in reasoning and tool use, yet they often suffer from rigid, reactive control flows that limit their adaptability and efficiency. Most existing frameworks rely on fixed pipelines or failure-triggered reflection, causing agents to act impulsively or correct errors only after they occur. In this paper, we introduce Heartbeat-Driven Autonomous Thinking Activity Scheduling, a mechanism that enables proactive, adaptive, and continuous self-regulation. Mirroring the natural rhy",
-      "aiSummary": "This research proposes a novel approach to improve how Large Language Model (LLM)-based AI agents autonomously think and act similar to humans. Existing AI systems have limitations due to their passive structures that follow fixed rules or only react after errors occur. The researchers developed a \"Heartbeat-Driven Autonomous Thinking Activity Scheduling\" mechanism that operates at regular rhythms like human heartbeats. This enables AI agents to continuously evaluate their actions and self-regulate, allowing proactive responses before problems arise rather than reactive corrections. This technique can significantly enhance the adaptability and efficiency of AI systems. However, the research remains at a theoretical proposal stage, requiring validation in real-world environments. Additionally, continuous self-reflection may increase computational costs, which represents a potential limitation.\n\n##",
-      "aiSummaryKo": "이 연구는 대규모 언어모델(LLM) 기반 AI 에이전트가 인간처럼 자율적으로 사고하고 행동하는 방식을 개선하기 위한 새로운 접근법을 제시합니다. 기존 AI 시스템들은 고정된 규칙에 따라 움직이거나 오류가 발생한 후에야 반응하는 수동적인 구조의 한계가 있었습니다. 연구진은 인간의 심박처럼 규칙적인 리듬으로 작동하는 '하트비트 기반 자율 사고 활동 스케줄링' 메커니즘을 개발했습니다. 이는 AI 에이전트가 지속적으로 자신의 행동을 평가하고 스스로 조절할 수 있도록 하여, 문제 발생 전에 미리 대응하는 주도적 역할을 가능하게 합니다. 이러한 기법은 AI 시스템의 적응성과 효율성을 크게 향상시킬 수 있습니다. 다만, 이는 이론적 제안 단계로 실제 환경에서의 성능 검증이 필요하며, 연속적인 자기 반성이 계산 비용을 증가시킬 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research proposes a novel approach to improve how Large Language Model (LLM)-based AI agents autonomously think and act similar to humans. Existing AI systems have limitations due to their passive structures that follow fixed rules or only react after errors occur. The researchers developed a \"Heartbeat-Driven Autonomous Thinking Activity Scheduling\" mechanism that operates at regular rhythms like human heartbeats. This enables AI agents to continuously evaluate their actions and self-regulate, allowing proactive responses before problems arise rather than reactive corrections. This technique can significantly enhance the adaptability and efficiency of AI systems. However, the research remains at a theoretical proposal stage, requiring validation in real-world environments. Additionally, continuous self-reflection may increase computational costs, which represents a potential limitation.\n\n##",
-      "keyPoints": [
-        "**고정된 제어 흐름의 한계 극복** / Overcoming limitations of rigid control flows",
-        "**심박 리듬 기반 자율 조절 메커니즘** / Heartbeat-rhythm-based autonomous regulation",
-        "**주도적(Proactive) 적응성 향상** / Enhanced proactive adaptability",
-        "**인간 인지 프로세스 시뮬레이션** / Simulation of human cognitive processes"
-      ],
-      "url": "https://arxiv.org/abs/2604.14178",
-      "featured": false
-    },
-    {
-      "id": "c1d7d1e43287",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "4일 전 / 4d ago",
-      "title": "What It’s Like to Be…an Aerospace Engineer",
-      "titleKo": "항공우주 공학자가 되는 것이 어떤가",
-      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
-      "aiSummary": "This article features a podcast interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, exploring the landing process of the Perseverance rover on Mars and the professional experiences of space exploration engineers. The methodology employs an interview-based format from the \"What It's Like to Be...\" podcast series, hosted by bestselling author Dan Heath, where participants share firsthand experiences and expertise through direct conversation rather than experimental research design. Key topics covered include the \"Seven Minutes of Terror\"—the critically dangerous landing phase on Mars, microbial contamination control procedures in clean rooms, and the resolution of hundreds of engineering trade-offs during mission design. The significance of this piece lies in its ability to make complex scientific and engineering processes accessible to general audiences through expert first-hand accounts, while fostering public interest in Mars exploration missions. However, the limitation is that this is qualitative interview content lacking academic research data, rigorous experimental methodology, or quantitative analysis—rather, it represents the subjective professional experiences of an individual expert.\n\n##",
-      "aiSummaryKo": "본 기사는 NASA 제트 추진 연구소의 항공우주공학자 스와티 모한과의 인터뷰를 통해 화성 탐사 로버 퍼서비어런스의 착륙 과정과 우주 탐사 엔지니어의 업무를 소개하는 팟캐스트 에피소드이다. 연구 방법은 베스트셀러 저자 댄 히스가 진행하는 '당신이 되는 것은 어떤가(What It's Like to Be...)'라는 팟캐스트 시리즈의 인터뷰 형식이며, 실제 우주 탐사 엔지니어의 경험담과 전문 지식을 직접 청취하는 방식으로 구성되어 있다. 핵심 내용으로는 화성 착륙 시 '7분의 공포(Seven Minutes of Terror)'라는 극도로 위험한 착륙 단계, 미생물 오염을 최소화하기 위한 클린룸 작업, 수백 개의 공학적 트레이드오프(설계 선택) 과정 등이 다루어진다. 이 기사의 의의는 일반인들이 우주 탐사의 복잡한 과학적·공학적 과정을 실제 전문가의 목소리를 통해 이해하고, 화성 탐사 미션에 대한 관심을 고취할 수 있다는 점이다. 다만 이는 단순 인터뷰 형식으로 학술적 연구 결과나 정량적 데이터 분석이 포함되지 않으며, 개별 전문가의 주관적 경험에 기반한 콘텐츠라는 한계를 가진다.\n\n##",
-      "aiSummaryEn": "This article features a podcast interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, exploring the landing process of the Perseverance rover on Mars and the professional experiences of space exploration engineers. The methodology employs an interview-based format from the \"What It's Like to Be...\" podcast series, hosted by bestselling author Dan Heath, where participants share firsthand experiences and expertise through direct conversation rather than experimental research design. Key topics covered include the \"Seven Minutes of Terror\"—the critically dangerous landing phase on Mars, microbial contamination control procedures in clean rooms, and the resolution of hundreds of engineering trade-offs during mission design. The significance of this piece lies in its ability to make complex scientific and engineering processes accessible to general audiences through expert first-hand accounts, while fostering public interest in Mars exploration missions. However, the limitation is that this is qualitative interview content lacking academic research data, rigorous experimental methodology, or quantitative analysis—rather, it represents the subjective professional experiences of an individual expert.\n\n##",
-      "keyPoints": [
-        "**화성 착륙의 극한 과정 / Critical Mars Landing Process**: \"7분의 공포\"라는 극도로 위험한 착륙 단계에서 엔지니어들이 직면하는 도전과 해결책을 다룸 / Addresses the extreme challenges engineers face during the \"Seven Minutes of Terror,\" a critically dangerous landing phase where real-time communication with Earth is impossible",
-        "**미생물 오염 관리의 중요성 / Microbial Contamination Control**: 클린룸 작업을 통해 화성에서의 생명 탐사 신뢰도를 확보하는 과정을 설명 / Explains how clean room procedures ensure the scientific integrity of life-detection experiments on Mars by minimizing terrestrial microbial contamination",
-        "**공학적 의사결정의 복잡성 / Complexity of Engineering Trade-offs**: 수백 개의 설계 선택지와 그에 따른 타협점들이 최종 미션 성공에 영향을 미치는 과정 / Demonstrates how hundreds of design decisions and compromises collectively determine mission success and rover performance",
-        "**전문가 지식의 대중화 / Public Science Communication**: 팟캐스트 형식의 심층 인터뷰를 통해 우주 탐사의 복잡한 개념을 일반인이 접근 가능한 방식으로 전달 / Uses accessible podcast format to demystify complex aerospace engineering concepts"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
       "featured": false
     }
   ]
