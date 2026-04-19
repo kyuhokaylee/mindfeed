@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-19T19:57:06.976931+00:00",
+  "updated": "2026-04-19T21:54:07.461071+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5c73ba5810b1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Believing in a “chemical imbalance” might keep patients on antidepressants longer",
+      "titleKo": "\"화학적 불균형\"을 믿는 것이 환자를 항우울제에 더 오래 의존하게 할 수 있다",
+      "summary": "Patients who believe their depression stems from a chemical imbalance tend to take antidepressants twice as long and are less likely to attempt quitting, suggesting that biological messaging heavily influences long-term drug reliance.",
+      "aiSummary": "A recent study reveals that patients who believe their depression is caused by a \"chemical imbalance\" in the brain tend to take antidepressants for significantly longer periods and are less likely to attempt medication withdrawal. Researchers examined how patients' illness beliefs—their understanding of what causes their depression—influence their long-term medication use patterns. The key finding showed that patients attributing their depression to chemical imbalance took antidepressants approximately twice as long as those with different beliefs and made fewer attempts to discontinue treatment. This suggests that the way healthcare providers communicate about depression using biological explanations substantially shapes patients' medication dependency and long-term treatment adherence. The study's significance lies in highlighting how illness perception plays a crucial role in treatment outcomes and suggests the need for more balanced explanations of depression causes. However, the research relied on self-reported data from patients, and it remains unclear whether longer medication duration represents a positive or negative outcome in all cases.\n\n##",
+      "aiSummaryKo": "우울증의 원인을 '뇌의 화학적 불균형'으로 믿는 환자들이 항우울제를 복용하는 기간이 더 길어질 수 있다는 연구 결과가 나왔습니다. 이 연구는 우울증 치료를 받는 환자들을 대상으로 그들의 질병 인식(자신의 증상 원인을 어떻게 생각하는지)이 약물 복용 기간에 어떤 영향을 미치는지 조사했습니다. 핵심 결과는 화학적 불균형을 우울증의 원인으로 믿는 환자들이 그렇지 않은 환자들에 비해 약 2배 정도 더 오래 항우울제를 복용했으며, 약물 복용을 중단하려는 시도도 덜 했다는 것입니다. 이는 의료진이 우울증을 설명할 때 사용하는 '생물학적 메시지'가 환자의 약물 의존성에 상당한 영향을 미친다는 점을 보여줍니다. 연구의 의의는 환자의 질병 인식이 치료 결과에 중요한 역할을 한다는 것을 강조하며, 더 균형잡힌 설명의 필요성을 제시합니다. 다만 이 연구는 환자들의 자가보고에 의존했으며, 약물 복용 기간이 길어진 것이 반드시 부정적인 결과인지 긍정적인 결과인지 판단하기 어렵다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "A recent study reveals that patients who believe their depression is caused by a \"chemical imbalance\" in the brain tend to take antidepressants for significantly longer periods and are less likely to attempt medication withdrawal. Researchers examined how patients' illness beliefs—their understanding of what causes their depression—influence their long-term medication use patterns. The key finding showed that patients attributing their depression to chemical imbalance took antidepressants approximately twice as long as those with different beliefs and made fewer attempts to discontinue treatment. This suggests that the way healthcare providers communicate about depression using biological explanations substantially shapes patients' medication dependency and long-term treatment adherence. The study's significance lies in highlighting how illness perception plays a crucial role in treatment outcomes and suggests the need for more balanced explanations of depression causes. However, the research relied on self-reported data from patients, and it remains unclear whether longer medication duration represents a positive or negative outcome in all cases.\n\n##",
+      "keyPoints": [
+        "**화학적 불균형 신념의 영향** / **Impact of Chemical Imbalance Belief**: 화학적 불균형을 우울증의 원인으로 믿는 환자들이 항우울제를 2배 더 오래 복용",
+        "**의료 메시지의 힘** / **Power of Medical Messaging**: 의료진의 질병 설명 방식(생물학적 관점)이 환자의 약물 의존성과 장기 복용 기간에 직접적인 영향을 미침",
+        "**약물 중단 시도 감소** / **Reduced Medication Discontinuation Attempts**: 화학적 불균형을 믿는 환자들이 항우울제 복용을 중단하려는 시도를 덜 함으로써 의존성 증가",
+        "**환자 교육의 필요성** / **Need for Balanced Patient Education**: 우울증의 다양한 원인(심리사회적, 환경적, 생물학적 요인 포함)에 대한 더 균형잡힌 정보 제공의 중요성 강조"
+      ],
+      "url": "https://www.psypost.org/how-believing-in-a-chemical-imbalance-keeps-patients-on-antidepressants-longer/",
+      "featured": true
+    },
+    {
+      "id": "5861058901d0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "titleKo": "인공 신경세포가 살아있는 뇌세포와의 통신에 성공하다",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "aiSummary": "Engineers at Northwestern University have achieved a significant breakthrough by developing artificial neurons capable of genuine communication with living brain cells. The research team created flexible, cost-effective artificial neuron devices that generate electrical signals mimicking biological brain activity, and successfully demonstrated their functionality using mouse brain tissue. The artificial neurons successfully activated real brain cells, marking a major advancement toward integrating machines with the human brain. This research has significant implications for treating neural damage, developing neural interface technologies, and enabling brain-computer interaction applications. However, the study was conducted only in controlled mouse brain tissue environments, and further validation is required regarding applicability to the human brain and long-term stability of these devices.\n\n##",
+      "aiSummaryKo": "노스웨스턴 대학교의 공학자들이 인공 뉴런을 개발하여 살아있는 뇌세포와 실제로 소통할 수 있음을 입증했습니다. 연구팀은 유연하고 저렴한 인공 뉴런 장치를 제작하여 실험하였으며, 이 장치가 생물학적 신호와 유사한 전기신호를 생성할 수 있음을 마우스 뇌 조직 실험을 통해 확인했습니다. 인공 뉴런은 실제 뇌세포를 활성화시키는 데 성공했으며, 이는 기계와 인간 뇌를 통합하는 방향의 중대한 진전을 나타냅니다. 이 연구의 의의는 신경 손상 치료, 신경 인터페이스 기술, 뇌-컴퓨터 상호작용 등 다양한 의료 및 기술 분야에 응용될 수 있다는 점입니다. 그러나 현재 연구는 마우스 뇌 조직의 제한된 환경에서만 수행되었으며, 인간 뇌에 대한 적용 가능성과 장기적 안정성에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Engineers at Northwestern University have achieved a significant breakthrough by developing artificial neurons capable of genuine communication with living brain cells. The research team created flexible, cost-effective artificial neuron devices that generate electrical signals mimicking biological brain activity, and successfully demonstrated their functionality using mouse brain tissue. The artificial neurons successfully activated real brain cells, marking a major advancement toward integrating machines with the human brain. This research has significant implications for treating neural damage, developing neural interface technologies, and enabling brain-computer interaction applications. However, the study was conducted only in controlled mouse brain tissue environments, and further validation is required regarding applicability to the human brain and long-term stability of these devices.\n\n##",
+      "keyPoints": [
+        "**혁신적 인공 뉴런 개발** / Breakthrough Development of Artificial Neurons",
+        "**유연하고 저렴한 기술** / Flexible and Cost-Effective Technology",
+        "**생물학적 신호 모방** / Mimicking Biological Signals",
+        "**미래 의료 응용 가능성** / Future Medical Applications"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "featured": false
+    },
     {
       "id": "620e53871d06",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**임상 적용의 한계** / While promising in rodent models, human clinical trials are essential before this approach can be adopted as a treatment for alcohol withdrawal in patients"
       ],
       "url": "https://www.psypost.org/common-anti-parasitic-drug-reduces-withdrawal-driven-drinking-in-dependent-roden/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "58bfaa6cff9f",
@@ -373,48 +415,6 @@
         "**글로벌 결혼 시장의 변화** / Global Marriage Market Transformation: 여성의 사회경제적 지위 향상이 배우자 선택 기준과 결혼 동향에 광범위한 영향을 미침 / Improved socioeconomic status of women is having widespread impact on spousal selection criteria and marriage trends"
       ],
       "url": "https://www.psypost.org/how-a-boom-in-college-degrees-rewrote-the-rules-of-modern-romance/",
-      "featured": false
-    },
-    {
-      "id": "d74f945e4070",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "New research finds a persistent and growing leftward tilt in the social sciences",
-      "titleKo": "새로운 연구, 사회과학에서 지속되고 심화되는 좌향 편향 발견",
-      "summary": "Artificial intelligence recently analyzed over half a million social science abstracts published since 1960. The results show a steady decline in political diversity, with academic research becoming increasingly left-leaning over the past six decades.",
-      "aiSummary": "A recent study utilizing artificial intelligence analyzed over 500,000 social science abstracts published since 1960. The research methodology employed AI algorithms to automatically classify the political orientation of academic papers and track temporal trends across six decades. Key findings revealed a steady and persistent decline in political diversity within academic research, with the social sciences increasingly exhibiting left-leaning orientations over the study period. The significance of this research lies in providing objective, data-driven evidence of ideological bias in academia and highlighting the need for greater political and intellectual diversity in scholarly work. However, limitations include questions about the accuracy of AI algorithms in determining political orientation and whether abstract analysis alone can reliably represent the full scope of research content and intentions.\n\n##",
-      "aiSummaryKo": "인공지능을 활용한 최근 연구는 1960년 이후 발표된 50만 개 이상의 사회과학 논문 초록을 분석했습니다. 연구 방법은 AI 알고리즘을 통해 논문들의 정치적 성향을 자동으로 분류하고 시간에 따른 추이를 추적하는 방식으로 진행되었습니다. 핵심 결과는 지난 60년간 학술 연구의 정치적 다양성이 지속적으로 감소했으며, 사회과학 분야가 점점 더 좌향적 성향을 보이고 있다는 것입니다. 이 연구의 의의는 학계의 정치적 편향 현상을 객관적 데이터로 입증했다는 점에 있으며, 학문적 다양성과 중립성 확보의 필요성을 시사합니다. 다만 AI의 정치적 성향 판단이 얼마나 정확한지, 초록만으로 전체 연구 내용을 올바르게 평가할 수 있는지에 대한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "A recent study utilizing artificial intelligence analyzed over 500,000 social science abstracts published since 1960. The research methodology employed AI algorithms to automatically classify the political orientation of academic papers and track temporal trends across six decades. Key findings revealed a steady and persistent decline in political diversity within academic research, with the social sciences increasingly exhibiting left-leaning orientations over the study period. The significance of this research lies in providing objective, data-driven evidence of ideological bias in academia and highlighting the need for greater political and intellectual diversity in scholarly work. However, limitations include questions about the accuracy of AI algorithms in determining political orientation and whether abstract analysis alone can reliably represent the full scope of research content and intentions.\n\n##",
-      "keyPoints": [
-        "**광범위한 데이터 분석** / Comprehensive Data Analysis",
-        "**지속적인 좌향화 추세** / Persistent Leftward Tilt",
-        "**AI 기반 객관적 평가** / AI-Driven Objective Assessment",
-        "**학문적 다양성의 중요성 강조** / Emphasis on Academic Diversity"
-      ],
-      "url": "https://www.psypost.org/new-research-finds-a-persistent-and-growing-leftward-tilt-in-the-social-sciences/",
-      "featured": false
-    },
-    {
-      "id": "37cd1bd555c7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "How a year of regular exercise alters the biology of stress",
-      "titleKo": "1년간의 규칙적인 운동이 스트레스의 생물학을 어떻게 변화시키는가",
-      "summary": "By tracking healthy adults over 12 months, researchers found that regular cardiovascular workouts lead to a drop in systemic cortisol. This reduction suggests physical activity provides a biological buffer against chronic stress.",
-      "aiSummary": "This study examined how regular exercise alters the body's stress response mechanisms in healthy adults over a 12-month period. Researchers tracked participants and measured the effects of consistent cardiovascular exercise on physiological stress markers. The key finding revealed that regular aerobic workouts significantly reduced systemic cortisol levels, the primary stress hormone. This reduction suggests that physical activity acts as a biological buffer against chronic stress, protecting the body's stress regulation systems. The research demonstrates that exercise benefits extend beyond physical fitness to improve internal stress management mechanisms. However, the study's limitations include its focus on healthy adults only, raising questions about whether these findings apply equally to different age groups or individuals with various health conditions.\n\n##",
-      "aiSummaryKo": "이 연구는 규칙적인 운동이 신체의 스트레스 반응을 어떻게 변화시키는지 알아보기 위해 진행되었습니다. 연구팀은 건강한 성인들을 12개월간 추적 관찰하여 규칙적인 심혈관 운동의 효과를 측정했습니다. 핵심 결과는 정기적인 유산소 운동이 스트레스 호르몬인 코르티솔(cortisol)의 전신 수치를 감소시킨다는 것입니다. 이는 신체 활동이 만성 스트레스로부터 생물학적 보호막 역할을 한다는 것을 시사합니다. 이 연구는 운동이 단순한 신체 건강뿐 아니라 신체 내부의 스트레스 조절 시스템까지 개선할 수 있음을 보여줍니다. 다만 연구 대상이 건강한 성인으로 제한되어 있어 다양한 연령대나 건강 상태의 사람들에게 동일하게 적용되는지는 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study examined how regular exercise alters the body's stress response mechanisms in healthy adults over a 12-month period. Researchers tracked participants and measured the effects of consistent cardiovascular exercise on physiological stress markers. The key finding revealed that regular aerobic workouts significantly reduced systemic cortisol levels, the primary stress hormone. This reduction suggests that physical activity acts as a biological buffer against chronic stress, protecting the body's stress regulation systems. The research demonstrates that exercise benefits extend beyond physical fitness to improve internal stress management mechanisms. However, the study's limitations include its focus on healthy adults only, raising questions about whether these findings apply equally to different age groups or individuals with various health conditions.\n\n##",
-      "keyPoints": [
-        "**장기 운동의 생물학적 변화** / **Biological Changes from Long-term Exercise**",
-        "**스트레스 호르몬 조절 메커니즘** / **Stress Hormone Regulation Mechanism**",
-        "**예방적 건강 개입의 중요성** / **Importance of Preventive Health Intervention**",
-        "related diseases"
-      ],
-      "url": "https://www.psypost.org/how-a-year-of-regular-exercise-alters-the-biology-of-stress/",
       "featured": false
     }
   ]
