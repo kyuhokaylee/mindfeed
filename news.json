@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-18T23:54:51.262347+00:00",
+  "updated": "2026-04-19T06:19:02.669093+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "47e4fd455638",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "Early exposure to forever chemicals linked to altered brain genes and impulsive behavior in rats",
+      "titleKo": "",
+      "summary": "A new study on rats reveals that early-life exposure to the forever chemical PFOS alters gene expression in key brain regions. These genetic shifts are linked to impaired cognitive performance and highly impulsive decision-making in adulthood.",
+      "aiSummary": "A recent study on rats reveals that early-life exposure to \"forever chemicals,\" specifically PFOS (perfluorooctane sulfonate), alters gene expression in key brain regions. Researchers examined the brains of rats exposed to PFOS during early development and found significantly different gene expression patterns compared to unexposed controls. These genetic changes were associated with impaired cognitive performance and highly impulsive decision-making when the rats reached adulthood. This research provides important evidence that environmental pollutants can affect brain development and subsequently cause behavioral problems. However, the study is limited to an animal model, and it remains unclear whether humans experience identical effects. Additionally, further research is needed to clarify the specific mechanisms of genetic changes and their potential reversibility.\n\n##",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study on rats reveals that early-life exposure to \"forever chemicals,\" specifically PFOS (perfluorooctane sulfonate), alters gene expression in key brain regions. Researchers examined the brains of rats exposed to PFOS during early development and found significantly different gene expression patterns compared to unexposed controls. These genetic changes were associated with impaired cognitive performance and highly impulsive decision-making when the rats reached adulthood. This research provides important evidence that environmental pollutants can affect brain development and subsequently cause behavioral problems. However, the study is limited to an animal model, and it remains unclear whether humans experience identical effects. Additionally, further research is needed to clarify the specific mechanisms of genetic changes and their potential reversibility.\n\n##",
+      "keyPoints": [
+        "**유아기 노출의 영향**: PFOS 초기 노출이 뇌의 유전자 발현을 변경하여 장기적 신경계 손상 유발 / Early PFOS exposure alters brain gene expression, causing long-term neurological damage",
+        "**인지 및 행동 변화**: 성인 쥐에서 인지능력 저하와 충동적 의사결정 증가 확인 / Impaired cognitive performance and increased impulsive decision-making observed in adult rats",
+        "**환경 독성물질 위험성**: \"영구화학물질\"은 환경에서 분해되지 않아 생체 축적 가능성 높음 / \"Forever chemicals\" do not decompose in the environment, posing significant bioaccumulation risks",
+        "**인간 적용의 제한성**: 동물 실험 결과이므로 인간에 대한 직접적 영향 규명 및 추가 연구 필요 / Results from animal models require further human studies to establish direct health implications"
+      ],
+      "url": "https://www.psypost.org/early-exposure-to-forever-chemicals-linked-to-altered-brain-genes-and-impulsive-behavior-in-rats/",
+      "featured": true
+    },
+    {
+      "id": "bf15e3d72db0",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "6시간 전 / 6h ago",
+      "title": "Soft brain implants outperform rigid silicon in long-term safety study",
+      "titleKo": "부드러운 뇌 임플란트, 장기 안전성 연구에서 딱딱한 실리콘 능가",
+      "summary": "To build brain implants that last for years without causing damage, scientists say material matters more than size. Soft, flexible devices better match the brain's natural movements, preserving healthy cells and maintaining clearer electrical signals.",
+      "aiSummary": "Brain implants are essential for treating neurological conditions like Parkinson's disease and epilepsy, but rigid silicon devices have caused damage to brain tissue over time. This study compared the long-term safety of flexible soft implants against traditional rigid silicon implants to determine which material better preserves brain health. The results demonstrated that soft, flexible devices adapt better to the brain's natural movements, causing minimal damage to healthy neurons while maintaining clearer electrical signal recording and transmission. This finding establishes material composition as a more critical factor than device size for long-term implant success. The research indicates a promising new direction for developing safe brain implants that can function reliably for years. Study limitations include the need for additional animal trials and human clinical testing before practical clinical applications.",
+      "aiSummaryKo": "뇌 임플란트 기술은 파킨슨병, 뇌전증 등 신경계 질환 치료에 필수적이지만, 경직된 실리콘 장치가 뇌 조직에 손상을 일으키는 문제가 있었습니다. 이 연구는 장기간 안전성을 검증하기 위해 유연한 소재의 임플란트와 경직된 실리콘 임플란트의 성능을 비교했습니다. 결과적으로 부드럽고 유연한 임플란트가 경직된 제품보다 뇌의 자연스러운 움직임에 더 잘 적응하며, 건강한 신경세포 손상을 최소화하고 전기 신호 전달을 더 명확하게 유지했습니다. 이 발견은 수년간 지속되는 안전한 뇌 임플란트 개발의 새로운 방향을 제시합니다. 연구의 제한점은 실제 임상 적용을 위한 추가 동물 실험과 인간 대상 임상시험이 필요하다는 점입니다.",
+      "aiSummaryEn": "Brain implants are essential for treating neurological conditions like Parkinson's disease and epilepsy, but rigid silicon devices have caused damage to brain tissue over time. This study compared the long-term safety of flexible soft implants against traditional rigid silicon implants to determine which material better preserves brain health. The results demonstrated that soft, flexible devices adapt better to the brain's natural movements, causing minimal damage to healthy neurons while maintaining clearer electrical signal recording and transmission. This finding establishes material composition as a more critical factor than device size for long-term implant success. The research indicates a promising new direction for developing safe brain implants that can function reliably for years. Study limitations include the need for additional animal trials and human clinical testing before practical clinical applications.",
+      "keyPoints": [
+        "**유연한 소재의 우월성** / Superiority of Flexible Materials",
+        "**신경세포 보호** / Neuronal Protection",
+        "**신호 품질 향상** / Improved Signal Quality",
+        "**소재의 중요성** / Material Matters Most"
+      ],
+      "url": "https://www.psypost.org/soft-brain-implants-outperform-rigid-silicon-in-long-term-safety-study/",
+      "featured": false
+    },
+    {
+      "id": "cc1c661e4050",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "Scientists say this type of olive oil could boost brain power",
+      "titleKo": "과학자들, 이 종류의 올리브유가 뇌 기능을 향상시킬 수 있다고 주장",
+      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
+      "aiSummary": "Extra virgin olive oil may protect brain health by working through the gut microbiome, according to recent research findings. A two-year longitudinal study demonstrated that individuals consuming extra virgin olive oil showed significantly better cognitive performance and greater diversity of gut bacteria compared to those using refined olive oil. Researchers successfully identified specific microbial species associated with these cognitive benefits. These findings suggest that selecting high-quality olive oil could be a simple and practical strategy for supporting brain health during aging. However, the study's limitations include the need for larger sample sizes, longer follow-up periods, and greater participant diversity to validate the findings. Additionally, olive oil alone cannot guarantee complete brain health protection, necessitating a comprehensive approach to cognitive wellness.\n\n##",
+      "aiSummaryKo": "엑스트라 버진 올리브유가 장내 미생물을 통해 뇌 건강을 보호할 수 있다는 연구 결과가 발표되었다. 연구진은 2년간의 장기 추적 연구를 통해 엑스트라 버진 올리브유를 섭취한 사람들이 정제 올리브유를 사용한 사람들에 비해 더 우수한 인지 기능과 더 다양한 장내 박테리아를 보유하고 있음을 발견했다. 특히 연구팀은 이러한 긍정적 효과와 연관된 특정 미생물들을 특정할 수 있었다. 이 발견은 고품질 올리브유 선택이 노화에 따른 뇌 건강 유지를 위한 간단하고 효과적인 방법이 될 수 있음을 시사한다. 다만 연구 규모나 추적 기간, 참가자의 다양성 등에 대한 추가 검증이 필요하며, 올리브유만으로는 뇌 건강을 완전히 보장할 수 없다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Extra virgin olive oil may protect brain health by working through the gut microbiome, according to recent research findings. A two-year longitudinal study demonstrated that individuals consuming extra virgin olive oil showed significantly better cognitive performance and greater diversity of gut bacteria compared to those using refined olive oil. Researchers successfully identified specific microbial species associated with these cognitive benefits. These findings suggest that selecting high-quality olive oil could be a simple and practical strategy for supporting brain health during aging. However, the study's limitations include the need for larger sample sizes, longer follow-up periods, and greater participant diversity to validate the findings. Additionally, olive oil alone cannot guarantee complete brain health protection, necessitating a comprehensive approach to cognitive wellness.\n\n##",
+      "keyPoints": [
+        "**장-뇌 축 연결** / Gut-Brain Axis Connection",
+        "**2년 장기 연구의 증거** / Evidence from 2-Year Study",
+        "**특정 미생물 규명** / Identification of Specific Microbes",
+        "**예방적 식이 중재의 가능성** / Potential for Preventive Dietary Intervention"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
+      "featured": false
+    },
     {
       "id": "2381594e39b4",
       "tag": "psych",
@@ -21,7 +84,7 @@
         "**기술 윤리와 포용성의 중요성** / Importance of AI Ethics and Inclusivity"
       ],
       "url": "https://www.psypost.org/disclosing-autism-to-ai-chatbots-prompts-overly-cautious-stereotypical-advice/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a8cfc822c106",
@@ -352,69 +415,6 @@
         "**전문가 지식의 대중화 / Public Science Communication**: 팟캐스트 형식의 심층 인터뷰를 통해 우주 탐사의 복잡한 개념을 일반인이 접근 가능한 방식으로 전달 / Uses accessible podcast format to demystify complex aerospace engineering concepts"
       ],
       "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
-      "featured": false
-    },
-    {
-      "id": "e6acb17d3a3f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "The surprising reason you’re so productive one day and not the next",
-      "titleKo": "어떤 날은 생산성이 높고 어떤 날은 낮은 놀라운 이유",
-      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
-      "aiSummary": "This research investigates how daily fluctuations in cognitive ability impact productivity. Researchers tracked participants' daily mental states alongside their goal-setting behaviors and actual achievements to analyze the relationship between cognitive sharpness and productivity. The key finding reveals that on days when individuals experience enhanced mental clarity, they set more ambitious goals and are more likely to achieve them, resulting in up to 40 additional minutes of productivity gain. This effect represents a genuine consequence of improved cognitive performance rather than mere psychological perception. However, the study warns that excessive effort to maintain high concentration over prolonged periods can reverse this positive effect. These findings emphasize the importance of recognizing daily cognitive variations and adjusting goal-setting accordingly for optimal performance.\n\n##",
-      "aiSummaryKo": "본 연구는 일일 인지 능력의 변화가 생산성에 미치는 영향을 조사했습니다. 연구팀은 참가자들의 일일 정신 상태와 목표 설정, 실제 성과를 추적하여 인지 예리함과 생산성 간의 관계를 분석했습니다. 흥미로운 결과로, 어느 날 정신이 \"맑은\" 상태에 있으면 더 큰 목표를 설정하게 되고 이를 달성할 가능성이 높아지는 것으로 나타났으며, 이러한 효과는 하루에 최대 40분의 추가 생산성 향상으로 이어졌습니다. 이는 단순히 심리적 착각이 아니라 실제 인지적 능력 변화의 결과임을 시사합니다. 그러나 연구는 장시간 높은 집중력을 유지하려고 노력하면 오히려 역효과가 발생할 수 있음을 경고합니다. 이 발견은 개인의 일일 에너지 상태를 인식하고 목표 설정을 조절하는 것의 중요성을 강조합니다.\n\n##",
-      "aiSummaryEn": "This research investigates how daily fluctuations in cognitive ability impact productivity. Researchers tracked participants' daily mental states alongside their goal-setting behaviors and actual achievements to analyze the relationship between cognitive sharpness and productivity. The key finding reveals that on days when individuals experience enhanced mental clarity, they set more ambitious goals and are more likely to achieve them, resulting in up to 40 additional minutes of productivity gain. This effect represents a genuine consequence of improved cognitive performance rather than mere psychological perception. However, the study warns that excessive effort to maintain high concentration over prolonged periods can reverse this positive effect. These findings emphasize the importance of recognizing daily cognitive variations and adjusting goal-setting accordingly for optimal performance.\n\n##",
-      "keyPoints": [
-        "**인지 예리함과 생산성의 연관성** / Daily cognitive sharpness directly correlates with increased productivity and goal achievement",
-        "**목표 설정의 중요한 매개 역할** / Enhanced mental clarity leads to setting bigger goals, which subsequently increases the likelihood of following through",
-        "**정량적 효과: 40분의 생산성 향상** / The cognitive advantage translates to approximately 40 additional minutes of productive output per day",
-        "**과도한 노력의 역효과 경고** / Sustained, excessive effort to maintain high performance can paradoxically diminish the positive effects and lead to counterproductive outcomes"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "featured": false
-    },
-    {
-      "id": "1feb820f194c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
-      "titleKo": "평생 이를 실천하면 알츠하이머병 위험을 38% 줄일 수 있다",
-      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
-      "aiSummary": "This study investigated the impact of lifelong mental stimulation on brain health in aging. Researchers analyzed the cumulative effects of cognitive enrichment activities such as reading, writing, and learning new skills. The group with the highest levels of cognitive enrichment showed approximately 38% reduced risk of Alzheimer's disease compared to those with the lowest levels. Notably, individuals who engaged in high levels of cognitive stimulation delayed symptom onset by several years. This suggests that lifelong mental activity may enhance the brain's cognitive reserve, thereby delaying disease progression. However, as an observational study, it cannot establish complete causality, and the study was limited in fully controlling for various socioeconomic factors.\n\n##",
-      "aiSummaryKo": "본 연구는 평생에 걸친 정신적 자극이 노년기 뇌 건강에 미치는 영향을 조사했습니다. 연구진은 독서, 쓰기, 새로운 기술 학습 등의 인지적 자극 활동의 누적 효과를 분석했습니다. 인지적 자극 수준이 가장 높은 집단이 가장 낮은 집단 대비 알츠하이머병 위험을 약 38% 감소시킨 것으로 나타났습니다. 더욱 주목할 만한 점은 높은 수준의 인지적 자극을 받은 사람들이 증상 발현 시기를 수년 뒤로 미룬다는 것입니다. 이는 평생 정신 활동이 뇌의 인지 예비력을 강화하여 질병 진행을 지연시킬 수 있음을 시사합니다. 다만 이 연구는 관찰 연구이므로 인과관계를 완전히 증명하지는 못하며, 다양한 사회경제적 요인의 영향을 완전히 배제하지 못했다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigated the impact of lifelong mental stimulation on brain health in aging. Researchers analyzed the cumulative effects of cognitive enrichment activities such as reading, writing, and learning new skills. The group with the highest levels of cognitive enrichment showed approximately 38% reduced risk of Alzheimer's disease compared to those with the lowest levels. Notably, individuals who engaged in high levels of cognitive stimulation delayed symptom onset by several years. This suggests that lifelong mental activity may enhance the brain's cognitive reserve, thereby delaying disease progression. However, as an observational study, it cannot establish complete causality, and the study was limited in fully controlling for various socioeconomic factors.\n\n##",
-      "keyPoints": [
-        "**알츠하이머 위험 감소**: 높은 인지적 자극은 알츠하이머병 발병 위험을 38% 감소시킴 / 38% reduction in Alzheimer's disease risk with high cognitive stimulation",
-        "**증상 지연 효과**: 평생 정신 활동으로 질병 증상 발현 시기를 수년 지연 가능 / Lifetime mental activities can delay symptom onset by several years",
-        "**뇌 예비력 강화**: 독서, 쓰기, 새로운 기술 학습 등이 뇌의 인지 예비력 구축에 기여 / Reading, writing, and learning new skills build cognitive reserve",
-        "**생애 전주기 중요성**: 나이를 막론하고 평생에 걸친 지속적 정신 자극이 필요 / Continuous mental stimulation throughout life is crucial at any age"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
-      "featured": false
-    },
-    {
-      "id": "ce2be44378d8",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Lonely people have worse memory but don’t decline faster, study finds",
-      "titleKo": "외로운 사람들은 기억력이 더 나쁘지만 더 빠르게 악화되지는 않는다는 연구 결과",
-      "summary": "Loneliness may quietly affect how well older adults remember things—but it might not be speeding up mental decline after all. A large European study tracking over 10,000 people for seven years found that those who felt lonelier started off with weaker memory, yet their memory didn’t deteriorate any faster than those who felt more socially connected. The findings challenge the idea that loneliness directly accelerates cognitive decline or dementia, suggesting instead that it impacts baseline brain performance.",
-      "aiSummary": "This study investigated the impact of loneliness on memory in older adults. A large European research team conducted a longitudinal study tracking over 10,000 participants for seven years. The findings revealed that older adults who felt lonely had weaker baseline memory performance, but their rate of memory decline was comparable to those with stronger social connections. This suggests that loneliness affects initial brain performance levels rather than directly accelerating cognitive decline or dementia. The research challenges the prevailing assumption that loneliness speeds up age-related cognitive deterioration. However, as an observational study, it has limitations in establishing causality, and validation across different cultural contexts is needed for generalizability.\n\n##",
-      "aiSummaryKo": "이 연구는 외로움이 노인의 기억력에 미치는 영향을 조사했습니다. 유럽의 대규모 연구팀은 7년간 10,000명 이상의 참가자를 추적 관찰하는 종단 연구를 실시했습니다. 연구 결과, 외로움을 느끼는 노인들은 초기 기억력이 더 약했지만, 사회적 연결감을 느끼는 사람들과 비교했을 때 기억력 저하 속도는 동일했습니다. 이는 외로움이 인지 저하나 치매를 직접적으로 가속화하지 않으며, 대신 뇌의 기초 성능 수준(baseline)에 영향을 미친다는 것을 시사합니다. 이 연구는 기존의 외로움이 인지 저하를 촉진한다는 통념을 도전하는 의미 있는 발견입니다. 다만 관찰 연구이므로 인과관계를 명확히 입증하기에는 한계가 있으며, 다양한 문화권에서의 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated the impact of loneliness on memory in older adults. A large European research team conducted a longitudinal study tracking over 10,000 participants for seven years. The findings revealed that older adults who felt lonely had weaker baseline memory performance, but their rate of memory decline was comparable to those with stronger social connections. This suggests that loneliness affects initial brain performance levels rather than directly accelerating cognitive decline or dementia. The research challenges the prevailing assumption that loneliness speeds up age-related cognitive deterioration. However, as an observational study, it has limitations in establishing causality, and validation across different cultural contexts is needed for generalizability.\n\n##",
-      "keyPoints": [
-        "**외로움과 기초 기억력**: 외로움을 느끼는 노인들은 더 낮은 초기 기억력을 보였으나, 이는 고정된 특성으로 악화되지 않음 / Lonesome older adults showed weaker baseline memory, but this does not represent accelerating decline over time.",
-        "**기억력 저하 속도의 동등성**: 외로운 그룹과 사회적 연결감이 높은 그룹 간 기억력 감소 속도에는 유의미한 차이가 없음 / No significant difference in the rate of memory decline between lonely and socially connected groups.",
-        "**인과관계 재해석**: 외로움이 인지 저하를 직접 가속화한다는 기존 이론을 수정하며, 뇌의 기초 성능에만 영향을 미친다고 제시 / Loneliness appears to affect baseline cognitive performance rather than directly triggering accelerated mental decline.",
-        "**연구 설계의 강점과 한계**: 7년의 장기 추적 연구로 신뢰성 높으나, 관찰 연구로서 인과관계 증명 부족하며 표본의 문화적 다양성 필요 / Longitudinal design provides robustness, but observational nature limits causal inference and cross-cultural validation is needed."
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075633.htm",
       "featured": false
     }
   ]
