@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-19T17:06:18.452580+00:00",
+  "updated": "2026-04-19T19:57:06.976931+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "620e53871d06",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Can a common parasite medication calm the brain’s stress circuitry during alcohol withdrawal?",
+      "titleKo": "흔한 기생충 치료제가 알코올 금단 중 뇌의 스트레스 회로를 진정시킬 수 있을까?",
+      "summary": "Scientists have discovered that varying genetics alter how the brain responds to alcohol withdrawal. Testing a common anti-parasitic drug, researchers successfully reduced compulsive drinking in dependent rodents by boosting calming chemical signals in the brain's stress center.",
+      "aiSummary": "Alcohol withdrawal triggers severe hyperactivity in the brain's stress circuitry, presenting a major therapeutic challenge in addiction medicine. This study investigated how genetic variations influence brain responses during alcohol withdrawal and potential therapeutic interventions. Researchers administered a common anti-parasitic drug to alcohol-dependent rodents and measured its effects on brain chemistry and drinking behavior. The medication successfully enhanced calming neurotransmitter signals in the amygdala (the brain's stress center), resulting in significantly reduced compulsive drinking behaviors in the treated animals. These findings suggest that drug repurposing—adapting existing, safety-tested medications for new purposes—could offer novel treatment options for alcohol use disorder. The research provides valuable insights into the genetic and neurochemical mechanisms underlying alcohol withdrawal. However, translating these rodent-based results to human clinical applications requires additional clinical trials and further validation.\n\n##",
+      "aiSummaryKo": "알코올 중독으로 인한 금단 증상은 뇌의 스트레스 회로를 과도하게 활성화시키는 심각한 문제입니다. 본 연구는 유전적 차이가 알코올 금단 시 뇌 반응에 어떻게 영향을 미치는지 규명하기 위해 진행되었습니다. 연구팀은 일반적인 기생충 치료제를 사용하여 알코올 의존 쥐를 대상으로 실험을 수행했으며, 이 약물이 뇌의 스트레스 중추인 편도체에서 진정 신경전달물질 신호를 증강시킬 수 있음을 발견했습니다. 결과적으로 이 약물 투여 후 쥐들의 강박적 음주 행동이 유의미하게 감소했습니다. 이 발견은 알코올 중독 치료에 새로운 약물 옵션을 제시할 수 있으며, 기존에 안전성이 입증된 약물을 재용도 개발하는 '약물 리포지셔닝' 전략의 가능성을 보여줍니다. 다만 설치류 대상 연구 결과를 인간에게 적용하기 위해서는 추가적인 임상 시험이 필수적입니다.\n\n##",
+      "aiSummaryEn": "Alcohol withdrawal triggers severe hyperactivity in the brain's stress circuitry, presenting a major therapeutic challenge in addiction medicine. This study investigated how genetic variations influence brain responses during alcohol withdrawal and potential therapeutic interventions. Researchers administered a common anti-parasitic drug to alcohol-dependent rodents and measured its effects on brain chemistry and drinking behavior. The medication successfully enhanced calming neurotransmitter signals in the amygdala (the brain's stress center), resulting in significantly reduced compulsive drinking behaviors in the treated animals. These findings suggest that drug repurposing—adapting existing, safety-tested medications for new purposes—could offer novel treatment options for alcohol use disorder. The research provides valuable insights into the genetic and neurochemical mechanisms underlying alcohol withdrawal. However, translating these rodent-based results to human clinical applications requires additional clinical trials and further validation.\n\n##",
+      "keyPoints": [
+        "**유전적 다양성의 역할** / Genetic variation plays a critical role in determining brain responses to alcohol withdrawal, suggesting personalized treatment approaches may be necessary",
+        "**약물 리포지셔닝의 효과성** / Common anti-parasitic medication successfully reduced compulsive drinking by enhancing calming signals in the stress center of the brain",
+        "**신경화학적 메커니즘** / The drug works by boosting inhibitory neurotransmitter signals in the amygdala, counteracting the hyperactive stress response during withdrawal",
+        "**임상 적용의 한계** / While promising in rodent models, human clinical trials are essential before this approach can be adopted as a treatment for alcohol withdrawal in patients"
+      ],
+      "url": "https://www.psypost.org/common-anti-parasitic-drug-reduces-withdrawal-driven-drinking-in-dependent-roden/",
+      "featured": true
+    },
+    {
+      "id": "58bfaa6cff9f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "방금 전 / Just now",
+      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
+      "titleKo": "갈등 상황에서 행동과학이 마주해야 할 어려운 진실들",
+      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummary": "Approximately 2 billion people live in conflict-affected areas, with 123 million forcibly displaced in 2024—the highest number on record. However, behavioral science has primarily developed its theories, conducted experiments, and designed interventions in stable contexts, failing to address the unique challenges of conflict settings. Researchers typically employ a pattern of \"localize-and-evaluate,\" applying successful interventions from other contexts to conflict zones with minimal adaptation. The authors argue this approach is fundamentally insufficient, as conflict creates highly unstable and unpredictable environments where standard psychological interventions may not be effective. This study emphasizes the urgent need for behavioral science to develop new theories and methodologies specifically tailored to conflict-affected populations. The research highlights that achieving improved psychosocial well-being and resilience in conflict regions requires a paradigm shift in how behavioral scientists conduct research and design interventions. Current approaches fail to account for the complexity and volatility of conflict dynamics that fundamentally alter human behavior and decision-making.",
+      "aiSummaryKo": "전 세계 약 20억 명이 분쟁 지역에 거주하고 있으며, 2024년에는 사상 최대인 1억 2,300만 명이 강제 이주를 경험했습니다. 그러나 행동심리학 분야는 대부분의 이론과 실험, 중재 프로그램을 안정적인 환경에서 개발했다는 문제점이 지적됩니다. 연구자들은 다른 지역에서 효과적이었던 중재 방법을 분쟁 지역에 그대로 적용하고 평가하는 방식을 따르고 있으나, 이러한 접근은 충분하지 않다고 주장합니다. 분쟁 상황은 고도로 불안정하고 예측 불가능한 환경으로, 안정적 환경에서 개발된 심리학적 개입이 동일한 효과를 발휘하기 어렵다는 것입니다. 이 연구는 행동심리학이 분쟁 지역의 특수성을 반영한 새로운 이론 개발과 현지 맞춤형 연구 방법론의 개발이 시급함을 강조합니다. 분쟁 지역 주민들의 심리사회적 안녕과 회복력 증진을 위해서는 근본적인 패러다임 전환이 필요하다고 결론짓습니다.",
+      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas, with 123 million forcibly displaced in 2024—the highest number on record. However, behavioral science has primarily developed its theories, conducted experiments, and designed interventions in stable contexts, failing to address the unique challenges of conflict settings. Researchers typically employ a pattern of \"localize-and-evaluate,\" applying successful interventions from other contexts to conflict zones with minimal adaptation. The authors argue this approach is fundamentally insufficient, as conflict creates highly unstable and unpredictable environments where standard psychological interventions may not be effective. This study emphasizes the urgent need for behavioral science to develop new theories and methodologies specifically tailored to conflict-affected populations. The research highlights that achieving improved psychosocial well-being and resilience in conflict regions requires a paradigm shift in how behavioral scientists conduct research and design interventions. Current approaches fail to account for the complexity and volatility of conflict dynamics that fundamentally alter human behavior and decision-making.",
+      "keyPoints": [
+        "**분쟁 지역의 규모**: 약 20억 명이 분쟁 영향 지역에 거주하며, 2024년 강제 이주자가 사상 최고 수준(1억 2,300만 명)에 도달 / Scale of Conflict: Approximately 2 billion people live in conflict-affected areas, with forced displacement reaching record high of 123 million in 2024",
+        "**이론-실제 간의 괴리**: 행동심리학의 대부분의 이론과 중재는 안정적 환경에서 개발되었으나, 분쟁 지역에 그대로 적용되는 문제 발생 / Theory-Practice Gap: Behavioral science theories and interventions developed in stable contexts are inadequate for unstable conflict environments",
+        "**현재 접근의 한계**: 기존 중재 방법을 단순히 \"지역화\"하는 방식의 평가만으로는 분쟁 지역의 복잡한 심리사회적 문제 해결 불가능 / Limitations of Current Approach: Simple localization and evaluation of existing interventions cannot address complex psychosocial challenges in conflict zones",
+        "**시급한 패러다임 전환**: 분쟁 지역의 고유한 특성을 반영한 새로운 이론 개발과 현지 맞춤형 연구 방법론 개발의 필요성 / Urgent Need for Paradigm Shift: Development of conflict-specific theories and locally-tailored research methodologies is essential for effective psychological interventions"
+      ],
+      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
+      "featured": false
+    },
+    {
+      "id": "2ca3144e26ec",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "1시간 전 / 1h ago",
+      "title": "The ‘Busy’ Trap",
+      "titleKo": "'바쁨'의 함정",
+      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "aiSummary": "This article examines an interesting cultural phenomenon in 21st-century America where \"being busy\" has become a default greeting that functions as a boast disguised as a complaint. The research background stems from sociological observations of increasing emphasis on busy schedules among Americans in their daily interactions. The article notes that when people respond \"busy\" to casual inquiries, society typically responds with congratulations and admiration (\"That's a good problem to have\"). A striking finding is that people who are genuinely the busiest—such as ICU nurses and workers holding multiple minimum-wage jobs—do not boast about their busyness in the same way. This suggests that the \"busy\" narrative is socioeconomically stratified and functions more as a cultural status symbol than as an accurate reflection of actual workload. The research's significance lies in revealing how modern self-presentation and social status signaling operate in contemporary culture. The limitation is that the article relies on sociological observation rather than quantitative data or structured experimental design.\n\n##",
+      "aiSummaryKo": "현대 미국 사회에서 '바쁘다'는 표현이 일상적인 인사말이 되었는데, 이는 실제로는 불평을 가장한 자랑이라는 흥미로운 문화 현상을 다룬 기사이다. 연구 배경은 21세기 미국인들이 자신의 바쁜 일정을 강조하는 경향이 증가했다는 사회적 관찰에 기초하고 있다. 기사는 사람들이 \"바쁨\"을 응답할 때 이에 대한 사회적 반응이 축하와 칭찬(\"좋은 문제를 가졌네요\")으로 나타난다는 점을 지적한다. 흥미로운 발견은 실제로 육체적으로 가장 바쁜 사람들(ICU 간호사, 최저임금 일자리를 하는 사람들)은 자신이 얼마나 바쁜지 자랑하지 않는다는 것이다. 이는 '바쁨'이라는 표현이 사회경제적 지위와 관련이 있으며, 실제 업무량보다는 문화적 자랑거리로 기능함을 시사한다. 연구의 의의는 현대인의 자기 표현 방식과 사회적 지위 신호에 대한 통찰을 제공한다는 점이며, 기사의 한계는 정량적 데이터나 구체적인 실험 설계 없이 사회 관찰에만 기반하고 있다는 것이다.\n\n##",
+      "aiSummaryEn": "This article examines an interesting cultural phenomenon in 21st-century America where \"being busy\" has become a default greeting that functions as a boast disguised as a complaint. The research background stems from sociological observations of increasing emphasis on busy schedules among Americans in their daily interactions. The article notes that when people respond \"busy\" to casual inquiries, society typically responds with congratulations and admiration (\"That's a good problem to have\"). A striking finding is that people who are genuinely the busiest—such as ICU nurses and workers holding multiple minimum-wage jobs—do not boast about their busyness in the same way. This suggests that the \"busy\" narrative is socioeconomically stratified and functions more as a cultural status symbol than as an accurate reflection of actual workload. The research's significance lies in revealing how modern self-presentation and social status signaling operate in contemporary culture. The limitation is that the article relies on sociological observation rather than quantitative data or structured experimental design.\n\n##",
+      "keyPoints": [
+        "**'바쁨'의 이중성** / The Paradoxical Nature of \"Busy\": '바쁨'은 불평처럼 표현되지만 실제로는 자신의 중요성과 가치를 강조하는 자랑이다 / \"Busy\" is expressed as a complaint but functions as subtle self-promotion of one's importance and value.",
+        "**사회경제적 지위 신호** / Socioeconomic Status Signal: 실제로 가장 바쁜 저임금 노동자들은 자신의 바쁨을 자랑하지 않으며, '바쁨'의 서사는 높은 사회경제적 지위의 상징이다 / Those genuinely busiest (low-wage workers) don't boast about busyness; the narrative itself signals higher socioeconomic status.",
+        "**문화적 규범의 변화** / Shift in Cultural Norms: 현대 미국 문화에서 바쁜 삶이 성공의 증거로 여겨지며, 이것이 일상적 인사 문화에 깊숙이 침투했다 / In contemporary American culture, busyness has become interpreted as evidence of success and deeply embedded in casual social interactions.",
+        "**자기표현의 진화** / Evolution of Self-Presentation: 개인의 정체성과 가치를 표현하는 방식이 실제 성과보다는 주관적인 바쁨의 정도로 변화했다 / How individuals present their identity and worth has shifted from actual accomplishments to narratives of subjective busyness."
+      ],
+      "url": "https://behavioralscientist.org/the-busy-trap/",
+      "featured": false
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "14일 전 / 14d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "우리는 결코 개인이었던 적이 없다",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article presents a philosophical and scientific perspective showing that humans are not isolated individuals but interconnected beings in constant interaction with nature. Through the everyday act of breathing, the article demonstrates how humans exchange matter with other living organisms such as plants and microorganisms. Specifically, the oxygen humans inhale comes from plants, the carbon dioxide humans exhale is essential for plant photosynthesis, and the human body hosts a complex ecosystem of microorganisms. These findings challenge anthropocentric worldviews and emphasize the necessity of environmentally conscious thinking. However, the article has limitations in that it focuses on philosophical discussion without clearly presenting specific experimental data or scientific validation methodologies.\n\n##",
+      "aiSummaryKo": "이 기사는 인간이 개별적인 존재가 아니라 자연과 끊임없이 상호작용하는 상호연결된 존재임을 보여주는 철학적·과학적 관점을 제시한다. 호흡이라는 일상적 행위를 통해 인간이 식물, 미생물 등 다른 생명체들과 물질을 교환하며 살아간다는 점을 설명한다. 구체적으로, 인간이 흡입하는 산소는 식물이 방출한 것이고, 인간이 배출하는 이산화탄소는 식물의 광합성에 필수적이며, 인간의 신체는 수많은 미생물의 생태계를 호스팅한다는 것이 핵심 내용이다. 이러한 발견들은 인간중심적 세계관을 재정의하고, 환경 친화적 사고의 필요성을 강조한다. 다만 기사는 철학적 논의에 집중하여 구체적인 실험 수치나 과학적 검증 방법론이 명확하게 제시되지 않은 한계가 있다.\n\n##",
+      "aiSummaryEn": "This article presents a philosophical and scientific perspective showing that humans are not isolated individuals but interconnected beings in constant interaction with nature. Through the everyday act of breathing, the article demonstrates how humans exchange matter with other living organisms such as plants and microorganisms. Specifically, the oxygen humans inhale comes from plants, the carbon dioxide humans exhale is essential for plant photosynthesis, and the human body hosts a complex ecosystem of microorganisms. These findings challenge anthropocentric worldviews and emphasize the necessity of environmentally conscious thinking. However, the article has limitations in that it focuses on philosophical discussion without clearly presenting specific experimental data or scientific validation methodologies.\n\n##",
+      "keyPoints": [
+        "**상호호흡의 순환 원리** / The Cycle of Reciprocal Respiration",
+        "**신체 내 미생물 생태계** / Microbial Ecosystem Within the Body",
+        "**상호연결된 존재론** / Interconnected Ontology",
+        "**환경철학적 함의** / Environmental Philosophy Implications"
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
     {
       "id": "d6be017b930d",
       "tag": "psych",
@@ -21,7 +105,7 @@
         "**정보 부족으로 인한 해석의 제한** / Lack of specific methodological details (sample size, statistical values) in the article limits comprehensive evaluation of research reliability and applicability"
       ],
       "url": "https://www.psypost.org/childhood-trauma-and-attachment-styles-show-nuanced-links-to-alternative-sexual/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a3d5cb0c4033",
@@ -331,90 +415,6 @@
         "related diseases"
       ],
       "url": "https://www.psypost.org/how-a-year-of-regular-exercise-alters-the-biology-of-stress/",
-      "featured": false
-    },
-    {
-      "id": "6a05744f5c11",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "5시간 전 / 5h ago",
-      "title": "Scientists tested the creativity of AI models, and the results were surprisingly homogeneous",
-      "titleKo": "과학자들이 AI 모델의 창의성을 테스트했고, 결과는 놀랍도록 획일적이었다",
-      "summary": "According to research published in PNAS Nexus, popular language models produce highly similar creative concepts. This suggests that heavily relying on artificial intelligence for brainstorming tends to lead to a massive loss of unique human thought.",
-      "aiSummary": "A study published in PNAS Nexus revealed that popular language models generate remarkably similar creative concepts when tested for creativity. Researchers conducted experiments asking multiple AI models to produce creative ideas, and the analysis showed these models repeatedly generated highly similar concepts and ideas. This indicates that AI models exhibit a \"creative homogenization\" phenomenon due to similarities in training data and algorithms. The key finding suggests that over-reliance on AI-based brainstorming could significantly impair human original thinking. This discovery indicates caution is needed when organizations use AI as a creative tool. However, the study had limitations as it focused on a limited number of models and specific tasks, necessitating further research across diverse AI models and creative domains.\n\n##",
-      "aiSummaryKo": "최근 PNAS Nexus에 발표된 연구에 따르면, 인기 있는 언어 모델들의 창의성 테스트 결과가 놀랍도록 동질적이었습니다. 연구팀은 여러 AI 모델에게 창의적인 아이디어 생성을 요청하는 실험을 수행했으며, 분석 결과 이들이 매우 유사한 개념과 아이디어를 반복적으로 생성하는 것으로 나타났습니다. 이는 AI 모델들이 훈련 데이터와 알고리즘의 유사성으로 인해 '창의적 획일화' 현상을 보인다는 것을 의미합니다. 연구의 핵심 결과는 AI 기반 브레인스토밍에 과도하게 의존할 경우 인간의 독창적 사고가 크게 손상될 수 있다는 것입니다. 이 발견은 기업과 조직이 AI를 창의적 도구로 사용할 때 주의가 필요함을 시사합니다. 다만 본 연구는 제한된 수의 모델과 특정 작업만을 대상으로 했으므로, 다양한 AI 모델과 창의적 영역에 대한 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "A study published in PNAS Nexus revealed that popular language models generate remarkably similar creative concepts when tested for creativity. Researchers conducted experiments asking multiple AI models to produce creative ideas, and the analysis showed these models repeatedly generated highly similar concepts and ideas. This indicates that AI models exhibit a \"creative homogenization\" phenomenon due to similarities in training data and algorithms. The key finding suggests that over-reliance on AI-based brainstorming could significantly impair human original thinking. This discovery indicates caution is needed when organizations use AI as a creative tool. However, the study had limitations as it focused on a limited number of models and specific tasks, necessitating further research across diverse AI models and creative domains.\n\n##",
-      "keyPoints": [
-        "**창의성 획일화 현상** / Creative Homogenization Phenomenon",
-        "**인간 독창성 위협** / Threat to Human Originality",
-        "**알고리즘 구조의 한계** / Algorithmic Structural Limitations",
-        "**조직적 의사결정 개선 필요** / Need for Improved Organizational Decision-Making"
-      ],
-      "url": "https://www.psypost.org/scientists-tested-the-creativity-of-ai-models-and-the-results-were-surprisingly-homogeneous/",
-      "featured": false
-    },
-    {
-      "id": "5861058901d0",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "9시간 전 / 9h ago",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "titleKo": "",
-      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
-      "aiSummary": "Engineers at Northwestern University have successfully developed artificial neurons that can communicate with living brain cells, representing a major breakthrough in brain-machine integration. The research team created flexible, low-cost artificial neuron devices using 3D printing technology and tested them on mouse brain tissue. These artificial neurons generate electrical signals that mimic biological neural activity and successfully activated real brain cells in the experimental setting. This research demonstrates significant progress toward merging mechanical systems with the human brain and has potential applications in treating neurological damage and developing brain-computer interfaces. However, the current study remains in early stages, using only mouse brain tissue samples, and substantial additional research is needed to validate safety and feasibility for human brain applications. The findings represent an important proof-of-concept for bio-electronic technology in the neuroengineering field.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Engineers at Northwestern University have successfully developed artificial neurons that can communicate with living brain cells, representing a major breakthrough in brain-machine integration. The research team created flexible, low-cost artificial neuron devices using 3D printing technology and tested them on mouse brain tissue. These artificial neurons generate electrical signals that mimic biological neural activity and successfully activated real brain cells in the experimental setting. This research demonstrates significant progress toward merging mechanical systems with the human brain and has potential applications in treating neurological damage and developing brain-computer interfaces. However, the current study remains in early stages, using only mouse brain tissue samples, and substantial additional research is needed to validate safety and feasibility for human brain applications. The findings represent an important proof-of-concept for bio-electronic technology in the neuroengineering field.",
-      "keyPoints": [
-        "**인공 신경원의 생물학적 통신 성공** / Artificial neurons successfully communicate with biological brain cells",
-        "**유연성과 저비용 설계** / Flexible and cost-effective design",
-        "**마우스 뇌 조직에서 검증됨** / Verified in mouse brain tissue",
-        "**신경공학 및 뇌-컴퓨터 인터페이스의 미래 응용** / Future applications in neuroengineering and brain-computer interfaces"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "featured": false
-    },
-    {
-      "id": "5144e4117b67",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Live music causes brain waves to synchronize more strongly with rhythm than recorded music",
-      "titleKo": "라이브 음악이 녹음 음악보다 뇌파를 리듬과 더 강하게 동기화시킨다",
-      "summary": "Your brain responds differently to live music. According to new research, brain waves lock onto live musical rhythms much more strongly than recorded tracks, creating a biological syncing process that makes live performances feel more pleasurable.",
-      "aiSummary": "Recent research demonstrates that the human brain responds differently to live versus recorded music. Scientists conducted an experiment measuring participants' brain wave activity while they listened to both live performances and pre-recorded music tracks. The key finding revealed that brain waves synchronize significantly more strongly with the rhythm of live music compared to recorded versions. This neurological synchronization process explains why live performances feel subjectively more pleasurable and engaging than listening to recordings. The study provides neuroscientific evidence for the long-observed phenomenon that concerts offer a distinctly different and more compelling experience than recorded music. However, the research would benefit from more detailed information about sample sizes, specific experimental design parameters, and quantified measurements of the degree of brain wave synchronization observed.\n\n##",
-      "aiSummaryKo": "음악 감상 시 뇌의 반응이 라이브 공연과 녹음 음악에서 다르다는 연구 결과가 발표되었다. 연구팀은 참가자들의 뇌파를 측정하면서 라이브 뮤직과 녹음된 음악을 청취하게 하는 실험을 진행했다. 그 결과 라이브 음악을 들을 때 뇌파가 음악의 리듬에 훨씬 더 강하게 동기화되는 것으로 나타났다. 이러한 뇌파의 동기화 현상은 라이브 공연이 녹음 음악보다 더 즐거운 경험이 되는 생물학적 메커니즘을 설명한다. 이 연구는 왜 콘서트 현장이 음반 청취와 다른 매력을 가지는지에 대한 신경과학적 증거를 제시한다는 점에서 의미가 있다. 다만 연구의 구체적인 참가자 규모, 실험 설계 세부사항, 뇌파 동기화의 정도를 수치화한 데이터가 추가로 필요하다.\n\n##",
-      "aiSummaryEn": "Recent research demonstrates that the human brain responds differently to live versus recorded music. Scientists conducted an experiment measuring participants' brain wave activity while they listened to both live performances and pre-recorded music tracks. The key finding revealed that brain waves synchronize significantly more strongly with the rhythm of live music compared to recorded versions. This neurological synchronization process explains why live performances feel subjectively more pleasurable and engaging than listening to recordings. The study provides neuroscientific evidence for the long-observed phenomenon that concerts offer a distinctly different and more compelling experience than recorded music. However, the research would benefit from more detailed information about sample sizes, specific experimental design parameters, and quantified measurements of the degree of brain wave synchronization observed.\n\n##",
-      "keyPoints": [
-        "**뇌파 동기화 차이** / Brain wave synchronization is significantly stronger with live music than recorded music",
-        "**쾌감 경험의 신경학적 기반** / The neurological synchronization mechanism explains why live performances feel more pleasurable and engaging",
-        "**라이브 공연의 생물학적 우월성** / Live music creates a unique biological response that recorded music cannot replicate",
-        "**음악 감상 경험의 과학적 규명** / Research provides scientific evidence for the subjective appeal and superiority of live concert experiences over passive recording listening"
-      ],
-      "url": "https://www.psypost.org/live-music-causes-brain-waves-to-synchronize-more-strongly-with-rhythm-than-recorded-music/",
-      "featured": false
-    },
-    {
-      "id": "6838b1f6a7b3",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "5시간 전 / 5h ago",
-      "title": "Scientists find evidence some Alzheimer’s symptoms may begin outside the brain",
-      "titleKo": "과학자들, 알츠하이머병의 일부 증상이 뇌 외부에서 시작될 수 있다는 증거 발견",
-      "summary": "Researchers used a microscopic model of human nerves and muscles to show that Alzheimer's disease directly damages peripheral nerves. This physical damage happens independently of cognitive decline and does not improve with standard medications for the illness.",
-      "aiSummary": "While Alzheimer's disease has been primarily understood as causing brain damage leading to cognitive decline, recent research provides evidence that the disease directly damages peripheral nerves outside the brain. Researchers used a microscopic model of human nerves and muscles to conduct experiments and demonstrated that Alzheimer's disease causes physical damage to peripheral nerves. Importantly, this peripheral nerve damage occurs independently of cognitive decline and does not improve with standard Alzheimer's medications currently in use. This discovery is significant as it expands our pathological understanding of Alzheimer's disease and suggests new therapeutic targets for treatment. However, since this research used microscopic models in laboratory conditions, further clinical studies are needed to confirm these effects in humans.\n\n##",
-      "aiSummaryKo": "알츠하이머병은 주로 뇌 손상으로 인한 인지 기능 저하로 알려져 왔으나, 최근 연구는 이 질병이 뇌 외부의 말초신경도 직접 손상시킨다는 증거를 제시했다. 연구진은 인간 신경과 근육을 모방한 미세 모델을 이용하여 실험을 진행했으며, 알츠하이머병이 말초신경에 물리적 손상을 일으킨다는 사실을 입증했다. 주목할 점은 이러한 말초신경 손상이 인지 기능 저하와 독립적으로 발생하며, 현재 사용되는 알츠하이머병 표준 약물로도 개선되지 않는다는 것이다. 이 발견은 알츠하이머병의 병리학적 이해를 확장하고 새로운 치료 표적을 제시한다는 점에서 의미가 있다. 다만 이 연구는 실험실 내 미세 모델을 사용했으므로, 인체에서의 효과를 확인하기 위한 후속 임상 연구가 필요하다.\n\n##",
-      "aiSummaryEn": "While Alzheimer's disease has been primarily understood as causing brain damage leading to cognitive decline, recent research provides evidence that the disease directly damages peripheral nerves outside the brain. Researchers used a microscopic model of human nerves and muscles to conduct experiments and demonstrated that Alzheimer's disease causes physical damage to peripheral nerves. Importantly, this peripheral nerve damage occurs independently of cognitive decline and does not improve with standard Alzheimer's medications currently in use. This discovery is significant as it expands our pathological understanding of Alzheimer's disease and suggests new therapeutic targets for treatment. However, since this research used microscopic models in laboratory conditions, further clinical studies are needed to confirm these effects in humans.\n\n##",
-      "keyPoints": [
-        "**뇌 외부 손상 발견** / Discovery of damage outside the brain: 알츠하이머병이 뇌뿐 아니라 말초신경에도 직접적인 물리적 손상을 일으킨다는 새로운 증거 발견",
-        "**인지 저하와 독립적 손상** / Damage independent of cognitive decline: 말초신경 손상이 인지 기능 저하와 분리되어 발생하는 별개의 병리 과정임을 시사",
-        "**기존 약물의 한계** / Limitations of existing medications: 현재 사용되는 알츠하이머병 표준 약물이 이러한 말초신경 손상을 개선하지 못함",
-        "**새로운 치료 표적 제시** / New therapeutic targets: 말초신경 손상 메커니즘 규명으로 알츠하이머병의 새로운 치료법 개발 가능성 제시"
-      ],
-      "url": "https://www.psypost.org/scientists-find-evidence-some-alzheimers-symptoms-may-begin-outside-the-brain/",
       "featured": false
     }
   ]
