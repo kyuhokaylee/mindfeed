@@ -1,7 +1,44 @@
 {
-  "updated": "2026-04-19T14:26:20.326473+00:00",
+  "updated": "2026-04-19T17:06:18.452580+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d6be017b930d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Childhood trauma and attachment styles show nuanced links to alternative sexual preferences",
+      "titleKo": "아동 트라우마와 애착 유형이 비주류 성적 선호도와 보이는 미묘한 연관성",
+      "summary": "A new study explores the statistical links between childhood trauma, adult attachment styles, and sexual preferences. Researchers found nuanced associations between emotional insecurities and whether individuals prefer submissive or dominant roles during intimate consensual encounters.",
+      "aiSummary": "This study examined the statistical associations between childhood trauma, adult attachment styles, and alternative sexual preferences. Researchers discovered nuanced links between emotional insecurities and individuals' preferences for dominant or submissive roles in consensual intimate encounters. While specific statistical numbers were not provided in the article, the research demonstrates that complex psychological patterns, rather than simple causal relationships, influence the formation of sexual preferences. The significance of this study lies in clarifying the subtle connections between adult psychological development and preferences in intimate relationships, which can enhance our understanding of emotional health. However, the article lacks detailed information about sample size, specific experimental design, and controlled variables, making it difficult to assess the generalizability and reliability of the findings. Future research with larger sample sizes and diverse populations is needed for better validation.\n\n##",
+      "aiSummaryKo": "이 연구는 어린 시절 외상 경험과 성인의 애착 스타일이 대체 성적 선호도와 어떤 관계가 있는지 탐구했습니다. 연구팀은 정서적 불안정성과 친밀한 관계에서 지배적 역할 또는 복종적 역할에 대한 개인의 선호도 사이의 복잡한 연관성을 발견했습니다. 구체적인 통계 수치는 기사에 명시되지 않았으나, 연구는 단순한 인과관계보다는 다층적인 심리적 패턴들이 성적 선호도 형성에 영향을 미친다는 점을 보여줍니다. 이 연구의 의의는 성인의 심리적 발달과 친밀한 관계 선호도 사이의 미묘한 연결고리를 규명함으로써 개인의 정서적 건강을 더 잘 이해할 수 있다는 점입니다. 다만 기사에서 연구의 표본 크기, 구체적인 실험 설계, 통제된 변수에 대한 정보가 부족하여 연구의 일반화 가능성과 신뢰도를 평가하기 어렵습니다. 추후 더 큰 규모와 다양한 인구집단을 대상으로 한 추적 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study examined the statistical associations between childhood trauma, adult attachment styles, and alternative sexual preferences. Researchers discovered nuanced links between emotional insecurities and individuals' preferences for dominant or submissive roles in consensual intimate encounters. While specific statistical numbers were not provided in the article, the research demonstrates that complex psychological patterns, rather than simple causal relationships, influence the formation of sexual preferences. The significance of this study lies in clarifying the subtle connections between adult psychological development and preferences in intimate relationships, which can enhance our understanding of emotional health. However, the article lacks detailed information about sample size, specific experimental design, and controlled variables, making it difficult to assess the generalizability and reliability of the findings. Future research with larger sample sizes and diverse populations is needed for better validation.\n\n##",
+      "keyPoints": [
+        "**어린 시절 외상과 성적 선호도의 연결** / Childhood trauma shows statistical associations with adult sexual preferences, though the relationships are complex rather than direct",
+        "**애착 스타일의 중재 역할** / Adult attachment styles mediate the relationship between early emotional experiences and intimate relationship preferences, including role preferences",
+        "**다층적 심리적 메커니즘** / The study reveals nuanced associations suggesting multiple psychological pathways rather than a single causal mechanism linking trauma to sexual preferences",
+        "**정보 부족으로 인한 해석의 제한** / Lack of specific methodological details (sample size, statistical values) in the article limits comprehensive evaluation of research reliability and applicability"
+      ],
+      "url": "https://www.psypost.org/childhood-trauma-and-attachment-styles-show-nuanced-links-to-alternative-sexual/",
+      "featured": true
+    },
+    {
+      "id": "a3d5cb0c4033",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "27일 전 / 27d ago",
+      "title": "‘Looking Backward’ to the Future",
+      "titleKo": "",
+      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
+      "featured": false
+    },
     {
       "id": "86a5fa79cc3a",
       "tag": "psych",
@@ -21,7 +58,7 @@
         "**가짜정보 대응의 복잡성**: 음모론 개선만으로는 부족하며 정치적 편견 해소가 가짜정보 확산 억제에 더 효과적 / Addressing misinformation requires tackling political bias rather than focusing solely on conspiracy thinking reduction"
       ],
       "url": "https://www.psypost.org/new-study-reveals-how-political-bias-conditions-the-impact-of-conspiracy-thinking/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3226c82e2a89",
@@ -378,48 +415,6 @@
         "**새로운 치료 표적 제시** / New therapeutic targets: 말초신경 손상 메커니즘 규명으로 알츠하이머병의 새로운 치료법 개발 가능성 제시"
       ],
       "url": "https://www.psypost.org/scientists-find-evidence-some-alzheimers-symptoms-may-begin-outside-the-brain/",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "This article presents a philosophical insight that humans are never independent individuals but rather beings in constant interaction with surrounding life forms. Through the everyday act of breathing, it illustrates how humans and plants mutually exchange oxygen and carbon dioxide in an interdependent relationship. The argument is grounded in the biological fact that each breath we take incorporates products from other living beings, while our exhaled substances become nutrients for other organisms. The human body hosts an ecosystem of diverse microorganisms, making individual boundaries fundamentally ambiguous. This perspective challenges traditional psychology's individualism-centered understanding and proposes a new paradigm emphasizing interconnection and interdependence. However, the article's limitation lies in its philosophical approach without presenting empirical data or concrete experimental methodology.",
-      "aiSummaryKo": "이 기사는 인간이 결코 독립적인 개체가 아니라 주변 생명체와 지속적으로 상호작용하는 존재라는 철학적 통찰을 제시한다. 호흡이라는 일상적 행위를 통해 인간과 식물이 산소와 이산화탄소를 교환하며 상호 의존하는 관계를 설명한다. 연구는 우리가 숨 쉴 때마다 다른 생명체의 산물을 받아들이고, 우리의 배출물이 다른 생명체의 영양이 된다는 생물학적 사실에 기초한다. 인간의 신체는 미생물 등 다양한 생명체의 생태계를 호스팅하고 있어 개인의 경계가 실제로는 매우 모호하다는 점을 강조한다. 이러한 관점은 개인주의 중심의 전통적 심리학적 이해에 도전하며, 상호연결성과 상호의존성을 강조하는 새로운 패러다임을 제안한다. 다만 철학적 주장 위주로 구성되어 실증적 데이터나 구체적 실험 방법론이 제시되지 않는 한계가 있다.",
-      "aiSummaryEn": "This article presents a philosophical insight that humans are never independent individuals but rather beings in constant interaction with surrounding life forms. Through the everyday act of breathing, it illustrates how humans and plants mutually exchange oxygen and carbon dioxide in an interdependent relationship. The argument is grounded in the biological fact that each breath we take incorporates products from other living beings, while our exhaled substances become nutrients for other organisms. The human body hosts an ecosystem of diverse microorganisms, making individual boundaries fundamentally ambiguous. This perspective challenges traditional psychology's individualism-centered understanding and proposes a new paradigm emphasizing interconnection and interdependence. However, the article's limitation lies in its philosophical approach without presenting empirical data or concrete experimental methodology.",
-      "keyPoints": [
-        "**개체성의 재정의** / Redefinition of Individuality: 인간은 독립적 개체가 아니라 다른 생명체와 상호작용하는 상호연결된 존재 / Humans are not independent entities but interconnected beings interacting with other life forms",
-        "**생물학적 상호의존성** / Biological Interdependence: 호흡을 통해 인간과 식물이 산소-이산화탄소를 교환하며, 우리의 배출물이 타 생명체의 필수 자원이 됨 / Through respiration, humans and plants exchange oxygen-carbon dioxide, with our waste products becoming essential resources for other organisms",
-        "**신체 내 생태계** / Internal Ecosystem: 인간의 신체는 미생물을 포함한 다양한 생명체의 생태계를 호스팅하여 개인의 경계가 모호함 / The human body hosts an ecosystem of diverse microorganisms, making individual boundaries ambiguous",
-        "**심리학 패러다임 전환** / Paradigm Shift in Psychology: 개인주의 중심의 전통적 접근에서 벗어나 상호연결성과 생태적 관계성을 강조하는 새로운 이해 필요 / A need to move away from individualism-centered traditional approaches toward emphasizing interconnectivity and ecological relationships"
-      ],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "1f2d0b54d063",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "16일 전 / 16d ago",
-      "title": "What It’s Like to Be…a Diplomat",
-      "titleKo": "외교관이 된다는 것은 어떤 느낌일까",
-      "summary": "Defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering demarches in multiple languages, and surviving the frantic evacuation of the Kabul embassy with John Johnson, a retired diplomat who spent more than twenty years in the US Foreign Service. Do diplomats still send \"cables\" in the 21st century? And what does \"not/not\" mean? [buzzsprout episode='18818060' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (w",
-      "aiSummary": "This article highlights an actual podcast episode about the real experiences and roles of American diplomats. Retired diplomat John Johnson, with over twenty years of experience in the U.S. Foreign Service, explains the everyday life of diplomats. The article presents specific cases including defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering official protests (demarches) in multiple languages, and managing the emergency evacuation of the Kabul embassy. The podcast addresses practical diplomatic questions such as whether diplomats still send \"cables\" (official telegrams) in the 21st century and the meaning of the diplomatic term \"not/not.\" As part of a series where bestselling author Dan Heath discusses what it's like to work in various professions, the episode aims to make the diplomat's role and challenges understandable to the general public. However, the article is formatted as a podcast preview without specific research data or statistics, instead focusing on the diplomat's personal experiences and anecdotes.",
-      "aiSummaryKo": "본 기사는 미국 외교관의 실제 경험과 역할을 조명하는 팟캐스트 에피소드를 다룬다. 은퇴한 외교관 존 존슨이 20년 이상의 미국 외교부 경력을 바탕으로 외교관의 일상을 설명한다. 기사에서는 대사가 러시아에 대한 선제 타격을 암시한 위기를 진정시킨 사건, 여러 언어로 공식 항의(데마르쉬)를 전달하는 업무, 그리고 카불 대사관 긴급 철수 상황 등 실제 외교 사건들을 사례로 제시한다. 팟캐스트는 21세기에 외교관들이 여전히 \"케이블\"(공식 전보)을 송수신하는지, 외교 용어 \"not/not\"의 의미가 무엇인지 등 외교 실무의 구체적 질문들을 다룬다. 베스트셀러 작가 댄 히스가 외교관의 역할과 도전을 일반 대중이 이해할 수 있도록 풀어서 설명하는 시리즈의 일환이다. 다만 기사는 팟캐스트 예고편 형식으로 구체적인 연구 데이터나 수치 없이 외교관의 경험담 중심으로 구성되어 있다.",
-      "aiSummaryEn": "This article highlights an actual podcast episode about the real experiences and roles of American diplomats. Retired diplomat John Johnson, with over twenty years of experience in the U.S. Foreign Service, explains the everyday life of diplomats. The article presents specific cases including defusing a crisis after an ambassador hinted at a preemptive strike on Russia, delivering official protests (demarches) in multiple languages, and managing the emergency evacuation of the Kabul embassy. The podcast addresses practical diplomatic questions such as whether diplomats still send \"cables\" (official telegrams) in the 21st century and the meaning of the diplomatic term \"not/not.\" As part of a series where bestselling author Dan Heath discusses what it's like to work in various professions, the episode aims to make the diplomat's role and challenges understandable to the general public. However, the article is formatted as a podcast preview without specific research data or statistics, instead focusing on the diplomat's personal experiences and anecdotes.",
-      "keyPoints": [
-        "외교관의 역할: 국제 위기 상황에서 분쟁을 진정시키고 공식 항의를 다국어로 전달하는 고도의 전문성 필요 / Role of diplomats: High-level expertise required to defuse international crises and deliver official protests in multiple languages",
-        "현장 경험의 중요성: 20년 이상의 경력 외교관이 직접 겪은 카불 대사관 철수 같은 실제 사건들이 외교 업무의 위험성과 복잡성 증명 / Importance of field experience: Real events like the Kabul embassy evacuation directly experienced by career diplomats demonstrate the danger and complexity of diplomatic work",
-        "외교 실무의 세부 사항: \"케이블\" 송수신, \"not/not\" 같은 외교 용어 등 일반인이 잘 모르는 외교 실무의 구체적 도구와 언어 사용 / Diplomatic practice details: Specific tools and language such as sending \"cables\" and using diplomatic terms like \"not/not\" that are unfamiliar to the general public",
-        "대중 교육의 필요성: 베스트셀러 작가와의 대화 형식으로 외교관의 삶을 대중에게 알리려는 노력으로, 외교 분야의 이해도 향상에 기여 / Need for public education: Effort to inform the general public about diplomats' lives through conversation with a bestselling author, contributing to improved understanding of the diplomatic field"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-diplomat/",
       "featured": false
     }
   ]
