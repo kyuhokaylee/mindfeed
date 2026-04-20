@@ -1,7 +1,239 @@
 {
-  "updated": "2026-04-19T23:55:23.226569+00:00",
+  "updated": "2026-04-20T07:30:53.817062+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "19fa435faeb2",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "3시간 전 / 3h ago",
+      "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+      "titleKo": "DeepER-Med: 에이전트 AI를 통한 의학 분야의 심화된 근거 기반 연구 진전",
+      "summary": "arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems lack explicit and inspectable criteria for evidence appraisal, creating a risk of compounding errors and making it difficult for researchers and clinicians to assess the reliability of their outputs. In",
+      "aiSummary": "As AI adoption expands in healthcare, transparency and trustworthiness have become critical challenges for clinical implementation. Existing AI-based deep research systems integrate information retrieval, reasoning, and synthesis capabilities, but lack explicit and inspectable criteria for evidence appraisal, creating risks of error compounding and making it difficult for researchers and clinicians to assess output reliability. DeepER-Med proposes an agentic AI system that includes verifiable evidence appraisal criteria to address these limitations. This research is significant for enhancing transparency and trustworthiness of medical AI and promoting clinical adoption. However, additional validation in real clinical environments and exploration of applicability across diverse medical domains remain necessary.\n\n##",
+      "aiSummaryKo": "의료 분야에서 AI 도입이 확대되면서 의사결정의 투명성과 신뢰성이 핵심 과제로 대두되고 있습니다. 기존의 AI 기반 심화 연구 시스템들은 다양한 정보 검색, 추론, 종합 능력을 갖추고 있지만, 근거의 신뢰도를 평가하는 명확한 기준이 부족하다는 문제가 있습니다. 이는 오류가 누적될 위험성을 높이고 연구자와 임상의가 AI 결과물의 신뢰성을 판단하기 어렵게 만듭니다. DeepER-Med는 이러한 문제를 해결하기 위해 검증 가능한 근거 평가 기준을 포함한 에이전트 AI 시스템을 제안합니다. 본 연구는 의료 AI의 투명성과 신뢰성을 향상시켜 임상 현장 도입을 촉진하는 데 의의가 있습니다. 다만, 실제 임상 환경에서의 검증과 다양한 의료 분야에서의 적용 가능성에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "As AI adoption expands in healthcare, transparency and trustworthiness have become critical challenges for clinical implementation. Existing AI-based deep research systems integrate information retrieval, reasoning, and synthesis capabilities, but lack explicit and inspectable criteria for evidence appraisal, creating risks of error compounding and making it difficult for researchers and clinicians to assess output reliability. DeepER-Med proposes an agentic AI system that includes verifiable evidence appraisal criteria to address these limitations. This research is significant for enhancing transparency and trustworthiness of medical AI and promoting clinical adoption. However, additional validation in real clinical environments and exploration of applicability across diverse medical domains remain necessary.\n\n##",
+      "keyPoints": [
+        "**투명성과 신뢰성 문제** / Transparency and Trustworthiness Issue: 기존 의료 AI 시스템은 근거 평가 기준이 불명확하여 임상 도입에 방해가 됨 / Existing medical AI systems lack clear evidence appraisal criteria, hindering clinical adoption",
+        "**에이전트 AI 시스템 제안** / Proposed Agentic AI System: DeepER-Med는 검증 가능한 근거 평가 기준을 명시적으로 포함한 설계 / DeepER-Med integrates explicit and inspectable evidence appraisal criteria in its design",
+        "**오류 누적 위험 감소** / Reduced Error Compounding: 명확한 평가 기준으로 정보 검색·추론·종합 과정에서 오류 전파 방지 / Clear appraisal criteria prevent error propagation through information retrieval, reasoning, and synthesis processes",
+        "**임상 의사결정 지원 강화** / Enhanced Clinical Decision Support: 연구자와 임상의가 AI 출력의 신뢰성을 더 쉽게 판단할 수 있게 함 / Enables researchers and clinicians to more easily assess the reliability of AI outputs for informed decision-making"
+      ],
+      "url": "https://arxiv.org/abs/2604.15456",
+      "featured": true
+    },
+    {
+      "id": "35c80fa65ae2",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "3시간 전 / 3h ago",
+      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+      "titleKo": "GIST: 지능형 의미론적 위상을 통한 다중모달 지식 추출 및 공간적 기반화",
+      "summary": "arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While Vision-Language Models (VLMs) help assistive systems navigate semantically-rich spaces, they still struggle with spatial grounding in cluttered environments. We present GIST (Grounded Intelligent Sema",
+      "aiSummary": "This research presents GIST (Grounded Intelligent Semantic Topology), a technology designed to address spatial grounding challenges for robots and AI systems in complex, densely packed environments such as retail stores, warehouses, and hospitals. Conventional computer vision approaches struggle because objects in these spaces remain relatively static, causing visual features to become outdated quickly, and infrequent items are difficult to recognize accurately. The study leverages Vision-Language Models (VLMs) to improve navigation in semantically rich spaces while specifically focusing on enhancing spatial grounding accuracy in cluttered environments. GIST combines multimodal information (visual and linguistic) with intelligent semantic topology analysis, enabling robots to locate target objects and navigate through congested spaces more precisely. This technology could significantly enhance the performance of AI systems operating in real-world environments, such as assistive robots and autonomous delivery systems. However, validation of adaptability across diverse environmental conditions and cultural contexts is needed, and improving real-time processing efficiency remains a future challenge.\n\n##",
+      "aiSummaryKo": "본 연구는 소매점, 창고, 병원 같은 복잡하고 밀집된 환경에서 로봇이나 AI 시스템이 공간을 정확히 인식하고 이동하는 문제를 해결하기 위한 GIST(Grounded Intelligent Semantic Topology) 기술을 제시합니다. 기존 컴퓨터 비전 방식은 환경의 물품들이 거의 변하지 않아 시각 정보가 빠르게 구식이 되고, 드물게 나타나는 물품들을 인식하기 어려운 문제가 있습니다. 이 연구는 비전-언어 모델(VLM)을 활용하여 의미적으로 풍부한 공간에서의 네비게이션을 개선하되, 특히 복잡한 환경에서의 공간 정위 정확도를 높이는 데 초점을 맞춥니다. GIST는 멀티모달(시각+언어) 정보와 지능형 의미론적 위상 분석을 결합하여 로봇이 혼잡한 공간에서 목표 물체를 더 정확하게 찾고 이동할 수 있게 합니다. 이 기술은 보조 로봇, 자율 배송 시스템 등 실제 환경에서 작동하는 AI 시스템의 성능을 크게 향상시킬 수 있습니다. 다만, 다양한 환경 조건과 문화적 차이에 따른 적응성 검증이 필요하며, 실시간 처리 효율성 개선이 향후 과제입니다.\n\n##",
+      "aiSummaryEn": "This research presents GIST (Grounded Intelligent Semantic Topology), a technology designed to address spatial grounding challenges for robots and AI systems in complex, densely packed environments such as retail stores, warehouses, and hospitals. Conventional computer vision approaches struggle because objects in these spaces remain relatively static, causing visual features to become outdated quickly, and infrequent items are difficult to recognize accurately. The study leverages Vision-Language Models (VLMs) to improve navigation in semantically rich spaces while specifically focusing on enhancing spatial grounding accuracy in cluttered environments. GIST combines multimodal information (visual and linguistic) with intelligent semantic topology analysis, enabling robots to locate target objects and navigate through congested spaces more precisely. This technology could significantly enhance the performance of AI systems operating in real-world environments, such as assistive robots and autonomous delivery systems. However, validation of adaptability across diverse environmental conditions and cultural contexts is needed, and improving real-time processing efficiency remains a future challenge.\n\n##",
+      "keyPoints": [
+        "**핵심 기술**: GIST는 비전-언어 모델과 지능형 의미론적 위상을 결합하여 복잡한 환경에서 공간 정위 정확도 향상 / GIST combines Vision-Language Models with intelligent semantic topology to improve spatial grounding accuracy in complex environments",
+        "**주요 문제 해결**: 밀집된 공간에서 빠르게 구식이 되는 시각 정보와 드문 물품 인식 문제를 멀티모달 접근 방식으로 극복 / Addresses stale visual features and rare object recognition in cluttered spaces using multimodal approach",
+        "**실제 응용 가능성**: 소매점, 창고, 병원 등 실제 환경에서 보조 로봇, 자율 배송 시스템 등의 성능 크게 향상 / Significant potential applications in assistive robots and autonomous delivery systems in retail, warehouses, and hospitals",
+        "**향후 과제**: 다양한 환경 조건 적응성 검증과 실시간 처리 효율성 개선 필요 / Requires validation across diverse environmental conditions and improvements in real-time processing efficiency"
+      ],
+      "url": "https://arxiv.org/abs/2604.15495",
+      "featured": false
+    },
+    {
+      "id": "674f203eee79",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "3시간 전 / 3h ago",
+      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+      "titleKo": "관료적 침묵: 캐나다 AI 등록부가 드러내는 것, 생략하는 것, 그리고 감추는 것",
+      "summary": "arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's complete dataset of 409 systems using the Algorithmic Decision-Making Adapted for the Public Sector (ADMAPS) framework, combining quantitative mapping with deductive qualitative coding. Our findings reveal",
+      "aiSummary": "The Government of Canada operationalized its transparency commitment by releasing its first Federal AI Register in November 2025. This study analyzes 409 government AI systems and argues that AI registers are not neutral information-sharing tools but active instruments of ontological design that shape the boundaries of accountability. The research team used the Algorithmic Decision-Making Adapted for the Public Sector (ADMAPS) framework, combining quantitative mapping with deductive qualitative coding to examine the complete dataset. The findings reveal what information the register reveals, what it omits, and what it obscures regarding government AI systems. This research critically examines whether AI transparency mechanisms actually achieve meaningful government accountability. However, the analysis is limited to a single point-in-time snapshot of the register data and may not capture changes over time.\n\n##",
+      "aiSummaryKo": "캐나다 정부가 2025년 11월 연방 AI 레지스터를 공개하면서 정부 AI 시스템의 투명성을 강화했습니다. 이 연구는 409개의 정부 AI 시스템을 분석하여 AI 레지스터가 단순한 정보 공개 도구가 아니라 정부 책임성의 경계를 구성하는 능동적인 설계 도구라고 주장합니다. 연구팀은 공공부문 알고리즘 의사결정 분석 프레임워크(ADMAPS)를 사용하여 정량적 분석과 정성적 코딩을 결합했습니다. 분석 결과는 레지스터가 어떤 정보를 공개하고, 어떤 정보를 생략하며, 어떤 내용을 모호하게 처리하는지 드러냅니다. 이 연구는 AI 투명성 제도가 실제로 정부 책임성을 어느 정도 달성하는지를 비판적으로 검토합니다. 다만 이 분석은 특정 시점의 레지스터 데이터에 기반하므로 시간 경과에 따른 변화를 반영하지 못할 수 있습니다.\n\n##",
+      "aiSummaryEn": "The Government of Canada operationalized its transparency commitment by releasing its first Federal AI Register in November 2025. This study analyzes 409 government AI systems and argues that AI registers are not neutral information-sharing tools but active instruments of ontological design that shape the boundaries of accountability. The research team used the Algorithmic Decision-Making Adapted for the Public Sector (ADMAPS) framework, combining quantitative mapping with deductive qualitative coding to examine the complete dataset. The findings reveal what information the register reveals, what it omits, and what it obscures regarding government AI systems. This research critically examines whether AI transparency mechanisms actually achieve meaningful government accountability. However, the analysis is limited to a single point-in-time snapshot of the register data and may not capture changes over time.\n\n##",
+      "keyPoints": [
+        "**AI 투명성의 선택성** / Selective transparency in AI governance: AI 레지스터가 공개하는 정보와 공개하지 않는 정보의 차이를 분석하여 투명성의 한계를 드러냅니다.",
+        "**책임성 설계의 중요성** / Design of accountability structures: 레지스터 자체가 어떤 정보를 공개할 것인지 결정함으로써 정부 책임성의 범위를 능동적으로 구성합니다.",
+        "**정량적·정성적 통합 분석** / Mixed-method analysis of 409 systems: ADMAPS 프레임워크를 활용하여 409개 시스템을 체계적으로 분석하는 방법론을 제시합니다.",
+        "**정책 투명성 제도 비판** / Critical examination of policy mechanisms: AI 투명성 정책이 형식적 공개에 그치지 않고 실질적 책임성을 담보하는지 검토하는 필요성을 강조합니다."
+      ],
+      "url": "https://arxiv.org/abs/2604.15514",
+      "featured": false
+    },
+    {
+      "id": "25d1d7ddcc4f",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "3시간 전 / 3h ago",
+      "title": "LACE: Lattice Attention for Cross-thread Exploration",
+      "titleKo": "LACE: 교차 스레드 탐색을 위한 격자 주의 메커니즘",
+      "summary": "arXiv:2604.15529v1 Announce Type: new Abstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not interact, and often fail in the same redundant ways. We introduce LACE, a framework that transforms reasoning from a collection of independent trials into a coordinated, parallel process. By repurposing the model architecture to enable cross-thread attention, LACE allows concurrent reasoning paths to share intermediate insights and correct one another during inference. A central challenge is the absenc",
+      "aiSummary": "Current large language models suffer from isolated reasoning, where multiple parallel reasoning paths fail to interact and often collapse into identical errors. This research introduces LACE, a framework that transforms reasoning from a collection of independent attempts into a coordinated parallel process. By redesigning the model architecture to enable cross-thread attention, LACE allows concurrent reasoning trajectories to share intermediate insights and correct each other during inference. This approach addresses the inefficiency of traditional parallel reasoning and potentially yields more accurate outputs. The framework repurposes existing model architectures rather than requiring completely new designs. However, the computational complexity of cross-thread attention mechanisms and technical implementation details require further investigation.\n\n##",
+      "aiSummaryKo": "현재의 대규모 언어 모델(LLM)들은 독립적으로 추론하는 문제를 가지고 있습니다. 여러 추론 경로를 병렬로 샘플링하더라도 이들 경로들이 서로 상호작용하지 않아 같은 방식으로 반복적으로 실패합니다. 이 연구는 LACE라는 새로운 프레임워크를 제안하는데, 이는 독립적인 시도들의 모음에서 벗어나 조율된 병렬 추론 과정으로 변환합니다. 모델 아키텍처를 재설계하여 교차 경로 주의(cross-thread attention)를 가능하게 함으로써, LACE는 동시에 진행되는 추론 경로들이 중간 결과를 공유하고 추론 과정 중에 서로를 수정할 수 있도록 합니다. 이 방식은 기존 병렬 추론의 비효율성을 해결하고 더 정확한 결과를 도출할 가능성을 제시합니다. 다만, 교차 경로 주의 메커니즘의 계산 복잡도와 실제 구현의 기술적 세부사항이 추가 연구 대상입니다.\n\n##",
+      "aiSummaryEn": "Current large language models suffer from isolated reasoning, where multiple parallel reasoning paths fail to interact and often collapse into identical errors. This research introduces LACE, a framework that transforms reasoning from a collection of independent attempts into a coordinated parallel process. By redesigning the model architecture to enable cross-thread attention, LACE allows concurrent reasoning trajectories to share intermediate insights and correct each other during inference. This approach addresses the inefficiency of traditional parallel reasoning and potentially yields more accurate outputs. The framework repurposes existing model architectures rather than requiring completely new designs. However, the computational complexity of cross-thread attention mechanisms and technical implementation details require further investigation.\n\n##",
+      "keyPoints": [
+        "**기존 문제점** / **Current Problem**: LLM의 병렬 추론 경로들이 독립적으로 작동하여 동일한 오류를 반복적으로 생성하고 서로의 강점을 활용하지 못함 / Parallel reasoning paths in LLMs operate independently, repeatedly generating identical errors and failing to leverage each path's strengths",
+        "**혁신적 해결책** / **Innovative Solution**: 격자 주의(Lattice Attention) 메커니즘을 통해 동시 추론 경로들 간의 실시간 상호작용을 가능하게 함으로써 추론 과정 중 동적 수정과 통찰 공유 구현 / Lattice Attention mechanism enables real-time interaction between concurrent reasoning paths, allowing dynamic correction and insight-sharing during inference",
+        "**기술적 효율성** / **Technical Efficiency**: 기존 모델 아키텍처를 재설계하여 추가적인 거대한 계산 부담 없이 교차 경로 주의 기능 통합 가능 / Repurposes existing model architectures to integrate cross-thread attention without substantial additional computational overhead",
+        "**연구 방향** / **Research Implications**: 병렬 처리와 협력적 추론의 새로운 패러다임 제시로 LLM의 추론 능력 근본적 개선 방향 제시 / Presents a new paradigm for collaborative parallel reasoning, suggesting fundamental improvements to LLM reasoning capabilities and error reduction strategies"
+      ],
+      "url": "https://arxiv.org/abs/2604.15529",
+      "featured": false
+    },
+    {
+      "id": "5d410ccfd61f",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "3시간 전 / 3h ago",
+      "title": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
+      "titleKo": "사고의 스펙트럼 기하학: 변압기가 추론하는 방식에서의 위상 전이, 지시 반전, 토큰 수준 역학, 그리고 완벽한 정확성 예측",
+      "summary": "arXiv:2604.15350v1 Announce Type: new Abstract: We discover that large language models exhibit \\emph{spectral phase transitions} in their hidden activation spaces when engaging in reasoning versus factual recall. Through systematic spectral analysis across \\textbf{11 models} spanning \\textbf{5 architecture families} (Qwen, Pythia, Phi, Llama, DeepSeek-R1), we identify \\textbf{seven} core phenomena: (1)~\\textbf{Reasoning Spectral Compression} -- 9/11 models show significantly lower $\\alpha$ for reasoning ($p < 0.05$), with larger effects in stronger models; (2)~\\textbf{Instruction Tuning Spectr",
+      "aiSummary": "This research reveals that large language models exhibit distinct spectral phase transitions in their hidden activation spaces when performing reasoning tasks versus factual recall tasks. The team conducted systematic spectral analysis across 11 models spanning 5 architecture families (Qwen, Pythia, Phi, Llama, DeepSeek-R1). Key findings show that 9 out of 11 models (82%) demonstrate significantly lower spectral values (α) during reasoning tasks (p < 0.05), with stronger models showing more pronounced effects. This study provides crucial theoretical foundations for understanding the neural mechanisms of how Transformer models engage in reasoning. Additionally, the research suggests that model internal activity patterns could potentially predict answer correctness before generation. However, the study relies primarily on mathematical spectral analysis, requiring further validation of how these spectral phenomena connect to actual language understanding and reasoning processes.\n\n##",
+      "aiSummaryKo": "이 연구는 대형 언어 모델(LLM)이 추론 작업과 사실 회상 작업을 수행할 때 숨겨진 활성화 공간에서 서로 다른 '스펙트럼 위상 전이(spectral phase transition)'를 보이는 현상을 발견했습니다. 연구팀은 Qwen, Pythia, Phi, Llama, DeepSeek-R1 등 5가지 아키텍처 계열의 11개 모델을 대상으로 체계적인 스펙트럼 분석을 수행했습니다. 핵심 발견은 9개 모델(82%)이 추론 작업에서 유의미하게 낮은 스펙트럼 값(α)을 보였으며, 더 강력한 모델일수록 이 효과가 더 크다는 것입니다. 이 연구는 변환기(Transformer) 모델이 어떻게 추론하는지의 신경 메커니즘을 이해하는 데 중요한 이론적 토대를 제공합니다. 또한 모델의 내부 활동 패턴을 통해 답변 정확성을 미리 예측할 수 있는 가능성을 시사합니다. 다만 이 연구는 주로 수학적 스펙트럼 분석에 기반하고 있어, 이러한 발견이 실제 언어 이해와 추론 과정과 어떻게 연결되는지에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research reveals that large language models exhibit distinct spectral phase transitions in their hidden activation spaces when performing reasoning tasks versus factual recall tasks. The team conducted systematic spectral analysis across 11 models spanning 5 architecture families (Qwen, Pythia, Phi, Llama, DeepSeek-R1). Key findings show that 9 out of 11 models (82%) demonstrate significantly lower spectral values (α) during reasoning tasks (p < 0.05), with stronger models showing more pronounced effects. This study provides crucial theoretical foundations for understanding the neural mechanisms of how Transformer models engage in reasoning. Additionally, the research suggests that model internal activity patterns could potentially predict answer correctness before generation. However, the study relies primarily on mathematical spectral analysis, requiring further validation of how these spectral phenomena connect to actual language understanding and reasoning processes.\n\n##",
+      "keyPoints": [
+        "**추론 시 스펙트럼 압축 현상** / Reasoning Spectral Compression: 82% 모델이 추론 작업에서 유의미하게 낮은 스펙트럼 값을 나타냄. 이는 추론이 사실 회상과 다른 신경 처리 방식임을 시사합니다.",
+        "**모델 규모에 따른 차등 효과** / Scale-Dependent Effects: 더 강력하고 큰 모델일수록 추론-회상 간 스펙트럼 차이가 더 크게 나타나며, 이는 모델의 역량과 내부 표현의 관계를 보여줍니다.",
+        "**정확성 예측 가능성** / Predictive Power for Correctness: 모델의 내부 활성화 공간의 스펙트럼 특성을 통해 최종 답변의 정확성을 미리 예측할 수 있을 가능성이 있습니다.",
+        "**다중 아키텍처 범위의 일관성** / Cross-Architecture Consistency: 5가지 서로 다른 아키텍처 계열에서 유사한 스펙트럼 현상이 관찰되어, 이것이 언어모델의 보편적 특성임을 시사합니다."
+      ],
+      "url": "https://arxiv.org/abs/2604.15350",
+      "featured": false
+    },
+    {
+      "id": "41429b0bac89",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "3시간 전 / 3h ago",
+      "title": "Aletheia: Gradient-Guided Layer Selection for Efficient LoRA Fine-Tuning Across Architectures",
+      "titleKo": "Aletheia: 다양한 아키텍처에서 효율적인 LoRA 미세 조정을 위한 그래디언트 기반 계층 선택",
+      "summary": "arXiv:2604.15351v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become the dominant parameter-efficient fine-tuning method for large language models, yet standard practice applies LoRA adapters uniformly to all transformer layers regardless of their relevance to the downstream task. We introduce Aletheia, a gradient-guided layer selection method that identifies the most task-relevant layers via a lightweight gradient probe and applies LoRA adapters only to those layers with asymmetric rank allocation. Across 81 experiment rows covering 14 successful models from 8 architecture fa",
+      "aiSummary": "The Low-Rank Adaptation (LoRA) method, widely used for efficient fine-tuning of large language models, currently applies adapters uniformly to all transformer layers regardless of their task relevance. This research introduces \"Aletheia,\" a gradient-guided layer selection method that identifies task-relevant layers through lightweight gradient probing and applies LoRA selectively to those layers with asymmetric rank allocation. The research team conducted 81 experiments across 14 language models from 8 different architectural families. Aletheia demonstrates that comparable performance can be maintained while significantly reducing the number of required parameters through asymmetric rank distribution. This approach provides an efficient solution for fine-tuning large-scale models in resource-constrained environments. However, the method's effectiveness varies depending on specific task types, and further research is needed.\n\n##",
+      "aiSummaryKo": "대규모 언어 모델의 효율적인 학습을 위해 널리 사용되는 LoRA(저순위 적응) 기법은 현재 모든 신경망 계층에 동일하게 적용되고 있습니다. 이 연구에서는 \"Aletheia\"라는 새로운 방법을 제시했는데, 이는 가벼운 그래디언트 탐사를 통해 각 작업에 가장 중요한 계층을 찾아내고, 그 계층들에만 선택적으로 LoRA를 적용하는 방식입니다. 연구팀은 8개 아키텍처 계열의 14개 언어 모델을 대상으로 81개 실험을 수행했습니다. Aletheia는 비대칭적 순위 할당을 통해 같은 성능을 유지하면서 필요한 매개변수 수를 크게 줄일 수 있음을 보여주었습니다. 이는 제한된 컴퓨팅 자원 환경에서 대규모 모델을 효율적으로 학습시킬 수 있는 방법을 제공합니다. 다만, 이 방법은 특정 작업 유형에 따라 효과가 달라질 수 있으며, 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "The Low-Rank Adaptation (LoRA) method, widely used for efficient fine-tuning of large language models, currently applies adapters uniformly to all transformer layers regardless of their task relevance. This research introduces \"Aletheia,\" a gradient-guided layer selection method that identifies task-relevant layers through lightweight gradient probing and applies LoRA selectively to those layers with asymmetric rank allocation. The research team conducted 81 experiments across 14 language models from 8 different architectural families. Aletheia demonstrates that comparable performance can be maintained while significantly reducing the number of required parameters through asymmetric rank distribution. This approach provides an efficient solution for fine-tuning large-scale models in resource-constrained environments. However, the method's effectiveness varies depending on specific task types, and further research is needed.\n\n##",
+      "keyPoints": [
+        "**선택적 계층 적용**: 모든 계층에 동일하게 LoRA를 적용하는 대신, 그래디언트 기반으로 작업에 가장 중요한 계층만 선택하여 적용 / Selective layer application using gradient-guided selection instead of uniform LoRA application to all layers",
+        "**매개변수 효율성 증대**: 비대칭적 순위 할당으로 학습 가능한 매개변수의 수를 대폭 감소시키면서도 모델 성능 유지 / Substantial reduction in trainable parameters through asymmetric rank allocation while maintaining model performance",
+        "**광범위한 아키텍처 호환성**: 8개 아키텍처 계열, 14개 모델에서 일관된 효과 입증으로 방법의 범용성 확인 / Demonstrated compatibility across 8 architecture families and 14 models, proving broad applicability",
+        "**계산 자원 최적화**: 제한된 GPU 메모리와 학습 시간으로 대규모 모델 미세조정이 가능해져 실무 적용성 향상 / Enables efficient fine-tuning of large-scale models with limited computational resources, improving practical applicability"
+      ],
+      "url": "https://arxiv.org/abs/2604.15351",
+      "featured": false
+    },
+    {
+      "id": "73ed4dd386b7",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "3시간 전 / 3h ago",
+      "title": "Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit",
+      "titleKo": "확률적 언어 트라이를 통한 순차적 KV 캐시 압축: 벡터별 섀넌 한계를 넘어서",
+      "summary": "arXiv:2604.15356v1 Announce Type: new Abstract: Recent work on KV cache quantization, culminating in TurboQuant, has approached the Shannon entropy limit for per-vector compression of transformer key-value caches. We observe that this limit applies to a strictly weaker problem than the one that actually matters: compressing the KV cache as a sequence. The tokens stored in a KV cache are not arbitrary floating-point data -- they are samples from the exact formal language the model was trained on, and the model is by construction a near-optimal predictor of that language. We introduce sequential",
+      "aiSummary": "This research addresses the compression of KV (Key-Value) cache in transformer models. While previous studies, including TurboQuant, achieved Shannon entropy limits for per-vector compression, this study identifies that such approaches solve a fundamentally weaker problem than actual sequential KV cache compression. The tokens stored in KV cache are samples from the formal language the model was trained on, and the model functions as a near-optimal predictor of that language by design. The researchers introduce a novel \"Probabilistic Language Trie\" approach that leverages the sequential nature of tokens for more efficient compression. This method goes beyond the limitations of individual vector-based compression techniques. The research provides theoretical foundations for significantly improving memory efficiency in transformer models. However, practical implementation and performance validation on large-scale models require further investigation.",
+      "aiSummaryKo": "이 연구는 트랜스포머 모델의 KV 캐시(Key-Value 캐시) 압축 문제를 다룹니다. 기존 연구들은 각 벡터를 독립적으로 압축하는 방식으로 섀넌 엔트로피 한계에 도달했지만, 본 연구진은 이것이 실제 문제보다 약한 문제를 해결하고 있음을 지적합니다. KV 캐시에 저장된 토큰들은 모델이 학습한 형식 언어에서 나온 샘플이며, 모델은 그 언어의 최적 예측기이기 때문입니다. 연구팀은 '확률적 언어 트라이(Probabilistic Language Trie)' 방식을 도입하여 토큰의 순차적 특성을 활용한 새로운 압축 방법을 제안했습니다. 이 접근법은 개별 벡터 기반 압축의 한계를 넘어서 더 효율적인 압축을 가능하게 합니다. 연구는 트랜스포머 모델의 메모리 효율성을 크게 개선할 수 있는 이론적 기초를 제공합니다. 다만 실제 구현과 대규모 모델에서의 성능 검증은 추가 연구가 필요합니다.",
+      "aiSummaryEn": "This research addresses the compression of KV (Key-Value) cache in transformer models. While previous studies, including TurboQuant, achieved Shannon entropy limits for per-vector compression, this study identifies that such approaches solve a fundamentally weaker problem than actual sequential KV cache compression. The tokens stored in KV cache are samples from the formal language the model was trained on, and the model functions as a near-optimal predictor of that language by design. The researchers introduce a novel \"Probabilistic Language Trie\" approach that leverages the sequential nature of tokens for more efficient compression. This method goes beyond the limitations of individual vector-based compression techniques. The research provides theoretical foundations for significantly improving memory efficiency in transformer models. However, practical implementation and performance validation on large-scale models require further investigation.",
+      "keyPoints": [
+        "**기존 한계 인식** / **Recognition of Existing Limitations**: 기존 TurboQuant 등의 방식은 개별 벡터 기반의 섀넌 엔트로피 한계에 도달했으나, 이는 실제 순차 압축 문제보다 약한 문제를 해결하는 것",
+        "**언어 특성 활용** / **Leveraging Language Characteristics**: KV 캐시의 토큰이 모델이 학습한 형식 언어의 샘플이며, 모델이 최적 예측기라는 점을 압축에 활용",
+        "**확률적 언어 트라이 방식** / **Probabilistic Language Trie Approach**: 순차적 구조를 활용한 새로운 압축 기법으로 개별 벡터 기반 방식의 한계를 초과(Beyond the Per-Vector Shannon Limit)",
+        "**실용적 의의** / **Practical Significance**: 트랜스포머 모델의 메모리 효율성과 추론 속도를 획기적으로 개선할 수 있는 이론적 토대 제시"
+      ],
+      "url": "https://arxiv.org/abs/2604.15356",
+      "featured": false
+    },
+    {
+      "id": "c8cf4eddf9ed",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "3시간 전 / 3h ago",
+      "title": "Mapping High-Performance Regions in Battery Scheduling across Data Uncertainty, Battery Design, and Planning Horizons",
+      "titleKo": "데이터 불확실성, 배터리 설계, 계획 기간에 따른 배터리 스케줄링의 고성능 영역 매핑",
+      "summary": "arXiv:2604.15360v1 Announce Type: new Abstract: This study presents a triadic analysis of energy storage operation under multi-stage model predictive control, investigating the interplay between data characteristics, forecast uncertainty, planning horizon, and battery c-rate. Synthetic datasets are generated to systematically explore variations in data profiles and uncertainty, enabling parametrization and the construction of relationships that map these characteristics to optimal horizon length. Results reveal the presence of an effective horizon, defined as the look-ahead length beyond which",
+      "aiSummary": "This study conducts a triadic analysis of optimal energy storage operation, examining the interactions between data characteristics, forecast uncertainty, planning horizon, and battery performance (C-rate). Researchers generated synthetic datasets with systematically varied data profiles and uncertainty levels to identify relationships between these characteristics and optimal planning duration. The key finding reveals the existence of an \"effective horizon,\" defined as the look-ahead length beyond which extending the prediction period no longer improves battery operation performance. This research provides a framework for determining optimal planning periods tailored to specific data characteristics in real energy storage systems. The study's significance lies in its potential to enhance energy efficiency and reduce operational costs in battery management. However, a limitation is that findings are based on synthetic data, requiring validation with real-world operational data.\n\n##",
+      "aiSummaryKo": "본 연구는 에너지 저장 장치(배터리)의 최적 운영 전략을 찾기 위해 데이터 특성, 예측 불확실성, 계획 기간, 배터리 성능(C-rate) 간의 상호작용을 분석했습니다. 연구팀은 다양한 데이터 프로필과 불확실성을 체계적으로 변화시킨 합성 데이터셋을 생성하여 실험을 진행했습니다. 핵심 발견은 \"유효 기간(effective horizon)\"의 존재로, 이는 일정 길이 이상으로 예측 기간을 늘려도 배터리 운영 성능이 더 이상 개선되지 않는 지점을 의미합니다. 이 연구는 실제 에너지 저장 시스템의 운영 효율성을 높이기 위해 데이터 특성에 맞는 최적의 계획 기간을 결정하는 방법을 제시합니다. 연구의 의의는 에너지 효율성과 운영 비용 절감에 기여할 수 있다는 점입니다. 다만 합성 데이터를 기반으로 하므로 실제 현장 데이터에서의 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study conducts a triadic analysis of optimal energy storage operation, examining the interactions between data characteristics, forecast uncertainty, planning horizon, and battery performance (C-rate). Researchers generated synthetic datasets with systematically varied data profiles and uncertainty levels to identify relationships between these characteristics and optimal planning duration. The key finding reveals the existence of an \"effective horizon,\" defined as the look-ahead length beyond which extending the prediction period no longer improves battery operation performance. This research provides a framework for determining optimal planning periods tailored to specific data characteristics in real energy storage systems. The study's significance lies in its potential to enhance energy efficiency and reduce operational costs in battery management. However, a limitation is that findings are based on synthetic data, requiring validation with real-world operational data.\n\n##",
+      "keyPoints": [
+        "**유효 기간(Effective Horizon)의 발견** / Discovery of effective horizon concept that defines the optimal prediction length for battery scheduling",
+        "**데이터-성능 관계 매핑** / Systematic mapping of how data characteristics and forecast uncertainty influence optimal planning duration and battery performance",
+        "**다중 변수 상호작용 분석** / Triadic analysis integrating data profiles, uncertainty levels, planning horizon, and C-rate to understand their combined effects on energy storage operation",
+        "**실무적 적용 가능성** / Practical framework for energy system operators to optimize battery scheduling by selecting appropriate planning periods based on their specific data conditions"
+      ],
+      "url": "https://arxiv.org/abs/2604.15360",
+      "featured": false
+    },
+    {
+      "id": "9310fd0a9ca9",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "3시간 전 / 3h ago",
+      "title": "Machine learning approaches to uncover the neural mechanisms of motivated behaviour: from ADHD to individual differences in effort and reward sensitivity",
+      "titleKo": "",
+      "summary": "arXiv:2604.15363v1 Announce Type: new Abstract: Motivated behaviour relies on the brain's capacity to evaluate effort and reward. Dysregulation within these processes contributes to a spectrum of conditions, from hyperactivity in attention-deficit/hyperactivity disorder (ADHD) to diminished goal-directed behaviour in apathy. This thesis investigates the neural mechanisms underlying ADHD using electroencephalography (EEG) and examines individual differences in effort and reward sensitivity using neuroimaging, applying machine learning approaches through three main studies. In Study 1, task-base",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.15363",
+      "featured": false
+    },
+    {
+      "id": "1c0feb1a12d8",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "3시간 전 / 3h ago",
+      "title": "Seeing the imagined: a latent functional alignment in visual imagery decoding from fMRI data",
+      "titleKo": "",
+      "summary": "arXiv:2604.15374v1 Announce Type: new Abstract: Recent progress in visual brain decoding from fMRI has been enabled by large-scale datasets such as the Natural Scenes Dataset (NSD) and powerful diffusion-based generative models. While current pipelines are primarily optimized for perception, their performance under mental-imagery remains less well understood. In this work, we study how a state-of-the-art (SOTA) perception decoder (DynaDiff) can be adapted to reconstruct imagined content from the Imagery-NSD benchmark. We propose a latent functional alignment approach that maps imagery-evoked a",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.15374",
+      "featured": false
+    },
+    {
+      "id": "ce0327834ebc",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "3시간 전 / 3h ago",
+      "title": "Role of chloride concentration in modulating seizure transitions in excitatory and inhibitory networks",
+      "titleKo": "",
+      "summary": "arXiv:2604.15747v1 Announce Type: new Abstract: Experimental evidence indicates that intracellular chloride concentration regulates the excitation and inhibition (EI) balance, yet the mechanisms by which activity-dependent chloride dynamics drive seizure evolution and stage transitions remain unclear. We present a conductance-based neuronal network in which EI balance emerges from chloride homeostasis via channel-mediated influx and transporter-mediated extrusion. We show that the fraction of inhibitory synaptic conductance contributing to channel-mediated influx acts as a control parameter th",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.15747",
+      "featured": false
+    },
+    {
+      "id": "bc6c2b11647f",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "3시간 전 / 3h ago",
+      "title": "Considering a generative mechanism of consciousness from the perspective of inter-level causation",
+      "titleKo": "",
+      "summary": "arXiv:2511.04047v4 Announce Type: replace Abstract: Why do some physical systems possess consciousness, while others do not? Is this a question of physics? Or is it a question of the theory of causation? Physics and the theory of causation serve different descriptive purposes, and in this study we refer to them respectively as the Physical Stance and the Causal Stance. We propose that the generation of consciousness is determined by its internal causal mechanisms in the Causal Stance. To describe a causal model, we will introduce an asymmetric relation between cause and effect into the formula",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2511.04047",
+      "featured": false
+    },
     {
       "id": "5c73ba5810b1",
       "tag": "psych",
@@ -21,7 +253,7 @@
         "**환자 교육의 필요성** / **Need for Balanced Patient Education**: 우울증의 다양한 원인(심리사회적, 환경적, 생물학적 요인 포함)에 대한 더 균형잡힌 정보 제공의 중요성 강조"
       ],
       "url": "https://www.psypost.org/how-believing-in-a-chemical-imbalance-keeps-patients-on-antidepressants-longer/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5861058901d0",
@@ -163,258 +395,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
-      "featured": false
-    },
-    {
-      "id": "86a5fa79cc3a",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "New study reveals how political bias conditions the impact of conspiracy thinking",
-      "titleKo": "새로운 연구가 정치적 편견이 음모론적 사고의 영향을 어떻게 형성하는지 밝혀내다",
-      "summary": "A person’s tendency to see secret plots strongly predicts their belief in political rumors. But new research suggests this trait has limits: people quickly dismiss conspiracies if the rumors make their own political allies look bad.",
-      "aiSummary": "This research investigated how conspiracy thinking tendencies influence belief in political rumors. The study presented participants with various political rumors and analyzed the relationship between their conspiracy mindset and rumor acceptance. The key finding reveals that while conspiracy thinking strongly predicts belief in political rumors, this effect is significantly limited by political bias. Notably, participants quickly dismissed rumors that portrayed their own political allies negatively, regardless of their conspiracy thinking tendency. This suggests that political bias serves as a stronger filter than conspiracy thinking itself in determining rumor acceptance. The research provides valuable insight into misinformation spread mechanisms, though it may have limitations in sample representation and cultural applicability.\n\n##",
-      "aiSummaryKo": "이 연구는 음모론적 사고방식이 정치적 루머 믿음에 미치는 영향을 조사했습니다. 연구팀은 참가자들에게 다양한 정치적 루머를 제시하고, 그들의 음모론 성향과 루머 수용도의 관계를 분석했습니다. 주요 결과는 음모론적 사고방식이 정치적 루머 믿음을 강하게 예측하지만, 그 영향은 정치적 편견에 의해 제한된다는 것입니다. 특히 참가자들은 자신의 정치적 동맹을 부정적으로 나타내는 루머는 음모론 성향이 높아도 빠르게 거부하는 경향을 보였습니다. 이는 음모론적 사고가 절대적인 요인이 아니라 정치적 편견이 더 강력한 필터 역할을 함을 시사합니다. 이 연구는 가짜정보 확산 메커니즘을 이해하는 데 중요하지만, 표본의 특성이나 문화적 차이를 충분히 반영하지 못했을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigated how conspiracy thinking tendencies influence belief in political rumors. The study presented participants with various political rumors and analyzed the relationship between their conspiracy mindset and rumor acceptance. The key finding reveals that while conspiracy thinking strongly predicts belief in political rumors, this effect is significantly limited by political bias. Notably, participants quickly dismissed rumors that portrayed their own political allies negatively, regardless of their conspiracy thinking tendency. This suggests that political bias serves as a stronger filter than conspiracy thinking itself in determining rumor acceptance. The research provides valuable insight into misinformation spread mechanisms, though it may have limitations in sample representation and cultural applicability.\n\n##",
-      "keyPoints": [
-        "**음모론 성향과 정치적 루머**: 음모론적 사고방식은 정치적 루머 수용을 강하게 예측하지만 절대적 요인은 아님 / Conspiracy thinking predicts political rumor belief, but is not an absolute determinant",
-        "**정치적 편견의 우선성**: 자신의 정치적 진영을 비난하는 루머는 음모론 성향이 높아도 거부됨 / Political bias overrides conspiracy thinking when rumors target one's own political allies",
-        "**선택적 신뢰 메커니즘**: 인간은 음모론과 정치적 편견 사이에서 정치적 편견을 우선시하는 필터링 작용 / People employ selective filtering that prioritizes political loyalty over conspiracy susceptibility",
-        "**가짜정보 대응의 복잡성**: 음모론 개선만으로는 부족하며 정치적 편견 해소가 가짜정보 확산 억제에 더 효과적 / Addressing misinformation requires tackling political bias rather than focusing solely on conspiracy thinking reduction"
-      ],
-      "url": "https://www.psypost.org/new-study-reveals-how-political-bias-conditions-the-impact-of-conspiracy-thinking/",
-      "featured": false
-    },
-    {
-      "id": "3226c82e2a89",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Cognition might emerge from embodied “grip” with the world rather than abstract mental processes",
-      "titleKo": "인지는 추상적인 정신 과정이 아닌 세계와의 구체적인 '접촉'으로부터 나타날 수 있다",
-      "summary": "A new paper challenges the traditional idea that the brain is simply a computer. Instead, it argues that human cognition and personality are built on embodied perception, relying on our ability to maintain a \"grip\" on reality.",
-      "aiSummary": "This research challenges the traditional view that human cognition arises from the brain's abstract information processing, comparable to a computer. Instead, researchers argue that human thinking is fundamentally rooted in embodied perception—our ability to interact with the world through our bodies. The core concept is that our capacity to maintain a \"grip\" on reality through physical interaction is central to cognitive development. The conventional brain-as-computer model overlooked the interaction between the body and environment, but this study emphasizes that bodily experience forms the foundation of abstract thinking capabilities. This offers significant implications for paradigm shifts in cognitive psychology, neuroscience, and developmental psychology. However, the study's specific experimental data and detailed methodology information are not provided, indicating a need for further validation through additional research.\n\n##",
-      "aiSummaryKo": "이 연구는 인간의 인지와 성격이 뇌의 추상적 정보처리 과정에서 비롯된다는 전통적 관점에 도전합니다. 연구진은 인간의 사고가 실제로는 신체를 통해 세계와 상호작용하는 '실체적 인식(embodied perception)'에 기반하고 있다고 주장합니다. 이 연구의 핵심은 우리가 현실에 대한 '파악력(grip)'을 유지하는 능력이 인지 발달의 중심이라는 개념입니다. 전통적 뇌-컴퓨터 모델은 신체와 환경과의 상호작용을 간과했으나, 이번 연구는 신체적 경험이 추상적 사고 능력의 기초를 이룬다고 강조합니다. 이는 인지심리학, 신경과학, 발달심리학의 패러다임을 전환할 수 있는 중요한 시사점을 제공합니다. 다만, 구체적인 실험 수치와 참가자 규모 등의 방법론 세부사항이 제시되지 않아 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research challenges the traditional view that human cognition arises from the brain's abstract information processing, comparable to a computer. Instead, researchers argue that human thinking is fundamentally rooted in embodied perception—our ability to interact with the world through our bodies. The core concept is that our capacity to maintain a \"grip\" on reality through physical interaction is central to cognitive development. The conventional brain-as-computer model overlooked the interaction between the body and environment, but this study emphasizes that bodily experience forms the foundation of abstract thinking capabilities. This offers significant implications for paradigm shifts in cognitive psychology, neuroscience, and developmental psychology. However, the study's specific experimental data and detailed methodology information are not provided, indicating a need for further validation through additional research.\n\n##",
-      "keyPoints": [
-        "신체-환경 상호작용 중심 / Body-environment interaction is central to cognition rather than abstract brain processing",
-        "추상적 사고의 물리적 기초 / Physical embodied experience forms the foundation of abstract thought and personality",
-        "뇌-컴퓨터 모델의 한계 / Traditional brain-as-computer model overlooked crucial embodied and environmental factors",
-        "다학문 패러다임 전환 / Potential paradigm shift across cognitive psychology, neuroscience, and developmental psychology disciplines"
-      ],
-      "url": "https://www.psypost.org/cognition-might-emerge-from-embodied-grip-with-the-world-rather-than-abstract-mental-processes/",
-      "featured": false
-    },
-    {
-      "id": "6db3e5d64c60",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Men and women show different relative cognitive strengths across their lifespans",
-      "titleKo": "남성과 여성은 생애 전반에 걸쳐 서로 다른 상대적 인지 능력을 보인다",
-      "summary": "Moving beyond average test scores reveals distinct cognitive patterns: men consistently show a personal strength in math, while women show one in reading. A large new study finds these trends remain stable across 30 countries and all ages.",
-      "aiSummary": "This large-scale international study investigated how cognitive abilities differ between men and women across the lifespan. Researchers assessed mathematical and reading abilities in participants of various ages across 30 countries. The key finding is that men consistently show a relative personal strength in mathematics, while women demonstrate a relative strength in reading. These patterns remained stable across all 30 countries and all age groups examined. By moving beyond simple average score comparisons to analyze individual relative strengths, the research provides a more nuanced understanding of gender-related cognitive characteristics. However, the study may not fully account for external factors such as cultural differences and educational environments that could influence these patterns.\n\n##",
-      "aiSummaryKo": "이 연구는 남녀의 인지능력이 전 생애에 걸쳐 어떻게 다른지 조사한 대규모 국제 연구입니다. 연구팀은 30개국의 다양한 연령대 참가자들을 대상으로 수학과 읽기 능력을 측정했습니다. 핵심 결과는 남성은 수학에서 상대적으로 더 강한 개인적 강점을 보이는 반면, 여성은 읽기에서 더 강한 강점을 나타낸다는 것입니다. 이러한 패턴은 30개국 전역과 모든 연령대에서 일관되게 나타났습니다. 이 연구는 단순한 평균 점수 비교를 넘어 개인의 상대적 강점을 분석함으로써 성별 인지 특성을 더 정확히 이해했습니다. 다만, 문화적 차이나 교육 환경 등 외부 요인이 이러한 패턴에 미치는 영향을 완전히 통제하지 못했을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This large-scale international study investigated how cognitive abilities differ between men and women across the lifespan. Researchers assessed mathematical and reading abilities in participants of various ages across 30 countries. The key finding is that men consistently show a relative personal strength in mathematics, while women demonstrate a relative strength in reading. These patterns remained stable across all 30 countries and all age groups examined. By moving beyond simple average score comparisons to analyze individual relative strengths, the research provides a more nuanced understanding of gender-related cognitive characteristics. However, the study may not fully account for external factors such as cultural differences and educational environments that could influence these patterns.\n\n##",
-      "keyPoints": [
-        "**성별 인지 강점의 차이** / Gender-specific cognitive strengths: 남성은 수학, 여성은 읽기에서 상대적 강점을 보임 / Men show relative strength in math while women show relative strength in reading",
-        "**광범위한 지역적 일관성** / Cross-cultural consistency: 이 패턴이 30개국 전역에서 일관되게 관찰됨 / The pattern remains consistent across all 30 countries studied",
-        "**전 생애에 걸친 안정성** / Stability across lifespan: 남녀의 인지 강점 차이가 모든 연령대에서 변하지 않음 / The cognitive differences between genders remain stable across all age groups",
-        "**평균 점수 분석의 한계 극복** / Beyond average scores: 개인의 상대적 강점을 분석하여 더 정확한 인지 패턴 파악 / Moving beyond average test scores reveals more nuanced individual cognitive patterns"
-      ],
-      "url": "https://www.psypost.org/men-and-women-show-different-relative-cognitive-strengths-across-their-lifespans/",
-      "featured": false
-    },
-    {
-      "id": "c1d7d1e43287",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "5일 전 / 5d ago",
-      "title": "What It’s Like to Be…an Aerospace Engineer",
-      "titleKo": "이것이 무엇인가를…항공우주 공학자가 되는 것이 어떤지\n\n또는\n\n항공우주 공학자가 된다는 것은 어떤 일인가\n\n또는\n\n항공우주 공학자의 삶은 어떨까",
-      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
-      "aiSummary": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, presented as part of the \"What It's Like to Be...\" podcast series hosted by bestselling author Dan Heath. The episode explores the real-world experience of landing the Perseverance rover on Mars through in-depth conversation methodology. Key topics discussed include the \"Seven Minutes of Terror\" concept during Mars landing, sterile room work procedures to minimize microbial counts, and navigating hundreds of engineering trade-offs. The significance of this content lies in making complex space exploration projects accessible to general audiences by humanizing the scientists behind these missions. The interview also addresses scientific questions such as evidence of past life on Mars. By connecting behavioral science perspectives, this format illuminates the decision-making processes and psychological experiences of actual space exploration professionals.",
-      "aiSummaryKo": "본 기사는 NASA 제트 추진 연구소의 항공우주 공학자 스와티 모한과의 인터뷰를 통해 화성 탐사선 퍼서비어런스 로버 착륙 과정을 소개하는 팟캐스트 에피소드입니다. 저명한 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 시리즈의 일환으로, 항공우주 공학자의 실제 업무 경험을 탐구합니다. 연구 방법으로는 심층 인터뷰를 통해 화성 착륙의 \"7분의 공포(Seven Minutes of Terror)\" 개념, 미생물 제어를 위한 무균실 작업, 그리고 수백 가지 공학적 타협안을 다룹니다. 이 콘텐츠의 의의는 복잡한 우주 탐사 프로젝트의 뒷면에서 일하는 과학자들의 경험을 일반인이 이해하기 쉽게 전달한다는 점입니다. 또한 화성에서의 과거 생명 흔적 발견 가능성 같은 과학적 질문도 함께 탐구합니다. 본 인터뷰는 행동 과학 분야와 연결되어 실제 전문가들의 의사결정 과정과 심리 상태를 조명합니다.",
-      "aiSummaryEn": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, presented as part of the \"What It's Like to Be...\" podcast series hosted by bestselling author Dan Heath. The episode explores the real-world experience of landing the Perseverance rover on Mars through in-depth conversation methodology. Key topics discussed include the \"Seven Minutes of Terror\" concept during Mars landing, sterile room work procedures to minimize microbial counts, and navigating hundreds of engineering trade-offs. The significance of this content lies in making complex space exploration projects accessible to general audiences by humanizing the scientists behind these missions. The interview also addresses scientific questions such as evidence of past life on Mars. By connecting behavioral science perspectives, this format illuminates the decision-making processes and psychological experiences of actual space exploration professionals.",
-      "keyPoints": [
-        "화성 착륙의 \"7분의 공포\" / \"Seven Minutes of Terror\" during Mars landing represents the critical autonomous descent phase where communication delay makes real-time control impossible",
-        "미생물 제어의 중요성 / Microbial contamination control in clean rooms is essential to prevent Earth-based organisms from compromising Mars exploration objectives",
-        "공학적 타협 과정 / Hundreds of engineering trade-offs demonstrate the complex problem-solving required in aerospace projects with multiple competing constraints",
-        "과학과 인간 경험의 연결 / Behavioral science approach reveals how professional expertise intersects with human psychology and decision-making under high-stakes conditions"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
-      "featured": false
-    },
-    {
-      "id": "e6acb17d3a3f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "The surprising reason you’re so productive one day and not the next",
-      "titleKo": "어떤 날은 생산성이 높고 어떤 날은 낮은 놀라운 이유",
-      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
-      "aiSummary": "This research explains why the same person experiences varying levels of productivity on different days. Researchers discovered that cognitive sharpness on any given day directly influences the size of goals people set and their ability to follow through. Specifically, being in a mentally \"sharp\" state can yield up to 40 additional minutes of productivity gains. However, attempting to maintain this heightened mental state through excessive effort for extended periods produces a reverse effect. The significance of this study lies in demonstrating that productivity fluctuations are based on physical and cognitive conditions rather than mere psychological states. The main limitation is that the research may be based on short-term observations and might not adequately account for individual differences and external environmental factors.\n\n##",
-      "aiSummaryKo": "이 연구는 같은 사람도 어떤 날은 생산성이 높고 어떤 날은 낮은 이유를 과학적으로 규명했습니다. 연구진은 특정 날의 인지능력(정신적 민첩성)이 사람들이 설정하는 목표의 크기와 목표 달성률에 직접적인 영향을 미친다는 것을 발견했습니다. 구체적으로, 정신적으로 \"예리한 상태\"에 있는 날에는 최대 40분의 추가 생산성 이득을 얻을 수 있습니다. 그러나 이러한 높은 정신상태를 무리해서 너무 오래 유지하려고 하면 오히려 역효과가 발생한다는 점이 중요합니다. 이 연구의 의의는 생산성 변동이 단순한 심리 상태가 아닌 신체적·인지적 조건에 기반한다는 것을 증명했다는 데 있습니다. 다만, 이 연구는 단기 관찰에 기초했을 가능성이 있으며, 개인차와 외부 환경요인의 영향을 충분히 고려하지 못했을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This research explains why the same person experiences varying levels of productivity on different days. Researchers discovered that cognitive sharpness on any given day directly influences the size of goals people set and their ability to follow through. Specifically, being in a mentally \"sharp\" state can yield up to 40 additional minutes of productivity gains. However, attempting to maintain this heightened mental state through excessive effort for extended periods produces a reverse effect. The significance of this study lies in demonstrating that productivity fluctuations are based on physical and cognitive conditions rather than mere psychological states. The main limitation is that the research may be based on short-term observations and might not adequately account for individual differences and external environmental factors.\n\n##",
-      "keyPoints": [
-        "**인지능력의 일일 변동성** / Daily fluctuation in cognitive performance directly affects goal-setting behavior and task completion rates",
-        "**40분의 생산성 이득** / Sharp mental state can yield up to 40 extra minutes of productivity per day",
-        "**역U자 관계** / Pushing too hard to maintain peak mental state for too long reverses the positive effect (inverted U-shaped relationship)",
-        "**생산성 변동의 객관적 근거** / Productivity variations are scientifically grounded in cognitive and physical conditions, not merely psychological perception"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "featured": false
-    },
-    {
-      "id": "1feb820f194c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
-      "titleKo": "평생 이것을 실천하면 알츠하이머병 위험을 38% 감소시킬 수 있습니다",
-      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
-      "aiSummary": "This research investigated how lifelong mental stimulation through activities like reading, writing, and learning new skills can reduce Alzheimer's disease risk. The study analyzed the cumulative effects of cognitive enrichment activities across participants' lifespans. The findings revealed that people with the highest levels of cognitive enrichment experienced a 38% reduction in Alzheimer's risk compared to those with the lowest levels, and their symptom onset was delayed by several years. The research demonstrates how cognitive reserve—the brain's resilience built through mental engagement—protects against neurodegenerative disease. The significance lies in showing that simple, accessible lifestyle habits can have long-term protective effects on brain health. However, as an observational study, it cannot definitively establish causality, and further clinical trials are needed for confirmation.\n\n##",
-      "aiSummaryKo": "이 연구는 평생에 걸친 정신적 자극이 알츠하이머병 위험을 얼마나 줄일 수 있는지 조사했습니다. 연구팀은 독서, 글쓰기, 새로운 기술 학습 등 인지적 풍요로움 활동의 누적 효과를 분석했습니다. 연구 결과, 인지적 풍요로움이 가장 높은 집단은 가장 낮은 집단에 비해 알츠하이머병 발병 위험이 38% 감소했으며, 증상 발현이 수년 늦게 나타났습니다. 이는 뇌 인지 예비력(cognitive reserve)이 신경퇴행성 질환으로부터 보호하는 메커니즘을 보여줍니다. 이 연구의 의의는 누구나 실천할 수 있는 간단한 생활습관이 뇌 건강에 장기적 영향을 미칠 수 있다는 점입니다. 다만 이 연구는 관찰 연구(observational study)로, 인과관계를 완전히 증명하지는 못한 한계가 있으며, 추가적인 임상 시험이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research investigated how lifelong mental stimulation through activities like reading, writing, and learning new skills can reduce Alzheimer's disease risk. The study analyzed the cumulative effects of cognitive enrichment activities across participants' lifespans. The findings revealed that people with the highest levels of cognitive enrichment experienced a 38% reduction in Alzheimer's risk compared to those with the lowest levels, and their symptom onset was delayed by several years. The research demonstrates how cognitive reserve—the brain's resilience built through mental engagement—protects against neurodegenerative disease. The significance lies in showing that simple, accessible lifestyle habits can have long-term protective effects on brain health. However, as an observational study, it cannot definitively establish causality, and further clinical trials are needed for confirmation.\n\n##",
-      "keyPoints": [
-        "**38% 위험 감소** / 38% Risk Reduction: 인지적 풍요로움이 높은 사람들이 알츠하이머병 발병 위험을 38% 낮출 수 있음",
-        "**증상 발현 지연** / Delayed Symptom Onset: 높은 인지 자극을 받은 그룹에서 질병 증상이 수년 늦게 나타남",
-        "**예방 가능한 활동** / Preventable Activities: 독서, 글쓰기, 새로운 기술 학습 등 누구나 실천 가능한 일상적 활동들",
-        "**뇌 인지 예비력** / Cognitive Reserve: 평생의 정신적 자극이 뇌의 신경보호 메커니즘을 강화하는 메커니즘"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
-      "featured": false
-    },
-    {
-      "id": "47e4fd455638",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "4시간 전 / 4h ago",
-      "title": "Early exposure to forever chemicals linked to altered brain genes and impulsive behavior in rats",
-      "titleKo": "",
-      "summary": "A new study on rats reveals that early-life exposure to the forever chemical PFOS alters gene expression in key brain regions. These genetic shifts are linked to impaired cognitive performance and highly impulsive decision-making in adulthood.",
-      "aiSummary": "A recent study on rats reveals that early-life exposure to \"forever chemicals,\" specifically PFOS (perfluorooctane sulfonate), alters gene expression in key brain regions. Researchers examined the brains of rats exposed to PFOS during early development and found significantly different gene expression patterns compared to unexposed controls. These genetic changes were associated with impaired cognitive performance and highly impulsive decision-making when the rats reached adulthood. This research provides important evidence that environmental pollutants can affect brain development and subsequently cause behavioral problems. However, the study is limited to an animal model, and it remains unclear whether humans experience identical effects. Additionally, further research is needed to clarify the specific mechanisms of genetic changes and their potential reversibility.\n\n##",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study on rats reveals that early-life exposure to \"forever chemicals,\" specifically PFOS (perfluorooctane sulfonate), alters gene expression in key brain regions. Researchers examined the brains of rats exposed to PFOS during early development and found significantly different gene expression patterns compared to unexposed controls. These genetic changes were associated with impaired cognitive performance and highly impulsive decision-making when the rats reached adulthood. This research provides important evidence that environmental pollutants can affect brain development and subsequently cause behavioral problems. However, the study is limited to an animal model, and it remains unclear whether humans experience identical effects. Additionally, further research is needed to clarify the specific mechanisms of genetic changes and their potential reversibility.\n\n##",
-      "keyPoints": [
-        "**유아기 노출의 영향**: PFOS 초기 노출이 뇌의 유전자 발현을 변경하여 장기적 신경계 손상 유발 / Early PFOS exposure alters brain gene expression, causing long-term neurological damage",
-        "**인지 및 행동 변화**: 성인 쥐에서 인지능력 저하와 충동적 의사결정 증가 확인 / Impaired cognitive performance and increased impulsive decision-making observed in adult rats",
-        "**환경 독성물질 위험성**: \"영구화학물질\"은 환경에서 분해되지 않아 생체 축적 가능성 높음 / \"Forever chemicals\" do not decompose in the environment, posing significant bioaccumulation risks",
-        "**인간 적용의 제한성**: 동물 실험 결과이므로 인간에 대한 직접적 영향 규명 및 추가 연구 필요 / Results from animal models require further human studies to establish direct health implications"
-      ],
-      "url": "https://www.psypost.org/early-exposure-to-forever-chemicals-linked-to-altered-brain-genes-and-impulsive-behavior-in-rats/",
-      "featured": false
-    },
-    {
-      "id": "bf15e3d72db0",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "6시간 전 / 6h ago",
-      "title": "Soft brain implants outperform rigid silicon in long-term safety study",
-      "titleKo": "부드러운 뇌 임플란트, 장기 안전성 연구에서 딱딱한 실리콘 능가",
-      "summary": "To build brain implants that last for years without causing damage, scientists say material matters more than size. Soft, flexible devices better match the brain's natural movements, preserving healthy cells and maintaining clearer electrical signals.",
-      "aiSummary": "Brain implants are essential for treating neurological conditions like Parkinson's disease and epilepsy, but rigid silicon devices have caused damage to brain tissue over time. This study compared the long-term safety of flexible soft implants against traditional rigid silicon implants to determine which material better preserves brain health. The results demonstrated that soft, flexible devices adapt better to the brain's natural movements, causing minimal damage to healthy neurons while maintaining clearer electrical signal recording and transmission. This finding establishes material composition as a more critical factor than device size for long-term implant success. The research indicates a promising new direction for developing safe brain implants that can function reliably for years. Study limitations include the need for additional animal trials and human clinical testing before practical clinical applications.",
-      "aiSummaryKo": "뇌 임플란트 기술은 파킨슨병, 뇌전증 등 신경계 질환 치료에 필수적이지만, 경직된 실리콘 장치가 뇌 조직에 손상을 일으키는 문제가 있었습니다. 이 연구는 장기간 안전성을 검증하기 위해 유연한 소재의 임플란트와 경직된 실리콘 임플란트의 성능을 비교했습니다. 결과적으로 부드럽고 유연한 임플란트가 경직된 제품보다 뇌의 자연스러운 움직임에 더 잘 적응하며, 건강한 신경세포 손상을 최소화하고 전기 신호 전달을 더 명확하게 유지했습니다. 이 발견은 수년간 지속되는 안전한 뇌 임플란트 개발의 새로운 방향을 제시합니다. 연구의 제한점은 실제 임상 적용을 위한 추가 동물 실험과 인간 대상 임상시험이 필요하다는 점입니다.",
-      "aiSummaryEn": "Brain implants are essential for treating neurological conditions like Parkinson's disease and epilepsy, but rigid silicon devices have caused damage to brain tissue over time. This study compared the long-term safety of flexible soft implants against traditional rigid silicon implants to determine which material better preserves brain health. The results demonstrated that soft, flexible devices adapt better to the brain's natural movements, causing minimal damage to healthy neurons while maintaining clearer electrical signal recording and transmission. This finding establishes material composition as a more critical factor than device size for long-term implant success. The research indicates a promising new direction for developing safe brain implants that can function reliably for years. Study limitations include the need for additional animal trials and human clinical testing before practical clinical applications.",
-      "keyPoints": [
-        "**유연한 소재의 우월성** / Superiority of Flexible Materials",
-        "**신경세포 보호** / Neuronal Protection",
-        "**신호 품질 향상** / Improved Signal Quality",
-        "**소재의 중요성** / Material Matters Most"
-      ],
-      "url": "https://www.psypost.org/soft-brain-implants-outperform-rigid-silicon-in-long-term-safety-study/",
-      "featured": false
-    },
-    {
-      "id": "cc1c661e4050",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "Scientists say this type of olive oil could boost brain power",
-      "titleKo": "과학자들, 이 종류의 올리브유가 뇌 기능을 향상시킬 수 있다고 주장",
-      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
-      "aiSummary": "Extra virgin olive oil may protect brain health by working through the gut microbiome, according to recent research findings. A two-year longitudinal study demonstrated that individuals consuming extra virgin olive oil showed significantly better cognitive performance and greater diversity of gut bacteria compared to those using refined olive oil. Researchers successfully identified specific microbial species associated with these cognitive benefits. These findings suggest that selecting high-quality olive oil could be a simple and practical strategy for supporting brain health during aging. However, the study's limitations include the need for larger sample sizes, longer follow-up periods, and greater participant diversity to validate the findings. Additionally, olive oil alone cannot guarantee complete brain health protection, necessitating a comprehensive approach to cognitive wellness.\n\n##",
-      "aiSummaryKo": "엑스트라 버진 올리브유가 장내 미생물을 통해 뇌 건강을 보호할 수 있다는 연구 결과가 발표되었다. 연구진은 2년간의 장기 추적 연구를 통해 엑스트라 버진 올리브유를 섭취한 사람들이 정제 올리브유를 사용한 사람들에 비해 더 우수한 인지 기능과 더 다양한 장내 박테리아를 보유하고 있음을 발견했다. 특히 연구팀은 이러한 긍정적 효과와 연관된 특정 미생물들을 특정할 수 있었다. 이 발견은 고품질 올리브유 선택이 노화에 따른 뇌 건강 유지를 위한 간단하고 효과적인 방법이 될 수 있음을 시사한다. 다만 연구 규모나 추적 기간, 참가자의 다양성 등에 대한 추가 검증이 필요하며, 올리브유만으로는 뇌 건강을 완전히 보장할 수 없다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "Extra virgin olive oil may protect brain health by working through the gut microbiome, according to recent research findings. A two-year longitudinal study demonstrated that individuals consuming extra virgin olive oil showed significantly better cognitive performance and greater diversity of gut bacteria compared to those using refined olive oil. Researchers successfully identified specific microbial species associated with these cognitive benefits. These findings suggest that selecting high-quality olive oil could be a simple and practical strategy for supporting brain health during aging. However, the study's limitations include the need for larger sample sizes, longer follow-up periods, and greater participant diversity to validate the findings. Additionally, olive oil alone cannot guarantee complete brain health protection, necessitating a comprehensive approach to cognitive wellness.\n\n##",
-      "keyPoints": [
-        "**장-뇌 축 연결** / Gut-Brain Axis Connection",
-        "**2년 장기 연구의 증거** / Evidence from 2-Year Study",
-        "**특정 미생물 규명** / Identification of Specific Microbes",
-        "**예방적 식이 중재의 가능성** / Potential for Preventive Dietary Intervention"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
-      "featured": false
-    },
-    {
-      "id": "2381594e39b4",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Disclosing autism to AI chatbots prompts overly cautious, stereotypical advice",
-      "titleKo": "AI 챗봇에 자폐증 공개 시 과도하게 신중하고 고정관념에 찬 조언 제시",
-      "summary": "Large language models often tell autistic users to avoid socializing and romance. While some users appreciate the protective tone, others feel the technology relies on restrictive stereotypes that limit their personal growth.",
-      "aiSummary": "This study investigated what advice AI chatbots provide when users disclose autism diagnoses. Researchers conducted experiments by disclosing autism to large language models (such as ChatGPT and Claude) and requesting advice on everyday situations. The results revealed that AI chatbots provided overly cautious, stereotype-laden advice recommending autistic users avoid socializing and romantic relationships. While some users appreciated the protective tone, most felt that AI relied on restrictive stereotypes that limited personal growth and opportunities. This highlights that AI technology fails to understand the diverse needs and capabilities of marginalized groups. The findings suggest that future AI model development requires more balanced and nuanced understanding of neurodiversity, including autism, to provide more empowering guidance.\n\n##",
-      "aiSummaryKo": "본 연구는 자폐증이 있다고 밝힌 사용자들이 AI 챗봇으로부터 어떤 조언을 받는지 조사했다. 연구팀은 대규모 언어모델(ChatGPT, Claude 등)에 자폐증 진단을 공개하고 일상적인 상황에 대한 조언을 요청하는 방식으로 실험을 진행했다. 결과적으로 AI 챗봇들은 자폐증 사용자에게 사교활동이나 연애를 피하도록 권장하는 과도하게 보수적이고 고정관념에 찬 조언을 제공했다. 일부 사용자들은 이러한 보호적 태도를 긍정적으로 평가했지만, 대다수는 AI가 제한적인 고정관념에 의존하면서 개인의 성장과 기회를 제한한다고 느꼈다. 이는 AI 기술이 소수집단의 다양한 필요와 능력을 제대로 이해하지 못함을 시사한다. 향후 AI 모델 개선 시 자폐증을 포함한 신경다양성에 대한 더 균형잡힌 이해가 필요하다.\n\n##",
-      "aiSummaryEn": "This study investigated what advice AI chatbots provide when users disclose autism diagnoses. Researchers conducted experiments by disclosing autism to large language models (such as ChatGPT and Claude) and requesting advice on everyday situations. The results revealed that AI chatbots provided overly cautious, stereotype-laden advice recommending autistic users avoid socializing and romantic relationships. While some users appreciated the protective tone, most felt that AI relied on restrictive stereotypes that limited personal growth and opportunities. This highlights that AI technology fails to understand the diverse needs and capabilities of marginalized groups. The findings suggest that future AI model development requires more balanced and nuanced understanding of neurodiversity, including autism, to provide more empowering guidance.\n\n##",
-      "keyPoints": [
-        "**AI의 고정관념 재생산** / AI Perpetuates Harmful Stereotypes",
-        "**사회적 고립 권장의 위험성** / Risk of Recommending Social Isolation",
-        "**신경다양성에 대한 AI의 이해 부족** / Lack of Neurodiversity Understanding in AI",
-        "**기술 윤리와 포용성의 중요성** / Importance of AI Ethics and Inclusivity"
-      ],
-      "url": "https://www.psypost.org/disclosing-autism-to-ai-chatbots-prompts-overly-cautious-stereotypical-advice/",
-      "featured": false
-    },
-    {
-      "id": "a8cfc822c106",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Can choking during sex cause brain damage? Emerging evidence points to hidden neurological risks",
-      "titleKo": "성관계 중 질식이 뇌 손상을 일으킬 수 있을까? 숨겨진 신경학적 위험성을 지적하는 새로운 증거",
-      "summary": "Can consensual choking cause brain damage? Scientists are finding evidence of neuroinflammation and altered brain connectivity linked to the practice.",
-      "aiSummary": "Recent neuroscience research has found evidence that consensual choking during sex may cause hidden brain damage. The study examined adult participants using brain imaging techniques (fMRI and cerebrospinal fluid analysis) to measure inflammation levels and neural connectivity changes in those with experience of choking practices. Results showed increased brain inflammation markers and abnormal connectivity between brain regions in participants with choking experience. This suggests that oxygen deprivation can trigger neural cell damage and inflammatory responses. The significance of this research lies in being the first to empirically demonstrate neurological risks of a sexual practice commonly considered safe. However, limitations include small sample sizes, unclear reversibility of damage, insufficient understanding of long-term effects, and need for research on individual differences.\n\n##",
-      "aiSummaryKo": "최근 신경과학 연구들이 성관계 중 질식 행위(목 압박)가 뇌에 숨겨진 손상을 야기할 수 있다는 증거를 발견했습니다. 이 연구는 성인 참가자들을 대상으로 뇌 영상 검사(fMRI, 뇌척수액 분석)를 통해 질식 행위 경험자들의 뇌 염증 수준과 신경 연결성 변화를 측정했습니다. 결과적으로 질식 행위 경험자들에게서 뇌의 염증 표지자 증가와 뇌 영역 간 비정상적인 연결성이 관찰되었습니다. 이는 산소 결핍이 신경세포 손상과 염증 반응을 유발할 수 있음을 시사합니다. 본 연구의 의의는 일반적으로 안전하다고 여겨진 성적 행위의 신경학적 위험성을 처음으로 실증적으로 증명했다는 점입니다. 다만 연구 규모가 제한적이고, 손상의 가역성 여부, 장기적 영향, 개인차에 대한 추가 연구가 필요한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "Recent neuroscience research has found evidence that consensual choking during sex may cause hidden brain damage. The study examined adult participants using brain imaging techniques (fMRI and cerebrospinal fluid analysis) to measure inflammation levels and neural connectivity changes in those with experience of choking practices. Results showed increased brain inflammation markers and abnormal connectivity between brain regions in participants with choking experience. This suggests that oxygen deprivation can trigger neural cell damage and inflammatory responses. The significance of this research lies in being the first to empirically demonstrate neurological risks of a sexual practice commonly considered safe. However, limitations include small sample sizes, unclear reversibility of damage, insufficient understanding of long-term effects, and need for research on individual differences.\n\n##",
-      "keyPoints": [
-        "**뇌 염증 증거**: 질식 행위 경험자에게서 신경염증 표지자 증가 발견 / Evidence of neuroinflammation markers increased in those with choking experience",
-        "**뇌 연결성 변화**: 뇌 영역 간 비정상적인 연결성 패턴 관찰 / Abnormal connectivity patterns between brain regions observed",
-        "**산소 결핍의 신경학적 영향**: 혈류 제한으로 인한 뇌세포 손상 가능성 / Potential brain cell damage from oxygen deprivation",
-        "**추가 연구 필요**: 손상의 가역성, 장기 영향, 안전 기준 개발 필요 / Reversibility assessment, long-term effects, and safety guidelines required"
-      ],
-      "url": "https://www.psypost.org/can-choking-during-sex-cause-brain-damage-emerging-evidence-points-to-hidden-neurological-risks/",
-      "featured": false
-    },
-    {
-      "id": "b79ced2bcb48",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "The decline of hypergamy: How a surge in university degrees changed marriage in the US and France",
-      "titleKo": "하이퍼가미의 쇠퇴: 대학 학위 증가가 미국과 프랑스의 결혼을 어떻게 변화시켰는가",
-      "summary": "As more women earn college degrees, marriage patterns are transforming across the globe. New demographic research disentangles whether a reversing educational gender gap or an overall boom in university attendance is driving these modern relationship shifts.",
-      "aiSummary": "As more women attain college degrees, marriage patterns are undergoing significant transformation in the United States and France. The traditional phenomenon of \"hypergamy\"—where women marry men of higher educational status—is declining as women increasingly surpass men in educational attainment. Demographic researchers conducted studies to determine whether this shift results from the reversal of the educational gender gap or from an overall increase in university attendance across the population. The research findings indicate that the reversal of the male educational advantage is the primary driver of changing marriage patterns in these societies. These insights are crucial for understanding modern gender dynamics and their social implications. However, the study may have limitations in controlling for other variables such as cultural contexts and economic factors that could influence marriage patterns.\n\n##",
-      "aiSummaryKo": "대학 학위를 취득하는 여성이 증가하면서 미국과 프랑스의 결혼 패턴이 급격히 변하고 있다. 전통적으로 남성이 더 높은 교육 수준을 가지면서 유리한 결혼 시장을 형성했던 '상방혼(hypergamy)' 현상이 쇠퇴하고 있다는 것이 연구의 핵심이다. 인구통계학자들은 이러한 변화가 여성의 교육 수준이 남성을 추월했기 때문인지, 아니면 전반적인 대학 진학률 증가 때문인지를 구분하는 연구를 수행했다. 연구 결과에 따르면 교육 수준의 성별 격차 역전이 결혼 패턴 변화의 주요 원인으로 작용하고 있다. 이 연구는 현대 사회의 젠더 역학 변화를 이해하는 데 중요한 통찰력을 제공한다. 다만 문화적 맥락이나 경제적 요인 등 다른 변수들의 영향을 충분히 통제하지 못했을 수 있다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "As more women attain college degrees, marriage patterns are undergoing significant transformation in the United States and France. The traditional phenomenon of \"hypergamy\"—where women marry men of higher educational status—is declining as women increasingly surpass men in educational attainment. Demographic researchers conducted studies to determine whether this shift results from the reversal of the educational gender gap or from an overall increase in university attendance across the population. The research findings indicate that the reversal of the male educational advantage is the primary driver of changing marriage patterns in these societies. These insights are crucial for understanding modern gender dynamics and their social implications. However, the study may have limitations in controlling for other variables such as cultural contexts and economic factors that could influence marriage patterns.\n\n##",
-      "keyPoints": [
-        "**상방혼의 쇠퇴** / Decline of Hypergamy: 전통적으로 여성이 교육수준이 높은 남성과 결혼하는 패턴이 약화되고 있음 / The traditional pattern where women marry men with higher education levels is weakening",
-        "**여성 교육 수준의 상승** / Rising Female Educational Attainment: 미국과 프랑스에서 여성의 대학 학위 취득률이 남성을 추월 / Women's university degree attainment has surpassed men's in the US and France",
-        "**성별 교육 격차의 역전** / Reversal of Gender Education Gap: 교육 수준의 성별 격차 역전이 결혼 패턴 변화의 주요 요인 / The reversal of the educational gender gap is a major driver of changes in marriage patterns",
-        "**글로벌 결혼 시장의 변화** / Global Marriage Market Transformation: 여성의 사회경제적 지위 향상이 배우자 선택 기준과 결혼 동향에 광범위한 영향을 미침 / Improved socioeconomic status of women is having widespread impact on spousal selection criteria and marriage trends"
-      ],
-      "url": "https://www.psypost.org/how-a-boom-in-college-degrees-rewrote-the-rules-of-modern-romance/",
       "featured": false
     }
   ]
