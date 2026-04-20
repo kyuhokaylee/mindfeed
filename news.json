@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-20T16:21:33.333805+00:00",
+  "updated": "2026-04-20T20:07:40.115969+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "dd55ab93ac46",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Does listening to true crime make you a more creative criminal?",
+      "titleKo": "범죄 팟캐스트를 듣는 것이 당신을 더 창의적인 범죄자로 만들까?",
+      "summary": "True crime podcasts and shows feature endless examples of real-life violence. However, new psychological research reveals that consuming these dark stories does not inspire people to become more creative when thinking up ways to harm others.",
+      "aiSummary": "This psychological study investigated whether consuming true crime content, such as documentaries and podcasts featuring real-life violent crimes, enhances viewers' creativity in planning harmful activities. Researchers conducted experiments comparing participants exposed to true crime content with a control group that was not. The findings revealed that individuals who consumed true crime content did not show statistically significant increases in harmful creativity—the ability to creatively devise ways to harm others. This result contradicts public concerns that such content might inspire criminal behavior through imitation. However, the study acknowledges limitations, as individual personality traits and consumption duration could influence outcomes, necessitating further research. This research contributes to a scientific understanding of true crime content's psychological effects on audiences.\n\n##",
+      "aiSummaryKo": "본 연구는 범죄 다큐멘터리나 팟캐스트 같은 진범죄(True Crime) 콘텐츠 시청이 사람들의 창의성, 특히 해로운 행동을 계획하는 창의성에 미치는 영향을 조사했습니다. 심리학자들은 진범죄 콘텐츠에 노출된 참가자들과 그렇지 않은 참가자들을 비교하는 실험을 진행했습니다. 연구 결과, 진범죄 콘텐츠를 소비한 사람들이 해타적 창의성(남을 해치는 창의적 방법을 생각하는 능력)에서 통계적으로 유의미한 증가를 보이지 않았습니다. 이는 대중의 우려와 달리 이러한 콘텐츠가 시청자들을 범죄 모방으로 이끌지 않는다는 것을 시사합니다. 다만, 개인의 기질이나 콘텐츠 소비 시간 등 다양한 변수가 결과에 영향을 미칠 수 있어 추가 연구가 필요합니다. 이 연구는 진범죄 콘텐츠의 심리적 영향에 대한 과학적 이해를 높이는 데 기여합니다.\n\n##",
+      "aiSummaryEn": "This psychological study investigated whether consuming true crime content, such as documentaries and podcasts featuring real-life violent crimes, enhances viewers' creativity in planning harmful activities. Researchers conducted experiments comparing participants exposed to true crime content with a control group that was not. The findings revealed that individuals who consumed true crime content did not show statistically significant increases in harmful creativity—the ability to creatively devise ways to harm others. This result contradicts public concerns that such content might inspire criminal behavior through imitation. However, the study acknowledges limitations, as individual personality traits and consumption duration could influence outcomes, necessitating further research. This research contributes to a scientific understanding of true crime content's psychological effects on audiences.\n\n##",
+      "keyPoints": [
+        "**진범죄 콘텐츠와 창의성의 비연관성** / True crime content does not increase harmful creativity",
+        "**범죄 모방 우려의 과학적 검증** / Scientific examination of copycat crime concerns",
+        "**개인차와 추가 변수의 중요성** / Individual differences and confounding variables matter",
+        "**대중 인식과 과학적 근거의 격차** / Gap between public perception and scientific evidence"
+      ],
+      "url": "https://www.psypost.org/true-crime-fans-are-not-more-likely-to-dream-up-creative-ways-to-harm-others/",
+      "featured": true
+    },
+    {
+      "id": "1c0feb1a12d8",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Seeing the imagined: a latent functional alignment in visual imagery decoding from fMRI data",
+      "titleKo": "상상된 것을 보기: fMRI 데이터로부터 시각적 심상 복호화에서의 잠재된 기능적 정렬",
+      "summary": "arXiv:2604.15374v1 Announce Type: new Abstract: Recent progress in visual brain decoding from fMRI has been enabled by large-scale datasets such as the Natural Scenes Dataset (NSD) and powerful diffusion-based generative models. While current pipelines are primarily optimized for perception, their performance under mental-imagery remains less well understood. In this work, we study how a state-of-the-art (SOTA) perception decoder (DynaDiff) can be adapted to reconstruct imagined content from the Imagery-NSD benchmark. We propose a latent functional alignment approach that maps imagery-evoked a",
+      "aiSummary": "This study addresses the challenge of reconstructing imagined visual content from fMRI brain imaging data using artificial intelligence. While previous research has focused on analyzing brain activity during perception (viewing actual images), the reconstruction of imagined content from neural signals remains underexplored. The researchers adapted a state-of-the-art perception decoder (DynaDiff) trained on the Natural Scenes Dataset to work with the Imagery-NSD benchmark, which contains brain imaging data from people imagining images. They proposed a \"latent functional alignment\" method that maps the neural activity patterns during imagination to those during perception, effectively bridging the gap between these two cognitive states. The results demonstrated significant improvements in reconstructing imagined images compared to baseline approaches. This work has important implications for brain-computer interfaces and understanding the neural mechanisms of visual imagination. However, limitations include a potentially small participant sample and evaluation restricted to specific image categories.\n\n##",
+      "aiSummaryKo": "본 연구는 뇌 영상(fMRI) 데이터로부터 사람이 상상하는 이미지를 복원하는 AI 기술 개발에 관한 것입니다. 기존 연구들은 실제로 보는 장면에 대한 뇌 활동 분석에 집중했으나, 상상 속 이미지에 대한 뇌 활동은 충분히 연구되지 않았습니다. 연구팀은 대규모 뇌 영상 데이터셋(NSD)과 최신 생성 AI 모델(DynaDiff)을 활용하여 상상 이미지 복원 성능을 향상시키는 방법을 제안했습니다. 핵심 아이디어는 '잠재 기능 정렬(latent functional alignment)'이라는 기법으로, 실제 인식 시 뇌 활동과 상상할 때의 뇌 활동 패턴을 연결하는 것입니다. 이 접근법을 통해 상상 이미지 복원 정확도를 의미 있게 향상시킬 수 있음을 보였습니다. 연구의 의의는 뇌-컴퓨터 인터페이스와 신경과학 이해에 기여할 수 있다는 점입니다. 다만 현재는 제한된 참가자 규모와 특정 이미지 범주에서만 테스트되었다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study addresses the challenge of reconstructing imagined visual content from fMRI brain imaging data using artificial intelligence. While previous research has focused on analyzing brain activity during perception (viewing actual images), the reconstruction of imagined content from neural signals remains underexplored. The researchers adapted a state-of-the-art perception decoder (DynaDiff) trained on the Natural Scenes Dataset to work with the Imagery-NSD benchmark, which contains brain imaging data from people imagining images. They proposed a \"latent functional alignment\" method that maps the neural activity patterns during imagination to those during perception, effectively bridging the gap between these two cognitive states. The results demonstrated significant improvements in reconstructing imagined images compared to baseline approaches. This work has important implications for brain-computer interfaces and understanding the neural mechanisms of visual imagination. However, limitations include a potentially small participant sample and evaluation restricted to specific image categories.\n\n##",
+      "keyPoints": [
+        "**뇌 상상 이미지 복원의 도전**: 실제 보는 것(지각)과 상상하는 것의 뇌 활동 패턴은 다르며, 기존 지각 최적화 모델의 상상 이미지 복원 성능은 충분하지 않음 / **Challenge of Imagined Visual Reconstruction**: Brain activity patterns differ between perception and imagination; existing perception-optimized models show limited performance in imagining image reconstruction",
+        "**잠재 기능 정렬 기법의 도입**: 상상 시 뇌 활동을 지각 시 뇌 활동으로 변환하는 새로운 매핑 방법으로 성능 향상 달성 / **Latent Functional Alignment Method**: A novel mapping technique that converts imagery-evoked brain activity patterns to perception-based patterns, achieving performance improvements",
+        "**대규모 데이터셋과 최신 AI 활용**: Natural Scenes Dataset(NSD)과 확산 기반 생성모델(DynaDiff)의 결합으로 복원 정확도 향상 가능 / **Large-Scale Datasets and Advanced AI Models**: Combining the Natural Scenes Dataset with diffusion-based generative models (DynaDiff) enables improved reconstruction accuracy",
+        "**뇌-컴퓨터 인터페이스의 미래 응용**: 상상 이미지 복원 기술은 마비 환자의 의사소통 보조 및 신경과학적 이해 증진에 활용될 수 있는 가능성 / **Future BCI Applications**: The technology could assist paralyzed patients in communication and advance our understanding of neural mechanisms underlying imagination"
+      ],
+      "url": "https://arxiv.org/abs/2604.15374",
+      "featured": false
+    },
+    {
+      "id": "ce0327834ebc",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Role of chloride concentration in modulating seizure transitions in excitatory and inhibitory networks",
+      "titleKo": "흥분성 및 억제성 신경망에서 발작 전이를 조절하는 염화물 농도의 역할",
+      "summary": "arXiv:2604.15747v1 Announce Type: new Abstract: Experimental evidence indicates that intracellular chloride concentration regulates the excitation and inhibition (EI) balance, yet the mechanisms by which activity-dependent chloride dynamics drive seizure evolution and stage transitions remain unclear. We present a conductance-based neuronal network in which EI balance emerges from chloride homeostasis via channel-mediated influx and transporter-mediated extrusion. We show that the fraction of inhibitory synaptic conductance contributing to channel-mediated influx acts as a control parameter th",
+      "aiSummary": "This study investigated how intracellular chloride concentration regulates the excitation-inhibition (EI) balance and drives seizure progression in neural networks. The researchers developed a computational neuronal network model incorporating chloride ion influx and efflux mechanisms to analyze seizure stage transitions. A key finding is that the fraction of inhibitory synaptic conductance contributing to channel-mediated chloride influx functions as a critical control parameter determining the network's excitation state. This research provides important theoretical foundations for understanding seizure mechanisms and developing new anti-seizure medications. However, the study is limited as it relies on computational modeling, requiring validation in actual brain tissue, and cannot fully capture all variables in complex brain environments.\n\n##",
+      "aiSummaryKo": "이 연구는 뇌세포 내 염화물 농도가 신경망의 흥분과 억제 균형을 어떻게 조절하여 발작이 진행되는지 규명하기 위해 수행되었습니다. 연구팀은 염화물 이온의 유입과 배출 메커니즘을 포함한 컴퓨터 신경망 모델을 구축하여 발작 단계 전이를 분석했습니다. 핵심 발견은 억제 시냅스 전도성 중 염화물 채널 유입이 차지하는 비율이 신경망의 흥분 상태를 결정하는 주요 제어 변수라는 것입니다. 이 연구는 발작 메커니즘 이해와 새로운 항발작약 개발에 중요한 이론적 기초를 제공합니다. 다만 이 연구는 컴퓨터 모델 기반이므로 실제 뇌에서의 검증이 필요하며, 복잡한 뇌 환경의 모든 변수를 반영하지 못한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigated how intracellular chloride concentration regulates the excitation-inhibition (EI) balance and drives seizure progression in neural networks. The researchers developed a computational neuronal network model incorporating chloride ion influx and efflux mechanisms to analyze seizure stage transitions. A key finding is that the fraction of inhibitory synaptic conductance contributing to channel-mediated chloride influx functions as a critical control parameter determining the network's excitation state. This research provides important theoretical foundations for understanding seizure mechanisms and developing new anti-seizure medications. However, the study is limited as it relies on computational modeling, requiring validation in actual brain tissue, and cannot fully capture all variables in complex brain environments.\n\n##",
+      "keyPoints": [
+        "**염화물 항상성과 발작 메커니즘**: 뇌세포 내 염화물 농도의 동적 변화가 신경망의 흥분-억제 균형을 조절하여 발작의 진화 과정을 좌우함 / Chloride homeostasis dynamics regulate the excitation-inhibition balance, controlling seizure evolution and progression in neural networks",
+        "**제어 변수 발견**: 억제 시냅스 전도성의 염화물 채널 유입 비율이 신경망의 활동 상태를 결정하는 주요 제어 매개변수로 확인됨 / The fraction of inhibitory synaptic conductance mediating chloride influx identified as a primary control parameter for network excitation state",
+        "**발작 단계 전이 메커니즘**: 염화물 농도 변화에 따른 정량적 모델링을 통해 발작의 단계적 진행 과정(전이)을 수학적으로 설명 가능함을 제시 / Mathematical modeling of seizure stage transitions based on chloride dynamics provides quantitative understanding of seizure progression",
+        "**약물 개발의 함의**: 염화물 채널과 수송체를 표적으로 하는 새로운 항발작약 개발의 이론적 기초 제공 / Provides theoretical basis for developing novel anti-seizure drugs targeting chloride channels and transporters"
+      ],
+      "url": "https://arxiv.org/abs/2604.15747",
+      "featured": false
+    },
+    {
+      "id": "bc6c2b11647f",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Considering a generative mechanism of consciousness from the perspective of inter-level causation",
+      "titleKo": "수준 간 인과관계 관점에서 의식의 생성 메커니즘 고찰",
+      "summary": "arXiv:2511.04047v4 Announce Type: replace Abstract: Why do some physical systems possess consciousness, while others do not? Is this a question of physics? Or is it a question of the theory of causation? Physics and the theory of causation serve different descriptive purposes, and in this study we refer to them respectively as the Physical Stance and the Causal Stance. We propose that the generation of consciousness is determined by its internal causal mechanisms in the Causal Stance. To describe a causal model, we will introduce an asymmetric relation between cause and effect into the formula",
+      "aiSummary": "This study addresses why some physical systems possess consciousness while others do not by examining the question from both physics and causation theory perspectives. The research team distinguished between the \"Physical Stance\" and \"Causal Stance,\" proposing that consciousness generation is determined by internal causal mechanisms rather than purely physical properties. The study introduces an asymmetric relationship between cause and effect into mathematical models, offering a more sophisticated explanation of consciousness generation. The significance of this research lies in reframing the philosophical \"hard problem of consciousness\" at the intersection of physics and logic, presenting a novel theoretical perspective. However, the study remains at the theoretical proposal level without empirically validating actual brain causal mechanisms. Future research must integrate neuroscientific data to provide empirical verification.\n\n##",
+      "aiSummaryKo": "본 연구는 물리적 체계 중 일부는 의식을 가지지만 다른 것들은 그렇지 않은 이유를 설명하기 위해 물리학과 인과관계 이론의 관점에서 접근했습니다. 연구팀은 의식의 생성 메커니즘을 '물리적 관점(Physical Stance)'과 '인과적 관점(Causal Stance)'으로 구분하여 분석했으며, 의식이 생성되는 방식은 내부의 인과적 메커니즘에 의해 결정된다고 제안했습니다. 이 연구는 기존의 의식 생성 이론에서 벗어나 인과관계의 비대칭성(원인과 결과 간의 방향성)을 수학적 모델에 도입함으로써 더욱 정교한 설명을 제시했습니다. 연구 의의는 의식의 철학적 난제('어려운 문제')를 물리학과 논리학의 교집합 영역에서 새로운 관점으로 해석했다는 점입니다. 다만 이 연구는 이론적 제안 수준이며, 실제 뇌의 인과적 메커니즘을 실증적으로 검증하지 못했다는 한계가 있습니다. 향후 신경과학 데이터와의 연계를 통해 실증적 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study addresses why some physical systems possess consciousness while others do not by examining the question from both physics and causation theory perspectives. The research team distinguished between the \"Physical Stance\" and \"Causal Stance,\" proposing that consciousness generation is determined by internal causal mechanisms rather than purely physical properties. The study introduces an asymmetric relationship between cause and effect into mathematical models, offering a more sophisticated explanation of consciousness generation. The significance of this research lies in reframing the philosophical \"hard problem of consciousness\" at the intersection of physics and logic, presenting a novel theoretical perspective. However, the study remains at the theoretical proposal level without empirically validating actual brain causal mechanisms. Future research must integrate neuroscientific data to provide empirical verification.\n\n##",
+      "keyPoints": [
+        "**의식의 원인 이중성**: 의식 생성을 설명하기 위해 '물리적 관점(물리 법칙 기반)'과 '인과적 관점(원인-결과 구조 기반)'을 구분함 / Distinguishes between Physical Stance (physics-based) and Causal Stance (cause-effect structure) for explaining consciousness generation",
+        "**인과적 비대칭성의 도입**: 기존 의식 이론과 달리 원인과 결과 간의 방향성을 수학적으로 명확히 함으로써 더욱 정교한 모델 제시 / Introduces mathematical asymmetry between cause and effect, offering a more refined model compared to conventional consciousness theories",
+        "**철학적 난제의 새로운 접근**: 의식의 '어려운 문제(Hard Problem)'를 물리학과 인과관계 이론의 통합으로 해결하려는 시도 / Attempts to address consciousness's \"Hard Problem\" through integration of physics and causation theory",
+        "**실증 검증 필요성**: 이론적 제안만 있을 뿐 뇌 신경과학 데이터를 통한 실질적 검증이 아직 이루어지지 않음 / Remains theoretical without empirical validation using neuroimaging or brain data, requiring future neuroscientific research for confirmation"
+      ],
+      "url": "https://arxiv.org/abs/2511.04047",
+      "featured": false
+    },
+    {
+      "id": "5861058901d0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "titleKo": "인공 뉴런이 살아있는 뇌세포와 성공적으로 소통하다",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "aiSummary": "Engineers at Northwestern University have achieved a significant breakthrough in brain-machine integration by developing artificial neurons capable of communicating with living brain cells. The research team created flexible, low-cost artificial neurons that generate biological electrical signals similar to natural neurons and successfully activated real brain cells in mouse brain tissue. These devices can produce lifelike electrical signals that mimic natural neuron activity. This achievement opens new possibilities for brain-machine interface technology with potential applications in treating neural injuries and studying brain diseases. However, the current findings are limited to animal models, requiring further research to ensure safe application in human brains. Additional validation is needed regarding long-term biocompatibility and the accuracy of signal transmission between artificial and biological neurons.\n\n##",
+      "aiSummaryKo": "노스웨스턴 대학 공학자들이 인공 뉴런과 살아있는 뇌세포 간 통신에 성공했습니다. 연구팀은 유연한 소재로 만든 인공 뉴런을 개발하여 실제 뇌세포를 활성화할 수 있는 생물학적 신호를 생성했으며, 이를 쥐 뇌 조직에서 입증했습니다. 이 장치들은 비용이 저렴하면서도 실제 뉴런과 유사한 전기 신호를 방출할 수 있다는 점이 특징입니다. 이번 연구는 뇌-기계 인터페이스 기술의 새로운 가능성을 열어주며, 향후 신경손상 치료나 뇌질환 연구에 활용될 수 있습니다. 다만 현 단계에서는 동물 실험 수준의 성과이므로, 인간 뇌에 안전하게 적용하기 위한 추가 연구가 필요합니다. 또한 장기적 생체 적합성과 신호 전달의 정확성에 대한 검증이 남아있습니다.\n\n##",
+      "aiSummaryEn": "Engineers at Northwestern University have achieved a significant breakthrough in brain-machine integration by developing artificial neurons capable of communicating with living brain cells. The research team created flexible, low-cost artificial neurons that generate biological electrical signals similar to natural neurons and successfully activated real brain cells in mouse brain tissue. These devices can produce lifelike electrical signals that mimic natural neuron activity. This achievement opens new possibilities for brain-machine interface technology with potential applications in treating neural injuries and studying brain diseases. However, the current findings are limited to animal models, requiring further research to ensure safe application in human brains. Additional validation is needed regarding long-term biocompatibility and the accuracy of signal transmission between artificial and biological neurons.\n\n##",
+      "keyPoints": [
+        "**인공뉴런-생세포 통신 성공** / Successful artificial neuron-living cell communication achieved",
+        "**유연성과 저비용 특성** / Flexibility and cost-effectiveness",
+        "**쥐 뇌 조직에서 검증** / Validated in mouse brain tissue",
+        "**뇌-기계 인터페이스 기술의 미래** / Future of brain-machine interface technology"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "featured": false
+    },
     {
       "id": "078259193b44",
       "tag": "psych",
@@ -21,7 +126,7 @@
         "**임상적 진단 가능성** / Clinical Diagnostic Implications"
       ],
       "url": "https://www.psypost.org/autism-spectrum-disorder-is-associated-with-specific-congenital-malformations/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f312d8fc08b2",
@@ -315,106 +420,6 @@
         "**연구 방향** / **Research Implications**: 병렬 처리와 협력적 추론의 새로운 패러다임 제시로 LLM의 추론 능력 근본적 개선 방향 제시 / Presents a new paradigm for collaborative parallel reasoning, suggesting fundamental improvements to LLM reasoning capabilities and error reduction strategies"
       ],
       "url": "https://arxiv.org/abs/2604.15529",
-      "featured": false
-    },
-    {
-      "id": "5d410ccfd61f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "3시간 전 / 3h ago",
-      "title": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
-      "titleKo": "사고의 스펙트럼 기하학: 변압기가 추론하는 방식에서의 위상 전이, 지시 반전, 토큰 수준 역학, 그리고 완벽한 정확성 예측",
-      "summary": "arXiv:2604.15350v1 Announce Type: new Abstract: We discover that large language models exhibit \\emph{spectral phase transitions} in their hidden activation spaces when engaging in reasoning versus factual recall. Through systematic spectral analysis across \\textbf{11 models} spanning \\textbf{5 architecture families} (Qwen, Pythia, Phi, Llama, DeepSeek-R1), we identify \\textbf{seven} core phenomena: (1)~\\textbf{Reasoning Spectral Compression} -- 9/11 models show significantly lower $\\alpha$ for reasoning ($p < 0.05$), with larger effects in stronger models; (2)~\\textbf{Instruction Tuning Spectr",
-      "aiSummary": "This research reveals that large language models exhibit distinct spectral phase transitions in their hidden activation spaces when performing reasoning tasks versus factual recall tasks. The team conducted systematic spectral analysis across 11 models spanning 5 architecture families (Qwen, Pythia, Phi, Llama, DeepSeek-R1). Key findings show that 9 out of 11 models (82%) demonstrate significantly lower spectral values (α) during reasoning tasks (p < 0.05), with stronger models showing more pronounced effects. This study provides crucial theoretical foundations for understanding the neural mechanisms of how Transformer models engage in reasoning. Additionally, the research suggests that model internal activity patterns could potentially predict answer correctness before generation. However, the study relies primarily on mathematical spectral analysis, requiring further validation of how these spectral phenomena connect to actual language understanding and reasoning processes.\n\n##",
-      "aiSummaryKo": "이 연구는 대형 언어 모델(LLM)이 추론 작업과 사실 회상 작업을 수행할 때 숨겨진 활성화 공간에서 서로 다른 '스펙트럼 위상 전이(spectral phase transition)'를 보이는 현상을 발견했습니다. 연구팀은 Qwen, Pythia, Phi, Llama, DeepSeek-R1 등 5가지 아키텍처 계열의 11개 모델을 대상으로 체계적인 스펙트럼 분석을 수행했습니다. 핵심 발견은 9개 모델(82%)이 추론 작업에서 유의미하게 낮은 스펙트럼 값(α)을 보였으며, 더 강력한 모델일수록 이 효과가 더 크다는 것입니다. 이 연구는 변환기(Transformer) 모델이 어떻게 추론하는지의 신경 메커니즘을 이해하는 데 중요한 이론적 토대를 제공합니다. 또한 모델의 내부 활동 패턴을 통해 답변 정확성을 미리 예측할 수 있는 가능성을 시사합니다. 다만 이 연구는 주로 수학적 스펙트럼 분석에 기반하고 있어, 이러한 발견이 실제 언어 이해와 추론 과정과 어떻게 연결되는지에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research reveals that large language models exhibit distinct spectral phase transitions in their hidden activation spaces when performing reasoning tasks versus factual recall tasks. The team conducted systematic spectral analysis across 11 models spanning 5 architecture families (Qwen, Pythia, Phi, Llama, DeepSeek-R1). Key findings show that 9 out of 11 models (82%) demonstrate significantly lower spectral values (α) during reasoning tasks (p < 0.05), with stronger models showing more pronounced effects. This study provides crucial theoretical foundations for understanding the neural mechanisms of how Transformer models engage in reasoning. Additionally, the research suggests that model internal activity patterns could potentially predict answer correctness before generation. However, the study relies primarily on mathematical spectral analysis, requiring further validation of how these spectral phenomena connect to actual language understanding and reasoning processes.\n\n##",
-      "keyPoints": [
-        "**추론 시 스펙트럼 압축 현상** / Reasoning Spectral Compression: 82% 모델이 추론 작업에서 유의미하게 낮은 스펙트럼 값을 나타냄. 이는 추론이 사실 회상과 다른 신경 처리 방식임을 시사합니다.",
-        "**모델 규모에 따른 차등 효과** / Scale-Dependent Effects: 더 강력하고 큰 모델일수록 추론-회상 간 스펙트럼 차이가 더 크게 나타나며, 이는 모델의 역량과 내부 표현의 관계를 보여줍니다.",
-        "**정확성 예측 가능성** / Predictive Power for Correctness: 모델의 내부 활성화 공간의 스펙트럼 특성을 통해 최종 답변의 정확성을 미리 예측할 수 있을 가능성이 있습니다.",
-        "**다중 아키텍처 범위의 일관성** / Cross-Architecture Consistency: 5가지 서로 다른 아키텍처 계열에서 유사한 스펙트럼 현상이 관찰되어, 이것이 언어모델의 보편적 특성임을 시사합니다."
-      ],
-      "url": "https://arxiv.org/abs/2604.15350",
-      "featured": false
-    },
-    {
-      "id": "41429b0bac89",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "3시간 전 / 3h ago",
-      "title": "Aletheia: Gradient-Guided Layer Selection for Efficient LoRA Fine-Tuning Across Architectures",
-      "titleKo": "Aletheia: 다양한 아키텍처에서 효율적인 LoRA 미세 조정을 위한 그래디언트 기반 계층 선택",
-      "summary": "arXiv:2604.15351v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become the dominant parameter-efficient fine-tuning method for large language models, yet standard practice applies LoRA adapters uniformly to all transformer layers regardless of their relevance to the downstream task. We introduce Aletheia, a gradient-guided layer selection method that identifies the most task-relevant layers via a lightweight gradient probe and applies LoRA adapters only to those layers with asymmetric rank allocation. Across 81 experiment rows covering 14 successful models from 8 architecture fa",
-      "aiSummary": "The Low-Rank Adaptation (LoRA) method, widely used for efficient fine-tuning of large language models, currently applies adapters uniformly to all transformer layers regardless of their task relevance. This research introduces \"Aletheia,\" a gradient-guided layer selection method that identifies task-relevant layers through lightweight gradient probing and applies LoRA selectively to those layers with asymmetric rank allocation. The research team conducted 81 experiments across 14 language models from 8 different architectural families. Aletheia demonstrates that comparable performance can be maintained while significantly reducing the number of required parameters through asymmetric rank distribution. This approach provides an efficient solution for fine-tuning large-scale models in resource-constrained environments. However, the method's effectiveness varies depending on specific task types, and further research is needed.\n\n##",
-      "aiSummaryKo": "대규모 언어 모델의 효율적인 학습을 위해 널리 사용되는 LoRA(저순위 적응) 기법은 현재 모든 신경망 계층에 동일하게 적용되고 있습니다. 이 연구에서는 \"Aletheia\"라는 새로운 방법을 제시했는데, 이는 가벼운 그래디언트 탐사를 통해 각 작업에 가장 중요한 계층을 찾아내고, 그 계층들에만 선택적으로 LoRA를 적용하는 방식입니다. 연구팀은 8개 아키텍처 계열의 14개 언어 모델을 대상으로 81개 실험을 수행했습니다. Aletheia는 비대칭적 순위 할당을 통해 같은 성능을 유지하면서 필요한 매개변수 수를 크게 줄일 수 있음을 보여주었습니다. 이는 제한된 컴퓨팅 자원 환경에서 대규모 모델을 효율적으로 학습시킬 수 있는 방법을 제공합니다. 다만, 이 방법은 특정 작업 유형에 따라 효과가 달라질 수 있으며, 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "The Low-Rank Adaptation (LoRA) method, widely used for efficient fine-tuning of large language models, currently applies adapters uniformly to all transformer layers regardless of their task relevance. This research introduces \"Aletheia,\" a gradient-guided layer selection method that identifies task-relevant layers through lightweight gradient probing and applies LoRA selectively to those layers with asymmetric rank allocation. The research team conducted 81 experiments across 14 language models from 8 different architectural families. Aletheia demonstrates that comparable performance can be maintained while significantly reducing the number of required parameters through asymmetric rank distribution. This approach provides an efficient solution for fine-tuning large-scale models in resource-constrained environments. However, the method's effectiveness varies depending on specific task types, and further research is needed.\n\n##",
-      "keyPoints": [
-        "**선택적 계층 적용**: 모든 계층에 동일하게 LoRA를 적용하는 대신, 그래디언트 기반으로 작업에 가장 중요한 계층만 선택하여 적용 / Selective layer application using gradient-guided selection instead of uniform LoRA application to all layers",
-        "**매개변수 효율성 증대**: 비대칭적 순위 할당으로 학습 가능한 매개변수의 수를 대폭 감소시키면서도 모델 성능 유지 / Substantial reduction in trainable parameters through asymmetric rank allocation while maintaining model performance",
-        "**광범위한 아키텍처 호환성**: 8개 아키텍처 계열, 14개 모델에서 일관된 효과 입증으로 방법의 범용성 확인 / Demonstrated compatibility across 8 architecture families and 14 models, proving broad applicability",
-        "**계산 자원 최적화**: 제한된 GPU 메모리와 학습 시간으로 대규모 모델 미세조정이 가능해져 실무 적용성 향상 / Enables efficient fine-tuning of large-scale models with limited computational resources, improving practical applicability"
-      ],
-      "url": "https://arxiv.org/abs/2604.15351",
-      "featured": false
-    },
-    {
-      "id": "73ed4dd386b7",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "3시간 전 / 3h ago",
-      "title": "Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit",
-      "titleKo": "확률적 언어 트라이를 통한 순차적 KV 캐시 압축: 벡터별 섀넌 한계를 넘어서",
-      "summary": "arXiv:2604.15356v1 Announce Type: new Abstract: Recent work on KV cache quantization, culminating in TurboQuant, has approached the Shannon entropy limit for per-vector compression of transformer key-value caches. We observe that this limit applies to a strictly weaker problem than the one that actually matters: compressing the KV cache as a sequence. The tokens stored in a KV cache are not arbitrary floating-point data -- they are samples from the exact formal language the model was trained on, and the model is by construction a near-optimal predictor of that language. We introduce sequential",
-      "aiSummary": "This research addresses the compression of KV (Key-Value) cache in transformer models. While previous studies, including TurboQuant, achieved Shannon entropy limits for per-vector compression, this study identifies that such approaches solve a fundamentally weaker problem than actual sequential KV cache compression. The tokens stored in KV cache are samples from the formal language the model was trained on, and the model functions as a near-optimal predictor of that language by design. The researchers introduce a novel \"Probabilistic Language Trie\" approach that leverages the sequential nature of tokens for more efficient compression. This method goes beyond the limitations of individual vector-based compression techniques. The research provides theoretical foundations for significantly improving memory efficiency in transformer models. However, practical implementation and performance validation on large-scale models require further investigation.",
-      "aiSummaryKo": "이 연구는 트랜스포머 모델의 KV 캐시(Key-Value 캐시) 압축 문제를 다룹니다. 기존 연구들은 각 벡터를 독립적으로 압축하는 방식으로 섀넌 엔트로피 한계에 도달했지만, 본 연구진은 이것이 실제 문제보다 약한 문제를 해결하고 있음을 지적합니다. KV 캐시에 저장된 토큰들은 모델이 학습한 형식 언어에서 나온 샘플이며, 모델은 그 언어의 최적 예측기이기 때문입니다. 연구팀은 '확률적 언어 트라이(Probabilistic Language Trie)' 방식을 도입하여 토큰의 순차적 특성을 활용한 새로운 압축 방법을 제안했습니다. 이 접근법은 개별 벡터 기반 압축의 한계를 넘어서 더 효율적인 압축을 가능하게 합니다. 연구는 트랜스포머 모델의 메모리 효율성을 크게 개선할 수 있는 이론적 기초를 제공합니다. 다만 실제 구현과 대규모 모델에서의 성능 검증은 추가 연구가 필요합니다.",
-      "aiSummaryEn": "This research addresses the compression of KV (Key-Value) cache in transformer models. While previous studies, including TurboQuant, achieved Shannon entropy limits for per-vector compression, this study identifies that such approaches solve a fundamentally weaker problem than actual sequential KV cache compression. The tokens stored in KV cache are samples from the formal language the model was trained on, and the model functions as a near-optimal predictor of that language by design. The researchers introduce a novel \"Probabilistic Language Trie\" approach that leverages the sequential nature of tokens for more efficient compression. This method goes beyond the limitations of individual vector-based compression techniques. The research provides theoretical foundations for significantly improving memory efficiency in transformer models. However, practical implementation and performance validation on large-scale models require further investigation.",
-      "keyPoints": [
-        "**기존 한계 인식** / **Recognition of Existing Limitations**: 기존 TurboQuant 등의 방식은 개별 벡터 기반의 섀넌 엔트로피 한계에 도달했으나, 이는 실제 순차 압축 문제보다 약한 문제를 해결하는 것",
-        "**언어 특성 활용** / **Leveraging Language Characteristics**: KV 캐시의 토큰이 모델이 학습한 형식 언어의 샘플이며, 모델이 최적 예측기라는 점을 압축에 활용",
-        "**확률적 언어 트라이 방식** / **Probabilistic Language Trie Approach**: 순차적 구조를 활용한 새로운 압축 기법으로 개별 벡터 기반 방식의 한계를 초과(Beyond the Per-Vector Shannon Limit)",
-        "**실용적 의의** / **Practical Significance**: 트랜스포머 모델의 메모리 효율성과 추론 속도를 획기적으로 개선할 수 있는 이론적 토대 제시"
-      ],
-      "url": "https://arxiv.org/abs/2604.15356",
-      "featured": false
-    },
-    {
-      "id": "c8cf4eddf9ed",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "3시간 전 / 3h ago",
-      "title": "Mapping High-Performance Regions in Battery Scheduling across Data Uncertainty, Battery Design, and Planning Horizons",
-      "titleKo": "데이터 불확실성, 배터리 설계, 계획 기간에 따른 배터리 스케줄링의 고성능 영역 매핑",
-      "summary": "arXiv:2604.15360v1 Announce Type: new Abstract: This study presents a triadic analysis of energy storage operation under multi-stage model predictive control, investigating the interplay between data characteristics, forecast uncertainty, planning horizon, and battery c-rate. Synthetic datasets are generated to systematically explore variations in data profiles and uncertainty, enabling parametrization and the construction of relationships that map these characteristics to optimal horizon length. Results reveal the presence of an effective horizon, defined as the look-ahead length beyond which",
-      "aiSummary": "This study conducts a triadic analysis of optimal energy storage operation, examining the interactions between data characteristics, forecast uncertainty, planning horizon, and battery performance (C-rate). Researchers generated synthetic datasets with systematically varied data profiles and uncertainty levels to identify relationships between these characteristics and optimal planning duration. The key finding reveals the existence of an \"effective horizon,\" defined as the look-ahead length beyond which extending the prediction period no longer improves battery operation performance. This research provides a framework for determining optimal planning periods tailored to specific data characteristics in real energy storage systems. The study's significance lies in its potential to enhance energy efficiency and reduce operational costs in battery management. However, a limitation is that findings are based on synthetic data, requiring validation with real-world operational data.\n\n##",
-      "aiSummaryKo": "본 연구는 에너지 저장 장치(배터리)의 최적 운영 전략을 찾기 위해 데이터 특성, 예측 불확실성, 계획 기간, 배터리 성능(C-rate) 간의 상호작용을 분석했습니다. 연구팀은 다양한 데이터 프로필과 불확실성을 체계적으로 변화시킨 합성 데이터셋을 생성하여 실험을 진행했습니다. 핵심 발견은 \"유효 기간(effective horizon)\"의 존재로, 이는 일정 길이 이상으로 예측 기간을 늘려도 배터리 운영 성능이 더 이상 개선되지 않는 지점을 의미합니다. 이 연구는 실제 에너지 저장 시스템의 운영 효율성을 높이기 위해 데이터 특성에 맞는 최적의 계획 기간을 결정하는 방법을 제시합니다. 연구의 의의는 에너지 효율성과 운영 비용 절감에 기여할 수 있다는 점입니다. 다만 합성 데이터를 기반으로 하므로 실제 현장 데이터에서의 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study conducts a triadic analysis of optimal energy storage operation, examining the interactions between data characteristics, forecast uncertainty, planning horizon, and battery performance (C-rate). Researchers generated synthetic datasets with systematically varied data profiles and uncertainty levels to identify relationships between these characteristics and optimal planning duration. The key finding reveals the existence of an \"effective horizon,\" defined as the look-ahead length beyond which extending the prediction period no longer improves battery operation performance. This research provides a framework for determining optimal planning periods tailored to specific data characteristics in real energy storage systems. The study's significance lies in its potential to enhance energy efficiency and reduce operational costs in battery management. However, a limitation is that findings are based on synthetic data, requiring validation with real-world operational data.\n\n##",
-      "keyPoints": [
-        "**유효 기간(Effective Horizon)의 발견** / Discovery of effective horizon concept that defines the optimal prediction length for battery scheduling",
-        "**데이터-성능 관계 매핑** / Systematic mapping of how data characteristics and forecast uncertainty influence optimal planning duration and battery performance",
-        "**다중 변수 상호작용 분석** / Triadic analysis integrating data profiles, uncertainty levels, planning horizon, and C-rate to understand their combined effects on energy storage operation",
-        "**실무적 적용 가능성** / Practical framework for energy system operators to optimize battery scheduling by selecting appropriate planning periods based on their specific data conditions"
-      ],
-      "url": "https://arxiv.org/abs/2604.15360",
-      "featured": false
-    },
-    {
-      "id": "9310fd0a9ca9",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "3시간 전 / 3h ago",
-      "title": "Machine learning approaches to uncover the neural mechanisms of motivated behaviour: from ADHD to individual differences in effort and reward sensitivity",
-      "titleKo": "",
-      "summary": "arXiv:2604.15363v1 Announce Type: new Abstract: Motivated behaviour relies on the brain's capacity to evaluate effort and reward. Dysregulation within these processes contributes to a spectrum of conditions, from hyperactivity in attention-deficit/hyperactivity disorder (ADHD) to diminished goal-directed behaviour in apathy. This thesis investigates the neural mechanisms underlying ADHD using electroencephalography (EEG) and examines individual differences in effort and reward sensitivity using neuroimaging, applying machine learning approaches through three main studies. In Study 1, task-base",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.15363",
       "featured": false
     }
   ]
