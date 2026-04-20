@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-20T07:30:53.817062+00:00",
+  "updated": "2026-04-20T11:58:40.458065+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "049b639d74bc",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "People remain “blissfully ignorant” of AI use in everyday messages, new research shows",
+      "titleKo": "새로운 연구에 따르면 사람들은 일상 메시지에서의 AI 사용에 대해 \"행복한 무지\" 상태에 머물러 있다",
+      "summary": "Even frequent users of artificial intelligence fail to spot AI-written messages in their daily lives. New research shows that without an explicit warning, people naturally assume texts, emails, and dating profiles are written by humans.",
+      "aiSummary": "A recent study reveals that people often fail to identify AI-generated messages in their daily lives, even when they frequently use artificial intelligence themselves. The research demonstrates that without explicit warnings, people naturally assume texts, emails, and dating profiles are written by humans. Researchers presented participants with various messages and asked them to identify which ones were AI-generated, finding that participants' ability to detect AI content was significantly lower than expected. Interestingly, when people were informed beforehand that messages could be AI-written, their detection rates improved substantially. This research emphasizes the importance of AI transparency and trust, highlighting the need for clear disclosure when AI tools are used. However, further studies are needed to examine long-term effects in real-world environments and the impact across diverse types of AI-generated content.\n\n##",
+      "aiSummaryKo": "최근 연구는 일상생활에서 사람들이 AI로 작성된 메시지를 얼마나 쉽게 간과하는지를 보여줍니다. 이 연구는 AI를 자주 사용하는 사람들도 명시적인 경고 없이는 문자, 이메일, 데이팅 프로필 등이 인간이 작성한 것이라고 자연스럽게 가정한다는 사실을 밝혔습니다. 연구팀은 참가자들에게 다양한 메시지를 제시하고 어느 것이 AI로 작성되었는지 식별하도록 요청했으며, 결과는 참가자들의 AI 감지 능력이 예상보다 매우 낮음을 시사합니다. 흥미롭게도, 사람들이 메시지가 AI로 작성되었다는 사실을 미리 알려주면 감지율이 향상되었습니다. 이 연구는 AI 투명성과 신뢰의 중요성을 강조하며, 향후 AI 도구 사용에 대한 명확한 표시의 필요성을 제기합니다. 그러나 실제 일상 환경에서의 장기적 효과와 다양한 AI 생성 콘텐츠에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "A recent study reveals that people often fail to identify AI-generated messages in their daily lives, even when they frequently use artificial intelligence themselves. The research demonstrates that without explicit warnings, people naturally assume texts, emails, and dating profiles are written by humans. Researchers presented participants with various messages and asked them to identify which ones were AI-generated, finding that participants' ability to detect AI content was significantly lower than expected. Interestingly, when people were informed beforehand that messages could be AI-written, their detection rates improved substantially. This research emphasizes the importance of AI transparency and trust, highlighting the need for clear disclosure when AI tools are used. However, further studies are needed to examine long-term effects in real-world environments and the impact across diverse types of AI-generated content.\n\n##",
+      "keyPoints": [
+        "**무의식적 수용**: AI 사용자도 명시적 경고 없이는 AI 메시지를 인간이 작성한 것으로 자동 인식 / Users automatically assume AI messages are human-written without explicit warnings",
+        "**감지 능력 부족**: 사람들의 AI 생성 콘텐츠 식별 능력이 예상보다 매우 낮음 / People's ability to identify AI-generated content is significantly lower than expected",
+        "**경고의 효과**: 사전 정보 제공 시 메시지 감지율이 향상됨 / Detection rates improve substantially when people are informed beforehand that messages may be AI-generated",
+        "**투명성의 필요성**: AI 도구 사용 여부에 대한 명확한 공시 필요성 강조 및 신뢰 구축의 중요성 / Explicit disclosure of AI use is crucial for building trust and ensuring transparency in human-AI communication"
+      ],
+      "url": "https://www.psypost.org/people-remain-blissfully-ignorant-of-ai-use-in-everyday-messages-new-research-shows/",
+      "featured": true
+    },
+    {
+      "id": "c1d7d1e43287",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "7일 전 / 7d ago",
+      "title": "What It’s Like to Be…an Aerospace Engineer",
+      "titleKo": "우주항공공학자의 삶은 어떨까?",
+      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummary": "This article presents an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, exploring the landing process of the Mars Perseverance rover and the nature of space exploration work. As part of bestselling author Dan Heath's podcast series \"What It's Like to Be...\", the episode provides insights into the real-world experiences and challenges faced by aerospace engineers. The content addresses the \"seven minutes of terror,\" referring to the communication delay during Mars landing, the stringent working conditions in clean rooms to minimize microbial contamination, and the hundreds of engineering trade-offs required in mission planning. The article helps general audiences understand the psychological demands and actual working conditions of scientists involved in space exploration. However, the piece lacks specific quantitative research data and has scientific depth limitations due to its interview-based format.",
+      "aiSummaryKo": "이 기사는 NASA 제트 추진 연구소의 항공우주 공학자 스와티 모한과의 인터뷰를 통해 화성 탐사 로버 퍼서비어런스의 착륙 과정과 우주 탐사 업무를 소개합니다. 저명한 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 팟캐스트 시리즈의 일환으로, 실제 우주 공학자들의 일상적인 경험과 도전 과제를 탐구합니다. 주요 내용은 화성 착륙 시 발생하는 \"7분의 공포(seven minutes of terror)\"라는 통신 지연 현상과 극도로 제한된 환경에서의 엄격한 작업 조건, 그리고 수백 가지의 공학적 트레이드오프 결정 과정을 다룹니다. 이 기사는 일반 대중이 우주 탐사의 뒷면에 있는 과학자들의 심리적 부담과 실제 업무를 이해할 수 있게 합니다. 다만 구체적인 연구 데이터나 정량적 분석은 제시되지 않으며, 인터뷰 형식으로 인해 과학적 깊이에는 제한이 있습니다.",
+      "aiSummaryEn": "This article presents an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, exploring the landing process of the Mars Perseverance rover and the nature of space exploration work. As part of bestselling author Dan Heath's podcast series \"What It's Like to Be...\", the episode provides insights into the real-world experiences and challenges faced by aerospace engineers. The content addresses the \"seven minutes of terror,\" referring to the communication delay during Mars landing, the stringent working conditions in clean rooms to minimize microbial contamination, and the hundreds of engineering trade-offs required in mission planning. The article helps general audiences understand the psychological demands and actual working conditions of scientists involved in space exploration. However, the piece lacks specific quantitative research data and has scientific depth limitations due to its interview-based format.",
+      "keyPoints": [
+        "**\"7분의 공포\" 현상** / \"Seven Minutes of Terror\" - 화성과의 통신 지연으로 인한 자동 착륙 과정에서의 극도의 긴장 상황",
+        "**극도의 작업 환경 관리** / Extreme Work Environment Control - 미생물을 최소화하기 위해 클린룸에서 수행되는 정밀한 공학 작업",
+        "**복합적 의사결정 과정** / Complex Decision-Making - 화성 탐사 임무 수행을 위해 수백 가지의 공학적 트레이드오프를 검토하고 결정",
+        "**우주 탐사 심리학의 현실화** / Humanizing Space Exploration Psychology - 팟캐스트를 통해 우주 과학자들의 실제 경험과 심리적 도전을 대중에게 전달"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
+      "featured": false
+    },
+    {
+      "id": "cc1c661e4050",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists say this type of olive oil could boost brain power",
+      "titleKo": "과학자들이 말하는 이 종류의 올리브유가 뇌 기능을 향상시킬 수 있다는 연구 결과",
+      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
+      "aiSummary": "This study hypothesized that extra virgin olive oil could protect brain function through gut health. Researchers conducted a two-year comparative experiment between people consuming extra virgin olive oil and those using refined olive oil. Results showed that the extra virgin olive oil group demonstrated superior cognitive performance and greater diversity of gut bacteria compared to the refined oil group. The research team was able to identify specific microorganisms associated with these brain health benefits. This study offers a simple dietary modification approach for maintaining brain health with aging. However, limitations include the relatively short two-year duration and incomplete control of other dietary factors that might influence results.\n\n##",
+      "aiSummaryKo": "이 연구는 엑스트라 버진 올리브유가 장 건강을 통해 뇌 기능을 보호할 수 있다는 가설에서 출발했습니다. 연구팀은 2년에 걸쳐 엑스트라 버진 올리브유를 섭취한 사람들과 정제 올리브유를 사용한 사람들을 비교하는 실험을 진행했습니다. 그 결과 엑스트라 버진 올리브유 섭취 그룹이 정제 올리브유 그룹보다 더 우수한 인지 능력을 보였으며, 장내 박테리아의 종류가 더 다양했습니다. 연구진은 이러한 뇌 건강 개선과 연관된 특정 미생물까지 파악할 수 있었습니다. 이 연구는 나이가 들면서 뇌 건강을 유지하기 위한 간단한 식습관 개선 방법을 제시합니다. 다만 2년이라는 제한된 기간과 올리브유 외 다른 식단 요인의 영향을 완전히 통제하지 못한 점이 한계입니다.\n\n##",
+      "aiSummaryEn": "This study hypothesized that extra virgin olive oil could protect brain function through gut health. Researchers conducted a two-year comparative experiment between people consuming extra virgin olive oil and those using refined olive oil. Results showed that the extra virgin olive oil group demonstrated superior cognitive performance and greater diversity of gut bacteria compared to the refined oil group. The research team was able to identify specific microorganisms associated with these brain health benefits. This study offers a simple dietary modification approach for maintaining brain health with aging. However, limitations include the relatively short two-year duration and incomplete control of other dietary factors that might influence results.\n\n##",
+      "keyPoints": [
+        "**올리브유와 장-뇌 축의 연관성** / Extra virgin olive oil affects brain health through gut microbiome pathway",
+        "**2년 연구에서 인지 능력 향상 입증** / Two-year study demonstrated improved cognitive performance in extra virgin olive oil consumers",
+        "**장내 미생물 다양성 증가** / Increased diversity and identification of specific beneficial gut bacteria in treatment group",
+        "**일상적 식습관을 통한 예방 가능성** / Simple dietary choice (quality olive oil) as preventive measure for age-related cognitive decline"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
+      "featured": false
+    },
+    {
+      "id": "e6acb17d3a3f",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "4일 전 / 4d ago",
+      "title": "The surprising reason you’re so productive one day and not the next",
+      "titleKo": "어떤 날은 생산성이 높고 다음 날은 낮은 놀라운 이유",
+      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
+      "aiSummary": "This research investigates why the same person experiences high productivity on some days and low on others. Researchers examined how daily variations in cognitive ability influence goal-setting and task completion. When participants experienced mentally \"sharp\" days, they set more ambitious goals and were more likely to achieve them, resulting in up to 40 additional minutes of productivity gain per day. Interestingly, the findings revealed that pushing too hard for prolonged periods actually reverses this positive effect. The study's significance lies in demonstrating that awareness of one's daily cognitive fluctuations and adaptive task management can substantially enhance productivity. However, the research may have limitations in analyzing long-term effects and individual differences across diverse populations.",
+      "aiSummaryKo": "이 연구는 같은 사람도 어떤 날은 생산성이 높고 어떤 날은 낮은 이유를 탐구합니다. 연구팀은 인지 능력이 날마다 변한다는 점에 주목하고, 이것이 목표 설정과 실행에 미치는 영향을 조사했습니다. 참가자들이 정신적으로 \"최상의 상태\"에 있을 때, 더 큰 목표를 세우고 그것을 달성할 가능성이 높아졌으며, 이는 하루에 최대 40분의 추가 생산성 향상으로 나타났습니다. 흥미롭게도 너무 오래 고강도로 작업하려고 하면 이러한 긍정적 효과가 역전되는 것으로 밝혀졌습니다. 이 연구의 의의는 개인의 일일 인지 상태 변화를 인식하고 그에 맞춰 업무를 조절하면 생산성을 크게 향상시킬 수 있다는 점입니다. 다만 연구에서는 장기적 영향이나 개인차에 대한 상세한 분석이 제한적일 수 있습니다.",
+      "aiSummaryEn": "This research investigates why the same person experiences high productivity on some days and low on others. Researchers examined how daily variations in cognitive ability influence goal-setting and task completion. When participants experienced mentally \"sharp\" days, they set more ambitious goals and were more likely to achieve them, resulting in up to 40 additional minutes of productivity gain per day. Interestingly, the findings revealed that pushing too hard for prolonged periods actually reverses this positive effect. The study's significance lies in demonstrating that awareness of one's daily cognitive fluctuations and adaptive task management can substantially enhance productivity. However, the research may have limitations in analyzing long-term effects and individual differences across diverse populations.",
+      "keyPoints": [
+        "**정신 명확성과 생산성의 관계** / Mental clarity directly influences productivity levels, with \"on\" days showing measurable performance improvements.",
+        "**목표 설정의 적응적 변화** / People set bigger, more ambitious goals on cognitively sharp days and successfully follow through with them.",
+        "**정량화된 생산성 향상** / The cognitive advantage translates to approximately 40 additional minutes of productive output per day.",
+        "**과도한 노력의 역효과** / Sustained high-intensity efforts over extended periods paradoxically reduce productivity, suggesting the importance of optimal pacing and recovery."
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
+      "featured": false
+    },
+    {
+      "id": "1feb820f194c",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "5일 전 / 5d ago",
+      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
+      "titleKo": "평생 이를 실천하면 알츠하이머병 위험을 38% 줄일 수 있다",
+      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
+      "aiSummary": "This research investigated whether lifelong mental stimulation, such as reading, writing, and learning new skills, could protect the brain from cognitive decline with age. Researchers measured cognitive enrichment levels and analyzed their impact on brain health outcomes. The key finding showed that individuals with the highest levels of cognitive enrichment had a 38% lower risk of Alzheimer's disease and experienced symptom onset years later compared to those with the lowest levels of cognitive activity. These results support the brain reserve theory, suggesting that lifelong learning may provide practical benefits in preventing neurodegenerative diseases. However, as an observational study, it cannot definitively establish causation, and confounding variables such as education level and socioeconomic status may influence the results.\n\n##",
+      "aiSummaryKo": "이 연구는 평생에 걸친 정신적 자극이 알츠하이머병 위험을 낮출 수 있다는 가설에서 출발했습니다. 연구팀은 독서, 글쓰기, 새로운 기술 학습 등의 인지적 활동 수준을 측정하고, 이것이 뇌 건강에 미치는 영향을 분석했습니다. 핵심 결과는 인지적 자극 수준이 가장 높은 사람들이 가장 낮은 사람들에 비해 알츠하이머병 위험을 38% 감소시킬 수 있었고, 증상 발현도 수 년 늦춰질 수 있다는 것입니다. 이는 뇌 예비능력(brain reserve) 이론을 뒷받침하는 중요한 증거로, 평생 학습이 신경퇴행성 질환 예방에 실질적인 도움이 될 수 있음을 시사합니다. 다만 이 연구는 관찰 연구이므로 인과관계를 완전히 증명하지는 못했으며, 교육 수준과 사회경제적 지위 등 혼재 변수의 영향이 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigated whether lifelong mental stimulation, such as reading, writing, and learning new skills, could protect the brain from cognitive decline with age. Researchers measured cognitive enrichment levels and analyzed their impact on brain health outcomes. The key finding showed that individuals with the highest levels of cognitive enrichment had a 38% lower risk of Alzheimer's disease and experienced symptom onset years later compared to those with the lowest levels of cognitive activity. These results support the brain reserve theory, suggesting that lifelong learning may provide practical benefits in preventing neurodegenerative diseases. However, as an observational study, it cannot definitively establish causation, and confounding variables such as education level and socioeconomic status may influence the results.\n\n##",
+      "keyPoints": [
+        "**38% 위험 감소** / 38% risk reduction: 높은 인지적 자극 수준이 알츠하이머병 위험을 38%까지 낮춤",
+        "**증상 발현 지연** / Delayed symptom onset: 활발한 정신 활동이 증상 나타나는 시기를 수 년 이상 지연시킬 수 있음",
+        "**뇌 예비능력 메커니즘** / Brain reserve mechanism: 평생 학습이 뇌의 신경가소성을 유지하여 질병 악화를 완화하는 원리",
+        "**관찰 연구의 한계** / Observational study limitation: 인과관계 증명 부족 및 교육 수준 등 혼재 변수 통제 필요"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
+      "featured": false
+    },
     {
       "id": "19fa435faeb2",
       "tag": "ai",
@@ -21,7 +126,7 @@
         "**임상 의사결정 지원 강화** / Enhanced Clinical Decision Support: 연구자와 임상의가 AI 출력의 신뢰성을 더 쉽게 판단할 수 있게 함 / Enables researchers and clinicians to more easily assess the reliability of AI outputs for informed decision-making"
       ],
       "url": "https://arxiv.org/abs/2604.15456",
-      "featured": true
+      "featured": false
     },
     {
       "id": "35c80fa65ae2",
@@ -295,106 +400,6 @@
         "**임상 적용의 한계** / While promising in rodent models, human clinical trials are essential before this approach can be adopted as a treatment for alcohol withdrawal in patients"
       ],
       "url": "https://www.psypost.org/common-anti-parasitic-drug-reduces-withdrawal-driven-drinking-in-dependent-roden/",
-      "featured": false
-    },
-    {
-      "id": "58bfaa6cff9f",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "방금 전 / Just now",
-      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
-      "titleKo": "갈등 상황에서 행동과학이 마주해야 할 어려운 진실들",
-      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
-      "aiSummary": "Approximately 2 billion people live in conflict-affected areas, with 123 million forcibly displaced in 2024—the highest number on record. However, behavioral science has primarily developed its theories, conducted experiments, and designed interventions in stable contexts, failing to address the unique challenges of conflict settings. Researchers typically employ a pattern of \"localize-and-evaluate,\" applying successful interventions from other contexts to conflict zones with minimal adaptation. The authors argue this approach is fundamentally insufficient, as conflict creates highly unstable and unpredictable environments where standard psychological interventions may not be effective. This study emphasizes the urgent need for behavioral science to develop new theories and methodologies specifically tailored to conflict-affected populations. The research highlights that achieving improved psychosocial well-being and resilience in conflict regions requires a paradigm shift in how behavioral scientists conduct research and design interventions. Current approaches fail to account for the complexity and volatility of conflict dynamics that fundamentally alter human behavior and decision-making.",
-      "aiSummaryKo": "전 세계 약 20억 명이 분쟁 지역에 거주하고 있으며, 2024년에는 사상 최대인 1억 2,300만 명이 강제 이주를 경험했습니다. 그러나 행동심리학 분야는 대부분의 이론과 실험, 중재 프로그램을 안정적인 환경에서 개발했다는 문제점이 지적됩니다. 연구자들은 다른 지역에서 효과적이었던 중재 방법을 분쟁 지역에 그대로 적용하고 평가하는 방식을 따르고 있으나, 이러한 접근은 충분하지 않다고 주장합니다. 분쟁 상황은 고도로 불안정하고 예측 불가능한 환경으로, 안정적 환경에서 개발된 심리학적 개입이 동일한 효과를 발휘하기 어렵다는 것입니다. 이 연구는 행동심리학이 분쟁 지역의 특수성을 반영한 새로운 이론 개발과 현지 맞춤형 연구 방법론의 개발이 시급함을 강조합니다. 분쟁 지역 주민들의 심리사회적 안녕과 회복력 증진을 위해서는 근본적인 패러다임 전환이 필요하다고 결론짓습니다.",
-      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas, with 123 million forcibly displaced in 2024—the highest number on record. However, behavioral science has primarily developed its theories, conducted experiments, and designed interventions in stable contexts, failing to address the unique challenges of conflict settings. Researchers typically employ a pattern of \"localize-and-evaluate,\" applying successful interventions from other contexts to conflict zones with minimal adaptation. The authors argue this approach is fundamentally insufficient, as conflict creates highly unstable and unpredictable environments where standard psychological interventions may not be effective. This study emphasizes the urgent need for behavioral science to develop new theories and methodologies specifically tailored to conflict-affected populations. The research highlights that achieving improved psychosocial well-being and resilience in conflict regions requires a paradigm shift in how behavioral scientists conduct research and design interventions. Current approaches fail to account for the complexity and volatility of conflict dynamics that fundamentally alter human behavior and decision-making.",
-      "keyPoints": [
-        "**분쟁 지역의 규모**: 약 20억 명이 분쟁 영향 지역에 거주하며, 2024년 강제 이주자가 사상 최고 수준(1억 2,300만 명)에 도달 / Scale of Conflict: Approximately 2 billion people live in conflict-affected areas, with forced displacement reaching record high of 123 million in 2024",
-        "**이론-실제 간의 괴리**: 행동심리학의 대부분의 이론과 중재는 안정적 환경에서 개발되었으나, 분쟁 지역에 그대로 적용되는 문제 발생 / Theory-Practice Gap: Behavioral science theories and interventions developed in stable contexts are inadequate for unstable conflict environments",
-        "**현재 접근의 한계**: 기존 중재 방법을 단순히 \"지역화\"하는 방식의 평가만으로는 분쟁 지역의 복잡한 심리사회적 문제 해결 불가능 / Limitations of Current Approach: Simple localization and evaluation of existing interventions cannot address complex psychosocial challenges in conflict zones",
-        "**시급한 패러다임 전환**: 분쟁 지역의 고유한 특성을 반영한 새로운 이론 개발과 현지 맞춤형 연구 방법론 개발의 필요성 / Urgent Need for Paradigm Shift: Development of conflict-specific theories and locally-tailored research methodologies is essential for effective psychological interventions"
-      ],
-      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
-      "featured": false
-    },
-    {
-      "id": "2ca3144e26ec",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "1시간 전 / 1h ago",
-      "title": "The ‘Busy’ Trap",
-      "titleKo": "'바쁨'의 함정",
-      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
-      "aiSummary": "This article examines an interesting cultural phenomenon in 21st-century America where \"being busy\" has become a default greeting that functions as a boast disguised as a complaint. The research background stems from sociological observations of increasing emphasis on busy schedules among Americans in their daily interactions. The article notes that when people respond \"busy\" to casual inquiries, society typically responds with congratulations and admiration (\"That's a good problem to have\"). A striking finding is that people who are genuinely the busiest—such as ICU nurses and workers holding multiple minimum-wage jobs—do not boast about their busyness in the same way. This suggests that the \"busy\" narrative is socioeconomically stratified and functions more as a cultural status symbol than as an accurate reflection of actual workload. The research's significance lies in revealing how modern self-presentation and social status signaling operate in contemporary culture. The limitation is that the article relies on sociological observation rather than quantitative data or structured experimental design.\n\n##",
-      "aiSummaryKo": "현대 미국 사회에서 '바쁘다'는 표현이 일상적인 인사말이 되었는데, 이는 실제로는 불평을 가장한 자랑이라는 흥미로운 문화 현상을 다룬 기사이다. 연구 배경은 21세기 미국인들이 자신의 바쁜 일정을 강조하는 경향이 증가했다는 사회적 관찰에 기초하고 있다. 기사는 사람들이 \"바쁨\"을 응답할 때 이에 대한 사회적 반응이 축하와 칭찬(\"좋은 문제를 가졌네요\")으로 나타난다는 점을 지적한다. 흥미로운 발견은 실제로 육체적으로 가장 바쁜 사람들(ICU 간호사, 최저임금 일자리를 하는 사람들)은 자신이 얼마나 바쁜지 자랑하지 않는다는 것이다. 이는 '바쁨'이라는 표현이 사회경제적 지위와 관련이 있으며, 실제 업무량보다는 문화적 자랑거리로 기능함을 시사한다. 연구의 의의는 현대인의 자기 표현 방식과 사회적 지위 신호에 대한 통찰을 제공한다는 점이며, 기사의 한계는 정량적 데이터나 구체적인 실험 설계 없이 사회 관찰에만 기반하고 있다는 것이다.\n\n##",
-      "aiSummaryEn": "This article examines an interesting cultural phenomenon in 21st-century America where \"being busy\" has become a default greeting that functions as a boast disguised as a complaint. The research background stems from sociological observations of increasing emphasis on busy schedules among Americans in their daily interactions. The article notes that when people respond \"busy\" to casual inquiries, society typically responds with congratulations and admiration (\"That's a good problem to have\"). A striking finding is that people who are genuinely the busiest—such as ICU nurses and workers holding multiple minimum-wage jobs—do not boast about their busyness in the same way. This suggests that the \"busy\" narrative is socioeconomically stratified and functions more as a cultural status symbol than as an accurate reflection of actual workload. The research's significance lies in revealing how modern self-presentation and social status signaling operate in contemporary culture. The limitation is that the article relies on sociological observation rather than quantitative data or structured experimental design.\n\n##",
-      "keyPoints": [
-        "**'바쁨'의 이중성** / The Paradoxical Nature of \"Busy\": '바쁨'은 불평처럼 표현되지만 실제로는 자신의 중요성과 가치를 강조하는 자랑이다 / \"Busy\" is expressed as a complaint but functions as subtle self-promotion of one's importance and value.",
-        "**사회경제적 지위 신호** / Socioeconomic Status Signal: 실제로 가장 바쁜 저임금 노동자들은 자신의 바쁨을 자랑하지 않으며, '바쁨'의 서사는 높은 사회경제적 지위의 상징이다 / Those genuinely busiest (low-wage workers) don't boast about busyness; the narrative itself signals higher socioeconomic status.",
-        "**문화적 규범의 변화** / Shift in Cultural Norms: 현대 미국 문화에서 바쁜 삶이 성공의 증거로 여겨지며, 이것이 일상적 인사 문화에 깊숙이 침투했다 / In contemporary American culture, busyness has become interpreted as evidence of success and deeply embedded in casual social interactions.",
-        "**자기표현의 진화** / Evolution of Self-Presentation: 개인의 정체성과 가치를 표현하는 방식이 실제 성과보다는 주관적인 바쁨의 정도로 변화했다 / How individuals present their identity and worth has shifted from actual accomplishments to narratives of subjective busyness."
-      ],
-      "url": "https://behavioralscientist.org/the-busy-trap/",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "14일 전 / 14d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "우리는 결코 개인이었던 적이 없다",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "This article presents a philosophical and scientific perspective showing that humans are not isolated individuals but interconnected beings in constant interaction with nature. Through the everyday act of breathing, the article demonstrates how humans exchange matter with other living organisms such as plants and microorganisms. Specifically, the oxygen humans inhale comes from plants, the carbon dioxide humans exhale is essential for plant photosynthesis, and the human body hosts a complex ecosystem of microorganisms. These findings challenge anthropocentric worldviews and emphasize the necessity of environmentally conscious thinking. However, the article has limitations in that it focuses on philosophical discussion without clearly presenting specific experimental data or scientific validation methodologies.\n\n##",
-      "aiSummaryKo": "이 기사는 인간이 개별적인 존재가 아니라 자연과 끊임없이 상호작용하는 상호연결된 존재임을 보여주는 철학적·과학적 관점을 제시한다. 호흡이라는 일상적 행위를 통해 인간이 식물, 미생물 등 다른 생명체들과 물질을 교환하며 살아간다는 점을 설명한다. 구체적으로, 인간이 흡입하는 산소는 식물이 방출한 것이고, 인간이 배출하는 이산화탄소는 식물의 광합성에 필수적이며, 인간의 신체는 수많은 미생물의 생태계를 호스팅한다는 것이 핵심 내용이다. 이러한 발견들은 인간중심적 세계관을 재정의하고, 환경 친화적 사고의 필요성을 강조한다. 다만 기사는 철학적 논의에 집중하여 구체적인 실험 수치나 과학적 검증 방법론이 명확하게 제시되지 않은 한계가 있다.\n\n##",
-      "aiSummaryEn": "This article presents a philosophical and scientific perspective showing that humans are not isolated individuals but interconnected beings in constant interaction with nature. Through the everyday act of breathing, the article demonstrates how humans exchange matter with other living organisms such as plants and microorganisms. Specifically, the oxygen humans inhale comes from plants, the carbon dioxide humans exhale is essential for plant photosynthesis, and the human body hosts a complex ecosystem of microorganisms. These findings challenge anthropocentric worldviews and emphasize the necessity of environmentally conscious thinking. However, the article has limitations in that it focuses on philosophical discussion without clearly presenting specific experimental data or scientific validation methodologies.\n\n##",
-      "keyPoints": [
-        "**상호호흡의 순환 원리** / The Cycle of Reciprocal Respiration",
-        "**신체 내 미생물 생태계** / Microbial Ecosystem Within the Body",
-        "**상호연결된 존재론** / Interconnected Ontology",
-        "**환경철학적 함의** / Environmental Philosophy Implications"
-      ],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "d6be017b930d",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Childhood trauma and attachment styles show nuanced links to alternative sexual preferences",
-      "titleKo": "아동 트라우마와 애착 유형이 비주류 성적 선호도와 보이는 미묘한 연관성",
-      "summary": "A new study explores the statistical links between childhood trauma, adult attachment styles, and sexual preferences. Researchers found nuanced associations between emotional insecurities and whether individuals prefer submissive or dominant roles during intimate consensual encounters.",
-      "aiSummary": "This study examined the statistical associations between childhood trauma, adult attachment styles, and alternative sexual preferences. Researchers discovered nuanced links between emotional insecurities and individuals' preferences for dominant or submissive roles in consensual intimate encounters. While specific statistical numbers were not provided in the article, the research demonstrates that complex psychological patterns, rather than simple causal relationships, influence the formation of sexual preferences. The significance of this study lies in clarifying the subtle connections between adult psychological development and preferences in intimate relationships, which can enhance our understanding of emotional health. However, the article lacks detailed information about sample size, specific experimental design, and controlled variables, making it difficult to assess the generalizability and reliability of the findings. Future research with larger sample sizes and diverse populations is needed for better validation.\n\n##",
-      "aiSummaryKo": "이 연구는 어린 시절 외상 경험과 성인의 애착 스타일이 대체 성적 선호도와 어떤 관계가 있는지 탐구했습니다. 연구팀은 정서적 불안정성과 친밀한 관계에서 지배적 역할 또는 복종적 역할에 대한 개인의 선호도 사이의 복잡한 연관성을 발견했습니다. 구체적인 통계 수치는 기사에 명시되지 않았으나, 연구는 단순한 인과관계보다는 다층적인 심리적 패턴들이 성적 선호도 형성에 영향을 미친다는 점을 보여줍니다. 이 연구의 의의는 성인의 심리적 발달과 친밀한 관계 선호도 사이의 미묘한 연결고리를 규명함으로써 개인의 정서적 건강을 더 잘 이해할 수 있다는 점입니다. 다만 기사에서 연구의 표본 크기, 구체적인 실험 설계, 통제된 변수에 대한 정보가 부족하여 연구의 일반화 가능성과 신뢰도를 평가하기 어렵습니다. 추후 더 큰 규모와 다양한 인구집단을 대상으로 한 추적 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study examined the statistical associations between childhood trauma, adult attachment styles, and alternative sexual preferences. Researchers discovered nuanced links between emotional insecurities and individuals' preferences for dominant or submissive roles in consensual intimate encounters. While specific statistical numbers were not provided in the article, the research demonstrates that complex psychological patterns, rather than simple causal relationships, influence the formation of sexual preferences. The significance of this study lies in clarifying the subtle connections between adult psychological development and preferences in intimate relationships, which can enhance our understanding of emotional health. However, the article lacks detailed information about sample size, specific experimental design, and controlled variables, making it difficult to assess the generalizability and reliability of the findings. Future research with larger sample sizes and diverse populations is needed for better validation.\n\n##",
-      "keyPoints": [
-        "**어린 시절 외상과 성적 선호도의 연결** / Childhood trauma shows statistical associations with adult sexual preferences, though the relationships are complex rather than direct",
-        "**애착 스타일의 중재 역할** / Adult attachment styles mediate the relationship between early emotional experiences and intimate relationship preferences, including role preferences",
-        "**다층적 심리적 메커니즘** / The study reveals nuanced associations suggesting multiple psychological pathways rather than a single causal mechanism linking trauma to sexual preferences",
-        "**정보 부족으로 인한 해석의 제한** / Lack of specific methodological details (sample size, statistical values) in the article limits comprehensive evaluation of research reliability and applicability"
-      ],
-      "url": "https://www.psypost.org/childhood-trauma-and-attachment-styles-show-nuanced-links-to-alternative-sexual/",
-      "featured": false
-    },
-    {
-      "id": "a3d5cb0c4033",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "27일 전 / 27d ago",
-      "title": "‘Looking Backward’ to the Future",
-      "titleKo": "",
-      "summary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummary": "I first saw the light in the city of Boston in the year 1857. “What!” you say. “Eighteen fifty-seven? That is an odd slip. He means nineteen fifty-seven, of course.” I beg pardon, but there is no mistake. It was about four in the afternoon of December the 26th, one day after Christmas, in the year 1857, not 1957, that I first breathed the east wind of Boston, which, I assure the reader, was at that remote period marked by the same penetrating quality characterizing it in the present year of grace, 2000. These statements seem so absurd on their face, especially when I add that I am a young man ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/looking-backward-to-the-future/",
       "featured": false
     }
   ]
