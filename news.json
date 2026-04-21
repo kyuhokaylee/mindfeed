@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-21T06:25:57.772792+00:00",
+  "updated": "2026-04-21T10:56:27.318934+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "0ac2b7c5740e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Unrestricted generative AI harms high school math learning by acting as a crutch",
+      "titleKo": "제한 없는 생성형 AI는 지팡이 역할을 하여 고등학교 수학 학습을 해친다",
+      "summary": "Using artificial intelligence to solve math problems might be creating a generation of students with \"cognitive debt.\" New research shows that while unrestricted AI harms independent test scores, carefully designed AI tutors can keep problem-solving skills intact.",
+      "aiSummary": "This research investigates how generative AI affects high school students' mathematics learning. Students with unrestricted AI access experienced \"cognitive debt,\" showing reduced independent problem-solving abilities. The research team discovered that while unlimited AI use decreased test performance, carefully designed AI tutoring systems could preserve students' problem-solving skills intact. The study demonstrates that implementing AI in education requires thoughtful design rather than simply providing tools to students. However, limitations include the need for further research on long-term effects and studies involving students across different grade levels.\n\n##",
+      "aiSummaryKo": "본 연구는 생성형 AI가 고등학생의 수학 학습에 미치는 영향을 조사했습니다. 제한 없이 AI를 사용할 수 있는 학생들은 독립적인 문제 해결 능력이 저하되는 \"인지 부채(cognitive debt)\"를 경험하는 것으로 나타났습니다. 연구팀은 제한 없는 AI 사용이 시험 점수를 감소시키는 반면, 체계적으로 설계된 AI 튜터링 시스템은 학생들의 문제 해결 능력을 유지할 수 있음을 발견했습니다. 이 연구는 교육에서 AI 도입 시 단순히 도구 제공이 아닌 신중한 설계가 필수적임을 보여줍니다. 다만 장기적 영향과 다양한 학년대 학생들을 대상으로 한 추가 연구가 필요하다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigates how generative AI affects high school students' mathematics learning. Students with unrestricted AI access experienced \"cognitive debt,\" showing reduced independent problem-solving abilities. The research team discovered that while unlimited AI use decreased test performance, carefully designed AI tutoring systems could preserve students' problem-solving skills intact. The study demonstrates that implementing AI in education requires thoughtful design rather than simply providing tools to students. However, limitations include the need for further research on long-term effects and studies involving students across different grade levels.\n\n##",
+      "keyPoints": [
+        "**제한 없는 AI의 부작용** / Unrestricted AI Creates Cognitive Debt",
+        "**설계된 AI 튜터는 효과적** / Designed AI Tutoring Preserves Skills",
+        "**교육 도입의 신중함 필요** / Implementation Requires Careful Design",
+        "**향후 연구 필요** / Need for Extended Research"
+      ],
+      "url": "https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/",
+      "featured": true
+    },
+    {
+      "id": "dd55ab93ac46",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "16시간 전 / 16h ago",
+      "title": "Does listening to true crime make you a more creative criminal?",
+      "titleKo": "진범 팟캐스트를 듣는 것이 범죄를 더 창의적으로 만들까?",
+      "summary": "True crime podcasts and shows feature endless examples of real-life violence. However, new psychological research reveals that consuming these dark stories does not inspire people to become more creative when thinking up ways to harm others.",
+      "aiSummary": "There has been long-standing concern in psychology about whether exposure to crime-related content influences actual criminal behavior. Researchers conducted an experiment to test whether consuming popular true crime podcasts and shows increases people's creativity in thinking of harmful actions. Participants were exposed to real crime narratives, and their creative ability to devise novel harmful methods in hypothetical scenarios was measured. Surprisingly, the results showed that despite consuming crime stories, participants did not exhibit increased creativity in devising harmful behaviors compared to control groups. This finding provides reassuring evidence against widespread concerns that violent media content stimulates viewers' criminal creativity. However, as this is a limited short-term laboratory result, long-term follow-up studies on populations with actual criminal intent are needed to draw broader conclusions.\n\n##",
+      "aiSummaryKo": "범죄 심리학 분야에서 오랫동안 제기되어 온 의문은 범죄 관련 콘텐츠 노출이 실제 범죄 행동에 영향을 미치는가 하는 점이다. 최근 심리학 연구팀은 인기 높은 범죄 팟캐스트와 드라마 시청이 사람들의 해로운 행동 창의성을 증가시키는지 검증하기 위해 실험을 실시했다. 연구자들은 참가자들에게 실제 범죄 사건을 다룬 콘텐츠를 노출시킨 후, 가상의 해로운 상황에서 창의적인 아이디어를 도출하는 능력을 측정했다. 놀랍게도 연구 결과는 참가자들이 범죄 스토리를 소비했음에도 불구하고 다른 방해 행동 방법을 고안하는 창의력이 증가하지 않았음을 보여주었다. 이 발견은 대중문화의 폭력적 내용이 시청자들의 범죄 창의성을 자극한다는 널리 퍼진 우려를 완화시키는 긍정적인 신호로 평가된다. 다만 단기 실험 환경에서의 제한된 결과이므로, 실제 범죄 의향이 있는 집단에 대한 장기 추적 연구가 필요하다.\n\n##",
+      "aiSummaryEn": "There has been long-standing concern in psychology about whether exposure to crime-related content influences actual criminal behavior. Researchers conducted an experiment to test whether consuming popular true crime podcasts and shows increases people's creativity in thinking of harmful actions. Participants were exposed to real crime narratives, and their creative ability to devise novel harmful methods in hypothetical scenarios was measured. Surprisingly, the results showed that despite consuming crime stories, participants did not exhibit increased creativity in devising harmful behaviors compared to control groups. This finding provides reassuring evidence against widespread concerns that violent media content stimulates viewers' criminal creativity. However, as this is a limited short-term laboratory result, long-term follow-up studies on populations with actual criminal intent are needed to draw broader conclusions.\n\n##",
+      "keyPoints": [
+        "**범죄 콘텐츠 노출의 영향 최소화** / Crime Content Exposure Shows Minimal Impact",
+        "**대중의 우려에 대한 과학적 반박** / Scientific Refutation of Public Concerns",
+        "**제한된 연구 범위** / Limited Research Scope",
+        "**향후 연구의 필요성** / Need for Further Research"
+      ],
+      "url": "https://www.psypost.org/true-crime-fans-are-not-more-likely-to-dream-up-creative-ways-to-harm-others/",
+      "featured": false
+    },
+    {
+      "id": "58bfaa6cff9f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "1일 전 / 1d ago",
+      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
+      "titleKo": "갈등 상황에서 행동과학이 마주해야 할 어려운 진실들",
+      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummary": "Approximately 2 billion people currently live in conflict-affected areas, with a record 123 million forcibly displaced in 2024. However, behavioral science has primarily developed its theories, conducted experiments, and designed interventions in stable contexts, which is insufficient for conflict settings. This research argues that simply \"localizing\" interventions that worked elsewhere is inadequate for addressing human behavior in extreme conflict situations. Understanding how trauma, social collapse, and life-threatening circumstances fundamentally alter human decision-making and behavior is essential. Researchers emphasize that behavioral scientists must fundamentally rethink their approaches and develop new frameworks specifically designed for conflict environments. This research is urgent given the humanitarian crisis of unprecedented scale, and a comprehensive redesign of intervention strategies for conflict zones is necessary. Future studies should move beyond adaptation models and create context-specific theories.\n\n##",
+      "aiSummaryKo": "현재 약 20억 명이 분쟁 지역에 살고 있으며, 2024년에는 기록상 최대인 1억 2,300만 명이 강제로 이동했다. 그러나 행동과학 분야의 대부분의 이론, 실험, 개입은 안정적인 환경에서 개발되어 왔다는 것이 핵심 문제다. 이 연구는 기존의 행동과학적 접근 방식이 분쟁 지역에서 충분하지 않으며, 단순히 다른 곳에서 성공한 방법을 '현지화'하는 방식으로는 부족함을 주장한다. 분쟁으로 인한 인명피해, 심리적 트라우마, 사회 붕괴 등 극단적인 상황에서는 기존 이론의 재검토가 필수적이다. 연구자들은 분쟁 상황에서의 인간 행동과 의사결정 메커니즘을 새롭게 이해해야 한다고 강조한다. 이러한 연구는 긴급한 인도주의 위기 해결을 위해 시급하며, 향후 분쟁 지역 개입 전략의 근본적 재설계가 필요하다는 점이 제한점이자 과제다.\n\n##",
+      "aiSummaryEn": "Approximately 2 billion people currently live in conflict-affected areas, with a record 123 million forcibly displaced in 2024. However, behavioral science has primarily developed its theories, conducted experiments, and designed interventions in stable contexts, which is insufficient for conflict settings. This research argues that simply \"localizing\" interventions that worked elsewhere is inadequate for addressing human behavior in extreme conflict situations. Understanding how trauma, social collapse, and life-threatening circumstances fundamentally alter human decision-making and behavior is essential. Researchers emphasize that behavioral scientists must fundamentally rethink their approaches and develop new frameworks specifically designed for conflict environments. This research is urgent given the humanitarian crisis of unprecedented scale, and a comprehensive redesign of intervention strategies for conflict zones is necessary. Future studies should move beyond adaptation models and create context-specific theories.\n\n##",
+      "keyPoints": [
+        "**분쟁 지역의 규모와 심각성** / The Scale and Severity of Conflict: 약 20억 명이 분쟁 지역에 거주하며 2024년 강제 이동 사건이 기록상 최대치인 1억 2,300만 건에 이름.",
+        "**기존 행동과학의 한계** / Limitations of Existing Behavioral Science: 안정적 환경에서 개발된 이론과 개입 방법이 분쟁 상황에서는 효과적이지 않으며, 단순한 현지화만으로는 부족함.",
+        "**새로운 이론 프레임워크의 필요성** / Need for New Theoretical Frameworks: 극단적 스트레스, 트라우마, 사회 붕괴 상황에서의 인간 행동을 설명하는 맞춤형 행동과학 이론 개발이 긴급함.",
+        "**실증적 증거 기반 개입 전략** / Evidence-Based Intervention in Conflict Zones: 분쟁 지역에서의 효과적 개입을 위해서는 현지 맥락과 극단적 상황의 특수성을 반영한 새로운 평가 방법론과 전략 개발이 필수적."
+      ],
+      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
+      "featured": false
+    },
+    {
+      "id": "2ca3144e26ec",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "1일 전 / 1d ago",
+      "title": "The ‘Busy’ Trap",
+      "titleKo": "'바쁨'의 함정",
+      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "aiSummary": "In twenty-first century America, being \"busy\" has become the default response when people are asked how they are doing, serving as a disguised boast rather than a genuine complaint. The article analyzes this cultural phenomenon, examining how people present their hectic schedules and how society responds with congratulations like \"That's a good problem to have.\" Notably, the analysis reveals that people who actually work grueling hours—such as ICU nurses working back-to-back shifts or low-wage workers commuting to multiple jobs—do not typically claim to be \"busy.\" This observation suggests that the expression of busyness functions as a status symbol and indicator of social importance rather than an accurate reflection of actual workload. The research significance lies in understanding contemporary attitudes toward work, life quality, and social status markers in modern society. However, the article lacks specific quantitative data and explicit experimental methodology, representing a limitation of qualitative observation-based analysis.\n\n##",
+      "aiSummaryKo": "현대 미국 사회에서 '바쁘다'는 표현이 일상적 인사로 자리 잡았으며, 이는 실제 불평이라기보다 자신의 중요성을 드러내는 자랑으로 기능하고 있다는 연구 배경에서 출발한다. 이 기사는 사람들이 자신의 바쁜 일정을 어떻게 표현하고 인식하는지를 사회문화적 관점에서 분석한다. 흥미롭게도 실제로 생존 수준의 장시간 노동에 종사하는 저소득층 근로자들(병원 중환자실 근무자, 대중교통 이용 시간급 근로자)은 자신들이 '바쁘다'고 말하지 않는다는 점이 지적된다. 이는 '바쁨'이라는 표현이 사회적 지위와 중요성의 상징으로 기능함을 시사한다. 연구의 의의는 현대인의 일과 삶의 질, 사회적 지위 표시 방식을 이해하는 데 있다. 다만 이 기사는 구체적 연구 수치나 실험 설계가 명시되지 않아 정성적 관찰에 기반한 분석의 한계를 가진다.\n\n##",
+      "aiSummaryEn": "In twenty-first century America, being \"busy\" has become the default response when people are asked how they are doing, serving as a disguised boast rather than a genuine complaint. The article analyzes this cultural phenomenon, examining how people present their hectic schedules and how society responds with congratulations like \"That's a good problem to have.\" Notably, the analysis reveals that people who actually work grueling hours—such as ICU nurses working back-to-back shifts or low-wage workers commuting to multiple jobs—do not typically claim to be \"busy.\" This observation suggests that the expression of busyness functions as a status symbol and indicator of social importance rather than an accurate reflection of actual workload. The research significance lies in understanding contemporary attitudes toward work, life quality, and social status markers in modern society. However, the article lacks specific quantitative data and explicit experimental methodology, representing a limitation of qualitative observation-based analysis.\n\n##",
+      "keyPoints": [
+        "**'바쁨'의 이중성**: 표면적으로는 불평이지만 실제로는 자신의 중요성을 드러내는 자랑 / Busyness functions as a disguised boast that paradoxically signals personal importance and social status",
+        "**사회계층별 차이**: 실제 장시간 저임금 노동자들은 '바쁘다'고 표현하지 않으며, 이는 바쁨이 특정 사회계층의 특징 / Actual overworked low-wage workers don't claim to be \"busy,\" suggesting busyness is a characteristic of higher social classes",
+        "**문화적 지위 마커**: '바쁜 일정'이 높은 사회적 지위와 가치 있는 삶의 증거로 인식되는 현상 / Packed schedules have become cultural markers of social status and valuable life",
+        "**현대 사회 가치관 반영**: 일과 생산성을 우선시하는 미국 문화에서 여유로움보다 바쁨이 긍정적으로 평가되는 경향 / Reflects contemporary American values that prioritize productivity and busyness over leisure and rest"
+      ],
+      "url": "https://behavioralscientist.org/the-busy-trap/",
+      "featured": false
+    },
+    {
+      "id": "c1d7d1e43287",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "7일 전 / 7d ago",
+      "title": "What It’s Like to Be…an Aerospace Engineer",
+      "titleKo": "항공우주 공학자가 된다는 것",
+      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummary": "This article introduces a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory (JPL). Mohan explains the landing process of the Perseverance rover on Mars and describes the daily work of aerospace engineers. The interview covers the \"Seven Minutes of Terror,\" an extremely critical and dangerous landing phase on Mars. It also introduces the meticulous work conducted in clean rooms to minimize microbial contamination and the complex engineering decision-making processes involved in space exploration. This episode is part of the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath, designed to help the general public understand the real work experiences of scientists. The article's main significance lies in communicating complex space exploration technology in an accessible format for the general audience.",
+      "aiSummaryKo": "이 기사는 NASA 제트추진연구소(JPL)의 항공우주공학자 스와티 모한(Swati Mohan)과의 인터뷰를 다룬 팟캐스트 에피소드 소개입니다. 모한은 화성 탐사로봇 퍼서비어런스(Perseverance)의 착륙 과정과 항공우주공학자의 일상을 설명합니다. 인터뷰에서는 화성 착륙 시 발생하는 \"7분의 공포(Seven Minutes of Terror)\"라고 불리는 극도로 위험한 착륙 구간에 대해 다룹니다. 또한 우주탐사 과정에서 미생물 오염을 최소화하기 위해 클린룸에서 진행되는 정밀한 작업과 복잡한 엔지니어링 의사결정 과정을 소개합니다. 이 에피소드는 베스트셀러 저자 댄 히스(Dan Heath)가 진행하는 \"What It's Like to Be...\" 시리즈의 일부로, 일반 대중이 과학자의 실제 업무 경험을 이해할 수 있도록 설계되었습니다. 기사의 주요 의의는 복잡한 우주탐사 기술을 대중이 이해하기 쉬운 형식으로 전달하는 것입니다.",
+      "aiSummaryEn": "This article introduces a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory (JPL). Mohan explains the landing process of the Perseverance rover on Mars and describes the daily work of aerospace engineers. The interview covers the \"Seven Minutes of Terror,\" an extremely critical and dangerous landing phase on Mars. It also introduces the meticulous work conducted in clean rooms to minimize microbial contamination and the complex engineering decision-making processes involved in space exploration. This episode is part of the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath, designed to help the general public understand the real work experiences of scientists. The article's main significance lies in communicating complex space exploration technology in an accessible format for the general audience.",
+      "keyPoints": [
+        "**화성 착륙의 극단적 위험성** / The extreme danger of Mars landing - \"7분의 공포\" 구간에서의 기술적 도전과 우주비행사 팀의 역할 설명 / Explaining technical challenges during the \"Seven Minutes of Terror\" and the role of the aerospace team",
+        "**정밀 우주탐사의 복잡성** / Complexity of precision space exploration - 미생물 오염 방지를 위한 클린룸 작업과 수백 개의 엔지니어링 트레이드오프 결정 과정 / Clean room operations to prevent microbial contamination and hundreds of engineering trade-off decisions",
+        "**과학 대중화의 중요성** / Importance of science communication - 복잡한 우주과학을 일반인도 이해할 수 있는 팟캐스트 형식으로 제시 / Presenting complex space science in podcast format accessible to the general public",
+        "**실제 직업 경험의 공유** / Sharing real professional experience - \"What It's Like to Be...\" 시리즈를 통해 과학자의 실제 업무 세계를 직접 설명 / Direct explanation of scientists' actual work world through the interview series"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
+      "featured": false
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "16일 전 / 16d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "우리는 결코 개인이었던 적이 없다",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article presents a philosophical and scientific perspective that the boundary between individuals and their environment is far more blurred than commonly assumed. Through the metaphor of breathing, it explains how humans continuously exchange matter with plants, the atmosphere, and surrounding living organisms. Specifically, the oxygen we inhale is produced by plants, while the carbon dioxide we exhale is essential for photosynthesis—illustrating a fundamental biological interaction. The article argues that our bodies host a complex ecosystem including diverse microorganisms and external environmental elements. This perspective challenges traditional individualistic thinking and suggests understanding humans not as isolated entities but as interconnected components of a larger ecological system. However, the article remains largely conceptual, with no quantitative experimental data or empirical measurements provided, which represents a limitation in scientific validation.",
+      "aiSummaryKo": "이 기사는 개인과 환경의 경계가 생각보다 훨씬 모호하다는 철학적·과학적 관점을 제시한다. 호흡이라는 일상적 행위를 통해 인간이 식물, 대기, 그리고 주변 생명체와 지속적으로 물질을 교환하고 있음을 설명한다. 구체적으로, 우리가 들이마신 산소는 식물이 만든 것이고 우리가 내쉬는 이산화탄소는 식물이 필요로 하는 물질이라는 생물학적 상호작용을 강조한다. 기사는 우리의 신체가 다양한 미생물과 외부 환경을 포함하는 복잡한 생태계라고 주장한다. 이러한 관점은 전통적인 개인주의적 사고방식을 재검토하게 하며, 인간을 독립된 개체가 아닌 더 큰 생태계의 상호연결된 부분으로 이해할 것을 제안한다. 다만 기사는 개념적 논의 수준이므로 정량적 실험 데이터가 제시되지 않았다는 한계가 있다.",
+      "aiSummaryEn": "This article presents a philosophical and scientific perspective that the boundary between individuals and their environment is far more blurred than commonly assumed. Through the metaphor of breathing, it explains how humans continuously exchange matter with plants, the atmosphere, and surrounding living organisms. Specifically, the oxygen we inhale is produced by plants, while the carbon dioxide we exhale is essential for photosynthesis—illustrating a fundamental biological interaction. The article argues that our bodies host a complex ecosystem including diverse microorganisms and external environmental elements. This perspective challenges traditional individualistic thinking and suggests understanding humans not as isolated entities but as interconnected components of a larger ecological system. However, the article remains largely conceptual, with no quantitative experimental data or empirical measurements provided, which represents a limitation in scientific validation.",
+      "keyPoints": [
+        "**호흡을 통한 상호교환** / Mutual Exchange Through Breathing",
+        "**신체는 생태계** / The Body as an Ecosystem",
+        "**개인주의적 경계의 해체** / Dissolution of Individualistic Boundaries",
+        "**상호연결성의 재인식** / Recognition of Interconnectedness"
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
+    {
+      "id": "5861058901d0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "titleKo": "인공 뉴런이 살아있는 뇌세포와 성공적으로 소통하다",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "aiSummary": "Engineers at Northwestern University have successfully developed artificial neurons that can communicate with real brain cells. The research team created flexible, low-cost artificial neuron devices using 3D printing technology, demonstrating that these devices can generate biological signals capable of activating living neural cells. The experiment was conducted using mouse brain tissue, confirming that artificial neurons can actually interact with natural nerve cells. This breakthrough could open new possibilities for treating neural injuries, developing brain-computer interfaces, and creating treatments for neurological diseases. However, the current research is still in the animal tissue testing phase, and additional long-term safety studies and clinical trials are necessary before safe application to the human brain.",
+      "aiSummaryKo": "노스웨스턴 대학교 연구진은 인공 뉴런을 개발하여 실제 뇌세포와 통신하는 데 성공했습니다. 연구팀은 유연하고 저비용의 인공 뉴런 장치를 3D 프린팅 기술로 제작했으며, 이 장치가 생체 뇌세포를 활성화시킬 수 있는 생물학적 신호를 생성할 수 있음을 입증했습니다. 실험은 쥐의 뇌 조직을 사용하여 인공 뉴런이 천연 신경세포와 실제로 상호작용함을 확인했습니다. 이 연구는 신경 손상 치료, 뇌-컴퓨터 인터페이스 개발, 신경질환 치료법 개발의 길을 열어줄 수 있는 획기적 성과입니다. 그러나 현재 연구는 동물 조직 실험 단계이며, 인간의 뇌에 안전하게 적용하기 위해서는 추가적인 장기 안전성 연구와 임상 시험이 필요합니다.",
+      "aiSummaryEn": "Engineers at Northwestern University have successfully developed artificial neurons that can communicate with real brain cells. The research team created flexible, low-cost artificial neuron devices using 3D printing technology, demonstrating that these devices can generate biological signals capable of activating living neural cells. The experiment was conducted using mouse brain tissue, confirming that artificial neurons can actually interact with natural nerve cells. This breakthrough could open new possibilities for treating neural injuries, developing brain-computer interfaces, and creating treatments for neurological diseases. However, the current research is still in the animal tissue testing phase, and additional long-term safety studies and clinical trials are necessary before safe application to the human brain.",
+      "keyPoints": [
+        "**혁신적 기술**: 3D 프린팅으로 제작된 유연한 인공 뉴런이 생체 뇌세포와 실제 통신 가능 / Flexible artificial neurons created through 3D printing technology successfully communicate with living brain cells",
+        "**생물학적 신호**: 인공 뉴런이 실제 뇌세포를 활성화시킬 수 있는 생물학적 신호를 생성 / Artificial neurons generate biologically realistic electrical signals capable of activating natural neural cells",
+        "**경제성과 접근성**: 저비용 장치로 개발되어 향후 대중적 활용 가능성이 높음 / Low-cost devices increase potential for widespread future applications and accessibility",
+        "**임상 활용 가능성**: 신경손상 치료, 뇌-컴퓨터 인터페이스, 신경질환 치료 등 다양한 의료 분야에 적용 가능 / Potential applications include neural injury treatment, brain-computer interfaces, and neurological disease therapies"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "featured": false
+    },
     {
       "id": "19fa435faeb2",
       "tag": "ai",
@@ -21,7 +168,7 @@
         "**AI 에이전트 통합 설계** / Integrated AI Agent Design"
       ],
       "url": "https://arxiv.org/abs/2604.15456",
-      "featured": true
+      "featured": false
     },
     {
       "id": "35c80fa65ae2",
@@ -248,143 +395,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
-      "featured": false
-    },
-    {
-      "id": "e6acb17d3a3f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "5일 전 / 5d ago",
-      "title": "The surprising reason you’re so productive one day and not the next",
-      "titleKo": "",
-      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "featured": false
-    },
-    {
-      "id": "1feb820f194c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "5일 전 / 5d ago",
-      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
-      "titleKo": "",
-      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
-      "featured": false
-    },
-    {
-      "id": "75f579114478",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Lifting weights builds a sharper mind and reduces anxiety in older women",
-      "titleKo": "웨이트 운동이 고령 여성의 인지 기능을 개선하고 불안감을 감소시킨다",
-      "summary": "A recent clinical trial reveals that resistance training offers major cognitive and psychological benefits for older women. Regardless of whether participants lifted heavy or light weights, the exercise routine drastically improved memory scores and reduced depressive symptoms.",
-      "aiSummary": "A recent clinical trial examined how resistance training affects cognitive function and mental health in older women. Researchers enrolled older female participants in an exercise program that included both light and heavy weight-lifting routines. Remarkably, regardless of exercise intensity, regular resistance training significantly improved memory scores and substantially reduced depressive symptoms among all participants. This research demonstrates that physical exercise has direct positive effects not only on physical health but also on brain function and mental well-being in aging populations. The findings suggest that older women can benefit from strength training as a non-pharmacological intervention for cognitive decline and mood disorders. However, the study limitations include the lack of specific participant numbers and outcome metrics, as well as potentially insufficient long-term follow-up data to assess sustained effects.\n\n##",
-      "aiSummaryKo": "노인 여성의 인지 기능과 정신 건강을 개선하는 방법을 찾기 위해 최근 임상 시험이 실시되었다. 연구팀은 다양한 연령대의 노인 여성들을 대상으로 저강도와 고강도의 저항성 운동(웨이트 트레이닝)을 실시하는 실험 설계를 진행했다. 놀랍게도 무거운 무게를 들었는지, 가벼운 무게를 들었는지와 관계없이 규칙적인 웨이트 트레이닝은 기억력 점수를 크게 향상시키고 우울증 증상을 현저히 감소시켰다. 이 연구는 신체 운동이 단순히 신체 건강뿐 아니라 뇌 건강과 정신 건강에도 직접적인 긍정 효과를 가진다는 것을 입증했다는 점에서 의의가 있다. 다만 연구에 포함된 참가자 수와 구체적인 수치가 제시되지 않았으며, 장기적 효과에 대한 추적 조사가 부족할 수 있다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "A recent clinical trial examined how resistance training affects cognitive function and mental health in older women. Researchers enrolled older female participants in an exercise program that included both light and heavy weight-lifting routines. Remarkably, regardless of exercise intensity, regular resistance training significantly improved memory scores and substantially reduced depressive symptoms among all participants. This research demonstrates that physical exercise has direct positive effects not only on physical health but also on brain function and mental well-being in aging populations. The findings suggest that older women can benefit from strength training as a non-pharmacological intervention for cognitive decline and mood disorders. However, the study limitations include the lack of specific participant numbers and outcome metrics, as well as potentially insufficient long-term follow-up data to assess sustained effects.\n\n##",
-      "keyPoints": [
-        "**저항성 운동의 이중 효과** / Dual Benefits of Resistance Training: 웨이트 트레이닝이 기억력 개선과 우울증 감소를 동시에 달성 가능",
-        "**강도 무관의 효과** / Intensity-Independent Results: 무거운 무게든 가벼운 무게든 운동 자체가 중요하며, 강도 차이는 결과에 크게 영향을 미치지 않음",
-        "**노인 여성 정신 건강 개입** / Mental Health Intervention for Older Women: 약물 치료 대신 운동 기반의 비약물적 치료 방법 제시",
-        "**인지-신체 건강 연결고리** / Cognitive-Physical Health Connection: 신체 운동이 뇌 건강과 정서적 안정성에 직접적으로 작용하는 메커니즘 입증"
-      ],
-      "url": "https://www.psypost.org/lifting-weights-builds-a-sharper-mind-and-reduces-anxiety-in-older-women-2026-03-20/",
-      "featured": false
-    },
-    {
-      "id": "f63bd1472647",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "How a perceived lack of traditional values makes minorities seem younger",
-      "titleKo": "전통적 가치의 부재로 인해 소수집단이 더 어려 보이는 이유",
-      "summary": "People often stereotype sexual minorities and Black men as unusually young. A new psychology study reveals that this persistent bias stems from a shared cultural assumption that these marginalized groups lack traditional American values.",
-      "aiSummary": "This psychology study investigated why sexual minorities and Black men are often perceived as younger than they actually are. Researchers hypothesized that cultural assumptions linking traditional American values (such as family orientation and conservatism) with maturity drive this persistent bias. Participants showed a tendency to automatically perceive groups deemed lacking in traditional values as younger. The research demonstrates that cultural stereotypes rather than mere physical features influence age perception. This finding helps explain the underlying mechanisms of bias against minority groups. However, the study was conducted primarily within an American cultural context, limiting generalizability to other cultures. Additionally, only implicit biases were measured, so further research is needed to understand connections to actual behavioral changes.\n\n##",
-      "aiSummaryKo": "이 심리학 연구는 성적 소수자와 흑인 남성이 실제보다 더 어려 보이는 현상의 원인을 조사했습니다. 연구팀은 전통적 미국 가치관(예: 가족 중심성, 보수주의)이 성숙함과 강하게 연결되어 있다는 문화적 가정이 이러한 편견을 만든다고 가설했습니다. 참가자들은 전통적 가치관이 부족하다고 인식되는 집단을 자동으로 더 젊게 지각하는 경향을 보였습니다. 이 연구는 단순한 외형적 특징이 아니라 문화적 고정관념이 나이 지각에 영향을 미친다는 점을 밝혔습니다. 이를 통해 소수 집단에 대한 편견의 심층적 기제를 이해할 수 있게 됩니다. 다만 연구는 주로 미국 문화적 맥락에서 진행되었으므로, 다른 문화권에서의 일반화에는 제한이 있습니다. 또한 암묵적 연상(implicit bias)만 측정했으므로 실제 행동 변화와의 관계는 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This psychology study investigated why sexual minorities and Black men are often perceived as younger than they actually are. Researchers hypothesized that cultural assumptions linking traditional American values (such as family orientation and conservatism) with maturity drive this persistent bias. Participants showed a tendency to automatically perceive groups deemed lacking in traditional values as younger. The research demonstrates that cultural stereotypes rather than mere physical features influence age perception. This finding helps explain the underlying mechanisms of bias against minority groups. However, the study was conducted primarily within an American cultural context, limiting generalizability to other cultures. Additionally, only implicit biases were measured, so further research is needed to understand connections to actual behavioral changes.\n\n##",
-      "keyPoints": [
-        "**편견의 문화적 기초** / **Cultural Foundation of Bias**: 전통적 가치관 부족이 지각된 나이를 낮춘다는 문화적 가정이 핵심 메커니즘 / Cultural assumption that lacking traditional values lowers perceived age is the key mechanism",
-        "**고정관념의 연쇄 효과** / **Stereotyping Chain Effect**: 성적 소수자와 흑인 남성 → 전통 가치관 부족으로 간주 → 더 어려 보임 / Sexual minorities and Black men → deemed lacking traditional values → appear younger",
-        "**나이 지각의 심리적 구조** / **Psychological Structure of Age Perception**: 외형이 아닌 사회적 고정관념이 나이 판단을 좌우함 / Social stereotypes rather than appearance determine age judgment",
-        "**소수자 차별의 다층적 이해** / **Multi-layered Understanding of Minority Discrimination**: 단순 인종/성정체성 편견을 넘어 문화 가치관 결부 편견으로 분석 / Extends beyond simple race/sexuality bias to culturally-linked value perception bias"
-      ],
-      "url": "https://www.psypost.org/how-a-perceived-lack-of-traditional-values-makes-minorities-seem-younger/",
-      "featured": false
-    },
-    {
-      "id": "5d410ccfd61f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
-      "titleKo": "사고의 스펙트럼 기하학: 트랜스포머의 추론에서 위상 전이, 명령 반전, 토큰 수준 동역학, 그리고 완벽한 정확성 예측",
-      "summary": "arXiv:2604.15350v1 Announce Type: new Abstract: We discover that large language models exhibit \\emph{spectral phase transitions} in their hidden activation spaces when engaging in reasoning versus factual recall. Through systematic spectral analysis across \\textbf{11 models} spanning \\textbf{5 architecture families} (Qwen, Pythia, Phi, Llama, DeepSeek-R1), we identify \\textbf{seven} core phenomena: (1)~\\textbf{Reasoning Spectral Compression} -- 9/11 models show significantly lower $\\alpha$ for reasoning ($p < 0.05$), with larger effects in stronger models; (2)~\\textbf{Instruction Tuning Spectr",
-      "aiSummary": "This research investigates how large language models (LLMs) operate differently in their hidden activation spaces when performing reasoning versus factual recall tasks. The researchers conducted spectral analysis across 11 models spanning 5 architecture families (Qwen, Pythia, Phi, Llama, DeepSeek-R1). Key findings include: 9 out of 11 models (81.8%) showed spectral compression during reasoning tasks, with stronger models exhibiting larger effects (p < 0.05). The study identified seven core phenomena including instruction tuning spectral characteristics, instruction reversal processing, token-level dynamics, and perfect correctness prediction capabilities. This research provides new perspectives on understanding transformer reasoning mechanisms and could contribute to improving AI model transparency and interpretability. However, the analysis is limited to specific models, and further research is needed on practical applications and generalization across diverse model architectures.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)이 추론과 사실 회상을 수행할 때 숨겨진 활성화 공간에서 어떻게 다르게 작동하는지를 조사했습니다. 연구팀은 Qwen, Pythia, Phi, Llama, DeepSeek-R1 등 5가지 아키텍처 계열의 11개 모델을 대상으로 스펙트럼 분석(spectral analysis)을 수행했습니다. 주요 발견은 다음과 같습니다: 9개 모델(81.8%)에서 추론 작업 시 스펙트럼 압축이 나타났으며, 더 강력한 모델일수록 이 효과가 더 컸습니다(p < 0.05). 또한 지시사항 튜닝, 역 지시사항 처리, 토큰 레벨 역학, 완벽한 정확성 예측 등 7가지 핵심 현상을 발견했습니다. 이 연구는 트랜스포머 모델의 추론 메커니즘을 이해하는 데 새로운 관점을 제시하며, AI 모델의 투명성과 해석 가능성 향상에 기여할 수 있습니다. 다만, 분석이 특정 모델들에 국한되어 있고 실제 적용 가능성에 대한 추가 연구가 필요한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigates how large language models (LLMs) operate differently in their hidden activation spaces when performing reasoning versus factual recall tasks. The researchers conducted spectral analysis across 11 models spanning 5 architecture families (Qwen, Pythia, Phi, Llama, DeepSeek-R1). Key findings include: 9 out of 11 models (81.8%) showed spectral compression during reasoning tasks, with stronger models exhibiting larger effects (p < 0.05). The study identified seven core phenomena including instruction tuning spectral characteristics, instruction reversal processing, token-level dynamics, and perfect correctness prediction capabilities. This research provides new perspectives on understanding transformer reasoning mechanisms and could contribute to improving AI model transparency and interpretability. However, the analysis is limited to specific models, and further research is needed on practical applications and generalization across diverse model architectures.\n\n##",
-      "keyPoints": [
-        "**추론 시 스펙트럼 압축 현상** / Spectral compression occurs during reasoning tasks with statistical significance in 81.8% of models tested, indicating models use different internal representations for different cognitive processes",
-        "**모델 강도와 효과 크기의 상관성** / Larger effects observed in stronger models suggest that more capable LLMs exhibit more pronounced differences between reasoning and factual recall modes",
-        "**7가지 핵심 현상 규명** / Discovery of seven core phenomena (including instruction tuning effects, instruction reversal, token-level dynamics) reveals complex internal mechanisms of transformer reasoning",
-        "**AI 투명성 향상의 기초 제공** / Spectral geometry analysis provides interpretable framework for understanding LLM decision-making processes, advancing AI explainability and model behavior prediction"
-      ],
-      "url": "https://arxiv.org/abs/2604.15350",
-      "featured": false
-    },
-    {
-      "id": "41429b0bac89",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "Aletheia: Gradient-Guided Layer Selection for Efficient LoRA Fine-Tuning Across Architectures",
-      "titleKo": "Aletheia: 효율적인 LoRA 미세조정을 위한 기울기 기반 계층 선택 기법",
-      "summary": "arXiv:2604.15351v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become the dominant parameter-efficient fine-tuning method for large language models, yet standard practice applies LoRA adapters uniformly to all transformer layers regardless of their relevance to the downstream task. We introduce Aletheia, a gradient-guided layer selection method that identifies the most task-relevant layers via a lightweight gradient probe and applies LoRA adapters only to those layers with asymmetric rank allocation. Across 81 experiment rows covering 14 successful models from 8 architecture fa",
-      "aiSummary": "Low-Rank Adaptation (LoRA) has become the standard parameter-efficient fine-tuning method for large language models, yet current practice uniformly applies adapters to all transformer layers regardless of task relevance. This research introduces Aletheia, a gradient-guided layer selection method that identifies task-critical layers using a lightweight gradient probe and applies LoRA adapters asymmetrically only to those layers. The study conducted 81 experiments across 14 models spanning 8 different architectures, significantly improving training efficiency through selective adapter placement. The asymmetric rank allocation strategy enables more sophisticated optimization than conventional uniform approaches. Key advantages include reduced computational resources and memory usage while maintaining performance quality. However, the method requires additional computation during the initial gradient probing phase, and further validation across diverse model architectures may be needed.\n\n##",
-      "aiSummaryKo": "대규모 언어모델을 효율적으로 학습시키는 LoRA(저순위 적응) 기술이 널리 사용되고 있으나, 기존 방식은 모든 신경망 층에 동일하게 적응기를 적용하여 비효율적입니다. 본 연구는 Aletheia라는 새로운 방법을 제시하는데, 이는 가벼운 기울기 탐사기(gradient probe)를 통해 각 작업에 실제로 필요한 층들을 식별합니다. 연구팀은 8가지 아키텍처의 14개 모델을 대상으로 81가지 실험을 수행했으며, 선택적으로 LoRA 적응기를 배치함으로써 학습 효율성을 크게 향상시켰습니다. 비대칭적 순위 할당 방식으로 더욱 정교한 최적화가 가능해졌습니다. 이 방법의 주요 장점은 계산 자원과 메모리 사용을 줄이면서도 성능을 유지할 수 있다는 것입니다. 다만 초기 기울기 탐사 단계에서 추가 계산이 필요하며, 다양한 모델 아키텍처에서의 일반화 검증이 더 필요합니다.\n\n##",
-      "aiSummaryEn": "Low-Rank Adaptation (LoRA) has become the standard parameter-efficient fine-tuning method for large language models, yet current practice uniformly applies adapters to all transformer layers regardless of task relevance. This research introduces Aletheia, a gradient-guided layer selection method that identifies task-critical layers using a lightweight gradient probe and applies LoRA adapters asymmetrically only to those layers. The study conducted 81 experiments across 14 models spanning 8 different architectures, significantly improving training efficiency through selective adapter placement. The asymmetric rank allocation strategy enables more sophisticated optimization than conventional uniform approaches. Key advantages include reduced computational resources and memory usage while maintaining performance quality. However, the method requires additional computation during the initial gradient probing phase, and further validation across diverse model architectures may be needed.\n\n##",
-      "keyPoints": [
-        "**선택적 계층 최적화** / Selective Layer Optimization: 모든 계층에 동일하게 LoRA를 적용하는 대신, 작업 관련성이 높은 특정 계층만 선별하여 적응기 적용",
-        "**기울기 기반 탐사 방식** / Gradient-Guided Probe: 경량 기울기 탐사기를 통해 각 계층의 작업 관련성을 객관적으로 평가하여 신경망 층 선택의 과학성 제고",
-        "**비대칭 순위 할당 전략** / Asymmetric Rank Allocation: 중요도에 따라 각 선택된 계층에 다양한 순위(rank)를 할당하여 성능과 효율성의 균형 달성",
-        "**광범위한 검증 및 확장성** / Extensive Validation Across Architectures: 8가지 아키텍처 14개 모델에서 81개 실험을 통해 다양한 환경에서의 효과 입증, 실제 적용 가능성 높음"
-      ],
-      "url": "https://arxiv.org/abs/2604.15351",
-      "featured": false
-    },
-    {
-      "id": "73ed4dd386b7",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit",
-      "titleKo": "확률적 언어 트라이를 통한 순차적 KV 캐시 압축: 벡터별 섀넌 한계를 넘어서",
-      "summary": "arXiv:2604.15356v1 Announce Type: new Abstract: Recent work on KV cache quantization, culminating in TurboQuant, has approached the Shannon entropy limit for per-vector compression of transformer key-value caches. We observe that this limit applies to a strictly weaker problem than the one that actually matters: compressing the KV cache as a sequence. The tokens stored in a KV cache are not arbitrary floating-point data -- they are samples from the exact formal language the model was trained on, and the model is by construction a near-optimal predictor of that language. We introduce sequential",
-      "aiSummary": "This research addresses the critical bottleneck of KV cache (Key-Value Cache) compression in large language models (LLMs). Previous studies like TurboQuant achieved the Shannon entropy limit for per-vector compression, but overlooked that KV caches must actually be compressed as sequential data. The researchers observe that tokens stored in KV caches are samples from the formal language the model was trained on, and the model is inherently a near-optimal predictor of that language. They propose \"Probabilistic Language Tries,\" a novel method that exploits the model's predictive capability to achieve compression beyond the per-vector Shannon limit. This approach leverages the structural characteristics of transformer models for more efficient compression. However, computational overhead in real deployment environments and generalization across diverse model architectures require further validation.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모 언어 모델(LLM)의 핵심 병목인 KV 캐시(Key-Value Cache) 압축 문제를 다룹니다. 기존 TurboQuant 등의 연구들은 각 벡터를 독립적으로 압축하는 Shannon 엔트로피 한계에 도달했으나, 실제로는 KV 캐시를 연속적인 시퀀스로 압축해야 한다는 점을 간과했습니다. 연구팀은 KV 캐시의 토큰들이 모델이 학습한 언어에서 샘플링된 것이므로, 모델의 예측력을 활용할 수 있다는 통찰을 제시합니다. 이를 바탕으로 '확률적 언어 트라이(Probabilistic Language Tries)'라는 새로운 방법을 제안하여, 기존의 벡터 단위 압축 한계를 넘어서는 성능을 달성했습니다. 이 접근법은 트랜스포머 모델의 구조적 특성을 활용함으로써 더욱 효율적인 압축을 가능하게 합니다. 다만, 실제 배포 환경에서의 계산 오버헤드와 다양한 모델 아키텍처에 대한 일반화 가능성은 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research addresses the critical bottleneck of KV cache (Key-Value Cache) compression in large language models (LLMs). Previous studies like TurboQuant achieved the Shannon entropy limit for per-vector compression, but overlooked that KV caches must actually be compressed as sequential data. The researchers observe that tokens stored in KV caches are samples from the formal language the model was trained on, and the model is inherently a near-optimal predictor of that language. They propose \"Probabilistic Language Tries,\" a novel method that exploits the model's predictive capability to achieve compression beyond the per-vector Shannon limit. This approach leverages the structural characteristics of transformer models for more efficient compression. However, computational overhead in real deployment environments and generalization across diverse model architectures require further validation.\n\n##",
-      "keyPoints": [
-        "**기존 한계 돌파** / Breakthrough Beyond Existing Limits",
-        "vector 압축 방식의 Shannon 엔트로피 한계를 넘어, 시퀀스 기반 압축으로 더 효율적인 KV 캐시 압축 달성",
-        "**언어 구조 활용** / Leveraging Language Structure",
-        "**확률적 언어 트라이 제안** / Probabilistic Language Tries Method"
-      ],
-      "url": "https://arxiv.org/abs/2604.15356",
       "featured": false
     }
   ]
