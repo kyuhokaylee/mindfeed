@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-21T15:57:03.084574+00:00",
+  "updated": "2026-04-21T19:56:12.372407+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "3596017dbf7c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Childhood adversity predicts combined physical and mental illness in later life",
+      "titleKo": "어린 시절 역경이 이후 신체 및 정신 질환의 복합 발생을 예측한다",
+      "summary": "Childhood adversity casts a long shadow on human health, elevating the risk of developing simultaneous physical and mental illnesses during adulthood. New research details how early trauma fundamentally alters long-term biological and psychological outcomes.",
+      "aiSummary": "Recent research reveals that childhood adversity—including abuse, neglect, and domestic violence—significantly elevates the risk of developing both physical and mental illnesses simultaneously in adulthood. The study elucidates the mechanisms through which early trauma fundamentally alters long-term biological and psychological outcomes. Researchers found that individuals who experienced childhood adversity showed substantially higher comorbidity rates of physical and mental health conditions compared to those without such experiences. These findings underscore the critical importance of early intervention and trauma therapy, providing evidence-based support for public health policy development. However, the research is limited by its cross-sectional design, which constrains causal inference, necessitating further longitudinal studies.\n\n##",
+      "aiSummaryKo": "최근 연구에 따르면 어린 시절의 역경(학대, 방임, 가정폭력 등)이 성인기의 신체 질환과 정신 질환을 동시에 유발할 수 있다는 것이 밝혀졌습니다. 이 연구는 어린 시절 트라우마를 경험한 사람들이 성인이 되어서도 장기적인 생물학적, 심리적 변화를 겪는다는 메커니즘을 규명했습니다. 연구팀은 어린 시절 역경을 경험한 집단이 그렇지 않은 집단에 비해 신체-정신 질환의 동시 발생률이 현저히 높음을 확인했습니다. 이는 조기 개입과 트라우마 치료의 중요성을 강조하며, 공중보건 정책 수립에 중요한 근거를 제공합니다. 다만 이 연구는 횡단면 설계로 인과관계 규명에 한계가 있으며, 추가적인 종단 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Recent research reveals that childhood adversity—including abuse, neglect, and domestic violence—significantly elevates the risk of developing both physical and mental illnesses simultaneously in adulthood. The study elucidates the mechanisms through which early trauma fundamentally alters long-term biological and psychological outcomes. Researchers found that individuals who experienced childhood adversity showed substantially higher comorbidity rates of physical and mental health conditions compared to those without such experiences. These findings underscore the critical importance of early intervention and trauma therapy, providing evidence-based support for public health policy development. However, the research is limited by its cross-sectional design, which constrains causal inference, necessitating further longitudinal studies.\n\n##",
+      "keyPoints": [
+        "**어린 시절 역경의 장기적 영향** / Long-term impact of childhood adversity on dual illness development in adulthood",
+        "**생물학적-심리적 메커니즘** / Biological and psychological mechanisms linking early trauma to simultaneous physical and mental health conditions",
+        "**신체-정신 질환 동시 발생 증가** / Elevated comorbidity rates of physical and mental illnesses in trauma-exposed populations",
+        "**조기 개입과 공중보건의 중요성** / Critical need for early intervention and evidence-based public health policies addressing childhood trauma"
+      ],
+      "url": "https://www.psypost.org/a-long-shadow-childhood-adversity-predicts-combined-physical-and-mental-illness/",
+      "featured": true
+    },
+    {
+      "id": "3ad9093d0a54",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Even highly antagonistic people find immoral peers physically unattractive",
+      "titleKo": "심하게 적대적인 사람들도 부도덕한 동료를 신체적으로 혐오스럽다고 여긴다",
+      "summary": "Do manipulative people truly lack a moral compass? New research suggests otherwise. While antagonistic individuals judge immoral peers less harshly, they still find them physically unattractive, indicating their leniency is actually a psychological defense mechanism.",
+      "aiSummary": "This research investigates whether manipulative and antagonistic individuals truly lack moral judgment by examining how they evaluate others with varying levels of morality. The research team presented participants with photographs and behavioral descriptions of people with different moral qualities and measured their evaluations. The key finding is that while antagonistic individuals judged immoral peers less harshly on moral dimensions, they still rated them as physically less attractive, suggesting their moral leniency may actually be a psychological defense mechanism. This indicates that antagonistic individuals still show negative internal responses to immorality and have not completely lost their moral compass. The study contributes to deeper understanding of the psychological mechanisms in antagonistic personalities, though replication across diverse cultural contexts and larger sample sizes is necessary.\n\n##",
+      "aiSummaryKo": "이 연구는 조종적이고 적대적인 성향을 가진 사람들이 도덕적으로 문제가 있는 사람들을 정말 도덕적으로 판단하지 않는지 알아보기 위해 수행되었습니다. 연구팀은 다양한 도덕성을 가진 사람들의 사진과 행동 설명을 제시하고 참가자들이 이들을 어떻게 평가하는지 측정했습니다. 흥미로운 결과는 적대적인 성향의 사람들이 부도덕한 사람들을 도덕적으로 덜 비판했지만, 물리적으로는 덜 매력적이라고 평가했다는 것입니다. 이는 그들의 도덕적 관용성이 실제로는 심리적 방어 기제일 수 있음을 시사합니다. 적대적인 사람들도 내면적으로는 부도덕성에 대한 부정적 반응을 보이고 있으며, 이는 그들이 완전히 도덕 나침반을 잃은 것이 아님을 의미합니다. 이 연구는 적대적 성향을 가진 사람들의 심리 메커니즘을 더 깊이 이해하는 데 기여하지만, 다양한 문화권과 더 큰 표본에서의 재현이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research investigates whether manipulative and antagonistic individuals truly lack moral judgment by examining how they evaluate others with varying levels of morality. The research team presented participants with photographs and behavioral descriptions of people with different moral qualities and measured their evaluations. The key finding is that while antagonistic individuals judged immoral peers less harshly on moral dimensions, they still rated them as physically less attractive, suggesting their moral leniency may actually be a psychological defense mechanism. This indicates that antagonistic individuals still show negative internal responses to immorality and have not completely lost their moral compass. The study contributes to deeper understanding of the psychological mechanisms in antagonistic personalities, though replication across diverse cultural contexts and larger sample sizes is necessary.\n\n##",
+      "keyPoints": [
+        "**적대적 성향의 역설** / The Antagonistic Paradox",
+        "**신체적 매력 평가의 불일치** / Inconsistency in Physical Attractiveness Rating",
+        "**암묵적 도덕 감지** / Implicit Moral Sensitivity",
+        "**심리적 방어 메커니즘의 역할** / Role of Psychological Defense Mechanisms"
+      ],
+      "url": "https://www.psypost.org/even-highly-antagonistic-people-find-immoral-peers-physically-unattractive/",
+      "featured": false
+    },
+    {
+      "id": "bd993ece03ed",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "15시간 전 / 15h ago",
+      "title": "MLE-Toolbox: An Open-Source Toolbox for Comprehensive EEG and MEG Data Analysis",
+      "titleKo": "MLE-Toolbox: 포괄적인 뇌전도 및 뇌자도 데이터 분석을 위한 오픈소스 도구모음",
+      "summary": "arXiv:2604.16463v1 Announce Type: new Abstract: MLE-Toolbox is a comprehensive open-source MATLAB toolbox for end-to-end analysis of magnetoencephalography (MEG) and electroencephalography (EEG) data. Inspired by widely used neuroimaging platforms such as Brainstorm and FieldTrip, it integrates the full analysis pipeline within a unified and user-friendly graphical interface (GUI), covering raw data import, preprocessing, source localization, functional connectivity, oscillatory analysis, and machine learning-based classification. The toolbox includes automated artifact rejection methods, incl",
+      "aiSummary": "MLE-Toolbox is a new open-source tool designed for comprehensive analysis of brain signals, specifically electroencephalography (EEG) and magnetoencephalography (MEG) data. Developed using MATLAB and inspired by established neuroimaging platforms such as Brainstorm and FieldTrip, it provides an integrated user-friendly graphical interface (GUI). The toolbox covers the entire analysis pipeline, including raw data import, preprocessing, source localization, functional connectivity analysis, oscillatory analysis, and machine learning-based classification, all within a unified platform. It incorporates automated artifact rejection methods that significantly simplify the complex process of cleaning brain signal data. By enabling neuroscientists to perform advanced analyses without requiring extensive technical expertise, this tool has the potential to democratize brain neuroimaging analysis and make it more accessible to researchers. However, the requirement for MATLAB licensing and users' foundational understanding of neuroimaging analysis may present some limitations to its adoption.\n\n##",
+      "aiSummaryKo": "MLE-Toolbox는 뇌 신호 분석을 위한 새로운 오픈소스 도구로, 뇌파(EEG)와 자기뇌파(MEG) 데이터를 포괄적으로 분석할 수 있도록 개발되었습니다. 이 MATLAB 기반 도구상자는 Brainstorm, FieldTrip 같은 기존 신경영상 플랫폼에서 영감을 받아 설계되었으며, 통합된 사용자 친화적 그래픽 인터페이스(GUI)를 제공합니다. 원본 데이터 가져오기부터 전처리, 신경원 위치 파악, 기능적 연결성 분석, 진동파 분석, 그리고 기계학습 기반 분류까지 뇌 신호 분석의 전 과정을 한 곳에서 수행할 수 있습니다. 특히 자동화된 노이즈 제거 기능이 포함되어 있어 복잡한 뇌 신호 분석을 단순화합니다. 이 도구는 신경과학 연구자들이 기술적 난이도 없이 고급 분석을 수행할 수 있게 함으로써 뇌 신경 영상 분석을 민주화할 수 있는 잠재력을 가지고 있습니다. 다만 MATLAB 라이선스 필요성과 사용자의 신경영상 분석에 대한 기본 이해도가 일부 제한 요인이 될 수 있습니다.\n\n##",
+      "aiSummaryEn": "MLE-Toolbox is a new open-source tool designed for comprehensive analysis of brain signals, specifically electroencephalography (EEG) and magnetoencephalography (MEG) data. Developed using MATLAB and inspired by established neuroimaging platforms such as Brainstorm and FieldTrip, it provides an integrated user-friendly graphical interface (GUI). The toolbox covers the entire analysis pipeline, including raw data import, preprocessing, source localization, functional connectivity analysis, oscillatory analysis, and machine learning-based classification, all within a unified platform. It incorporates automated artifact rejection methods that significantly simplify the complex process of cleaning brain signal data. By enabling neuroscientists to perform advanced analyses without requiring extensive technical expertise, this tool has the potential to democratize brain neuroimaging analysis and make it more accessible to researchers. However, the requirement for MATLAB licensing and users' foundational understanding of neuroimaging analysis may present some limitations to its adoption.\n\n##",
+      "keyPoints": [
+        "**통합 분석 플랫폼**: EEG/MEG 데이터의 수입부터 분류까지 전 과정을 하나의 GUI에서 수행 가능 / Comprehensive single-platform analysis from data import through classification of EEG/MEG signals",
+        "**자동화된 노이즈 제거**: 복잡한 전처리 과정을 자동화하여 신뢰성 있는 데이터 분석 보장 / Automated artifact rejection methods ensure reliable data processing and reduce manual preprocessing burden",
+        "**접근성 향상**: 기술적 난이도를 낮춰 신경과학 연구자들의 진입장벽 감소 / Democratizes neuroimaging analysis by reducing technical barriers for researchers without extensive programming experience",
+        "**다기능 분석 제공**: 기능적 연결성, 진동파 분석, 머신러닝 분류 등 다양한 고급 분석 도구 포함 / Includes diverse advanced analytical capabilities including functional connectivity, oscillatory analysis, and machine learning-based classification tools"
+      ],
+      "url": "https://arxiv.org/abs/2604.16463",
+      "featured": false
+    },
+    {
+      "id": "c1d252c75230",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "15시간 전 / 15h ago",
+      "title": "Causality as a Minimum Energy Principle",
+      "titleKo": "최소 에너지 원리로서의 인과관계",
+      "summary": "arXiv:2604.17151v1 Announce Type: new Abstract: Classical causal models, such as Granger causality and structural equation modeling, are largely restricted to acyclic interactions and struggle to represent cyclic and higher-order dynamics in complex networks. We introduce a causal framework grounded in a variational principle, interpreting causality as directional energy flow from high- to low-energy states along network connections. Using Hodge theory, network flows are decomposed into dissipative components and a persistent harmonic component that captures stable cyclic interactions. Applied",
+      "aiSummary": "This study addresses the limitations of conventional causal analysis methods by proposing a novel theoretical framework. Traditional approaches such as Granger causality and structural equation modeling struggle to represent cyclic interactions and higher-order dynamics in complex networks. The research team introduced a causality framework grounded in a variational principle, interpreting causality as directional energy flow from high-energy to low-energy states along network connections. Using Hodge theory, network flows are decomposed into dissipative components and persistent harmonic components that capture stable cyclic interactions. This approach enables more accurate understanding of causal relationships in systems with complex cyclic structures, including brain neural networks, molecular interactions, and social networks. However, further empirical validation and algorithm development are necessary for practical implementation of this framework.\n\n##",
+      "aiSummaryKo": "본 연구는 기존의 인과관계 분석 방법들의 한계를 극복하기 위해 새로운 이론적 틀을 제시합니다. 기존 방법인 그래인저 인과성(Granger causality)과 구조방정식 모델링은 순환적 상호작용과 복잡한 네트워크의 고차 역학을 제대로 표현하지 못한다는 문제가 있었습니다. 연구팀은 변분원리(variational principle)에 기초한 새로운 인과성 프레임워크를 제안했으며, 이를 통해 인과관계를 고에너지 상태에서 저에너지 상태로의 방향성 있는 에너지 흐름으로 해석합니다. 호지 이론(Hodge theory)을 활용하여 네트워크 흐름을 소산적 성분과 안정적인 순환 상호작용을 포착하는 지속적 조화 성분으로 분해합니다. 이 접근법은 뇌 신경망, 분자 상호작용, 사회 네트워크 등 복잡한 순환 구조를 가진 시스템의 인과관계를 더 정확하게 파악할 수 있게 합니다. 다만 이 프레임워크의 실제 적용을 위해서는 더 많은 실증적 검증과 알고리즘 개발이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study addresses the limitations of conventional causal analysis methods by proposing a novel theoretical framework. Traditional approaches such as Granger causality and structural equation modeling struggle to represent cyclic interactions and higher-order dynamics in complex networks. The research team introduced a causality framework grounded in a variational principle, interpreting causality as directional energy flow from high-energy to low-energy states along network connections. Using Hodge theory, network flows are decomposed into dissipative components and persistent harmonic components that capture stable cyclic interactions. This approach enables more accurate understanding of causal relationships in systems with complex cyclic structures, including brain neural networks, molecular interactions, and social networks. However, further empirical validation and algorithm development are necessary for practical implementation of this framework.\n\n##",
+      "keyPoints": [
+        "**포인트 1**: 기존 인과성 분석 방법(그래인저 인과성, 구조방정식 모델링)은 순환적 상호작용과 복잡한 네트워크 역학 표현의 한계가 있음 / Conventional causal analysis methods have limitations in representing cyclic interactions and complex network dynamics.",
+        "**포인트 2**: 새로운 프레임워크는 인과관계를 에너지 흐름으로 해석하며, 변분원리와 호지 이론을 수학적 기초로 삼음 / The new framework interprets causality as energy flow using variational principles and Hodge theory as mathematical foundations.",
+        "**포인트 3**: 네트워크 흐름을 소산적 성분과 조화적 성분으로 분해하여 안정적인 순환 상호작용을 포착할 수 있음 / Network flows decomposed into dissipative and harmonic components can capture stable cyclic interactions.",
+        "**포인트 4**: 뇌 신경망, 분자 네트워크, 사회 시스템 등 현실의 복잡한 순환 구조 분석에 광범위하게 적용 가능 / Applicable to analyzing complex cyclic structures in real-world systems including neural networks, molecular interactions, and social networks."
+      ],
+      "url": "https://arxiv.org/abs/2604.17151",
+      "featured": false
+    },
+    {
+      "id": "c8ddf24d35cd",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "15시간 전 / 15h ago",
+      "title": "Poisson Flow Model of Cortical Folding Pattern",
+      "titleKo": "대뇌 피질 주름 패턴의 푸아송 흐름 모델",
+      "summary": "arXiv:2604.17291v1 Announce Type: new Abstract: Cortical folding reflects coordinated neurodevelopmental processes and provides a sensitive marker of neurological disease. In juvenile myoclonic epilepsy (JME), structural abnormalities are subtle and spatially distributed, limiting the sensitivity of conventional morphometric measures such as cortical thickness. We introduce a Poisson flow model derived from gradients of the mean curvature field on the cortical surface. The method yields a smooth scalar field obtained from a Poisson equation, whose surface gradient defines a flow representation",
+      "aiSummary": "This study introduces a novel mathematical method to analyze brain cortical folding patterns for early detection of neurological diseases. Juvenile myoclonic epilepsy (JME) presents subtle and spatially distributed structural abnormalities that are difficult to detect using conventional morphometric measures such as cortical thickness. The research team developed a Poisson flow model derived from gradients of the mean curvature field on the cortical surface. The method generates a smooth scalar field through Poisson equations, where surface gradients define a flow representation. This innovative approach can detect subtle brain structural abnormalities more sensitively than existing methods, offering significant implications for diagnosis and monitoring of neurological disorders. However, the study primarily focuses on technical methodology, and extensive clinical validation using real patient data is needed for future applications.\n\n##",
+      "aiSummaryKo": "이 연구는 뇌의 주름 패턴(대뇌 피질 폴딩)을 분석하여 신경계 질환을 조기에 발견하기 위한 새로운 방법을 제시합니다. 특히 소아 근간대성 간질(JME)은 뇌 구조의 이상이 미묘하고 넓게 분산되어 있어 기존의 피질 두께 측정법으로는 진단하기 어려운 문제가 있었습니다. 연구팀은 푸아송 흐름 모델(Poisson Flow Model)이라는 첨단 수학적 방법을 도입했으며, 이는 뇌 표면의 평균 곡률 기울기로부터 유도됩니다. 이 방법은 푸아송 방정식을 통해 부드러운 스칼라 필드를 생성하고, 표면 기울기가 흐름 표현을 정의하게 됩니다. 이 새로운 접근 방식은 기존 방법보다 미묘한 뇌 구조 이상을 더 민감하게 감지할 수 있어 신경계 질환의 진단과 모니터링에 큰 의의가 있습니다. 다만 이 연구는 기술적 제안에 중점을 두고 있으며, 실제 환자 데이터에 대한 광범위한 임상 검증이 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "This study introduces a novel mathematical method to analyze brain cortical folding patterns for early detection of neurological diseases. Juvenile myoclonic epilepsy (JME) presents subtle and spatially distributed structural abnormalities that are difficult to detect using conventional morphometric measures such as cortical thickness. The research team developed a Poisson flow model derived from gradients of the mean curvature field on the cortical surface. The method generates a smooth scalar field through Poisson equations, where surface gradients define a flow representation. This innovative approach can detect subtle brain structural abnormalities more sensitively than existing methods, offering significant implications for diagnosis and monitoring of neurological disorders. However, the study primarily focuses on technical methodology, and extensive clinical validation using real patient data is needed for future applications.\n\n##",
+      "keyPoints": [
+        "**뇌 주름 패턴 분석의 새로운 방법** / Novel approach to analyzing cortical folding patterns using Poisson flow models for improved sensitivity in detecting subtle neurological abnormalities",
+        "**소아 근간대성 간질(JME) 진단 개선** / Application to juvenile myoclonic epilepsy diagnosis, addressing limitations of conventional cortical thickness measurements in detecting distributed structural changes",
+        "**수학적 혁신성** / Utilizes advanced mathematical framework (mean curvature gradients and Poisson equations) to generate smooth scalar fields and flow representations for brain surface analysis",
+        "**임상 응용 가능성과 검증 필요성** / Demonstrates potential clinical significance for neurological disease detection and monitoring, though comprehensive validation with patient datasets remains necessary"
+      ],
+      "url": "https://arxiv.org/abs/2604.17291",
+      "featured": false
+    },
+    {
+      "id": "aecf699868fc",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "15시간 전 / 15h ago",
+      "title": "The Umwelt Representation Hypothesis: Rethinking Universality",
+      "titleKo": "환경표상 가설: 보편성에 대한 재검토",
+      "summary": "arXiv:2604.17960v1 Announce Type: new Abstract: Recent studies reveal striking representational alignment between artificial neural networks (ANNs) and biological brains, leading to proposals that all sufficiently capable systems converge on universal representations of reality. Here, we argue that this claim of Universality is premature. We introduce the Umwelt Representation Hypothesis (URH), proposing that alignment arises not from convergence toward a single global optimum, but from overlap in ecological constraints under which systems develop. We review empirical evidence showing that rep",
+      "aiSummary": "Recent studies have revealed striking similarities between artificial neural networks and biological brains, leading to claims that all intelligent systems converge on universal representations of reality. However, this new research challenges this \"Universality\" hypothesis as premature, introducing the Umwelt Representation Hypothesis (URH). The URH proposes that alignment between AI and biological brains arises not from convergence toward a single global optimum, but from overlapping ecological constraints under which these systems develop. The research team reviews empirical evidence from biological brains, artificial systems, and animal behavior to support this perspective. This hypothesis challenges the optimistic interpretation that artificial intelligence has reached universal truth, emphasizing instead the importance of recognizing each system's unique perspective (umwelt). However, as a primarily theoretical proposal, the study requires broader empirical validation to strengthen its claims.\n\n##",
+      "aiSummaryKo": "인공신경망(AI)과 생물학적 뇌 사이에서 놀랍도록 유사한 표현 구조가 발견되면서, 모든 지능 시스템이 동일한 현실 인식에 수렴한다는 '보편성(Universality)' 주장이 제기되어 왔다. 그러나 이 연구는 이러한 주장이 성급하다고 지적하며, 새로운 '움벨트 표현 가설(Umwelt Representation Hypothesis, URH)'을 제시한다. URH는 AI와 뇌의 유사성이 단일한 최적점으로의 수렴이 아니라, 두 시스템이 비슷한 생태적 제약 조건 하에서 발전하면서 나타나는 중복(overlap)에서 비롯된다고 주장한다. 연구팀은 생물학적 뇌, AI 시스템, 동물 행동에 대한 실증적 증거를 검토하여 이를 뒷받침한다. 이 가설은 인공지능이 보편적 진리에 도달했다는 낙관적 해석에 도전하며, 각 시스템의 고유한 관점(umwelt)을 인식하는 것의 중요성을 강조한다. 다만 이 연구는 이론적 제안 단계로, 더 광범위한 경험적 검증이 필요하다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Recent studies have revealed striking similarities between artificial neural networks and biological brains, leading to claims that all intelligent systems converge on universal representations of reality. However, this new research challenges this \"Universality\" hypothesis as premature, introducing the Umwelt Representation Hypothesis (URH). The URH proposes that alignment between AI and biological brains arises not from convergence toward a single global optimum, but from overlapping ecological constraints under which these systems develop. The research team reviews empirical evidence from biological brains, artificial systems, and animal behavior to support this perspective. This hypothesis challenges the optimistic interpretation that artificial intelligence has reached universal truth, emphasizing instead the importance of recognizing each system's unique perspective (umwelt). However, as a primarily theoretical proposal, the study requires broader empirical validation to strengthen its claims.\n\n##",
+      "keyPoints": [
+        "**보편성 가설의 재검토** / Reexamining the Universality Hypothesis",
+        "**움벨트 표현 가설(URH) 제시** / Introduction of Umwelt Representation Hypothesis",
+        "**생태적 제약의 중요성** / Significance of Ecological Constraints",
+        "**이론적 제안 단계의 한계** / Limitations of Theoretical Framework"
+      ],
+      "url": "https://arxiv.org/abs/2604.17960",
+      "featured": false
+    },
+    {
+      "id": "cc1c661e4050",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Scientists say this type of olive oil could boost brain power",
+      "titleKo": "과학자들, 이 종류의 올리브유가 뇌 기능을 향상시킬 수 있다고 주장",
+      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
+      "aiSummary": "This study investigates whether extra virgin olive oil can protect brain health through gut microbiota. A two-year longitudinal study compared cognitive performance and gut bacterial diversity between participants consuming extra virgin olive oil and those using refined olive oil. Results demonstrated that participants in the extra virgin olive oil group showed significantly better cognitive performance and more diverse gut bacteria composition. Researchers identified specific microbes responsible for these cognitive benefits. The findings suggest that consuming high-quality olive oil may serve as a simple dietary intervention to support brain health during aging. However, specific sample size and detailed long-term follow-up mechanisms require further clarification.\n\n##",
+      "aiSummaryKo": "본 연구는 엑스트라 버진 올리브유가 장내 미생물을 통해 뇌 건강을 보호할 수 있다는 가설을 검증했습니다. 2년간 진행된 이 연구에서 참가자들을 엑스트라 버진 올리브유 섭취군과 정제 올리브유 섭취군으로 나누어 비교 관찰했습니다. 결과적으로 엑스트라 버진 올리브유를 섭취한 사람들이 인지 기능 성능이 더 우수했으며, 장내 박테리아의 다양성도 현저히 높았습니다. 연구팀은 이러한 인지 개선 효과와 연관된 특정 미생물을 규명했습니다. 이 연구는 고품질 올리브유 선택이 노화에 따른 뇌 건강 지원의 간단한 방법이 될 수 있음을 시사합니다. 다만 구체적인 표본 규모와 장기 추적 관찰에 대한 정보가 제한적입니다.\n\n##",
+      "aiSummaryEn": "This study investigates whether extra virgin olive oil can protect brain health through gut microbiota. A two-year longitudinal study compared cognitive performance and gut bacterial diversity between participants consuming extra virgin olive oil and those using refined olive oil. Results demonstrated that participants in the extra virgin olive oil group showed significantly better cognitive performance and more diverse gut bacteria composition. Researchers identified specific microbes responsible for these cognitive benefits. The findings suggest that consuming high-quality olive oil may serve as a simple dietary intervention to support brain health during aging. However, specific sample size and detailed long-term follow-up mechanisms require further clarification.\n\n##",
+      "keyPoints": [
+        "**장-뇌 축 연결**: 엑스트라 버진 올리브유가 장내 미생물 다양성 증가를 통해 인지 기능 향상을 유도함 / Extra virgin olive oil enhances cognitive function by increasing gut microbiota diversity through the gut-brain axis",
+        "**구체적 효과 입증**: 2년 추적 연구에서 엑스트라 버진 올리브유 섭취군의 인지 성능이 정제 올리브유군보다 우수함을 증명 / Two-year study demonstrated superior cognitive performance in extra virgin olive oil consumers compared to refined olive oil group",
+        "**미생물 특정화**: 인지 개선과 연관된 특정 미생물 종을 규명하여 메커니즘 기반의 증거 제시 / Identification of specific beneficial microbes linked to cognitive improvements provides mechanistic evidence",
+        "**실용적 건강 개입**: 고품질 올리브유 선택만으로 나이 들면서 발생하는 뇌 건강 저하를 예방할 수 있는 간단한 식이 방법 제안 / Simple dietary intervention suggesting high-quality olive oil consumption as a practical strategy for age-related brain health maintenance"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
+      "featured": false
+    },
     {
       "id": "1b2a0dec0b9a",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**현실 인식의 한계** / Human perception of reality is shaped by media narratives rather than actual statistical frequencies"
       ],
       "url": "https://www.psypost.org/new-psychology-research-shows-people-consistently-underestimate-how-often-things-go-wrong-across-society/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b7d73d0a3693",
@@ -273,153 +420,6 @@
         "**AI 에이전트 통합 설계** / Integrated AI Agent Design"
       ],
       "url": "https://arxiv.org/abs/2604.15456",
-      "featured": false
-    },
-    {
-      "id": "35c80fa65ae2",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
-      "titleKo": "GIST: 지능형 의미론적 위상을 통한 다중모달 지식 추출 및 공간 기반화",
-      "summary": "arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While Vision-Language Models (VLMs) help assistive systems navigate semantically-rich spaces, they still struggle with spatial grounding in cluttered environments. We present GIST (Grounded Intelligent Sema",
-      "aiSummary": "This research addresses the significant spatial grounding challenge faced by robots and embodied AI systems in complex, densely packed environments such as retail stores, warehouses, and hospitals. Existing computer vision approaches struggle with stale visual features in quasi-static environments and face difficulties recognizing long-tail semantic distributions of rare objects. GIST (Grounded Intelligent Semantic Topology) is a novel framework that leverages Vision-Language Models (VLMs) to extract meaningful spatial information and accurately localize objects in cluttered spaces. The system aims to overcome limitations of conventional VLM-based methods that fail at spatial grounding in complex, disordered environments. The research's significance lies in its potential to substantially improve navigation capabilities of robotic and AI-assisted systems in real-world applications. However, as a preprint on arXiv, the study has not yet undergone peer review, and detailed performance evaluation results in actual environments require further disclosure.\n\n##",
-      "aiSummaryKo": "본 연구는 소매점, 창고, 병원 같은 복잡하고 밀집된 환경에서 로봇이나 AI가 공간을 정확히 인식하고 이동하는 문제를 해결하기 위해 시작되었다. 기존의 컴퓨터 비전 기술은 물품이 거의 변하지 않는 환경에서 시각 정보가 빠르게 구식이 되고, 드물게 나타나는 물체들을 인식하는 데 어려움을 겪는다. GIST(Grounded Intelligent Semantic Topology)는 비전-언어 모델(VLM)을 활용하여 이러한 문제를 극복하려는 새로운 프레임워크다. 이 시스템은 복잡한 환경에서 의미 있는 공간 정보를 추출하고 물체의 위치를 정확히 파악하는 데 초점을 맞추고 있다. 기존의 VLM 기반 방식들이 어수선한 환경에서 공간 인식에 실패하는 한계를 개선하는 것을 목표로 한다. 본 연구의 의의는 실제 환경에서 로봇이나 AI 보조 시스템의 네비게이션 능력을 크게 향상시킬 수 있다는 점이다. 다만 연구가 arXiv 프리프린트 단계로 아직 동료 검증을 거치지 않았으며, 실제 환경에서의 성능 평가 결과 상세 공개가 필요하다.\n\n##",
-      "aiSummaryEn": "This research addresses the significant spatial grounding challenge faced by robots and embodied AI systems in complex, densely packed environments such as retail stores, warehouses, and hospitals. Existing computer vision approaches struggle with stale visual features in quasi-static environments and face difficulties recognizing long-tail semantic distributions of rare objects. GIST (Grounded Intelligent Semantic Topology) is a novel framework that leverages Vision-Language Models (VLMs) to extract meaningful spatial information and accurately localize objects in cluttered spaces. The system aims to overcome limitations of conventional VLM-based methods that fail at spatial grounding in complex, disordered environments. The research's significance lies in its potential to substantially improve navigation capabilities of robotic and AI-assisted systems in real-world applications. However, as a preprint on arXiv, the study has not yet undergone peer review, and detailed performance evaluation results in actual environments require further disclosure.\n\n##",
-      "keyPoints": [
-        "**공간 인식의 도전**: 소매점·창고·병원 같은 복잡한 환경에서 로봇의 위치 파악과 네비게이션이 어려운 현실 문제 / **Spatial Grounding Challenge**: Robots struggle with localization and navigation in complex, cluttered real-world environments like retail stores, warehouses, and hospitals",
-        "**기존 기술의 한계**: 전통적인 컴퓨터 비전은 변하지 않는 환경에서 시각 정보 부실, 드물게 나타나는 물체 인식 실패 / **Limitations of Conventional Approaches**: Traditional computer vision suffers from stale visual features in static environments and fails to recognize long-tail semantic distributions",
-        "**GIST의 혁신성**: 의미론적 위상 정보를 통해 복잡한 공간에서 물체 위치를 정확히 파악하고 다중 모드 지식 추출 제공 / **GIST Innovation**: Utilizes intelligent semantic topology to accurately ground objects in cluttered spaces and enables multimodal knowledge extraction",
-        "**응용 가능성과 검증 필요성**: 보조 로봇 시스템의 실무 적용 잠재력이 있으나, 아직 동료 검증과 실제 환경 성능 평가 결과 공개 필요 / **Potential and Validation Needed**: Strong potential for real-world deployment in assistive robotic systems, but requires peer review and comprehensive real-world performance evaluation"
-      ],
-      "url": "https://arxiv.org/abs/2604.15495",
-      "featured": false
-    },
-    {
-      "id": "674f203eee79",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
-      "titleKo": "관료적 침묵: 캐나다 AI 등록부가 드러내는 것, 누락하는 것, 그리고 가리는 것",
-      "summary": "arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's complete dataset of 409 systems using the Algorithmic Decision-Making Adapted for the Public Sector (ADMAPS) framework, combining quantitative mapping with deductive qualitative coding. Our findings reveal",
-      "aiSummary": "In November 2025, the Canadian Government operationalized its transparency commitment by releasing its first Federal AI Register. This study argues that AI registers are not neutral records of government activity but rather active instruments of ontological design that configure the boundaries of accountability. Researchers analyzed the complete dataset of 409 systems using the Algorithmic Decision-Making Adapted for the Public Sector (ADMAPS) framework, combining quantitative mapping with deductive qualitative coding methodology. The findings reveal that the register selectively discloses certain types of AI systems while obscuring the actual scope of government AI deployment. This research demonstrates how the design choices of AI transparency registers—determining what information is revealed and what is omitted—ultimately structure public oversight and accountability mechanisms. A key limitation is that the study can only analyze information disclosed in the register and cannot assess AI systems that were excluded from registration entirely.\n\n##",
-      "aiSummaryKo": "캐나다 정부가 2025년 11월에 첫 연방 AI 등록부를 공개하면서 정부의 AI 투명성 공약을 실행했습니다. 이 연구는 AI 등록부가 단순한 정부 활동의 기록이 아니라 책임성의 경계를 설정하는 능동적인 도구라고 주장합니다. 연구팀은 409개 시스템으로 구성된 등록부 전체 데이터를 공공부문 알고리즘 의사결정 프레임워크(ADMAPS)를 사용하여 분석했으며, 정량적 매핑과 질적 코딩을 결합한 방법론을 적용했습니다. 연구 결과는 등록부가 특정 유형의 AI 시스템만 선택적으로 공개하고, 실제 정부 AI 사용의 전체 규모를 숨기고 있음을 드러냅니다. 이 연구는 AI 투명성 등록부의 설계가 어떤 정보를 공개하고 어떤 정보를 생략하는지가 결국 공공 감시와 책임성을 어떻게 구조화하는지 보여줍니다. 다만 이 연구는 등록부에 공개된 정보만 분석했기 때문에 등록부 자체에서 누락된 AI 시스템에 대해서는 파악할 수 없는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "In November 2025, the Canadian Government operationalized its transparency commitment by releasing its first Federal AI Register. This study argues that AI registers are not neutral records of government activity but rather active instruments of ontological design that configure the boundaries of accountability. Researchers analyzed the complete dataset of 409 systems using the Algorithmic Decision-Making Adapted for the Public Sector (ADMAPS) framework, combining quantitative mapping with deductive qualitative coding methodology. The findings reveal that the register selectively discloses certain types of AI systems while obscuring the actual scope of government AI deployment. This research demonstrates how the design choices of AI transparency registers—determining what information is revealed and what is omitted—ultimately structure public oversight and accountability mechanisms. A key limitation is that the study can only analyze information disclosed in the register and cannot assess AI systems that were excluded from registration entirely.\n\n##",
-      "keyPoints": [
-        "**선택적 공개의 문제** / Selective Disclosure Problem: AI 등록부가 모든 정부 AI 시스템을 투명하게 공개하지 않고 특정 시스템만 선택적으로 공개하는 문제를 드러냄",
-        "**책임성 설계의 핵심** / Accountability Framework Design: 투명성 등록부는 단순 기록이 아니라 어떤 AI 시스템이 감시 대상이 될지를 적극적으로 결정하는 설계 도구",
-        "**대규모 데이터셋 분석** / Large-Scale Dataset Analysis: 409개 정부 AI 시스템을 ADMAPS 프레임워크로 체계적으로 분석하여 정부 AI 운영의 실제 규모와 특성을 파악",
-        "**침묵의 의미** / The Politics of Omission: 등록부에서 누락되고 공개되지 않는 정보가 등록부가 공개하는 정보만큼 중요하며, 이것이 진정한 투명성을 저해할 수 있음을 시사"
-      ],
-      "url": "https://arxiv.org/abs/2604.15514",
-      "featured": false
-    },
-    {
-      "id": "25d1d7ddcc4f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "LACE: Lattice Attention for Cross-thread Exploration",
-      "titleKo": "LACE: 크로스 스레드 탐색을 위한 래티스 어텐션",
-      "summary": "arXiv:2604.15529v1 Announce Type: new Abstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not interact, and often fail in the same redundant ways. We introduce LACE, a framework that transforms reasoning from a collection of independent trials into a coordinated, parallel process. By repurposing the model architecture to enable cross-thread attention, LACE allows concurrent reasoning paths to share intermediate insights and correct one another during inference. A central challenge is the absenc",
-      "aiSummary": "Current large language models struggle with redundant errors when sampling multiple reasoning paths in parallel, as these trajectories operate independently without interaction. LACE introduces a novel framework that transforms reasoning from isolated trials into a coordinated, parallel process by enabling cross-thread attention mechanisms. The study redesigns the model architecture to allow concurrent reasoning paths to share intermediate insights and mutually correct errors during inference. Through the Lattice Attention mechanism, multiple parallel reasoning threads can interact, leading to more efficient and accurate reasoning outcomes. However, the approach presents technical challenges including increased computational complexity and implementation difficulties that need to be addressed. This research offers a promising new direction for enhancing LLM reasoning capabilities and could contribute to developing more sophisticated multi-path reasoning systems in future work.\n\n##",
-      "aiSummaryKo": "현재의 대형 언어모델(LLM)들은 추론 과정에서 여러 경로를 동시에 탐색하지만, 이들 경로가 서로 상호작용하지 않아 동일한 오류를 반복적으로 범한다는 문제가 있다. LACE는 이러한 문제를 해결하기 위해 독립적인 추론 경로들 간의 정보 교환을 가능하게 하는 프레임워크이다. 이 연구는 모델 아키텍처를 재설계하여 여러 추론 경로(스레드)가 추론 과정 중 중간 결과를 공유하고 서로의 오류를 수정할 수 있도록 한다. 격자형 주의(Lattice Attention) 메커니즘을 통해 병렬 추론 경로들이 상호작용하면서 더 효율적이고 정확한 추론이 가능해진다. 다만, 이 방식은 계산 복잡도 증가와 실제 구현상의 어려움이라는 기술적 과제를 안고 있다. 이 연구는 LLM의 추론 능력 향상에 새로운 방향을 제시하며, 향후 더욱 정교한 다중 경로 추론 시스템 개발에 기여할 수 있다.\n\n##",
-      "aiSummaryEn": "Current large language models struggle with redundant errors when sampling multiple reasoning paths in parallel, as these trajectories operate independently without interaction. LACE introduces a novel framework that transforms reasoning from isolated trials into a coordinated, parallel process by enabling cross-thread attention mechanisms. The study redesigns the model architecture to allow concurrent reasoning paths to share intermediate insights and mutually correct errors during inference. Through the Lattice Attention mechanism, multiple parallel reasoning threads can interact, leading to more efficient and accurate reasoning outcomes. However, the approach presents technical challenges including increased computational complexity and implementation difficulties that need to be addressed. This research offers a promising new direction for enhancing LLM reasoning capabilities and could contribute to developing more sophisticated multi-path reasoning systems in future work.\n\n##",
-      "keyPoints": [
-        "**문제 인식**: 기존 LLM들이 여러 추론 경로를 병렬로 탐색하지만 경로들 간 상호작용이 없어 동일한 오류를 반복 / **Problem**: Existing LLMs sample multiple reasoning paths in parallel, but these paths don't interact, causing redundant failures",
-        "**핵심 솔루션**: LACE 프레임워크는 격자형 주의(Lattice Attention)를 통해 서로 다른 추론 스레드가 중간 결과를 공유하고 상호 검증 가능 / **Solution**: LACE enables cross-thread attention allowing parallel reasoning paths to share intermediate insights and correct each other",
-        "**기술적 혁신**: 모델 아키텍처를 재설계하여 병렬 추론 과정을 조정된 협력 시스템으로 전환 / **Innovation**: Transforms reasoning from independent trials into coordinated parallel process through architectural redesign",
-        "**향후 과제**: 계산 복잡도 증가와 실제 구현의 효율성 개선이 필요하며, 더욱 발전된 다중 경로 추론 시스템 개발의 기초 제공 / **Future Directions**: Requires addressing computational complexity while offering foundation for advanced multi-path reasoning systems"
-      ],
-      "url": "https://arxiv.org/abs/2604.15529",
-      "featured": false
-    },
-    {
-      "id": "0522409a7da1",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "BASIS: Balanced Activation Sketching with Invariant Scalars for \"Ghost Backpropagation\"",
-      "titleKo": "BASIS: 불변 스칼라를 이용한 균형잡힌 활성화 스케칭과 \"고스트 역전파\"",
-      "summary": "arXiv:2604.16324v1 Announce Type: new Abstract: The activation memory required for exact backpropagation scales linearly with network depth, context length, and feature dimensionality, forming an O(L * BN ) spatial bottleneck (where B is the sequence-batch cardinality and N is the feature dimension). This constraint historically throttles the scaling of deep neural networks. While randomized automatic differentiation attempts to mitigate this, it historically suffers from catastrophic variance. In this paper, we introduce BASIS (Balanced Activation Sketching with Invariant Scalars), an efficie",
-      "aiSummary": "Current deep neural network training requires storing all activation function outputs in memory for backpropagation, which scales linearly with network depth, input sequence length, and feature dimensionality, creating an O(L × BN) memory bottleneck. This constraint has historically limited the scaling of large neural networks. This paper introduces BASIS (Balanced Activation Sketching with Invariant Scalars), a novel method that efficiently compresses activation memory while maintaining training accuracy. While traditional randomized automatic differentiation approaches suffer from high variance instability, BASIS improves upon these limitations. This technique enables training of very deep networks and models processing long sequences by significantly reducing memory requirements. The innovation has important implications for developing more efficient AI systems at scale. However, validation in real large-scale production environments remains necessary for comprehensive assessment.\n\n##",
-      "aiSummaryKo": "현재 깊은 신경망을 학습시킬 때 역전파(backpropagation)를 위해 활성화 함수의 결과값들을 모두 메모리에 저장해야 하는데, 이는 네트워크의 깊이, 입력 시퀀스 길이, 특성 차원에 따라 선형적으로 증가하여 O(L × BN) 규모의 메모리 병목 현상을 야기합니다. 이 문제는 대규모 신경망 확장을 제한해왔습니다. 본 연구는 BASIS(균형잡힌 활성화 스케치와 불변 스칼라)라는 새로운 방법을 제안하여 활성화 메모리를 효율적으로 압축하면서도 학습 정확도를 유지합니다. 기존 무작위 미분 방식은 높은 분산으로 인해 학습이 불안정했으나, BASIS는 이를 개선합니다. 이 기술은 매우 깊은 신경망과 긴 시퀀스를 처리하는 대규모 모델 학습을 가능하게 하며, 향후 더 효율적인 AI 모델 개발에 기여할 것으로 기대됩니다. 다만, 실제 대규모 프로덕션 환경에서의 성능 검증이 추가로 필요합니다.\n\n##",
-      "aiSummaryEn": "Current deep neural network training requires storing all activation function outputs in memory for backpropagation, which scales linearly with network depth, input sequence length, and feature dimensionality, creating an O(L × BN) memory bottleneck. This constraint has historically limited the scaling of large neural networks. This paper introduces BASIS (Balanced Activation Sketching with Invariant Scalars), a novel method that efficiently compresses activation memory while maintaining training accuracy. While traditional randomized automatic differentiation approaches suffer from high variance instability, BASIS improves upon these limitations. This technique enables training of very deep networks and models processing long sequences by significantly reducing memory requirements. The innovation has important implications for developing more efficient AI systems at scale. However, validation in real large-scale production environments remains necessary for comprehensive assessment.\n\n##",
-      "keyPoints": [
-        "**메모리 병목 문제 해결** / Memory Bottleneck Solution: 역전파에 필요한 활성화 메모리를 O(L × BN) 규모에서 효율적으로 압축하여 메모리 제약을 극복",
-        "**분산 안정성 개선** / Improved Variance Stability: 기존 무작위 미분 방식의 높은 분산 문제를 해결하여 학습 안정성과 수렴 속도 향상",
-        "**확장성 증대** / Enhanced Scalability: 더 깊은 신경망과 더 긴 시퀀스 처리를 가능하게 하여 대규모 모델 개발의 새로운 기회 제공",
-        "**실무 적용 잠재력** / Practical Implementation Potential: LLM(대형언어모델)과 비전 트랜스포머 등 다양한 대규모 모델 학습에 적용 가능한 기술로 산업 활용도 높음"
-      ],
-      "url": "https://arxiv.org/abs/2604.16324",
-      "featured": false
-    },
-    {
-      "id": "7edbe8de0d02",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration",
-      "titleKo": "UniMamba: 상태-공간과 어텐션 통합을 통한 통합 시공간 모델링 프레임워크",
-      "summary": "arXiv:2604.16325v1 Announce Type: new Abstract: Multivariate time series forecasting is fundamental to numerous domains such as energy, finance, and environmental monitoring, where complex temporal dependencies and cross-variable interactions pose enduring challenges. Existing Transformer-based methods capture temporal correlations through attention mechanisms but suffer from quadratic computational cost, while state-space models like Mamba achieve efficient long-context modeling yet lack explicit temporal pattern recognition. Therefore we introduce UniMamba, a unified spatial-temporal forecas",
-      "aiSummary": "This research addresses multivariate time series forecasting, which is critical for energy, finance, and environmental monitoring sectors where complex temporal dependencies and cross-variable interactions present significant challenges. Existing Transformer-based methods capture temporal correlations through attention mechanisms but suffer from quadratic computational costs, while state-space models like Mamba achieve efficient long-context modeling but lack explicit temporal pattern recognition. The research team introduced UniMamba, a unified framework that integrates both approaches. This model combines state-space models with attention mechanisms to simultaneously and effectively model variable interactions (spatial relationships) and temporal patterns while maintaining computational efficiency. UniMamba represents an innovative approach enabling more accurate forecasting than existing methods without sacrificing computational performance. However, performance validation across specific domains is still needed, and additional optimization may be required for practical implementation.\n\n##",
-      "aiSummaryKo": "본 연구는 에너지, 금융, 환경 모니터링 등 다양한 분야에서 중요한 다변량 시계열 예측(여러 변수의 시간 데이터 예측)의 정확도를 높이기 위해 진행되었습니다. 기존 Transformer 기반 방식은 주의집중(Attention) 메커니즘으로 시간 관계를 잘 포착하지만 계산 비용이 매우 높고(이차 비용), Mamba 같은 상태공간 모델은 효율적이지만 시간 패턴 인식이 부족한 한계가 있었습니다. 연구팀은 이 두 방식의 장점을 통합한 UniMamba 프레임워크를 제안했습니다. 이 모델은 상태공간 모델과 주의집중 메커니즘을 결합하여 변수 간 상호작용(공간적 관계)과 시간 패턴을 동시에 효과적으로 모델링합니다. UniMamba는 기존 방식보다 계산 효율성을 유지하면서 더 정확한 예측을 가능하게 하는 혁신적 접근입니다. 다만 현재 단계에서는 특정 도메인에서의 성능 검증이 필요하며, 실제 적용 시 추가 최적화가 요구될 수 있습니다.\n\n##",
-      "aiSummaryEn": "This research addresses multivariate time series forecasting, which is critical for energy, finance, and environmental monitoring sectors where complex temporal dependencies and cross-variable interactions present significant challenges. Existing Transformer-based methods capture temporal correlations through attention mechanisms but suffer from quadratic computational costs, while state-space models like Mamba achieve efficient long-context modeling but lack explicit temporal pattern recognition. The research team introduced UniMamba, a unified framework that integrates both approaches. This model combines state-space models with attention mechanisms to simultaneously and effectively model variable interactions (spatial relationships) and temporal patterns while maintaining computational efficiency. UniMamba represents an innovative approach enabling more accurate forecasting than existing methods without sacrificing computational performance. However, performance validation across specific domains is still needed, and additional optimization may be required for practical implementation.\n\n##",
-      "keyPoints": [
-        "**문제 정의** / Problem Definition",
-        "**혁신적 솔루션** / Innovative Solution",
-        "시간 정보를 동시에 모델링",
-        "**기술적 장점** / Technical Advantages"
-      ],
-      "url": "https://arxiv.org/abs/2604.16325",
-      "featured": false
-    },
-    {
-      "id": "bf995ae2a51a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Annotation Entropy Predicts Per-Example Learning Dynamics in LoRA Fine-Tuning",
-      "titleKo": "LoRA 미세조정에서 주석 엔트로피가 예제별 학습 동역학을 예측한다",
-      "summary": "arXiv:2604.16332v1 Announce Type: new Abstract: We find that LoRA fine-tuning exhibits un-learning on contested examples: items with high annotator disagreement show increasing loss during training, a qualitatively distinct pattern largely absent under full fine-tuning and consistent across all six models tested (four encoder, two decoder-only). This discovery emerges from correlating annotation entropy, computed from ChaosNLI's 100 labels per example, with per-example area under the loss curve (AULC) on SNLI and MNLI. The correlation is positive in all 25 conditions tested (Spearman $\\rho = 0",
-      "aiSummary": "This study investigates how LoRA fine-tuning responds to examples with high labeler disagreement by analyzing annotation entropy and training loss dynamics. Using ChaosNLI data containing 100 annotations per example from SNLI and MNLI datasets, researchers correlated annotation entropy with the area under the loss curve (AULC) across six models (four encoders, two decoders). A key finding is that LoRA exhibits \"unlearning\" on contested examples: items with high annotator disagreement show increasing loss during training, a pattern largely absent in full fine-tuning. This pattern remained consistent across all tested models and conditions (positive Spearman correlation in all 25 conditions). The research reveals a fundamental difference in how LoRA and full fine-tuning handle contradictory labels, with implications for data quality management in model training. However, the study is limited to specific NLP datasets, requiring further validation for generalization across other domains and tasks.\n\n##",
-      "aiSummaryKo": "본 연구는 LoRA 파인튜닝 기법이 라벨 불일치가 큰 예제(여러 주석자가 다르게 분류한 데이터)에서 어떻게 작동하는지 조사했습니다. 연구팀은 SNLI와 MNLI 데이터셋의 예제들에 대해 주석자 100명의 의견을 수집한 ChaosNLI 데이터를 이용하여, 주석 엔트로피(라벨 불일치 정도)와 훈련 과정에서의 손실값 변화를 비교했습니다. 핵심 발견은 라벨 불일치가 높은 예제에서 LoRA는 훈련 중 손실이 증가하는 '언러닝(unlearning)' 현상을 보인다는 것으로, 이는 전체 파인튜닝에서는 거의 나타나지 않습니다. 이 패턴은 4개의 인코더 모델과 2개의 디코더 모델 모두에서 일관되게 나타났으며, 25개 조건 모두에서 양의 상관관계(Spearman ρ)를 보였습니다. 이 발견은 LoRA가 모순된 데이터를 어떻게 처리하는지 이해하는 데 중요하며, 모델의 신뢰성 있는 파인튜닝을 위한 데이터 품질 관리의 필요성을 시사합니다. 다만 본 연구는 특정 자연어 처리 데이터셋에 제한되어 있어 다른 도메인으로의 일반화 가능성 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigates how LoRA fine-tuning responds to examples with high labeler disagreement by analyzing annotation entropy and training loss dynamics. Using ChaosNLI data containing 100 annotations per example from SNLI and MNLI datasets, researchers correlated annotation entropy with the area under the loss curve (AULC) across six models (four encoders, two decoders). A key finding is that LoRA exhibits \"unlearning\" on contested examples: items with high annotator disagreement show increasing loss during training, a pattern largely absent in full fine-tuning. This pattern remained consistent across all tested models and conditions (positive Spearman correlation in all 25 conditions). The research reveals a fundamental difference in how LoRA and full fine-tuning handle contradictory labels, with implications for data quality management in model training. However, the study is limited to specific NLP datasets, requiring further validation for generalization across other domains and tasks.\n\n##",
-      "keyPoints": [
-        "**LoRA의 언러닝 현상** / LoRA exhibits unlearning on contested examples with high label disagreement, showing increasing loss during training unlike full fine-tuning",
-        "**일관된 상관성 패턴** / Positive Spearman correlation between annotation entropy and loss area under curve observed across all 25 tested conditions, confirming robust phenomenon",
-        "**모델 간 일반성** / Pattern replicated consistently across diverse architectures (4 encoder models and 2 decoder-only models), suggesting universal behavior of LoRA",
-        "**실무적 시사점** / Findings highlight importance of high-quality, consensus-based annotation in datasets used for LoRA fine-tuning to avoid performance degradation on ambiguous examples"
-      ],
-      "url": "https://arxiv.org/abs/2604.16332",
-      "featured": false
-    },
-    {
-      "id": "9cba5b3649ee",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "A Discordance-Aware Multimodal Framework with Multi-Agent Clinical Reasoning",
-      "titleKo": "불일치 인식 다중모달 프레임워크 기반의 다중 에이전트 임상 추론",
-      "summary": "arXiv:2604.16333v1 Announce Type: new Abstract: Knee osteoarthritis frequently exhibits discordance between structural damage observed in imaging and patient-reported symptoms such as pain. This mismatch complicates clinical interpretation and patient stratification and remains insufficiently modeled in existing decision support systems. We propose a discordance aware multimodal framework that combines machine learning prediction models with a tool grounded multi agent reasoning system. Using baseline data from the FNIH Osteoarthritis Biomarkers Consortium, we trained multimodal models to pred",
-      "aiSummary": "Knee osteoarthritis frequently presents a mismatch between structural damage visible on imaging and patient-reported pain symptoms, which complicates clinical diagnosis and patient classification. Researchers developed a discordance-aware multimodal framework combining machine learning prediction models with a multi-agent AI clinical reasoning system to address this challenge. The team trained multimodal models using baseline data from the FNIH Osteoarthritis Biomarkers Consortium, integrating multiple types of information including imaging, clinical data, and biochemical markers. This system can identify the causes of structural-symptom discordance and enable more accurate personalized patient diagnosis and treatment planning. The significance of this research lies in using AI to address the clinical discordance problem that existing decision support systems have inadequately handled. However, as the study is still in the announcement stage, additional validation before clinical implementation is necessary.\n\n##",
-      "aiSummaryKo": "무릎 골관절염은 X선 검사에서 보이는 구조적 손상과 환자가 호소하는 통증 증상이 일치하지 않는 현상이 자주 발생하는데, 이러한 불일치는 임상 진단과 환자 분류를 어렵게 만듭니다. 연구팀은 이러한 문제를 해결하기 위해 기계학습 예측 모델과 AI 멀티에이전트 임상 추론 시스템을 결합한 새로운 프레임워크를 개발했습니다. FNIH 골관절염 바이오마커 컨소시엄의 기초 데이터를 이용하여 여러 종류의 정보(영상, 임상 데이터, 생화학적 지표 등)를 통합하는 멀티모달 모델을 훈련시켰습니다. 이 시스템은 구조적 손상과 증상 불일치의 원인을 파악하여 더 정확한 환자 맞춤형 진단과 치료 계획 수립을 가능하게 합니다. 연구의 의의는 기존 의료 의사결정 시스템에서 충분히 다루지 못했던 임상적 불일치 문제를 AI로 해결한 점입니다. 다만 연구는 아직 발표 단계이므로 임상 현장 적용 전 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "Knee osteoarthritis frequently presents a mismatch between structural damage visible on imaging and patient-reported pain symptoms, which complicates clinical diagnosis and patient classification. Researchers developed a discordance-aware multimodal framework combining machine learning prediction models with a multi-agent AI clinical reasoning system to address this challenge. The team trained multimodal models using baseline data from the FNIH Osteoarthritis Biomarkers Consortium, integrating multiple types of information including imaging, clinical data, and biochemical markers. This system can identify the causes of structural-symptom discordance and enable more accurate personalized patient diagnosis and treatment planning. The significance of this research lies in using AI to address the clinical discordance problem that existing decision support systems have inadequately handled. However, as the study is still in the announcement stage, additional validation before clinical implementation is necessary.\n\n##",
-      "keyPoints": [
-        "**포인트1** / Point 1",
-        "reported symptoms complicates clinical diagnosis in knee osteoarthritis",
-        "**포인트2** / Point 2",
-        "**포인트3** / Point 3"
-      ],
-      "url": "https://arxiv.org/abs/2604.16333",
       "featured": false
     }
   ]
