@@ -1,7 +1,191 @@
 {
-  "updated": "2026-04-22T19:57:45.846105+00:00",
+  "updated": "2026-04-22T22:36:07.764104+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a5fcc1c0569b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Women perceive AI as riskier than men do, study finds",
+      "titleKo": "여성이 남성보다 AI를 더 위험하다고 인식한다는 연구 결과",
+      "summary": "A new study finds that women are more skeptical of artificial intelligence than men. Driven by higher risk aversion and greater exposure to job displacement, this cautious approach could inadvertently widen gender inequalities in the workplace.",
+      "aiSummary": "A new study reveals that women perceive artificial intelligence as riskier compared to men, driven primarily by higher risk aversion and greater concerns about job displacement. Although specific numerical data and sample sizes were not detailed in the report, the research demonstrates a significant gender gap in AI perception that could have substantial workplace implications. If women remain cautious or reluctant to adopt AI technologies, this cautious approach may inadvertently widen existing gender inequalities in the workplace and limit their opportunities in tech-related fields. The study highlights the importance of understanding and addressing women's concerns about AI technology to promote gender equality in the digital age. Policymakers and educators should consider developing targeted interventions to increase women's confidence and engagement with AI. However, the research may have limitations in analyzing specific risk factors and controlling for various demographic variables that could influence perceptions.\n\n##",
+      "aiSummaryKo": "최근 연구에 따르면 여성들이 남성보다 인공지능(AI)을 더 위험하다고 인식하는 것으로 나타났습니다. 이 연구는 여성의 높은 위험회피 성향과 직업 대체에 대한 더 큰 우려가 AI에 대한 회의적 태도를 유발한다는 것을 보여줍니다. 구체적인 수치와 표본 규모는 제시되지 않았으나, 이러한 성별 인식 차이가 향후 AI 관련 교육 및 취업 기회 접근에서 여성의 불리함으로 이어질 수 있다는 점이 핵심입니다. 여성이 AI 기술 채택을 꺼린다면 직업 시장에서의 성평등이 더욱 악화될 우려가 있습니다. 이 연구는 기술 분야의 성별 격차를 해소하는 데 있어 여성의 AI에 대한 우려를 적극적으로 이해하고 해결해야 함을 시사합니다. 다만, 연구에서 위험 인식의 구체적인 원인 분석과 다양한 인구통계학적 변수가 충분히 다루어지지 않았을 가능성이 있습니다.\n\n##",
+      "aiSummaryEn": "A new study reveals that women perceive artificial intelligence as riskier compared to men, driven primarily by higher risk aversion and greater concerns about job displacement. Although specific numerical data and sample sizes were not detailed in the report, the research demonstrates a significant gender gap in AI perception that could have substantial workplace implications. If women remain cautious or reluctant to adopt AI technologies, this cautious approach may inadvertently widen existing gender inequalities in the workplace and limit their opportunities in tech-related fields. The study highlights the importance of understanding and addressing women's concerns about AI technology to promote gender equality in the digital age. Policymakers and educators should consider developing targeted interventions to increase women's confidence and engagement with AI. However, the research may have limitations in analyzing specific risk factors and controlling for various demographic variables that could influence perceptions.\n\n##",
+      "keyPoints": [
+        "**성별 인식 차이** / Gender Gap in AI Perception: 여성들이 남성보다 AI를 더 위험하다고 평가하는 뚜렷한 차이 존재",
+        "**위험회피 성향과 직업 불안** / Risk Aversion and Job Displacement: 높은 위험회피 성향과 직업 대체 우려가 여성의 AI에 대한 회의적 태도의 주요 원인",
+        "**직장 내 성평등 악화 우려** / Workplace Gender Inequality Risk: AI 채택 회피로 인한 여성의 기술 분야 진입 기회 감소 및 성별 격차 심화 가능성",
+        "**정책적 개입 필요성** / Policy Intervention Needed: 여성의 AI 기술에 대한 신뢰 증진과 교육 기회 제공을 위한 적극적인 개입 및 지원 정책 개발 필요"
+      ],
+      "url": "https://www.psypost.org/women-perceive-ai-as-riskier-than-men-do-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "707fbc2b5d42",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Do we drink because we feel down, or feel down because we drink? A new study has the answer",
+      "titleKo": "우리가 기분이 안 좋아서 술을 마시는 걸까, 아니면 술을 마셔서 기분이 안 좋아지는 걸까? 새로운 연구가 그 답을 제시하다",
+      "summary": "A yearlong observational study reveals that preserving emotional well-being might be the secret to naturally curbing alcohol consumption over time. The findings show that mental health heavily influences drinking habits, rather than the other way around.",
+      "aiSummary": "This research aimed to clarify the causal relationship between alcohol consumption and mental health. Researchers conducted a one-year longitudinal observational study, collecting data through continuous monitoring of participants. The findings revealed that deteriorating mental health leads to increased drinking, rather than alcohol consumption worsening mental health. In other words, people tend to drink more when experiencing negative emotions. This discovery suggests that alcohol addiction treatment and prevention programs should focus more on mental health management. However, the study relied on self-reported data collection methods, and participant characteristics may have been limited in scope.\n\n##",
+      "aiSummaryKo": "이 연구는 음주와 정신건강 사이의 인과관계를 밝히기 위해 진행되었습니다. 연구진은 1년에 걸쳐 참가자들을 지속적으로 관찰하는 종단 연구 설계를 통해 데이터를 수집했습니다. 연구 결과는 음주량이 정신건강을 악화시키는 것이 아니라, 오히려 정신건강 악화가 음주량 증가로 이어진다는 것을 보여주었습니다. 즉, 감정 상태가 좋지 않을 때 사람들이 더 많이 마시는 경향이 있다는 의미입니다. 이 발견은 음주 중독 치료 및 예방 프로그램이 정신건강 관리에 더욱 집중해야 한다는 점을 시사합니다. 다만 이 연구는 자가보고 방식의 데이터 수집에 의존했으며, 참가자 특성이 제한적일 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research aimed to clarify the causal relationship between alcohol consumption and mental health. Researchers conducted a one-year longitudinal observational study, collecting data through continuous monitoring of participants. The findings revealed that deteriorating mental health leads to increased drinking, rather than alcohol consumption worsening mental health. In other words, people tend to drink more when experiencing negative emotions. This discovery suggests that alcohol addiction treatment and prevention programs should focus more on mental health management. However, the study relied on self-reported data collection methods, and participant characteristics may have been limited in scope.\n\n##",
+      "keyPoints": [
+        "**인과관계의 방향성**: 음주가 정신건강을 악화시키는 것이 아니라, 정신건강 악화가 음주 증가를 유발함 / The direction of causality: deteriorating mental health drives increased drinking, not the reverse",
+        "**정신건강의 중요성**: 감정 안정과 심리적 안녕감 유지가 자연스러운 음주량 감소의 핵심 요소 / Emotional stability and psychological well-being are key factors in naturally reducing alcohol consumption over time",
+        "**장기적 영향 확인**: 1년간의 관찰 연구를 통해 시간에 따른 변화 패턴을 추적 / One-year longitudinal study tracked patterns of change over time",
+        "**임상적 함의**: 중독 치료 시 음주 행동 자체보다 기저의 정신건강 문제 해결에 우선순위를 둘 필요성 / Clinical implications suggest prioritizing underlying mental health issues over addressing drinking behavior alone in addiction treatment"
+      ],
+      "url": "https://www.psypost.org/better-mental-health-naturally-curbs-alcohol-consumption-over-time/",
+      "featured": false
+    },
+    {
+      "id": "90816f5adf69",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "18시간 전 / 18h ago",
+      "title": "Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs",
+      "titleKo": "컴파일에서 압축으로: 컴파일러 출력을 활용한 형식 정리 증명기 성능 향상",
+      "summary": "arXiv:2604.18587v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated significant potential in formal theorem proving, yet state-of-the-art performance often necessitates prohibitive test-time compute via massive roll-outs or extended context windows. In this work, we address this scalability bottleneck by exploiting an informative structure in formal verification: the observation that compilers map a vast space of diverse proof attempts to a compact set of structured failure modes. We introduce a learning-to-refine framework that leverages this compression to perform ",
+      "aiSummary": "This research addresses the scalability bottleneck of Large Language Models (LLMs) in formal theorem proving, which requires prohibitive test-time computation through massive roll-outs or extended context windows. The research team proposes a \"learning-to-refine framework\" based on the key observation that compilers compress diverse proof attempts into a compact set of structured failure modes. By leveraging compiler outputs as informative feedback, this approach enables improved theorem proving performance without requiring extensive computational resources such as multiple sampling attempts or long context windows. The significance of this work lies in exploiting the structural properties of formal verification to enhance AI learning efficiency substantially. This methodology promises to significantly improve the practicality of automated theorem proving, with important implications for mathematics and software verification. However, the study may be limited to specific compiler environments, and further validation is needed regarding generalization to diverse theorem-proving problems.",
+      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)이 형식 정리 증명(formal theorem proving)에서 뛰어난 성능을 보이지만 막대한 계산 비용이 필요한 문제를 해결하기 위해 수행되었습니다. 연구팀은 컴파일러가 다양한 증명 시도들을 구조화된 실패 패턴으로 압축한다는 원리에 착안하여, \"학습-개선 프레임워크(learning-to-refine framework)\"를 제안했습니다. 이 방식은 컴파일러 출력(compiler outputs)의 정보를 활용함으로써 대량의 시도(roll-outs)나 긴 맥락 창(context window) 없이도 증명 성능을 개선할 수 있습니다. 연구의 핵심은 형식 검증의 구조적 특성을 AI 학습에 활용하여 계산 효율성을 획기적으로 높인 점입니다. 이 접근법은 자동화된 정리 증명의 실용성을 크게 향상시켜 수학 및 소프트웨어 검증 분야에서 중요한 의미를 갖습니다. 다만, 연구는 특정 컴파일러 환경에서의 테스트에 제한될 수 있으며, 다양한 증명 문제로의 일반화 가능성에 대한 추가 검증이 필요합니다.",
+      "aiSummaryEn": "This research addresses the scalability bottleneck of Large Language Models (LLMs) in formal theorem proving, which requires prohibitive test-time computation through massive roll-outs or extended context windows. The research team proposes a \"learning-to-refine framework\" based on the key observation that compilers compress diverse proof attempts into a compact set of structured failure modes. By leveraging compiler outputs as informative feedback, this approach enables improved theorem proving performance without requiring extensive computational resources such as multiple sampling attempts or long context windows. The significance of this work lies in exploiting the structural properties of formal verification to enhance AI learning efficiency substantially. This methodology promises to significantly improve the practicality of automated theorem proving, with important implications for mathematics and software verification. However, the study may be limited to specific compiler environments, and further validation is needed regarding generalization to diverse theorem-proving problems.",
+      "keyPoints": [
+        "**계산 효율성 개선** / **Improved Computational Efficiency**: 컴파일러 출력을 활용하여 대량의 시도나 긴 맥락 창 없이 정리 증명 성능 향상 - Leverages compiler outputs to enhance theorem proving performance without massive roll-outs or extended context windows",
+        "**구조적 정보 활용** / **Exploitation of Structural Information**: 컴파일러가 다양한 증명 시도를 실패 패턴으로 압축하는 특성을 AI 학습에 적용 - Applies the principle that compilers compress diverse proof attempts into structured failure modes to AI learning",
+        "**학습-개선 프레임워크** / **Learning-to-Refine Framework**: 형식 검증의 피드백을 반복적으로 활용하여 증명 알고리즘을 지속적으로 개선하는 새로운 방식 - Uses iterative feedback from formal verification to continuously improve the proving algorithm",
+        "**실무 적용 가능성** / **Practical Applicability**: 자동화된 정리 증명의 실용화를 가능하게 하여 수학, 소프트웨어 검증 등 다양한 분야에서 활용 가능 - Enables practical application of automated theorem proving across mathematics, software verification, and related fields"
+      ],
+      "url": "https://arxiv.org/abs/2604.18587",
+      "featured": false
+    },
+    {
+      "id": "d7cdcff8f60a",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "18시간 전 / 18h ago",
+      "title": "Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning",
+      "titleKo": "쉬운 샘플만으로 충분하다: 데이터 효율적 강화학습을 통한 자기진화 대규모언어모델",
+      "summary": "arXiv:2604.18639v1 Announce Type: new Abstract: Previous LLMs-based RL studies typically follow either supervised learning with high annotation costs, or unsupervised paradigms using voting or entropy-based rewards. However, their performance remains far from satisfactory due to the substantial annotation cost and issues such as model collapse or reward hacking. To address these issues, we introduce a new perspective inspired by cognitive learning theory and propose a novel approach called EasyRL. The core of EasyRL is to simulate the human cognitive acquisition curve by integrating reliable k",
+      "aiSummary": "This study addresses the challenge of enabling large language models (LLMs) to learn efficiently through self-improvement mechanisms. Traditional approaches either require high annotation costs or suffer from model collapse and reward hacking issues. The research team, inspired by cognitive learning theory, proposes \"EasyRL,\" a novel method that simulates human cognitive acquisition curves by progressively learning from easy to difficult samples. The core advantage of EasyRL is improving data efficiency while significantly reducing annotation costs compared to existing supervised approaches. Unlike voting-based or entropy-based reward systems, EasyRL mitigates reward hacking problems that plague current unsupervised paradigms. This approach offers a practical solution to enhance LLM self-improvement efficiency with potential widespread applications. However, the study would benefit from additional empirical validation across diverse tasks and domains.\n\n##",
+      "aiSummaryKo": "본 연구는 대규모언어모델(LLM)이 효율적으로 스스로 학습할 수 있는 방법을 개발하는 것을 목표로 합니다. 기존 방식들은 높은 annotation 비용이 필요하거나 모델 붕괴 문제가 있었습니다. 연구팀은 인지학습이론에서 영감을 받아 'EasyRL'이라는 새로운 방법을 제안했으며, 이는 인간의 학습곡선을 모방하여 신뢰할 수 있는 쉬운 샘플부터 점진적으로 어려운 샘플로 학습을 진행합니다. 이 접근법의 핵심은 데이터 효율성을 높이면서도 annotation 비용을 크게 줄일 수 있다는 것입니다. EasyRL은 기존의 투표 기반 또는 엔트로피 기반 보상 방식의 문제점인 보상 해킹(reward hacking)을 해결합니다. 본 연구는 LLM의 자율 학습 효율성을 획기적으로 개선할 수 있는 실용적 방법을 제시하며, 앞으로 더 다양한 실험을 통한 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study addresses the challenge of enabling large language models (LLMs) to learn efficiently through self-improvement mechanisms. Traditional approaches either require high annotation costs or suffer from model collapse and reward hacking issues. The research team, inspired by cognitive learning theory, proposes \"EasyRL,\" a novel method that simulates human cognitive acquisition curves by progressively learning from easy to difficult samples. The core advantage of EasyRL is improving data efficiency while significantly reducing annotation costs compared to existing supervised approaches. Unlike voting-based or entropy-based reward systems, EasyRL mitigates reward hacking problems that plague current unsupervised paradigms. This approach offers a practical solution to enhance LLM self-improvement efficiency with potential widespread applications. However, the study would benefit from additional empirical validation across diverse tasks and domains.\n\n##",
+      "keyPoints": [
+        "**인지학습 기반 접근**: 인간의 학습과정을 모방하여 쉬운 샘플부터 어려운 샘플로 점진적으로 학습 진행 / Cognitive learning theory-inspired approach that mimics human learning progression from easy to difficult samples",
+        "**비용 효율성**: Annotation 비용을 크게 감소시키면서도 데이터 효율성을 극대화 / Significantly reduces annotation costs while maximizing data efficiency",
+        "**기존 문제 해결**: 모델 붕괴(model collapse)와 보상 해킹(reward hacking) 문제를 해결하는 우수한 성능 / Addresses critical issues of model collapse and reward hacking in previous RL approaches",
+        "**자율 학습 메커니즘**: LLM이 외부 감독 없이 스스로 성능을 개선할 수 있는 새로운 강화학습 패러다임 제시 / Presents novel reinforcement learning paradigm enabling LLMs to self-improve without extensive external supervision"
+      ],
+      "url": "https://arxiv.org/abs/2604.18639",
+      "featured": false
+    },
+    {
+      "id": "2c7a125bde8b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "18시간 전 / 18h ago",
+      "title": "FASE : A Fairness-Aware Spatiotemporal Event Graph Framework for Predictive Policing",
+      "titleKo": "FASE: 예측 경찰활동을 위한 공정성을 고려한 시공간 이벤트 그래프 프레임워크",
+      "summary": "arXiv:2604.18644v1 Announce Type: new Abstract: Predictive policing systems that allocate patrol resources based solely on predicted crime risk can unintentionally amplify racial disparities through feedback driven data bias. We present FASE, a Fairness Aware Spatiotemporal Event Graph framework, which integrates spatiotemporal crime prediction with fairness constrained patrol allocation and a closed loop deployment feedback simulator. We model Baltimore as a graph of 25 ZIP Code Tabulation Areas and use 139,982 Part 1 crime incidents from 2017 to 2019 at hourly resolution, producing a sparse ",
+      "aiSummary": "Predictive policing systems that allocate police patrol resources based solely on crime risk predictions can unintentionally reinforce racial disparities and systemic biases through feedback-driven data distortion. To address this problem, researchers developed FASE (Fairness Aware Spatiotemporal Event Graph), a new framework that combines crime prediction with fairness-constrained patrol allocation. The system predicts crime patterns at hourly resolution while simultaneously applying fairness constraints to resource deployment decisions. The researchers analyzed Baltimore by dividing it into 25 zip code tabulation areas and examined 139,982 Part 1 crime incidents from 2017-2019. Unlike traditional predictive policing, FASE includes a closed-loop feedback simulator that tracks how patrol allocation decisions impact future crime data and enables continuous fairness improvements. The study demonstrates that AI systems can effectively prevent crime while mitigating algorithmic bias and social inequity. However, the research has limitations in fully capturing the complex variables involved in real-world police operations.\n\n##",
+      "aiSummaryKo": "경찰청이 범죄 예측만을 바탕으로 순찰 자원을 배치하면 특정 지역에 대한 편견이 계속 강화되어 인종 차별이 심화될 수 있다. 이 문제를 해결하기 위해 연구팀은 'FASE'라는 새로운 공정성 기반 시공간 사건 그래프 프레임워크를 개발했다. 이 시스템은 범죄 발생 패턴을 시간과 공간 단위로 예측하면서 동시에 순찰 배치 시 공정성 제약을 적용한다. 연구팀은 볼티모어를 25개의 우편번호 지역으로 나누고, 2017년부터 2019년까지 139,982건의 범죄 사건 데이터(시간 단위)를 분석했다. FASE는 기존의 편향된 예측 경찰 시스템과 달리 피드백 루프 시뮬레이터를 통해 배치 결정이 미래 데이터에 미치는 영향을 추적하고 공정성을 개선할 수 있다. 이 연구는 AI 시스템이 사회적 편견을 방지하면서도 효과적인 범죄 예방을 할 수 있음을 보여준다는 의의가 있으나, 실제 경찰 운영의 복잡한 변수들을 완전히 반영하지 못했다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Predictive policing systems that allocate police patrol resources based solely on crime risk predictions can unintentionally reinforce racial disparities and systemic biases through feedback-driven data distortion. To address this problem, researchers developed FASE (Fairness Aware Spatiotemporal Event Graph), a new framework that combines crime prediction with fairness-constrained patrol allocation. The system predicts crime patterns at hourly resolution while simultaneously applying fairness constraints to resource deployment decisions. The researchers analyzed Baltimore by dividing it into 25 zip code tabulation areas and examined 139,982 Part 1 crime incidents from 2017-2019. Unlike traditional predictive policing, FASE includes a closed-loop feedback simulator that tracks how patrol allocation decisions impact future crime data and enables continuous fairness improvements. The study demonstrates that AI systems can effectively prevent crime while mitigating algorithmic bias and social inequity. However, the research has limitations in fully capturing the complex variables involved in real-world police operations.\n\n##",
+      "keyPoints": [
+        "**순환적 편향의 악순환 해결** / Breaking the cycle of algorithmic feedback bias: 기존 예측 경찰 시스템은 과도한 순찰로 인해 특정 지역의 범죄 적발률이 높아지고, 이것이 다시 범죄 예측 데이터로 입력되어 편향을 증폭시키는 문제를 해결함",
+        "**시공간 데이터 기반 정밀 분석** / Spatiotemporal granularity in crime analysis: 139,982건의 범죄 사건을 시간 단위(시간별)와 공간 단위(25개 지역)로 분석하여 보다 세밀한 범죄 패턴 파악이 가능",
+        "**공정성 제약의 통합** / Integrated fairness constraints: 범죄 예측 정확도와 사회적 공정성 두 가지 목표를 동시에 달성하는 최적화 알고리즘을 제시",
+        "**폐쇄 루프 시뮬레이션으로 실제 영향 추적** / Closed-loop deployment feedback simulator: 순찰 배치 결정이 미래 데이터 수집에 어떤 영향을 미치는지 시뮬레이션하여 정책의 장기적 효과를 사전에 평가 가능"
+      ],
+      "url": "https://arxiv.org/abs/2604.18644",
+      "featured": false
+    },
+    {
+      "id": "ec9c8b3aafe1",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "18시간 전 / 18h ago",
+      "title": "Curiosity-Critic: Cumulative Prediction Error Improvement as a Tractable Intrinsic Reward for World Model Training",
+      "titleKo": "호기심-비평가: 세계 모델 학습을 위한 계산 가능한 내재적 보상으로서의 누적 예측 오차 개선",
+      "summary": "arXiv:2604.18701v1 Announce Type: new Abstract: Local prediction-error-based curiosity rewards focus on the current transition without considering the world model's cumulative prediction error across all visited transitions. We introduce Curiosity-Critic, which grounds its intrinsic reward in the improvement of this cumulative objective, and show that it reduces to a tractable per-step form: the difference between the current prediction error and the asymptotic error baseline of the current state transition. We estimate this baseline online with a learned critic co-trained alongside the world ",
+      "aiSummary": "In artificial intelligence's world model training (where AI learns how environments work), curiosity-based rewards play a crucial role. Previous research focused only on prediction errors in the current transition, but this paper proposes 'Curiosity-Critic,' which emphasizes improvement in cumulative prediction errors across all visited states. The research team converted the complex cumulative objective into a tractable per-step form: the difference between current prediction error and the asymptotic error baseline of that state transition. A learned neural network called a Critic is co-trained to estimate this baseline error. This method enhances the efficiency of world model learning and improves AI's exploration strategy. The paper emphasizes computational tractability and theoretical validity, though validation in complex real-world environments may require further investigation.\n\n##",
+      "aiSummaryKo": "인공지능의 세계 모델(환경의 작동 방식을 학습하는 AI 모델) 학습에서 호기심 기반 보상은 중요한 역할을 합니다. 기존 연구들은 현재 상황에서의 예측 오류만 고려했지만, 이 논문은 AI가 방문한 모든 상태에서의 누적 예측 오류 개선에 초점을 맞춘 'Curiosity-Critic'을 제안합니다. 연구팀은 복잡한 누적 목표를 현실적으로 계산 가능한 단계별 형태로 변환했으며, 이는 현재 예측 오류와 그 상태의 기준 오류 간의 차이입니다. 비판자(Critic)라는 신경망이 함께 학습되어 이 기준 오류를 추정합니다. 이 방법은 세계 모델 학습의 효율성을 높이고 AI의 탐험 전략을 개선합니다. 논문은 계산 가능성과 이론적 타당성을 강조했으나, 실제 복잡한 환경에서의 성능 검증이 추가로 필요할 수 있습니다.\n\n##",
+      "aiSummaryEn": "In artificial intelligence's world model training (where AI learns how environments work), curiosity-based rewards play a crucial role. Previous research focused only on prediction errors in the current transition, but this paper proposes 'Curiosity-Critic,' which emphasizes improvement in cumulative prediction errors across all visited states. The research team converted the complex cumulative objective into a tractable per-step form: the difference between current prediction error and the asymptotic error baseline of that state transition. A learned neural network called a Critic is co-trained to estimate this baseline error. This method enhances the efficiency of world model learning and improves AI's exploration strategy. The paper emphasizes computational tractability and theoretical validity, though validation in complex real-world environments may require further investigation.\n\n##",
+      "keyPoints": [
+        "**기존 방식의 한계 극복** / Overcoming limitations of existing methods",
+        "Critic은 전체 방문 상태의 누적 예측 오류 개선을 추적합니다.",
+        "**계산 가능한 형태로의 변환** / Converting to tractable form",
+        "**비판자 네트워크 활용** / Utilization of Critic network"
+      ],
+      "url": "https://arxiv.org/abs/2604.18701",
+      "featured": false
+    },
+    {
+      "id": "1a9981162359",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "18시간 전 / 18h ago",
+      "title": "NeuroAI and Beyond: Bridging Between Advances in Neuroscience and ArtificialIntelligence",
+      "titleKo": "신경과학과 인공지능의 융합: 뇌과학의 발전과 AI를 잇다",
+      "summary": "arXiv:2604.18637v1 Announce Type: new Abstract: Neuroscience and Artificial Intelligence (AI) have made impressive progress in recent years but remain only loosely interconnected. Based on a workshop convened by the National Science Foundation in August 2025, we identify three fundamental capability gaps in current AI: the inability to interact with the physical world, inadequate learning that produces brittle systems, and unsustainable energy and data inefficiency. We describe the neuroscience principles that address each: co-design of body and controller, prediction through interaction, mult",
+      "aiSummary": "Neuroscience and Artificial Intelligence have achieved impressive progress in recent years, yet remain only loosely connected. Based on a National Science Foundation workshop in August 2025, researchers identified three fundamental capability gaps in current AI systems: inability to interact with the physical world, brittle learning systems, and unsustainable energy and data inefficiency. Neuroscience offers principles to address these challenges: co-design of body and controller, predictive learning through interaction, and multisensory integration. By applying biological principles from neuroscience to AI development, this research proposes a pathway toward creating more robust, efficient, and adaptive AI systems. However, translating neuroscience principles into AI implementations faces significant complexities and practical constraints.\n\n##",
+      "aiSummaryKo": "현재 신경과학과 인공지능(AI)은 각각 눈부신 발전을 이루고 있지만, 두 분야 간의 연결이 매우 약한 상태입니다. 2025년 8월 미국 국립과학재단이 개최한 워크숍을 바탕으로, 연구팀은 현재 AI 시스템의 세 가지 근본적인 문제점을 지적했습니다: 물리적 세계와의 상호작용 불능, 취약한 학습 시스템(환경 변화에 약함), 그리고 비효율적인 에너지 및 데이터 소비입니다. 신경과학은 이러한 문제들을 해결할 수 있는 원칙들을 제시합니다: 신체와 제어 시스템의 통합 설계, 상호작용을 통한 예측 학습, 그리고 다중 감각 통합입니다. 이 연구는 신경과학의 생물학적 원리를 AI에 적용함으로써, 더 강력하고 효율적이며 적응력 있는 AI 시스템 개발의 길을 제시합니다. 다만, 신경과학 원리를 AI에 직접 적용하는 과정에서의 복잡성과 현실적 제약이 주요 한계점입니다.\n\n##",
+      "aiSummaryEn": "Neuroscience and Artificial Intelligence have achieved impressive progress in recent years, yet remain only loosely connected. Based on a National Science Foundation workshop in August 2025, researchers identified three fundamental capability gaps in current AI systems: inability to interact with the physical world, brittle learning systems, and unsustainable energy and data inefficiency. Neuroscience offers principles to address these challenges: co-design of body and controller, predictive learning through interaction, and multisensory integration. By applying biological principles from neuroscience to AI development, this research proposes a pathway toward creating more robust, efficient, and adaptive AI systems. However, translating neuroscience principles into AI implementations faces significant complexities and practical constraints.\n\n##",
+      "keyPoints": [
+        "현재 AI의 세 가지 핵심 문제: 물리세계 상호작용 부재, 취약한 학습 체계, 에너지/데이터 비효율성 / Current AI's three critical challenges: lack of physical world interaction, brittle learning, unsustainable energy and data usage",
+        "신경과학 기반 해결책: 신체-제어기 통합 설계와 상호작용적 예측 학습 / Neuroscience-based solutions: embodied co-design and interactive prediction learning",
+        "생물학적 원리의 AI 적용을 통한 강건성 및 효율성 향상 가능성 / Potential to improve AI robustness and efficiency through biomimetic approaches",
+        "신경과학과 AI의 학제적 융합의 필요성 강조 / Emphasis on interdisciplinary collaboration between neuroscience and AI research"
+      ],
+      "url": "https://arxiv.org/abs/2604.18637",
+      "featured": false
+    },
+    {
+      "id": "fe3551c16b07",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "18시간 전 / 18h ago",
+      "title": "Quantum-Like Models of Cognition and Decision Making: Open-Systems and Gorini--Kossakowski--Sudarshan--Lindblad Dynamics",
+      "titleKo": "인지와 의사결정의 양자형 모델: 개방 시스템과 고리니-코삭스키-수다르산-린드블라드 동역학",
+      "summary": "arXiv:2604.18643v1 Announce Type: new Abstract: This paper starts with surveying the evolution of quantum-like models of cognition and decision making, transitioning from static kinematic representations to a robust dynamical framework based on open quantum systems. We provide a comprehensive analysis of the Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) master equation's application in cognitive psychology and decision making, illustrating how it models mental state evolution as a dissipative process influenced by an informational environment. We categorize dynamical regimes into Passive and Ac",
+      "aiSummary": "This paper provides a comprehensive survey of the evolution of quantum-like models in cognitive psychology and decision making, moving from static kinematic representations to a robust dynamical framework based on open quantum systems. The authors analyze the application of the Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) master equation in cognitive psychology, demonstrating how it models mental state evolution as a dissipative process influenced by the informational environment. This mathematical framework naturally explains irrational human decision-making patterns (such as conjunction fallacy and order effects) that classical probability theory fails to account for. The study distinguishes between two dynamical regimes: Passive and Active processes, providing a more nuanced understanding of cognition. The research bridges quantum mechanics and psychology, suggesting that cognitive processes share mathematical structures with quantum systems. However, limitations include limited experimental validation and unclear correspondence between the theoretical model and actual neural mechanisms.\n\n##",
+      "aiSummaryKo": "본 연구는 인간의 인지 및 의사결정 과정을 양자물리학의 수학적 틀로 설명하는 \"양자 유사 모델(quantum-like models)\"의 발전 과정을 종합적으로 분석합니다. 전통적인 정적 표현에서 벗어나 \"열린 양자 시스템(open quantum systems)\"을 기반으로 한 동적 프레임워크로 전환하는 과정을 추적합니다. 특히 고린-코삭스키-수다르샨-린드블라드(GKSL) 마스터 방정식을 심리학에 적용하여, 인간의 정신 상태가 정보 환경의 영향을 받는 소산 과정(dissipative process)으로 진화한다고 설명합니다. 이 접근 방식은 기존 고전 확률 이론으로 설명할 수 없던 인간의 비논리적 의사결정 패턴(예: 동시성 효과, 순서 효과)을 자연스럽게 설명할 수 있습니다. 연구는 수동적 과정과 능동적 과정의 두 가지 동적 영역을 구분하여 분석합니다. 다만 이 모델의 실험적 검증이 아직 제한적이며, 실제 뇌 신경망과의 대응 관계가 명확하지 않다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This paper provides a comprehensive survey of the evolution of quantum-like models in cognitive psychology and decision making, moving from static kinematic representations to a robust dynamical framework based on open quantum systems. The authors analyze the application of the Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) master equation in cognitive psychology, demonstrating how it models mental state evolution as a dissipative process influenced by the informational environment. This mathematical framework naturally explains irrational human decision-making patterns (such as conjunction fallacy and order effects) that classical probability theory fails to account for. The study distinguishes between two dynamical regimes: Passive and Active processes, providing a more nuanced understanding of cognition. The research bridges quantum mechanics and psychology, suggesting that cognitive processes share mathematical structures with quantum systems. However, limitations include limited experimental validation and unclear correspondence between the theoretical model and actual neural mechanisms.\n\n##",
+      "keyPoints": [
+        "**양자 모델의 인지심리학 적용** / Application of quantum mathematical frameworks to explain human cognition and decision-making beyond classical probability theory",
+        "**GKSL 마스터 방정식의 역할** / GKSL master equation models mental states as dissipative processes influenced by informational environments, explaining order and conjunction effects",
+        "**비논리적 의사결정 설명** / The model naturally explains cognitive biases and irrational decisions that classical theories cannot account for",
+        "**동적 프레임워크의 필요성** / Transition from static representations to dynamic open quantum systems provides more comprehensive understanding of cognitive processes over time"
+      ],
+      "url": "https://arxiv.org/abs/2604.18643",
+      "featured": false
+    },
+    {
+      "id": "d3d6832b3aa3",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "18시간 전 / 18h ago",
+      "title": "OmniMouse: Scaling properties of multi-modal, multi-task Brain Models on 150B Neural Tokens",
+      "titleKo": "",
+      "summary": "arXiv:2604.18827v1 Announce Type: new Abstract: Scaling data and artificial neural networks has transformed AI, driving breakthroughs in language and vision. Whether similar principles apply to modeling brain activity remains unclear. Here we leveraged a dataset of 3.1 million neurons from the visual cortex of 73 mice across 323 sessions, totaling more than 150 billion neural tokens recorded during natural movies, images and parametric stimuli, and behavior. We train multi-modal, multi-task models that support three regimes flexibly at test time: neural prediction, behavioral decoding, neural ",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.18827",
+      "featured": false
+    },
     {
       "id": "595a4dd305be",
       "tag": "psych",
@@ -21,7 +205,7 @@
         "**장기 효과에 대한 미해결 질문** / Research limitations suggest need for long-term studies on sustained AI relationships and potential psychological risks or benefits"
       ],
       "url": "https://www.psypost.org/psychologists-pinpoint-the-conversational-mechanisms-that-help-humans-bond-with-ai/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "cd3759f33a26",
@@ -231,195 +415,6 @@
         "**뇌-기계 융합의 미래 가능성** / Opens new avenues for brain-computer interfaces and treatment of neurological disorders"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "featured": false
-    },
-    {
-      "id": "1feb820f194c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "7일 전 / 7d ago",
-      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
-      "titleKo": "평생 이를 실천하면 알츠하이머병 위험을 38% 낮출 수 있다",
-      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
-      "aiSummary": "This research investigates how lifelong mental stimulation—such as reading, writing, and learning new skills—can reduce the risk of developing Alzheimer's disease. The study analyzed the cumulative effects of cognitive enrichment activities across participants' lifespans. Results showed that individuals with the highest levels of cognitive enrichment experienced a 38% reduction in Alzheimer's risk compared to those with the lowest levels, and their symptom onset was delayed by several years. These findings suggest that sustained intellectual engagement throughout life is crucial for maintaining brain health. While the study's strength lies in its long-term longitudinal data, it may not have fully controlled for other variables such as socioeconomic status and genetic factors that could influence outcomes.\n\n##",
-      "aiSummaryKo": "이 연구는 평생에 걸친 정신적 자극이 알츠하이머병 발병 위험을 얼마나 줄일 수 있는지 조사했습니다. 연구팀은 독서, 글쓰기, 새로운 기술 학습 등 인지적 자극 활동의 누적 효과를 분석했습니다. 결과적으로 인지적 자극이 높은 수준의 사람들은 낮은 수준의 사람들에 비해 알츠하이머병 위험이 38% 감소했으며, 증상 발현 시기도 수년 늦춰졌습니다. 이러한 발견은 뇌 건강을 유지하기 위해 평생에 걸쳐 지속적인 정신활동이 중요함을 시사합니다. 연구의 강점은 장기적 추적 데이터를 기반으로 했다는 점이지만, 개인의 사회경제적 상태나 유전적 요인 같은 다른 변수들의 영향을 완전히 통제하지 못했을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigates how lifelong mental stimulation—such as reading, writing, and learning new skills—can reduce the risk of developing Alzheimer's disease. The study analyzed the cumulative effects of cognitive enrichment activities across participants' lifespans. Results showed that individuals with the highest levels of cognitive enrichment experienced a 38% reduction in Alzheimer's risk compared to those with the lowest levels, and their symptom onset was delayed by several years. These findings suggest that sustained intellectual engagement throughout life is crucial for maintaining brain health. While the study's strength lies in its long-term longitudinal data, it may not have fully controlled for other variables such as socioeconomic status and genetic factors that could influence outcomes.\n\n##",
-      "keyPoints": [
-        "**38% 위험 감소** / 38% risk reduction: 인지적 자극이 높은 사람들이 알츠하이머 발병 위험을 거의 40% 낮춤",
-        "**증상 발현 지연** / Delayed symptom onset: 높은 수준의 정신 자극 그룹에서 증상이 수년 늦게 나타남",
-        "**평생 누적 효과** / Lifetime cumulative effect: 독서, 글쓰기, 새로운 기술 학습 등 지속적인 활동이 뇌를 보호함",
-        "**예방적 접근** / Preventive approach: 약물 치료보다 생활습관 개선으로 신경퇴행성 질환을 예방할 수 있는 가능성을 제시"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
-      "featured": false
-    },
-    {
-      "id": "9e3ec213f9d7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Smarter men possess more masculine body shapes but report fewer casual sex partners",
-      "titleKo": "더 똑똑한 남성이 더 남성다운 체형을 가지고 있지만 일시적 성관계 파트너가 더 적다고 보고한다",
-      "summary": "Smarter men tend to display physical signs of good health, like strong grips and broad shoulders. Yet, a recent study shows these men engage in less casual sex, suggesting intelligence steers them toward committed, long-term romantic partnerships.",
-      "aiSummary": "This study examined the relationship between male intelligence and both physical characteristics and sexual behavior patterns. Researchers observed that markers of physical health, such as strong grip strength and broad shoulders, appeared more frequently in men with higher intelligence levels. Interestingly, despite possessing these physically attractive traits, highly intelligent men reported fewer casual sex partners, suggesting they pursue more committed, long-term romantic relationships. The findings indicate that intelligence plays a significant role in human mating strategies and relationship preferences, supporting evolutionary psychology theories about cognitive factors in partner selection. This research provides insights into how intellectual capacity may guide men toward relationship stability rather than short-term sexual encounters. However, the study was based on cross-sectional design and may not have adequately controlled for other variables such as cultural context and personal values that could influence relationship choices.\n\n##",
-      "aiSummaryKo": "이 연구는 지능이 높은 남성의 신체 특성과 성적 행동 패턴 사이의 관계를 조사했습니다. 연구진은 강한 악력과 넓은 어깨 같은 신체적 건강 지표들이 지능이 높은 남성에게서 더 자주 나타나는 현상을 관찰했습니다. 그러나 흥미롭게도, 이러한 신체적으로 매력적인 특징을 가진 지능이 높은 남성들은 오히려 일시적 성관계의 파트너 수가 적다는 결과를 발견했습니다. 이는 지능이 높은 남성들이 장기적이고 헌신적인 로맨틱 관계를 추구하는 경향이 있음을 시사합니다. 이 연구는 지능이 인간의 짝짓기 전략과 관계 선택에 중요한 역할을 한다는 진화심리학적 통찰을 제공합니다. 다만 이 연구는 횡단적 설계에 기반했으며, 문화적 맥락이나 개인의 가치관 등 다른 변수들의 영향을 충분히 통제하지 못했을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study examined the relationship between male intelligence and both physical characteristics and sexual behavior patterns. Researchers observed that markers of physical health, such as strong grip strength and broad shoulders, appeared more frequently in men with higher intelligence levels. Interestingly, despite possessing these physically attractive traits, highly intelligent men reported fewer casual sex partners, suggesting they pursue more committed, long-term romantic relationships. The findings indicate that intelligence plays a significant role in human mating strategies and relationship preferences, supporting evolutionary psychology theories about cognitive factors in partner selection. This research provides insights into how intellectual capacity may guide men toward relationship stability rather than short-term sexual encounters. However, the study was based on cross-sectional design and may not have adequately controlled for other variables such as cultural context and personal values that could influence relationship choices.\n\n##",
-      "keyPoints": [
-        "**지능과 신체 건강의 상관관계** / Intelligence correlates with physical health markers (grip strength, shoulder width)",
-        "**지능이 높은 남성의 낮은 일시적 성관계 빈도** / High-intelligence men report fewer casual sex partners despite physical attractiveness",
-        "**진화심리학적 해석: 장기 관계 선호** / Intelligence drives preference for committed, long-term partnerships over casual encounters",
-        "**연구 제한점: 인과관계 미확립 및 문화 변수 미통제** / Cross-sectional design limits causal inference; cultural and individual value variables not adequately controlled"
-      ],
-      "url": "https://www.psypost.org/smarter-men-possess-more-masculine-body-shapes-but-report-fewer-casual-sex-partners/",
-      "featured": false
-    },
-    {
-      "id": "3596017dbf7c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "16시간 전 / 16h ago",
-      "title": "Childhood adversity predicts combined physical and mental illness in later life",
-      "titleKo": "어린 시절의 역경은 이후 삶에서 신체 질환과 정신 질환의 동시 발생을 예측한다",
-      "summary": "Childhood adversity casts a long shadow on human health, elevating the risk of developing simultaneous physical and mental illnesses during adulthood. New research details how early trauma fundamentally alters long-term biological and psychological outcomes.",
-      "aiSummary": "This research investigates how childhood adversity (abuse, neglect, family conflict) elevates the risk of developing both physical and mental illnesses simultaneously in adulthood. Researchers conducted longitudinal follow-up studies on adults who experienced significant childhood trauma and found that they have substantially higher risk of developing combined physical diseases (heart disease, diabetes) and mental disorders (depression, anxiety disorders). Specifically, individuals who experienced severe childhood adversity showed statistically significant increases in the probability of having both conditions concurrently. This occurs because early trauma damages the neurobiological stress response system, compromising immune function and brain health in the long term. The study's significance lies in highlighting the importance of childhood protection and psychotherapy for preventing adult health problems. However, limitations include recall bias from self-report questionnaires and incomplete control of socioeconomic confounding factors.\n\n##",
-      "aiSummaryKo": "이 연구는 어린 시절의 역경(학대, 방임, 가정불화 등)이 성인기의 신체 질환과 정신 질환을 동시에 유발할 수 있다는 가설을 검증했습니다. 연구팀은 어린 시절 부정적 경험을 겪은 성인들을 추적 조사하여, 이들이 신체적 질병(심장병, 당뇨병 등)과 정신 질환(우울증, 불안장애 등)을 함께 앓을 위험이 일반인보다 훨씬 높다는 것을 발견했습니다. 구체적으로, 어린 시절 심각한 역경을 경험한 사람들은 두 가지 질환을 동시에 갖을 확률이 통계적으로 유의미하게 증가했습니다. 이는 초기 트라우마가 신경생물학적 스트레스 반응 시스템을 손상시켜 장기적으로 면역계와 뇌 기능을 약화시키기 때문입니다. 본 연구의 의의는 성인 질환의 예방을 위해 어린 시절 보호와 심리치료의 중요성을 강조하는 데 있습니다. 다만 자가보고식 설문의 회상 편향과 사회경제적 요인의 완전한 통제 부족이 연구의 한계입니다.\n\n##",
-      "aiSummaryEn": "This research investigates how childhood adversity (abuse, neglect, family conflict) elevates the risk of developing both physical and mental illnesses simultaneously in adulthood. Researchers conducted longitudinal follow-up studies on adults who experienced significant childhood trauma and found that they have substantially higher risk of developing combined physical diseases (heart disease, diabetes) and mental disorders (depression, anxiety disorders). Specifically, individuals who experienced severe childhood adversity showed statistically significant increases in the probability of having both conditions concurrently. This occurs because early trauma damages the neurobiological stress response system, compromising immune function and brain health in the long term. The study's significance lies in highlighting the importance of childhood protection and psychotherapy for preventing adult health problems. However, limitations include recall bias from self-report questionnaires and incomplete control of socioeconomic confounding factors.\n\n##",
-      "keyPoints": [
-        "**어린 시절 역경의 장기 영향**: 어린 시절 부정적 경험이 신체 질환과 정신 질환을 동시에 유발할 수 있음 / Childhood adversity can simultaneously trigger physical and mental illnesses in adulthood",
-        "**신경생물학적 기전**: 초기 트라우마가 스트레스 반응 시스템을 손상시켜 면역계와 뇌 기능 약화 / Early trauma damages stress response systems, compromising immunity and brain function",
-        "**예방적 개입의 중요성**: 성인 질환 예방을 위해 어린 시절 보호, 트라우마 치료, 심리지원 강화 필요 / Early childhood protection, trauma therapy, and psychological support are essential for disease prevention in adulthood",
-        "**임상적 함의**: 신체 질환 환자 진료 시 정신 건강 사정과 어린 시절 경험 확인의 필요성 / Healthcare providers should assess mental health and childhood experiences when treating physical illness patients"
-      ],
-      "url": "https://www.psypost.org/a-long-shadow-childhood-adversity-predicts-combined-physical-and-mental-illness/",
-      "featured": false
-    },
-    {
-      "id": "cc1c661e4050",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Scientists say this type of olive oil could boost brain power",
-      "titleKo": "과학자들, 이 종류의 올리브유가 뇌 기능을 향상시킬 수 있다고 발표",
-      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
-      "aiSummary": "This study investigated whether extra virgin olive oil could protect brain health through gut microbiota. Researchers conducted a two-year comparative experiment between people consuming extra virgin olive oil and those using refined olive oil. The results showed that the extra virgin olive oil group demonstrated superior cognitive performance and greater gut bacterial diversity. The team even identified specific microbes responsible for these brain health benefits. The findings suggest that choosing high-quality olive oil could be a simple strategy for maintaining brain health during aging. However, longer-term follow-up studies and research on more diverse populations are needed to confirm these results.",
-      "aiSummaryKo": "이 연구는 엑스트라 버진 올리브유가 장내 미생물을 통해 뇌 건강을 보호할 수 있다는 가설에서 출발했습니다. 연구팀은 2년간 엑스트라 버진 올리브유를 섭취한 사람들과 정제 올리브유를 사용한 사람들을 비교하는 실험을 진행했습니다. 그 결과 엑스트라 버진 올리브유 섭취 그룹이 더 우수한 인지 능력을 보였으며, 장내 미생물의 다양성도 더 높았습니다. 연구팀은 이러한 뇌 건강 개선 효과와 관련된 특정 미생물까지 규명했습니다. 이는 고품질 올리브유 선택이 노화에 따른 뇌 건강 유지의 간단한 방법이 될 수 있음을 시사합니다. 다만 장기간의 추적 관찰과 더 다양한 대상군에 대한 추가 연구가 필요합니다.",
-      "aiSummaryEn": "This study investigated whether extra virgin olive oil could protect brain health through gut microbiota. Researchers conducted a two-year comparative experiment between people consuming extra virgin olive oil and those using refined olive oil. The results showed that the extra virgin olive oil group demonstrated superior cognitive performance and greater gut bacterial diversity. The team even identified specific microbes responsible for these brain health benefits. The findings suggest that choosing high-quality olive oil could be a simple strategy for maintaining brain health during aging. However, longer-term follow-up studies and research on more diverse populations are needed to confirm these results.",
-      "keyPoints": [
-        "엑스트라 버진 올리브유가 장내 미생물 다양성 증가를 통해 인지 능력 향상 / Extra virgin olive oil enhances cognitive performance through increased gut bacterial diversity",
-        "2년간의 장기 연구로 정제 올리브유 대비 더 나은 뇌 건강 효과 입증 / Two-year longitudinal study demonstrated superior brain health effects compared to refined olive oil",
-        "뇌 건강 개선과 직접 연관된 특정 미생물 규명 / Specific microbes linked to brain health benefits were identified",
-        "노화 관련 인지 감퇴 예방을 위한 식이 개선의 실질적 방안 제시 / Practical dietary intervention method suggested for preventing age-related cognitive decline"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
-      "featured": false
-    },
-    {
-      "id": "e6acb17d3a3f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "6일 전 / 6d ago",
-      "title": "The surprising reason you’re so productive one day and not the next",
-      "titleKo": "어떤 날은 생산성이 높고 다른 날은 낮은 놀라운 이유",
-      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
-      "aiSummary": "This research investigated how daily fluctuations in cognitive ability affect productivity levels. Researchers examined the relationships between participants' daily thinking sharpness, goal-setting behavior, and actual task completion. The key finding is that when people experience cognitive clarity and mental sharpness on a particular day, they set more ambitious goals and are more likely to achieve them, with this cognitive edge translating into up to 40 additional minutes of productivity per day. However, attempting to sustain this high-performance state through excessive effort can reverse these positive effects. The study demonstrates that productivity is not solely determined by effort or motivation but is significantly influenced by cognitive state. Study limitations include potential constraints on sample size and the lack of long-term longitudinal follow-up analysis.\n\n##",
-      "aiSummaryKo": "이 연구는 매일 변하는 인지 능력이 생산성에 어떤 영향을 미치는지 조사했습니다. 연구팀은 참가자들의 일일 사고력 변화와 목표 설정, 실제 작업 수행 간의 관계를 분석했습니다. 주요 발견은 특정 날에 정신이 맑고 날카로울 때 사람들이 더 높은 목표를 설정하고 이를 달성할 가능성이 높아진다는 것으로, 이러한 인지적 예리함이 하루에 최대 40분의 추가 생산성으로 이어질 수 있다는 점입니다. 하지만 이러한 높은 수행 상태를 지속적으로 유지하려고 무리하게 노력하면 오히려 역효과가 나타날 수 있습니다. 이 연구는 생산성이 단순한 노력이나 동기만의 문제가 아니라 인지적 상태에도 크게 영향을 받음을 보여줍니다. 다만 샘플 크기나 장기적 추적 연구 부족 등이 연구의 한계로 지적될 수 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigated how daily fluctuations in cognitive ability affect productivity levels. Researchers examined the relationships between participants' daily thinking sharpness, goal-setting behavior, and actual task completion. The key finding is that when people experience cognitive clarity and mental sharpness on a particular day, they set more ambitious goals and are more likely to achieve them, with this cognitive edge translating into up to 40 additional minutes of productivity per day. However, attempting to sustain this high-performance state through excessive effort can reverse these positive effects. The study demonstrates that productivity is not solely determined by effort or motivation but is significantly influenced by cognitive state. Study limitations include potential constraints on sample size and the lack of long-term longitudinal follow-up analysis.\n\n##",
-      "keyPoints": [
-        "**인지적 예리함의 즉각적 영향** / Immediate impact of cognitive sharpness: 정신이 맑은 날에 더 높은 목표를 설정하고 실제로 달성 / Setting higher goals on mentally sharp days and actually achieving them",
-        "**정량적 생산성 증가** / Quantifiable productivity gains: 인지적 우위가 하루에 40분의 추가 생산성으로 전환 / Cognitive advantage translates to up to 40 extra minutes of daily productivity",
-        "**과도한 노력의 역효과** / Counterproductive effects of overextension: 지속적으로 높은 수행을 유지하려는 시도는 효과를 상쇄 / Pushing too hard for too long reverses the positive effects",
-        "**생산성의 다층적 요인** / Multifactorial nature of productivity: 생산성은 단순 의지가 아닌 인지 상태, 목표 설정, 실행의 복합적 상호작용 / Productivity results from complex interplay of cognitive state, goal-setting, and execution, not willpower alone"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "featured": false
-    },
-    {
-      "id": "4d8a912d6701",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
-      "titleKo": "다중 변수 갭이 있는 최장 공통 부분수열 문제의 해결에 관한 연구",
-      "summary": "arXiv:2604.18645v1 Announce Type: new Abstract: This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS problem involving flexible gap constraints between consecutive solutions' characters. The problem arises in molecular sequence comparison, where structural distance constraints between residues must be respected, and in time-series analysis where events are required to occur within specified temporal delays. We propose a search framework based on the root-based state graph representation, in which the state space comprises a ",
-      "aiSummary": "This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical Longest Common Subsequence (LCS) problem that incorporates flexible gap constraints between consecutive characters in solutions. The problem is particularly relevant in molecular sequence comparison, where structural distance constraints between amino acid residues must be respected, and in time-series analysis, where events must occur within specified temporal delays. The researchers propose a search framework based on root-based state graph representation to solve this problem. This approach enables more sophisticated sequence matching compared to traditional comparison methods. The significance of this research lies in advancing bioinformatics and time-series analysis applications with more accurate alignment capabilities. However, as this is a preprint version, the paper lacks concrete experimental results and comparative performance data, which limits validation of its practical effectiveness.\n\n##",
-      "aiSummaryKo": "이 연구는 변수 갭 제약이 있는 최장 공통 부분수열(VGLCS) 문제를 다룬다. 기존의 최장 공통 부분수열(LCS) 문제를 확장하여, 연속된 문자들 사이에 유연한 간격 제약을 포함시킨 것이다. 이 문제는 단백질이나 DNA 같은 분자 서열 비교에서 잔기(residue) 간 구조적 거리 제약을 고려해야 할 때, 그리고 시계열 데이터 분석에서 특정 시간 지연 내에 사건이 발생해야 할 때 발생한다. 연구팀은 루트 기반 상태 그래프 표현에 기반한 탐색 프레임워크를 제안했다. 이 접근 방식은 기존의 단순 비교 방식보다 더 복잡한 현실 문제를 해결할 수 있다. 연구의 주요 의의는 생물정보학과 시계열 분석 분야에서 더 정교한 수열 매칭이 가능하도록 한다는 점이다. 다만 논문이 아직 초안 단계로, 구체적인 실험 결과와 성능 비교 데이터가 제시되지 않아 실용적 효과 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical Longest Common Subsequence (LCS) problem that incorporates flexible gap constraints between consecutive characters in solutions. The problem is particularly relevant in molecular sequence comparison, where structural distance constraints between amino acid residues must be respected, and in time-series analysis, where events must occur within specified temporal delays. The researchers propose a search framework based on root-based state graph representation to solve this problem. This approach enables more sophisticated sequence matching compared to traditional comparison methods. The significance of this research lies in advancing bioinformatics and time-series analysis applications with more accurate alignment capabilities. However, as this is a preprint version, the paper lacks concrete experimental results and comparative performance data, which limits validation of its practical effectiveness.\n\n##",
-      "keyPoints": [
-        "**문제 확장성** / Problem Extension: 기존 최장 공통 부분수열 문제에 유연한 갭 제약 조건을 추가하여 더 복잡한 현실 문제 해결 가능 / Extended LCS problem with flexible gap constraints to address more complex real-world scenarios",
-        "**실제 응용 분야** / Practical Applications: 단백질/DNA 서열 분석과 시계열 데이터에서 시간 지연 제약을 고려한 패턴 매칭 필요 / Applied in molecular sequence analysis and time-series analysis where temporal/structural constraints are critical",
-        "**기술적 접근** / Technical Approach: 루트 기반 상태 그래프 표현을 활용한 체계적인 탐색 프레임워크 제시 / Proposes root-based state graph representation as the solution framework",
-        "**검증 부재** / Validation Limitation: 구체적인 실험 결과, 성능 지표, 기존 방법과의 비교 데이터 미제시로 실효성 검증 필요 / Lacks experimental validation, performance metrics, and comparative analysis with existing methods as it remains in preprint stage"
-      ],
-      "url": "https://arxiv.org/abs/2604.18645",
-      "featured": false
-    },
-    {
-      "id": "b0a8db414aa8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
-      "titleKo": "하나의 출력을 넘어: 언어 모델 생성의 분포 시각화 및 비교",
-      "summary": "arXiv:2604.18724v1 Announce Type: new Abstract: Users typically interact with and evaluate language models via single outputs, but each output is just one sample from a broad distribution of possible completions. This interaction hides distributional structure such as modes, uncommon edge cases, and sensitivity to small prompt changes, leading users to over-generalize from anecdotes when iterating on prompts for open-ended tasks. Informed by a formative study with researchers who use LMs (n=13) examining when stochasticity matters in practice, how they reason about distributions over language,",
-      "aiSummary": "This study addresses the problem that users interact with language models through single outputs, missing the full distribution of possible completions. Although each output from a language model is just one sample from a broad range of possibilities, users often fail to understand this distributional nature. The research team conducted a formative study with 13 language model researchers to investigate when stochasticity matters in practice and how users reason about language distributions. The study reveals the necessity of developing tools to visualize and compare distributional structures across multiple output samples, including multiple modes, rare edge cases, and sensitivity to prompt variations. Single outputs alone lead to over-generalization from anecdotal examples when iterating on prompts for open-ended tasks. This research proposes visualization methodologies that enable users to more accurately understand the true performance and characteristics of language models.\n\n##",
-      "aiSummaryKo": "본 연구는 사용자가 언어 모델과 상호작용할 때 단일 출력만 보게 되어 발생하는 문제를 다룹니다. 언어 모델의 각 출력은 수많은 가능한 완성 중 하나일 뿐이지만, 사용자들은 이를 전체 분포로 이해하지 못합니다. 연구팀은 언어 모델을 사용하는 연구자 13명을 대상으로 형성 연구를 수행하여 확률성이 실제로 얼마나 중요한지, 그리고 사용자들이 언어 분포에 대해 어떻게 추론하는지 조사했습니다. 이 연구는 여러 출력 샘플의 분포 구조(여러 최빈값, 드문 극단 사례, 프롬프트 변화에 대한 민감도)를 시각화하고 비교할 수 있는 도구 개발의 필요성을 보여줍니다. 단일 출력만으로는 개방형 작업에서 프롬프트를 반복할 때 일화적 사례로부터 과도하게 일반화하는 경향이 있습니다. 본 연구는 사용자가 언어 모델의 진정한 성능과 특성을 더 정확히 이해할 수 있도록 하는 시각화 방법론을 제시합니다.\n\n##",
-      "aiSummaryEn": "This study addresses the problem that users interact with language models through single outputs, missing the full distribution of possible completions. Although each output from a language model is just one sample from a broad range of possibilities, users often fail to understand this distributional nature. The research team conducted a formative study with 13 language model researchers to investigate when stochasticity matters in practice and how users reason about language distributions. The study reveals the necessity of developing tools to visualize and compare distributional structures across multiple output samples, including multiple modes, rare edge cases, and sensitivity to prompt variations. Single outputs alone lead to over-generalization from anecdotal examples when iterating on prompts for open-ended tasks. This research proposes visualization methodologies that enable users to more accurately understand the true performance and characteristics of language models.\n\n##",
-      "keyPoints": [
-        "**단일 출력의 한계** / Limited Single Output View",
-        "**분포 구조의 시각화 필요성** / Need for Distribution Structure Visualization",
-        "**실제 사용 맥락 조사** / Practical Context Investigation",
-        "**개방형 작업의 프롬프트 개선** / Prompt Iteration for Open-Ended Tasks"
-      ],
-      "url": "https://arxiv.org/abs/2604.18724",
-      "featured": false
-    },
-    {
-      "id": "e5d4867fac0e",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
-      "titleKo": "ARES: 정책-보상 시스템의 적응형 적대적 테스트 및 엔드투엔드 복구",
-      "summary": "arXiv:2604.18789v1 Announce Type: new Abstract: Reinforcement Learning from Human Feedback (RLHF) is central to aligning Large Language Models (LLMs), yet it introduces a critical vulnerability: an imperfect Reward Model (RM) can become a single point of failure when it fails to penalize unsafe behaviors. While existing red-teaming approaches primarily target policy-level weaknesses, they overlook what we term systemic weaknesses cases where both the core LLM and the RM fail in tandem. We present ARES, a framework that systematically discovers and mitigates such dual vulnerabilities. ARES empl",
-      "aiSummary": "Large Language Models (LLMs) are increasingly aligned using RLHF (Reinforcement Learning from Human Feedback), but this introduces a critical vulnerability where an imperfect Reward Model (RM) can fail to penalize unsafe behaviors. While existing red-teaming approaches focus only on policy-level weaknesses, they overlook systemic weaknesses where both the core LLM and the RM fail simultaneously. The ARES framework systematically discovers and mitigates these dual vulnerabilities through an integrated approach. Rather than simply identifying dangerous responses, ARES improves both the AI model and its evaluation system, creating more robust safeguards for AI systems. This research is significant because it addresses a previously overlooked failure mode in AI safety. However, the study is in preliminary stages, and further validation across diverse real-world scenarios is needed to confirm its effectiveness and generalizability.\n\n##",
-      "aiSummaryKo": "최신 인공지능 모델들은 인간의 피드백을 통해 학습하는 RLHF(강화학습)라는 기법으로 안전성을 확보하려고 하지만, 이 과정에서 중요한 보안 취약점이 발생할 수 있습니다. 기존의 안전성 테스트 방법들은 AI 모델 자체의 약점만 찾으려고 했지만, ARES라는 새로운 연구는 AI 모델과 그것을 평가하는 보상 모델이 동시에 실패하는 \"시스템적 약점\"을 발견하고 개선하는 것을 목표로 합니다. ARES 프레임워크는 이러한 이중 취약점을 체계적으로 찾아내고 해결하기 위해 설계되었습니다. 이 연구는 단순히 AI의 위험한 응답만 막는 것이 아니라, 평가 시스템 자체의 결함까지 함께 개선함으로써 더욱 안전한 AI 시스템을 만드는 데 중요한 의의가 있습니다. 다만 이 연구는 현재 초기 단계로, 실제 다양한 환경에서의 효과성 검증이 필요하다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "Large Language Models (LLMs) are increasingly aligned using RLHF (Reinforcement Learning from Human Feedback), but this introduces a critical vulnerability where an imperfect Reward Model (RM) can fail to penalize unsafe behaviors. While existing red-teaming approaches focus only on policy-level weaknesses, they overlook systemic weaknesses where both the core LLM and the RM fail simultaneously. The ARES framework systematically discovers and mitigates these dual vulnerabilities through an integrated approach. Rather than simply identifying dangerous responses, ARES improves both the AI model and its evaluation system, creating more robust safeguards for AI systems. This research is significant because it addresses a previously overlooked failure mode in AI safety. However, the study is in preliminary stages, and further validation across diverse real-world scenarios is needed to confirm its effectiveness and generalizability.\n\n##",
-      "keyPoints": [
-        "**기존 문제점 파악** / Identified Gap: RLHF의 보상 모델이 안전성 체크의 단일 실패 지점(single point of failure)이 될 수 있다는 기존에 간과된 취약점 발견",
-        "**이중 취약점 개념** / Dual Vulnerability: AI 정책과 보상 모델이 동시에 실패하는 \"시스템적 약점\"을 처음으로 정의하고 대응하는 혁신적 접근",
-        "**통합 솔루션 제시** / Integrated Solution: ARES는 단순한 정책 수정이 아닌 AI 모델과 평가 시스템을 함께 개선하는 end-to-end 수리 방식 제안",
-        "**AI 안전성 강화** / Enhanced Safety: 이 연구는 LLM 정렬 과정의 근본적인 보안 결함을 해결함으로써 더욱 신뢰할 수 있는 AI 시스템 개발에 기여"
-      ],
-      "url": "https://arxiv.org/abs/2604.18789",
-      "featured": false
-    },
-    {
-      "id": "12fb65383bf8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "AI scientists produce results without reasoning scientifically",
-      "titleKo": "AI 과학자들이 과학적 추론 없이 결과를 도출하다",
-      "summary": "arXiv:2604.18805v1 Announce Type: new Abstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry self-correcting is poorly understood. Here, we evaluate LLM-based scientific agents across eight domains, spanning workflow execution to hypothesis-driven inquiry, through more than 25,000 agent runs and two complementary lenses: (i) a systematic performance analysis that decomposes the contributions of the base model and the agent scaffold, and (ii)",
-      "aiSummary": "Large language model (LLM)-based systems are increasingly used to autonomously conduct scientific research, yet it remains unclear whether their reasoning adheres to the epistemic norms that enable scientific self-correction. This study evaluated LLM-based scientific agents across eight scientific domains through more than 25,000 agent runs, employing systematic performance analysis to decompose the contributions of the base model and agent scaffold. The findings reveal that current LLM-based systems appear to follow scientific procedures on the surface but fail to properly adhere to core principles of scientific reasoning. This research emphasizes the importance of validating not only the accuracy of results but also the rigor of scientific methodology when deploying AI systems in scientific research. However, the study's limitations include potential domain-specific constraints and the need for continuous re-evaluation as LLMs rapidly evolve.\n\n##",
-      "aiSummaryKo": "대규모언어모델(LLM) 기반 AI 시스템이 과학 연구를 자동으로 수행하도록 배포되고 있지만, 이들의 추론이 과학적 inquiry의 자기수정 메커니즘을 따르는지 명확하지 않았다. 이 연구는 8개 과학 영역에서 25,000회 이상의 AI 에이전트 실행을 통해 LLM 기반 과학 에이전트를 평가했으며, 기본 모델과 에이전트 구조의 기여도를 분석하는 체계적 성능 분석을 수행했다. 연구 결과는 현재의 LLM 기반 시스템들이 겉으로는 과학적 절차를 따르는 것처럼 보이지만, 실제로는 과학적 추론의 핵심 원칙들을 제대로 준수하지 못함을 보여준다. 이 연구는 AI 시스템을 과학 연구에 활용할 때 단순히 결과의 정확성뿐 아니라 과학적 방법론의 엄밀성을 검증해야 함을 강조한다. 다만, 연구의 한계로는 평가 대상이 특정 도메인으로 제한되었을 수 있으며, 지속적으로 발전하는 LLM의 특성상 시간 경과에 따른 재평가가 필요하다.\n\n##",
-      "aiSummaryEn": "Large language model (LLM)-based systems are increasingly used to autonomously conduct scientific research, yet it remains unclear whether their reasoning adheres to the epistemic norms that enable scientific self-correction. This study evaluated LLM-based scientific agents across eight scientific domains through more than 25,000 agent runs, employing systematic performance analysis to decompose the contributions of the base model and agent scaffold. The findings reveal that current LLM-based systems appear to follow scientific procedures on the surface but fail to properly adhere to core principles of scientific reasoning. This research emphasizes the importance of validating not only the accuracy of results but also the rigor of scientific methodology when deploying AI systems in scientific research. However, the study's limitations include potential domain-specific constraints and the need for continuous re-evaluation as LLMs rapidly evolve.\n\n##",
-      "keyPoints": [
-        "**표면적 과학성과 실질적 결함**: AI 에이전트가 과학적 절차를 따르는 것처럼 보이지만 실제로는 과학적 추론의 핵심 원칙(자기수정, 가설 검증 등)을 준수하지 못함 / AI agents appear to follow scientific procedures but fail to adhere to core principles of scientific reasoning such as self-correction and hypothesis validation",
-        "**광범위한 실증 평가**: 8개 과학 영역에서 25,000회 이상의 실험을 통해 LLM 기반 시스템의 성능을 체계적으로 분석 / Comprehensive evaluation through 25,000+ agent runs across eight scientific domains with systematic performance analysis",
-        "**모델과 구조의 분리 분석**: 기본 LLM 모델의 능력과 에이전트 설계(scaffold) 구조의 영향을 구분하여 어느 부분이 과학적 추론 실패의 원인인지 파악 / Decomposition of contributions between base model capabilities and agent scaffold design to identify specific failure points",
-        "**과학 연구 자동화의 신중성 필요**: AI를 과학 연구에 활용할 때는 단순 정확도 평가를 넘어 과학적 방법론의 엄밀성과 자기수정 능력을 검증해야 함 / Highlighting the necessity for rigorous validation of scientific methodology and self-correction mechanisms beyond simple accuracy metrics when deploying AI in scientific research"
-      ],
-      "url": "https://arxiv.org/abs/2604.18805",
       "featured": false
     }
   ]
