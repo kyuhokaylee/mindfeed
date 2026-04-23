@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-23T16:55:44.501056+00:00",
+  "updated": "2026-04-23T20:15:51.869450+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "418d42041476",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Making podcasts instead of just listening to them might help medical students learn",
+      "titleKo": "의료 학생들이 단순히 듣는 것보다 팟캐스트를 직접 제작하는 것이 학습에 도움이 될 수 있다",
+      "summary": "Can recording a podcast help you ace an exam? Researchers tested if actively producing audio content improved medical students' knowledge of heart defects compared to passive listening, yielding promising but inconclusive results.",
+      "aiSummary": "This study investigated whether active learning through content creation improves medical education outcomes compared to passive learning. Researchers divided medical students into two groups: one listened passively to podcasts about heart defects while the other group actively produced podcasts on the same topic. The study employed a pre-post test design to compare learning outcomes between the two groups, though specific participant numbers and exact performance metrics were not disclosed in the article. The results showed promising evidence that podcast production led to better learning outcomes than passive listening, but the findings were not conclusive. The significance of this research lies in highlighting the importance of student engagement and active learning methods in medical professional training. However, limitations including unclear sample size, control variables, and whether learning benefits persist over time require further investigation.\n\n##",
+      "aiSummaryKo": "이 연구는 의학 교육에서 능동적 학습의 효과를 검증하기 위해 진행되었습니다. 연구팀은 의학 학생들을 두 그룹으로 나누어 한 그룹은 심장 결손증(heart defects)에 대한 팟캐스트를 단순히 듣기만 하고, 다른 그룹은 직접 팟캐스트를 제작하도록 했습니다. 실험 설계는 사전-사후 검사를 포함하여 두 집단의 학습 성과를 비교 측정했으나, 구체적인 참가자 수와 정확한 성과 수치는 기사에 제시되지 않았습니다. 연구 결과는 팟캐스트 제작이 수동적 청취보다 더 나은 학습 효과를 보일 가능성을 시사했으나, 결론이 완전히 확정적이지 않은 상태입니다. 이 연구의 의의는 의료 전문가 양성 과정에서 학생 참여도와 적극적 학습 방식의 중요성을 강조한다는 점입니다. 다만 표본 규모, 통제 변수, 장기적 학습 효과 지속 여부 등이 명확하지 않아 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated whether active learning through content creation improves medical education outcomes compared to passive learning. Researchers divided medical students into two groups: one listened passively to podcasts about heart defects while the other group actively produced podcasts on the same topic. The study employed a pre-post test design to compare learning outcomes between the two groups, though specific participant numbers and exact performance metrics were not disclosed in the article. The results showed promising evidence that podcast production led to better learning outcomes than passive listening, but the findings were not conclusive. The significance of this research lies in highlighting the importance of student engagement and active learning methods in medical professional training. However, limitations including unclear sample size, control variables, and whether learning benefits persist over time require further investigation.\n\n##",
+      "keyPoints": [
+        "**능동적 학습의 우월성**: 팟캐스트를 수동적으로 청취하는 것보다 직접 제작하는 과정이 더 효과적인 학습을 촉진할 수 있음 / Active content creation shows more promise for learning than passive listening to educational materials",
+        "**의료 교육 방법론의 혁신**: 전통적 강의식 교육에서 벗어나 학생이 주도적으로 참여하는 교육 방식의 필요성 제시 / Demonstrates the need to move beyond traditional lecture-based medical education toward student-centered approaches",
+        "**결과의 잠재성과 불확실성**: 유망한 결과를 보였으나 통계적으로 완전히 확정되지 않아 추가 대규모 연구 필요 / Findings are promising but inconclusive, requiring larger-scale studies for definitive conclusions",
+        "**실무적 응용 가능성**: 의학 학생들의 시험 성적 향상 및 깊이 있는 개념 이해 증진에 팟캐스트 제작 활용 가능성 / Results suggest podcast production could be integrated into medical curricula to improve exam performance and conceptual understanding"
+      ],
+      "url": "https://www.psypost.org/making-podcasts-instead-of-just-listening-to-them-might-help-medical-students-learn/",
+      "featured": true
+    },
+    {
+      "id": "bc761284dc99",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "New study suggests dreams function as a “multimotive simulation space”",
+      "titleKo": "새로운 연구에 따르면 꿈은 \"다중동기 시뮬레이션 공간\"으로 기능한다",
+      "summary": "New research indicates that dreams often act as a simulation for social hurdles. By analyzing hundreds of dream reports, scientists found that themes like status and self-protection frequently organize the content of our sleep narratives.",
+      "aiSummary": "This research challenges the notion that dreams are merely meaningless brain activity by proposing that they serve important psychological functions. The research team analyzed hundreds of dream reports to identify patterns, though specific participant numbers and experimental design details were not provided in the article. Key findings revealed that themes of social status and self-protection frequently appear in dream content, suggesting that dreams function as a \"multimotive simulation space\" for preparing us to face real-world social challenges. The significance of this study lies in providing scientific evidence that dreams reflect our evolutionary survival instincts and social coping strategies. However, the research has limitations including potential issues with dream report reliability, cultural variations in dream content, and individual differences that may not have been adequately controlled.\n\n##",
+      "aiSummaryKo": "이 연구는 꿈이 단순한 뇌의 무의미한 활동이 아니라 실제로 중요한 심리적 기능을 한다는 가설에서 출발했습니다. 연구팀은 수백 개의 꿈 보고서를 분석하여 패턴을 찾는 방법을 사용했으며, 구체적인 참가자 수와 실험 설계는 기사에 명시되지 않았습니다. 연구 결과, 꿈에서는 사회적 지위(status)와 자기보호(self-protection)라는 주제가 자주 나타났으며, 이는 꿈이 실제 사회생활에서 마주칠 수 있는 어려움에 대비하는 \"시뮬레이션 공간\"으로 기능함을 보여줍니다. 이 연구의 의의는 꿈이 우리의 진화적 생존 본능과 사회적 생존 전략을 반영한다는 것을 과학적으로 입증했다는 점입니다. 다만 이 연구는 꿈 보고의 신뢰도, 문화적 차이, 그리고 개인적 편차에 대한 고려가 부족할 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research challenges the notion that dreams are merely meaningless brain activity by proposing that they serve important psychological functions. The research team analyzed hundreds of dream reports to identify patterns, though specific participant numbers and experimental design details were not provided in the article. Key findings revealed that themes of social status and self-protection frequently appear in dream content, suggesting that dreams function as a \"multimotive simulation space\" for preparing us to face real-world social challenges. The significance of this study lies in providing scientific evidence that dreams reflect our evolutionary survival instincts and social coping strategies. However, the research has limitations including potential issues with dream report reliability, cultural variations in dream content, and individual differences that may not have been adequately controlled.\n\n##",
+      "keyPoints": [
+        "**꿈의 기능성**: 꿈은 무의미한 뇌 활동이 아니라 사회적 도전에 대비하는 시뮬레이션 역할을 수행함 / Dreams are not meaningless brain activity but serve as a simulation space for preparing to face social challenges",
+        "**핵심 주제**: 수백 개의 꿈 분석을 통해 사회적 지위와 자기보호라는 반복되는 주제가 발견됨 / Hundreds of dream reports revealed recurring themes of social status and self-protection",
+        "**진화심리학적 의의**: 꿈이 인간의 생존 본능과 사회 적응 전략을 반영하는 적응 메커니즘임을 시사 / Dreams appear to be an adaptive mechanism reflecting human survival instincts and social adaptation strategies",
+        "**연구 한계**: 꿈 보고의 주관성, 문화 간 차이, 개인차 등을 고려한 추가 연구 필요 / Further research accounting for subjectivity in dream reports, cross-cultural differences, and individual variations is needed"
+      ],
+      "url": "https://www.psypost.org/new-study-suggests-dreams-function-as-a-multimotive-simulation-space/",
+      "featured": false
+    },
+    {
+      "id": "4f9418096eeb",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "16시간 전 / 16h ago",
+      "title": "On-Meter Graph Machine Learning: A Case Study of PV Power Forecasting for Grid Edge Intelligence",
+      "titleKo": "온-미터 그래프 머신러닝: 그리드 엣지 인텔리전스를 위한 태양광 발전 예측 사례 연구",
+      "summary": "arXiv:2604.19800v1 Announce Type: new Abstract: This paper presents a detailed study of how graph neural networks can be used on edge intelligent meters in a microgrid to forecast photovoltaic power generation. The problem background and the adopted technologies are introduced, including ONNX and ONNX Runtime. The hardware and software specifications of the smart meter are also briefly described. Then, the paper focuses on the training and deployment of two graph machine learning models, GCN and GraphSAGE, with particular emphasis on developing and deploying a customized ONNX operator for GCN.",
+      "aiSummary": "This paper investigates the application of graph neural networks (GNNs) on smart meters in a microgrid to forecast photovoltaic power generation at the grid edge. The research team developed and deployed two graph machine learning models—Graph Convolutional Networks (GCN) and GraphSAGE—optimized for edge intelligence environments using ONNX and ONNX Runtime technologies. A customized ONNX operator was specifically developed for GCN to enable efficient deployment on resource-constrained smart meter hardware. The study provides detailed specifications of both hardware implementation and software architecture required for on-meter machine learning inference. The research demonstrates significant progress in applying graph-based neural networks to real-world grid environments, with implications for improving prediction accuracy of distributed energy resources and enhancing smart grid efficiency. However, validation is limited to specific microgrid conditions, and generalizability across diverse geographical and climatic regions requires further investigation.\n\n##",
+      "aiSummaryKo": "본 연구는 마이크로그리드의 스마트 미터기에 그래프 신경망(GNN)을 적용하여 태양광 발전량을 예측하는 방법을 다룬다. 연구팀은 그래프 합성곱 신경망(GCN)과 GraphSAGE 두 가지 그래프 기계학습 모델을 개발하고, 이를 에지 인텔리전스 환경에 배포했다. ONNX와 ONNX Runtime 기술을 활용하여 모델을 최적화하고, 스마트 미터의 하드웨어 제약 환경에서도 효율적으로 작동하도록 설계했다. 특히 GCN용 커스텀 ONNX 연산자를 개발하여 배포했으며, 이는 그래프 기반 신경망을 실제 그리드 환경에 적용하는 데 중요한 진전을 의미한다. 본 연구의 의의는 분산된 에너지 자원의 예측 정확도 향상과 스마트그리드 효율성 개선에 있다. 다만 특정 마이크로그리드 환경에서의 검증에 그쳐, 다양한 지역과 기후 조건에서의 일반화 가능성은 추가 연구가 필요하다.\n\n##",
+      "aiSummaryEn": "This paper investigates the application of graph neural networks (GNNs) on smart meters in a microgrid to forecast photovoltaic power generation at the grid edge. The research team developed and deployed two graph machine learning models—Graph Convolutional Networks (GCN) and GraphSAGE—optimized for edge intelligence environments using ONNX and ONNX Runtime technologies. A customized ONNX operator was specifically developed for GCN to enable efficient deployment on resource-constrained smart meter hardware. The study provides detailed specifications of both hardware implementation and software architecture required for on-meter machine learning inference. The research demonstrates significant progress in applying graph-based neural networks to real-world grid environments, with implications for improving prediction accuracy of distributed energy resources and enhancing smart grid efficiency. However, validation is limited to specific microgrid conditions, and generalizability across diverse geographical and climatic regions requires further investigation.\n\n##",
+      "keyPoints": [
+        "**그래프 신경망의 에지 배포** / Graph Neural Networks deployed on edge intelligence meters for real-time PV forecasting without cloud dependency",
+        "**ONNX 기술 활용** / Custom ONNX operators developed for GCN to optimize model deployment on hardware-constrained smart meters",
+        "**두 가지 모델 비교** / GCN and GraphSAGE models compared for their performance in microgrid power forecasting applications",
+        "**스마트그리드 효율성 향상** / Potential to improve grid stability and renewable energy integration through localized, real-time power generation predictions"
+      ],
+      "url": "https://arxiv.org/abs/2604.19800",
+      "featured": false
+    },
+    {
+      "id": "9b14241a7bd8",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Response time of lateral predictive coding and benefits of modular structures",
+      "titleKo": "측면 예측 부호화의 응답 시간과 모듈식 구조의 이점",
+      "summary": "arXiv:2604.20524v1 Announce Type: new Abstract: Lateral predictive coding (LPC) is a simple theoretical framework to appreciate feature detection in biological neural circuits. Recent theoretical work [Huang et al., Phys.Rev.E 112, 034304 (2025)] has successfully constructed optimal LPC networks capable of extracting non-Gaussian hidden input features by imposing the tradeoff between energetic cost and information robustness, but the resulting dynamical systems of recurrent interactions can be very slow in responding to external inputs. We investigate response-time reduction in the present pap",
+      "aiSummary": "This study investigates lateral predictive coding (LPC), a theoretical framework explaining feature detection in biological neural circuits. While recent research successfully constructed optimal LPC networks capable of extracting non-Gaussian features by balancing energetic costs and information robustness, these systems exhibited slow response times to external inputs. The present research explores how modular (distributed) network structures can reduce response-time delays. Results demonstrate that implementing modular architectures enables networks to respond faster to external stimuli while maintaining information processing accuracy. This provides theoretical explanation for why biological neural systems are organized in modular structures. However, the research is based on theoretical analysis, and additional empirical studies are needed to apply findings to actual biological neural circuits.\n\n##",
+      "aiSummaryKo": "이 연구는 생물 신경회로의 특성 감지를 설명하는 '측면 예측 부호화(LPC)' 이론을 다룬다. 최근 연구에서는 에너지 효율성과 정보 견고성 간의 균형을 맞춰 비가우스 특성을 추출하는 최적 LPC 네트워크를 구성했으나, 이러한 시스템이 외부 자극에 반응하는 속도가 매우 느린 문제가 있었다. 본 연구는 이러한 반응 시간 지연 문제를 해결하기 위해 신경망 구조의 모듈화(분산 구조)의 이점을 조사한다. 모듈형 구조를 적용하면 네트워크가 외부 자극에 더 빠르게 반응할 수 있으면서도 정보 처리의 정확성을 유지할 수 있음을 보여준다. 이는 생물학적 신경계가 왜 모듈식으로 조직되어 있는지에 대한 이론적 설명을 제공한다. 다만 현재 연구는 이론적 분석에 기초하고 있으며, 실제 생물 신경회로에 적용하기 위한 추가 실증 연구가 필요하다.\n\n##",
+      "aiSummaryEn": "This study investigates lateral predictive coding (LPC), a theoretical framework explaining feature detection in biological neural circuits. While recent research successfully constructed optimal LPC networks capable of extracting non-Gaussian features by balancing energetic costs and information robustness, these systems exhibited slow response times to external inputs. The present research explores how modular (distributed) network structures can reduce response-time delays. Results demonstrate that implementing modular architectures enables networks to respond faster to external stimuli while maintaining information processing accuracy. This provides theoretical explanation for why biological neural systems are organized in modular structures. However, the research is based on theoretical analysis, and additional empirical studies are needed to apply findings to actual biological neural circuits.\n\n##",
+      "keyPoints": [
+        "**측면 예측 부호화의 한계** / Limitations of Lateral Predictive Coding: 생물 신경회로의 특성 감지 메커니즘을 설명하는 LPC는 에너지 효율성과 정보 견고성 사이의 균형으로 최적화되었지만, 외부 자극에 대한 반응 시간이 느림",
+        "**모듈형 구조의 효과** / Benefits of Modular Architecture: 신경망을 분산된 모듈 구조로 구성하면 반응 시간을 단축하면서도 정보 처리 정확성을 유지할 수 있음",
+        "**생물학적 조직의 이론적 해석** / Theoretical Explanation of Biological Organization: 실제 생물 신경계가 모듈식으로 조직된 이유를 속도-정확성 트레이드오프 관점에서 설명할 수 있음",
+        "**이론적 기초 연구의 한계** / Limitations of Theoretical Foundation: 현재 연구는 이론적 분석 기반이므로 실제 생물 신경회로에 대한 실증적 검증과 신경생물학적 데이터와의 비교 필요"
+      ],
+      "url": "https://arxiv.org/abs/2604.20524",
+      "featured": false
+    },
+    {
+      "id": "29d74a896f80",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Measuring Creativity in the Age of Generative AI: Distinguishing Human and AI-Generated Creative Performance in Hiring and Talent Systems",
+      "titleKo": "생성형 AI 시대의 창의성 측정: 채용 및 인재 시스템에서 인간과 AI 생성 창의성 구분하기",
+      "summary": "arXiv:2604.19799v1 Announce Type: cross Abstract: Generative AI is rapidly transforming how organizations create value and evaluate talent. While large language models enhance baseline output quality, they simultaneously introduce ambiguity in assessing human creativity, as observable artifacts may be partially or fully AI-generated. This paper reconceptualizes creativity as a distributional and process-based property that emerges under shared constraints and competitive incentives. We introduce a quantitative framework for measuring creativity as novelty in synthesis, operationalized through ",
+      "aiSummary": "The rapid advancement of generative AI is creating significant challenges in how organizations assess human creativity in hiring and talent evaluation systems. The core problem is distinguishing whether creative outputs are human-generated or AI-generated, as artifacts may be partially or entirely created by AI while appearing human-made. This research reconceptualizes creativity as a distributional and process-based property that emerges under shared constraints and competitive incentives. The researchers introduce a quantitative framework that measures creativity as \"novelty in synthesis\"—the ability to combine existing elements in novel ways within identical conditions. This framework enables organizations to objectively assess genuine human creativity during recruitment and performance evaluations, distinguishing it from AI-assisted or AI-generated outputs. However, the study is in its preliminary stages and requires validation across diverse creative domains and industries to establish broader applicability.\n\n##",
+      "aiSummaryKo": "생성형 AI의 급속한 발전으로 조직들이 창의성 평가에 어려움을 겪고 있다. 특히 채용과 인재 평가 시스템에서 결과물이 인간이 만든 것인지 AI가 만든 것인지 구분하기 어려워졌다. 이 연구는 창의성을 새롭게 정의하여, 동일한 제약 조건과 경쟁 환경 속에서 나타나는 종합적 노벨티(새로움)로 측정할 수 있는 정량적 틀을 제시한다. 연구팀은 창의성을 합성에서의 참신성(novelty in synthesis)으로 정의하고 이를 측정할 수 있는 방법론을 개발했다. 이는 기업들이 인재 채용과 평가 과정에서 인간의 진정한 창의력을 객관적으로 판단할 수 있도록 돕는다. 다만, 이 연구는 아직 초기 단계이며 다양한 창의 활동 분야에서의 검증이 필요하다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "The rapid advancement of generative AI is creating significant challenges in how organizations assess human creativity in hiring and talent evaluation systems. The core problem is distinguishing whether creative outputs are human-generated or AI-generated, as artifacts may be partially or entirely created by AI while appearing human-made. This research reconceptualizes creativity as a distributional and process-based property that emerges under shared constraints and competitive incentives. The researchers introduce a quantitative framework that measures creativity as \"novelty in synthesis\"—the ability to combine existing elements in novel ways within identical conditions. This framework enables organizations to objectively assess genuine human creativity during recruitment and performance evaluations, distinguishing it from AI-assisted or AI-generated outputs. However, the study is in its preliminary stages and requires validation across diverse creative domains and industries to establish broader applicability.\n\n##",
+      "keyPoints": [
+        "**AI 시대의 창의성 평가 위기** / The Challenge of Assessing Creativity in the AI Era: 생성형 AI의 발전으로 결과물만으로는 인간 창의력과 AI의 역할을 구분할 수 없게 됨",
+        "**새로운 창의성 정의** / Redefining Creativity: 창의성을 \"합성에서의 참신성\"으로 재정의하여, 동일한 제약 조건과 경쟁 환경에서 측정 가능하게 함",
+        "**정량적 평가 틀 개발** / Quantitative Measurement Framework: 객관적인 수치 기반 평가 방식으로 채용 및 인재 평가 시스템에 적용 가능",
+        "**미래 조직의 인재 평가 개선** / Practical Application in Organizations: 기업들이 진정한 인간 창의력을 객관적으로 평가하고 AI와의 협업 능력을 구분할 수 있는 도구 제공"
+      ],
+      "url": "https://arxiv.org/abs/2604.19799",
+      "featured": false
+    },
+    {
+      "id": "b9f8511cdc0e",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Statistics of correlations in nonlinear recurrent neural networks",
+      "titleKo": "비선형 재귀 신경망의 상관 통계",
+      "summary": "arXiv:2510.21742v2 Announce Type: replace Abstract: The statistics of correlations are central quantities characterizing the collective dynamics of recurrent neural networks. We derive exact expressions for the statistics of correlations of nonlinear recurrent networks in the limit of a large number N of neurons, including systematic 1/N corrections, in the regime of Gaussian quenched disorder. Our approach uses a path-integral representation of the network stochastic dynamics, which reduces the description to a few collective variables and enables efficient computation. This generalizes previ",
+      "aiSummary": "This study aims to mathematically characterize the \"statistics of correlations,\" a key indicator of collective neural network dynamics. Using path-integral methodology, the research team derived exact mathematical expressions for correlation statistics in nonlinear recurrent neural networks. The approach provides precise expressions in the limit of large neuron numbers N, including 1/N correction terms, within a Gaussian quenched disorder framework. By representing the path integral, the team reduced complex neural network dynamics to a few collective variables, enhancing computational efficiency. This research represents theoretical progress that strengthens the mathematical foundations of neural networks and enables analysis of larger-scale systems. However, further research is needed regarding the direct applicability to biological neural networks or practical AI systems.\n\n##",
+      "aiSummaryKo": "본 연구는 신경망의 집단 동역학을 특징짓는 핵심 지표인 '상관성 통계'를 수학적으로 규명하는 것을 목표로 합니다. 연구팀은 경로 적분(path-integral) 방법론을 활용하여 비선형 순환 신경망(recurrent neural networks)의 상관성 통계에 대한 정확한 수식을 도출했습니다. 이 접근법은 신경원 수 N이 매우 많은 극한에서 1/N 보정항을 포함한 정확한 표현식을 제공하며, 가우스 무작위 장애(quenched disorder) 체계 내에서 작동합니다. 경로 적분 표현법을 통해 복잡한 신경망 역학을 몇 가지 집단 변수로 축약하여 계산 효율성을 높였습니다. 이 연구는 신경망의 수학적 기초를 강화하고 더 큰 규모의 신경망 분석을 가능하게 하는 이론적 진전을 의미합니다. 다만, 실제 생물학적 신경망이나 실무 AI 시스템에의 직접 적용 가능성에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study aims to mathematically characterize the \"statistics of correlations,\" a key indicator of collective neural network dynamics. Using path-integral methodology, the research team derived exact mathematical expressions for correlation statistics in nonlinear recurrent neural networks. The approach provides precise expressions in the limit of large neuron numbers N, including 1/N correction terms, within a Gaussian quenched disorder framework. By representing the path integral, the team reduced complex neural network dynamics to a few collective variables, enhancing computational efficiency. This research represents theoretical progress that strengthens the mathematical foundations of neural networks and enables analysis of larger-scale systems. However, further research is needed regarding the direct applicability to biological neural networks or practical AI systems.\n\n##",
+      "keyPoints": [
+        "**이론적 진전**: 비선형 순환 신경망의 상관성 통계에 대한 정확한 수학적 표현식 도출로 신경망 이론의 기초 강화 / **Theoretical Advancement**: Derivation of exact mathematical expressions for correlation statistics in nonlinear RNNs, strengthening neural network theory foundations",
+        "**계산 효율성**: 경로 적분 방법으로 고차원 신경망을 소수의 집단 변수로 축약하여 대규모 시스템 분석 가능성 향상 / **Computational Efficiency**: Path-integral method reduces high-dimensional neural networks to few collective variables, enabling analysis of larger systems",
+        "**수학적 엄밀성**: 1/N 보정항 포함으로 유한 크기 효과를 고려한 더 정확한 근사 제공 / **Mathematical Rigor**: Inclusion of 1/N correction terms provides more accurate approximations accounting for finite-size effects",
+        "**실무 적용 제한성**: 이론적 결과는 이상적 조건(가우스 무작위 장애)에서 도출되어 현실적 신경망 적용에는 추가 검증 필요 / **Practical Application Limitations**: Theoretical results derived under ideal conditions (Gaussian quenched disorder) requiring additional validation for real-world neural network applications"
+      ],
+      "url": "https://arxiv.org/abs/2510.21742",
+      "featured": false
+    },
+    {
+      "id": "dd030edecb57",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Integrated AI Nodule Detection and Diagnosis for Lung Cancer Screening Beyond Size and Growth-Based Standards Compared with Radiologists and Leading Models",
+      "titleKo": "크기 및 성장 기반 기준을 넘어선 인공지능 기반 폐암 선별검사를 위한 통합형 폐결절 감지 및 진단: 방사선과 의사 및 주요 모델과의 비교",
+      "summary": "arXiv:2512.00281v2 Announce Type: replace-cross Abstract: Early detection of malignant lung nodules remains limited by reliance on size- and growth-based screening criteria, which can delay diagnosis. We present an integrated AI system that - unlike conventional CADe or CADx approaches - jointly performs nodule detection and malignancy assessment directly at the nodule level from low-dose CT scans within a unified aided decision framework. To address limitations in dataset scale and explainability, we designed an ensemble of shallow deep learning and feature-based specialized models, trained a",
+      "aiSummary": "Early diagnosis of malignant lung nodules is currently limited by reliance on size and growth-based criteria, which can delay detection. This study presents an integrated AI system that simultaneously performs nodule detection and malignancy assessment from low-dose CT scans, unlike conventional separate CADe (detection) and CADx (diagnosis) approaches. The researchers designed an ensemble combining shallow deep learning and feature-based specialized models to address dataset scale limitations and improve explainability. This unified system enables more accurate lung cancer diagnosis compared to traditional sequential approaches and was compared against radiologists and leading existing AI models. The significance of this research lies in improving early lung cancer detection and reducing unnecessary diagnostic delays through joint optimization. However, further validation on larger and more diverse patient datasets is needed for clinical implementation.\n\n##",
+      "aiSummaryKo": "폐결절의 조기 진단은 현재 크기와 성장 속도 기준에 의존하고 있어 진단이 지연되는 문제가 있습니다. 이 연구는 기존의 개별적인 결절 감지(CADe)와 악성도 판정(CADx) 방식과 달리, 저선량 CT 스캔에서 결절 감지와 악성도 평가를 동시에 수행하는 통합 AI 시스템을 개발했습니다. 연구팀은 데이터셋 규모의 한계와 설명 가능성 문제를 해결하기 위해 얕은 딥러닝 모델과 특징 기반 전문 모델의 앙상블을 설계하여 훈련했습니다. 이 통합 시스템은 기존의 개별 처리 방식보다 더 정확한 폐암 진단을 가능하게 하며, 방사선과 의사와 기존의 주요 AI 모델들과 비교하여 성능을 평가했습니다. 이 접근법의 주요 의의는 조기 폐암 발견을 개선하고 불필요한 진단 지연을 줄일 수 있다는 점입니다. 다만 실제 임상 적용을 위해서는 더 큰 규모의 다양한 환자 데이터에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Early diagnosis of malignant lung nodules is currently limited by reliance on size and growth-based criteria, which can delay detection. This study presents an integrated AI system that simultaneously performs nodule detection and malignancy assessment from low-dose CT scans, unlike conventional separate CADe (detection) and CADx (diagnosis) approaches. The researchers designed an ensemble combining shallow deep learning and feature-based specialized models to address dataset scale limitations and improve explainability. This unified system enables more accurate lung cancer diagnosis compared to traditional sequential approaches and was compared against radiologists and leading existing AI models. The significance of this research lies in improving early lung cancer detection and reducing unnecessary diagnostic delays through joint optimization. However, further validation on larger and more diverse patient datasets is needed for clinical implementation.\n\n##",
+      "keyPoints": [
+        "**통합 진단 방식의 혁신** / Innovation in Integrated Diagnosis Approach",
+        "진단 방식에서 벗어나 단일 통합 프레임워크에서 결절 감지와 악성도 평가를 동시에 수행함으로써 진단 정확도 향상",
+        "**크기/성장률 기반 기준의 한계 극복** / Overcoming Size and Growth-Based Limitations",
+        "**앙상블 모델을 통한 신뢰성 확보** / Reliability through Ensemble Approach"
+      ],
+      "url": "https://arxiv.org/abs/2512.00281",
+      "featured": false
+    },
     {
       "id": "a21d63b4d702",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**인과관계 규명의 한계**: 상관관계만 입증되었으므로 추가 연구를 통해 경제 상황이 정신건강을 직접 유발하는지 확인 필요 / **Causality Verification Needed**: Only correlation is established; further research needed to determine whether economic conditions directly cause mental health improvements"
       ],
       "url": "https://www.psypost.org/county-level-wealth-and-wages-are-strongly-linked-to-community-mental-health/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "29e022217592",
@@ -273,148 +420,6 @@
         "**연구의 한계** / Study limitations"
       ],
       "url": "https://www.psypost.org/the-gap-between-seeing-and-seeking-adult-content-predicts-mental-health-risks/",
-      "featured": false
-    },
-    {
-      "id": "4d8a912d6701",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
-      "titleKo": "",
-      "summary": "arXiv:2604.18645v1 Announce Type: new Abstract: This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS problem involving flexible gap constraints between consecutive solutions' characters. The problem arises in molecular sequence comparison, where structural distance constraints between residues must be respected, and in time-series analysis where events are required to occur within specified temporal delays. We propose a search framework based on the root-based state graph representation, in which the state space comprises a ",
-      "aiSummary": "arXiv:2604.18645v1 Announce Type: new Abstract: This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS problem involving flexible gap constraints between consecutive solutions' characters. The problem arises in molecular sequence comparison, where structural distance constraints between residues must be respected, and in time-series analysis where events are required to occur within specified temporal delays. We propose a search framework based on the root-based state graph representation, in which the state space comprises a ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.18645",
-      "featured": false
-    },
-    {
-      "id": "b0a8db414aa8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
-      "titleKo": "하나의 출력을 넘어서: 언어 모델 생성의 분포 시각화 및 비교",
-      "summary": "arXiv:2604.18724v1 Announce Type: new Abstract: Users typically interact with and evaluate language models via single outputs, but each output is just one sample from a broad distribution of possible completions. This interaction hides distributional structure such as modes, uncommon edge cases, and sensitivity to small prompt changes, leading users to over-generalize from anecdotes when iterating on prompts for open-ended tasks. Informed by a formative study with researchers who use LMs (n=13) examining when stochasticity matters in practice, how they reason about distributions over language,",
-      "aiSummary": "This research addresses a critical issue in how users interact with language models: they typically see only single outputs, which are mere samples from a broad distribution of possible completions. This limitation causes users to over-generalize from limited anecdotes when iterating on prompts for open-ended tasks. A formative study with 13 language model researchers examined when stochasticity matters in practice and how users reason about output distributions. The team developed visualization and comparison tools to reveal distributional structures including modes, uncommon edge cases, and sensitivity to minor prompt variations. The research demonstrates how understanding distribution structures can improve the prompt optimization process through better-informed user decision-making. The significance lies in enhancing transparency in language model usage and enabling more data-driven interactions. However, as the research appears to be ongoing, complete results and full limitations have not yet been detailed.\n\n##",
-      "aiSummaryKo": "이 연구는 사용자들이 언어 모델과 상호작용할 때 단일 출력만 보게 되면서 발생하는 문제를 다룹니다. 언어 모델의 각 출력은 가능한 많은 완성 중 단 하나일 뿐인데, 사용자들이 이를 인식하지 못하면서 제한된 정보로 일반화하는 오류를 범한다는 것입니다. 연구팀은 언어 모델을 실제로 사용하는 연구자 13명을 대상으로 형성 연구(formative study)를 진행했습니다. 이 연구에서는 언어 모델의 출력 분포에서 주요 패턴(modes), 드문 예외 사례(edge cases), 프롬프트 미세 변화에 따른 민감성을 시각화하고 비교하는 도구를 개발했습니다. 연구 결과는 사용자가 분포 구조를 이해할 때 프롬프트 최적화 과정이 어떻게 개선되는지 보여줍니다. 이 연구의 의의는 언어 모델 사용의 투명성을 높이고 더 정보 기반의 의사결정을 가능하게 한다는 점입니다. 다만 연구가 진행 중이어서 최종 결과와 한계점이 완전히 제시되지 않았습니다.\n\n##",
-      "aiSummaryEn": "This research addresses a critical issue in how users interact with language models: they typically see only single outputs, which are mere samples from a broad distribution of possible completions. This limitation causes users to over-generalize from limited anecdotes when iterating on prompts for open-ended tasks. A formative study with 13 language model researchers examined when stochasticity matters in practice and how users reason about output distributions. The team developed visualization and comparison tools to reveal distributional structures including modes, uncommon edge cases, and sensitivity to minor prompt variations. The research demonstrates how understanding distribution structures can improve the prompt optimization process through better-informed user decision-making. The significance lies in enhancing transparency in language model usage and enabling more data-driven interactions. However, as the research appears to be ongoing, complete results and full limitations have not yet been detailed.\n\n##",
-      "keyPoints": [
-        "**분포 인식의 중요성** / Importance of Distribution Awareness",
-        "**시각화 도구의 필요성** / Need for Visualization Tools",
-        "**실제 사용자 연구 기반** / User-Centered Research Approach",
-        "**프롬프트 최적화 개선** / Improved Prompt Optimization"
-      ],
-      "url": "https://arxiv.org/abs/2604.18724",
-      "featured": false
-    },
-    {
-      "id": "e5d4867fac0e",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
-      "titleKo": "ARES: 정책-보상 시스템의 적응형 적대적 테스트 및 엔드-투-엔드 수리",
-      "summary": "arXiv:2604.18789v1 Announce Type: new Abstract: Reinforcement Learning from Human Feedback (RLHF) is central to aligning Large Language Models (LLMs), yet it introduces a critical vulnerability: an imperfect Reward Model (RM) can become a single point of failure when it fails to penalize unsafe behaviors. While existing red-teaming approaches primarily target policy-level weaknesses, they overlook what we term systemic weaknesses cases where both the core LLM and the RM fail in tandem. We present ARES, a framework that systematically discovers and mitigates such dual vulnerabilities. ARES empl",
-      "aiSummary": "Reinforcement Learning from Human Feedback (RLHF) is widely used to align Large Language Models (LLMs) for safety, but the imperfect Reward Model (RM) can become a critical single point of failure in this process. Existing red-teaming approaches focus only on weaknesses in the language model itself, overlooking \"systemic weaknesses\" where both the LLM and RM fail simultaneously. This research introduces ARES, a framework that systematically identifies and mitigates these dual vulnerabilities. ARES employs adaptive red-teaming techniques to discover defects in both the language model and reward model concurrently, applying end-to-end repair methods to improve both components together. This approach provides more comprehensive safety verification compared to existing methods. However, this is early-stage research, and further validation is needed regarding practical effectiveness on large-scale models and computational efficiency.\n\n##",
-      "aiSummaryKo": "대규모 언어모델(LLM)을 안전하게 만들기 위해 인간의 피드백으로부터의 강화학습(RLHF)이 널리 사용되고 있으나, 이 과정에서 보상 모델(RM)의 결함이 치명적 약점이 될 수 있다는 문제가 있습니다. 기존의 보안 테스트 방법들은 언어모델 자체의 약점에만 초점을 맞춰왔으나, 언어모델과 보상 모델이 동시에 실패하는 '체계적 약점'을 간과해왔습니다. 이 연구는 ARES라는 프레임워크를 제시하여 이러한 이중 취약점을 체계적으로 발견하고 해결합니다. ARES는 적응형 레드-티밍 기법을 통해 언어모델과 보상 모델 양쪽의 결함을 동시에 찾아내며, 양쪽을 함께 개선하는 종단 간 수리 방식을 적용합니다. 이는 기존 방법보다 더 포괄적인 안전성 검증을 제공합니다. 다만 이 연구는 아직 초기 단계로, 대규모 모델에 대한 실제 적용 효과와 계산 효율성에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "Reinforcement Learning from Human Feedback (RLHF) is widely used to align Large Language Models (LLMs) for safety, but the imperfect Reward Model (RM) can become a critical single point of failure in this process. Existing red-teaming approaches focus only on weaknesses in the language model itself, overlooking \"systemic weaknesses\" where both the LLM and RM fail simultaneously. This research introduces ARES, a framework that systematically identifies and mitigates these dual vulnerabilities. ARES employs adaptive red-teaming techniques to discover defects in both the language model and reward model concurrently, applying end-to-end repair methods to improve both components together. This approach provides more comprehensive safety verification compared to existing methods. However, this is early-stage research, and further validation is needed regarding practical effectiveness on large-scale models and computational efficiency.\n\n##",
-      "keyPoints": [
-        "**RLHF의 핵심 취약점** / Critical vulnerability in RLHF: 보상 모델의 결함이 단일 실패점이 되어 안전하지 않은 행동을 처벌하지 못함 / Imperfect Reward Model becomes a single point of failure, failing to penalize unsafe behaviors",
-        "**체계적 약점의 발견** / Discovery of systemic weaknesses: 기존 방법과 달리 언어모델과 보상 모델이 동시에 실패하는 경우를 체계적으로 탐지 / Unlike existing methods, systematically detects cases where both LLM and RM fail in tandem",
-        "**적응형 이중 수리 방식** / Adaptive dual repair approach: 단순히 정책만 수정하는 것이 아니라 정책과 보상 시스템을 함께 개선하는 종단 간 방식 / Improves both policy and reward system together rather than fixing only the policy level",
-        "**포괄적 안전성 검증** / Comprehensive safety validation: 기존 레드-티밍보다 더 깊이 있는 취약점 분석으로 LLM 안전성을 향상 / Provides deeper vulnerability analysis than existing red-teaming for enhanced LLM safety"
-      ],
-      "url": "https://arxiv.org/abs/2604.18789",
-      "featured": false
-    },
-    {
-      "id": "12fb65383bf8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "AI scientists produce results without reasoning scientifically",
-      "titleKo": "AI 과학자들이 과학적 추론 없이 결과를 생산하다",
-      "summary": "arXiv:2604.18805v1 Announce Type: new Abstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry self-correcting is poorly understood. Here, we evaluate LLM-based scientific agents across eight domains, spanning workflow execution to hypothesis-driven inquiry, through more than 25,000 agent runs and two complementary lenses: (i) a systematic performance analysis that decomposes the contributions of the base model and the agent scaffold, and (ii)",
-      "aiSummary": "Large language model (LLM)-based AI systems are increasingly being deployed to conduct scientific research autonomously, yet their adherence to scientific reasoning principles remains poorly understood. Researchers evaluated LLM-based scientific agents across eight domains through over 25,000 agent runs using systematic performance analysis that decomposed the contributions of the base model and agent scaffold. The study examined agent performance across diverse tasks ranging from workflow execution to hypothesis-driven inquiry, employing complementary evaluation lenses to assess scientific reasoning capabilities. Key findings suggest that AI agents frequently fail to adhere to epistemic norms that enable science to be self-correcting, particularly in hypothesis-driven research contexts. This research highlights the critical importance of understanding fundamental limitations when deploying AI systems for autonomous scientific research. The study provides empirical evidence that current LLM-based agents lack robust scientific reasoning mechanisms despite their apparent capabilities. Further analysis is needed to identify specific weaknesses and develop improvements in AI agent scientific reasoning.\n\n##",
-      "aiSummaryKo": "대규모 언어모델(LLM) 기반 AI 시스템이 자율적으로 과학 연구를 수행하는 사례가 증가하고 있지만, 이들이 과학적 추론의 기본 원칙을 제대로 따르는지는 명확하지 않았다. 연구팀은 8개 분야에서 25,000회 이상의 AI 에이전트 실행을 통해 LLM 기반 과학 에이전트의 추론 능력을 평가했다. 평가 방법은 기본 모델과 에이전트 구조의 각각의 기여도를 분석하는 성능 분석과 추가적인 평가 방식을 포함했다. 연구 결과는 AI 에이전트가 작업 실행부터 가설 기반 탐구에 이르는 다양한 과학적 활동에서 과학적 추론의 자기 수정 원칙을 따르지 않음을 시사한다. 이 연구는 AI 시스템을 과학 연구에 활용할 때 그들의 근본적인 한계를 이해하는 것이 중요함을 보여준다. 향후 AI 에이전트의 구체적인 약점을 파악하고 개선하기 위한 추가 분석이 필요하다.\n\n##",
-      "aiSummaryEn": "Large language model (LLM)-based AI systems are increasingly being deployed to conduct scientific research autonomously, yet their adherence to scientific reasoning principles remains poorly understood. Researchers evaluated LLM-based scientific agents across eight domains through over 25,000 agent runs using systematic performance analysis that decomposed the contributions of the base model and agent scaffold. The study examined agent performance across diverse tasks ranging from workflow execution to hypothesis-driven inquiry, employing complementary evaluation lenses to assess scientific reasoning capabilities. Key findings suggest that AI agents frequently fail to adhere to epistemic norms that enable science to be self-correcting, particularly in hypothesis-driven research contexts. This research highlights the critical importance of understanding fundamental limitations when deploying AI systems for autonomous scientific research. The study provides empirical evidence that current LLM-based agents lack robust scientific reasoning mechanisms despite their apparent capabilities. Further analysis is needed to identify specific weaknesses and develop improvements in AI agent scientific reasoning.\n\n##",
-      "keyPoints": [
-        "**AI의 과학적 추론 부재** / AI agents fail to adhere to scientific epistemic norms",
-        "LLM 기반 에이전트가 자기 수정적 추론을 수행하지 못함 / Inability to perform self-correcting scientific inquiry",
-        "**광범위한 성능 평가** / Comprehensive evaluation across multiple domains",
-        "8개 분야에서 25,000회 이상의 실험 실행 / Over 25,000 agent runs across eight domains"
-      ],
-      "url": "https://arxiv.org/abs/2604.18805",
-      "featured": false
-    },
-    {
-      "id": "f757b56b31b3",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience",
-      "titleKo": "WorkflowGen: 궤적 경험 기반의 적응형 워크플로우 생성 메커니즘",
-      "summary": "arXiv:2604.19756v1 Announce Type: new Abstract: Large language model (LLM) agents often suffer from high reasoning overhead, excessive token consumption, unstable execution, and inability to reuse past experiences in complex tasks like business queries, tool use, and workflow orchestration. Traditional methods generate workflows from scratch for every query, leading to high cost, slow response, and poor robustness. We propose WorkflowGen, an adaptive, trajectory experience-driven framework for automatic workflow generation that reduces token usage and improves efficiency and success rate. Earl",
-      "aiSummary": "This research addresses critical limitations of Large Language Model (LLM) based AI agents in handling complex tasks such as business queries, tool usage, and workflow orchestration. Traditional approaches generate workflows from scratch for each query, resulting in high computational costs, slow response times, and poor reliability. The researchers proposed WorkflowGen, an adaptive framework that leverages past task experiences (trajectories) to automatically generate optimized workflows. This approach significantly reduces token consumption while improving task completion efficiency and success rates. The system learns from historical workflow patterns to predict and construct more effective execution plans. The framework demonstrates potential for practical business applications requiring multi-step reasoning and tool integration. However, the research requires detailed experimental results with specific performance metrics and validation across diverse task scenarios to fully establish its effectiveness and generalizability.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM) 기반 AI 에이전트가 복잡한 업무 처리 시 겪는 문제들을 해결하기 위해 진행되었습니다. 기존 방식은 매번 새로운 작업 흐름을 처음부터 생성하여 높은 비용, 느린 응답 속도, 낮은 안정성을 초래했습니다. 연구팀은 WorkflowGen이라는 새로운 프레임워크를 제안했는데, 이는 과거의 작업 경험(궤적)을 학습하여 자동으로 최적화된 업무 흐름을 생성하는 적응형 시스템입니다. 이 방식은 AI가 필요한 토큰(언어 처리 단위) 사용량을 줄이고 작업 완료 효율성과 성공률을 동시에 향상시킵니다. 특히 비즈니스 쿼리, 도구 사용, 워크플로우 조율 같은 복잡한 작업에 효과적입니다. 본 연구는 AI 에이전트의 실용성을 크게 높일 수 있는 기술적 발전을 제시하지만, 구체적인 실험 결과 수치와 다양한 환경에서의 성능 검증이 추가로 필요합니다.\n\n##",
-      "aiSummaryEn": "This research addresses critical limitations of Large Language Model (LLM) based AI agents in handling complex tasks such as business queries, tool usage, and workflow orchestration. Traditional approaches generate workflows from scratch for each query, resulting in high computational costs, slow response times, and poor reliability. The researchers proposed WorkflowGen, an adaptive framework that leverages past task experiences (trajectories) to automatically generate optimized workflows. This approach significantly reduces token consumption while improving task completion efficiency and success rates. The system learns from historical workflow patterns to predict and construct more effective execution plans. The framework demonstrates potential for practical business applications requiring multi-step reasoning and tool integration. However, the research requires detailed experimental results with specific performance metrics and validation across diverse task scenarios to fully establish its effectiveness and generalizability.\n\n##",
-      "keyPoints": [
-        "**문제 인식**: LLM 에이전트의 높은 토큰 소비, 느린 응답, 불안정한 실행, 과거 경험 재활용 불가 / LLM agents suffer from excessive token consumption, slow response, unstable execution, and inability to reuse past experiences",
-        "**혁신 기술**: 궤적 경험 기반의 적응형 워크플로우 자동 생성 메커니즘 도입 / Introduction of adaptive trajectory experience-driven automatic workflow generation mechanism",
-        "**성능 개선**: 토큰 사용량 감소 및 작업 성공률 향상 달성 / Achieves reduced token usage and improved task success rates",
-        "**적용 범위**: 비즈니스 쿼리, 도구 사용, 워크플로우 조율 등 복잡한 실무 작업에 적용 가능 / Applicable to complex business tasks including queries, tool use, and workflow orchestration"
-      ],
-      "url": "https://arxiv.org/abs/2604.19756",
-      "featured": false
-    },
-    {
-      "id": "8b17380e6315",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Transparent Screening for LLM Inference and Training Impacts",
-      "titleKo": "LLM 추론 및 학습 영향에 대한 투명한 평가",
-      "summary": "arXiv:2604.19757v1 Announce Type: new Abstract: This paper presents a transparent screening framework for estimating inference and training impacts of current large language models under limited observability. The framework converts natural-language application descriptions into bounded environmental estimates and supports a comparative online observatory of current market models. Rather than claiming direct measurement for opaque proprietary services, it provides an auditable, source-linked proxy methodology designed to improve comparability, transparency, and reproducibility.",
-      "aiSummary": "This paper introduces a transparent screening framework for evaluating the inference and training impacts of large language models (LLMs) when direct measurement is limited by proprietary opacity. Since most commercial LLM services keep technical specifications confidential, it is difficult to accurately measure their actual energy consumption and environmental footprint. The research team developed a methodology that converts natural-language descriptions of applications into bounded environmental impact estimates. Rather than attempting direct measurement of opaque proprietary systems, the framework employs an auditable, source-linked proxy approach to ensure reliability and comparability. The framework also functions as a comparative online observatory, allowing evaluation of various market models side-by-side. This research is significant for promoting transparency regarding AI services' environmental impacts and enabling reproducible assessments.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)의 환경 영향을 투명하게 평가하기 위한 새로운 프레임워크를 제시합니다. 현재 대부분의 상용 LLM 서비스는 기술 정보가 비공개되어 있어, 실제 에너지 소비량과 환경 영향을 정확히 측정하기 어려운 상황입니다. 연구팀은 자연언어로 작성된 애플리케이션 설명을 입력받아 환경 영향의 범위를 추정할 수 있는 투명한 스크리닝 프레임워크를 개발했습니다. 이 방법론은 직접적인 측정 대신 감시 가능하고 출처를 추적할 수 있는 대리 측정 방식을 사용하여 신뢰성을 확보합니다. 프레임워크는 현재 시장의 다양한 모델들을 비교 분석할 수 있는 온라인 관찰소 역할도 수행합니다. 이 연구의 의의는 AI 서비스의 환경 영향에 대한 투명성을 증진하고 재현 가능한 평가를 가능하게 한다는 점입니다.\n\n##",
-      "aiSummaryEn": "This paper introduces a transparent screening framework for evaluating the inference and training impacts of large language models (LLMs) when direct measurement is limited by proprietary opacity. Since most commercial LLM services keep technical specifications confidential, it is difficult to accurately measure their actual energy consumption and environmental footprint. The research team developed a methodology that converts natural-language descriptions of applications into bounded environmental impact estimates. Rather than attempting direct measurement of opaque proprietary systems, the framework employs an auditable, source-linked proxy approach to ensure reliability and comparability. The framework also functions as a comparative online observatory, allowing evaluation of various market models side-by-side. This research is significant for promoting transparency regarding AI services' environmental impacts and enabling reproducible assessments.\n\n##",
-      "keyPoints": [
-        "**투명성 부족의 해결**: 비공개 기술 정보로 인한 LLM 환경 영향 측정의 어려움을 대리 측정 방식으로 해결 / Addresses the challenge of measuring LLM environmental impacts when proprietary information is unavailable by using proxy methodology",
-        "**자동화된 평가 시스템**: 자연언어 설명을 입력하면 환경 영향을 자동으로 추정하는 스크린링 프레임워크 제공 / Provides automated screening framework that converts natural-language application descriptions into bounded environmental estimates",
-        "**감시 가능성과 재현성**: 출처를 추적할 수 있고 감시 가능한 방법론으로 결과의 신뢰성과 재현 가능성 강화 / Enhances reliability and reproducibility through auditable, source-linked methodology that enables verification",
-        "**비교 분석 플랫폼**: 현재 시장의 다양한 LLM 모델들을 객관적으로 비교할 수 있는 온라인 관찰소 구축 / Establishes comparative online observatory enabling objective evaluation and comparison of current market LLM models"
-      ],
-      "url": "https://arxiv.org/abs/2604.19757",
-      "featured": false
-    },
-    {
-      "id": "dfe3bfa1b42c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Accelerating PayPal's Commerce Agent with Speculative Decoding: An Empirical Study on EAGLE3 with Fine-Tuned Nemotron Models",
-      "titleKo": "PayPal의 커머스 에이전트 가속화: 미세 조정된 Nemotron 모델을 이용한 EAGLE3의 실증 연구",
-      "summary": "arXiv:2604.19767v1 Announce Type: new Abstract: We evaluate speculative decoding with EAGLE3 as an inference-time optimization for PayPal's Commerce Agent, powered by a fine-tuned llama3.1-nemotron-nano-8B-v1 model. Building on prior work (NEMO-4-PAYPAL) that reduced latency and cost through domain-specific fine-tuning, we benchmark EAGLE3 via vLLM against NVIDIA NIM on identical 2xH100 hardware across 40 configurations spanning speculative token counts (gamma=3, gamma=5), concurrency levels (1-32), and sampling temperatures (0, 0.5). Key findings: (1) gamma=3 achieves 22-49% throughput improv",
-      "aiSummary": "This research evaluates speculative decoding with EAGLE3 optimization to accelerate PayPal's Commerce Agent, aiming to improve inference speed and reduce latency. The team used a fine-tuned llama3.1-nemotron-nano-8B-v1 model and benchmarked 40 different configurations (varying speculative token counts, concurrency levels, and sampling temperatures) on identical 2xH100 GPU hardware. The key finding is that gamma=3 (predicting 3 tokens speculatively) achieved 22-49% throughput improvement compared to baseline approaches. This demonstrates that combining domain-specific fine-tuning with speculative decoding can significantly reduce response time while maintaining cost-efficiency in commercial AI applications. However, the study's main limitation is its narrow evaluation scope—results are specific to H100 hardware, raising questions about generalizability to other GPU architectures and deployment environments.\n\n##",
-      "aiSummaryKo": "본 연구는 PayPal의 전자상거래 AI 에이전트의 응답 속도를 높이기 위해 추측적 디코딩(Speculative Decoding) 기술을 적용한 성능 평가 연구입니다. 연구팀은 fine-tuned된 llama3.1-nemotron-nano-8B-v1 모델을 기반으로 EAGLE3 최적화 기법을 테스트했으며, 동일한 2xH100 GPU 환경에서 40가지 구성(추측 토큰 수, 동시성 수준, 샘플링 온도)을 벤치마크했습니다. 핵심 결과는 감마=3(3개 토큰 추측) 설정에서 22-49%의 처리량 향상을 달성했다는 점입니다. 이는 사용자 응답 시간을 줄이면서 비용 효율성을 동시에 개선할 수 있음을 시사합니다. 연구는 도메인 특화 fine-tuning과 추측적 디코딩을 결합하는 실용적 방법론을 제시했으나, 특정 하드웨어 환경(H100)에서의 결과이므로 다양한 디바이스 환경으로의 일반화 가능성은 제한적입니다.\n\n##",
-      "aiSummaryEn": "This research evaluates speculative decoding with EAGLE3 optimization to accelerate PayPal's Commerce Agent, aiming to improve inference speed and reduce latency. The team used a fine-tuned llama3.1-nemotron-nano-8B-v1 model and benchmarked 40 different configurations (varying speculative token counts, concurrency levels, and sampling temperatures) on identical 2xH100 GPU hardware. The key finding is that gamma=3 (predicting 3 tokens speculatively) achieved 22-49% throughput improvement compared to baseline approaches. This demonstrates that combining domain-specific fine-tuning with speculative decoding can significantly reduce response time while maintaining cost-efficiency in commercial AI applications. However, the study's main limitation is its narrow evaluation scope—results are specific to H100 hardware, raising questions about generalizability to other GPU architectures and deployment environments.\n\n##",
-      "keyPoints": [
-        "**추측적 디코딩의 효과 입증** / Speculative Decoding Effectiveness Demonstrated",
-        "Gamma=3 설정에서 22-49% 처리량 향상 달성 / 22-49% throughput improvement achieved with gamma=3",
-        "**실무 중심의 성능 최적화 연구** / Practical Performance Optimization",
-        "PayPal 실제 커머스 에이전트에 적용된 실증적 연구로 산업 실용성 높음 / Real-world application in PayPal's production system demonstrates practical relevance"
-      ],
-      "url": "https://arxiv.org/abs/2604.19767",
       "featured": false
     }
   ]
