@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-23T06:22:42.414955+00:00",
+  "updated": "2026-04-23T10:59:25.120064+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "180f170bb0c5",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Neuroscientists identify brain regions that drive curiosity for what might have been",
+      "titleKo": "신경과학자들이 \"만약 어땠을까\" 하는 호기심을 유발하는 뇌 영역 규명",
+      "summary": "A study in Social Cognitive and Affective Neuroscience suggests the brain's reward system drives people to seek information about alternative realities. Scientists found this urge remains strong even when the information leads to negative emotions like regret.",
+      "aiSummary": "This study reveals the neurobiological mechanisms behind human curiosity about alternative possibilities and counterfactual scenarios. Using functional magnetic resonance imaging (fMRI), researchers found that participants' brain reward systems were activated when presented with information about hypothetical alternative choices. Remarkably, people continued seeking such information even when they anticipated it would trigger negative emotions like regret. This suggests that the brain's reward system prioritizes curiosity over rational decision-making. The findings contribute significantly to understanding human decision-making processes and brain functioning. However, the limitation is that the study was conducted in a controlled laboratory setting, which may restrict its applicability to real-world situations.\n\n##",
+      "aiSummaryKo": "이 연구는 인간이 왜 일어나지 않은 일들에 대해 궁금해하는지 뇌 과학적으로 규명했습니다. 연구팀은 기능성 자기공명영상(fMRI)을 사용하여 참가자들이 가상의 선택지들에 대한 정보를 받을 때 뇌의 보상 영역이 활성화되는 것을 발견했습니다. 흥미로운 점은 그 정보가 후회감과 같은 부정적 감정을 불러일으킬 것으로 예상되어도 사람들이 계속 그 정보를 원한다는 것입니다. 이는 뇌의 보상 시스템이 합리적인 판단보다 호기심을 우선시한다는 의미입니다. 이러한 발견은 인간의 의사결정 과정과 뇌의 작동 방식을 이해하는 데 중요한 기여를 합니다. 다만 이 연구는 실험실 환경에서 수행되었으므로 실제 생활 상황에서의 적용 가능성에는 제한이 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This study reveals the neurobiological mechanisms behind human curiosity about alternative possibilities and counterfactual scenarios. Using functional magnetic resonance imaging (fMRI), researchers found that participants' brain reward systems were activated when presented with information about hypothetical alternative choices. Remarkably, people continued seeking such information even when they anticipated it would trigger negative emotions like regret. This suggests that the brain's reward system prioritizes curiosity over rational decision-making. The findings contribute significantly to understanding human decision-making processes and brain functioning. However, the limitation is that the study was conducted in a controlled laboratory setting, which may restrict its applicability to real-world situations.\n\n##",
+      "keyPoints": [
+        "**뇌의 보상 시스템과 호기심** / The brain's reward system drives curiosity regardless of emotional consequences",
+        "**'있을 법한 다른 현실'에 대한 강한 궁금증** / Strong urge to seek information about counterfactual alternatives persists even when negative emotions are anticipated",
+        "**합리성을 초과하는 호기심** / Curiosity overrides rational decision-making processes in the human brain",
+        "**신경영상 기반 발견의 실제 적용 한계** / Laboratory findings may have limited applicability to real-world decision-making contexts"
+      ],
+      "url": "https://www.psypost.org/neuroscientists-identify-brain-regions-that-drive-curiosity-for-what-might-have-been/",
+      "featured": true
+    },
+    {
+      "id": "58bfaa6cff9f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "3일 전 / 3d ago",
+      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
+      "titleKo": "갈등 상황에서 행동과학이 직면해야 할 불편한 진실",
+      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummary": "Approximately 2 billion people currently live in conflict-affected areas, yet behavioral science has developed most of its theories, experiments, and interventions in stable contexts. When behavioral scientists conduct research in conflict zones, they typically follow a limited pattern: adapting approaches that worked elsewhere and localizing them minimally. However, this approach is insufficient to address the urgent global crisis. In 2024, a record 123 million people were forcibly displaced, with conflicts reshaping lives globally at an unprecedented scale, exemplified by civilian casualties in Gaza. This research emphasizes that behavioral science has failed to adequately incorporate the complexity inherent in conflict situations and calls for urgent development of conflict-specific theories. The study highlights the limitation that simply applying stability-based approaches to conflict zones risks producing unintended consequences and ineffectiveness.\n\n##",
+      "aiSummaryKo": "현재 약 20억 명이 분쟁 지역에서 생활하고 있으나, 행동심리학 분야의 대부분의 이론과 실험은 안정적인 환경에서 개발되고 수행되었다. 행동심리학자들이 분쟁 지역에서 연구할 때도 다른 곳에서 검증된 개입 방식을 단순히 '지역화'하는 패턴을 반복해왔다. 그러나 이러한 접근법만으로는 부족하다는 것이 이 연구의 핵심이다. 2024년에는 기록상 최고인 1억 2,300만 명이 강제로 이재민이 되었으며, 가자지구의 민간인 피해 등으로 분쟁이 전례 없는 규모로 전 지구적 삶을 재편하고 있다. 이 논문은 행동심리학이 분쟁 상황의 복잡성을 충분히 반영하지 못하고 있음을 지적하며, 분쟁 지역 특화 이론 개발의 긴급한 필요성을 강조한다. 기존의 안정 지역 기반 접근법을 분쟁 지역에 단순 적용하면 예상치 못한 부작용이나 비효과성이 발생할 수 있다는 한계를 제시한다.\n\n##",
+      "aiSummaryEn": "Approximately 2 billion people currently live in conflict-affected areas, yet behavioral science has developed most of its theories, experiments, and interventions in stable contexts. When behavioral scientists conduct research in conflict zones, they typically follow a limited pattern: adapting approaches that worked elsewhere and localizing them minimally. However, this approach is insufficient to address the urgent global crisis. In 2024, a record 123 million people were forcibly displaced, with conflicts reshaping lives globally at an unprecedented scale, exemplified by civilian casualties in Gaza. This research emphasizes that behavioral science has failed to adequately incorporate the complexity inherent in conflict situations and calls for urgent development of conflict-specific theories. The study highlights the limitation that simply applying stability-based approaches to conflict zones risks producing unintended consequences and ineffectiveness.\n\n##",
+      "keyPoints": [
+        "**분쟁 지역과 안정 지역의 격차** / Gap between conflict and stable settings",
+        "**'지역화' 접근법의 한계** / Limitations of localization approach",
+        "**전 지구적 분쟁의 심각성** / Global severity of conflict crisis",
+        "**분쟁 특화 이론 개발의 필요성** / Necessity of conflict-specific theories"
+      ],
+      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
+      "featured": false
+    },
+    {
+      "id": "2ca3144e26ec",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "3일 전 / 3d ago",
+      "title": "The ‘Busy’ Trap",
+      "titleKo": "'바쁨'의 함정",
+      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "aiSummary": "In twenty-first century America, the phrase \"I'm busy\" has become a standard response when greeting people, ostensibly presented as a complaint but functioning as a disguised boast about one's importance and value. The typical reciprocal response, such as \"That's a good problem to have\" or \"Better than the opposite,\" implicitly congratulates the person for being busy, revealing how busyness has become socially valorized. Notably, people actually engaged in physically demanding work—such as ICU nurses working consecutive shifts, individuals commuting by bus, or those holding three minimum-wage jobs—do not typically describe themselves as \"busy,\" suggesting that expressed busyness is actually a marker of social status and autonomy rather than actual workload. This phenomenon demonstrates how time scarcity has been transformed into a status symbol in contemporary society. The article highlights the gap between perceived and actual busyness as a function of socioeconomic position. A limitation is that the piece lacks rigorous empirical data and does not fully explore cultural and socioeconomic variations in this linguistic pattern.\n\n##",
+      "aiSummaryKo": "현대 미국 사회에서 \"바쁘다\"라는 표현이 일상적 인사말로 자리잡았다. 이는 겉으로는 불평처럼 보이지만 실제로는 자신의 가치와 중요성을 드러내는 자랑의 형태라는 점이 흥미롭다. 사람들이 이 표현에 \"좋은 문제네요\" 또는 \"그게 낫지\"라고 응답하는 방식은 바쁜 상태를 암묵적으로 축하하고 있음을 보여준다. 연구자는 실제로 육체적으로 힘든 일(ICU의 연속 근무, 버스 출퇴근, 최저임금 일자리 3개)을 하는 사람들은 자신이 \"바쁘다\"고 표현하지 않으며, 이는 바쁨이 사실은 사회적 지위와 자유선택권을 나타낸다는 점을 암시한다. 이 현상은 현대 사회에서 시간 부족이 어떻게 신분 상징으로 전환되었는지 보여준다. 기사의 한계는 문화적 맥락의 차이를 충분히 다루지 못하고 있으며, 다양한 직종과 사회계층의 차이를 더 깊이 있게 분석할 필요가 있다.\n\n##",
+      "aiSummaryEn": "In twenty-first century America, the phrase \"I'm busy\" has become a standard response when greeting people, ostensibly presented as a complaint but functioning as a disguised boast about one's importance and value. The typical reciprocal response, such as \"That's a good problem to have\" or \"Better than the opposite,\" implicitly congratulates the person for being busy, revealing how busyness has become socially valorized. Notably, people actually engaged in physically demanding work—such as ICU nurses working consecutive shifts, individuals commuting by bus, or those holding three minimum-wage jobs—do not typically describe themselves as \"busy,\" suggesting that expressed busyness is actually a marker of social status and autonomy rather than actual workload. This phenomenon demonstrates how time scarcity has been transformed into a status symbol in contemporary society. The article highlights the gap between perceived and actual busyness as a function of socioeconomic position. A limitation is that the piece lacks rigorous empirical data and does not fully explore cultural and socioeconomic variations in this linguistic pattern.\n\n##",
+      "keyPoints": [
+        "**바쁨의 이중성** / *Duality of Busyness*: \"바쁘다\"는 표현이 겉으로는 불평이지만 실제로는 자신의 가치와 중요성을 자랑하는 수단으로 기능한다.",
+        "**사회적 지위의 신호** / *Social Status Indicator*: 실제 과로 상태에 있는 저임금 노동자들은 \"바쁘다\"고 표현하지 않으며, 이는 바쁨이 선택적 바쁨과 자율성의 상징임을 시사한다.",
+        "**문화적 가치 전환** / *Cultural Value Shift*: 현대 미국 사회에서 시간 부족이 긍정적 신분 표시로 인식되는 현상이 발생했다.",
+        "**인식과 현실의 괴리** / *Gap Between Perception and Reality*: 실제 노동 강도와 자기표현 간의 불일치가 사회경제적 지위에 따라 달라진다."
+      ],
+      "url": "https://behavioralscientist.org/the-busy-trap/",
+      "featured": false
+    },
+    {
+      "id": "c1d7d1e43287",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "9일 전 / 9d ago",
+      "title": "What It’s Like to Be…an Aerospace Engineer",
+      "titleKo": "우주항공 엔지니어가 된다는 것",
+      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummary": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing her work experience and involvement in Mars exploration. The content is part of the podcast series \"What It's Like to Be...\" hosted by bestselling author Dan Heath, which focuses on Mohan's role in the Perseverance rover landing project and her professional experiences. The methodology employed is in-depth interview format, though specific numerical data is not provided; the episode covers important concepts such as \"Seven Minutes of Terror\" during Mars landing and evidence of past life on Mars. The significance of this article lies in introducing the general public to the actual working environment in science and technology fields, sharing the complex engineering challenges of space exploration. However, due to limited content provided, it is difficult to identify specific research methodology details, quantitative results, or clear limitations as a formal academic study.\n\n##",
+      "aiSummaryKo": "이 기사는 NASA 제트 추진 연구소의 항공우주 공학자 스와티 모한(Swati Mohan)의 업무 경험과 화성 탐사에 대한 내용을 다루고 있습니다. 베스트셀러 저자 댄 히스(Dan Heath)가 진행하는 팟캐스트 시리즈 \"What It's Like to Be...\"의 에피소드로, 화성 탐사선 퍼서비어런스(Perseverance rover) 착륙 프로젝트에서의 그의 역할과 경험을 중심으로 다룹니다. 연구 방법론은 심층 인터뷰 형식으로, 특정 수치는 제시되지 않으나 화성 착륙의 \"7분간의 공포\"(Seven Minutes of Terror)라는 중요 개념과 화성의 과거 생명 흔적 증거에 대한 설명을 포함합니다. 이 기사의 의의는 과학 기술 분야의 실제 직업 현장을 일반인에게 알리고, 우주 탐사의 복잡한 공학적 도전과제를 대중과 공유하는 데 있습니다. 다만 제시된 기사 내용이 제한적이어서 연구의 구체적인 방법론, 결과 수치, 혹은 정식 학술 연구로서의 한계점을 명확히 파악하기 어렵습니다.\n\n##",
+      "aiSummaryEn": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing her work experience and involvement in Mars exploration. The content is part of the podcast series \"What It's Like to Be...\" hosted by bestselling author Dan Heath, which focuses on Mohan's role in the Perseverance rover landing project and her professional experiences. The methodology employed is in-depth interview format, though specific numerical data is not provided; the episode covers important concepts such as \"Seven Minutes of Terror\" during Mars landing and evidence of past life on Mars. The significance of this article lies in introducing the general public to the actual working environment in science and technology fields, sharing the complex engineering challenges of space exploration. However, due to limited content provided, it is difficult to identify specific research methodology details, quantitative results, or clear limitations as a formal academic study.\n\n##",
+      "keyPoints": [
+        "**화성 착륙의 극단적 어려움** / Extreme Challenges of Mars Landing",
+        "\"7분간의 공포\"(Seven Minutes of Terror)는 화성 착륙 시 통신 지연으로 인해 자동으로 착륙해야 하는 극도로 위험한 시간을 의미함 / The \"Seven Minutes of Terror\" refers to the extremely dangerous timeframe during Mars landing when communication delays force autonomous landing procedures",
+        "**항공우주 공학의 복잡성** / Complexity of Aerospace Engineering",
+        "클린룸 환경에서의 미생물 제어 및 수백 개의 공학적 트레이드오프 결정이 필요함 / Work involves controlling microbial count in clean rooms and making hundreds of engineering trade-off decisions"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
+      "featured": false
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "18일 전 / 18d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "우리는 결코 개인이었던 적이 없다",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article explores how deeply interconnected humans are with nature, moving beyond individualistic perspectives. The author uses the simple act of breathing to illustrate the profound interactions between humans, plants, and the entire ecosystem. The carbon dioxide we exhale is essential for plant photosynthesis, while the oxygen plants release sustains our lives, creating a perfect interdependency. Human bodies host trillions of microorganisms forming a microbiome, suggesting we are never truly \"individuals\" but rather complex ecosystems ourselves. This perspective challenges fundamental assumptions about human identity across psychology and biology. However, the article lacks specific research data and empirical evidence, presenting itself more as philosophical reflection than scientific analysis.\n\n##",
+      "aiSummaryKo": "이 기사는 개인주의적 관점을 벗어나 인간이 자연과 얼마나 깊이 연결되어 있는지를 탐구한다. 저자는 호흡이라는 일상적 행위를 통해 인간과 식물, 나아가 전체 생태계 간의 상호작용을 설명한다. 우리가 내쉬는 이산화탄소는 식물의 광합성에 필요한 물질이며, 식물이 방출하는 산소가 우리의 생명을 유지한다는 점에서 완벽한 상호의존 관계가 성립한다. 인간의 몸은 수조 개의 미생물로 이루어진 마이크로바이옴을 호스팅하고 있어, 우리는 결코 '개인'이 아니라 복잡한 생태계 그 자체라는 주장을 제시한다. 이러한 관점은 심리학과 생물학의 경계를 넘어 인간 정체성에 대한 근본적 재고를 촉구한다. 다만 기사는 구체적 연구 데이터나 실증적 근거가 부족하여 철학적 에세이에 가까운 한계가 있다.\n\n##",
+      "aiSummaryEn": "This article explores how deeply interconnected humans are with nature, moving beyond individualistic perspectives. The author uses the simple act of breathing to illustrate the profound interactions between humans, plants, and the entire ecosystem. The carbon dioxide we exhale is essential for plant photosynthesis, while the oxygen plants release sustains our lives, creating a perfect interdependency. Human bodies host trillions of microorganisms forming a microbiome, suggesting we are never truly \"individuals\" but rather complex ecosystems ourselves. This perspective challenges fundamental assumptions about human identity across psychology and biology. However, the article lacks specific research data and empirical evidence, presenting itself more as philosophical reflection than scientific analysis.\n\n##",
+      "keyPoints": [
+        "**상호호흡의 연결성** / Reciprocal Breathing Connection: 인간과 식물은 호흡을 통해 완벽한 생화학적 순환 관계를 형성하며, 이는 모든 생명체가 상호의존적임을 보여준다.",
+        "**마이크로바이옴과 개인성의 재정의** / Microbiome and Redefinition of Individuality: 인간의 몸에 존재하는 수조 개의 미생물은 우리가 단일 개체가 아니라 복잡한 생태계임을 시사한다.",
+        "**탈개인주의적 인간관** / Post-Individualistic Human Perspective: \"우리는 결코 개인이 아니었다\"는 명제를 통해 전통적 자아 개념에 도전하고 집합적 정체성을 제안한다.",
+        "**생태학적 심리학의 필요성** / Need for Ecological Psychology: 인간의 정신과 행동을 순수하게 개별적 차원에서만 이해할 수 없으며, 생태계적 관점에서의 재조명이 필요하다."
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
+    {
+      "id": "cd240b7cbb5e",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "For the first time, scientists pinpoint the brain cells behind depression",
+      "titleKo": "과학자들, 우울증의 원인이 되는 뇌 세포를 처음으로 규명하다",
+      "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
+      "aiSummary": "For the first time, researchers have identified specific brain cells that function abnormally in people with depression. By analyzing donated brain tissue using advanced genetic analysis tools, the team compared brain cell differences between depressed and healthy individuals. The study found that two types of cells—neurons responsible for mood and stress regulation, and microglia cells involved in immune function—showed significant abnormalities in depression patients. This discovery provides biological evidence that depression is a neurological condition, not merely an emotional disorder. The findings open new avenues for developing targeted treatments and may help reduce social stigma around depression. However, future research with larger patient samples and validation of therapeutic applications remains necessary.",
+      "aiSummaryKo": "이 연구는 우울증 환자의 뇌에서 작동하는 구체적인 세포 메커니즘을 처음으로 규명했다. 연구팀은 기증받은 뇌 조직을 첨단 유전자 분석 도구로 검사하여 우울증 환자와 정상인의 뇌 세포 차이를 비교했다. 연구 결과, 기분과 스트레스 조절에 관여하는 신경세포(뉴런)와 면역 기능을 담당하는 미세아교세포(microglia) 두 가지 유형의 세포가 우울증 환자에서 비정상적으로 변화되어 있었다. 이 발견은 우울증이 단순한 감정 문제가 아니라 생물학적 뇌 질환임을 과학적으로 입증한다. 연구는 우울증 치료법 개발의 새로운 방향을 제시하며, 우울증 환자에 대한 사회적 낙인을 감소시키는 데 도움이 될 수 있다. 다만, 후속 연구에서 더 많은 환자 샘플과 실제 치료 효과 검증이 필요하다.",
+      "aiSummaryEn": "For the first time, researchers have identified specific brain cells that function abnormally in people with depression. By analyzing donated brain tissue using advanced genetic analysis tools, the team compared brain cell differences between depressed and healthy individuals. The study found that two types of cells—neurons responsible for mood and stress regulation, and microglia cells involved in immune function—showed significant abnormalities in depression patients. This discovery provides biological evidence that depression is a neurological condition, not merely an emotional disorder. The findings open new avenues for developing targeted treatments and may help reduce social stigma around depression. However, future research with larger patient samples and validation of therapeutic applications remains necessary.",
+      "keyPoints": [
+        "**우울증의 생물학적 근거 규명** / Biological basis of depression clarified",
+        "**두 가지 주요 세포 이상 발견** / Two key cell types with abnormalities identified",
+        "**기증 뇌 조직과 첨단 유전자 분석 활용** / Donated brain tissue and advanced genetic tools",
+        "**치료법 개발과 사회적 인식 개선의 기초 제공** / Foundation for treatment development and stigma reduction"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
+      "featured": false
+    },
+    {
+      "id": "5861058901d0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "5일 전 / 5d ago",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "titleKo": "",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "aiSummary": "Engineers at Northwestern University have achieved a significant breakthrough by successfully demonstrating communication between artificial neurons and living brain cells, marking a major step toward human-machine brain integration. The team developed flexible, cost-effective artificial neurons capable of generating lifelike electrical signals that can activate real neural cells, as validated through experiments on mouse brain tissue. This technology represents a fundamental advance in creating bidirectional communication between synthetic and biological neural systems. The research has substantial implications for developing brain-computer interfaces, treating neurodegenerative diseases, and restoring damaged neural circuits. However, the study remains in its early stages and has only been demonstrated in animal tissue samples, indicating that considerable additional research will be required before clinical applications in human brains are feasible. Key limitations include scalability challenges and the need for long-term biocompatibility testing.\n\n##",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Engineers at Northwestern University have achieved a significant breakthrough by successfully demonstrating communication between artificial neurons and living brain cells, marking a major step toward human-machine brain integration. The team developed flexible, cost-effective artificial neurons capable of generating lifelike electrical signals that can activate real neural cells, as validated through experiments on mouse brain tissue. This technology represents a fundamental advance in creating bidirectional communication between synthetic and biological neural systems. The research has substantial implications for developing brain-computer interfaces, treating neurodegenerative diseases, and restoring damaged neural circuits. However, the study remains in its early stages and has only been demonstrated in animal tissue samples, indicating that considerable additional research will be required before clinical applications in human brains are feasible. Key limitations include scalability challenges and the need for long-term biocompatibility testing.\n\n##",
+      "keyPoints": [
+        "**기술 혁신**: 생체 모방 전기신호를 생성하는 유연하고 저렴한 인공신경세포 개발 성공 / Successful development of flexible, cost-effective artificial neurons generating lifelike electrical signals",
+        "**기능 검증**: 마우스 뇌 조직에서 인공신경세포가 실제 뇌세포를 활성화할 수 있음을 실증 / Demonstrated that artificial neurons can activate real brain cells in mouse neural tissue",
+        "**응용 가능성**: 뇌-컴퓨터 인터페이스, 신경퇴행성질환 치료, 신경회로 복구 등의 의료 기술 개발에 활용 가능 / Potential applications in brain-computer interfaces, neurodegenerative disease treatment, and neural circuit repair",
+        "**연구 한계**: 현재 동물 조직 수준의 초기 단계 연구로 인간 뇌 적용까지 추가 개발 필요 / Early-stage research limited to animal tissue requiring extensive further development before human brain applications"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "featured": false
+    },
     {
       "id": "cbc2b5c83a33",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**연구의 한계** / Study limitations"
       ],
       "url": "https://www.psypost.org/the-gap-between-seeing-and-seeking-adult-content-predicts-mental-health-risks/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4d8a912d6701",
@@ -243,138 +390,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2512.00281",
-      "featured": false
-    },
-    {
-      "id": "cc1c661e4050",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Scientists say this type of olive oil could boost brain power",
-      "titleKo": "",
-      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
-      "featured": false
-    },
-    {
-      "id": "e6acb17d3a3f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "7일 전 / 7d ago",
-      "title": "The surprising reason you’re so productive one day and not the next",
-      "titleKo": "",
-      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "featured": false
-    },
-    {
-      "id": "1feb820f194c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "7일 전 / 7d ago",
-      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
-      "titleKo": "",
-      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
-      "featured": false
-    },
-    {
-      "id": "a5fcc1c0569b",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Women perceive AI as riskier than men do, study finds",
-      "titleKo": "여성이 남성보다 AI를 더 위험하다고 인식한다는 연구 결과",
-      "summary": "A new study finds that women are more skeptical of artificial intelligence than men. Driven by higher risk aversion and greater exposure to job displacement, this cautious approach could inadvertently widen gender inequalities in the workplace.",
-      "aiSummary": "A new study reveals that women perceive artificial intelligence as riskier compared to men, driven primarily by higher risk aversion and greater concerns about job displacement. Although specific numerical data and sample sizes were not detailed in the report, the research demonstrates a significant gender gap in AI perception that could have substantial workplace implications. If women remain cautious or reluctant to adopt AI technologies, this cautious approach may inadvertently widen existing gender inequalities in the workplace and limit their opportunities in tech-related fields. The study highlights the importance of understanding and addressing women's concerns about AI technology to promote gender equality in the digital age. Policymakers and educators should consider developing targeted interventions to increase women's confidence and engagement with AI. However, the research may have limitations in analyzing specific risk factors and controlling for various demographic variables that could influence perceptions.\n\n##",
-      "aiSummaryKo": "최근 연구에 따르면 여성들이 남성보다 인공지능(AI)을 더 위험하다고 인식하는 것으로 나타났습니다. 이 연구는 여성의 높은 위험회피 성향과 직업 대체에 대한 더 큰 우려가 AI에 대한 회의적 태도를 유발한다는 것을 보여줍니다. 구체적인 수치와 표본 규모는 제시되지 않았으나, 이러한 성별 인식 차이가 향후 AI 관련 교육 및 취업 기회 접근에서 여성의 불리함으로 이어질 수 있다는 점이 핵심입니다. 여성이 AI 기술 채택을 꺼린다면 직업 시장에서의 성평등이 더욱 악화될 우려가 있습니다. 이 연구는 기술 분야의 성별 격차를 해소하는 데 있어 여성의 AI에 대한 우려를 적극적으로 이해하고 해결해야 함을 시사합니다. 다만, 연구에서 위험 인식의 구체적인 원인 분석과 다양한 인구통계학적 변수가 충분히 다루어지지 않았을 가능성이 있습니다.\n\n##",
-      "aiSummaryEn": "A new study reveals that women perceive artificial intelligence as riskier compared to men, driven primarily by higher risk aversion and greater concerns about job displacement. Although specific numerical data and sample sizes were not detailed in the report, the research demonstrates a significant gender gap in AI perception that could have substantial workplace implications. If women remain cautious or reluctant to adopt AI technologies, this cautious approach may inadvertently widen existing gender inequalities in the workplace and limit their opportunities in tech-related fields. The study highlights the importance of understanding and addressing women's concerns about AI technology to promote gender equality in the digital age. Policymakers and educators should consider developing targeted interventions to increase women's confidence and engagement with AI. However, the research may have limitations in analyzing specific risk factors and controlling for various demographic variables that could influence perceptions.\n\n##",
-      "keyPoints": [
-        "**성별 인식 차이** / Gender Gap in AI Perception: 여성들이 남성보다 AI를 더 위험하다고 평가하는 뚜렷한 차이 존재",
-        "**위험회피 성향과 직업 불안** / Risk Aversion and Job Displacement: 높은 위험회피 성향과 직업 대체 우려가 여성의 AI에 대한 회의적 태도의 주요 원인",
-        "**직장 내 성평등 악화 우려** / Workplace Gender Inequality Risk: AI 채택 회피로 인한 여성의 기술 분야 진입 기회 감소 및 성별 격차 심화 가능성",
-        "**정책적 개입 필요성** / Policy Intervention Needed: 여성의 AI 기술에 대한 신뢰 증진과 교육 기회 제공을 위한 적극적인 개입 및 지원 정책 개발 필요"
-      ],
-      "url": "https://www.psypost.org/women-perceive-ai-as-riskier-than-men-do-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "707fbc2b5d42",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Do we drink because we feel down, or feel down because we drink? A new study has the answer",
-      "titleKo": "우리가 기분이 안 좋아서 술을 마시는 걸까, 아니면 술을 마셔서 기분이 안 좋아지는 걸까? 새로운 연구가 그 답을 제시하다",
-      "summary": "A yearlong observational study reveals that preserving emotional well-being might be the secret to naturally curbing alcohol consumption over time. The findings show that mental health heavily influences drinking habits, rather than the other way around.",
-      "aiSummary": "This research aimed to clarify the causal relationship between alcohol consumption and mental health. Researchers conducted a one-year longitudinal observational study, collecting data through continuous monitoring of participants. The findings revealed that deteriorating mental health leads to increased drinking, rather than alcohol consumption worsening mental health. In other words, people tend to drink more when experiencing negative emotions. This discovery suggests that alcohol addiction treatment and prevention programs should focus more on mental health management. However, the study relied on self-reported data collection methods, and participant characteristics may have been limited in scope.\n\n##",
-      "aiSummaryKo": "이 연구는 음주와 정신건강 사이의 인과관계를 밝히기 위해 진행되었습니다. 연구진은 1년에 걸쳐 참가자들을 지속적으로 관찰하는 종단 연구 설계를 통해 데이터를 수집했습니다. 연구 결과는 음주량이 정신건강을 악화시키는 것이 아니라, 오히려 정신건강 악화가 음주량 증가로 이어진다는 것을 보여주었습니다. 즉, 감정 상태가 좋지 않을 때 사람들이 더 많이 마시는 경향이 있다는 의미입니다. 이 발견은 음주 중독 치료 및 예방 프로그램이 정신건강 관리에 더욱 집중해야 한다는 점을 시사합니다. 다만 이 연구는 자가보고 방식의 데이터 수집에 의존했으며, 참가자 특성이 제한적일 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research aimed to clarify the causal relationship between alcohol consumption and mental health. Researchers conducted a one-year longitudinal observational study, collecting data through continuous monitoring of participants. The findings revealed that deteriorating mental health leads to increased drinking, rather than alcohol consumption worsening mental health. In other words, people tend to drink more when experiencing negative emotions. This discovery suggests that alcohol addiction treatment and prevention programs should focus more on mental health management. However, the study relied on self-reported data collection methods, and participant characteristics may have been limited in scope.\n\n##",
-      "keyPoints": [
-        "**인과관계의 방향성**: 음주가 정신건강을 악화시키는 것이 아니라, 정신건강 악화가 음주 증가를 유발함 / The direction of causality: deteriorating mental health drives increased drinking, not the reverse",
-        "**정신건강의 중요성**: 감정 안정과 심리적 안녕감 유지가 자연스러운 음주량 감소의 핵심 요소 / Emotional stability and psychological well-being are key factors in naturally reducing alcohol consumption over time",
-        "**장기적 영향 확인**: 1년간의 관찰 연구를 통해 시간에 따른 변화 패턴을 추적 / One-year longitudinal study tracked patterns of change over time",
-        "**임상적 함의**: 중독 치료 시 음주 행동 자체보다 기저의 정신건강 문제 해결에 우선순위를 둘 필요성 / Clinical implications suggest prioritizing underlying mental health issues over addressing drinking behavior alone in addiction treatment"
-      ],
-      "url": "https://www.psypost.org/better-mental-health-naturally-curbs-alcohol-consumption-over-time/",
-      "featured": false
-    },
-    {
-      "id": "90816f5adf69",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "18시간 전 / 18h ago",
-      "title": "Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs",
-      "titleKo": "컴파일에서 압축으로: 컴파일러 출력을 활용한 형식 정리 증명기 성능 향상",
-      "summary": "arXiv:2604.18587v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated significant potential in formal theorem proving, yet state-of-the-art performance often necessitates prohibitive test-time compute via massive roll-outs or extended context windows. In this work, we address this scalability bottleneck by exploiting an informative structure in formal verification: the observation that compilers map a vast space of diverse proof attempts to a compact set of structured failure modes. We introduce a learning-to-refine framework that leverages this compression to perform ",
-      "aiSummary": "This research addresses the scalability bottleneck of Large Language Models (LLMs) in formal theorem proving, which requires prohibitive test-time computation through massive roll-outs or extended context windows. The research team proposes a \"learning-to-refine framework\" based on the key observation that compilers compress diverse proof attempts into a compact set of structured failure modes. By leveraging compiler outputs as informative feedback, this approach enables improved theorem proving performance without requiring extensive computational resources such as multiple sampling attempts or long context windows. The significance of this work lies in exploiting the structural properties of formal verification to enhance AI learning efficiency substantially. This methodology promises to significantly improve the practicality of automated theorem proving, with important implications for mathematics and software verification. However, the study may be limited to specific compiler environments, and further validation is needed regarding generalization to diverse theorem-proving problems.",
-      "aiSummaryKo": "본 연구는 대규모 언어모델(LLM)이 형식 정리 증명(formal theorem proving)에서 뛰어난 성능을 보이지만 막대한 계산 비용이 필요한 문제를 해결하기 위해 수행되었습니다. 연구팀은 컴파일러가 다양한 증명 시도들을 구조화된 실패 패턴으로 압축한다는 원리에 착안하여, \"학습-개선 프레임워크(learning-to-refine framework)\"를 제안했습니다. 이 방식은 컴파일러 출력(compiler outputs)의 정보를 활용함으로써 대량의 시도(roll-outs)나 긴 맥락 창(context window) 없이도 증명 성능을 개선할 수 있습니다. 연구의 핵심은 형식 검증의 구조적 특성을 AI 학습에 활용하여 계산 효율성을 획기적으로 높인 점입니다. 이 접근법은 자동화된 정리 증명의 실용성을 크게 향상시켜 수학 및 소프트웨어 검증 분야에서 중요한 의미를 갖습니다. 다만, 연구는 특정 컴파일러 환경에서의 테스트에 제한될 수 있으며, 다양한 증명 문제로의 일반화 가능성에 대한 추가 검증이 필요합니다.",
-      "aiSummaryEn": "This research addresses the scalability bottleneck of Large Language Models (LLMs) in formal theorem proving, which requires prohibitive test-time computation through massive roll-outs or extended context windows. The research team proposes a \"learning-to-refine framework\" based on the key observation that compilers compress diverse proof attempts into a compact set of structured failure modes. By leveraging compiler outputs as informative feedback, this approach enables improved theorem proving performance without requiring extensive computational resources such as multiple sampling attempts or long context windows. The significance of this work lies in exploiting the structural properties of formal verification to enhance AI learning efficiency substantially. This methodology promises to significantly improve the practicality of automated theorem proving, with important implications for mathematics and software verification. However, the study may be limited to specific compiler environments, and further validation is needed regarding generalization to diverse theorem-proving problems.",
-      "keyPoints": [
-        "**계산 효율성 개선** / **Improved Computational Efficiency**: 컴파일러 출력을 활용하여 대량의 시도나 긴 맥락 창 없이 정리 증명 성능 향상 - Leverages compiler outputs to enhance theorem proving performance without massive roll-outs or extended context windows",
-        "**구조적 정보 활용** / **Exploitation of Structural Information**: 컴파일러가 다양한 증명 시도를 실패 패턴으로 압축하는 특성을 AI 학습에 적용 - Applies the principle that compilers compress diverse proof attempts into structured failure modes to AI learning",
-        "**학습-개선 프레임워크** / **Learning-to-Refine Framework**: 형식 검증의 피드백을 반복적으로 활용하여 증명 알고리즘을 지속적으로 개선하는 새로운 방식 - Uses iterative feedback from formal verification to continuously improve the proving algorithm",
-        "**실무 적용 가능성** / **Practical Applicability**: 자동화된 정리 증명의 실용화를 가능하게 하여 수학, 소프트웨어 검증 등 다양한 분야에서 활용 가능 - Enables practical application of automated theorem proving across mathematics, software verification, and related fields"
-      ],
-      "url": "https://arxiv.org/abs/2604.18587",
-      "featured": false
-    },
-    {
-      "id": "d7cdcff8f60a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "18시간 전 / 18h ago",
-      "title": "Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning",
-      "titleKo": "쉬운 샘플만으로 충분하다: 데이터 효율적 강화학습을 통한 자기진화 대규모언어모델",
-      "summary": "arXiv:2604.18639v1 Announce Type: new Abstract: Previous LLMs-based RL studies typically follow either supervised learning with high annotation costs, or unsupervised paradigms using voting or entropy-based rewards. However, their performance remains far from satisfactory due to the substantial annotation cost and issues such as model collapse or reward hacking. To address these issues, we introduce a new perspective inspired by cognitive learning theory and propose a novel approach called EasyRL. The core of EasyRL is to simulate the human cognitive acquisition curve by integrating reliable k",
-      "aiSummary": "This study addresses the challenge of enabling large language models (LLMs) to learn efficiently through self-improvement mechanisms. Traditional approaches either require high annotation costs or suffer from model collapse and reward hacking issues. The research team, inspired by cognitive learning theory, proposes \"EasyRL,\" a novel method that simulates human cognitive acquisition curves by progressively learning from easy to difficult samples. The core advantage of EasyRL is improving data efficiency while significantly reducing annotation costs compared to existing supervised approaches. Unlike voting-based or entropy-based reward systems, EasyRL mitigates reward hacking problems that plague current unsupervised paradigms. This approach offers a practical solution to enhance LLM self-improvement efficiency with potential widespread applications. However, the study would benefit from additional empirical validation across diverse tasks and domains.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모언어모델(LLM)이 효율적으로 스스로 학습할 수 있는 방법을 개발하는 것을 목표로 합니다. 기존 방식들은 높은 annotation 비용이 필요하거나 모델 붕괴 문제가 있었습니다. 연구팀은 인지학습이론에서 영감을 받아 'EasyRL'이라는 새로운 방법을 제안했으며, 이는 인간의 학습곡선을 모방하여 신뢰할 수 있는 쉬운 샘플부터 점진적으로 어려운 샘플로 학습을 진행합니다. 이 접근법의 핵심은 데이터 효율성을 높이면서도 annotation 비용을 크게 줄일 수 있다는 것입니다. EasyRL은 기존의 투표 기반 또는 엔트로피 기반 보상 방식의 문제점인 보상 해킹(reward hacking)을 해결합니다. 본 연구는 LLM의 자율 학습 효율성을 획기적으로 개선할 수 있는 실용적 방법을 제시하며, 앞으로 더 다양한 실험을 통한 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study addresses the challenge of enabling large language models (LLMs) to learn efficiently through self-improvement mechanisms. Traditional approaches either require high annotation costs or suffer from model collapse and reward hacking issues. The research team, inspired by cognitive learning theory, proposes \"EasyRL,\" a novel method that simulates human cognitive acquisition curves by progressively learning from easy to difficult samples. The core advantage of EasyRL is improving data efficiency while significantly reducing annotation costs compared to existing supervised approaches. Unlike voting-based or entropy-based reward systems, EasyRL mitigates reward hacking problems that plague current unsupervised paradigms. This approach offers a practical solution to enhance LLM self-improvement efficiency with potential widespread applications. However, the study would benefit from additional empirical validation across diverse tasks and domains.\n\n##",
-      "keyPoints": [
-        "**인지학습 기반 접근**: 인간의 학습과정을 모방하여 쉬운 샘플부터 어려운 샘플로 점진적으로 학습 진행 / Cognitive learning theory-inspired approach that mimics human learning progression from easy to difficult samples",
-        "**비용 효율성**: Annotation 비용을 크게 감소시키면서도 데이터 효율성을 극대화 / Significantly reduces annotation costs while maximizing data efficiency",
-        "**기존 문제 해결**: 모델 붕괴(model collapse)와 보상 해킹(reward hacking) 문제를 해결하는 우수한 성능 / Addresses critical issues of model collapse and reward hacking in previous RL approaches",
-        "**자율 학습 메커니즘**: LLM이 외부 감독 없이 스스로 성능을 개선할 수 있는 새로운 강화학습 패러다임 제시 / Presents novel reinforcement learning paradigm enabling LLMs to self-improve without extensive external supervision"
-      ],
-      "url": "https://arxiv.org/abs/2604.18639",
       "featured": false
     }
   ]
