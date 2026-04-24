@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-24T15:49:59.294087+00:00",
+  "updated": "2026-04-24T18:06:34.038266+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ac49b8249a88",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Certainty in your feelings toward your partner predicts relationship happiness and mental well-being",
+      "titleKo": "파트너에 대한 감정의 확실성이 관계 행복과 정신 건강을 예측한다",
+      "summary": "Being highly certain about your positive feelings for a romantic partner is associated with a happier, more stable relationship. A new study shows this confidence also predicts better mental health, particularly for couples together for many years.",
+      "aiSummary": "This study investigated how certainty about positive feelings toward a romantic partner impacts relationship happiness and mental well-being. Researchers examined long-term couples, measuring their emotional certainty about their partner and analyzing correlations with relationship satisfaction and mental health indicators. Key findings revealed that greater positive feelings toward a partner, combined with higher certainty about those feelings, predicted happier and more stable relationships. Notably, this emotional certainty showed a strong association with improved mental health outcomes, particularly for couples who had been together for many years. The research highlights the importance of emotional certainty in relationship psychotherapy and couples counseling. However, limitations include reliance on self-report measures and the need for further research accounting for cultural differences and individual variations.\n\n##",
+      "aiSummaryKo": "이 연구는 로맨틱 파트너에 대한 긍정적 감정의 확실성이 관계 행복도와 정신 건강에 미치는 영향을 조사했습니다. 연구팀은 장기간 함께한 커플들을 대상으로 자신의 파트너에 대한 감정적 확실성 수준을 측정하고 관계 만족도 및 정신 건강 지표와의 상관관계를 분석했습니다. 주요 결과는 파트너에 대한 긍정적 감정이 높을수록, 그리고 그 감정에 대한 확실성이 클수록 더욱 행복하고 안정적인 관계를 유지한다는 것을 보여주었습니다. 특히 이러한 감정적 확실성은 오랜 기간 함께한 커플의 정신 건강 개선과 강하게 연결되어 있었습니다. 이 연구는 관계 심리치료와 커플 상담에서 감정적 확실성의 중요성을 강조합니다. 다만 자기 보고식 평가에 의존했으며, 문화적 차이와 개인차에 따른 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated how certainty about positive feelings toward a romantic partner impacts relationship happiness and mental well-being. Researchers examined long-term couples, measuring their emotional certainty about their partner and analyzing correlations with relationship satisfaction and mental health indicators. Key findings revealed that greater positive feelings toward a partner, combined with higher certainty about those feelings, predicted happier and more stable relationships. Notably, this emotional certainty showed a strong association with improved mental health outcomes, particularly for couples who had been together for many years. The research highlights the importance of emotional certainty in relationship psychotherapy and couples counseling. However, limitations include reliance on self-report measures and the need for further research accounting for cultural differences and individual variations.\n\n##",
+      "keyPoints": [
+        "**감정 확실성의 중요성** / Importance of Emotional Certainty",
+        "**장기 관계에서의 정신건강 효과** / Mental Health Benefits in Long-term Relationships",
+        "**관계 안정성 강화** / Enhanced Relationship Stability",
+        "**상담 및 치료의 실용적 함의** / Practical Implications for Counseling"
+      ],
+      "url": "https://www.psypost.org/certainty-in-your-feelings-toward-your-partner-predicts-relationship-happiness-and-mental-well-being/",
+      "featured": true
+    },
+    {
+      "id": "ad16ca662565",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "14시간 전 / 14h ago",
+      "title": "Hierarchical organization of critical brain dynamics",
+      "titleKo": "뇌 역학의 위계적 구조",
+      "summary": "arXiv:2604.21832v1 Announce Type: new Abstract: The hierarchical organization of the brain is a fundamental structural principle, while brain criticality is a leading hypothesis for its collective dynamics. However, the connection between structure and signatures of criticality remains an open question. Here, we address this issue by applying phenomenological renormalization group approaches to large-scale neuronal spiking activity from the mouse visual cortex and hippocampus. We find that signatures of criticality are not uniform, but instead vary systematically along the known anatomical hie",
+      "aiSummary": "This study investigated the relationship between the brain's hierarchical structure and critical dynamics. Researchers applied phenomenological renormalization group approaches to large-scale neuronal spiking activity recordings from the mouse visual cortex and hippocampus. The key finding revealed that criticality signatures are not uniform across the brain but instead vary systematically along known anatomical hierarchies. This demonstrates how the brain's structural organization determines the dynamical properties of neural populations. The research provides fundamental insights into how the brain processes information and performs computations. However, the study is limited to specific brain regions in rodents, and additional research is needed to apply these findings to the human brain.\n\n##",
+      "aiSummaryKo": "이 연구는 뇌의 계층적 구조와 임계 동역학(criticality) 사이의 관계를 규명하기 위해 수행되었습니다. 연구진은 쥐의 시각피질과 해마에서 기록한 대규모 신경세포 발화 활동 데이터에 현상론적 재정규화군(phenomenological renormalization group) 방법을 적용했습니다. 주요 발견은 뇌의 임계성 신호가 균일하지 않으며, 알려진 해부학적 계층 구조를 따라 체계적으로 변한다는 것입니다. 이는 뇌의 구조적 조직이 신경 집단의 동역학적 특성을 결정하는 방식을 보여줍니다. 이 연구는 뇌가 어떻게 정보를 처리하고 계산을 수행하는지 이해하는 데 중요한 기초를 제공합니다. 다만, 특정 종(쥐)의 제한된 뇌 영역만을 다루었으며, 인간 뇌에 직접 적용하기 위해서는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated the relationship between the brain's hierarchical structure and critical dynamics. Researchers applied phenomenological renormalization group approaches to large-scale neuronal spiking activity recordings from the mouse visual cortex and hippocampus. The key finding revealed that criticality signatures are not uniform across the brain but instead vary systematically along known anatomical hierarchies. This demonstrates how the brain's structural organization determines the dynamical properties of neural populations. The research provides fundamental insights into how the brain processes information and performs computations. However, the study is limited to specific brain regions in rodents, and additional research is needed to apply these findings to the human brain.\n\n##",
+      "keyPoints": [
+        "**뇌 계층 구조와 동역학의 연결** / Connection between brain hierarchy and dynamics: 뇌의 해부학적 계층 구조가 신경 활동의 임계 현상을 결정하는 방식을 처음 체계적으로 입증했습니다.",
+        "**비균일적 임계성 분포** / Non-uniform criticality distribution: 뇌 전체에서 임계 동역학 신호가 균일하지 않으며, 각 계층 수준에서 다르게 나타난다는 새로운 발견입니다.",
+        "**재정규화군 방법의 응용** / Application of renormalization group methods: 물리학의 고급 분석 기법을 신경과학에 적용하여 대규모 신경 활동 데이터의 숨겨진 패턴을 드러냈습니다.",
+        "**뇌 정보처리 메커니즘 이해** / Understanding brain information processing: 뇌가 최적의 계산 능력을 유지하기 위해 구조적 조직을 활용하는 방식에 대한 이론적 기반을 제공합니다."
+      ],
+      "url": "https://arxiv.org/abs/2604.21832",
+      "featured": false
+    },
+    {
+      "id": "83078da0892c",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "14시간 전 / 14h ago",
+      "title": "Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion",
+      "titleKo": "단일 자극과 양식 내 분산을 통한 교차 양식 수렴의 조절",
+      "summary": "arXiv:2604.21836v1 Announce Type: new Abstract: Neural networks exhibit a remarkable degree of representational convergence across diverse architectures, training objectives, and even data modalities. This convergence is predictive of alignment with brain representation. A recent hypothesis suggests this arises from learning the underlying structure in the environment in similar ways. However, it is unclear how individual stimuli elicit convergent representations across networks. An image can be perceived in multiple ways and expressed differently using words. Here, we introduce a methodology ",
+      "aiSummary": "This research investigates the convergence phenomenon in neural networks, wherein different network architectures, training approaches, and even different sensory modalities (e.g., images and text) develop similar representational patterns. This convergence has been shown to correlate with alignment with human brain representations. The researchers explore whether introducing diverse representations within a single sensory modality for individual stimuli (e.g., processing the same image in multiple ways) can modulate cross-modal convergence between different neural networks. This methodology offers important insights into understanding how neural networks learn the fundamental structure of their environment. The study's significance lies in deepening our understanding of neural network representation convergence mechanisms and providing methods to control this process. However, the current stage requires additional large-scale experimental validation and exploration of practical applications.\n\n##",
+      "aiSummaryKo": "본 연구는 신경망이 서로 다른 구조, 훈련 방식, 심지어 다른 감각 모드(이미지, 텍스트 등)에서도 유사한 방식으로 정보를 표현하는 '수렴 현상'을 조사합니다. 이러한 수렴은 인간 뇌의 표현 방식과도 유사한 특성을 보이는 것으로 알려져 있습니다. 연구자들은 단일 자극에 대해 한 가지 감각 모드 내에서 다양한 표현(예: 같은 이미지를 다양한 방식으로 처리)을 만들었을 때, 이것이 여러 신경망 간의 크로스모달(이미지-텍스트 같은) 수렴을 조절할 수 있는지 탐구합니다. 이 방법론은 신경망이 환경의 기본 구조를 어떻게 학습하는지 이해하는 데 중요한 통찰력을 제공할 수 있습니다. 본 연구의 핵심 의의는 신경망의 표현 수렴 메커니즘을 더 깊이 이해하고 이를 제어할 수 있는 방법을 제시한다는 점입니다. 다만 현재 단계에서는 실제 응용 가능성과 대규모 실험 검증이 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "This research investigates the convergence phenomenon in neural networks, wherein different network architectures, training approaches, and even different sensory modalities (e.g., images and text) develop similar representational patterns. This convergence has been shown to correlate with alignment with human brain representations. The researchers explore whether introducing diverse representations within a single sensory modality for individual stimuli (e.g., processing the same image in multiple ways) can modulate cross-modal convergence between different neural networks. This methodology offers important insights into understanding how neural networks learn the fundamental structure of their environment. The study's significance lies in deepening our understanding of neural network representation convergence mechanisms and providing methods to control this process. However, the current stage requires additional large-scale experimental validation and exploration of practical applications.\n\n##",
+      "keyPoints": [
+        "**신경망의 보편적 수렴**: 서로 다른 아키텍처, 훈련 목표, 심지어 다른 데이터 모드(이미지, 텍스트)에서도 신경망들이 유사한 표현 방식을 발전시킨다는 발견 / **Universal Network Convergence**: Neural networks develop similar representational patterns across different architectures, training objectives, and even different data modalities (images, text).",
+        "**뇌 표현과의 정렬**: 신경망의 표현 수렴이 인간 뇌의 표현 방식과 일치하는 정도를 예측할 수 있다 / **Brain Alignment Predictability**: The convergence of neural network representations is predictive of alignment with human brain representations.",
+        "**단일 자극 내 다양성의 역할**: 개별 자극에 대해 한 가지 감각 모드 내에서 다양한 표현을 생성하는 것이 크로스모달 수렴을 조절할 수 있다 / **Intra-Modal Diversity Modulation**: Generating diverse representations within a single sensory modality for individual stimuli can modulate cross-modal convergence between networks.",
+        "**환경 구조 학습의 이해**: 신경망이 환경의 기본 구조를 어떻게 유사하게 학습하는지 메커니즘을 규명하는 기초 / **Understanding Environmental Learning Mechanisms**: Clarifies how neural networks similarly learn underlying environmental structures and provides foundations for controlling representation convergence."
+      ],
+      "url": "https://arxiv.org/abs/2604.21836",
+      "featured": false
+    },
+    {
+      "id": "c83cfab02f84",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "14시간 전 / 14h ago",
+      "title": "Micro-DualNet: Dual-Path Spatio-Temporal Network for Micro-Action Recognition",
+      "titleKo": "마이크로-듀얼넷: 미세 동작 인식을 위한 이중 경로 시공간 네트워크",
+      "summary": "arXiv:2604.21011v1 Announce Type: cross Abstract: Micro-actions are subtle, localized movements lasting 1-3 seconds such as scratching one's head or tapping fingers. Such subtle actions are essential for social communication, ubiquitously used in natural interactions, and thus critical for fine-grained video understanding, yet remain poorly understood by current computer vision systems. We identify a fundamental challenge: micro-actions exhibit diverse spatio-temporal characteristics where some are defined by spatial configurations while others manifest through temporal dynamics. Existing meth",
+      "aiSummary": "This research addresses the recognition of micro-actions—subtle, localized movements lasting 1-3 seconds such as head scratching or finger tapping—which are essential for social communication but poorly understood by current computer vision systems. The fundamental challenge identified is that micro-actions exhibit diverse spatio-temporal characteristics: some are defined by spatial configurations while others manifest through temporal dynamics. To address this, the research team proposes Micro-DualNet, a dual-path neural network architecture that simultaneously processes both spatial and temporal information for more accurate micro-action recognition. The dual-path design allows the network to handle micro-actions where either spatial or temporal features are dominant. This technology has potential applications in video understanding, human-computer interaction, and emotion recognition. However, the study is at an early stage, and performance validation in real-world environments remains necessary.\n\n##",
+      "aiSummaryKo": "본 연구는 머리를 긁거나 손가락을 두드리는 등 1-3초 지속되는 미세한 행동(미세-행동)을 인식하는 인공지능 기술 개발에 관한 것입니다. 미세-행동은 사회적 소통에서 중요한 역할을 하지만 현재 컴퓨터 비전 시스템은 이를 잘 인식하지 못합니다. 연구팀은 미세-행동이 두 가지 특성을 가진다고 발견했는데, 일부는 신체의 공간적 위치(예: 어느 부위를 만지는지)로 정의되고 다른 일부는 움직임의 시간적 역학(예: 얼마나 빠르게 움직이는지)으로 나타난다는 점입니다. 이를 해결하기 위해 연구팀은 'Micro-DualNet'이라는 이중 경로 신경망을 제안했는데, 이는 공간 정보와 시간 정보를 동시에 처리하여 미세-행동을 더 정확하게 인식할 수 있습니다. 이 기술은 비디오 이해, 인간-컴퓨터 상호작용, 감정 인식 등 다양한 분야에 활용될 수 있습니다. 다만 연구는 아직 초기 단계이며 실제 환경에서의 성능 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research addresses the recognition of micro-actions—subtle, localized movements lasting 1-3 seconds such as head scratching or finger tapping—which are essential for social communication but poorly understood by current computer vision systems. The fundamental challenge identified is that micro-actions exhibit diverse spatio-temporal characteristics: some are defined by spatial configurations while others manifest through temporal dynamics. To address this, the research team proposes Micro-DualNet, a dual-path neural network architecture that simultaneously processes both spatial and temporal information for more accurate micro-action recognition. The dual-path design allows the network to handle micro-actions where either spatial or temporal features are dominant. This technology has potential applications in video understanding, human-computer interaction, and emotion recognition. However, the study is at an early stage, and performance validation in real-world environments remains necessary.\n\n##",
+      "keyPoints": [
+        "**미세-행동의 중요성** / **Importance of Micro-actions**: 1-3초 지속되는 미세한 행동들이 사회적 소통에 필수적이지만 현재 AI 시스템이 제대로 인식하지 못함 / Micro-actions lasting 1-3 seconds are essential for social communication but remain poorly recognized by current AI systems",
+        "**이중 특성 인식** / **Dual Characteristic Recognition**: 미세-행동의 일부는 공간적 구성으로(신체 어느 부위) 정의되고 일부는 시간적 역학(움직임의 속도)으로 나타남 / Micro-actions are either defined by spatial configurations (which body part) or temporal dynamics (speed of movement)",
+        "**Micro-DualNet 구조** / **Dual-Path Architecture**: 공간 정보와 시간 정보를 별도의 경로로 처리한 후 통합하여 미세-행동 인식 성능 향상 / Uses separate pathways to process spatial and temporal information, then integrates them for improved recognition accuracy",
+        "**실무 응용 가능성** / **Practical Applications**: 영상 분석, 인간-컴퓨터 상호작용, 감정 인식 등 다양한 분야에 활용 가능 / Applicable to video understanding, human-computer interaction, emotion recognition, and various other fields"
+      ],
+      "url": "https://arxiv.org/abs/2604.21011",
+      "featured": false
+    },
+    {
+      "id": "58bfaa6cff9f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "4일 전 / 4d ago",
+      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
+      "titleKo": "갈등 상황에서 행동과학이 직면해야 할 불편한 진실",
+      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummary": "Approximately 2 billion people live in conflict-affected areas, with 123 million forcibly displaced in 2024, the highest number on record. However, the field of behavioral science has developed most of its theories, experiments, and interventions in stable contexts, creating a significant gap in applicability. When behavioral scientists conduct research in conflict settings, they typically follow a conventional pattern of \"localizing\" existing solutions and evaluating them, which proves insufficient for addressing conflict-specific challenges. The study emphasizes that unique characteristics of conflict environments—extreme uncertainty, limited resources, and psychological trauma—severely limit the applicability of existing behavioral science frameworks. The research is significant because it highlights the urgent need for behavioral science to develop new theoretical frameworks and context-specific interventions tailored to conflict zones. Key limitations include high accessibility barriers to conflict areas and ethical constraints that complicate research implementation and evaluation.\n\n##",
+      "aiSummaryKo": "전 세계 약 20억 명이 분쟁 영향 지역에 거주하고 있으며, 2024년에는 1억 2,300만 명이 강제 이주되어 역사상 최고 수치를 기록했다. 그러나 행동과학 분야는 대부분의 이론과 실험, 개입 방안을 안정적인 환경에서 개발해왔다는 것이 핵심 문제다. 행동과학자들이 분쟁 지역에서 연구를 수행할 때도 기존 방법론을 '현지화'하는 관례적 접근방식을 따르고 있는데, 이는 충분하지 않다. 본 연구는 분쟁 환경의 독특한 특성(극도의 불확실성, 제한된 자원, 심리적 트라우마)이 기존 행동과학 이론의 적용 가능성을 크게 제한할 수 있음을 강조한다. 연구의 의의는 행동과학이 분쟁 지역 문제 해결을 위해 새로운 이론 프레임워크 개발과 맥락 특화 연구를 시급히 필요로 함을 제시하는 것이다. 다만 제한점으로는 분쟁 지역 연구의 높은 접근성 장벽과 윤리적 제약이 있다.\n\n##",
+      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas, with 123 million forcibly displaced in 2024, the highest number on record. However, the field of behavioral science has developed most of its theories, experiments, and interventions in stable contexts, creating a significant gap in applicability. When behavioral scientists conduct research in conflict settings, they typically follow a conventional pattern of \"localizing\" existing solutions and evaluating them, which proves insufficient for addressing conflict-specific challenges. The study emphasizes that unique characteristics of conflict environments—extreme uncertainty, limited resources, and psychological trauma—severely limit the applicability of existing behavioral science frameworks. The research is significant because it highlights the urgent need for behavioral science to develop new theoretical frameworks and context-specific interventions tailored to conflict zones. Key limitations include high accessibility barriers to conflict areas and ethical constraints that complicate research implementation and evaluation.\n\n##",
+      "keyPoints": [
+        "**글로벌 분쟁의 심화** / Escalating Global Conflict Crisis: 약 20억 명이 분쟁 영향 지역 거주, 2024년 강제 이주자 1억 2,300만 명 기록 (역사상 최고)",
+        "**이론-실제 괴리** / Theory-Practice Gap: 행동과학의 대부분 이론과 실험이 안정적 환경에서 개발되어 분쟁 지역 맥락에 부적합",
+        "**표면적 현지화의 한계** / Limitations of Surface-Level Localization: 기존 방법론의 단순한 '현지화' 접근은 분쟁 지역의 극도의 불확실성과 심리적 트라우마 문제 해결에 부족",
+        "**긴급한 패러다임 전환 필요** / Urgent Paradigm Shift Required: 분쟁 환경 특화 이론 개발과 현지 맥락 중심의 새로운 연구 설계 및 개입 전략 필수"
+      ],
+      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
+      "featured": false
+    },
+    {
+      "id": "2ca3144e26ec",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "4일 전 / 4d ago",
+      "title": "The ‘Busy’ Trap",
+      "titleKo": "바쁨의 덫",
+      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "aiSummary": "In twenty-first century America, being \"busy\" has become the default response when asked how one is doing, yet it functions more as a veiled boast about social status than an actual complaint about workload. Researchers observe that this cultural phenomenon reflects how modern society uses busyness as a status symbol rather than an indicator of genuine overwork. Notably, those actually working multiple minimum-wage jobs or pulling back-to-back shifts in intensive care units typically do not emphasize their busyness, suggesting that the expression serves a different social function. The trend indicates that individuals increasingly use \"busyness\" to signal their importance and professional value rather than to describe their actual workload. This semantic shift reveals a disconnect between the rhetoric of busyness and the lived experience of those working demanding jobs. The analysis may be limited in its scope regarding cultural variations and socioeconomic differences that could affect this pattern.",
+      "aiSummaryKo": "현대 미국 사회에서 '바쁘다'는 표현이 일상적인 인사말로 자리 잡았는데, 이는 실제 과로보다는 사회적 지위와 성공을 암묵적으로 자랑하는 수사(修辭)가 되었다. 연구자들은 이러한 '바쁨'이 진정한 과로 상태가 아니라 사회문화적 현상임을 지적한다. 실제로 장시간 저임금 노동에 종사하거나 중환자실에서 교대근무하는 사람들은 오히려 자신이 얼마나 바쁜지 강조하지 않는 경향이 있다. 이는 바쁨이 사실상 개인의 중요성과 가치를 드러내는 상징으로 변질되었음을 시사한다. 이러한 현상은 현대인들이 실제 업무량보다 자신의 사회적 위상을 표현하는 방식으로 '바쁨'을 활용하고 있음을 보여준다. 연구의 한계는 문화적 편차나 사회경제적 계층 간 차이를 충분히 다루지 못할 수 있다는 점이다.",
+      "aiSummaryEn": "In twenty-first century America, being \"busy\" has become the default response when asked how one is doing, yet it functions more as a veiled boast about social status than an actual complaint about workload. Researchers observe that this cultural phenomenon reflects how modern society uses busyness as a status symbol rather than an indicator of genuine overwork. Notably, those actually working multiple minimum-wage jobs or pulling back-to-back shifts in intensive care units typically do not emphasize their busyness, suggesting that the expression serves a different social function. The trend indicates that individuals increasingly use \"busyness\" to signal their importance and professional value rather than to describe their actual workload. This semantic shift reveals a disconnect between the rhetoric of busyness and the lived experience of those working demanding jobs. The analysis may be limited in its scope regarding cultural variations and socioeconomic differences that could affect this pattern.",
+      "keyPoints": [
+        "**'바쁨'의 변질된 의미** / Transformation of \"busyness\" as a status marker rather than genuine overwork complaint",
+        "**사회적 계층과의 역설** / Paradox that truly overworked individuals (ICU workers, minimum-wage earners) don't emphasize their busyness",
+        "**암묵적 자랑의 수사** / Use of disguised boasting through complaints as social performance and identity signaling",
+        "**현대 미국 사회문화 현상** / Reflects broader cultural values about work, status, and self-presentation in contemporary American society"
+      ],
+      "url": "https://behavioralscientist.org/the-busy-trap/",
+      "featured": false
+    },
+    {
+      "id": "c1d7d1e43287",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "11일 전 / 11d ago",
+      "title": "What It’s Like to Be…an Aerospace Engineer",
+      "titleKo": "항공우주 엔지니어가 된다는 것",
+      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummary": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, exploring the experience of landing the Perseverance rover on Mars and the daily work of aerospace engineers. As part of bestselling author Dan Heath's \"What It's Like to Be...\" podcast series, the content aims to make the realities of aerospace engineering accessible to the general public. The methodology involves explaining the concrete processes of Mars landing, including sterile room operations to minimize microbial contamination and managing hundreds of engineering trade-offs. Key topics include the famous \"seven minutes of terror\"—the critical and perilous landing phase—and the search for evidence of past microbial life on Mars. The significance of this interview lies in demystifying complex space science for a general audience and raising public awareness about the aerospace engineering profession. However, the content's limitations include its reliance on a single interview format with limited scientific data and statistical validation.\n\n##",
+      "aiSummaryKo": "이 기사는 NASA 제트 추진 연구소의 우주항공공학자 스와티 모한과의 인터뷰를 통해 화성 탐사 로버 퍼서비어런스호의 착륙 과정과 우주항공공학자의 업무를 소개하는 콘텐츠입니다. 저명한 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 팟캐스트 시리즈의 일환으로, 실제 우주항공공학자가 수행하는 업무의 현실을 대중에게 전달하는 것을 목표로 합니다. 연구 방법으로는 퍼서비어런스호 착륙의 구체적 사례와 무균실 운영, 엔지니어링 트레이드오프 관리 등 실제 업무 프로세스를 설명합니다. 핵심 내용은 화성 착륙의 \"7분의 공포\"라 불리는 위험한 착륙 과정과 화성의 과거 생명 증거 탐색입니다. 이 인터뷰의 의의는 복잡한 우주과학을 일반인이 이해할 수 있게 설명하고, 우주항공공학자의 역할을 대중화하는 데 있습니다. 다만 제시된 정보가 단일 인터뷰 형식이므로 과학적 검증이나 통계 데이터가 제한적입니다.\n\n##",
+      "aiSummaryEn": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, exploring the experience of landing the Perseverance rover on Mars and the daily work of aerospace engineers. As part of bestselling author Dan Heath's \"What It's Like to Be...\" podcast series, the content aims to make the realities of aerospace engineering accessible to the general public. The methodology involves explaining the concrete processes of Mars landing, including sterile room operations to minimize microbial contamination and managing hundreds of engineering trade-offs. Key topics include the famous \"seven minutes of terror\"—the critical and perilous landing phase—and the search for evidence of past microbial life on Mars. The significance of this interview lies in demystifying complex space science for a general audience and raising public awareness about the aerospace engineering profession. However, the content's limitations include its reliance on a single interview format with limited scientific data and statistical validation.\n\n##",
+      "keyPoints": [
+        "**화성 착륙의 극한 상황 / Critical Mars Landing Challenge**: \"7분의 공포\"라 불리는 착륙 과정에서 엔지니어들이 직면한 극도로 위험하고 통제 불가능한 환경 속 의사결정의 중요성",
+        "**무균 환경 관리 / Microbial Contamination Control**: 우주탐사에서 생명 탐색의 정확성을 보장하기 위해 무균실에서 미생물 개수를 최소화하는 정교한 엔지니어링 프로세스",
+        "**엔지니어링 트레이드오프 / Engineering Trade-offs Management**: 우주탐사 프로젝트에서 수백 가지의 상충하는 엔지니어링 요구사항 간의 균형을 맞추는 복잡한 의사결정 과정",
+        "**과학 대중화 / Science Popularization**: 팟캐스트를 통해 복잡한 우주과학과 엔지니어링을 일반인이 이해할 수 있는 형태로 전달하려는 과학 커뮤니케이션의 시도"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
+      "featured": false
+    },
     {
       "id": "6c30ffcfb145",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**사회적 상호작용 개선의 실용적 응용** / Practical application for improving social interaction"
       ],
       "url": "https://www.psypost.org/how-the-pace-of-your-breath-alters-the-way-you-see-faces-2026-03-20/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bca86354c086",
@@ -273,148 +420,6 @@
         "**학습 집약 분야 적용 / Application in Learning-Intensive Domains**"
       ],
       "url": "https://arxiv.org/abs/2604.19751",
-      "featured": false
-    },
-    {
-      "id": "6e2c7d7122f6",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
-      "titleKo": "텍스트 임베딩을 통한 영역 지식 없는 알고리즘 선택",
-      "summary": "arXiv:2604.19753v1 Announce Type: new Abstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pretrained embedding model, and selects an algorithm via weighted k-nearest neighbors. The key to our approach is the observation that pretrained embeddings produce representations that distinguish problem instances without any domain knowledge or task-specific training. This allows us to apply the same ",
-      "aiSummary": "Algorithm selection—the task of automatically identifying the best algorithm for a given dataset—is an important challenge in machine learning. Traditional methods require complex manual feature extraction from data, but this research proposes ZeroFolio, a novel approach using pretrained text embeddings. ZeroFolio operates in three steps: reading raw data files as plain text, converting them with a pretrained embedding model, and selecting the optimal algorithm using weighted k-nearest neighbors. The key insight is that pretrained embeddings can distinguish problem instances without domain-specific knowledge or task-specific training. This offers versatility by enabling the same model to be applied across diverse domains. The research's significance lies in automating algorithm selection without complicated feature engineering. However, further validation across diverse data formats and domains is needed to establish the method's broader applicability.\n\n##",
-      "aiSummaryKo": "알고리즘 선택 문제는 주어진 데이터에 가장 적합한 알고리즘을 자동으로 찾는 머신러닝 분야의 중요한 과제입니다. 기존 방식은 데이터의 특성을 수동으로 추출하는 복잡한 과정이 필요했으나, 본 연구는 사전학습된 텍스트 임베딩을 활용하는 'ZeroFolio'라는 새로운 방법을 제안합니다. ZeroFolio는 세 단계로 작동합니다: 원본 데이터 파일을 일반 텍스트로 읽고, 사전학습된 임베딩 모델로 변환한 후, 가중치가 적용된 k-최근접 이웃 알고리즘으로 최적의 알고리즘을 선택합니다. 이 접근 방식의 핵심은 사전학습된 임베딩이 특별한 도메인 지식이나 작업별 학습 없이도 데이터의 특성을 구별할 수 있다는 발견입니다. 이는 다양한 분야에 동일한 모델을 적용할 수 있는 범용성을 제공합니다. 연구의 의의는 복잡한 특성 엔지니어링 없이 자동으로 알고리즘을 선택할 수 있다는 점이며, 향후 더 다양한 데이터 형식과 도메인에 대한 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "Algorithm selection—the task of automatically identifying the best algorithm for a given dataset—is an important challenge in machine learning. Traditional methods require complex manual feature extraction from data, but this research proposes ZeroFolio, a novel approach using pretrained text embeddings. ZeroFolio operates in three steps: reading raw data files as plain text, converting them with a pretrained embedding model, and selecting the optimal algorithm using weighted k-nearest neighbors. The key insight is that pretrained embeddings can distinguish problem instances without domain-specific knowledge or task-specific training. This offers versatility by enabling the same model to be applied across diverse domains. The research's significance lies in automating algorithm selection without complicated feature engineering. However, further validation across diverse data formats and domains is needed to establish the method's broader applicability.\n\n##",
-      "keyPoints": [
-        "**도메인 지식 불필요의 혁신** / Revolutionary Elimination of Domain Knowledge Requirements",
-        "**사전학습된 임베딩의 활용** / Leverage of Pretrained Embeddings",
-        "**범용적 적용 가능성** / Cross-Domain Applicability",
-        "**계산 효율성** / Computational Efficiency"
-      ],
-      "url": "https://arxiv.org/abs/2604.19753",
-      "featured": false
-    },
-    {
-      "id": "b1cc9cf677d9",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
-      "titleKo": "NGSS 교실에서 과학 설명의 AI 채점 시 클래스 불균형 해결을 위한 트랜스포머 기반 모델의 데이터 증강 및 리샘플링 전략 탐색",
-      "summary": "arXiv:2604.19754v1 Announce Type: new Abstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augmentation strategies to improve transformer-based text classification of student responses to a physical science assessment based on an NGSS-aligned learning progression. The dataset consists of 1,466 high school responses scored on 11 binary-coded analytic categories. This rubric identifies six importan",
-      "aiSummary": "This study addresses the challenge of automated scoring of students' scientific explanations, particularly the class imbalance problem affecting the assessment of advanced reasoning skills. The research investigates data augmentation and resampling strategies for transformer-based text classification models using a dataset of 1,466 high school student responses scored across 11 binary-coded analytic rubric categories. The evaluation is based on an NGSS-aligned (Next Generation Science Standards) learning progression for physical science assessment. Researchers implemented various augmentation techniques to improve model performance, especially for underrepresented categories capturing higher-order thinking. Key findings demonstrate that specific augmentation strategies significantly improved the identification rate of minority classes in the rubric categories. The research has practical significance for enhancing fairness and accuracy in automated scoring systems that provide immediate feedback to students. However, limitations include the single assessment context and relatively constrained dataset that may limit generalizability across different subjects or educational settings.\n\n##",
-      "aiSummaryKo": "본 연구는 고등학교 학생들의 과학 설명에 대한 자동 채점 시스템 개발의 문제점을 해결하기 위해 진행되었습니다. 특히 고급 추론 능력을 평가하는 항목들이 데이터 불균형 문제를 야기하여, 인공지능 모델의 정확도가 떨어지는 것이 주요 배경입니다. 연구팀은 고등학생 1,466명의 응답을 11개의 이진 분류 항목으로 채점한 데이터를 수집하고, 트랜스포머 기반의 텍스트 분류 모델에 다양한 데이터 증강 및 리샘플링 전략을 적용했습니다. 이 연구는 NGSS(미국 과학 교육 표준) 기반의 학습 진행 평가에 중점을 두고 있습니다. 주요 결과로는 특정 증강 전략들이 소수 클래스 데이터의 인식률을 유의미하게 향상시켰음을 보여줍니다. 이 연구는 자동 채점 시스템의 공정성과 정확성을 개선할 수 있는 실무적 방안을 제시한다는 점에서 의의가 있습니다. 다만 단일 평가 맥락과 제한된 데이터셋이라는 한계를 가지고 있습니다.\n\n##",
-      "aiSummaryEn": "This study addresses the challenge of automated scoring of students' scientific explanations, particularly the class imbalance problem affecting the assessment of advanced reasoning skills. The research investigates data augmentation and resampling strategies for transformer-based text classification models using a dataset of 1,466 high school student responses scored across 11 binary-coded analytic rubric categories. The evaluation is based on an NGSS-aligned (Next Generation Science Standards) learning progression for physical science assessment. Researchers implemented various augmentation techniques to improve model performance, especially for underrepresented categories capturing higher-order thinking. Key findings demonstrate that specific augmentation strategies significantly improved the identification rate of minority classes in the rubric categories. The research has practical significance for enhancing fairness and accuracy in automated scoring systems that provide immediate feedback to students. However, limitations include the single assessment context and relatively constrained dataset that may limit generalizability across different subjects or educational settings.\n\n##",
-      "keyPoints": [
-        "**클래스 불균형 문제** / Class Imbalance Challenge: 고등 추론 능력을 평가하는 항목들의 데이터 부족으로 인한 자동 채점 모델의 성능 저하",
-        "The underrepresentation of samples in advanced reasoning categories causes automated scoring models to perform poorly on these important assessment dimensions",
-        "**트랜스포머 기반 모델 활용** / Transformer-Based Approach: 최신 AI 기술(트랜스포머)을 적용하여 학생들의 텍스트 기반 과학 설명을 자동으로 분류 및 평가",
-        "Leveraging state-of-the-art transformer architecture for automated text classification of student scientific explanations"
-      ],
-      "url": "https://arxiv.org/abs/2604.19754",
-      "featured": false
-    },
-    {
-      "id": "a1c7733b8a1f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Frequency-Forcing: From Scaling-as-Time to Soft Frequency Guidance",
-      "titleKo": "주파수 강제화: 시간-스케일링에서 소프트 주파수 유도까지",
-      "summary": "arXiv:2604.20902v1 Announce Type: new Abstract: While standard flow-matching models transport noise to data uniformly, incorporating an explicit generation order - specifically, establishing coarse, low-frequency structure before fine detail - has proven highly effective for synthesizing natural images. Two recent works offer distinct paradigms for this. K-Flow imposes a hard frequency constraint by reinterpreting a frequency scaling variable as flow time, running the trajectory inside a transformed amplitude space. Latent Forcing provides a soft ordering mechanism by coupling the pixel flow w",
-      "aiSummary": "This research presents a novel methodology to enhance the quality of AI-generated images by controlling the generation order of visual features. While standard flow-matching models uniformly transform noise into data, the researchers found that explicitly establishing coarse, low-frequency structures before fine details significantly improves natural image synthesis. The study proposes \"Frequency-Forcing,\" a new framework that integrates two recent approaches: K-Flow, which imposes hard frequency constraints by reinterpreting a frequency scaling variable as flow time, and Latent Forcing, which provides soft ordering mechanisms by coupling pixel flows. This unified approach demonstrates superior effectiveness in synthesizing natural images compared to conventional methods. However, as an early-stage preprint, the research requires further validation across diverse conditions and investigation into practical applications before broader implementation.\n\n##",
-      "aiSummaryKo": "이 연구는 이미지 생성 AI의 품질을 향상시키기 위한 새로운 방법론을 제시합니다. 기존의 표준 flow-matching 모델은 노이즈를 데이터로 균일하게 변환하는 방식을 사용했으나, 연구팀은 먼저 큰 틀(저주파)부터 생성한 후 세부 사항(고주파)을 추가하는 순서를 명시적으로 도입할 필요성을 발견했습니다. 이번 연구는 K-Flow와 Latent Forcing이라는 두 가지 최근 접근방식을 통합하여 '빈도 강제(Frequency-Forcing)'라는 새로운 프레임워크를 제안합니다. K-Flow는 주파수 변수를 흐름 시간으로 재해석하여 엄격한 제약을 가하는 방식이고, Latent Forcing은 픽셀 흐름을 결합하여 부드러운 순서 메커니즘을 제공합니다. 이 통합 방식은 자연 이미지 합성에서 뛰어난 효과를 보여주었습니다. 다만 이 연구는 아직 초기 단계의 논문으로, 다양한 조건에서의 성능 검증과 실제 응용 가능성에 대한 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This research presents a novel methodology to enhance the quality of AI-generated images by controlling the generation order of visual features. While standard flow-matching models uniformly transform noise into data, the researchers found that explicitly establishing coarse, low-frequency structures before fine details significantly improves natural image synthesis. The study proposes \"Frequency-Forcing,\" a new framework that integrates two recent approaches: K-Flow, which imposes hard frequency constraints by reinterpreting a frequency scaling variable as flow time, and Latent Forcing, which provides soft ordering mechanisms by coupling pixel flows. This unified approach demonstrates superior effectiveness in synthesizing natural images compared to conventional methods. However, as an early-stage preprint, the research requires further validation across diverse conditions and investigation into practical applications before broader implementation.\n\n##",
-      "keyPoints": [
-        "**생성 순서의 중요성** / **Importance of Generation Order**: 이미지 생성 시 저주파(큰 틀)부터 고주파(세부)로 순차적으로 생성하는 것이 품질 향상에 효과적임 / Synthesizing images by sequentially generating low-frequency (coarse structure) before high-frequency (fine details) significantly improves generation quality.",
-        "**두 가지 접근방식의 통합** / **Integration of Two Paradigms**: K-Flow의 엄격한 제약과 Latent Forcing의 유연한 메커니즘을 결합하여 최적의 성능 달성 / Combining K-Flow's hard constraints with Latent Forcing's flexible mechanisms achieves optimal performance balance.",
-        "**자연 이미지 합성 개선** / **Natural Image Synthesis Enhancement**: Frequency-Forcing 프레임워크가 기존 flow-matching 모델보다 우수한 이미지 생성 결과 제공 / The proposed framework delivers superior image generation results compared to standard flow-matching approaches.",
-        "**추가 검증 필요** / **Need for Further Validation**: 다양한 데이터셋과 실제 응용 환경에서의 성능 검증 및 계산 효율성 평가가 요구됨 / Validation across diverse datasets, real-world applications, and computational efficiency assessment are necessary before practical deployment."
-      ],
-      "url": "https://arxiv.org/abs/2604.20902",
-      "featured": false
-    },
-    {
-      "id": "e5effecfc2dd",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Reinforcing privacy reasoning in LLMs via normative simulacra from fiction",
-      "titleKo": "픽션의 규범적 시뮬라크라를 통한 대규모 언어모델의 개인정보 보호 추론 강화",
-      "summary": "arXiv:2604.20904v1 Announce Type: new Abstract: Information handling practices of LLM agents are broadly misaligned with the contextual privacy expectations of their users. Contextual Integrity (CI) provides a principled framework, defining privacy as the appropriate flow of information within context-relative norms. However, existing approaches either double inference cost via supervisor-assistant architectures, or fine-tune on narrow task-specific data. We propose extracting normative simulacra (structured representations of norms and information flows) from fiction novels and using them to ",
-      "aiSummary": "This research addresses the misalignment between large language models' (LLM) information handling practices and users' contextual privacy expectations. Utilizing Contextual Integrity theory, researchers proposed extracting normative simulacra—structured representations of norms and information flows—from fiction novels to train LLMs for better privacy reasoning. Existing approaches have limitations: supervisor-assistant architectures double inference costs, while task-specific fine-tuning lacks generalizability. By leveraging rich fictional narratives as training sources, this method enables more efficient and generalizable privacy-aware reasoning without excessive computational overhead. The research is significant for improving LLM compliance with privacy policies and context-appropriate information handling. However, limitations include questions about the realism of fictional data and whether it adequately represents diverse cultural privacy norms across different contexts.\n\n##",
-      "aiSummaryKo": "본 연구는 대규모언어모델(LLM)이 사용자의 맥락적 개인정보보호 기대치와 맞지 않는 정보 처리 방식을 개선하기 위해 진행되었습니다. 연구진은 맥락적 무결성(Contextual Integrity) 이론을 적용하여, 소설에서 추출한 규범적 시뮬라크라(규범과 정보 흐름의 구조화된 표현)를 LLM에 학습시키는 방법을 제안했습니다. 기존 감독자-조수 구조는 추론 비용을 두 배로 증가시키거나 좁은 작업 데이터로만 미세조정되는 한계가 있었습니다. 본 연구는 픽션 소설이라는 풍부한 자료에서 추출한 규범적 시뮬라크라를 활용함으로써 더 효율적이고 일반화된 개인정보보호 추론을 가능하게 합니다. 이는 LLM의 개인정보보호 정책 준수를 개선하고 맥락에 맞는 정보 처리를 강화하는 데 의의가 있습니다. 다만, 소설 데이터의 현실성과 다양한 문화적 맥락의 포괄성에 대한 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research addresses the misalignment between large language models' (LLM) information handling practices and users' contextual privacy expectations. Utilizing Contextual Integrity theory, researchers proposed extracting normative simulacra—structured representations of norms and information flows—from fiction novels to train LLMs for better privacy reasoning. Existing approaches have limitations: supervisor-assistant architectures double inference costs, while task-specific fine-tuning lacks generalizability. By leveraging rich fictional narratives as training sources, this method enables more efficient and generalizable privacy-aware reasoning without excessive computational overhead. The research is significant for improving LLM compliance with privacy policies and context-appropriate information handling. However, limitations include questions about the realism of fictional data and whether it adequately represents diverse cultural privacy norms across different contexts.\n\n##",
-      "keyPoints": [
-        "**개인정보보호 문제**: LLM의 정보 처리 방식이 사용자의 맥락적 개인정보보호 기대치와 불일치하는 문제 해결 필요 / LLMs' information handling practices are misaligned with contextual privacy expectations",
-        "**혁신적 학습 방법**: 소설 텍스트에서 추출한 규범적 시뮬라크라를 활용하여 효율적인 개인정보보호 추론 구현 / Using normative simulacra from fiction novels enables efficient privacy reasoning without doubling inference costs",
-        "**이론적 기초**: 맥락적 무결성(Contextual Integrity) 프레임워크로 개인정보보호를 맥락 내 정보 흐름의 적절성으로 정의 / Contextual Integrity framework defines privacy as appropriate information flow within context-specific norms",
-        "**연구의 한계**: 소설 데이터의 현실성 및 다양한 문화적·사회적 개인정보보호 규범 포괄 가능성 검증 필요 / Validation needed regarding realism of fictional data and representation of diverse cultural privacy norms"
-      ],
-      "url": "https://arxiv.org/abs/2604.20904",
-      "featured": false
-    },
-    {
-      "id": "365f404bc1c2",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Do Masked Autoencoders Improve Downhole Prediction? An Empirical Study on Real Well Drilling Data",
-      "titleKo": "마스크된 오토인코더가 시추공 예측을 향상시키는가? 실제 유정 시추 데이터에 대한 실증 연구",
-      "summary": "arXiv:2604.20909v1 Announce Type: new Abstract: Downhole drilling telemetry presents a fundamental labeling asymmetry: surface sensor data are generated continuously at 1~Hz, while labeled downhole measurements are costly, intermittent, and scarce. Current machine learning approaches for downhole metric prediction universally adopt fully supervised training from scratch, which is poorly suited to this data regime. We present the first empirical evaluation of masked autoencoder (MAE) pretraining for downhole drilling metric prediction. Using two publicly available Utah FORGE geothermal wells co",
-      "aiSummary": "This study presents the first empirical evaluation of masked autoencoder (MAE) pretraining for downhole drilling metric prediction, addressing a critical data asymmetry problem in the drilling industry. Downhole drilling telemetry exhibits a fundamental labeling asymmetry where surface sensors generate continuous data at 1 Hz frequency, while labeled downhole measurements are costly, intermittent, and extremely scarce. Using publicly available data from two Utah FORGE geothermal wells, researchers evaluated whether MAE pretraining outperforms conventional fully supervised learning approaches. Masked autoencoders use self-supervised learning by intentionally masking portions of input data and learning to reconstruct complete patterns from remaining information, making them well-suited for data-scarce scenarios. The significance of this work lies in improving machine learning approaches for the oil, gas, and geothermal industries to optimize drilling performance and cost-efficiency. However, limitations include the restricted dataset from only two wells and potential variations in geological characteristics and drilling conditions across different regions that could affect generalizability.\n\n##",
-      "aiSummaryKo": "본 연구는 시추공 내부(downhole) 데이터 예측에 마스크된 오토인코더(MAE) 사전학습 기법이 효과적인지를 평가한 첫 번째 경험적 연구입니다. 시추 작업에서 지표면 센서는 초당 1회 빈도로 지속적으로 데이터를 생성하지만, 시추공 내부의 측정값은 비용이 많이 들고 드물게 수집되어 레이블된 데이터가 심각하게 부족한 상황입니다. 연구팀은 미국 유타 주의 FORGE 지열정 2개 우물의 공개 데이터를 활용하여 MAE 사전학습이 완전 지도학습 대비 얼마나 성능을 개선하는지 검증했습니다. 마스크된 오토인코더는 입력 데이터의 일부를 의도적으로 숨긴 후 나머지 데이터만으로 전체 패턴을 학습하는 자기지도학습 기법으로, 레이블 부족 상황에서 효과적입니다. 이 연구는 석유·가스·지열 산업에서 시추 성능 최적화에 필요한 머신러닝 접근법의 한계를 개선하는 데 의의가 있습니다. 다만, 2개 우물의 제한된 데이터셋만 사용했고 다른 지역의 지질학적 특성이나 시추 조건이 다를 수 있다는 점이 한계입니다.\n\n##",
-      "aiSummaryEn": "This study presents the first empirical evaluation of masked autoencoder (MAE) pretraining for downhole drilling metric prediction, addressing a critical data asymmetry problem in the drilling industry. Downhole drilling telemetry exhibits a fundamental labeling asymmetry where surface sensors generate continuous data at 1 Hz frequency, while labeled downhole measurements are costly, intermittent, and extremely scarce. Using publicly available data from two Utah FORGE geothermal wells, researchers evaluated whether MAE pretraining outperforms conventional fully supervised learning approaches. Masked autoencoders use self-supervised learning by intentionally masking portions of input data and learning to reconstruct complete patterns from remaining information, making them well-suited for data-scarce scenarios. The significance of this work lies in improving machine learning approaches for the oil, gas, and geothermal industries to optimize drilling performance and cost-efficiency. However, limitations include the restricted dataset from only two wells and potential variations in geological characteristics and drilling conditions across different regions that could affect generalizability.\n\n##",
-      "keyPoints": [
-        "**데이터 불균형 문제** / Data Asymmetry Problem",
-        "**자기지도학습의 실용화** / Self-Supervised Learning Application",
-        "**산업적 효율성 향상** / Industrial Efficiency Improvement",
-        "**일반화 가능성의 제한** / Limited Generalizability"
-      ],
-      "url": "https://arxiv.org/abs/2604.20909",
-      "featured": false
-    },
-    {
-      "id": "1a16c31acea9",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "FairyFuse: Multiplication-Free LLM Inference on CPUs via Fused Ternary Kernels",
-      "titleKo": "FairyFuse: 융합 삼진 커널을 통한 CPU 상의 곱셈-자유 LLM 추론",
-      "summary": "arXiv:2604.20913v1 Announce Type: new Abstract: Large language models are increasingly deployed on CPU-only platforms where memory bandwidth is the primary bottleneck for autoregressive generation. Weight quantization to four bits or below reduces memory pressure, yet existing systems still dequantize weights and perform floating-point multiplications, limiting the achievable gains. Ternary weights in {-1, 0, +1} provide a more efficient alternative, replacing multiplications with conditional additions, subtractions, or no-ops. While Fairy2i shows that ternary LLMs can match FP16 quality, its ",
-      "aiSummary": "Large language models deployed on CPU-only platforms face significant performance challenges, with memory bandwidth being the primary bottleneck for autoregressive text generation. While existing weight quantization methods reduce weights to four bits or lower, they still require dequantization and floating-point multiplication operations, limiting efficiency gains. This research proposes FairyFuse, which uses ternary weights restricted to {-1, 0, +1} values, replacing costly multiplications with conditional additions, subtractions, or no-operations. Previous work (Fairy2i) demonstrated that ternary LLMs can maintain FP16 quality, but practical implementation efficiency remained challenging. FairyFuse addresses this gap through fused kernel implementation that dramatically accelerates CPU-based LLM inference by eliminating multiplication operations. This work has significant implications for democratizing AI by enabling deployment of high-performance language models on edge devices and resource-constrained environments. However, limitations include potential information loss from ternary quantization and the need for broader compatibility testing across diverse CPU architectures.\n\n##",
-      "aiSummaryKo": "대규모 언어모델(LLM)은 CPU 환경에서 메모리 대역폭이 성능의 주요 병목이 되고 있다. 기존 4비트 이하의 양자화 기법도 여전히 가중치를 부동소수점으로 변환한 후 곱셈 연산을 수행하기 때문에 효율성이 제한적이다. 이 연구는 가중치를 {-1, 0, +1} 삼진값으로 제한하고 곱셈을 조건부 덧셈/뺄셈 또는 무연산으로 대체하는 FairyFuse 기법을 제안한다. 이는 메모리 접근을 줄이고 CPU에서 더 빠른 처리를 가능하게 한다. Fairy2i 연구에서 삼진 LLM이 FP16(16비트 부동소수점) 품질을 유지할 수 있음이 입증되었으나, 실제 구현 단계에서의 효율성 문제가 남아있었다. FairyFuse는 삼진 가중치를 활용한 융합 커널(fused kernel) 구현으로 CPU 기반 LLM 추론을 비약적으로 가속화하는 것을 목표로 한다. 이 연구는 엣지 디바이스에서 고성능 AI 모델 배포를 가능하게 함으로써 AI 민주화에 기여할 수 있다. 다만 삼진 양자화 과정에서의 정보손실과 다양한 CPU 아키텍처에서의 호환성이 추가 검증이 필요한 부분이다.\n\n##",
-      "aiSummaryEn": "Large language models deployed on CPU-only platforms face significant performance challenges, with memory bandwidth being the primary bottleneck for autoregressive text generation. While existing weight quantization methods reduce weights to four bits or lower, they still require dequantization and floating-point multiplication operations, limiting efficiency gains. This research proposes FairyFuse, which uses ternary weights restricted to {-1, 0, +1} values, replacing costly multiplications with conditional additions, subtractions, or no-operations. Previous work (Fairy2i) demonstrated that ternary LLMs can maintain FP16 quality, but practical implementation efficiency remained challenging. FairyFuse addresses this gap through fused kernel implementation that dramatically accelerates CPU-based LLM inference by eliminating multiplication operations. This work has significant implications for democratizing AI by enabling deployment of high-performance language models on edge devices and resource-constrained environments. However, limitations include potential information loss from ternary quantization and the need for broader compatibility testing across diverse CPU architectures.\n\n##",
-      "keyPoints": [
-        "**곱셈 제거를 통한 효율성**: 가중치를 {-1, 0, +1} 삼진값으로 제한하여 곱셈 연산을 조건부 덧셈/뺄셈으로 대체, CPU 연산 비용을 획기적으로 감소 / **Multiplication Elimination**: Restricting weights to ternary values {-1, 0, +1} replaces expensive multiplications with conditional additions/subtractions, drastically reducing CPU computational cost",
-        "**메모리 대역폭 최적화**: CPU 환경에서 메모리 접근을 최소화하여 메모리 대역폭이라는 근본적 병목을 해결하고, 자동 회귀 생성 속도 향상 / **Memory Bandwidth Optimization**: Minimizes memory access patterns in CPU environments, addressing the fundamental memory bandwidth bottleneck and improving autoregressive generation speed",
-        "**품질-효율성 균형**: Fairy2i 연구에서 증명된 FP16 수준의 모델 품질 유지를 바탕으로, 실제 구현 단계에서 실용적인 성능 향상 달성 / **Quality-Efficiency Balance**: Builds on Fairy2i's proof that ternary LLMs maintain FP16 quality while achieving practical performance improvements in real implementation",
-        "**엣지 디바이스 배포 가능성**: CPU 기반 추론의 획기적 가속화로 고성능 LLM을 저사양 기기와"
-      ],
-      "url": "https://arxiv.org/abs/2604.20913",
-      "featured": false
-    },
-    {
-      "id": "7794d902f8c9",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "2시간 전 / 2h ago",
-      "title": "Only Brains Align with Brains: Cross-Region Alignment Patterns Expose Limits of Normative Models",
-      "titleKo": "",
-      "summary": "arXiv:2604.21780v1 Announce Type: new Abstract: Neuroscientists and computer vision researchers use model-brain alignment benchmarks to compare artificial and biological vision systems. These benchmarks rank models according to alignment measures such as the similarity of representational geometry or the predictability of neural responses from model activations. However, recent works have identified a number of problems with these rankings, among them their lack of discriminative power and robustness, raising the conceptual question of what it means for a model to be brain-aligned. Here we int",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.21780",
       "featured": false
     }
   ]
