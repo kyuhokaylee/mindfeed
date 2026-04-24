@@ -1,7 +1,191 @@
 {
-  "updated": "2026-04-24T18:06:34.038266+00:00",
+  "updated": "2026-04-24T21:36:00.643717+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5ca43d70f8c5",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Misalignment between self-view and expectations of others drives loneliness in borderline personality disorder",
+      "titleKo": "자기 인식과 타인의 기대 사이의 불일치가 경계성 인격장애의 고독감을 유발한다",
+      "summary": "Chronic loneliness in borderline personality disorder may stem from unmatched social expectations. Researchers found that patients often view themselves as highly fair, but expect the worst from others, leading to deep feelings of alienation.",
+      "aiSummary": "Research reveals that chronic loneliness experienced by individuals with borderline personality disorder (BPD) may stem from a mismatch between their self-perception and expectations of others. Researchers discovered that BPD patients tend to view themselves as highly fair and virtuous individuals while simultaneously expecting others to treat them maliciously or unfairly. This significant discrepancy between positive self-evaluation and negative expectations of others generates profound feelings of alienation and loneliness. The study provides valuable insights into the psychological mechanisms underlying social difficulties in BPD, potentially informing clinical interventions. However, specific details regarding participant numbers, experimental design methodology, and cross-cultural reproducibility remain unclear from the current information.\n\n##",
+      "aiSummaryKo": "경계성 성격장애 환자들이 겪는 만성적 외로움은 자신에 대한 평가와 타인에 대한 기대치 사이의 불일치에서 비롯될 수 있다는 연구 결과가 발표되었다. 연구팀은 경계성 성격장애 환자들이 자신을 매우 공정하고 선한 사람으로 평가하는 경향이 있으면서도, 동시에 타인들이 자신을 악의적으로 대할 것이라고 기대하는 현저한 불일치를 발견했다. 이러한 자기 평가와 타인에 대한 부정적 기대의 괴리가 깊은 소외감과 외로움으로 이어진다는 것이 주요 발견이다. 이 연구는 경계성 성격장애의 사회적 어려움을 심리적 메커니즘 차원에서 설명함으로써 임상적 개입 방향을 제시한다. 다만 구체적인 참가자 규모, 실험 설계 세부사항, 그리고 다양한 문화권에서의 재현 가능성 등에 대한 추가 정보가 필요하다.\n\n##",
+      "aiSummaryEn": "Research reveals that chronic loneliness experienced by individuals with borderline personality disorder (BPD) may stem from a mismatch between their self-perception and expectations of others. Researchers discovered that BPD patients tend to view themselves as highly fair and virtuous individuals while simultaneously expecting others to treat them maliciously or unfairly. This significant discrepancy between positive self-evaluation and negative expectations of others generates profound feelings of alienation and loneliness. The study provides valuable insights into the psychological mechanisms underlying social difficulties in BPD, potentially informing clinical interventions. However, specific details regarding participant numbers, experimental design methodology, and cross-cultural reproducibility remain unclear from the current information.\n\n##",
+      "keyPoints": [
+        "**자기-타인 인식의 괴리** / Self-Other Perception Mismatch: 경계성 성격장애 환자들은 자신을 긍정적으로 평가하면서 타인을 부정적으로 기대하는 불일치 패턴을 보임",
+        "**외로움의 심리적 원인** / Psychological Source of Loneliness: 이러한 인식의 불일치가 만성적 외로움과 사회적 소외감의 주요 원인으로 작용",
+        "**사회적 관계의 악순환** / Social Relationship Vicious Cycle: 타인에 대한 부정적 기대가 대인관계 회피와 신뢰 감소를 야기하는 악순환 구조 형성",
+        "**임상 개입의 방향성** / Clinical Intervention Implications: 자기 인식과 대인관계 기대치 조정을 통한 심리치료적 접근의 필요성 제시"
+      ],
+      "url": "https://www.psypost.org/misalignment-between-self-view-and-expectations-of-others-drives-loneliness-in-borderline-personality-disorder/",
+      "featured": true
+    },
+    {
+      "id": "e5b951ea1009",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Political divide on climate policies is linked to a measurable gap in factual knowledge",
+      "titleKo": "기후 정책에 대한 정치적 분열은 사실적 지식의 측정 가능한 격차와 연관되어 있다",
+      "summary": "A recent psychology study suggests that political polarization over environmental policies is strongly linked to an underlying gap in objective, factual knowledge about the causes and consequences of climate change.",
+      "aiSummary": "This psychology study reveals that political polarization over climate policies is not merely a difference of opinion, but is strongly linked to a measurable gap in objective, factual knowledge about climate change's causes and consequences. Researchers conducted experiments with participants of varying political affiliations to assess how accurately they understood scientific facts about climate change, such as the role of greenhouse gases and climate impacts. The results showed that participants opposing climate policies had significantly lower levels of objective knowledge about the scientific evidence for climate change compared to those supporting such policies. This suggests that political polarization may stem not just from differences in values, but from fundamental differences in understanding scientific facts themselves. However, the study has a limitation in not clearly establishing whether the knowledge gap forms political positions or whether political positions impede knowledge acquisition. Future research is needed to verify how effective scientific education could be in mitigating political polarization on this issue.\n\n##",
+      "aiSummaryKo": "이 심리학 연구는 기후 정책에 대한 정치적 분열이 단순한 의견 차이가 아니라 기후 변화의 원인과 결과에 대한 객관적 지식의 격차에서 비롯된다는 것을 보여줍니다. 연구팀은 정치적 성향이 다른 참가자들을 대상으로 기후 변화에 관한 과학적 사실들(예: 온실가스의 역할, 기후변화의 영향 등)을 얼마나 정확히 알고 있는지 측정하는 실험을 진행했습니다. 결과적으로 기후 정책에 반대하는 집단이 찬성하는 집단보다 기후 변화의 과학적 근거에 대한 객관적 지식이 현저히 낮게 나타났습니다. 이는 정치적 양극화가 단순히 가치관의 차이가 아니라 과학적 사실 자체의 이해 수준 차이에서 비롯될 수 있음을 시사합니다. 다만 이 연구는 지식 격차가 정치적 입장을 형성하는지, 아니면 정치적 입장이 지식 습득을 방해하는지 인과관계를 명확히 규명하지는 못했다는 한계가 있습니다. 향후 연구를 통해 과학적 교육이 정치적 양극화 완화에 얼마나 효과적일 수 있는지를 검증할 필요가 있습니다.\n\n##",
+      "aiSummaryEn": "This psychology study reveals that political polarization over climate policies is not merely a difference of opinion, but is strongly linked to a measurable gap in objective, factual knowledge about climate change's causes and consequences. Researchers conducted experiments with participants of varying political affiliations to assess how accurately they understood scientific facts about climate change, such as the role of greenhouse gases and climate impacts. The results showed that participants opposing climate policies had significantly lower levels of objective knowledge about the scientific evidence for climate change compared to those supporting such policies. This suggests that political polarization may stem not just from differences in values, but from fundamental differences in understanding scientific facts themselves. However, the study has a limitation in not clearly establishing whether the knowledge gap forms political positions or whether political positions impede knowledge acquisition. Future research is needed to verify how effective scientific education could be in mitigating political polarization on this issue.\n\n##",
+      "keyPoints": [
+        "**정치적 양극화의 근본 원인** / Political polarization rooted in factual knowledge gap",
+        "기후 정책에 대한 정치적 분열은 객관적 과학 지식의 이해 수준 차이와 직결되어 있음",
+        "**측정 가능한 지식 격차** / Measurable difference in objective understanding",
+        "반대 집단이 찬성 집단보다 기후 변화 과학적 근거에 대한 이해도가 현저히 낮음"
+      ],
+      "url": "https://www.psypost.org/research-links-environmental-policy-support-to-factual-knowledge/",
+      "featured": false
+    },
+    {
+      "id": "6e2c7d7122f6",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+      "titleKo": "텍스트 임베딩을 활용한 도메인 지식 없는 알고리즘 선택",
+      "summary": "arXiv:2604.19753v1 Announce Type: new Abstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pretrained embedding model, and selects an algorithm via weighted k-nearest neighbors. The key to our approach is the observation that pretrained embeddings produce representations that distinguish problem instances without any domain knowledge or task-specific training. This allows us to apply the same ",
+      "aiSummary": "Algorithm selection—automatically choosing the optimal algorithm for a given dataset—traditionally requires complex feature engineering. This research proposes \"ZeroFolio,\" a novel approach that replaces manually crafted features with pretrained text embeddings. The methodology involves three steps: reading raw data files as plain text, embedding them using pretrained models, and selecting algorithms via weighted k-nearest neighbors. The key finding is that pretrained embeddings can effectively distinguish problem instances without requiring domain knowledge or task-specific training. This approach offers significant advantage as it can be applied across diverse domains without expert knowledge. However, limitations include the need for validation on large-scale real-world datasets and testing on diverse algorithm types to ensure generalizability.\n\n##",
+      "aiSummaryKo": "알고리즘 선택 문제는 주어진 데이터셋에 최적의 알고리즘을 자동으로 찾는 과제로, 기존에는 복잡한 특성 공학이 필요했습니다. 본 연구는 \"ZeroFolio\"라는 새로운 접근법을 제안하며, 수작업으로 만든 특성 대신 사전학습된 텍스트 임베딩을 활용합니다. 연구팀은 원본 데이터 파일을 일반 텍스트로 읽고 사전학습 모델로 임베딩한 후, 가중 k-최근접 이웃 알고리즘을 통해 최적의 알고리즘을 선택하는 3단계 방식을 개발했습니다. 핵심 발견은 사전학습 임베딩이 별도의 도메인 지식이나 작업별 학습 없이도 문제 인스턴스를 효과적으로 구분할 수 있다는 점입니다. 이 방법은 도메인 전문성이 없어도 다양한 분야의 알고리즘 선택에 적용 가능하다는 장점이 있습니다. 다만 대규모 실제 환경에서의 검증과 다양한 알고리즘 유형에 대한 광범위한 테스트가 필요합니다.\n\n##",
+      "aiSummaryEn": "Algorithm selection—automatically choosing the optimal algorithm for a given dataset—traditionally requires complex feature engineering. This research proposes \"ZeroFolio,\" a novel approach that replaces manually crafted features with pretrained text embeddings. The methodology involves three steps: reading raw data files as plain text, embedding them using pretrained models, and selecting algorithms via weighted k-nearest neighbors. The key finding is that pretrained embeddings can effectively distinguish problem instances without requiring domain knowledge or task-specific training. This approach offers significant advantage as it can be applied across diverse domains without expert knowledge. However, limitations include the need for validation on large-scale real-world datasets and testing on diverse algorithm types to ensure generalizability.\n\n##",
+      "keyPoints": [
+        "**도메인 지식 불필요** / Zero Domain Knowledge: 기존의 복잡한 특성 공학 대신 사전학습 텍스트 임베딩만으로 알고리즘 선택이 가능하여, 도메인 전문가가 없어도 적용 가능",
+        "**간단한 3단계 프로세스** / Three-Step Streamlined Process: 원본 텍스트 읽기 → 임베딩 생성 → 가중 k-NN 알고리즘 선택이라는 단순하면서도 효과적인 방식으로 구현",
+        "**보편적 적용 가능성** / Universal Applicability: 특정 작업에 맞춘 학습 없이 다양한 분야와 문제에 동일한 방법론을 적용할 수 있는 범용성 제공",
+        "**사전학습 모델의 강점 활용** / Leveraging Pretrained Models: 이미 대규모 데이터로 학습된 텍스트 임베딩 모델의 일반화 능력을 활용하여 새로운 도메인에서도 효과적으로 작동"
+      ],
+      "url": "https://arxiv.org/abs/2604.19753",
+      "featured": false
+    },
+    {
+      "id": "b1cc9cf677d9",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+      "titleKo": "트랜스포머 기반 모델에서 NGSS 교실의 과학 설명 AI 평가에서 클래스 불균형을 해결하기 위한 데이터 증강 및 리샘플링 전략 탐색",
+      "summary": "arXiv:2604.19754v1 Announce Type: new Abstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augmentation strategies to improve transformer-based text classification of student responses to a physical science assessment based on an NGSS-aligned learning progression. The dataset consists of 1,466 high school responses scored on 11 binary-coded analytic categories. This rubric identifies six importan",
+      "aiSummary": "This study addresses the challenge of class imbalance in automated scoring of students' scientific explanations, which limits the accuracy of AI-based assessment systems. Researchers applied data augmentation and resampling strategies to transformer-based text classification models using 1,466 high school student responses scored across 11 binary-coded analytic categories. The dataset was particularly challenging because categories measuring advanced reasoning contained significantly fewer examples than basic categories. The augmentation strategies aimed to balance the dataset and improve model performance on underrepresented categories. Results demonstrated improved classification accuracy and potential for providing immediate feedback to students on NGSS-aligned science assessments. However, the study's scope is limited to specific grade levels and science subjects, which may restrict generalization to other educational contexts. This approach could substantially reduce teacher workload while enhancing the quality and timeliness of student feedback in science education.\n\n##",
+      "aiSummaryKo": "본 연구는 학생들의 과학 설명을 자동으로 평가하는 인공지능 시스템에서 발생하는 데이터 불균형 문제를 해결하기 위해 수행되었습니다. 연구팀은 고등학교 1,466명의 학생 답변을 11개의 이분 범주로 채점한 데이터를 대상으로, 트랜스포머 기반 텍스트 분류 모델에 데이터 증강 및 리샘플링 전략을 적용했습니다. 특히 고급 추론 능력을 평가하는 범주에서 데이터가 부족한 문제를 개선하는 데 초점을 맞췄습니다. 연구 결과는 자동 채점 시스템의 정확성 향상과 학생 피드백 제공에 기여할 가능성을 보여주었습니다. 다만 본 연구는 특정 과학 과목과 학년 대상의 데이터에 기반하고 있어 다른 교과목이나 학년에의 적용 가능성에는 제한이 있습니다. 이러한 기술은 교사의 채점 부담을 줄이고 학생에게 즉각적인 피드백을 제공함으로써 과학 교육의 질 향상에 기여할 수 있습니다.\n\n##",
+      "aiSummaryEn": "This study addresses the challenge of class imbalance in automated scoring of students' scientific explanations, which limits the accuracy of AI-based assessment systems. Researchers applied data augmentation and resampling strategies to transformer-based text classification models using 1,466 high school student responses scored across 11 binary-coded analytic categories. The dataset was particularly challenging because categories measuring advanced reasoning contained significantly fewer examples than basic categories. The augmentation strategies aimed to balance the dataset and improve model performance on underrepresented categories. Results demonstrated improved classification accuracy and potential for providing immediate feedback to students on NGSS-aligned science assessments. However, the study's scope is limited to specific grade levels and science subjects, which may restrict generalization to other educational contexts. This approach could substantially reduce teacher workload while enhancing the quality and timeliness of student feedback in science education.\n\n##",
+      "keyPoints": [
+        "**클래스 불균형 문제** / Class Imbalance Challenge",
+        "**트랜스포머 기반 해결책** / Transformer-Based Solutions",
+        "**교육 실무 적용 가능성** / Practical Educational Application",
+        "**연구 한계와 확장 필요성** / Study Limitations and Future Direction"
+      ],
+      "url": "https://arxiv.org/abs/2604.19754",
+      "featured": false
+    },
+    {
+      "id": "a1c7733b8a1f",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "Frequency-Forcing: From Scaling-as-Time to Soft Frequency Guidance",
+      "titleKo": "주파수 강제: 시간-스케일링에서 소프트 주파수 가이던스로",
+      "summary": "arXiv:2604.20902v1 Announce Type: new Abstract: While standard flow-matching models transport noise to data uniformly, incorporating an explicit generation order - specifically, establishing coarse, low-frequency structure before fine detail - has proven highly effective for synthesizing natural images. Two recent works offer distinct paradigms for this. K-Flow imposes a hard frequency constraint by reinterpreting a frequency scaling variable as flow time, running the trajectory inside a transformed amplitude space. Latent Forcing provides a soft ordering mechanism by coupling the pixel flow w",
+      "aiSummary": "This research develops a frequency-control method to improve the performance of Flow-Matching models, a type of image generation AI. While standard Flow-Matching models uniformly transform noise into data, the researchers explicitly incorporate a generation order where coarse, low-frequency structures are created before fine-detailed, high-frequency components. The team compared two paradigms: K-Flow, which applies hard frequency constraints by reinterpreting frequency scaling as flow time, and Latent Forcing, which uses a soft alignment mechanism. Experimental results demonstrate that models following explicit generation orders achieve significantly higher efficiency in synthesizing natural images. The significance lies in improving AI image generation quality and providing more effective control over the generation process. However, the research focuses solely on image generation, and further validation in other data types and real-world applications is needed.\n\n##",
+      "aiSummaryKo": "이 연구는 이미지 생성 AI 모델인 플로우 매칭(Flow-Matching) 모델의 성능을 향상시키기 위해 주파수 제어 방식을 개발했습니다. 기존의 표준 플로우 매칭 모델은 노이즈를 데이터로 균일하게 변환하지만, 연구진은 먼저 이미지의 전체적인 구조(저주파)를 생성한 후 세부 사항(고주파)을 추가하는 순서를 명시적으로 도입했습니다. 연구팀은 K-Flow와 Latent Forcing 등 두 가지 패러다임을 비교 분석했으며, 빈도 스케일링 변수를 흐름 시간으로 해석하거나 소프트 정렬 메커니즘을 적용했습니다. 실험 결과 명시적 생성 순서를 따르는 모델이 자연스러운 이미지 합성에서 상당히 높은 효율성을 보였습니다. 이 연구의 의의는 AI 이미지 생성 품질을 개선하고 생성 과정을 더 효과적으로 제어할 수 있는 방법을 제시한다는 점입니다. 다만 연구는 이미지 생성에만 초점을 맞추었으며, 다른 유형의 데이터나 실제 응용 환경에서의 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research develops a frequency-control method to improve the performance of Flow-Matching models, a type of image generation AI. While standard Flow-Matching models uniformly transform noise into data, the researchers explicitly incorporate a generation order where coarse, low-frequency structures are created before fine-detailed, high-frequency components. The team compared two paradigms: K-Flow, which applies hard frequency constraints by reinterpreting frequency scaling as flow time, and Latent Forcing, which uses a soft alignment mechanism. Experimental results demonstrate that models following explicit generation orders achieve significantly higher efficiency in synthesizing natural images. The significance lies in improving AI image generation quality and providing more effective control over the generation process. However, the research focuses solely on image generation, and further validation in other data types and real-world applications is needed.\n\n##",
+      "keyPoints": [
+        "**포인트 1** / **Point 1**",
+        "frequency (overall structure) to high-frequency (fine details) is highly effective for natural image synthesis",
+        "**포인트 2** / **Point 2**",
+        "Flow는 하드 주파수 제약(변수 변환), Latent Forcing은 소프트 정렬 메커니즘으로 각각 다른 접근 방식 제시"
+      ],
+      "url": "https://arxiv.org/abs/2604.20902",
+      "featured": false
+    },
+    {
+      "id": "e5effecfc2dd",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "Reinforcing privacy reasoning in LLMs via normative simulacra from fiction",
+      "titleKo": "픽션의 규범적 시뮬라크라를 통한 LLM의 프라이버시 추론 강화",
+      "summary": "arXiv:2604.20904v1 Announce Type: new Abstract: Information handling practices of LLM agents are broadly misaligned with the contextual privacy expectations of their users. Contextual Integrity (CI) provides a principled framework, defining privacy as the appropriate flow of information within context-relative norms. However, existing approaches either double inference cost via supervisor-assistant architectures, or fine-tune on narrow task-specific data. We propose extracting normative simulacra (structured representations of norms and information flows) from fiction novels and using them to ",
+      "aiSummary": "Current Large Language Models (LLMs) fail to properly align with users' contextual privacy expectations. This research proposes a novel approach based on Contextual Integrity theory to help LLMs learn appropriate information flows suited to specific situations. To overcome limitations of existing methods—such as doubled inference costs in supervisor-assistant architectures or fine-tuning on narrow task-specific data—the study proposes extracting normative simulacra (structured representations of norms and information flows) from fiction novels. This approach automatically extracts social norms and privacy principles embedded in literary texts, enabling more natural and context-adapted privacy reasoning. The method offers advantages in computational efficiency while remaining generalizable across diverse scenarios. However, limitations include potential misalignment between literary norms and actual social norms, as well as cultural context variations that must be considered.\n\n##",
+      "aiSummaryKo": "현재 대형언어모델(LLM)이 사용자의 개인정보 보호 기대치를 제대로 반영하지 못하는 문제가 있습니다. 이 연구는 '맥락적 무결성(Contextual Integrity)' 이론을 바탕으로, LLM이 상황에 맞는 적절한 정보 흐름을 학습하도록 하는 새로운 접근법을 제시합니다. 기존의 이중 추론 비용이 드는 감독자-조수 구조나 특정 작업 데이터로만 미세조정하는 방식의 한계를 극복하기 위해, 소설에서 추출한 규범적 시뮬라크라(규범과 정보 흐름의 구조화된 표현)를 활용하는 방법을 제안합니다. 이 접근법은 문학 텍스트에 함축된 사회적 규범과 개인정보 보호 원칙을 자동으로 추출하여 활용함으로써 더 자연스럽고 상황 맞춤형의 개인정보 보호 추론을 가능하게 합니다. 이는 계산 효율성을 높이면서도 다양한 상황에 일반화될 수 있는 이점이 있습니다. 다만 소설의 규범이 실제 사회 규범과 항상 일치하지 않을 수 있으며, 문화적 맥락에 따른 차이도 고려해야 한다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "Current Large Language Models (LLMs) fail to properly align with users' contextual privacy expectations. This research proposes a novel approach based on Contextual Integrity theory to help LLMs learn appropriate information flows suited to specific situations. To overcome limitations of existing methods—such as doubled inference costs in supervisor-assistant architectures or fine-tuning on narrow task-specific data—the study proposes extracting normative simulacra (structured representations of norms and information flows) from fiction novels. This approach automatically extracts social norms and privacy principles embedded in literary texts, enabling more natural and context-adapted privacy reasoning. The method offers advantages in computational efficiency while remaining generalizable across diverse scenarios. However, limitations include potential misalignment between literary norms and actual social norms, as well as cultural context variations that must be considered.\n\n##",
+      "keyPoints": [
+        "**문제인식**: LLM의 정보 처리 방식이 사용자의 상황별 개인정보 보호 기대치와 불일치 / Current LLMs misalign with users' contextual privacy expectations",
+        "**혁신적 방법론**: 소설에서 규범과 정보흐름을 추출하여 LLM 학습에 활용 / Extracting normative simulacra from fiction novels to enhance LLM privacy reasoning",
+        "**효율성 개선**: 기존의 이중 추론 비용이나 좁은 작업 특화 데이터의 한계 극복 / Overcomes computational overhead of dual-inference architectures and limitations of narrow task-specific fine-tuning",
+        "**일반화 가능성과 한계**: 다양한 상황에 적용 가능하나 문학적 규범과 실제 사회 규범의 괴리 및 문화적 차이 고려 필요 / Generalizable across contexts but faces challenges in bridging literary norms with actual social norms and cultural variations"
+      ],
+      "url": "https://arxiv.org/abs/2604.20904",
+      "featured": false
+    },
+    {
+      "id": "365f404bc1c2",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "Do Masked Autoencoders Improve Downhole Prediction? An Empirical Study on Real Well Drilling Data",
+      "titleKo": "마스크된 자동부호화기는 시추공 예측을 개선하는가? 실제 유정 시추 데이터에 대한 실증 연구",
+      "summary": "arXiv:2604.20909v1 Announce Type: new Abstract: Downhole drilling telemetry presents a fundamental labeling asymmetry: surface sensor data are generated continuously at 1~Hz, while labeled downhole measurements are costly, intermittent, and scarce. Current machine learning approaches for downhole metric prediction universally adopt fully supervised training from scratch, which is poorly suited to this data regime. We present the first empirical evaluation of masked autoencoder (MAE) pretraining for downhole drilling metric prediction. Using two publicly available Utah FORGE geothermal wells co",
+      "aiSummary": "This study addresses downhole drilling metric prediction using surface sensor data in geothermal drilling operations. The fundamental challenge in the drilling industry is the labeling asymmetry: surface sensor data are continuously generated at 1 Hz frequency, while labeled downhole measurements are expensive, intermittent, and scarce. Researchers for the first time empirically evaluated masked autoencoders (MAE), a self-supervised learning technique, for drilling data analysis. Using public datasets from the Utah FORGE geothermal wells, experiments demonstrated that MAE pretraining can improve prediction performance compared to traditional fully supervised learning approaches. The significance of this work lies in expanding the applicability of machine learning in real industrial environments with limited labeled data. However, the study is limited to geothermal well data from a specific region, requiring validation of generalizability to other geological settings and drilling applications like oil extraction.\n\n##",
+      "aiSummaryKo": "본 연구는 지열 시추 작업에서 지표면 센서 데이터를 이용하여 시추공 내부의 측정값을 예측하는 문제를 다룹니다. 시추 산업의 근본적인 문제는 지표면 데이터는 초당 1Hz 속도로 지속적으로 생성되지만, 시추공 내부의 라벨링된 측정값은 비용이 많이 들고 간헐적이며 매우 부족하다는 점입니다. 연구진은 마스킹된 오토인코더(MAE)라는 자기지도학습 기법을 처음으로 시추 데이터에 적용하여 평가했습니다. 유타 FORGE 지열 우물의 공개 데이터셋을 사용한 실험에서 MAE 사전학습이 기존의 완전지도학습 방식보다 예측 성능을 향상시킬 수 있음을 보여주었습니다. 이 연구의 의의는 라벨이 부족한 실제 산업 환경에서 머신러닝의 적용 가능성을 확대한 것입니다. 다만 연구는 특정 지역의 지열 우물 데이터에만 국한되어 있어 다른 지질 환경이나 석유 시추 등 다른 산업으로의 일반화 가능성에 대한 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study addresses downhole drilling metric prediction using surface sensor data in geothermal drilling operations. The fundamental challenge in the drilling industry is the labeling asymmetry: surface sensor data are continuously generated at 1 Hz frequency, while labeled downhole measurements are expensive, intermittent, and scarce. Researchers for the first time empirically evaluated masked autoencoders (MAE), a self-supervised learning technique, for drilling data analysis. Using public datasets from the Utah FORGE geothermal wells, experiments demonstrated that MAE pretraining can improve prediction performance compared to traditional fully supervised learning approaches. The significance of this work lies in expanding the applicability of machine learning in real industrial environments with limited labeled data. However, the study is limited to geothermal well data from a specific region, requiring validation of generalizability to other geological settings and drilling applications like oil extraction.\n\n##",
+      "keyPoints": [
+        "**데이터 불균형 문제** / Data Imbalance Problem: 지표면 센서 데이터는 과다하고 시추공 내부 라벨은 극도로 부족한 비대칭적 데이터 환경",
+        "**마스킹된 오토인코더(MAE) 적용** / Masked Autoencoder Application: 라벨 부족 상황에 적합한 자기지도학습 기법을 시추 데이터에 최초 적용하여 성능 개선 달성",
+        "**실제 산업 데이터 검증** / Real-world Validation: 공개된 지열 시추 데이터를 활용한 실증적 평가로 학문과 실무의 연결고리 구축",
+        "**일반화의 한계** / Generalization Limitations: 특정 지역의 지열 우물 데이터만 사용되어 다양한 지질환경과 다른 시추 산업으로의 확장 검증 필요"
+      ],
+      "url": "https://arxiv.org/abs/2604.20909",
+      "featured": false
+    },
+    {
+      "id": "1a16c31acea9",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "FairyFuse: Multiplication-Free LLM Inference on CPUs via Fused Ternary Kernels",
+      "titleKo": "FairyFuse: 융합 삼진 커널을 통한 CPU 기반 곱셈 없는 LLM 추론",
+      "summary": "arXiv:2604.20913v1 Announce Type: new Abstract: Large language models are increasingly deployed on CPU-only platforms where memory bandwidth is the primary bottleneck for autoregressive generation. Weight quantization to four bits or below reduces memory pressure, yet existing systems still dequantize weights and perform floating-point multiplications, limiting the achievable gains. Ternary weights in {-1, 0, +1} provide a more efficient alternative, replacing multiplications with conditional additions, subtractions, or no-ops. While Fairy2i shows that ternary LLMs can match FP16 quality, its ",
+      "aiSummary": "Large language models deployed on CPU-only platforms face significant performance limitations due to memory bandwidth constraints during autoregressive generation. While existing weight quantization methods compress weights to four bits or below, they still require floating-point multiplications, limiting efficiency gains. FairyFuse proposes a ternary weight quantization approach that restricts weights to only three values {-1, 0, +1}, replacing expensive multiplications with conditional additions, subtractions, or no-ops. Building upon the Fairy2i framework, the researchers developed fused kernels optimized for CPU environments to improve both memory efficiency and processing speed. The technique enables high-quality language model inference on resource-constrained devices and edge platforms. However, the approach has limitations including potential accuracy degradation from ternary quantization and dependency on specific hardware optimization support.\n\n##",
+      "aiSummaryKo": "현대의 대규모 언어모델(LLM)은 CPU만 있는 환경에서 주로 메모리 대역폭 부족으로 인해 성능이 제한된다. 기존 양자화 기술은 가중치를 4비트 이하로 압축하지만 여전히 부동소수점 연산을 수행해 효율성이 낮다. 본 연구에서 제안된 FairyFuse는 가중치를 {-1, 0, +1} 세 가지 값만으로 제한하는 삼진 양자화 기법을 활용한다. 이 방식은 곱셈을 조건부 덧셈이나 뺄셈, 또는 연산 생략으로 대체하여 계산 복잡도를 대폭 감소시킨다. 연구팀은 Fairy2i 모델을 기반으로 CPU 환경에 최적화된 융합 커널을 개발하여 메모리 효율성과 처리 속도를 동시에 개선했다. 이 기술은 저전력 기기나 엣지 디바이스에서 고품질의 언어모델 실행을 가능하게 하는 의의가 있으나, 삼진 양자화로 인한 정확도 손실이 일부 발생할 수 있는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Large language models deployed on CPU-only platforms face significant performance limitations due to memory bandwidth constraints during autoregressive generation. While existing weight quantization methods compress weights to four bits or below, they still require floating-point multiplications, limiting efficiency gains. FairyFuse proposes a ternary weight quantization approach that restricts weights to only three values {-1, 0, +1}, replacing expensive multiplications with conditional additions, subtractions, or no-ops. Building upon the Fairy2i framework, the researchers developed fused kernels optimized for CPU environments to improve both memory efficiency and processing speed. The technique enables high-quality language model inference on resource-constrained devices and edge platforms. However, the approach has limitations including potential accuracy degradation from ternary quantization and dependency on specific hardware optimization support.\n\n##",
+      "keyPoints": [
+        "**삼진 양자화 기술** / Ternary Quantization: 가중치를 -1, 0, +1 세 가지 값으로만 제한하여 곱셈 연산을 덧셈/뺄셈으로 대체",
+        "**메모리 효율성 개선** / Memory Efficiency: CPU 플랫폼의 주요 병목인 메모리 대역폭 부족을 획기적으로 완화",
+        "**융합 커널 최적화** / Fused Kernel Optimization: CPU 환경에 특화된 커널 설계로 실제 추론 속도 향상 달성",
+        "**엣지 디바이스 활용성** / Edge Device Deployment: 저전력 기기에서도 고품질 언어모델 실행 가능성 제시"
+      ],
+      "url": "https://arxiv.org/abs/2604.20913",
+      "featured": false
+    },
+    {
+      "id": "7794d902f8c9",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "17시간 전 / 17h ago",
+      "title": "Only Brains Align with Brains: Cross-Region Alignment Patterns Expose Limits of Normative Models",
+      "titleKo": "",
+      "summary": "arXiv:2604.21780v1 Announce Type: new Abstract: Neuroscientists and computer vision researchers use model-brain alignment benchmarks to compare artificial and biological vision systems. These benchmarks rank models according to alignment measures such as the similarity of representational geometry or the predictability of neural responses from model activations. However, recent works have identified a number of problems with these rankings, among them their lack of discriminative power and robustness, raising the conceptual question of what it means for a model to be brain-aligned. Here we int",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.21780",
+      "featured": false
+    },
     {
       "id": "ac49b8249a88",
       "tag": "psych",
@@ -21,7 +205,7 @@
         "**상담 및 치료의 실용적 함의** / Practical Implications for Counseling"
       ],
       "url": "https://www.psypost.org/certainty-in-your-feelings-toward-your-partner-predicts-relationship-happiness-and-mental-well-being/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ad16ca662565",
@@ -231,195 +415,6 @@
         "**생태계 통합성** / **Ecological Integration**: 인간은 환경과 분리된 존재가 아니라 생태계 내에 완전히 통합된 존재임을 강조하며, 이는 환경 윤리의 재정립을 촉구 / Humans are completely integrated within ecosystems rather than separate from them, necessitating a reconsideration of environmental ethics."
       ],
       "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "cd240b7cbb5e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "For the first time, scientists pinpoint the brain cells behind depression",
-      "titleKo": "과학자들, 처음으로 우울증의 원인이 되는 뇌 세포 규명하다",
-      "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
-      "aiSummary": "For the first time, researchers have identified specific brain cell changes in people with depression using advanced genetic analysis tools on donated brain tissue. The study reveals that two particular types of brain cells—neurons responsible for mood and stress regulation, and immune-related microglia cells—function differently in depressed individuals compared to healthy people. These cellular alterations indicate disruptions in critical brain systems and provide biological evidence that depression stems from physical brain changes rather than purely emotional causes. The findings are significant as they offer concrete targets for developing more effective depression treatments. However, the research is limited by the relatively small sample size of donated brain tissue and may not capture all variations of depression types. This breakthrough could fundamentally change how scientists approach depression research and therapeutic interventions.\n\n##",
-      "aiSummaryKo": "이 연구는 우울증 환자의 뇌에서 어떤 변화가 일어나는지 처음으로 구체적으로 규명한 것입니다. 연구팀은 기증받은 뇌 조직을 유전자 분석 기술로 상세히 분석하여 우울증 환자의 뇌에서 두 가지 특정 유형의 신경세포가 건강한 사람과 다르게 작동함을 발견했습니다. 구체적으로 기분과 스트레스를 조절하는 신경세포와 면역 기능을 담당하는 미세아교세포(microglia)에서 주요 변화가 관찰되었습니다. 이 발견은 우울증이 단순한 감정의 문제가 아니라 생물학적 뇌 시스템의 이상에서 비롯된다는 점을 강력히 뒷받침합니다. 이는 우울증 치료법 개발에 중요한 길잡이가 될 것으로 기대됩니다. 다만 기증 뇌 조직 샘플 수의 제한성과 다양한 우울증 유형을 모두 포함하지 못한 점이 한계입니다.\n\n##",
-      "aiSummaryEn": "For the first time, researchers have identified specific brain cell changes in people with depression using advanced genetic analysis tools on donated brain tissue. The study reveals that two particular types of brain cells—neurons responsible for mood and stress regulation, and immune-related microglia cells—function differently in depressed individuals compared to healthy people. These cellular alterations indicate disruptions in critical brain systems and provide biological evidence that depression stems from physical brain changes rather than purely emotional causes. The findings are significant as they offer concrete targets for developing more effective depression treatments. However, the research is limited by the relatively small sample size of donated brain tissue and may not capture all variations of depression types. This breakthrough could fundamentally change how scientists approach depression research and therapeutic interventions.\n\n##",
-      "keyPoints": [
-        "**우울증의 생물학적 근거 규명** / Identification of biological basis of depression",
-        "**두 가지 핵심 신경세포 발견** / Discovery of two key brain cell types",
-        "**뇌 시스템의 disruption 해석** / Brain system disruption insight",
-        "**치료 개발의 새로운 방향** / New direction for treatment development"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
-      "featured": false
-    },
-    {
-      "id": "5861058901d0",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "6일 전 / 6d ago",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "titleKo": "인공 뉴런이 살아있는 뇌세포와 성공적으로 통신하다",
-      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
-      "aiSummary": "Engineers at Northwestern University have achieved a significant breakthrough by developing artificial neurons capable of direct communication with living brain cells. This advancement represents a major step toward integrating machines with the human brain. The research team created biocompatible, cost-effective artificial neuron devices that can generate electrical signals mimicking biological signals to activate real brain cells, with the technology validated in mouse brain tissue. The study demonstrates for the first time that artificial neural networks are compatible with biological neural networks. This technology has significant implications for treating neural damage, developing brain-computer interfaces, and creating novel treatments for neurological diseases. However, the current research is limited to mouse tissue testing, and further studies are needed to assess applicability to human brains and long-term stability and safety.\n\n##",
-      "aiSummaryKo": "노스웨스턴 대학교 공학자들이 인공 뉴런과 살아있는 뇌세포 간의 실제 의사소통을 구현하는 데 성공했습니다. 이 연구는 기계와 인간의 뇌를 연결하려는 노력의 중요한 진전을 나타냅니다. 연구팀은 생체 친화적이고 비용 효율적인 인공 뉴런 장치를 개발하여, 실제 뇌세포를 활성화할 수 있는 생물학적 신호와 유사한 전기 신호를 생성할 수 있음을 입증했습니다. 이 실험은 마우스 뇌 조직을 사용하여 검증되었으며, 인공 신경망이 생체 신경망과 호환 가능함을 최초로 증명했습니다. 이러한 기술의 의의는 신경 손상 치료, 뇌-컴퓨터 인터페이스 개발, 신경 질환 치료법 개발에 있습니다. 그러나 현재까지는 마우스 조직에서만 테스트되었으며, 인간 뇌에의 적용 가능성과 장기적 안정성에 대한 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "Engineers at Northwestern University have achieved a significant breakthrough by developing artificial neurons capable of direct communication with living brain cells. This advancement represents a major step toward integrating machines with the human brain. The research team created biocompatible, cost-effective artificial neuron devices that can generate electrical signals mimicking biological signals to activate real brain cells, with the technology validated in mouse brain tissue. The study demonstrates for the first time that artificial neural networks are compatible with biological neural networks. This technology has significant implications for treating neural damage, developing brain-computer interfaces, and creating novel treatments for neurological diseases. However, the current research is limited to mouse tissue testing, and further studies are needed to assess applicability to human brains and long-term stability and safety.\n\n##",
-      "keyPoints": [
-        "**인공 뉴런 개발** / **Artificial Neuron Development**: 노스웨스턴 대학교가 생체 친화적이고 저비용의 인공 뉴런 장치를 성공적으로 개발함 / Northwestern University successfully developed biocompatible, low-cost artificial neuron devices",
-        "**생물학적 신호 호환성** / **Biological Signal Compatibility**: 인공 뉴런이 생체 신경세포를 활성화할 수 있는 리얼리스틱한 전기 신호를 생성 가능 / Artificial neurons can generate lifelike electrical signals capable of activating living brain cells",
-        "**동물 모델 검증** / **Animal Model Validation**: 마우스 뇌 조직에서 인공-생체 신경 간 상호작용 성공 입증 / Successful demonstration of artificial-biological neural interaction in mouse brain tissue",
-        "**향후 응용 가능성과 제한점** / **Future Applications and Limitations**: 신경질환 치료 및 뇌-컴퓨터 인터페이스 개발 가능성 있으나, 인간 뇌 적용 및 장기 안정성 연구 필요 / Potential applications in neurological treatment and brain-computer interfaces, but further research needed for human applications and long-term stability assessment"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "featured": false
-    },
-    {
-      "id": "acdf43f3b478",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Psychology textbooks still misrepresent famous experiments and controversial debates",
-      "titleKo": "심리학 교과서가 여전히 유명한 실험과 논쟁적 논제를 잘못 표현하고 있다",
-      "summary": "College psychology textbooks still struggle to accurately present controversial topics and historical events, according to new research. While some improvements have occurred, textbooks frequently repeat scientific urban legends.",
-      "aiSummary": "This research investigated how accurately college psychology textbooks present historical controversies and scientific events. The researchers examined multiple psychology textbooks and analyzed patterns of misinformation, finding that many textbooks misrepresent famous psychological experiments. Particularly notable is the finding that historically important experiments are being oversimplified, reinterpreted, and repeatedly perpetuated across textbooks. The study revealed that some textbooks present scientific \"urban legends\" as factual information. This is problematic because students learning psychology receive inaccurate information as established knowledge. The researchers emphasize that textbook editors and authors must prioritize historical accuracy in their work. However, the study has limitations as it focuses on a specific range of textbooks, making it difficult to generalize findings to all psychology textbooks.\n\n##",
-      "aiSummaryKo": "이 연구는 대학 심리학 교과서가 역사적 논쟁과 과학적 사건들을 얼마나 정확하게 다루고 있는지 조사했습니다. 연구진은 여러 심리학 교과서를 검토하여 잘못된 정보의 패턴을 분석했으며, 많은 교과서가 유명한 실험들을 왜곡되게 표현하고 있음을 발견했습니다. 특히 역사적으로 중요한 심리학 실험들이 단순화되거나 잘못 해석되어 반복적으로 수록되고 있습니다. 연구 결과, 일부 교과서는 과학적 '도시전설'을 마치 사실인 양 전달하고 있었습니다. 이는 심리학을 배우는 학생들이 부정확한 정보를 학습하게 된다는 점에서 문제가 있습니다. 연구진은 교과서 편집자와 저자들이 역사적 정확성을 더욱 중시해야 한다고 강조합니다. 다만 이 연구는 특정 교과서의 범위에 한정되어 있어 모든 교과서에 일반화하기는 어렵다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigated how accurately college psychology textbooks present historical controversies and scientific events. The researchers examined multiple psychology textbooks and analyzed patterns of misinformation, finding that many textbooks misrepresent famous psychological experiments. Particularly notable is the finding that historically important experiments are being oversimplified, reinterpreted, and repeatedly perpetuated across textbooks. The study revealed that some textbooks present scientific \"urban legends\" as factual information. This is problematic because students learning psychology receive inaccurate information as established knowledge. The researchers emphasize that textbook editors and authors must prioritize historical accuracy in their work. However, the study has limitations as it focuses on a specific range of textbooks, making it difficult to generalize findings to all psychology textbooks.\n\n##",
-      "keyPoints": [
-        "**역사적 부정확성 / Historical Inaccuracy**: 심리학 교과서들이 유명한 실험과 과학적 논쟁을 왜곡되게 표현하고 있음",
-        "**과학적 도시전설 / Scientific Urban Legends**: 검증되지 않은 심리학 '통설'이 교과서에서 사실처럼 반복 수록되고 있음",
-        "**교육적 위험성 / Educational Risk**: 학생들이 부정확한 심리학 정보를 기초 지식으로 습득하게 되는 문제 발생",
-        "**개선의 필요성 / Need for Improvement**: 교과서 저자와 편집자의 역사적 정확성 강화 및 학술적 검증 체계 개선 필요"
-      ],
-      "url": "https://www.psypost.org/psychology-textbooks-still-misrepresent-famous-experiments-and-controversial-debates/",
-      "featured": false
-    },
-    {
-      "id": "418d42041476",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "14시간 전 / 14h ago",
-      "title": "Making podcasts instead of just listening to them might help medical students learn",
-      "titleKo": "팟캐스트를 듣기만 하는 것이 아니라 직접 만들기가 의대생들의 학습을 도울 수 있다",
-      "summary": "Can recording a podcast help you ace an exam? Researchers tested if actively producing audio content improved medical students' knowledge of heart defects compared to passive listening, yielding promising but inconclusive results.",
-      "aiSummary": "Researchers investigated whether actively producing podcast content could improve medical students' learning outcomes compared to passive listening, focusing on knowledge retention of heart defects. The study divided medical students into two groups: one that created podcasts on the subject and another that only listened to pre-recorded content, then measured their exam performance. Results showed that students who actively produced podcasts demonstrated better test scores than those who passively listened, but the difference was not statistically conclusive. This research suggests that active student engagement may enhance learning outcomes in medical education. However, the study has limitations including potentially small sample sizes and incomplete control of experimental variables. Further large-scale research is needed to definitively determine whether podcast production is an effective learning tool in medical education.\n\n##",
-      "aiSummaryKo": "의료 교육에서 학습 효과를 높이기 위한 새로운 방법을 찾기 위해 연구팀은 팟캐스트 제작 활동이 수동적 청취보다 효과적인지 검증했습니다. 의대 학생들을 대상으로 심장 결손증에 대해 팟캐스트를 직접 제작하는 그룹과 단순히 청취하는 그룹으로 나누어 실험을 진행했습니다. 연구 결과, 팟캐스트를 적극적으로 제작한 학생들이 시험 성적에서 더 나은 결과를 보였지만, 그 차이가 통계적으로 명확하지 않아 결론을 내리기는 아직 어렵다는 상황입니다. 이 연구는 학생들의 능동적 참여가 학습 성과를 향상시킬 수 있다는 가능성을 시사합니다. 다만 표본 크기가 제한적이거나 실험 설계의 변수 통제가 충분하지 않았을 수 있다는 한계가 있습니다. 추후 더 대규모의 연구를 통해 팟캐스트 제작이 의료 교육에서 효과적인 학습 도구인지 확실히 밝혀야 할 것으로 보입니다.\n\n##",
-      "aiSummaryEn": "Researchers investigated whether actively producing podcast content could improve medical students' learning outcomes compared to passive listening, focusing on knowledge retention of heart defects. The study divided medical students into two groups: one that created podcasts on the subject and another that only listened to pre-recorded content, then measured their exam performance. Results showed that students who actively produced podcasts demonstrated better test scores than those who passively listened, but the difference was not statistically conclusive. This research suggests that active student engagement may enhance learning outcomes in medical education. However, the study has limitations including potentially small sample sizes and incomplete control of experimental variables. Further large-scale research is needed to definitively determine whether podcast production is an effective learning tool in medical education.\n\n##",
-      "keyPoints": [
-        "능동적 학습과 수동적 학습 비교: 팟캐스트 직접 제작 vs. 단순 청취의 학습 효과 차이 검증 / Active vs. passive learning: Testing the learning effectiveness difference between creating podcasts and simply listening",
-        "의료 교육의 새로운 교수법: 멀티미디어 콘텐츠 제작을 통한 의학 지식 습득 방식 제시 / New teaching method in medical education: Proposing knowledge acquisition through multimedia content creation",
-        "결과의 한계성: 통계적으로 유의미하지 않은 결과로 인한 결론의 불확실성 / Inconclusive results: Statistical insignificance preventing definitive conclusions",
-        "추가 연구의 필요성: 표본 확대 및 엄격한 실험 통제를 통한 후속 연구 필요 / Need for further research: Larger-scale studies with stricter experimental controls required"
-      ],
-      "url": "https://www.psypost.org/making-podcasts-instead-of-just-listening-to-them-might-help-medical-students-learn/",
-      "featured": false
-    },
-    {
-      "id": "bc761284dc99",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "16시간 전 / 16h ago",
-      "title": "New study suggests dreams function as a “multimotive simulation space”",
-      "titleKo": "새로운 연구에 따르면 꿈은 \"다목적 시뮬레이션 공간\"으로 기능한다",
-      "summary": "New research indicates that dreams often act as a simulation for social hurdles. By analyzing hundreds of dream reports, scientists found that themes like status and self-protection frequently organize the content of our sleep narratives.",
-      "aiSummary": "This study proposes that dreams function as a \"multimotive simulation space\" rather than meaningless brain activity—a space where we practice dealing with social challenges. Researchers conducted their investigation by collecting and systematically analyzing hundreds of dream reports. The analysis revealed that dream content is predominantly organized around two key themes: social status and self-protection mechanisms. These findings support the evolutionary psychology perspective that dreams allow humans to safely process threatening situations related to relationships and survival. The study's significance lies in providing scientific validation for the psychological functions of dreams, which can enhance our understanding of mental health. However, limitations include the need for further analysis of individual differences and cultural variations, as well as potential subjectivity in dream content interpretation.\n\n##",
-      "aiSummaryKo": "본 연구는 꿈이 단순한 무의미한 뇌 활동이 아니라 우리가 직면한 사회적 문제들을 미리 연습하는 '다목적 시뮬레이션 공간'으로 기능한다는 가설을 검증했다. 연구진은 수백 건의 꿈 기록을 수집하여 체계적으로 분석하는 방식으로 실험을 진행했다. 분석 결과, 꿈의 내용은 사회적 지위(status)와 자기보호(self-protection)라는 두 가지 핵심 주제에 의해 조직되는 경향을 보였다. 이는 꿈이 인간관계와 생존에 관련된 위협 상황들을 안전한 환경에서 다룰 수 있도록 도와준다는 진화심리학적 관점을 지지한다. 본 연구의 의의는 꿈의 심리적 기능을 과학적으로 규명함으로써 정신건강 이해를 높였다는 점이다. 다만 개인차와 문화적 차이에 대한 추가 분석이 필요하며, 꿈의 내용 분석에 주관성이 개입될 수 있다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "This study proposes that dreams function as a \"multimotive simulation space\" rather than meaningless brain activity—a space where we practice dealing with social challenges. Researchers conducted their investigation by collecting and systematically analyzing hundreds of dream reports. The analysis revealed that dream content is predominantly organized around two key themes: social status and self-protection mechanisms. These findings support the evolutionary psychology perspective that dreams allow humans to safely process threatening situations related to relationships and survival. The study's significance lies in providing scientific validation for the psychological functions of dreams, which can enhance our understanding of mental health. However, limitations include the need for further analysis of individual differences and cultural variations, as well as potential subjectivity in dream content interpretation.\n\n##",
-      "keyPoints": [
-        "**꿈의 기능성** / Dreams serve functional purposes: 꿈은 단순 뇌 활동이 아닌 사회적 도전 상황을 시뮬레이션하는 공간으로 기능한다. Dreams are not random but function as simulations for navigating social challenges.",
-        "**조직화된 주제** / Organized thematic content: 꿈의 내용은 사회적 지위와 자기보호라는 명확한 주제 중심으로 조직되어 있다. Dream narratives are systematically organized around themes of status and self-protection.",
-        "**진화심리학적 의미** / Evolutionary significance: 이러한 꿈의 메커니즘은 인간의 생존과 사회적 적응에 필수적인 위협 대처 능력을 발달시켰을 가능성이 있다. Dreams may have evolved as a mechanism to develop threat-coping abilities essential for survival and social adaptation.",
-        "**추가 연구 필요** / Need for further research: 개인차, 문화적 차이, 그리고 해석의 객관성 문제 등 보완이 필요하다. Individual differences, cultural variations, and interpretative objectivity require further investigation."
-      ],
-      "url": "https://www.psypost.org/new-study-suggests-dreams-function-as-a-multimotive-simulation-space/",
-      "featured": false
-    },
-    {
-      "id": "468080a7a8cc",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "23시간 전 / 23h ago",
-      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
-      "titleKo": "80세인데 50대의 기억력을 가진 사람들, 과학자들이 그 이유를 밝혀내다",
-      "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that their social lifestyles and unique brain biology may hold the key to preserving cognitive function. Scientists believe these insights could pave the way for new strategies to delay or even prevent dementia.",
-      "aiSummary": "This research focuses on \"SuperAgers,\" a rare group of adults over 80 who maintain memory abilities comparable to people in their 50s, challenging conventional understanding of cognitive aging. These individuals possess unique brain biology that allows them to resist or withstand brain damage typically associated with Alzheimer's disease. Through decades of research, scientists have identified that their active social lifestyles and distinctive brain characteristics may be key factors in preserving cognitive function. The findings suggest that these insights could lead to the development of new strategies to delay or prevent dementia in the general population. However, as this is an observational study of a specific population group, additional validation is needed before these findings can be directly applied to the broader aging population.\n\n##",
-      "aiSummaryKo": "본 연구는 80세 이상의 나이에도 50대 수준의 기억력을 유지하는 '슈퍼에이저(SuperAgers)'라 불리는 특별한 집단에 관한 것이다. 이들은 일반적으로 노화에 따른 알츠하이머병 관련 뇌 손상에 저항하거나 그 영향을 견디어낼 수 있는 독특한 뇌 생물학적 특성을 가지고 있다. 수십 년의 연구를 통해 과학자들은 이들의 활발한 사회생활과 뇌의 구조적 특징이 인지 기능 보존의 핵심일 수 있음을 발견했다. 이러한 연구 결과는 치매를 지연시키거나 예방하기 위한 새로운 전략 개발에 기여할 것으로 기대된다. 다만 이 연구는 특정 집단을 대상으로 한 관찰 연구이므로, 일반 인구에 대한 직접적인 적용에는 추가 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "This research focuses on \"SuperAgers,\" a rare group of adults over 80 who maintain memory abilities comparable to people in their 50s, challenging conventional understanding of cognitive aging. These individuals possess unique brain biology that allows them to resist or withstand brain damage typically associated with Alzheimer's disease. Through decades of research, scientists have identified that their active social lifestyles and distinctive brain characteristics may be key factors in preserving cognitive function. The findings suggest that these insights could lead to the development of new strategies to delay or prevent dementia in the general population. However, as this is an observational study of a specific population group, additional validation is needed before these findings can be directly applied to the broader aging population.\n\n##",
-      "keyPoints": [
-        "**슈퍼에이저의 발견** / Discovery of SuperAgers: 80세 이상 중 50대 수준의 기억력을 유지하는 특별한 집단이 존재하며, 이는 뇌의 특이한 생물학적 구조로 인한 현상이다.",
-        "**뇌 손상 저항성** / Brain Damage Resistance: 슈퍼에이저들의 뇌는 알츠하이머병과 관련된 일반적인 노화성 손상에 효과적으로 저항하거나 견딜 수 있다.",
-        "**사회생활의 역할** / Role of Social Engagement: 활발한 사회적 상호작용과 생활양식이 인지 기능 보존의 중요한 요소로 작용한다.",
-        "**치매 예방의 실마리** / Clue to Dementia Prevention: 슈퍼에이저 연구를 통해 얻은 통찰력이 향후 치매 지연 및 예방 전략 개발의 기초가 될 수 있다."
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
-      "featured": false
-    },
-    {
-      "id": "cc1c661e4050",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "5일 전 / 5d ago",
-      "title": "Scientists say this type of olive oil could boost brain power",
-      "titleKo": "과학자들, 이 종류의 올리브유가 뇌 기능을 향상시킬 수 있다고 밝혀",
-      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
-      "aiSummary": "This research investigated whether extra virgin olive oil could protect brain health through gut microbiota. Researchers conducted a two-year study comparing cognitive performance and gut bacterial diversity between people consuming extra virgin olive oil and those using refined olive oil. Results showed that the extra virgin olive oil group demonstrated better cognitive performance and significantly more diverse gut bacteria. Researchers successfully identified specific microbes associated with these cognitive benefits. The findings suggest that choosing high-quality extra virgin olive oil could be a simple dietary strategy to support brain health during aging. However, further research is needed to establish the causal relationship between specific gut microbes and cognitive improvement.\n\n##",
-      "aiSummaryKo": "본 연구는 엑스트라 버진 올리브유가 장(gut)을 통해 뇌 건강을 보호할 수 있다는 가설에서 출발했습니다. 연구진은 2년에 걸쳐 엑스트라 버진 올리브유를 섭취한 사람들과 정제 올리브유를 사용한 사람들을 비교하는 실험을 진행했습니다. 결과적으로 엑스트라 버진 올리브유 섭취 그룹이 더 나은 인지 능력과 더 다양한 장내 박테리아를 보유한 것으로 나타났습니다. 연구팀은 이러한 뇌 건강 개선 효과와 연관된 특정 미생물들을 특정할 수 있었습니다. 이 발견은 고품질 올리브유 선택이 노화에 따른 뇌 건강 유지의 간단한 방법이 될 수 있음을 시사합니다. 다만 이 연구는 장내 미생물과 뇌 건강의 인과관계를 명확히 하기 위한 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This research investigated whether extra virgin olive oil could protect brain health through gut microbiota. Researchers conducted a two-year study comparing cognitive performance and gut bacterial diversity between people consuming extra virgin olive oil and those using refined olive oil. Results showed that the extra virgin olive oil group demonstrated better cognitive performance and significantly more diverse gut bacteria. Researchers successfully identified specific microbes associated with these cognitive benefits. The findings suggest that choosing high-quality extra virgin olive oil could be a simple dietary strategy to support brain health during aging. However, further research is needed to establish the causal relationship between specific gut microbes and cognitive improvement.\n\n##",
-      "keyPoints": [
-        "**장-뇌 축의 중요성** / Gut-brain axis importance: 엑스트라 버진 올리브유가 장내 미생물 다양성 증가를 통해 인지 기능 개선에 영향을 미침",
-        "**인지 성능 향상** / Cognitive performance improvement: 엑스트라 버진 올리브유 섭취자들이 정제 올리브유 사용자보다 더 나은 인지 능력 수행 결과를 보임",
-        "**특정 미생물 규명** / Specific microbe identification: 뇌 건강 개선과 직접 연관된 특정 장내 미생물을 과학적으로 특정할 수 있었음",
-        "**예방적 식이 전략** / Preventive dietary strategy: 고품질 올리브유 선택이 노화 과정에서 뇌 건강을 유지하는 간단하고 실질적인 방법으로 제시됨"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
-      "featured": false
-    },
-    {
-      "id": "1a2ec7e51525",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-      "titleKo": "LLM의 도구 과다사용 착각: 왜 대규모 언어모델은 내부 지식보다 외부 도구를 선호할까?",
-      "summary": "arXiv:2604.19749v1 Announce Type: new Abstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during reasoning. In this paper, we first reveal this phenomenon is pervasive across diverse LLMs. We then experimentally elucidate its underlying mechanisms through two key lenses: (1) First, by analyzing tool-use behavior across different internal knowledge availability regions, we identify a \\textit{knowledge epistemic illusion}: models misjudge internal",
-      "aiSummary": "Recent advances have shown that equipping large language models (LLMs) with external tools like search engines and calculators improves performance. However, researchers discovered a paradoxical phenomenon: models unnecessarily use external tools even when they already possess the required knowledge internally. This study revealed that tool overuse is prevalent across diverse LLMs including GPT and Claude. Through experiments manipulating internal knowledge availability, the research team identified the root cause as \"knowledge epistemic illusion\"—models incorrectly misjudge their own knowledge capabilities. This finding has significant practical implications, as unnecessary tool calls increase computational costs and response latency in real-world deployment. However, the study has limitations in analyzing how this phenomenon varies across different task types and tool categories.\n\n##",
-      "aiSummaryKo": "최근 대규모 언어모델(LLM)에 검색 엔진이나 계산기 같은 외부 도구를 연결하면 모델의 성능이 향상된다고 알려져 있습니다. 그러나 연구팀은 흥미로운 역설을 발견했습니다: 모델들이 자신이 이미 알고 있는 내용까지도 외부 도구를 사용해서 해결하려는 '도구 과다 사용' 현상이 나타난다는 것입니다. 이 연구는 GPT, Claude 등 다양한 LLM에서 이 현상이 광범위하게 발생함을 확인했습니다. 연구팀은 모델의 내부 지식 접근성 수준을 달리하는 실험을 통해 근본 원인을 분석했으며, 모델들이 자신의 지식에 대해 잘못된 판단을 하는 '지식 인식 착각(epistemic illusion)'이 주요 원인임을 밝혔습니다. 이 발견은 LLM을 실제로 배포할 때 불필요한 도구 호출로 인한 비용 증가와 응답 지연을 초래할 수 있다는 점에서 중요합니다. 다만 이 연구는 특정 작업 유형이나 도구 종류에 따른 차이를 충분히 분석하지 못한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "Recent advances have shown that equipping large language models (LLMs) with external tools like search engines and calculators improves performance. However, researchers discovered a paradoxical phenomenon: models unnecessarily use external tools even when they already possess the required knowledge internally. This study revealed that tool overuse is prevalent across diverse LLMs including GPT and Claude. Through experiments manipulating internal knowledge availability, the research team identified the root cause as \"knowledge epistemic illusion\"—models incorrectly misjudge their own knowledge capabilities. This finding has significant practical implications, as unnecessary tool calls increase computational costs and response latency in real-world deployment. However, the study has limitations in analyzing how this phenomenon varies across different task types and tool categories.\n\n##",
-      "keyPoints": [
-        "**도구 과다 사용 현상**: LLM이 자신이 알고 있는 정보까지도 외부 도구를 통해 검색하려는 불필요한 행동이 광범위하게 발생 / Tool overuse phenomenon: LLMs unnecessarily seek external tools for information they already possess, occurring across diverse models",
-        "**근본 원인은 자기 지식 오판**: 모델들이 자신의 내부 지식 범위와 신뢰도를 정확히 인식하지 못하는 '지식 인식 착각'이 주요 메커니즘 / Root cause of knowledge misjudgment: Models suffer from epistemic illusion, failing to accurately assess their own knowledge scope and confidence levels",
-        "**실무적 비용 증가**: 불필요한 도구 호출은 API 호출 비용 증가, 응답 지연, 그리고 외부 시스템 부하 증가를 야기 / Practical cost implications: Unnecessary tool calls increase API costs, response latency, and strain on external systems",
-        "**다양한 LLM에서 일관된 패턴**: GPT, Claude 등 여러 주요 모델에서 동일한 도구 과다 사용 현상이 관찰되어 이것이 구조적 문제임을 시사 / Consistent pattern across models: The phenomenon observed in major LLMs like GPT and Claude suggests this is a structural issue rather than isolated problem"
-      ],
-      "url": "https://arxiv.org/abs/2604.19749",
-      "featured": false
-    },
-    {
-      "id": "562018916c89",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
-      "titleKo": "AI to Learn 2.0: 학습집약적 영역의 불투명한 AI를 위한 산출물 중심의 거버넌스 프레임워크 및 성숙도 척도",
-      "summary": "arXiv:2604.19751v1 Announce Type: new Abstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, or transfer ability that the work is supposed to cultivate or certify. This paper proposes AI to Learn 2.0, a deliverable-oriented governance framework for AI-assisted work. Rather than claiming elemen",
-      "aiSummary": "Generative AI is entering research, education, and professional work faster than current governance frameworks can guide how AI-assisted outputs should be evaluated in learning-intensive settings. The central problem is \"proxy failure\": while polished AI-generated artifacts can be useful, they no longer reliably demonstrate the human understanding, judgment, or learning ability that educational and professional work is meant to cultivate or certify. This paper proposes \"AI to Learn 2.0,\" a deliverable-oriented governance framework for AI-assisted work that goes beyond simply regulating AI use. Instead, it provides evaluation criteria and a maturity rubric centered on whether actual learning objectives are achieved in these domains. By offering consistent assessment standards and developmental stages for managing AI use in education and professional contexts, the framework helps institutions implement coherent governance strategies. However, as an early-stage proposal, the research requires additional validation through real-world implementation across diverse learning domains and fields.",
-      "aiSummaryKo": "생성형 AI가 연구, 교육, 전문 업무 영역에 빠르게 도입되고 있지만, 학습 중심 분야에서 AI 보조 결과물을 어떻게 평가할지에 대한 명확한 거버넌스 프레임워크가 부족한 상황이다. 이 연구의 핵심 문제는 '대리 실패(proxy failure)'인데, AI가 만든 고급스러운 결과물이 유용할 수 있지만 더 이상 학생이나 전문가의 실제 이해도, 판단력, 학습 능력을 보여주는 신뢰할 수 있는 증거가 되지 못한다는 의미이다. 논문은 AI 보조 작업을 위한 '결과물 중심 거버넌스 프레임워크(AI to Learn 2.0)'를 제안한다. 이 프레임워크는 단순히 AI 사용 여부를 판단하는 것이 아니라, 실제 학습 목표 달성 여부를 중심으로 평가 기준을 제시한다. 특히 교육과 전문 영역에서 AI 시대에 적절한 평가 기준과 성숙도 척도(maturity rubric)를 제공함으로써, 기관들이 일관된 방식으로 AI 활용을 관리할 수 있도록 돕는다. 다만 연구는 아직 초기 단계이며, 다양한 학습 영역에서의 실제 적용 사례와 검증이 추가로 필요하다는 한계가 있다.",
-      "aiSummaryEn": "Generative AI is entering research, education, and professional work faster than current governance frameworks can guide how AI-assisted outputs should be evaluated in learning-intensive settings. The central problem is \"proxy failure\": while polished AI-generated artifacts can be useful, they no longer reliably demonstrate the human understanding, judgment, or learning ability that educational and professional work is meant to cultivate or certify. This paper proposes \"AI to Learn 2.0,\" a deliverable-oriented governance framework for AI-assisted work that goes beyond simply regulating AI use. Instead, it provides evaluation criteria and a maturity rubric centered on whether actual learning objectives are achieved in these domains. By offering consistent assessment standards and developmental stages for managing AI use in education and professional contexts, the framework helps institutions implement coherent governance strategies. However, as an early-stage proposal, the research requires additional validation through real-world implementation across diverse learning domains and fields.",
-      "keyPoints": [
-        "**대리 실패 문제 / Proxy Failure Problem**",
-        "**결과물 중심 평가 / Deliverable-Oriented Assessment**",
-        "**성숙도 척도 제시 / Maturity Rubric Framework**",
-        "**학습 집약 분야 적용 / Application in Learning-Intensive Domains**"
-      ],
-      "url": "https://arxiv.org/abs/2604.19751",
       "featured": false
     }
   ]
