@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-24T06:31:49.994900+00:00",
+  "updated": "2026-04-24T10:56:29.257994+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "acdf43f3b478",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Psychology textbooks still misrepresent famous experiments and controversial debates",
+      "titleKo": "심리학 교과서가 여전히 유명한 실험과 논쟁적 논제를 잘못 표현하고 있다",
+      "summary": "College psychology textbooks still struggle to accurately present controversial topics and historical events, according to new research. While some improvements have occurred, textbooks frequently repeat scientific urban legends.",
+      "aiSummary": "This research investigated how accurately college psychology textbooks present historical controversies and scientific events. The researchers examined multiple psychology textbooks and analyzed patterns of misinformation, finding that many textbooks misrepresent famous psychological experiments. Particularly notable is the finding that historically important experiments are being oversimplified, reinterpreted, and repeatedly perpetuated across textbooks. The study revealed that some textbooks present scientific \"urban legends\" as factual information. This is problematic because students learning psychology receive inaccurate information as established knowledge. The researchers emphasize that textbook editors and authors must prioritize historical accuracy in their work. However, the study has limitations as it focuses on a specific range of textbooks, making it difficult to generalize findings to all psychology textbooks.\n\n##",
+      "aiSummaryKo": "이 연구는 대학 심리학 교과서가 역사적 논쟁과 과학적 사건들을 얼마나 정확하게 다루고 있는지 조사했습니다. 연구진은 여러 심리학 교과서를 검토하여 잘못된 정보의 패턴을 분석했으며, 많은 교과서가 유명한 실험들을 왜곡되게 표현하고 있음을 발견했습니다. 특히 역사적으로 중요한 심리학 실험들이 단순화되거나 잘못 해석되어 반복적으로 수록되고 있습니다. 연구 결과, 일부 교과서는 과학적 '도시전설'을 마치 사실인 양 전달하고 있었습니다. 이는 심리학을 배우는 학생들이 부정확한 정보를 학습하게 된다는 점에서 문제가 있습니다. 연구진은 교과서 편집자와 저자들이 역사적 정확성을 더욱 중시해야 한다고 강조합니다. 다만 이 연구는 특정 교과서의 범위에 한정되어 있어 모든 교과서에 일반화하기는 어렵다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigated how accurately college psychology textbooks present historical controversies and scientific events. The researchers examined multiple psychology textbooks and analyzed patterns of misinformation, finding that many textbooks misrepresent famous psychological experiments. Particularly notable is the finding that historically important experiments are being oversimplified, reinterpreted, and repeatedly perpetuated across textbooks. The study revealed that some textbooks present scientific \"urban legends\" as factual information. This is problematic because students learning psychology receive inaccurate information as established knowledge. The researchers emphasize that textbook editors and authors must prioritize historical accuracy in their work. However, the study has limitations as it focuses on a specific range of textbooks, making it difficult to generalize findings to all psychology textbooks.\n\n##",
+      "keyPoints": [
+        "**역사적 부정확성 / Historical Inaccuracy**: 심리학 교과서들이 유명한 실험과 과학적 논쟁을 왜곡되게 표현하고 있음",
+        "**과학적 도시전설 / Scientific Urban Legends**: 검증되지 않은 심리학 '통설'이 교과서에서 사실처럼 반복 수록되고 있음",
+        "**교육적 위험성 / Educational Risk**: 학생들이 부정확한 심리학 정보를 기초 지식으로 습득하게 되는 문제 발생",
+        "**개선의 필요성 / Need for Improvement**: 교과서 저자와 편집자의 역사적 정확성 강화 및 학술적 검증 체계 개선 필요"
+      ],
+      "url": "https://www.psypost.org/psychology-textbooks-still-misrepresent-famous-experiments-and-controversial-debates/",
+      "featured": true
+    },
+    {
+      "id": "418d42041476",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "14시간 전 / 14h ago",
+      "title": "Making podcasts instead of just listening to them might help medical students learn",
+      "titleKo": "팟캐스트를 듣기만 하는 것이 아니라 직접 만들기가 의대생들의 학습을 도울 수 있다",
+      "summary": "Can recording a podcast help you ace an exam? Researchers tested if actively producing audio content improved medical students' knowledge of heart defects compared to passive listening, yielding promising but inconclusive results.",
+      "aiSummary": "Researchers investigated whether actively producing podcast content could improve medical students' learning outcomes compared to passive listening, focusing on knowledge retention of heart defects. The study divided medical students into two groups: one that created podcasts on the subject and another that only listened to pre-recorded content, then measured their exam performance. Results showed that students who actively produced podcasts demonstrated better test scores than those who passively listened, but the difference was not statistically conclusive. This research suggests that active student engagement may enhance learning outcomes in medical education. However, the study has limitations including potentially small sample sizes and incomplete control of experimental variables. Further large-scale research is needed to definitively determine whether podcast production is an effective learning tool in medical education.\n\n##",
+      "aiSummaryKo": "의료 교육에서 학습 효과를 높이기 위한 새로운 방법을 찾기 위해 연구팀은 팟캐스트 제작 활동이 수동적 청취보다 효과적인지 검증했습니다. 의대 학생들을 대상으로 심장 결손증에 대해 팟캐스트를 직접 제작하는 그룹과 단순히 청취하는 그룹으로 나누어 실험을 진행했습니다. 연구 결과, 팟캐스트를 적극적으로 제작한 학생들이 시험 성적에서 더 나은 결과를 보였지만, 그 차이가 통계적으로 명확하지 않아 결론을 내리기는 아직 어렵다는 상황입니다. 이 연구는 학생들의 능동적 참여가 학습 성과를 향상시킬 수 있다는 가능성을 시사합니다. 다만 표본 크기가 제한적이거나 실험 설계의 변수 통제가 충분하지 않았을 수 있다는 한계가 있습니다. 추후 더 대규모의 연구를 통해 팟캐스트 제작이 의료 교육에서 효과적인 학습 도구인지 확실히 밝혀야 할 것으로 보입니다.\n\n##",
+      "aiSummaryEn": "Researchers investigated whether actively producing podcast content could improve medical students' learning outcomes compared to passive listening, focusing on knowledge retention of heart defects. The study divided medical students into two groups: one that created podcasts on the subject and another that only listened to pre-recorded content, then measured their exam performance. Results showed that students who actively produced podcasts demonstrated better test scores than those who passively listened, but the difference was not statistically conclusive. This research suggests that active student engagement may enhance learning outcomes in medical education. However, the study has limitations including potentially small sample sizes and incomplete control of experimental variables. Further large-scale research is needed to definitively determine whether podcast production is an effective learning tool in medical education.\n\n##",
+      "keyPoints": [
+        "능동적 학습과 수동적 학습 비교: 팟캐스트 직접 제작 vs. 단순 청취의 학습 효과 차이 검증 / Active vs. passive learning: Testing the learning effectiveness difference between creating podcasts and simply listening",
+        "의료 교육의 새로운 교수법: 멀티미디어 콘텐츠 제작을 통한 의학 지식 습득 방식 제시 / New teaching method in medical education: Proposing knowledge acquisition through multimedia content creation",
+        "결과의 한계성: 통계적으로 유의미하지 않은 결과로 인한 결론의 불확실성 / Inconclusive results: Statistical insignificance preventing definitive conclusions",
+        "추가 연구의 필요성: 표본 확대 및 엄격한 실험 통제를 통한 후속 연구 필요 / Need for further research: Larger-scale studies with stricter experimental controls required"
+      ],
+      "url": "https://www.psypost.org/making-podcasts-instead-of-just-listening-to-them-might-help-medical-students-learn/",
+      "featured": false
+    },
+    {
+      "id": "bc761284dc99",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "16시간 전 / 16h ago",
+      "title": "New study suggests dreams function as a “multimotive simulation space”",
+      "titleKo": "새로운 연구에 따르면 꿈은 \"다목적 시뮬레이션 공간\"으로 기능한다",
+      "summary": "New research indicates that dreams often act as a simulation for social hurdles. By analyzing hundreds of dream reports, scientists found that themes like status and self-protection frequently organize the content of our sleep narratives.",
+      "aiSummary": "This study proposes that dreams function as a \"multimotive simulation space\" rather than meaningless brain activity—a space where we practice dealing with social challenges. Researchers conducted their investigation by collecting and systematically analyzing hundreds of dream reports. The analysis revealed that dream content is predominantly organized around two key themes: social status and self-protection mechanisms. These findings support the evolutionary psychology perspective that dreams allow humans to safely process threatening situations related to relationships and survival. The study's significance lies in providing scientific validation for the psychological functions of dreams, which can enhance our understanding of mental health. However, limitations include the need for further analysis of individual differences and cultural variations, as well as potential subjectivity in dream content interpretation.\n\n##",
+      "aiSummaryKo": "본 연구는 꿈이 단순한 무의미한 뇌 활동이 아니라 우리가 직면한 사회적 문제들을 미리 연습하는 '다목적 시뮬레이션 공간'으로 기능한다는 가설을 검증했다. 연구진은 수백 건의 꿈 기록을 수집하여 체계적으로 분석하는 방식으로 실험을 진행했다. 분석 결과, 꿈의 내용은 사회적 지위(status)와 자기보호(self-protection)라는 두 가지 핵심 주제에 의해 조직되는 경향을 보였다. 이는 꿈이 인간관계와 생존에 관련된 위협 상황들을 안전한 환경에서 다룰 수 있도록 도와준다는 진화심리학적 관점을 지지한다. 본 연구의 의의는 꿈의 심리적 기능을 과학적으로 규명함으로써 정신건강 이해를 높였다는 점이다. 다만 개인차와 문화적 차이에 대한 추가 분석이 필요하며, 꿈의 내용 분석에 주관성이 개입될 수 있다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This study proposes that dreams function as a \"multimotive simulation space\" rather than meaningless brain activity—a space where we practice dealing with social challenges. Researchers conducted their investigation by collecting and systematically analyzing hundreds of dream reports. The analysis revealed that dream content is predominantly organized around two key themes: social status and self-protection mechanisms. These findings support the evolutionary psychology perspective that dreams allow humans to safely process threatening situations related to relationships and survival. The study's significance lies in providing scientific validation for the psychological functions of dreams, which can enhance our understanding of mental health. However, limitations include the need for further analysis of individual differences and cultural variations, as well as potential subjectivity in dream content interpretation.\n\n##",
+      "keyPoints": [
+        "**꿈의 기능성** / Dreams serve functional purposes: 꿈은 단순 뇌 활동이 아닌 사회적 도전 상황을 시뮬레이션하는 공간으로 기능한다. Dreams are not random but function as simulations for navigating social challenges.",
+        "**조직화된 주제** / Organized thematic content: 꿈의 내용은 사회적 지위와 자기보호라는 명확한 주제 중심으로 조직되어 있다. Dream narratives are systematically organized around themes of status and self-protection.",
+        "**진화심리학적 의미** / Evolutionary significance: 이러한 꿈의 메커니즘은 인간의 생존과 사회적 적응에 필수적인 위협 대처 능력을 발달시켰을 가능성이 있다. Dreams may have evolved as a mechanism to develop threat-coping abilities essential for survival and social adaptation.",
+        "**추가 연구 필요** / Need for further research: 개인차, 문화적 차이, 그리고 해석의 객관성 문제 등 보완이 필요하다. Individual differences, cultural variations, and interpretative objectivity require further investigation."
+      ],
+      "url": "https://www.psypost.org/new-study-suggests-dreams-function-as-a-multimotive-simulation-space/",
+      "featured": false
+    },
+    {
+      "id": "468080a7a8cc",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "23시간 전 / 23h ago",
+      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
+      "titleKo": "80세인데 50대의 기억력을 가진 사람들, 과학자들이 그 이유를 밝혀내다",
+      "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that their social lifestyles and unique brain biology may hold the key to preserving cognitive function. Scientists believe these insights could pave the way for new strategies to delay or even prevent dementia.",
+      "aiSummary": "This research focuses on \"SuperAgers,\" a rare group of adults over 80 who maintain memory abilities comparable to people in their 50s, challenging conventional understanding of cognitive aging. These individuals possess unique brain biology that allows them to resist or withstand brain damage typically associated with Alzheimer's disease. Through decades of research, scientists have identified that their active social lifestyles and distinctive brain characteristics may be key factors in preserving cognitive function. The findings suggest that these insights could lead to the development of new strategies to delay or prevent dementia in the general population. However, as this is an observational study of a specific population group, additional validation is needed before these findings can be directly applied to the broader aging population.\n\n##",
+      "aiSummaryKo": "본 연구는 80세 이상의 나이에도 50대 수준의 기억력을 유지하는 '슈퍼에이저(SuperAgers)'라 불리는 특별한 집단에 관한 것이다. 이들은 일반적으로 노화에 따른 알츠하이머병 관련 뇌 손상에 저항하거나 그 영향을 견디어낼 수 있는 독특한 뇌 생물학적 특성을 가지고 있다. 수십 년의 연구를 통해 과학자들은 이들의 활발한 사회생활과 뇌의 구조적 특징이 인지 기능 보존의 핵심일 수 있음을 발견했다. 이러한 연구 결과는 치매를 지연시키거나 예방하기 위한 새로운 전략 개발에 기여할 것으로 기대된다. 다만 이 연구는 특정 집단을 대상으로 한 관찰 연구이므로, 일반 인구에 대한 직접적인 적용에는 추가 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "This research focuses on \"SuperAgers,\" a rare group of adults over 80 who maintain memory abilities comparable to people in their 50s, challenging conventional understanding of cognitive aging. These individuals possess unique brain biology that allows them to resist or withstand brain damage typically associated with Alzheimer's disease. Through decades of research, scientists have identified that their active social lifestyles and distinctive brain characteristics may be key factors in preserving cognitive function. The findings suggest that these insights could lead to the development of new strategies to delay or prevent dementia in the general population. However, as this is an observational study of a specific population group, additional validation is needed before these findings can be directly applied to the broader aging population.\n\n##",
+      "keyPoints": [
+        "**슈퍼에이저의 발견** / Discovery of SuperAgers: 80세 이상 중 50대 수준의 기억력을 유지하는 특별한 집단이 존재하며, 이는 뇌의 특이한 생물학적 구조로 인한 현상이다.",
+        "**뇌 손상 저항성** / Brain Damage Resistance: 슈퍼에이저들의 뇌는 알츠하이머병과 관련된 일반적인 노화성 손상에 효과적으로 저항하거나 견딜 수 있다.",
+        "**사회생활의 역할** / Role of Social Engagement: 활발한 사회적 상호작용과 생활양식이 인지 기능 보존의 중요한 요소로 작용한다.",
+        "**치매 예방의 실마리** / Clue to Dementia Prevention: 슈퍼에이저 연구를 통해 얻은 통찰력이 향후 치매 지연 및 예방 전략 개발의 기초가 될 수 있다."
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
+      "featured": false
+    },
+    {
+      "id": "cc1c661e4050",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "5일 전 / 5d ago",
+      "title": "Scientists say this type of olive oil could boost brain power",
+      "titleKo": "과학자들, 이 종류의 올리브유가 뇌 기능을 향상시킬 수 있다고 밝혀",
+      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
+      "aiSummary": "This research investigated whether extra virgin olive oil could protect brain health through gut microbiota. Researchers conducted a two-year study comparing cognitive performance and gut bacterial diversity between people consuming extra virgin olive oil and those using refined olive oil. Results showed that the extra virgin olive oil group demonstrated better cognitive performance and significantly more diverse gut bacteria. Researchers successfully identified specific microbes associated with these cognitive benefits. The findings suggest that choosing high-quality extra virgin olive oil could be a simple dietary strategy to support brain health during aging. However, further research is needed to establish the causal relationship between specific gut microbes and cognitive improvement.\n\n##",
+      "aiSummaryKo": "본 연구는 엑스트라 버진 올리브유가 장(gut)을 통해 뇌 건강을 보호할 수 있다는 가설에서 출발했습니다. 연구진은 2년에 걸쳐 엑스트라 버진 올리브유를 섭취한 사람들과 정제 올리브유를 사용한 사람들을 비교하는 실험을 진행했습니다. 결과적으로 엑스트라 버진 올리브유 섭취 그룹이 더 나은 인지 능력과 더 다양한 장내 박테리아를 보유한 것으로 나타났습니다. 연구팀은 이러한 뇌 건강 개선 효과와 연관된 특정 미생물들을 특정할 수 있었습니다. 이 발견은 고품질 올리브유 선택이 노화에 따른 뇌 건강 유지의 간단한 방법이 될 수 있음을 시사합니다. 다만 이 연구는 장내 미생물과 뇌 건강의 인과관계를 명확히 하기 위한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This research investigated whether extra virgin olive oil could protect brain health through gut microbiota. Researchers conducted a two-year study comparing cognitive performance and gut bacterial diversity between people consuming extra virgin olive oil and those using refined olive oil. Results showed that the extra virgin olive oil group demonstrated better cognitive performance and significantly more diverse gut bacteria. Researchers successfully identified specific microbes associated with these cognitive benefits. The findings suggest that choosing high-quality extra virgin olive oil could be a simple dietary strategy to support brain health during aging. However, further research is needed to establish the causal relationship between specific gut microbes and cognitive improvement.\n\n##",
+      "keyPoints": [
+        "**장-뇌 축의 중요성** / Gut-brain axis importance: 엑스트라 버진 올리브유가 장내 미생물 다양성 증가를 통해 인지 기능 개선에 영향을 미침",
+        "**인지 성능 향상** / Cognitive performance improvement: 엑스트라 버진 올리브유 섭취자들이 정제 올리브유 사용자보다 더 나은 인지 능력 수행 결과를 보임",
+        "**특정 미생물 규명** / Specific microbe identification: 뇌 건강 개선과 직접 연관된 특정 장내 미생물을 과학적으로 특정할 수 있었음",
+        "**예방적 식이 전략** / Preventive dietary strategy: 고품질 올리브유 선택이 노화 과정에서 뇌 건강을 유지하는 간단하고 실질적인 방법으로 제시됨"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
+      "featured": false
+    },
     {
       "id": "1a2ec7e51525",
       "tag": "ai",
@@ -21,7 +126,7 @@
         "**다양한 LLM에서 일관된 패턴**: GPT, Claude 등 여러 주요 모델에서 동일한 도구 과다 사용 현상이 관찰되어 이것이 구조적 문제임을 시사 / Consistent pattern across models: The phenomenon observed in major LLMs like GPT and Claude suggests this is a structural issue rather than isolated problem"
       ],
       "url": "https://arxiv.org/abs/2604.19749",
-      "featured": true
+      "featured": false
     },
     {
       "id": "562018916c89",
@@ -280,96 +385,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "18일 전 / 18d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "cd240b7cbb5e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "20시간 전 / 20h ago",
-      "title": "For the first time, scientists pinpoint the brain cells behind depression",
-      "titleKo": "",
-      "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
-      "featured": false
-    },
-    {
-      "id": "5861058901d0",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "5일 전 / 5d ago",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "titleKo": "",
-      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "featured": false
-    },
-    {
-      "id": "7601a32456fa",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "A new study explores the boundary between everyday caffeine and panic",
-      "titleKo": "일상적 카페인 섭취와 공황 사이의 경계를 탐구한 새로운 연구",
-      "summary": "A moderate dose of caffeine does not elevate baseline anxiety in people with panic disorder, though it may make them slightly more likely to step away from uncomfortable situations.",
-      "aiSummary": "This study investigated how caffeine consumption affects anxiety levels in people with panic disorder. Researchers administered a moderate dose of caffeine to participants diagnosed with panic disorder and measured their baseline anxiety levels and behavioral changes. The key finding was that moderate caffeine does not elevate baseline anxiety in people with panic disorder; however, it slightly increased avoidance behaviors when facing uncomfortable situations. This research has clinical significance in providing medical guidance on whether panic disorder patients can safely consume caffeine in daily life. Limitations may include sample size constraints and short-term observation periods.\n\n##",
-      "aiSummaryKo": "이 연구는 공황장애가 있는 사람들이 카페인 섭취 시 불안 수준이 어떻게 변하는지 알아보기 위해 진행되었습니다. 연구진은 공황장애 진단을 받은 참가자들을 대상으로 적당량의 카페인을 투여한 후 기초 불안 수준과 행동 변화를 측정했습니다. 주요 결과는 적당량의 카페인이 공황장애 환자들의 기본적인 불안 수준을 높이지 않는다는 것으로 나타났지만, 불편한 상황에서 벗어나려는 회피 행동이 약간 증가했습니다. 이 연구는 공황장애 환자들이 일상에서 카페인을 섭취할 수 있는지에 대한 의학적 판단 기준을 제시한다는 점에서 임상적 의의가 있습니다. 다만 연구 표본의 규모나 단기 관찰에 대한 제한이 있을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigated how caffeine consumption affects anxiety levels in people with panic disorder. Researchers administered a moderate dose of caffeine to participants diagnosed with panic disorder and measured their baseline anxiety levels and behavioral changes. The key finding was that moderate caffeine does not elevate baseline anxiety in people with panic disorder; however, it slightly increased avoidance behaviors when facing uncomfortable situations. This research has clinical significance in providing medical guidance on whether panic disorder patients can safely consume caffeine in daily life. Limitations may include sample size constraints and short-term observation periods.\n\n##",
-      "keyPoints": [
-        "**카페인의 불안 영향 제한적**: 적당량의 카페인은 공황장애 환자의 기초 불안 수준을 유의미하게 상승시키지 않음 / Moderate caffeine does not significantly elevate baseline anxiety in people with panic disorder",
-        "**회피 행동 증가**: 카페인 섭취 후 불편한 상황에서 벗어나려는 회피 경향이 약간 증가 / Slight increase in avoidance behaviors from uncomfortable situations after caffeine consumption",
-        "**임상적 가이드라인 제공**: 공황장애 환자의 카페인 섭취 가능성에 대한 의학적 근거 제시 / Provides medical evidence regarding caffeine consumption safety for panic disorder patients",
-        "**행동 수준의 변화 주목**: 주관적 불안 증가보다는 실제 행동 회피 패턴의 변화가 더 두드러짐 / Behavioral changes in avoidance patterns are more notable than subjective anxiety increases"
-      ],
-      "url": "https://www.psypost.org/moderate-coffee-doses-do-not-cause-panic-attacks-but-may-alter-behavioral-choice-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "4d8a912d6701",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
-      "titleKo": "다중 변수 갭을 가진 최장공통부분수열 문제 해결에 관하여",
-      "summary": "arXiv:2604.18645v1 Announce Type: new Abstract: This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS problem involving flexible gap constraints between consecutive solutions' characters. The problem arises in molecular sequence comparison, where structural distance constraints between residues must be respected, and in time-series analysis where events are required to occur within specified temporal delays. We propose a search framework based on the root-based state graph representation, in which the state space comprises a ",
-      "aiSummary": "This research addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, which extends the classical LCS problem by incorporating flexible gap constraints between consecutive characters in the solution. The VGLCS problem has practical applications in molecular sequence comparison, where structural distance constraints between amino acid residues must be respected, and in time-series analysis, where events must occur within specified temporal windows. The research team proposes a search framework based on root-based state graph representation to solve this problem effectively. This approach can be applied to diverse real-world domains including molecular biology, bioinformatics, and data mining for solving complex pattern matching problems. The significance of this work lies in extending the applicability of classical LCS algorithms to accommodate more realistic constraints. However, the incomplete abstract limits availability of specific experimental results, performance comparison metrics, and computational complexity analysis of the proposed algorithm.\n\n##",
-      "aiSummaryKo": "이 연구는 고전적인 최장공통부분수열(LCS) 문제를 확장한 '변수 갭 최장공통부분수열(VGLCS)' 문제를 다룹니다. VGLCS는 연속된 문자들 사이에 유연한 간격 제약을 포함하는 문제로, 단백질 구조 비교에서 아미노산 잔기 간의 거리 제약을 존재하며, 시계열 데이터 분석에서 사건들이 특정 시간 범위 내에 발생해야 하는 상황에 적용됩니다. 연구팀은 루트 기반 상태 그래프 표현에 기초한 탐색 프레임워크를 제안했습니다. 이 접근법은 분자 생물학, 생물정보학, 데이터 마이닝 등 다양한 실제 응용 분야에서 복잡한 패턴 매칭 문제를 효과적으로 해결할 수 있습니다. 연구의 의의는 기존 LCS 알고리즘의 제한적 활용 범위를 확장하여 더 현실적인 제약 조건을 반영할 수 있다는 점입니다. 다만 추상문이 완전하지 않아 구체적인 실험 결과, 성능 비교 데이터, 알고리즘의 시간복잡도 등에 대한 상세한 정보가 제한적입니다.\n\n##",
-      "aiSummaryEn": "This research addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, which extends the classical LCS problem by incorporating flexible gap constraints between consecutive characters in the solution. The VGLCS problem has practical applications in molecular sequence comparison, where structural distance constraints between amino acid residues must be respected, and in time-series analysis, where events must occur within specified temporal windows. The research team proposes a search framework based on root-based state graph representation to solve this problem effectively. This approach can be applied to diverse real-world domains including molecular biology, bioinformatics, and data mining for solving complex pattern matching problems. The significance of this work lies in extending the applicability of classical LCS algorithms to accommodate more realistic constraints. However, the incomplete abstract limits availability of specific experimental results, performance comparison metrics, and computational complexity analysis of the proposed algorithm.\n\n##",
-      "keyPoints": [
-        "**VGLCS 문제의 정의** / Definition of VGLCS Problem: 고전적 최장공통부분수열 문제를 확장하여 연속된 문자 간에 유연한 갭(간격) 제약을 적용하는 일반화된 문제",
-        "**실제 응용 분야** / Real-world Applications: 단백질 구조 분석에서 아미노산 간 거리 제약 존재, 시계열 데이터에서 사건 간 시간 제약 존재 등 생물정보학과 데이터 마이닝 분야에서 실용적 가치 보유",
-        "**제안된 해결 방법** / Proposed Solution Method: 루트 기반 상태 그래프 표현(root-based state graph representation)을 기반으로 한 탐색 프레임워크로 VGLCS 문제를 효율적으로 해결",
-        "**연구의 한계** / Research Limitations: 추상문이 불완전하여 구체적인 성능 평가 결과, 알고리즘 복잡도, 기존 방법과의 비교 분석 데이터가 부재함"
-      ],
-      "url": "https://arxiv.org/abs/2604.18645",
       "featured": false
     }
   ]
