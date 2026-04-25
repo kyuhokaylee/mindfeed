@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-25T19:56:56.539095+00:00",
+  "updated": "2026-04-25T21:55:43.834149+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6e9a72498b9f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "People view the term “sex worker” much more positively than “prostitute” or “hooker”",
+      "titleKo": "사람들은 \"성노동자\"라는 용어를 \"매춘부\" 또는 \"창녀\"보다 훨씬 더 긍정적으로 인식한다",
+      "summary": "New research suggests the specific words used to describe people in the commercial sex industry significantly shape public bias. The findings provide evidence that terms like \"sex worker\" carry much less stigma than words like \"prostitute.\"",
+      "aiSummary": "This research investigates how specific terminology used to describe people in the commercial sex industry significantly influences public perception and bias. Researchers measured participant attitudes using different terms including \"sex worker,\" \"prostitute,\" and \"hooker\" to assess differences in perception. The findings demonstrated that the term \"sex worker\" generated substantially less stigma compared to other expressions. This evidence indicates that language choice directly impacts social bias and discrimination against this population. The study's significance lies in empirically demonstrating the importance of using inclusive and respectful terminology. However, limitations include potential insufficient examination of cultural and age-related differences in perception across diverse populations.\n\n##",
+      "aiSummaryKo": "본 연구는 성매매 산업종사자를 지칭하는 용어가 공중의 편견에 미치는 영향을 조사했습니다. 연구팀은 \"성매매 종사자(sex worker)\", \"매춘부(prostitute)\", \"후커(hooker)\" 등 서로 다른 표현을 사용하여 참가자들의 인식 차이를 측정했습니다. 결과적으로 \"성매매 종사자\"라는 용어는 다른 표현들에 비해 훨씬 낮은 낙인감을 불러일으키는 것으로 나타났습니다. 이는 언어 선택이 사회적 편견과 차별에 직접적인 영향을 미친다는 것을 보여줍니다. 본 연구의 의의는 포용적이고 존엄한 표현 사용의 중요성을 실증적으로 입증했다는 점입니다. 다만, 문화권이나 연령대별 차이를 충분히 조사하지 못했을 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigates how specific terminology used to describe people in the commercial sex industry significantly influences public perception and bias. Researchers measured participant attitudes using different terms including \"sex worker,\" \"prostitute,\" and \"hooker\" to assess differences in perception. The findings demonstrated that the term \"sex worker\" generated substantially less stigma compared to other expressions. This evidence indicates that language choice directly impacts social bias and discrimination against this population. The study's significance lies in empirically demonstrating the importance of using inclusive and respectful terminology. However, limitations include potential insufficient examination of cultural and age-related differences in perception across diverse populations.\n\n##",
+      "keyPoints": [
+        "**용어의 낙인감 차이** / **Stigma Variation by Terminology**: \"성매매 종사자\"가 \"매춘부\"나 \"후커\"보다 훨씬 더 긍정적으로 인식됨",
+        "**언어-편견의 직접적 연관성** / **Direct Language-Bias Connection**: 같은 집단을 지칭하는 표현의 선택이 공중의 편견 형성에 직접적 영향을 미침",
+        "**포용적 용어 사용의 필요성** / **Need for Inclusive Terminology**: 존엄한 표현 사용이 사회적 낙인 감소에 기여할 수 있음",
+        "**추가 연구의 필요성** / **Need for Further Research**: 문화적·세대적 차이와 장기적 태도 변화에 대한 추가 조사 필요"
+      ],
+      "url": "https://www.psypost.org/people-view-the-term-sex-worker-much-more-positively-than-prostitute-or-hooker/",
+      "featured": true
+    },
+    {
+      "id": "5861058901d0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "7일 전 / 7d ago",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "titleKo": "인공 뉴런이 살아있는 뇌 세포와의 통신에 성공하다",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "aiSummary": "Engineers at Northwestern University have achieved a breakthrough by successfully printing artificial neurons that can communicate with real brain cells, marking a significant advancement in brain-machine interface development. The research demonstrates that flexible, low-cost artificial neurons are capable of generating biological signals that can activate actual brain cells, as validated through experiments on mouse brain tissue. The artificial neurons possess superior biocompatibility and cost-effectiveness compared to existing technologies, offering promising potential for medical applications. This innovation could be applied to various medical fields including treatment of brain damage, neurological disease management, and development of neural prosthetics. The artificial neurons successfully replicate lifelike electrical signals necessary for neural communication without requiring expensive fabrication processes. However, additional research is needed to understand the long-term effects in complex neural network environments and to establish pathways toward clinical applications in human subjects.\n\n##",
+      "aiSummaryKo": "노스웨스턴 대학교 공학자들은 인공 뉴런을 인쇄 기술로 제작하여 실제 뇌세포와 상호작용할 수 있는 획기적인 성과를 달성했습니다. 이 연구는 기계와 인간의 뇌를 결합하는 신경계 인터페이스 개발의 중요한 진전입니다. 연구팀은 유연한 소재로 만들어진 저비용의 인공 뉴런을 개발했으며, 이들이 실제 뇌세포를 활성화할 수 있는 생물학적 신호(전기신호)를 생성할 수 있음을 마우스 뇌조직 실험을 통해 입증했습니다. 인공 뉴런은 기존 기술보다 제조비용이 낮으면서도 신체 친화적인 특성을 가지고 있어 의료 기기로의 응용 가능성이 높습니다. 이 성과는 뇌손상 치료, 신경질환 극복, 신경 프로스테틱스(신경 보철) 개발 등 다양한 의료 분야에 활용될 수 있습니다. 다만, 포유류 뇌 조직의 복잡한 신경망 환경에서의 장기적 효과와 실제 임상 적용까지는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Engineers at Northwestern University have achieved a breakthrough by successfully printing artificial neurons that can communicate with real brain cells, marking a significant advancement in brain-machine interface development. The research demonstrates that flexible, low-cost artificial neurons are capable of generating biological signals that can activate actual brain cells, as validated through experiments on mouse brain tissue. The artificial neurons possess superior biocompatibility and cost-effectiveness compared to existing technologies, offering promising potential for medical applications. This innovation could be applied to various medical fields including treatment of brain damage, neurological disease management, and development of neural prosthetics. The artificial neurons successfully replicate lifelike electrical signals necessary for neural communication without requiring expensive fabrication processes. However, additional research is needed to understand the long-term effects in complex neural network environments and to establish pathways toward clinical applications in human subjects.\n\n##",
+      "keyPoints": [
+        "**기술 혁신** / Technological Innovation",
+        "cost manufacturing enable bidirectional communication with living brain cells",
+        "**생물학적 호환성** / Biological Compatibility",
+        "**임상 응용 가능성** / Clinical Potential"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "featured": false
+    },
     {
       "id": "b1bb2ee55ef8",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**신경 염증 메커니즘** / **Neuroinflammation Mechanism**: 심각한 감염이 장기적 뇌 염증을 유발하여 신경세포 손상과 치매 발병을 촉진할 가능성을 시사"
       ],
       "url": "https://www.psypost.org/severe-infections-independently-amplify-the-risk-of-dementia-later-in-life/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d59aec1fe645",
@@ -378,48 +420,6 @@
         "**교육-직업 현장 적용** / Practical Application: 교육기관과 전문직 영역에서 AI 투명성과 신뢰도 관리를 위한 실용적 솔루션 제공"
       ],
       "url": "https://arxiv.org/abs/2604.19751",
-      "featured": false
-    },
-    {
-      "id": "cd240b7cbb5e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "For the first time, scientists pinpoint the brain cells behind depression",
-      "titleKo": "과학자들이 처음으로 우울증의 원인이 되는 뇌세포를 규명하다",
-      "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
-      "aiSummary": "For the first time, researchers have identified specific changes in brain cells of people with depression using advanced genetic analysis tools on donated brain tissue. The study examined two particular types of brain cells: neurons involved in mood and stress regulation, and microglia cells related to immune function. Both cell types showed significant differences between depressed and non-depressed individuals, indicating disruptions in key brain systems. These findings provide crucial biological evidence that depression is rooted in brain biology rather than being purely emotional or psychological. The research reinforces the neurobiological basis of depression and opens pathways for developing more targeted therapeutic interventions. However, the study's limitations include sample size and the need for broader investigation across diverse populations to confirm these findings.\n\n##",
-      "aiSummaryKo": "이번 연구는 우울증 환자의 뇌에서 어떤 변화가 일어나는지 처음으로 구체적으로 규명했습니다. 연구진은 기증된 뇌 조직을 첨단 유전자 분석 도구로 검사하여 우울증과 관련된 두 가지 특정 뇌세포 유형을 발견했습니다. 연구 대상은 우울증 환자와 정상인의 뇌 조직이며, 감정과 스트레스에 관련된 신경세포와 면역 기능을 담당하는 소교세포(미세아교세포)에서 유의미한 변화를 관찰했습니다. 연구 결과는 뇌의 주요 시스템에 장애가 있음을 보여주며, 우울증이 단순한 감정 문제가 아니라 생물학적 기반을 가진 질환임을 증명합니다. 이 발견은 우울증의 원인을 이해하고 더 효과적인 치료법 개발에 기여할 수 있습니다. 다만 뇌 조직 샘플 수와 다양성 측면에서 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "For the first time, researchers have identified specific changes in brain cells of people with depression using advanced genetic analysis tools on donated brain tissue. The study examined two particular types of brain cells: neurons involved in mood and stress regulation, and microglia cells related to immune function. Both cell types showed significant differences between depressed and non-depressed individuals, indicating disruptions in key brain systems. These findings provide crucial biological evidence that depression is rooted in brain biology rather than being purely emotional or psychological. The research reinforces the neurobiological basis of depression and opens pathways for developing more targeted therapeutic interventions. However, the study's limitations include sample size and the need for broader investigation across diverse populations to confirm these findings.\n\n##",
-      "keyPoints": [
-        "**두 가지 뇌세포 변화 발견** / Discovery of Two Brain Cell Types: 신경세포와 소교세포에서 우울증 환자만의 특이적 변화가 관찰됨 / Specific changes in neurons and microglia cells were identified in depressed individuals",
-        "**생물학적 근거 제시** / Biological Basis Confirmed: 우울증이 단순 감정 문제가 아니라 뇌의 생물학적 장애임을 과학적으로 입증 / Depression is demonstrated to be biologically rooted, not merely emotional",
-        "**스트레스-면역 체계 연관성** / Stress-Immune System Connection: 감정/스트레스 조절 신경세포와 면역세포의 동시 장애가 우울증과 연관됨 / Disruption in both mood regulation and immune-related cells suggests interconnected brain systems",
-        "**치료 개발 가능성** / Therapeutic Development Potential: 구체적 세포 변화 규명으로 타겟형 약물 개발 및 더 효과적인 치료법 개발에 기여 가능 / Identified cellular changes enable development of targeted treatments and more effective interventions"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
-      "featured": false
-    },
-    {
-      "id": "468080a7a8cc",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
-      "titleKo": "80대인데 50대의 기억력을 가진 사람들, 과학자들이 이유를 찾다",
-      "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that their social lifestyles and unique brain biology may hold the key to preserving cognitive function. Scientists believe these insights could pave the way for new strategies to delay or even prevent dementia.",
-      "aiSummary": "This research focuses on a rare group called \"SuperAgers\"—people over 80 who maintain memory abilities comparable to those in their 50s. These SuperAgers possess unique brain structures that resist or withstand brain damage typically associated with Alzheimer's disease during normal aging. Through decades of research, scientists have discovered that their active social lifestyles and distinctive brain biology are key factors in preserving cognitive function. The significance of this research lies in its potential to contribute to developing new therapeutic strategies for preventing and delaying dementia. However, the study has limitations in that certain genetic or lifestyle factors may not have uniform effects across all individuals, and individual variation remains substantial.\n\n##",
-      "aiSummaryKo": "이 연구는 80세 이상이면서도 50대의 기억력을 유지하는 '슈퍼에이저(SuperAgers)'라는 특수한 집단에 관한 것입니다. 슈퍼에이저들은 일반적인 노화 과정에서 나타나는 알츠하이머병 관련 뇌 손상을 저항하거나 견딜 수 있는 독특한 뇌 구조를 가지고 있습니다. 수십 년간의 연구를 통해 과학자들은 이들의 활발한 사회생활과 뇌의 특이한 생물학적 특성이 인지 기능 보존의 핵심 요소임을 발견했습니다. 이 연구의 의의는 치매 예방 및 지연을 위한 새로운 치료 전략 개발에 기여할 수 있다는 점입니다. 다만 이 연구는 특정 유전적 또는 생활 방식 요인이 모든 사람에게 동일하게 작용하지 않을 수 있다는 한계를 가지고 있습니다.\n\n##",
-      "aiSummaryEn": "This research focuses on a rare group called \"SuperAgers\"—people over 80 who maintain memory abilities comparable to those in their 50s. These SuperAgers possess unique brain structures that resist or withstand brain damage typically associated with Alzheimer's disease during normal aging. Through decades of research, scientists have discovered that their active social lifestyles and distinctive brain biology are key factors in preserving cognitive function. The significance of this research lies in its potential to contribute to developing new therapeutic strategies for preventing and delaying dementia. However, the study has limitations in that certain genetic or lifestyle factors may not have uniform effects across all individuals, and individual variation remains substantial.\n\n##",
-      "keyPoints": [
-        "**슈퍼에이저의 정의** / Definition of SuperAgers: 80세 이상이면서 50대 수준의 기억력을 유지하는 특수한 집단으로, 정상적인 노화에도 불구하고 인지 기능이 보존됨",
-        "**뇌 생물학적 특성** / Brain Biology: 슈퍼에이저들의 뇌는 알츠하이머병 관련 손상에 대한 저항력 또는 견딜성을 가지고 있어 일반 노인과 뇌 구조가 상이함",
-        "**보호 요인** / Protective Factors: 활발한 사회생활과 사회적 상호작용이 인지 기능 보존의 중요한 역할을 하며, 이는 치매 예방의 수정 가능한 요인으로 작용 가능",
-        "**임상적 함의** / Clinical Implications: 슈퍼에이저 연구 결과가 치매 예방 및 지연을 위한 혁신적인 치료 전략 및 중재 방법 개발의 기초가 될 수 있음"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
       "featured": false
     }
   ]
