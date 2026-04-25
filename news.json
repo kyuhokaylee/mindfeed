@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-25T06:09:36.147735+00:00",
+  "updated": "2026-04-25T10:06:10.106916+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ac49b8249a88",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "18시간 전 / 18h ago",
+      "title": "Certainty in your feelings toward your partner predicts relationship happiness and mental well-being",
+      "titleKo": "파트너에 대한 감정의 확실성은 관계 행복과 정신 건강을 예측한다",
+      "summary": "Being highly certain about your positive feelings for a romantic partner is associated with a happier, more stable relationship. A new study shows this confidence also predicts better mental health, particularly for couples together for many years.",
+      "aiSummary": "This study investigated how certainty about positive feelings toward a romantic partner influences relationship satisfaction and mental health. Researchers examined long-term couples, measuring the degree of confidence in their positive feelings and analyzing its association with relationship happiness and mental well-being indicators. Key findings revealed that individuals with clear and certain feelings toward their partners maintained happier, more stable relationships, with this pattern being particularly pronounced among couples in long-term relationships. This certainty demonstrated predictive power not only for relationship satisfaction but also for mental health outcomes including depression and anxiety levels. The research highlights the importance of emotional clarity and confidence in relationship sustainability and individual psychological well-being. However, limitations include potential cultural specificity of the sample and the need for clearer establishment of causal relationships.\n\n##",
+      "aiSummaryKo": "이 연구는 로맨틱 파트너에 대한 감정의 확실성이 관계 만족도와 정신 건강에 미치는 영향을 조사했습니다. 연구진은 장기간 함께한 커플들을 대상으로 자신의 긍정적 감정에 대한 확신 정도를 측정하고 관계 행복도 및 정신 건강 상태와의 연관성을 분석했습니다. 주요 결과는 파트너에 대한 감정이 명확하고 확실한 사람들이 더 행복한 관계를 유지하고 있었으며, 특히 오랫동안 함께한 커플에서 이러한 경향이 더 강했습니다. 이 확실성은 단순히 관계 만족도뿐 아니라 우울증, 불안감 등 정신 건강 지표에서도 긍정적인 예측력을 보였습니다. 이 연구는 관계 심리학에서 감정의 '질'이 관계 지속성과 개인 안녕감에 얼마나 중요한지를 보여줍니다. 다만 연구가 특정 문화권 표본에 국한되었을 가능성과 인과관계의 명확한 규명이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated how certainty about positive feelings toward a romantic partner influences relationship satisfaction and mental health. Researchers examined long-term couples, measuring the degree of confidence in their positive feelings and analyzing its association with relationship happiness and mental well-being indicators. Key findings revealed that individuals with clear and certain feelings toward their partners maintained happier, more stable relationships, with this pattern being particularly pronounced among couples in long-term relationships. This certainty demonstrated predictive power not only for relationship satisfaction but also for mental health outcomes including depression and anxiety levels. The research highlights the importance of emotional clarity and confidence in relationship sustainability and individual psychological well-being. However, limitations include potential cultural specificity of the sample and the need for clearer establishment of causal relationships.\n\n##",
+      "keyPoints": [
+        "감정의 확실성 / Emotional certainty about partner feelings predicts relationship happiness and stability",
+        "장기 관계에서의 효과 / Effect is particularly strong in long-term couples who have been together for many years",
+        "정신 건강과의 연관 / Relationship confidence correlates with better mental health outcomes including reduced depression and anxiety",
+        "감정의 '질' 중요성 / Quality of emotional conviction matters more than intensity alone for relationship well-being"
+      ],
+      "url": "https://www.psypost.org/certainty-in-your-feelings-toward-your-partner-predicts-relationship-happiness-and-mental-well-being/",
+      "featured": true
+    },
     {
       "id": "eeb59e427bad",
       "tag": "ai",
@@ -21,7 +42,7 @@
         "**보안·윤리적 검토의 중요성** / Security restrictions and need for ethical and legal review before practical implementation of autonomous military systems"
       ],
       "url": "https://arxiv.org/abs/2604.20862",
-      "featured": true
+      "featured": false
     },
     {
       "id": "91917a1c85de",
@@ -399,27 +420,6 @@
         "**연구 한계와 확장 필요성** / Study Limitations and Future Direction"
       ],
       "url": "https://arxiv.org/abs/2604.19754",
-      "featured": false
-    },
-    {
-      "id": "a1c7733b8a1f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Frequency-Forcing: From Scaling-as-Time to Soft Frequency Guidance",
-      "titleKo": "주파수 강제: 시간-스케일링에서 소프트 주파수 가이던스로",
-      "summary": "arXiv:2604.20902v1 Announce Type: new Abstract: While standard flow-matching models transport noise to data uniformly, incorporating an explicit generation order - specifically, establishing coarse, low-frequency structure before fine detail - has proven highly effective for synthesizing natural images. Two recent works offer distinct paradigms for this. K-Flow imposes a hard frequency constraint by reinterpreting a frequency scaling variable as flow time, running the trajectory inside a transformed amplitude space. Latent Forcing provides a soft ordering mechanism by coupling the pixel flow w",
-      "aiSummary": "This research develops a frequency-control method to improve the performance of Flow-Matching models, a type of image generation AI. While standard Flow-Matching models uniformly transform noise into data, the researchers explicitly incorporate a generation order where coarse, low-frequency structures are created before fine-detailed, high-frequency components. The team compared two paradigms: K-Flow, which applies hard frequency constraints by reinterpreting frequency scaling as flow time, and Latent Forcing, which uses a soft alignment mechanism. Experimental results demonstrate that models following explicit generation orders achieve significantly higher efficiency in synthesizing natural images. The significance lies in improving AI image generation quality and providing more effective control over the generation process. However, the research focuses solely on image generation, and further validation in other data types and real-world applications is needed.\n\n##",
-      "aiSummaryKo": "이 연구는 이미지 생성 AI 모델인 플로우 매칭(Flow-Matching) 모델의 성능을 향상시키기 위해 주파수 제어 방식을 개발했습니다. 기존의 표준 플로우 매칭 모델은 노이즈를 데이터로 균일하게 변환하지만, 연구진은 먼저 이미지의 전체적인 구조(저주파)를 생성한 후 세부 사항(고주파)을 추가하는 순서를 명시적으로 도입했습니다. 연구팀은 K-Flow와 Latent Forcing 등 두 가지 패러다임을 비교 분석했으며, 빈도 스케일링 변수를 흐름 시간으로 해석하거나 소프트 정렬 메커니즘을 적용했습니다. 실험 결과 명시적 생성 순서를 따르는 모델이 자연스러운 이미지 합성에서 상당히 높은 효율성을 보였습니다. 이 연구의 의의는 AI 이미지 생성 품질을 개선하고 생성 과정을 더 효과적으로 제어할 수 있는 방법을 제시한다는 점입니다. 다만 연구는 이미지 생성에만 초점을 맞추었으며, 다른 유형의 데이터나 실제 응용 환경에서의 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research develops a frequency-control method to improve the performance of Flow-Matching models, a type of image generation AI. While standard Flow-Matching models uniformly transform noise into data, the researchers explicitly incorporate a generation order where coarse, low-frequency structures are created before fine-detailed, high-frequency components. The team compared two paradigms: K-Flow, which applies hard frequency constraints by reinterpreting frequency scaling as flow time, and Latent Forcing, which uses a soft alignment mechanism. Experimental results demonstrate that models following explicit generation orders achieve significantly higher efficiency in synthesizing natural images. The significance lies in improving AI image generation quality and providing more effective control over the generation process. However, the research focuses solely on image generation, and further validation in other data types and real-world applications is needed.\n\n##",
-      "keyPoints": [
-        "**포인트 1** / **Point 1**",
-        "frequency (overall structure) to high-frequency (fine details) is highly effective for natural image synthesis",
-        "**포인트 2** / **Point 2**",
-        "Flow는 하드 주파수 제약(변수 변환), Latent Forcing은 소프트 정렬 메커니즘으로 각각 다른 접근 방식 제시"
-      ],
-      "url": "https://arxiv.org/abs/2604.20902",
       "featured": false
     }
   ]
