@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-25T21:55:43.834149+00:00",
+  "updated": "2026-04-25T23:59:20.836051+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9aa9dfb7d76a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Tiny mitochondrial proteins may explain the health benefits of the Mediterranean diet",
+      "titleKo": "미토콘드리아의 작은 단백질이 지중해식 식단의 건강상 이점을 설명할 수 있다",
+      "summary": "A recent study reveals that following a Mediterranean diet increases levels of Humanin and SHMOOSE. These microscopic cellular proteins help protect the heart and brain from age-related damage, offering a biological explanation for the diet's well-known health benefits.",
+      "aiSummary": "A recent study has identified the biological mechanism behind the well-documented health benefits of the Mediterranean diet. Researchers measured levels of mitochondrial proteins in the blood of individuals following a Mediterranean diet. The study found that participants on the Mediterranean diet showed increased levels of two mitochondrial proteins: Humanin and SHMOOSE. These proteins are produced in mitochondria, the cellular powerhouses responsible for energy production, and play a protective role against age-related damage to the heart and brain. This discovery provides molecular-level evidence explaining why the Mediterranean diet has long been associated with improved health outcomes. However, the research only confirmed increased protein levels, and further studies are needed to understand the detailed mechanisms and long-term effects.\n\n##",
+      "aiSummaryKo": "최근 연구에 따르면 지중해식 식단이 건강에 좋다는 것의 생물학적 메커니즘이 밝혀졌습니다. 연구팀은 지중해식 식단을 따르는 사람들을 대상으로 혈액 내 미토콘드리아 단백질 수치를 측정했습니다. 연구 결과, 지중해식 식단을 섭취한 사람들에게서 '휴머닌(Humanin)'과 '슈무즈(SHMOOSE)'라는 미토콘드리아 단백질의 수치가 증가했습니다. 이 두 단백질은 세포의 에너지 생산소인 미토콘드리아에서 생성되며, 노화로 인한 심장과 뇌 손상으로부터 세포를 보호하는 역할을 합니다. 이번 발견은 지중해식 식단이 오랫동안 알려져 온 건강상의 이점을 분자 수준에서 설명해주는 중요한 증거입니다. 다만 이 연구는 단백질 수치 증가를 확인한 것으로, 구체적인 메커니즘과 장기적 효과에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "A recent study has identified the biological mechanism behind the well-documented health benefits of the Mediterranean diet. Researchers measured levels of mitochondrial proteins in the blood of individuals following a Mediterranean diet. The study found that participants on the Mediterranean diet showed increased levels of two mitochondrial proteins: Humanin and SHMOOSE. These proteins are produced in mitochondria, the cellular powerhouses responsible for energy production, and play a protective role against age-related damage to the heart and brain. This discovery provides molecular-level evidence explaining why the Mediterranean diet has long been associated with improved health outcomes. However, the research only confirmed increased protein levels, and further studies are needed to understand the detailed mechanisms and long-term effects.\n\n##",
+      "keyPoints": [
+        "**미토콘드리아 단백질의 역할** / Mitochondrial proteins' protective function: 휴머닌과 슈무즈는 노화 관련 심장, 뇌 손상으로부터 세포 보호 / Humanin and SHMOOSE protect cells from age-related damage to the heart and brain",
+        "**지중해식 식단의 과학적 근거** / Scientific basis for Mediterranean diet: 식단 구성이 특정 미토콘드리아 단백질 생성 증가로 이어짐 / Diet composition leads to increased production of specific mitochondrial proteins",
+        "**분자 수준의 건강 메커니즘** / Molecular-level health mechanism: 영양소가 세포 에너지 생성 및 보호 체계를 활성화 / Nutrients activate cellular energy production and protection systems",
+        "**추가 연구 필요성** / Need for further research: 단백질 수치 증가 확인 후 장기 효과 및 구체적 메커니즘 규명 필요 / Long-term effects and detailed mechanisms need clarification beyond protein level confirmation"
+      ],
+      "url": "https://www.psypost.org/tiny-mitochondrial-proteins-may-explain-the-health-benefits-of-the-mediterranean-diet/",
+      "featured": true
+    },
+    {
+      "id": "cd240b7cbb5e",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "For the first time, scientists pinpoint the brain cells behind depression",
+      "titleKo": "과학자들, 우울증의 원인이 되는 뇌세포를 처음으로 규명하다",
+      "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
+      "aiSummary": "For the first time, scientists have directly identified specific brain cell changes in people with depression by analyzing donated brain tissue using advanced genetic analysis tools. Researchers discovered differences in two types of brain cells between depressed individuals and healthy controls: neurons involved in mood and stress regulation, and microglia cells responsible for immune functions. These findings provide biological evidence that depression is rooted in brain dysfunction rather than being merely an emotional condition. The research demonstrates specific disruptions in key brain systems and opens new pathways for understanding depression's biological mechanisms and developing more effective treatments. By examining actual brain tissue, scientists have strengthened the scientific foundation linking depression to measurable biological changes. However, the study's limitation is that it was conducted only on donated brain tissue samples, meaning further research with living patients is necessary to confirm and expand these findings.\n\n##",
+      "aiSummaryKo": "이 연구는 우울증 환자의 뇌에서 어떤 변화가 일어나는지 직접 확인한 최초의 연구입니다. 과학자들은 기증받은 뇌 조직을 첨단 유전자 분석 도구로 검사하여 우울증 환자와 정상인의 뇌 세포 차이를 발견했습니다. 연구팀은 기분과 스트레스 조절에 관여하는 신경세포와 면역 기능을 담당하는 미세아교세포라는 두 가지 뇌 세포 유형에서 구체적인 변화를 확인했습니다. 이러한 발견은 우울증이 단순한 감정 문제가 아니라 뇌의 생물학적 변화로 인한 질환이라는 것을 과학적으로 입증합니다. 이 연구는 우울증의 원인을 이해하고 더 효과적인 치료법 개발의 길을 열 수 있다는 점에서 매우 의미 있습니다. 다만 본 연구는 기증 뇌 조직만을 분석했기 때문에, 살아있는 환자를 대상으로 한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "For the first time, scientists have directly identified specific brain cell changes in people with depression by analyzing donated brain tissue using advanced genetic analysis tools. Researchers discovered differences in two types of brain cells between depressed individuals and healthy controls: neurons involved in mood and stress regulation, and microglia cells responsible for immune functions. These findings provide biological evidence that depression is rooted in brain dysfunction rather than being merely an emotional condition. The research demonstrates specific disruptions in key brain systems and opens new pathways for understanding depression's biological mechanisms and developing more effective treatments. By examining actual brain tissue, scientists have strengthened the scientific foundation linking depression to measurable biological changes. However, the study's limitation is that it was conducted only on donated brain tissue samples, meaning further research with living patients is necessary to confirm and expand these findings.\n\n##",
+      "keyPoints": [
+        "**우울증의 생물학적 증거 규명** / Identification of biological evidence for depression - 우울증이 감정 문제가 아닌 뇌의 구체적 세포 변화로 인한 질환임을 과학적으로 증명 / Scientifically proven that depression results from specific brain cell changes, not merely emotional issues",
+        "**두 가지 핵심 뇌 세포 발견** / Discovery of two critical brain cell types - 기분·스트레스 조절 신경세포와 면역 미세아교세포에서 우울증 환자의 차이 확인 / Identified differences in mood-regulating neurons and immune-related microglia cells in depressed patients",
+        "**첨단 유전자 분석 기술 활용** / Use of advanced genetic analysis tools - 기증 뇌 조직을 정밀하게 분석하여 눈에 보이지 않는 세포 수준의 변화를 감지 / Advanced technology enabled detection of microscopic cell-level changes not visible to the naked eye",
+        "**치료법 개발의 과학적 기초 마련** / Foundation for developing new treatments - 우울증의 생물학적 원인 파악으로 더 정확하고 효과적인 치료법 개발 가능성 증대 / Opens new possibilities for developing targeted and more effective depression treatments based on biological understanding"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
+      "featured": false
+    },
+    {
+      "id": "468080a7a8cc",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
+      "titleKo": "80세 노인들이 50세의 기억력을 가지고 있다. 과학자들이 그 이유를 밝혀냈다",
+      "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that their social lifestyles and unique brain biology may hold the key to preserving cognitive function. Scientists believe these insights could pave the way for new strategies to delay or even prevent dementia.",
+      "aiSummary": "A rare group of adults over 80, known as SuperAgers, maintain memory abilities comparable to people in their 50s, fundamentally challenging our understanding of cognitive aging. These exceptional individuals' brains effectively resist or withstand the damage typically associated with Alzheimer's disease that affects most aging populations. Decades of longitudinal research have identified that their active social lifestyles and distinctive brain biology are key factors in preserving cognitive function. Scientists believe these findings could lead to the development of new therapeutic strategies to delay or even prevent dementia in the general aging population. The research employed observational study designs examining natural brain aging patterns and included detailed lifestyle analysis of SuperAgers. However, the study faces limitations including the small sample size of SuperAgers and difficulty in clearly distinguishing between genetic and environmental factors' relative contributions to their cognitive resilience.\n\n##",
+      "aiSummaryKo": "80대 노인 중 일부는 50대 수준의 기억력을 유지하는데, 과학자들이 그 비결을 밝혀냈다. '슈퍼에이저'라 불리는 이 희귀한 집단은 일반적으로 나이와 함께 나타나는 알츠하이머병 관련 뇌 손상을 효과적으로 저항하거나 견디어낸다. 수십 년간의 연구에 따르면, 이들의 활발한 사회생활과 독특한 뇌 생물학적 특성이 인지 기능 보존의 핵심 요소인 것으로 나타났다. 연구자들은 이러한 발견이 치매 지연 또는 예방을 위한 새로운 치료 전략 개발로 이어질 수 있다고 믿고 있다. 이 연구는 뇌 노화의 자연적 현상을 관찰하는 종단 연구 설계로 진행되었으며, 슈퍼에이저들의 생활 방식 분석을 포함했다. 다만 슈퍼에이저 집단의 규모가 작고, 유전적 요인과 환경적 요인의 상대적 영향을 명확히 구분하기 어려운 한계가 있다.\n\n##",
+      "aiSummaryEn": "A rare group of adults over 80, known as SuperAgers, maintain memory abilities comparable to people in their 50s, fundamentally challenging our understanding of cognitive aging. These exceptional individuals' brains effectively resist or withstand the damage typically associated with Alzheimer's disease that affects most aging populations. Decades of longitudinal research have identified that their active social lifestyles and distinctive brain biology are key factors in preserving cognitive function. Scientists believe these findings could lead to the development of new therapeutic strategies to delay or even prevent dementia in the general aging population. The research employed observational study designs examining natural brain aging patterns and included detailed lifestyle analysis of SuperAgers. However, the study faces limitations including the small sample size of SuperAgers and difficulty in clearly distinguishing between genetic and environmental factors' relative contributions to their cognitive resilience.\n\n##",
+      "keyPoints": [
+        "**슈퍼에이저의 인지능력**: 80대 노인이 50대 수준의 기억력을 유지 / SuperAgers maintain 50-year-old level cognitive abilities despite being over 80 years old",
+        "**뇌 보호 메커니즘**: 알츠하이머병 관련 뇌 손상에 저항하거나 견디는 독특한 뇌 생물학적 특성 / Unique brain biology that resists or withstands Alzheimer's-related brain damage",
+        "**사회생활의 역할**: 활발한 사회적 상호작용이 인지 기능 보존과 밀접한 연관 / Active social engagement plays a significant role in preserving cognitive function",
+        "**임상적 시사점**: 치매 예방 및 지연을 위한 새로운 치료 전략 개발 가능성 / Potential development of novel therapeutic strategies for dementia prevention and delay"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
+      "featured": false
+    },
     {
       "id": "6e9a72498b9f",
       "tag": "psych",
@@ -21,7 +84,7 @@
         "**추가 연구의 필요성** / **Need for Further Research**: 문화적·세대적 차이와 장기적 태도 변화에 대한 추가 조사 필요"
       ],
       "url": "https://www.psypost.org/people-view-the-term-sex-worker-much-more-positively-than-prostitute-or-hooker/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5861058901d0",
@@ -357,69 +420,6 @@
         "**개인주의 패러다임의 재검토**: 심리학과 생물학적 증거는 전통적인 개인주의적 인간관의 수정을 요구함 / Reevaluation of individualism paradigm: Psychological and biological evidence demands revision of traditional individualistic views of human nature"
       ],
       "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "15c3d905a928",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "How eye contact shapes the believability of computer-generated faces",
-      "titleKo": "눈 접촉이 컴퓨터로 생성된 얼굴의 신뢰성에 미치는 영향",
-      "summary": "Virtual characters are becoming common in daily life, but their artificial faces can sometimes feel hollow. New research shows that a digital human can look far more authentic simply by pointing their eyes in the proper direction.",
-      "aiSummary": "Virtual characters are increasingly present in daily life, but artificially created faces often appear unnatural and unconvincing. Recent research demonstrates that digital humans can appear significantly more authentic and credible simply by directing their eyes appropriately during interactions. The study was designed to investigate how eye gaze direction affects the believability of computer-generated faces, with participants evaluating virtual characters under various eye contact conditions. The findings revealed that digital humans maintaining appropriate eye contact appeared considerably more trustworthy and natural to observers compared to those avoiding eye contact. These discoveries have significant potential to enhance user experience across multiple applications including virtual reality, online education, AI chatbots, and digital communication platforms. However, the study may have been conducted primarily with Western participants, and there may be cultural variations in how eye contact is interpreted across different regions.\n\n##",
-      "aiSummaryKo": "가상 캐릭터가 일상생활에서 점점 더 흔해지고 있지만, 인공적으로 만들어진 얼굴이 어딘가 부자연스러워 보이는 문제가 있었습니다. 최근 연구에 따르면 디지털 인간이 단순히 눈 초점을 올바른 방향으로 향하는 것만으로도 훨씬 더 진정성 있고 신뢰할 수 있게 보일 수 있다는 것을 발견했습니다. 이 연구는 시선 방향이 컴퓨터 생성 얼굴의 신뢰도에 미치는 영향을 조사하기 위해 설계되었으며, 참가자들이 다양한 눈 접촉 조건에서 가상 캐릭터를 평가하도록 했습니다. 연구 결과, 적절한 눈 맞춤을 유지하는 디지털 인간이 눈을 피하는 경우보다 관찰자들에게 훨씬 더 신뢰감 있고 자연스러워 보였습니다. 이러한 발견은 가상 현실, 온라인 교육, AI 챗봇 등 다양한 응용 분야에서 사용자 경험을 크게 향상시킬 수 있는 잠재력을 가지고 있습니다. 다만 이 연구는 주로 서구권 참가자들을 대상으로 진행되었을 가능성이 있으며, 문화권에 따라 눈 맞춤의 해석이 다를 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "Virtual characters are increasingly present in daily life, but artificially created faces often appear unnatural and unconvincing. Recent research demonstrates that digital humans can appear significantly more authentic and credible simply by directing their eyes appropriately during interactions. The study was designed to investigate how eye gaze direction affects the believability of computer-generated faces, with participants evaluating virtual characters under various eye contact conditions. The findings revealed that digital humans maintaining appropriate eye contact appeared considerably more trustworthy and natural to observers compared to those avoiding eye contact. These discoveries have significant potential to enhance user experience across multiple applications including virtual reality, online education, AI chatbots, and digital communication platforms. However, the study may have been conducted primarily with Western participants, and there may be cultural variations in how eye contact is interpreted across different regions.\n\n##",
-      "keyPoints": [
-        "**시선 방향의 중요성** / Importance of Eye Gaze Direction",
-        "**사용자 신뢰도 향상** / Enhanced User Credibility",
-        "**다양한 응용 분야의 가능성** / Broad Application Potential",
-        "컴퓨터 상호작용이 필요한 모든 분야에서 사용자 경험을 개선할 수 있습니다."
-      ],
-      "url": "https://www.psypost.org/how-eye-contact-shapes-the-believability-of-computer-generated-faces/",
-      "featured": false
-    },
-    {
-      "id": "1a2ec7e51525",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-      "titleKo": "도구 과다사용 환상: LLM은 왜 내부 지식보다 외부 도구를 선호할까?",
-      "summary": "arXiv:2604.19749v1 Announce Type: new Abstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during reasoning. In this paper, we first reveal this phenomenon is pervasive across diverse LLMs. We then experimentally elucidate its underlying mechanisms through two key lenses: (1) First, by analyzing tool-use behavior across different internal knowledge availability regions, we identify a \\textit{knowledge epistemic illusion}: models misjudge internal",
-      "aiSummary": "This study investigates the phenomenon of tool overuse in large language models (LLMs), where models unnecessarily rely on external tools despite possessing sufficient internal knowledge to solve problems. Researchers conducted experiments across diverse LLM architectures to demonstrate that tool overuse is a widespread issue. The key findings reveal two mechanisms: first, models suffer from \"knowledge epistemic illusion,\" where they misjudge the boundaries of their internal knowledge; second, excessive reliance on external tools drives unnecessary tool-use behavior. This research has significant implications for optimizing LLM efficiency and improving the balance between internal reasoning and tool utilization. However, the study is limited by its focus on specific task domains and the incomplete coverage of all available LLM models.\n\n##",
-      "aiSummaryKo": "이 연구는 대규모 언어 모델(LLM)이 자신의 내부 지식을 활용할 수 있음에도 불필요하게 외부 도구를 과다하게 사용하는 현상을 규명합니다. 연구팀은 다양한 LLM들을 대상으로 여러 실험을 진행하여 이러한 도구 과다 사용이 널리 퍼진 현상임을 증명했습니다. 핵심 발견은 두 가지로, 첫째 모델들이 자신이 가진 내부 지식의 범위를 잘못 판단하는 '지식 인식 착각' 현상이 발생하며, 둘째 외부 도구 사용에 대한 과도한 신뢰가 불필요한 도구 호출을 유발한다는 것입니다. 이 연구는 LLM이 보유한 지식과 도구 사용 능력을 더 효율적으로 활용할 수 있는 방안을 제시하는 의의가 있습니다. 다만, 특정 도메인의 제한된 작업만 분석했다는 점과 모든 LLM 모델을 포함하지 못했다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigates the phenomenon of tool overuse in large language models (LLMs), where models unnecessarily rely on external tools despite possessing sufficient internal knowledge to solve problems. Researchers conducted experiments across diverse LLM architectures to demonstrate that tool overuse is a widespread issue. The key findings reveal two mechanisms: first, models suffer from \"knowledge epistemic illusion,\" where they misjudge the boundaries of their internal knowledge; second, excessive reliance on external tools drives unnecessary tool-use behavior. This research has significant implications for optimizing LLM efficiency and improving the balance between internal reasoning and tool utilization. However, the study is limited by its focus on specific task domains and the incomplete coverage of all available LLM models.\n\n##",
-      "keyPoints": [
-        "**도구 과다 사용 현상의 보편성** / Tool overuse is a pervasive phenomenon across diverse LLMs that has been under-explored until now",
-        "**지식 인식 착각 메커니즘** / Models experience \"knowledge epistemic illusion\" where they misjudge the boundaries of their internal knowledge capabilities",
-        "**과도한 도구 신뢰** / Excessive reliance and trust in external tools drives unnecessary tool-use behavior even when internal knowledge suffices",
-        "**효율성 개선의 필요성** / Better calibration between internal knowledge utilization and external tool use is essential for improving LLM efficiency and reasoning quality"
-      ],
-      "url": "https://arxiv.org/abs/2604.19749",
-      "featured": false
-    },
-    {
-      "id": "562018916c89",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
-      "titleKo": "AI to Learn 2.0: 학습 집약적 영역의 불투명한 AI를 위한 결과 중심 거버넌스 프레임워크 및 성숙도 평가기준",
-      "summary": "arXiv:2604.19751v1 Announce Type: new Abstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, or transfer ability that the work is supposed to cultivate or certify. This paper proposes AI to Learn 2.0, a deliverable-oriented governance framework for AI-assisted work. Rather than claiming elemen",
-      "aiSummary": "Generative AI is rapidly entering education, research, and professional domains, yet current governance frameworks lack clear standards for evaluating AI-assisted work in these learning-intensive settings. The core problem identified is \"proxy failure\"—where polished AI-generated outputs no longer credibly demonstrate the human understanding, judgment, or transfer abilities that educational institutions aim to cultivate and certify. This paper proposes \"AI to Learn 2.0,\" a deliverable-oriented governance framework specifically designed for evaluating AI-assisted work, including a maturity rubric for assessing the reliability of such outputs. The framework addresses transparency challenges in AI use within learning and professional domains by providing practical evaluation criteria. This research contributes by offering structured standards for transparent AI governance in educational settings. However, the framework is still in early stages and requires further validation across diverse learning environments.\n\n##",
-      "aiSummaryKo": "생성형 AI가 교육, 연구, 직업 현장에 빠르게 확산되고 있으나, 이러한 AI 보조 결과물을 어떻게 평가할지에 대한 거버넌스 틀이 부족한 상황이다. 본 연구의 핵심 문제는 '대리 실패(proxy failure)' 현상으로, 겉으로는 완성도 높은 결과물이 학습자의 실제 이해도나 능력을 더 이상 증명하지 못하는 상황을 지칭한다. 이 논문은 'AI to Learn 2.0'이라는 AI 보조 작업을 위한 결과물 중심의 거버넌스 프레임워크를 제안한다. 이 프레임워크는 학습 집약적 분야에서 AI 활용 결과물의 신뢰성을 평가할 수 있는 성숙도 평가지표(maturity rubric)를 포함한다. 연구는 교육 및 전문 영역에서 AI 투명성 문제를 해결하기 위한 실질적인 평가 기준을 제시하는 데 의의가 있다. 다만 현재 초안 단계이며, 다양한 학습 환경에서의 추가 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "Generative AI is rapidly entering education, research, and professional domains, yet current governance frameworks lack clear standards for evaluating AI-assisted work in these learning-intensive settings. The core problem identified is \"proxy failure\"—where polished AI-generated outputs no longer credibly demonstrate the human understanding, judgment, or transfer abilities that educational institutions aim to cultivate and certify. This paper proposes \"AI to Learn 2.0,\" a deliverable-oriented governance framework specifically designed for evaluating AI-assisted work, including a maturity rubric for assessing the reliability of such outputs. The framework addresses transparency challenges in AI use within learning and professional domains by providing practical evaluation criteria. This research contributes by offering structured standards for transparent AI governance in educational settings. However, the framework is still in early stages and requires further validation across diverse learning environments.\n\n##",
-      "keyPoints": [
-        "**대리 실패 현상** / Proxy Failure Problem: AI가 생성한 완성도 높은 결과물이 학습자의 실제 능력과 이해를 더 이상 증명하지 못하는 근본적인 문제",
-        "**결과물 중심 거버넌스** / Deliverable-Oriented Framework: AI 보조 작업의 품질을 평가하기 위한 투명하고 실질적인 기준 제시",
-        "**성숙도 평가지표** / Maturity Rubric: 학습 집약적 분야에서 AI 활용 결과의 신뢰성을 단계별로 평가할 수 있는 구체적 측정 도구",
-        "**교육-직업 현장 적용** / Practical Application: 교육기관과 전문직 영역에서 AI 투명성과 신뢰도 관리를 위한 실용적 솔루션 제공"
-      ],
-      "url": "https://arxiv.org/abs/2604.19751",
       "featured": false
     }
   ]
