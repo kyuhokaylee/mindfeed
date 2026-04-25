@@ -1,7 +1,154 @@
 {
-  "updated": "2026-04-24T21:36:00.643717+00:00",
+  "updated": "2026-04-25T00:01:01.252410+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "15c3d905a928",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "How eye contact shapes the believability of computer-generated faces",
+      "titleKo": "눈 접촉이 컴퓨터로 생성된 얼굴의 신뢰성에 미치는 영향",
+      "summary": "Virtual characters are becoming common in daily life, but their artificial faces can sometimes feel hollow. New research shows that a digital human can look far more authentic simply by pointing their eyes in the proper direction.",
+      "aiSummary": "Virtual characters are increasingly present in daily life, but artificially created faces often appear unnatural and unconvincing. Recent research demonstrates that digital humans can appear significantly more authentic and credible simply by directing their eyes appropriately during interactions. The study was designed to investigate how eye gaze direction affects the believability of computer-generated faces, with participants evaluating virtual characters under various eye contact conditions. The findings revealed that digital humans maintaining appropriate eye contact appeared considerably more trustworthy and natural to observers compared to those avoiding eye contact. These discoveries have significant potential to enhance user experience across multiple applications including virtual reality, online education, AI chatbots, and digital communication platforms. However, the study may have been conducted primarily with Western participants, and there may be cultural variations in how eye contact is interpreted across different regions.\n\n##",
+      "aiSummaryKo": "가상 캐릭터가 일상생활에서 점점 더 흔해지고 있지만, 인공적으로 만들어진 얼굴이 어딘가 부자연스러워 보이는 문제가 있었습니다. 최근 연구에 따르면 디지털 인간이 단순히 눈 초점을 올바른 방향으로 향하는 것만으로도 훨씬 더 진정성 있고 신뢰할 수 있게 보일 수 있다는 것을 발견했습니다. 이 연구는 시선 방향이 컴퓨터 생성 얼굴의 신뢰도에 미치는 영향을 조사하기 위해 설계되었으며, 참가자들이 다양한 눈 접촉 조건에서 가상 캐릭터를 평가하도록 했습니다. 연구 결과, 적절한 눈 맞춤을 유지하는 디지털 인간이 눈을 피하는 경우보다 관찰자들에게 훨씬 더 신뢰감 있고 자연스러워 보였습니다. 이러한 발견은 가상 현실, 온라인 교육, AI 챗봇 등 다양한 응용 분야에서 사용자 경험을 크게 향상시킬 수 있는 잠재력을 가지고 있습니다. 다만 이 연구는 주로 서구권 참가자들을 대상으로 진행되었을 가능성이 있으며, 문화권에 따라 눈 맞춤의 해석이 다를 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "Virtual characters are increasingly present in daily life, but artificially created faces often appear unnatural and unconvincing. Recent research demonstrates that digital humans can appear significantly more authentic and credible simply by directing their eyes appropriately during interactions. The study was designed to investigate how eye gaze direction affects the believability of computer-generated faces, with participants evaluating virtual characters under various eye contact conditions. The findings revealed that digital humans maintaining appropriate eye contact appeared considerably more trustworthy and natural to observers compared to those avoiding eye contact. These discoveries have significant potential to enhance user experience across multiple applications including virtual reality, online education, AI chatbots, and digital communication platforms. However, the study may have been conducted primarily with Western participants, and there may be cultural variations in how eye contact is interpreted across different regions.\n\n##",
+      "keyPoints": [
+        "**시선 방향의 중요성** / Importance of Eye Gaze Direction",
+        "**사용자 신뢰도 향상** / Enhanced User Credibility",
+        "**다양한 응용 분야의 가능성** / Broad Application Potential",
+        "컴퓨터 상호작용이 필요한 모든 분야에서 사용자 경험을 개선할 수 있습니다."
+      ],
+      "url": "https://www.psypost.org/how-eye-contact-shapes-the-believability-of-computer-generated-faces/",
+      "featured": true
+    },
+    {
+      "id": "1a2ec7e51525",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+      "titleKo": "도구 과다사용 환상: LLM은 왜 내부 지식보다 외부 도구를 선호할까?",
+      "summary": "arXiv:2604.19749v1 Announce Type: new Abstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during reasoning. In this paper, we first reveal this phenomenon is pervasive across diverse LLMs. We then experimentally elucidate its underlying mechanisms through two key lenses: (1) First, by analyzing tool-use behavior across different internal knowledge availability regions, we identify a \\textit{knowledge epistemic illusion}: models misjudge internal",
+      "aiSummary": "This study investigates the phenomenon of tool overuse in large language models (LLMs), where models unnecessarily rely on external tools despite possessing sufficient internal knowledge to solve problems. Researchers conducted experiments across diverse LLM architectures to demonstrate that tool overuse is a widespread issue. The key findings reveal two mechanisms: first, models suffer from \"knowledge epistemic illusion,\" where they misjudge the boundaries of their internal knowledge; second, excessive reliance on external tools drives unnecessary tool-use behavior. This research has significant implications for optimizing LLM efficiency and improving the balance between internal reasoning and tool utilization. However, the study is limited by its focus on specific task domains and the incomplete coverage of all available LLM models.\n\n##",
+      "aiSummaryKo": "이 연구는 대규모 언어 모델(LLM)이 자신의 내부 지식을 활용할 수 있음에도 불필요하게 외부 도구를 과다하게 사용하는 현상을 규명합니다. 연구팀은 다양한 LLM들을 대상으로 여러 실험을 진행하여 이러한 도구 과다 사용이 널리 퍼진 현상임을 증명했습니다. 핵심 발견은 두 가지로, 첫째 모델들이 자신이 가진 내부 지식의 범위를 잘못 판단하는 '지식 인식 착각' 현상이 발생하며, 둘째 외부 도구 사용에 대한 과도한 신뢰가 불필요한 도구 호출을 유발한다는 것입니다. 이 연구는 LLM이 보유한 지식과 도구 사용 능력을 더 효율적으로 활용할 수 있는 방안을 제시하는 의의가 있습니다. 다만, 특정 도메인의 제한된 작업만 분석했다는 점과 모든 LLM 모델을 포함하지 못했다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigates the phenomenon of tool overuse in large language models (LLMs), where models unnecessarily rely on external tools despite possessing sufficient internal knowledge to solve problems. Researchers conducted experiments across diverse LLM architectures to demonstrate that tool overuse is a widespread issue. The key findings reveal two mechanisms: first, models suffer from \"knowledge epistemic illusion,\" where they misjudge the boundaries of their internal knowledge; second, excessive reliance on external tools drives unnecessary tool-use behavior. This research has significant implications for optimizing LLM efficiency and improving the balance between internal reasoning and tool utilization. However, the study is limited by its focus on specific task domains and the incomplete coverage of all available LLM models.\n\n##",
+      "keyPoints": [
+        "**도구 과다 사용 현상의 보편성** / Tool overuse is a pervasive phenomenon across diverse LLMs that has been under-explored until now",
+        "**지식 인식 착각 메커니즘** / Models experience \"knowledge epistemic illusion\" where they misjudge the boundaries of their internal knowledge capabilities",
+        "**과도한 도구 신뢰** / Excessive reliance and trust in external tools drives unnecessary tool-use behavior even when internal knowledge suffices",
+        "**효율성 개선의 필요성** / Better calibration between internal knowledge utilization and external tool use is essential for improving LLM efficiency and reasoning quality"
+      ],
+      "url": "https://arxiv.org/abs/2604.19749",
+      "featured": false
+    },
+    {
+      "id": "562018916c89",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+      "titleKo": "AI to Learn 2.0: 학습 집약적 영역의 불투명한 AI를 위한 결과 중심 거버넌스 프레임워크 및 성숙도 평가기준",
+      "summary": "arXiv:2604.19751v1 Announce Type: new Abstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, or transfer ability that the work is supposed to cultivate or certify. This paper proposes AI to Learn 2.0, a deliverable-oriented governance framework for AI-assisted work. Rather than claiming elemen",
+      "aiSummary": "Generative AI is rapidly entering education, research, and professional domains, yet current governance frameworks lack clear standards for evaluating AI-assisted work in these learning-intensive settings. The core problem identified is \"proxy failure\"—where polished AI-generated outputs no longer credibly demonstrate the human understanding, judgment, or transfer abilities that educational institutions aim to cultivate and certify. This paper proposes \"AI to Learn 2.0,\" a deliverable-oriented governance framework specifically designed for evaluating AI-assisted work, including a maturity rubric for assessing the reliability of such outputs. The framework addresses transparency challenges in AI use within learning and professional domains by providing practical evaluation criteria. This research contributes by offering structured standards for transparent AI governance in educational settings. However, the framework is still in early stages and requires further validation across diverse learning environments.\n\n##",
+      "aiSummaryKo": "생성형 AI가 교육, 연구, 직업 현장에 빠르게 확산되고 있으나, 이러한 AI 보조 결과물을 어떻게 평가할지에 대한 거버넌스 틀이 부족한 상황이다. 본 연구의 핵심 문제는 '대리 실패(proxy failure)' 현상으로, 겉으로는 완성도 높은 결과물이 학습자의 실제 이해도나 능력을 더 이상 증명하지 못하는 상황을 지칭한다. 이 논문은 'AI to Learn 2.0'이라는 AI 보조 작업을 위한 결과물 중심의 거버넌스 프레임워크를 제안한다. 이 프레임워크는 학습 집약적 분야에서 AI 활용 결과물의 신뢰성을 평가할 수 있는 성숙도 평가지표(maturity rubric)를 포함한다. 연구는 교육 및 전문 영역에서 AI 투명성 문제를 해결하기 위한 실질적인 평가 기준을 제시하는 데 의의가 있다. 다만 현재 초안 단계이며, 다양한 학습 환경에서의 추가 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "Generative AI is rapidly entering education, research, and professional domains, yet current governance frameworks lack clear standards for evaluating AI-assisted work in these learning-intensive settings. The core problem identified is \"proxy failure\"—where polished AI-generated outputs no longer credibly demonstrate the human understanding, judgment, or transfer abilities that educational institutions aim to cultivate and certify. This paper proposes \"AI to Learn 2.0,\" a deliverable-oriented governance framework specifically designed for evaluating AI-assisted work, including a maturity rubric for assessing the reliability of such outputs. The framework addresses transparency challenges in AI use within learning and professional domains by providing practical evaluation criteria. This research contributes by offering structured standards for transparent AI governance in educational settings. However, the framework is still in early stages and requires further validation across diverse learning environments.\n\n##",
+      "keyPoints": [
+        "**대리 실패 현상** / Proxy Failure Problem: AI가 생성한 완성도 높은 결과물이 학습자의 실제 능력과 이해를 더 이상 증명하지 못하는 근본적인 문제",
+        "**결과물 중심 거버넌스** / Deliverable-Oriented Framework: AI 보조 작업의 품질을 평가하기 위한 투명하고 실질적인 기준 제시",
+        "**성숙도 평가지표** / Maturity Rubric: 학습 집약적 분야에서 AI 활용 결과의 신뢰성을 단계별로 평가할 수 있는 구체적 측정 도구",
+        "**교육-직업 현장 적용** / Practical Application: 교육기관과 전문직 영역에서 AI 투명성과 신뢰도 관리를 위한 실용적 솔루션 제공"
+      ],
+      "url": "https://arxiv.org/abs/2604.19751",
+      "featured": false
+    },
+    {
+      "id": "cd240b7cbb5e",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "For the first time, scientists pinpoint the brain cells behind depression",
+      "titleKo": "과학자들이 처음으로 우울증의 원인이 되는 뇌세포를 규명하다",
+      "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
+      "aiSummary": "For the first time, researchers have identified specific changes in brain cells of people with depression using advanced genetic analysis tools on donated brain tissue. The study examined two particular types of brain cells: neurons involved in mood and stress regulation, and microglia cells related to immune function. Both cell types showed significant differences between depressed and non-depressed individuals, indicating disruptions in key brain systems. These findings provide crucial biological evidence that depression is rooted in brain biology rather than being purely emotional or psychological. The research reinforces the neurobiological basis of depression and opens pathways for developing more targeted therapeutic interventions. However, the study's limitations include sample size and the need for broader investigation across diverse populations to confirm these findings.\n\n##",
+      "aiSummaryKo": "이번 연구는 우울증 환자의 뇌에서 어떤 변화가 일어나는지 처음으로 구체적으로 규명했습니다. 연구진은 기증된 뇌 조직을 첨단 유전자 분석 도구로 검사하여 우울증과 관련된 두 가지 특정 뇌세포 유형을 발견했습니다. 연구 대상은 우울증 환자와 정상인의 뇌 조직이며, 감정과 스트레스에 관련된 신경세포와 면역 기능을 담당하는 소교세포(미세아교세포)에서 유의미한 변화를 관찰했습니다. 연구 결과는 뇌의 주요 시스템에 장애가 있음을 보여주며, 우울증이 단순한 감정 문제가 아니라 생물학적 기반을 가진 질환임을 증명합니다. 이 발견은 우울증의 원인을 이해하고 더 효과적인 치료법 개발에 기여할 수 있습니다. 다만 뇌 조직 샘플 수와 다양성 측면에서 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "For the first time, researchers have identified specific changes in brain cells of people with depression using advanced genetic analysis tools on donated brain tissue. The study examined two particular types of brain cells: neurons involved in mood and stress regulation, and microglia cells related to immune function. Both cell types showed significant differences between depressed and non-depressed individuals, indicating disruptions in key brain systems. These findings provide crucial biological evidence that depression is rooted in brain biology rather than being purely emotional or psychological. The research reinforces the neurobiological basis of depression and opens pathways for developing more targeted therapeutic interventions. However, the study's limitations include sample size and the need for broader investigation across diverse populations to confirm these findings.\n\n##",
+      "keyPoints": [
+        "**두 가지 뇌세포 변화 발견** / Discovery of Two Brain Cell Types: 신경세포와 소교세포에서 우울증 환자만의 특이적 변화가 관찰됨 / Specific changes in neurons and microglia cells were identified in depressed individuals",
+        "**생물학적 근거 제시** / Biological Basis Confirmed: 우울증이 단순 감정 문제가 아니라 뇌의 생물학적 장애임을 과학적으로 입증 / Depression is demonstrated to be biologically rooted, not merely emotional",
+        "**스트레스-면역 체계 연관성** / Stress-Immune System Connection: 감정/스트레스 조절 신경세포와 면역세포의 동시 장애가 우울증과 연관됨 / Disruption in both mood regulation and immune-related cells suggests interconnected brain systems",
+        "**치료 개발 가능성** / Therapeutic Development Potential: 구체적 세포 변화 규명으로 타겟형 약물 개발 및 더 효과적인 치료법 개발에 기여 가능 / Identified cellular changes enable development of targeted treatments and more effective interventions"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
+      "featured": false
+    },
+    {
+      "id": "468080a7a8cc",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
+      "titleKo": "80대인데 50대의 기억력을 가진 사람들, 과학자들이 이유를 찾다",
+      "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that their social lifestyles and unique brain biology may hold the key to preserving cognitive function. Scientists believe these insights could pave the way for new strategies to delay or even prevent dementia.",
+      "aiSummary": "This research focuses on a rare group called \"SuperAgers\"—people over 80 who maintain memory abilities comparable to those in their 50s. These SuperAgers possess unique brain structures that resist or withstand brain damage typically associated with Alzheimer's disease during normal aging. Through decades of research, scientists have discovered that their active social lifestyles and distinctive brain biology are key factors in preserving cognitive function. The significance of this research lies in its potential to contribute to developing new therapeutic strategies for preventing and delaying dementia. However, the study has limitations in that certain genetic or lifestyle factors may not have uniform effects across all individuals, and individual variation remains substantial.\n\n##",
+      "aiSummaryKo": "이 연구는 80세 이상이면서도 50대의 기억력을 유지하는 '슈퍼에이저(SuperAgers)'라는 특수한 집단에 관한 것입니다. 슈퍼에이저들은 일반적인 노화 과정에서 나타나는 알츠하이머병 관련 뇌 손상을 저항하거나 견딜 수 있는 독특한 뇌 구조를 가지고 있습니다. 수십 년간의 연구를 통해 과학자들은 이들의 활발한 사회생활과 뇌의 특이한 생물학적 특성이 인지 기능 보존의 핵심 요소임을 발견했습니다. 이 연구의 의의는 치매 예방 및 지연을 위한 새로운 치료 전략 개발에 기여할 수 있다는 점입니다. 다만 이 연구는 특정 유전적 또는 생활 방식 요인이 모든 사람에게 동일하게 작용하지 않을 수 있다는 한계를 가지고 있습니다.\n\n##",
+      "aiSummaryEn": "This research focuses on a rare group called \"SuperAgers\"—people over 80 who maintain memory abilities comparable to those in their 50s. These SuperAgers possess unique brain structures that resist or withstand brain damage typically associated with Alzheimer's disease during normal aging. Through decades of research, scientists have discovered that their active social lifestyles and distinctive brain biology are key factors in preserving cognitive function. The significance of this research lies in its potential to contribute to developing new therapeutic strategies for preventing and delaying dementia. However, the study has limitations in that certain genetic or lifestyle factors may not have uniform effects across all individuals, and individual variation remains substantial.\n\n##",
+      "keyPoints": [
+        "**슈퍼에이저의 정의** / Definition of SuperAgers: 80세 이상이면서 50대 수준의 기억력을 유지하는 특수한 집단으로, 정상적인 노화에도 불구하고 인지 기능이 보존됨",
+        "**뇌 생물학적 특성** / Brain Biology: 슈퍼에이저들의 뇌는 알츠하이머병 관련 손상에 대한 저항력 또는 견딜성을 가지고 있어 일반 노인과 뇌 구조가 상이함",
+        "**보호 요인** / Protective Factors: 활발한 사회생활과 사회적 상호작용이 인지 기능 보존의 중요한 역할을 하며, 이는 치매 예방의 수정 가능한 요인으로 작용 가능",
+        "**임상적 함의** / Clinical Implications: 슈퍼에이저 연구 결과가 치매 예방 및 지연을 위한 혁신적인 치료 전략 및 중재 방법 개발의 기초가 될 수 있음"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
+      "featured": false
+    },
+    {
+      "id": "5861058901d0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "6일 전 / 6d ago",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "titleKo": "인공 신경세포가 살아있는 뇌세포와의 소통에 성공하다",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "aiSummary": "Researchers at Northwestern University have achieved a significant breakthrough by developing artificial neurons that can communicate with living brain cells through 3D printing technology. The team created flexible, cost-effective artificial neurons capable of generating biolike electrical signals that can activate biological brain cells, as demonstrated in mouse brain tissue experiments. The artificial neurons successfully established bidirectional signal transmission with living brain cells in the experimental model. This achievement opens possibilities for brain-computer interfaces, treatment of neurological diseases, and repair of damaged neural circuits. However, the current research is limited to animal models, and long-term safety validation and improved biocompatibility are necessary before human brain applications. Future advancements in material science and signal transmission accuracy may enable clinical applications in the coming years.\n\n##",
+      "aiSummaryKo": "노스웨스턴 대학교의 연구팀이 인공 뉴런과 살아있는 뇌세포 간의 실질적인 통신을 구현하는 데 성공했습니다. 연구팀은 3D 프린팅 기술을 이용하여 유연하고 저비용의 인공 뉴런을 제조했으며, 이 인공 뉴런이 생물학적 뇌세포를 활성화할 수 있는 생체 유사 전기 신호를 생성할 수 있음을 입증했습니다. 마우스 뇌 조직을 이용한 실험에서 인공 뉴런은 살아있는 뇌세포와 양방향 신호 전달을 성공적으로 수행했습니다. 이 연구는 뇌-컴퓨터 인터페이스, 신경 질환 치료, 손상된 신경회로 복구 등 다양한 의료 응용의 가능성을 열어줍니다. 다만 현재 연구는 동물 모델에 국한되어 있으며, 인간의 뇌에 적용하기 위해서는 장기적 안전성 검증과 생체 적합성 개선이 필요합니다. 향후 소재 개선과 신호 전달 정확도 향상을 통해 실제 임상 응용이 가능할 것으로 예상됩니다.\n\n##",
+      "aiSummaryEn": "Researchers at Northwestern University have achieved a significant breakthrough by developing artificial neurons that can communicate with living brain cells through 3D printing technology. The team created flexible, cost-effective artificial neurons capable of generating biolike electrical signals that can activate biological brain cells, as demonstrated in mouse brain tissue experiments. The artificial neurons successfully established bidirectional signal transmission with living brain cells in the experimental model. This achievement opens possibilities for brain-computer interfaces, treatment of neurological diseases, and repair of damaged neural circuits. However, the current research is limited to animal models, and long-term safety validation and improved biocompatibility are necessary before human brain applications. Future advancements in material science and signal transmission accuracy may enable clinical applications in the coming years.\n\n##",
+      "keyPoints": [
+        "**혁신적 기술**: 3D 프린팅으로 제조된 인공 뉴런이 살아있는 뇌세포와 실제로 양방향 통신 가능 / Artificial neurons manufactured via 3D printing can establish bidirectional communication with living brain cells",
+        "**기술적 장점**: 유연성과 저비용이라는 실용적 이점을 갖춘 생체 유사 신호 생성 능력 / Flexible, low-cost devices capable of generating biolike electrical signals",
+        "**의료 응용 가능성**: 뇌-컴퓨터 인터페이스, 신경질환 치료, 신경회로 복구 등 다양한 분야의 응용 전망 / Potential applications in brain-computer interfaces, neurological disease treatment, and neural circuit repair",
+        "**임상화의 과제**: 동물 실험 단계이며 인간 뇌 적용을 위해 안전성 검증과 생체 적합성 개선 필요 / Animal model stage requiring safety validation and improved biocompatibility for human brain application"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "featured": false
+    },
+    {
+      "id": "cc1c661e4050",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "5일 전 / 5d ago",
+      "title": "Scientists say this type of olive oil could boost brain power",
+      "titleKo": "과학자들이 말하는 이 종류의 올리브유가 뇌 기능을 향상시킬 수 있다",
+      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
+      "aiSummary": "A new study reveals that extra virgin olive oil may protect brain health by influencing gut microbiota. Researchers conducted a two-year longitudinal study comparing cognitive performance between individuals consuming extra virgin olive oil and those using refined olive oil. Participants who consumed extra virgin olive oil demonstrated superior cognitive performance and significantly greater diversity in gut bacteria composition. The research team successfully identified specific microbes associated with these cognitive benefits. These findings suggest that choosing high-quality olive oil could be a simple and accessible strategy for supporting brain health during aging. However, the study lacks specific details about sample size and quantitative measures of cognitive improvement, indicating the need for further validation and larger-scale research.\n\n##",
+      "aiSummaryKo": "엑스트라 버진 올리브 오일이 장내 미생물을 통해 뇌 건강을 보호할 수 있다는 연구 결과가 발표되었습니다. 연구진은 2년에 걸쳐 참가자들을 추적하며 엑스트라 버진 올리브 오일을 섭취한 집단과 정제 올리브 오일을 섭취한 집단의 인지 능력을 비교했습니다. 결과적으로 엑스트라 버진 올리브 오일을 섭취한 사람들이 더 높은 인지 성능을 보였으며, 장내 박테리아의 다양성도 더 풍부했습니다. 연구팀은 이러한 뇌 건강상 이점과 연관된 특정 미생물들을 식별해내는 데 성공했습니다. 이 연구는 나이가 들면서도 고품질 올리브 오일 선택이 간단한 뇌 건강 관리 방법이 될 수 있음을 시사합니다. 다만 이 연구의 구체적인 참가자 규모나 인지 능력 개선의 정량적 수치가 제시되지 않아 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "A new study reveals that extra virgin olive oil may protect brain health by influencing gut microbiota. Researchers conducted a two-year longitudinal study comparing cognitive performance between individuals consuming extra virgin olive oil and those using refined olive oil. Participants who consumed extra virgin olive oil demonstrated superior cognitive performance and significantly greater diversity in gut bacteria composition. The research team successfully identified specific microbes associated with these cognitive benefits. These findings suggest that choosing high-quality olive oil could be a simple and accessible strategy for supporting brain health during aging. However, the study lacks specific details about sample size and quantitative measures of cognitive improvement, indicating the need for further validation and larger-scale research.\n\n##",
+      "keyPoints": [
+        "**올리브 오일의 뇌 보호 메커니즘** / Extra virgin olive oil protects the brain through gut microbiota mechanisms rather than direct effects",
+        "**장내 미생물의 역할** / Gut bacterial diversity serves as a key biomarker for cognitive health benefits, with specific microbes identified as beneficial",
+        "**2년 종단 연구의 신뢰성** / Two-year longitudinal study design provides stronger evidence than short-term studies, though specific participant numbers are not disclosed",
+        "**예방적 건강 관리의 실용성** / Simple dietary choice of high-quality olive oil offers practical, accessible strategy for age-related cognitive decline prevention"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
+      "featured": false
+    },
     {
       "id": "5ca43d70f8c5",
       "tag": "psych",
@@ -21,7 +168,7 @@
         "**임상 개입의 방향성** / Clinical Intervention Implications: 자기 인식과 대인관계 기대치 조정을 통한 심리치료적 접근의 필요성 제시"
       ],
       "url": "https://www.psypost.org/misalignment-between-self-view-and-expectations-of-others-drives-loneliness-in-borderline-personality-disorder/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e5b951ea1009",
@@ -268,153 +415,6 @@
         "**실무 응용 가능성** / **Practical Applications**: 영상 분석, 인간-컴퓨터 상호작용, 감정 인식 등 다양한 분야에 활용 가능 / Applicable to video understanding, human-computer interaction, emotion recognition, and various other fields"
       ],
       "url": "https://arxiv.org/abs/2604.21011",
-      "featured": false
-    },
-    {
-      "id": "58bfaa6cff9f",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "4일 전 / 4d ago",
-      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
-      "titleKo": "갈등 상황에서 행동과학이 직면해야 할 불편한 진실",
-      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
-      "aiSummary": "Approximately 2 billion people live in conflict-affected areas, with 123 million forcibly displaced in 2024, the highest number on record. However, the field of behavioral science has developed most of its theories, experiments, and interventions in stable contexts, creating a significant gap in applicability. When behavioral scientists conduct research in conflict settings, they typically follow a conventional pattern of \"localizing\" existing solutions and evaluating them, which proves insufficient for addressing conflict-specific challenges. The study emphasizes that unique characteristics of conflict environments—extreme uncertainty, limited resources, and psychological trauma—severely limit the applicability of existing behavioral science frameworks. The research is significant because it highlights the urgent need for behavioral science to develop new theoretical frameworks and context-specific interventions tailored to conflict zones. Key limitations include high accessibility barriers to conflict areas and ethical constraints that complicate research implementation and evaluation.\n\n##",
-      "aiSummaryKo": "전 세계 약 20억 명이 분쟁 영향 지역에 거주하고 있으며, 2024년에는 1억 2,300만 명이 강제 이주되어 역사상 최고 수치를 기록했다. 그러나 행동과학 분야는 대부분의 이론과 실험, 개입 방안을 안정적인 환경에서 개발해왔다는 것이 핵심 문제다. 행동과학자들이 분쟁 지역에서 연구를 수행할 때도 기존 방법론을 '현지화'하는 관례적 접근방식을 따르고 있는데, 이는 충분하지 않다. 본 연구는 분쟁 환경의 독특한 특성(극도의 불확실성, 제한된 자원, 심리적 트라우마)이 기존 행동과학 이론의 적용 가능성을 크게 제한할 수 있음을 강조한다. 연구의 의의는 행동과학이 분쟁 지역 문제 해결을 위해 새로운 이론 프레임워크 개발과 맥락 특화 연구를 시급히 필요로 함을 제시하는 것이다. 다만 제한점으로는 분쟁 지역 연구의 높은 접근성 장벽과 윤리적 제약이 있다.\n\n##",
-      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas, with 123 million forcibly displaced in 2024, the highest number on record. However, the field of behavioral science has developed most of its theories, experiments, and interventions in stable contexts, creating a significant gap in applicability. When behavioral scientists conduct research in conflict settings, they typically follow a conventional pattern of \"localizing\" existing solutions and evaluating them, which proves insufficient for addressing conflict-specific challenges. The study emphasizes that unique characteristics of conflict environments—extreme uncertainty, limited resources, and psychological trauma—severely limit the applicability of existing behavioral science frameworks. The research is significant because it highlights the urgent need for behavioral science to develop new theoretical frameworks and context-specific interventions tailored to conflict zones. Key limitations include high accessibility barriers to conflict areas and ethical constraints that complicate research implementation and evaluation.\n\n##",
-      "keyPoints": [
-        "**글로벌 분쟁의 심화** / Escalating Global Conflict Crisis: 약 20억 명이 분쟁 영향 지역 거주, 2024년 강제 이주자 1억 2,300만 명 기록 (역사상 최고)",
-        "**이론-실제 괴리** / Theory-Practice Gap: 행동과학의 대부분 이론과 실험이 안정적 환경에서 개발되어 분쟁 지역 맥락에 부적합",
-        "**표면적 현지화의 한계** / Limitations of Surface-Level Localization: 기존 방법론의 단순한 '현지화' 접근은 분쟁 지역의 극도의 불확실성과 심리적 트라우마 문제 해결에 부족",
-        "**긴급한 패러다임 전환 필요** / Urgent Paradigm Shift Required: 분쟁 환경 특화 이론 개발과 현지 맥락 중심의 새로운 연구 설계 및 개입 전략 필수"
-      ],
-      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
-      "featured": false
-    },
-    {
-      "id": "2ca3144e26ec",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "4일 전 / 4d ago",
-      "title": "The ‘Busy’ Trap",
-      "titleKo": "바쁨의 덫",
-      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
-      "aiSummary": "In twenty-first century America, being \"busy\" has become the default response when asked how one is doing, yet it functions more as a veiled boast about social status than an actual complaint about workload. Researchers observe that this cultural phenomenon reflects how modern society uses busyness as a status symbol rather than an indicator of genuine overwork. Notably, those actually working multiple minimum-wage jobs or pulling back-to-back shifts in intensive care units typically do not emphasize their busyness, suggesting that the expression serves a different social function. The trend indicates that individuals increasingly use \"busyness\" to signal their importance and professional value rather than to describe their actual workload. This semantic shift reveals a disconnect between the rhetoric of busyness and the lived experience of those working demanding jobs. The analysis may be limited in its scope regarding cultural variations and socioeconomic differences that could affect this pattern.",
-      "aiSummaryKo": "현대 미국 사회에서 '바쁘다'는 표현이 일상적인 인사말로 자리 잡았는데, 이는 실제 과로보다는 사회적 지위와 성공을 암묵적으로 자랑하는 수사(修辭)가 되었다. 연구자들은 이러한 '바쁨'이 진정한 과로 상태가 아니라 사회문화적 현상임을 지적한다. 실제로 장시간 저임금 노동에 종사하거나 중환자실에서 교대근무하는 사람들은 오히려 자신이 얼마나 바쁜지 강조하지 않는 경향이 있다. 이는 바쁨이 사실상 개인의 중요성과 가치를 드러내는 상징으로 변질되었음을 시사한다. 이러한 현상은 현대인들이 실제 업무량보다 자신의 사회적 위상을 표현하는 방식으로 '바쁨'을 활용하고 있음을 보여준다. 연구의 한계는 문화적 편차나 사회경제적 계층 간 차이를 충분히 다루지 못할 수 있다는 점이다.",
-      "aiSummaryEn": "In twenty-first century America, being \"busy\" has become the default response when asked how one is doing, yet it functions more as a veiled boast about social status than an actual complaint about workload. Researchers observe that this cultural phenomenon reflects how modern society uses busyness as a status symbol rather than an indicator of genuine overwork. Notably, those actually working multiple minimum-wage jobs or pulling back-to-back shifts in intensive care units typically do not emphasize their busyness, suggesting that the expression serves a different social function. The trend indicates that individuals increasingly use \"busyness\" to signal their importance and professional value rather than to describe their actual workload. This semantic shift reveals a disconnect between the rhetoric of busyness and the lived experience of those working demanding jobs. The analysis may be limited in its scope regarding cultural variations and socioeconomic differences that could affect this pattern.",
-      "keyPoints": [
-        "**'바쁨'의 변질된 의미** / Transformation of \"busyness\" as a status marker rather than genuine overwork complaint",
-        "**사회적 계층과의 역설** / Paradox that truly overworked individuals (ICU workers, minimum-wage earners) don't emphasize their busyness",
-        "**암묵적 자랑의 수사** / Use of disguised boasting through complaints as social performance and identity signaling",
-        "**현대 미국 사회문화 현상** / Reflects broader cultural values about work, status, and self-presentation in contemporary American society"
-      ],
-      "url": "https://behavioralscientist.org/the-busy-trap/",
-      "featured": false
-    },
-    {
-      "id": "c1d7d1e43287",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "11일 전 / 11d ago",
-      "title": "What It’s Like to Be…an Aerospace Engineer",
-      "titleKo": "항공우주 엔지니어가 된다는 것",
-      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
-      "aiSummary": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, exploring the experience of landing the Perseverance rover on Mars and the daily work of aerospace engineers. As part of bestselling author Dan Heath's \"What It's Like to Be...\" podcast series, the content aims to make the realities of aerospace engineering accessible to the general public. The methodology involves explaining the concrete processes of Mars landing, including sterile room operations to minimize microbial contamination and managing hundreds of engineering trade-offs. Key topics include the famous \"seven minutes of terror\"—the critical and perilous landing phase—and the search for evidence of past microbial life on Mars. The significance of this interview lies in demystifying complex space science for a general audience and raising public awareness about the aerospace engineering profession. However, the content's limitations include its reliance on a single interview format with limited scientific data and statistical validation.\n\n##",
-      "aiSummaryKo": "이 기사는 NASA 제트 추진 연구소의 우주항공공학자 스와티 모한과의 인터뷰를 통해 화성 탐사 로버 퍼서비어런스호의 착륙 과정과 우주항공공학자의 업무를 소개하는 콘텐츠입니다. 저명한 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 팟캐스트 시리즈의 일환으로, 실제 우주항공공학자가 수행하는 업무의 현실을 대중에게 전달하는 것을 목표로 합니다. 연구 방법으로는 퍼서비어런스호 착륙의 구체적 사례와 무균실 운영, 엔지니어링 트레이드오프 관리 등 실제 업무 프로세스를 설명합니다. 핵심 내용은 화성 착륙의 \"7분의 공포\"라 불리는 위험한 착륙 과정과 화성의 과거 생명 증거 탐색입니다. 이 인터뷰의 의의는 복잡한 우주과학을 일반인이 이해할 수 있게 설명하고, 우주항공공학자의 역할을 대중화하는 데 있습니다. 다만 제시된 정보가 단일 인터뷰 형식이므로 과학적 검증이나 통계 데이터가 제한적입니다.\n\n##",
-      "aiSummaryEn": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, exploring the experience of landing the Perseverance rover on Mars and the daily work of aerospace engineers. As part of bestselling author Dan Heath's \"What It's Like to Be...\" podcast series, the content aims to make the realities of aerospace engineering accessible to the general public. The methodology involves explaining the concrete processes of Mars landing, including sterile room operations to minimize microbial contamination and managing hundreds of engineering trade-offs. Key topics include the famous \"seven minutes of terror\"—the critical and perilous landing phase—and the search for evidence of past microbial life on Mars. The significance of this interview lies in demystifying complex space science for a general audience and raising public awareness about the aerospace engineering profession. However, the content's limitations include its reliance on a single interview format with limited scientific data and statistical validation.\n\n##",
-      "keyPoints": [
-        "**화성 착륙의 극한 상황 / Critical Mars Landing Challenge**: \"7분의 공포\"라 불리는 착륙 과정에서 엔지니어들이 직면한 극도로 위험하고 통제 불가능한 환경 속 의사결정의 중요성",
-        "**무균 환경 관리 / Microbial Contamination Control**: 우주탐사에서 생명 탐색의 정확성을 보장하기 위해 무균실에서 미생물 개수를 최소화하는 정교한 엔지니어링 프로세스",
-        "**엔지니어링 트레이드오프 / Engineering Trade-offs Management**: 우주탐사 프로젝트에서 수백 가지의 상충하는 엔지니어링 요구사항 간의 균형을 맞추는 복잡한 의사결정 과정",
-        "**과학 대중화 / Science Popularization**: 팟캐스트를 통해 복잡한 우주과학과 엔지니어링을 일반인이 이해할 수 있는 형태로 전달하려는 과학 커뮤니케이션의 시도"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
-      "featured": false
-    },
-    {
-      "id": "6c30ffcfb145",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "New neuroscience research shows how slowing your breathing alters your perception of the people around you",
-      "titleKo": "새로운 신경과학 연구가 호흡 속도를 늦추면 주변 사람들에 대한 인식이 어떻게 달라지는지 보여준다",
-      "summary": "New brain imaging reveals that taking slow, deliberate breaths alters how accurately you recognize human emotions. The phase of your breath actually rewires the brain networks responsible for visual perception and passing judgment.",
-      "aiSummary": "This neuroscience study examined how breathing speed affects the ability to recognize emotions in others. Researchers used brain imaging technology to observe changes in brain activity when participants engaged in slow, deliberate breathing. The key finding is that consciously slowing breathing enhances the accuracy of perceiving others' emotions. Specifically, the respiratory phase—the cycle of inhalation and exhalation—restructures brain networks responsible for visual perception and judgment, thereby improving emotion recognition accuracy. This research demonstrates that breath regulation impacts not only stress management but also enhances social cognitive abilities. However, limitations include sample size constraints, controlled laboratory settings, and the need for further research on long-term effects.",
-      "aiSummaryKo": "본 연구는 호흡 속도가 타인의 감정 인식에 어떤 영향을 미치는지 조사했습니다. 연구팀은 뇌 영상 촬영 기술을 이용하여 참가자들이 느린 호흡을 할 때 뇌 활동 변화를 관찰했습니다. 핵심 결과는 의식적으로 호흡 속도를 늦출 때 다른 사람의 감정을 더 정확하게 인식하는 능력이 향상된다는 것입니다. 구체적으로, 호흡의 위상(들숨과 날숨의 주기)이 시각 지각과 판단을 담당하는 뇌 네트워크를 재구성하여 감정 인식 정확도를 높입니다. 이 연구는 호흡 조절이 단순한 스트레스 관리를 넘어 사회적 인지 능력 향상에도 영향을 미칠 수 있음을 보여줍니다. 다만, 표본 크기, 실험 환경의 제한, 그리고 장기적 효과에 대한 추가 연구가 필요합니다.",
-      "aiSummaryEn": "This neuroscience study examined how breathing speed affects the ability to recognize emotions in others. Researchers used brain imaging technology to observe changes in brain activity when participants engaged in slow, deliberate breathing. The key finding is that consciously slowing breathing enhances the accuracy of perceiving others' emotions. Specifically, the respiratory phase—the cycle of inhalation and exhalation—restructures brain networks responsible for visual perception and judgment, thereby improving emotion recognition accuracy. This research demonstrates that breath regulation impacts not only stress management but also enhances social cognitive abilities. However, limitations include sample size constraints, controlled laboratory settings, and the need for further research on long-term effects.",
-      "keyPoints": [
-        "**호흡이 뇌 기능을 직접 변화시킴** / Breathing directly alters brain function",
-        "**감정 인식 정확도 향상** / Enhanced emotion recognition accuracy",
-        "**뇌 영상으로 증명된 신경생물학적 메커니즘** / Neurobiological mechanism proven through brain imaging",
-        "**사회적 상호작용 개선의 실용적 응용** / Practical application for improving social interaction"
-      ],
-      "url": "https://www.psypost.org/how-the-pace-of-your-breath-alters-the-way-you-see-faces-2026-03-20/",
-      "featured": false
-    },
-    {
-      "id": "bca86354c086",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Feeling angry makes people more likely to share news from low-credibility sources",
-      "titleKo": "분노를 느낄수록 신뢰도 낮은 뉴스를 공유할 가능성이 높아진다",
-      "summary": "A new study reveals that feeling morally angry makes you more likely to share misinformation online. Researchers found that anger causes people to act impulsively and ignore source credibility, fueling the rapid spread of fake news.",
-      "aiSummary": "Understanding how moral anger influences online news-sharing behavior has become an important issue in modern society. This study investigated how anger affects people's news-sharing behavior and found that participants in an angry state were significantly more likely to share news from low-credibility sources. Anger impairs cognitive judgment and triggers impulsive behavior, causing people to share information without properly verifying source credibility. These findings help explain why misinformation spreads rapidly on social media and demonstrate that emotional regulation is a crucial component of media literacy. However, the research was likely conducted in a laboratory setting, which may differ from actual online behavior. Future research should include validation across diverse populations and in real social media environments.\n\n##",
-      "aiSummaryKo": "도덕적 분노가 온라인 미디언 공유 행동에 미치는 영향을 규명하는 것이 현대 사회에서 중요한 문제가 되고 있습니다. 이번 연구는 분노 감정이 사람들의 뉴스 공유 행동에 어떤 영향을 미치는지 조사했으며, 참가자들이 분노 상태에서 신뢰도가 낮은 출처의 뉴스를 공유할 확률이 높아진다는 것을 발견했습니다. 분노는 인지적 판단력을 저해하고 충동적인 행동을 유발하여 사람들이 정보 출처의 신뢰성을 제대로 검증하지 않고 공유하도록 만듭니다. 이 결과는 왜 소셜 미디어에서 가짜뉴스가 빠르게 확산되는지 설명하는 데 도움이 되며, 감정 조절이 미디어 리터러시의 중요한 요소임을 보여줍니다. 다만 연구는 실험실 환경에서 진행되었을 가능성이 있어 실제 온라인 행동과의 차이가 있을 수 있습니다. 향후 연구에서는 다양한 인구집단과 실제 소셜 미디어 환경에서의 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "Understanding how moral anger influences online news-sharing behavior has become an important issue in modern society. This study investigated how anger affects people's news-sharing behavior and found that participants in an angry state were significantly more likely to share news from low-credibility sources. Anger impairs cognitive judgment and triggers impulsive behavior, causing people to share information without properly verifying source credibility. These findings help explain why misinformation spreads rapidly on social media and demonstrate that emotional regulation is a crucial component of media literacy. However, the research was likely conducted in a laboratory setting, which may differ from actual online behavior. Future research should include validation across diverse populations and in real social media environments.\n\n##",
-      "keyPoints": [
-        "**분노와 정보 공유의 관계** / Anger and Information Sharing: 도덕적 분노는 신뢰도가 낮은 출처의 뉴스를 공유할 확률을 증가시킴 / Moral anger increases the likelihood of sharing news from low-credibility sources",
-        "**인지 기능 저하** / Cognitive Impairment: 분노 상태에서는 출처의 신뢰성을 검증하는 비판적 사고 능력이 감소 / Anger reduces critical thinking ability to verify source credibility",
-        "**미디어 리터러시의 중요성** / Media Literacy Importance: 감정 조절과 함께 정보 검증 능력 강화가 미디어 리터러시의 핵심 요소 / Emotional regulation combined with information verification skills are key elements of media literacy",
-        "**가짜뉴스 확산 메커니즘** / Misinformation Spread Mechanism: 온라인에서 분노를 자극하는 콘텐츠가 빠르게 확산되는 원인을 설명하며 플랫폼 설계 개선의 필요성 시사 / Explains rapid spread of anger-triggering content online and suggests need for improved platform design"
-      ],
-      "url": "https://www.psypost.org/feeling-angry-makes-people-more-likely-to-share-news-from-low-credibility-sources/",
-      "featured": false
-    },
-    {
-      "id": "7601a32456fa",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "17시간 전 / 17h ago",
-      "title": "A new study explores the boundary between everyday caffeine and panic",
-      "titleKo": "일상적인 카페인과 공황 사이의 경계를 탐구한 새로운 연구",
-      "summary": "A moderate dose of caffeine does not elevate baseline anxiety in people with panic disorder, though it may make them slightly more likely to step away from uncomfortable situations.",
-      "aiSummary": "This study investigated whether caffeine consumption exacerbates anxiety symptoms in people with panic disorder. Researchers administered a moderate dose of caffeine (or placebo) to panic disorder patients and measured baseline anxiety levels and behavioral changes. The key finding was that moderate caffeine intake did not significantly elevate baseline anxiety in panic disorder patients. However, the study observed a slight increase in avoidance behaviors—where participants were more likely to withdraw from uncomfortable situations after caffeine consumption. This research provides practical insight suggesting that panic disorder patients may not need to completely eliminate caffeine from their diets. Limitations include the sample size, short observation period, and the need for further research on individual differences and long-term effects.\n\n##",
-      "aiSummaryKo": "이 연구는 공황장애를 가진 사람들이 카페인 섭취 후 불안 증상이 악화되는지 알아보기 위해 진행되었습니다. 연구팀은 공황장애 환자들을 대상으로 적당량의 카페인(또는 위약)을 투여한 후 기저 불안 수준과 행동 변화를 측정했습니다. 주요 결과는 적당량의 카페인이 공황장애 환자들의 기본적인 불안 수준을 유의미하게 높이지 않는 것으로 나타났습니다. 다만 카페인 투여 후 불편한 상황에서 벗어나려는 회피 행동이 약간 증가하는 경향을 보였습니다. 이 연구는 공황장애 환자들이 반드시 카페인을 완전히 피할 필요는 없다는 실질적 통찰을 제공합니다. 그러나 연구의 표본 규모와 단기 관찰이라는 한계가 있으며, 개인차와 장기 효과에 대한 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated whether caffeine consumption exacerbates anxiety symptoms in people with panic disorder. Researchers administered a moderate dose of caffeine (or placebo) to panic disorder patients and measured baseline anxiety levels and behavioral changes. The key finding was that moderate caffeine intake did not significantly elevate baseline anxiety in panic disorder patients. However, the study observed a slight increase in avoidance behaviors—where participants were more likely to withdraw from uncomfortable situations after caffeine consumption. This research provides practical insight suggesting that panic disorder patients may not need to completely eliminate caffeine from their diets. Limitations include the sample size, short observation period, and the need for further research on individual differences and long-term effects.\n\n##",
-      "keyPoints": [
-        "**적당량 카페인의 안전성** / Moderate caffeine dose is safe for panic disorder patients regarding baseline anxiety",
-        "**회피 행동의 경미한 증가** / Slight increase in avoidance behaviors from uncomfortable situations post-caffeine",
-        "**공황장애 환자의 카페인 제한 완화** / No need for complete caffeine elimination in panic disorder management",
-        "**추가 연구의 필요성** / Further studies needed on individual variability and long-term caffeine effects"
-      ],
-      "url": "https://www.psypost.org/moderate-coffee-doses-do-not-cause-panic-attacks-but-may-alter-behavioral-choice-2026-03-26/",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "19일 전 / 19d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "This article challenges the traditional concept of human individuality by demonstrating that humans are deeply interconnected with their surrounding ecosystem. Through the example of respiration, the article illustrates a fundamental biological exchange: oxygen we inhale comes from plants, while carbon dioxide we exhale becomes the raw material for photosynthesis. This cyclical interdependence reveals that humans are not isolated individuals but integrated parts of a larger ecological system. Furthermore, the article emphasizes that the human body hosts trillions of microorganisms, making us biological communities rather than singular entities. The significance of this perspective lies in reshaping our understanding of environmental ethics and the fundamental interconnectedness of all living beings. However, the article relies primarily on philosophical discussion rather than presenting specific experimental data or quantifiable research findings, which represents a limitation in terms of scientific rigor and empirical validation.",
-      "aiSummaryKo": "이 기사는 인간이 독립적인 개체가 아니라 주변 생태계와 깊이 연결되어 있다는 철학적 통찰을 제시한다. 연구 배경은 전통적인 '개인주의' 개념에 도전하며, 인간과 자연 사이의 생물학적 상호작용을 강조한다. 기사는 호흡을 통한 인간과 식물의 가스 교환 메커니즘을 예시로 들어 설명한다—우리가 내쉬는 이산화탄소는 식물의 광합성 원료가 되고, 식물이 배출한 산소는 우리가 흡수한다. 이러한 순환적 상호의존성은 인간이 생태계의 고립된 개체가 아니라 통합된 부분임을 보여준다. 추가적으로 인간의 몸은 수조 개의 미생물을 숙주하고 있어, 우리는 단순한 개인이 아닌 생물학적 공동체라는 점을 강조한다. 이 연구의 의의는 환경 윤리와 상호연결성에 대한 과학적 이해를 증진하는 것이다. 다만 철학적 논의 기반이므로 구체적 실험 데이터의 제시가 제한적일 수 있다는 한계가 있다.",
-      "aiSummaryEn": "This article challenges the traditional concept of human individuality by demonstrating that humans are deeply interconnected with their surrounding ecosystem. Through the example of respiration, the article illustrates a fundamental biological exchange: oxygen we inhale comes from plants, while carbon dioxide we exhale becomes the raw material for photosynthesis. This cyclical interdependence reveals that humans are not isolated individuals but integrated parts of a larger ecological system. Furthermore, the article emphasizes that the human body hosts trillions of microorganisms, making us biological communities rather than singular entities. The significance of this perspective lies in reshaping our understanding of environmental ethics and the fundamental interconnectedness of all living beings. However, the article relies primarily on philosophical discussion rather than presenting specific experimental data or quantifiable research findings, which represents a limitation in terms of scientific rigor and empirical validation.",
-      "keyPoints": [
-        "**상호호흡 순환성** / **Reciprocal Respiratory Cycle**: 인간과 식물은 호흡을 통해 이산화탄소와 산소를 교환하며, 이는 생태적 상호의존성을 보여주는 기본적 예시 / Humans and plants exchange carbon dioxide and oxygen through respiration, demonstrating fundamental ecological interdependence.",
-        "**미생물 공동체** / **Microbial Community**: 인간의 신체는 수조 개의 미생물을 숙주하고 있어, 우리는 생물학적으로 단일 개체가 아닌 복합 시스템 / The human body hosts trillions of microorganisms, making us biologically complex systems rather than singular entities.",
-        "**개인주의 개념 재검토** / **Reconceptualizing Individualism**: \"'우리는 결코 개인이었던 적이 없다'는 주장으로, 전통적 개인주의 철학에 도전 / The assertion that \"we have never been individuals\" challenges traditional individualistic philosophy.",
-        "**생태계 통합성** / **Ecological Integration**: 인간은 환경과 분리된 존재가 아니라 생태계 내에 완전히 통합된 존재임을 강조하며, 이는 환경 윤리의 재정립을 촉구 / Humans are completely integrated within ecosystems rather than separate from them, necessitating a reconsideration of environmental ethics."
-      ],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
       "featured": false
     }
   ]
