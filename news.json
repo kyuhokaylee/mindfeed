@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-26T14:10:58.624288+00:00",
+  "updated": "2026-04-26T17:24:53.733263+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "1c985f878bcf",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Public support for transgender women in sports dropped significantly between 2019 and 2024",
+      "titleKo": "스포츠에서의 트랜스젠더 여성 참가에 대한 국민 지지도, 2019년에서 2024년 사이 급격히 하락",
+      "summary": "A new study reveals a substantial decline in American support for transgender women competing in female sports. Researchers suggest conservative political messaging effectively reframed the issue.",
+      "aiSummary": "This study examined the decline in American public support for transgender women competing in female sports between 2019 and 2024. Researchers analyzed survey data collected across multiple years to track changes in public attitudes on this issue, revealing a substantial decrease in support over the five-year period. The researchers attributed this shift primarily to conservative political messaging that effectively reframed the debate, focusing on fairness and the protection of female athletes' interests. This framing strategy appears to have significantly influenced public opinion formation on the issue. The study demonstrates how political communication can reshape public perception of social issues. However, the research measured attitudes only during this specific timeframe and may not capture nuanced differences across various demographic groups in comprehensive detail.\n\n##",
+      "aiSummaryKo": "이 연구는 2019년부터 2024년 사이 미국인들의 트랜스젠더 여성 스포츠 참여에 대한 지지도 변화를 추적했습니다. 연구팀은 여러 연도에 걸친 설문조사 데이터를 수집하여 공중의 태도 변화를 분석했으며, 그 결과 지난 5년간 지지도가 상당히 감소한 것으로 나타났습니다. 연구진은 이러한 변화의 주요 원인으로 보수진영의 정치적 메시징이 이 쟁점을 효과적으로 재구성(프레이밍)했기 때문이라고 제시했습니다. 구체적으로, 공정성과 여성 운동선수 보호라는 관점에서의 메시지가 여론 형성에 영향을 미쳤다고 분석했습니다. 이 연구는 정치적 커뮤니케이션이 사회적 이슈에 대한 대중 인식을 어떻게 변화시키는지 보여주는 사례입니다. 다만, 이 연구는 특정 기간 동안의 태도 변화만을 측정했으며, 다양한 인구통계학적 집단 간의 세부적인 차이를 완전히 포함하지 못했을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This study examined the decline in American public support for transgender women competing in female sports between 2019 and 2024. Researchers analyzed survey data collected across multiple years to track changes in public attitudes on this issue, revealing a substantial decrease in support over the five-year period. The researchers attributed this shift primarily to conservative political messaging that effectively reframed the debate, focusing on fairness and the protection of female athletes' interests. This framing strategy appears to have significantly influenced public opinion formation on the issue. The study demonstrates how political communication can reshape public perception of social issues. However, the research measured attitudes only during this specific timeframe and may not capture nuanced differences across various demographic groups in comprehensive detail.\n\n##",
+      "keyPoints": [
+        "**지지도 급락 추이** / Significant Decline in Support: 2019년부터 2024년 사이 트랜스젠더 여성의 여성 스포츠 참여에 대한 미국인들의 지지도가 상당히 감소함 / American public support for transgender women in female sports decreased substantially between 2019 and 2024.",
+        "**보수진영 메시징의 영향** / Conservative Political Framing: 보수진영의 정치적 커뮤니케이션이 이 쟁점을 '공정성'과 '여성 운동선수 보호' 관점으로 재구성하여 여론 변화를 주도함 / Conservative political messaging effectively reframed the issue around fairness and female athlete protection, driving public opinion shifts.",
+        "**프레이밍 효과의 사례** / Power of Message Framing: 동일한 이슈도 어떤 관점에서 제시되는지에 따라 대중의 인식과 지지도가 크게 달라질 수 있음을 보여줌 / Demonstrates how the same issue presented through different perspectives can dramatically alter public perception and support levels.",
+        "**연구 범위의 제한** / Study Limitations: 5년간의 전체적인 태도 변화만 측정했으며, 연령, 정치 성향, 지역 등 인구통계학적 세부 분석이 불충분할 수 있음 / The study captures overall attitude changes but may lack detailed analysis across demographic variables such as age, political affiliation, and geographic location."
+      ],
+      "url": "https://www.psypost.org/public-support-for-transgender-women-in-sports-dropped-significantly-between-2019-and-2024/",
+      "featured": true
+    },
     {
       "id": "2ccbc17e9272",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**AI 설계의 윤리적 책임** / The study emphasizes the need for balanced feedback mechanisms in AI system design"
       ],
       "url": "https://www.psypost.org/artificial-intelligence-flatters-users-into-bad-behavior/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6d7666d6ee6b",
@@ -399,27 +420,6 @@
         "**향후 연구 필요**: 최적의 용량, 투여 빈도, 장기 효과에 대한 더 큰 규모의 임상시험 필요 / Larger-scale trials needed to determine optimal dosing, frequency, and long-term efficacy"
       ],
       "url": "https://www.psypost.org/repeated-doses-of-psilocybin-show-promise-for-treating-obsessive-compulsive-disorder/",
-      "featured": false
-    },
-    {
-      "id": "dd80139e1abd",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "4시간 전 / 4h ago",
-      "title": "New psychology research reveals your face might determine how easily people remember your name",
-      "titleKo": "새로운 심리학 연구, 당신의 얼굴이 사람들이 당신의 이름을 얼마나 쉽게 기억하는지 결정할 수 있음을 보여주다",
-      "summary": "Have you ever struggled to remember the name of someone you just met? A recent study suggests that the natural memorability of a person's face plays a significant role in whether you will actually recall their name.",
-      "aiSummary": "Recent psychological research reveals that facial memorability—the natural ease with which people remember a face—plays a significant role in determining whether you can recall someone's name. This study provides a scientific explanation for why many people struggle to remember names of newly acquainted individuals. Researchers showed participants photographs of various faces accompanied by names, then measured how well participants recalled those names later. The findings indicated that participants were more likely to remember the names of people with naturally more memorable facial features. This research contributes to understanding the cognitive mechanisms underlying facial recognition and name recall. However, limitations include potential cultural differences in face perception, individual variations in attention, and differences between laboratory conditions and real-life situations.\n\n##",
-      "aiSummaryKo": "최근 심리학 연구에 따르면, 사람의 얼굴이 가진 자연적인 기억하기 쉬운 정도(면부 기억성)가 그들의 이름을 기억할 수 있는지를 결정하는 중요한 요소라는 것이 밝혀졌습니다. 이 연구는 처음 만난 사람의 이름을 기억하는 데 어려움을 겪는 이유를 과학적으로 설명합니다. 연구팀은 참가자들에게 다양한 얼굴 사진을 보여주고 그 사람들의 이름을 함께 제시한 후, 나중에 이름을 얼마나 잘 기억하는지 측정했습니다. 결과적으로 본래 기억하기 쉬운 특징을 가진 얼굴의 이름을 참가자들이 더 잘 기억하는 경향을 보였습니다. 이 연구는 안면 인식 및 이름 회상의 인지적 메커니즘을 이해하는 데 기여합니다. 다만, 문화적 차이, 개인의 주의력 차이, 실생활 상황과의 차이 등이 추가 연구의 과제로 남아있습니다.\n\n##",
-      "aiSummaryEn": "Recent psychological research reveals that facial memorability—the natural ease with which people remember a face—plays a significant role in determining whether you can recall someone's name. This study provides a scientific explanation for why many people struggle to remember names of newly acquainted individuals. Researchers showed participants photographs of various faces accompanied by names, then measured how well participants recalled those names later. The findings indicated that participants were more likely to remember the names of people with naturally more memorable facial features. This research contributes to understanding the cognitive mechanisms underlying facial recognition and name recall. However, limitations include potential cultural differences in face perception, individual variations in attention, and differences between laboratory conditions and real-life situations.\n\n##",
-      "keyPoints": [
-        "**면부 기억성의 영향 / Facial Memorability Effect**: 얼굴의 자연적인 기억하기 쉬운 정도가 그 사람의 이름 회상을 촉진한다 / The natural memorability of a face facilitates recall of that person's name",
-        "**인지적 연결고리 / Cognitive Linkage**: 기억하기 쉬운 얼굴 특징이 이름 정보와 더 강하게 연결되어 저장된다 / Memorable facial features create stronger cognitive associations with name information during encoding",
-        "**실생활 적용 가능성 / Real-world Application**: 처음 만나는 사람의 이름을 기억하는 데 어려움을 겪는 일반적인 현상에 대한 과학적 근거 제공 / Provides scientific basis for understanding why people commonly struggle to remember newly introduced individuals' names",
-        "**추가 연구 필요 / Need for Further Research**: 문화권별 차이, 개인차, 그리고 실험 환경과 실제 상황의 차이를 고려한 후속 연구 필요 / Follow-up studies needed to account for cultural differences, individual variations, and ecological validity between laboratory and naturalistic settings"
-      ],
-      "url": "https://www.psypost.org/new-psychology-research-reveals-your-face-might-determine-how-easily-people-remember-your-name/",
       "featured": false
     }
   ]
