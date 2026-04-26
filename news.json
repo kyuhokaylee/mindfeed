@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-25T23:59:20.836051+00:00",
+  "updated": "2026-04-26T06:30:30.899576+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "dbb8d8b37aa8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "6시간 전 / 6h ago",
+      "title": "How cognitive ability and logical intuition evolve during middle and high school",
+      "titleKo": "중·고등학교 시기의 인지능력과 논리적 직관력의 발달",
+      "summary": "A new study shows that even the smartest high schoolers rely on slow, deliberate thought to solve logic puzzles. Fast and accurate psychological intuition takes years of education to fully develop.",
+      "aiSummary": "This study investigated how cognitive ability and logical intuition develop during middle and high school years. Researchers analyzed students' thought processes while solving logic puzzles and found that even top-performing high school students rely on slow, deliberate thinking rather than fast, automatic intuition to solve problems. This suggests that developing fast and accurate psychological intuition requires years of sustained education and training. The findings demonstrate that school education serves not only to transmit knowledge but also to gradually build students' cognitive intuitive systems. However, the study is limited to logic puzzles, and further research is needed to understand how intuition develops in other academic domains and real-life situations.\n\n##",
+      "aiSummaryKo": "이 연구는 청소년의 인지 능력과 논리적 직관이 중·고등학교 시기에 어떻게 발달하는지를 조사했습니다. 연구팀은 논리 퍼즐을 풀 때 학생들의 사고 과정을 분석했으며, 예상과 달리 성적이 우수한 고등학생들도 빠르고 자동적인 직관에 의존하지 않고 느리고 신중한 사고를 거쳐 문제를 해결한다는 것을 발견했습니다. 이는 빠르고 정확한 심리적 직관이 발달하기 위해서는 수년간의 교육과 훈련이 필수적임을 시사합니다. 연구 결과는 학교 교육이 단순한 지식 전달을 넘어 학생들의 인지적 직관 체계를 점진적으로 구축하는 과정임을 보여줍니다. 다만 이 연구는 논리 퍼즐에 한정된 것으로, 다른 학문 영역이나 실생활 상황에서의 직관 발달에 대한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated how cognitive ability and logical intuition develop during middle and high school years. Researchers analyzed students' thought processes while solving logic puzzles and found that even top-performing high school students rely on slow, deliberate thinking rather than fast, automatic intuition to solve problems. This suggests that developing fast and accurate psychological intuition requires years of sustained education and training. The findings demonstrate that school education serves not only to transmit knowledge but also to gradually build students' cognitive intuitive systems. However, the study is limited to logic puzzles, and further research is needed to understand how intuition develops in other academic domains and real-life situations.\n\n##",
+      "keyPoints": [
+        "**직관의 발달은 단기간에 이루어지지 않음** / Intuitive thinking takes years to fully develop and cannot be rushed",
+        "**우수 학생도 신중한 사고 과정 거침** / Even high-achieving students require slow, deliberate thought processes for problem-solving",
+        "**교육의 점진적 누적 효과** / Education gradually builds cognitive intuition systems over extended periods",
+        "**논리 퍼즐 중심의 제한된 범위** / Study findings limited to logic puzzles; generalizability to other domains requires further investigation"
+      ],
+      "url": "https://www.psypost.org/the-developing-teenage-brain-how-gut-instincts-learn-to-follow-the-rules-of-logi/",
+      "featured": true
+    },
+    {
+      "id": "af216165bb56",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "방금 전 / Just now",
+      "title": "Fish oil may be hurting your brain, new study finds",
+      "titleKo": "생선기름이 뇌에 해를 끼칠 수 있다는 새로운 연구 결과",
+      "summary": "Fish oil has long been praised as brain-boosting, but new research suggests the story may be more complicated. Scientists found that in people with repeated mild head injuries, a key omega-3 fatty acid in fish oil—EPA—may actually interfere with the brain’s ability to repair itself. Instead of helping recovery, it appears to weaken blood vessel stability, disrupt healing signals, and even contribute to harmful protein buildup linked to cognitive decline.",
+      "aiSummary": "Fish oil has long been praised as a brain-boosting supplement, but recent research suggests the relationship may be more complicated than previously thought. Scientists studying individuals with repeated mild head injuries discovered that EPA, a key omega-3 fatty acid found in fish oil, may actually interfere with the brain's ability to repair itself. Rather than supporting recovery, EPA appears to weaken blood vessel stability, disrupt crucial healing signals, and contribute to the buildup of harmful proteins associated with cognitive decline. This finding particularly concerns people with a history of brain injuries who take fish oil supplements. However, the research focuses specifically on cases of repeated mild head trauma, so further investigation is needed to determine whether these effects apply to the general population without such injuries.\n\n##",
+      "aiSummaryKo": "생선 기름에 함유된 오메가-3 지방산은 오랫동안 뇌 건강을 개선하는 것으로 알려져 왔으나, 최근 연구에서는 상황이 더 복잡할 수 있음을 시사한다. 과학자들은 반복적인 경미한 뇌손상을 입은 사람들을 대상으로 한 연구에서 생선 기름의 주요 오메가-3 지방산인 EPA가 뇌의 자가 치유 능력을 방해할 수 있음을 발견했다. 연구팀은 EPA가 회복을 돕는 대신 혈관 안정성을 약화시키고, 뇌 치유 신호를 방해하며, 인지 기능 저하와 관련된 해로운 단백질 축적을 야기할 수 있다는 점을 밝혀냈다. 이 연구는 특히 뇌손상 이력이 있는 인구집단에서 생선 기름 보충제의 섭취에 대한 재고를 촉구한다. 다만 이 연구는 경미한 뇌손상 사례에 초점을 맞추고 있으므로 일반 인구에게 동일하게 적용되는지는 추가 연구가 필요하다.\n\n##",
+      "aiSummaryEn": "Fish oil has long been praised as a brain-boosting supplement, but recent research suggests the relationship may be more complicated than previously thought. Scientists studying individuals with repeated mild head injuries discovered that EPA, a key omega-3 fatty acid found in fish oil, may actually interfere with the brain's ability to repair itself. Rather than supporting recovery, EPA appears to weaken blood vessel stability, disrupt crucial healing signals, and contribute to the buildup of harmful proteins associated with cognitive decline. This finding particularly concerns people with a history of brain injuries who take fish oil supplements. However, the research focuses specifically on cases of repeated mild head trauma, so further investigation is needed to determine whether these effects apply to the general population without such injuries.\n\n##",
+      "keyPoints": [
+        "**뇌손상과 생선 기름의 역설적 관계** / Paradoxical relationship between head injury and fish oil",
+        "**혈관 안정성 약화** / Weakened vascular stability",
+        "**유해 단백질 축적 유도** / Accumulation of harmful proteins",
+        "**기존 통념의 재검토 필요** / Need to reconsider conventional wisdom"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
+      "featured": false
+    },
     {
       "id": "9aa9dfb7d76a",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**추가 연구 필요성** / Need for further research: 단백질 수치 증가 확인 후 장기 효과 및 구체적 메커니즘 규명 필요 / Long-term effects and detailed mechanisms need clarification beyond protein level confirmation"
       ],
       "url": "https://www.psypost.org/tiny-mitochondrial-proteins-may-explain-the-health-benefits-of-the-mediterranean-diet/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "cd240b7cbb5e",
@@ -378,48 +420,6 @@
         "**자기 이미지 관리** / Self-Image Management"
       ],
       "url": "https://behavioralscientist.org/the-busy-trap/",
-      "featured": false
-    },
-    {
-      "id": "c1d7d1e43287",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "11일 전 / 11d ago",
-      "title": "What It’s Like to Be…an Aerospace Engineer",
-      "titleKo": "항공우주공학자가 된다는 것은 어떤 경험일까",
-      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
-      "aiSummary": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, showcasing the real-world work involved in the Mars Perseverance rover landing project. The methodology employs a podcast format called \"What It's Like to Be...\", hosted by bestselling author Dan Heath, conducting in-depth interviews about the actual experiences and work processes of aerospace professionals. Key content covers the perilous landing process known as the \"seven minutes of terror,\" microbial management in clean room environments, and hundreds of engineering trade-off decisions. The research's significance lies in educating the public about the internal workings of complex space exploration projects, thereby increasing scientific understanding and interest. However, the incomplete article content leaves the specific findings regarding evidence of past life on Mars unclear. While valuable as educational content for general audiences, it emphasizes personal experience sharing rather than academic research results.",
-      "aiSummaryKo": "이 기사는 NASA 제트추진연구소의 항공우주공학자 스와티 모한과의 인터뷰를 통해 화성 탐사선 퍼서비어런스 착륙 프로젝트의 실제 업무를 소개하는 콘텐츠입니다. 연구 방법은 베스트셀러 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 팟캐스트 시리즈의 일부로, 항공우주공학자의 실제 경험과 작업 과정을 심층 인터뷰하는 형식입니다. 핵심 내용은 화성 탐사선 착륙의 \"7분의 공포(seven minutes of terror)\"라 불리는 위험한 착륙 과정, 무균실 환경에서의 미생물 관리, 그리고 수백 가지의 공학적 트레이드오프 결정 과정을 다룹니다. 이 연구의 의의는 우주 탐사 같은 복잡한 과학 프로젝트의 내부 작업 과정을 대중에게 알려 과학에 대한 이해와 흥미를 높이는 데 있습니다. 다만 기사 내용이 완전하지 않아 화성의 과거 생명 증거 발견에 관한 구체적 결과는 명확하지 않습니다. 이는 대중을 위한 교육 콘텐츠로서의 의의가 크지만, 학술적 연구 결과보다는 경험담 공유에 초점을 맞추고 있습니다.",
-      "aiSummaryEn": "This article features an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, showcasing the real-world work involved in the Mars Perseverance rover landing project. The methodology employs a podcast format called \"What It's Like to Be...\", hosted by bestselling author Dan Heath, conducting in-depth interviews about the actual experiences and work processes of aerospace professionals. Key content covers the perilous landing process known as the \"seven minutes of terror,\" microbial management in clean room environments, and hundreds of engineering trade-off decisions. The research's significance lies in educating the public about the internal workings of complex space exploration projects, thereby increasing scientific understanding and interest. However, the incomplete article content leaves the specific findings regarding evidence of past life on Mars unclear. While valuable as educational content for general audiences, it emphasizes personal experience sharing rather than academic research results.",
-      "keyPoints": [
-        "**\"7분의 공포\"의 실제 의미** / The actual meaning and significance of \"seven minutes of terror\" during Mars landing",
-        "**우주탐사 프로젝트의 복잡한 의사결정 과정** / Complex decision-making processes involving hundreds of engineering trade-offs in space missions",
-        "**대중 과학 교육의 중요성** / The importance of public science communication through professional interviews and storytelling",
-        "**미생물 관리와 우주 생명체 탐사** / Microbial control in clean rooms and implications for detecting past life on Mars"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "19일 전 / 19d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "This article presents the philosophical proposition \"We Have Never Been Individuals,\" exploring how deeply humans are connected with surrounding living organisms. Through the example of respiration—where humans exchange oxygen and carbon dioxide with plants—the article emphasizes that individuals and their environment are not separate entities but mutually dependent systems. Research demonstrates that the human body hosts trillions of microorganisms that play crucial roles in digestion, immune function, and mental health. These findings challenge traditional individualistic views of human nature and propose understanding humans as \"superorganisms.\" The research's significance lies in its integration of psychology, biology, and philosophy to redefine human existence. However, methodological challenges remain in objectively measuring and validating these interconnectedness concepts.\n\n##",
-      "aiSummaryKo": "본 기사는 \"우리는 결코 개인이 아니다\"라는 철학적 명제를 통해 인간이 주변 생물과 얼마나 깊이 연결되어 있는지를 설명합니다. 호흡의 예시를 통해 인간이 식물과 산소-이산화탄소를 교환하는 과정을 보여주며, 이는 개인과 환경이 완전히 분리된 실체가 아니라 상호 의존적인 관계임을 강조합니다. 연구에 따르면 인간의 신체는 수조 개의 미생물을 숙주하고 있으며, 이들은 소화, 면역 기능, 정신 건강 등에 중요한 역할을 합니다. 이러한 발견들은 기존의 개인주의적 인간관을 재검토하고, 인간을 하나의 '초생물체(superorganism)'로 이해할 필요성을 제기합니다. 본 논문의 의의는 심리학, 생물학, 철학을 통합하여 인간 존재의 본질을 새롭게 정의한다는 점입니다. 다만 이러한 개념을 객관적으로 측정하고 검증하는 방법론적 과제가 남아있습니다.\n\n##",
-      "aiSummaryEn": "This article presents the philosophical proposition \"We Have Never Been Individuals,\" exploring how deeply humans are connected with surrounding living organisms. Through the example of respiration—where humans exchange oxygen and carbon dioxide with plants—the article emphasizes that individuals and their environment are not separate entities but mutually dependent systems. Research demonstrates that the human body hosts trillions of microorganisms that play crucial roles in digestion, immune function, and mental health. These findings challenge traditional individualistic views of human nature and propose understanding humans as \"superorganisms.\" The research's significance lies in its integration of psychology, biology, and philosophy to redefine human existence. However, methodological challenges remain in objectively measuring and validating these interconnectedness concepts.\n\n##",
-      "keyPoints": [
-        "**상호호흡의 생태적 순환**: 인간의 호흡은 식물의 광합성과 상호 의존적이며, 이는 개인과 환경이 물리적으로 연결되어 있음을 보여줌 / Ecological reciprocal respiration: Human breathing is mutually dependent with plant photosynthesis, demonstrating physical interconnection between individuals and environment",
-        "**미생물 공생(Microbiome)의 중요성**: 인간 신체의 수조 개 미생물이 소화, 면역, 정신 건강에 필수적이므로, 인간은 단일 개체가 아닌 복합 시스템 / Microbial symbiosis importance: Trillions of microorganisms in human body are essential for digestion, immunity, and mental health, making humans complex systems rather than single entities",
-        "**초생물체(Superorganism) 개념**: 인간을 독립적 개인이 아니라 다양한 생물체의 네트워크로 이해해야 함 / Superorganism concept: Humans should be understood as networks of diverse organisms, not independent individuals",
-        "**개인주의 패러다임의 재검토**: 심리학과 생물학적 증거는 전통적인 개인주의적 인간관의 수정을 요구함 / Reevaluation of individualism paradigm: Psychological and biological evidence demands revision of traditional individualistic views of human nature"
-      ],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
       "featured": false
     }
   ]
