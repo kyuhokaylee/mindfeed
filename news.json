@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-26T17:24:53.733263+00:00",
+  "updated": "2026-04-26T20:01:05.165901+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ebc25a567b1e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Young men use moral outrage to claim status in political debates",
+      "titleKo": "젊은 남성들이 정치 논쟁에서 도덕적 분노를 이용해 지위를 주장한다",
+      "summary": "Hostile political debate might have less to do with deep ideological divides and more to do with social status. A new study finds that young men frequently use moral outrage as a competitive tool to shame opponents.",
+      "aiSummary": "This study investigates whether hostile political debate stems more from social status-seeking than from deep ideological differences. Researchers examined how young men express their opinions in political discussions and debates. The key finding reveals that young men frequently employ moral outrage as a competitive tool to shame opponents and elevate their own social status within groups. This suggests that political arguments may function as status-seeking strategies rather than purely ideological exchanges. The research contributes to understanding the root causes of polarized online discourse and lack of mutual respect in contemporary politics. However, the study's focus on young men limits its generalizability to other age groups and women, representing a significant limitation.\n\n##",
+      "aiSummaryKo": "본 연구는 정치적 논쟁에서 나타나는 적대적 태도가 이념적 차이보다는 사회적 지위 추구와 관련이 있다는 가설에서 출발했습니다. 연구팀은 젊은 남성들이 정치 토론에서 어떤 방식으로 의견을 표현하는지 조사했습니다. 주요 결과는 젊은 남성들이 도덕적 분노를 경쟁 도구로 활용하여 상대방을 부끄럽게 만들고 자신의 사회적 지위를 높이려고 한다는 것입니다. 이는 정치적 논쟁이 단순한 신념의 차이가 아니라 집단 내 위계질서 확립을 위한 전략일 수 있음을 시사합니다. 본 연구는 온라인 정치 담론의 극단화와 상호 존중 부족의 근본 원인을 이해하는 데 기여합니다. 다만, 특정 인구 집단(젊은 남성)에 초점을 맞췄기에 다른 연령대나 여성의 행동 패턴을 설명하기에는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigates whether hostile political debate stems more from social status-seeking than from deep ideological differences. Researchers examined how young men express their opinions in political discussions and debates. The key finding reveals that young men frequently employ moral outrage as a competitive tool to shame opponents and elevate their own social status within groups. This suggests that political arguments may function as status-seeking strategies rather than purely ideological exchanges. The research contributes to understanding the root causes of polarized online discourse and lack of mutual respect in contemporary politics. However, the study's focus on young men limits its generalizability to other age groups and women, representing a significant limitation.\n\n##",
+      "keyPoints": [
+        "**도덕적 분노의 전략적 활용** / Strategic use of moral outrage as a competition tool for status elevation rather than genuine conviction expression",
+        "**사회적 지위 추구 메커니즘** / Political hostility driven by in-group hierarchy establishment and social status competition rather than ideological divides",
+        "**젊은 남성 집단의 특성** / Young men specifically employ shaming tactics and moral outrage to gain social dominance in political debates",
+        "**온라인 정치 담론 분석 함의** / Findings explain polarization in digital political discourse and suggest interventions targeting status-seeking behaviors rather than ideological persuasion"
+      ],
+      "url": "https://www.psypost.org/young-men-use-moral-outrage-to-claim-status-in-political-debates/",
+      "featured": true
+    },
     {
       "id": "1c985f878bcf",
       "tag": "psych",
@@ -21,7 +42,7 @@
         "**연구 범위의 제한** / Study Limitations: 5년간의 전체적인 태도 변화만 측정했으며, 연령, 정치 성향, 지역 등 인구통계학적 세부 분석이 불충분할 수 있음 / The study captures overall attitude changes but may lack detailed analysis across demographic variables such as age, political affiliation, and geographic location."
       ],
       "url": "https://www.psypost.org/public-support-for-transgender-women-in-sports-dropped-significantly-between-2019-and-2024/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2ccbc17e9272",
@@ -399,27 +420,6 @@
         "**장-뇌축 이해도 증진** / Enhanced gut-brain axis understanding: 장내 미생물이 분자 수준에서 뇌 건강에 미치는 구체적 메커니즘 규명 / Clarifies specific molecular mechanisms of microbiota influence on brain health"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260425091216.htm",
-      "featured": false
-    },
-    {
-      "id": "2e948f8d98b7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Repeated doses of psilocybin show promise for treating obsessive-compulsive disorder",
-      "titleKo": "반복 투여된 실로사이빈이 강박장애 치료에 효과를 보이다",
-      "summary": "A new clinical trial suggests that repeated doses of psilocybin can safely reduce symptoms of obsessive-compulsive disorder. The findings provide evidence that multiple weekly treatments offer lasting relief for those struggling with traditional therapies.",
-      "aiSummary": "A recent clinical trial demonstrates that repeated doses of psilocybin can safely reduce symptoms of obsessive-compulsive disorder (OCD). The study focused on patients who had limited responses to conventional therapies and employed a regimen of weekly repeated treatments. Key findings show that multiple sessions of psilocybin treatment provide sustained symptom relief for OCD patients. This represents a significant breakthrough for treatment-resistant OCD patients who have not responded adequately to existing antidepressants or psychotherapy. However, specific participant numbers and exact effect sizes require further clarification, and larger-scale clinical trials are needed for validation.\n\n##",
-      "aiSummaryKo": "최근 임상시험 결과에 따르면 반복적인 실로사이빈(마법 버섯의 활성 성분) 투여가 강박장애(OCD) 증상을 안전하게 감소시킬 수 있음이 확인되었습니다. 이 연구는 전통적인 치료법에 효과가 제한적이었던 환자들을 대상으로 매주 반복 투여하는 방식으로 진행되었습니다. 주요 결과는 다중 회차의 실로사이빈 치료가 지속적인 증상 완화 효과를 제공한다는 것입니다. 이는 기존 항우울제나 심리치료에 반응하지 않는 강박장애 환자들에게 새로운 치료 선택지를 제시하는 의미 있는 발견입니다. 다만 구체적인 참가자 수와 정확한 효과 크기에 대한 추가 정보가 필요하며, 향후 더 큰 규모의 임상시험을 통한 검증이 요구됩니다.\n\n##",
-      "aiSummaryEn": "A recent clinical trial demonstrates that repeated doses of psilocybin can safely reduce symptoms of obsessive-compulsive disorder (OCD). The study focused on patients who had limited responses to conventional therapies and employed a regimen of weekly repeated treatments. Key findings show that multiple sessions of psilocybin treatment provide sustained symptom relief for OCD patients. This represents a significant breakthrough for treatment-resistant OCD patients who have not responded adequately to existing antidepressants or psychotherapy. However, specific participant numbers and exact effect sizes require further clarification, and larger-scale clinical trials are needed for validation.\n\n##",
-      "keyPoints": [
-        "**강박장애 치료의 혁신**: 실로사이빈의 반복 투여가 전통 치료에 효과 없던 강박장애 환자들에게 새로운 희망을 제시 / Psilocybin repeated dosing offers new hope for treatment-resistant OCD patients unresponsive to conventional therapies",
-        "**지속적 효과 확인**: 매주 투여되는 방식으로 진행된 치료가 장기적인 증상 완화를 제공 / Weekly treatment regimen demonstrates sustained symptom relief over time",
-        "**안전성 입증**: 반복적 실로사이빈 사용이 임상적으로 안전함이 확인됨 / Clinical safety of repeated psilocybin administration has been established",
-        "**향후 연구 필요**: 최적의 용량, 투여 빈도, 장기 효과에 대한 더 큰 규모의 임상시험 필요 / Larger-scale trials needed to determine optimal dosing, frequency, and long-term efficacy"
-      ],
-      "url": "https://www.psypost.org/repeated-doses-of-psilocybin-show-promise-for-treating-obsessive-compulsive-disorder/",
       "featured": false
     }
   ]
