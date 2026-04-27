@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-27T16:12:05.037321+00:00",
+  "updated": "2026-04-27T20:42:41.465041+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c700b5d00173",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Autism genetics linked to reduced brain cell fiber density",
+      "titleKo": "자폐증 유전자와 뇌 세포 섬유 밀도 감소의 연관성",
+      "summary": "A new large-scale genetic analysis reveals that common gene variants associated with autism are also linked to lower neurite density among the general public, suggesting a shared biological architecture between neurodevelopment and microscopic brain structure.",
+      "aiSummary": "This large-scale genetic analysis reveals that common gene variants associated with autism are linked to reduced neurite density in the general population. Researchers tracked genetic variants that increase autism risk through comprehensive genomic analysis. Key findings show that individuals carrying more autism-linked genetic variants have lower dendritic fiber density, suggesting microscopic changes in brain structure. This discovery indicates that autism is rooted in fundamental biological changes during brain development, rather than being merely a behavioral disorder. The research demonstrates a shared biological mechanism between neurodevelopment and microscopic brain architecture. However, the study was conducted on the general population, so further validation is needed to determine how pronounced these changes are in individuals with clinical autism diagnosis.\n\n##",
+      "aiSummaryKo": "이 연구는 자폐증과 관련된 유전자 변이가 일반인의 뇌세포 섬유 밀도 감소와도 연관되어 있다는 것을 밝혀냈습니다. 연구진은 대규모 유전체 분석을 통해 자폐증 위험을 높이는 공통 유전 변이들을 추적했습니다. 핵심 결과는 자폐증 관련 유전자 변이를 많이 가진 사람들이 신경세포의 가지(뉴라이트) 밀도가 낮다는 것으로, 이는 뇌 구조의 미세한 변화와도 연결되어 있습니다. 이 발견은 자폐증이 단순한 행동 장애가 아니라 뇌 발달 과정의 기초적인 생물학적 변화에 근거하고 있음을 시사합니다. 연구는 신경발달과 뇌의 미시적 구조 사이의 공통된 생물학적 메커니즘을 제시합니다. 다만, 이 연구는 일반인을 대상으로 했기 때문에 실제 자폐증 환자의 뇌에서 이러한 변화가 얼마나 극명하게 나타나는지에 대한 추가 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This large-scale genetic analysis reveals that common gene variants associated with autism are linked to reduced neurite density in the general population. Researchers tracked genetic variants that increase autism risk through comprehensive genomic analysis. Key findings show that individuals carrying more autism-linked genetic variants have lower dendritic fiber density, suggesting microscopic changes in brain structure. This discovery indicates that autism is rooted in fundamental biological changes during brain development, rather than being merely a behavioral disorder. The research demonstrates a shared biological mechanism between neurodevelopment and microscopic brain architecture. However, the study was conducted on the general population, so further validation is needed to determine how pronounced these changes are in individuals with clinical autism diagnosis.\n\n##",
+      "keyPoints": [
+        "자폐증 유전자 변이와 신경세포 섬유 밀도의 연관성 / Autism-linked genetic variants associated with reduced neurite density",
+        "일반인의 뇌에서도 유전적 영향이 관찰됨 / Genetic effects observable in general population's brain structure",
+        "신경발달의 공통된 생물학적 기반 규명 / Identifies shared biological architecture of neurodevelopment",
+        "자폐증 연구에 대한 신경생물학적 이해 심화 / Deepens neurobiological understanding of autism spectrum"
+      ],
+      "url": "https://www.psypost.org/autism-genetics-overlap-with-microscopic-brain-structure-in-the-general-populati/",
+      "featured": true
+    },
+    {
+      "id": "2407c58062e0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Earable Platform with Integrated Simultaneous EEG Sensing and Auditory Stimulation",
+      "titleKo": "통합 동시 뇌파 센싱 및 청각 자극을 갖춘 귀착용형 플랫폼",
+      "summary": "arXiv:2604.22137v1 Announce Type: new Abstract: Conventional scalp-based EEG systems are cumbersome to use, requiring extensive setup, restrictive wiring, and conductive gels that can dry out and limit long-term monitoring, while also carrying social stigma. As a result, there is increasing interest in in-ear EEG technology to improve comfort, convenience, and discretion for users. This work presents a personalized in-ear EEG monitor (IEEM) that simultaneously captures EEG signals from the outer ear while delivering audio playback through the same device. The earpiece is custom-molded to preci",
+      "aiSummary": "Conventional scalp-based EEG systems are cumbersome due to complex setup requirements, extensive wiring, conductive gels that dry out, and social stigma associated with their use. To overcome these limitations, researchers developed a personalized in-ear EEG monitor (IEEM) that simultaneously captures brain signals from the outer ear while delivering audio playback through the same device. The custom-molded earpiece design enables long-term brain activity monitoring without user discomfort or social inconvenience. This wearable technology has significant potential applications in medical monitoring, neuroscience research, and everyday health management. The innovation combines comfort, discretion, and functionality by integrating EEG sensing and auditory stimulation in a single device. However, this technical development paper lacks clinical validation and large-scale user testing, which represents a key limitation for real-world deployment. Future research should focus on comparative accuracy studies and longitudinal user experience assessment.\n\n##",
+      "aiSummaryKo": "기존의 두피 기반 뇌파(EEG) 측정 장비는 설치가 복잡하고 전선이 많으며 전도성 젤이 필요해 장시간 사용이 어렵고 사회적 낙인이 있다는 문제가 있습니다. 이러한 한계를 극복하기 위해 연구팀은 귀 안에 착용하는 맞춤형 뇌파 모니터링 장치(IEEM)를 개발했습니다. 이 장치는 귀 바깥쪽에서 동시에 뇌파 신호를 포집하면서 동일한 기기를 통해 음성 재생도 가능하도록 설계되었습니다. 귀에 정확히 맞도록 맞춤 제작된 이어피스를 통해 사용자는 불편함 없이 장기간 뇌 활동을 모니터링할 수 있습니다. 이 기술은 의료 모니터링, 신경과학 연구, 일상 건강 관리 등 다양한 분야에서 활용될 가능성이 높습니다. 다만 본 연구는 기술 개발 단계의 논문으로, 임상 검증과 대규모 사용자 테스트가 아직 부족하다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "Conventional scalp-based EEG systems are cumbersome due to complex setup requirements, extensive wiring, conductive gels that dry out, and social stigma associated with their use. To overcome these limitations, researchers developed a personalized in-ear EEG monitor (IEEM) that simultaneously captures brain signals from the outer ear while delivering audio playback through the same device. The custom-molded earpiece design enables long-term brain activity monitoring without user discomfort or social inconvenience. This wearable technology has significant potential applications in medical monitoring, neuroscience research, and everyday health management. The innovation combines comfort, discretion, and functionality by integrating EEG sensing and auditory stimulation in a single device. However, this technical development paper lacks clinical validation and large-scale user testing, which represents a key limitation for real-world deployment. Future research should focus on comparative accuracy studies and longitudinal user experience assessment.\n\n##",
+      "keyPoints": [
+        "**포인트1**: 기존 두피식 EEG의 문제점 극복 / Overcomes limitations of conventional scalp-based EEG systems (complex setup, gel dependency, social stigma)",
+        "**포인트2**: 귀 안착 맞춤형 장치로 동시에 뇌파 감지와 음성 출력 가능 / Custom-molded earpiece enables simultaneous EEG signal capture and audio playback functionality",
+        "**포인트3**: 장기간 모니터링과 일상적 사용 가능성 향상 / Improved comfort and discretion enable long-term monitoring and practical daily-life applications",
+        "**포인트4**: 의료, 신경과학, 건강관리 분야의 광범위한 적용 가능성 / Potential applications span medical monitoring, neuroscience research, and personalized health management sectors"
+      ],
+      "url": "https://arxiv.org/abs/2604.22137",
+      "featured": false
+    },
+    {
+      "id": "f5209296036d",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Early Preconfiguration Failure: A Novel Predictor of the Repetitive Subconcussion",
+      "titleKo": "반복적 뇌진탕의 새로운 예측인자: 조기 전구성 실패",
+      "summary": "arXiv:2604.22275v1 Announce Type: new Abstract: Early diagnosis and assessment of repetitive subconcussive (rSC) brain injuries are crucial for early clinical intervention. Conventional methods, largely relying on slow fMRI, fail to capture millisecond-level early cortical dynamics, particularly spatiotemporal features associated with pre-configuration dynamics. This study introduces a novel approach integrating dynamic hierarchical spatial features and cortical early behavioral time-domain sensitivity, utilizing EEG and visual attention tasks. We analyzed cortical early behaviors in 24 health",
+      "aiSummary": "This study addresses the critical need for early diagnosis of repetitive subconcussive (rSC) brain injuries to enable timely clinical intervention. Conventional neuroimaging methods like fMRI fail to capture millisecond-level cortical dynamics essential for detecting early brain damage. Researchers developed a novel approach combining EEG and visual attention tasks to analyze spatiotemporal cortical features in 24 healthy participants. The method integrates dynamic hierarchical spatial features with early behavioral time-domain sensitivity, enabling detection of subtle brain activity changes at millisecond resolution. The findings suggest potential for earlier and more accurate identification of repetitive brain injuries. However, limitations include small sample size and recruitment of only healthy participants, which may not represent actual injury populations.\n\n##",
+      "aiSummaryKo": "이 연구는 반복적인 미세 뇌진탕(반복적 뇌손상) 초기 진단의 중요성에 주목하여 시작되었습니다. 기존의 fMRI 같은 느린 뇌영상 기법들은 밀리초 단위의 뇌 활동 변화를 포착하지 못하는 한계가 있었습니다. 연구진은 24명의 건강한 피험자를 대상으로 EEG(뇌파)와 시각 주의력 과제를 결합한 새로운 방법을 개발했습니다. 이 접근법은 뇌의 공간적 특징과 초기 시간 영역 민감도를 동적으로 분석하여 밀리초 수준의 뇌 활동 변화를 감지할 수 있습니다. 연구 결과는 반복적 뇌손상의 초기 단계를 더 빠르고 정확하게 진단할 수 있는 가능성을 제시합니다. 다만 표본 크기가 제한적이고 건강한 피험자만 참여했다는 점이 연구의 한계입니다.\n\n##",
+      "aiSummaryEn": "This study addresses the critical need for early diagnosis of repetitive subconcussive (rSC) brain injuries to enable timely clinical intervention. Conventional neuroimaging methods like fMRI fail to capture millisecond-level cortical dynamics essential for detecting early brain damage. Researchers developed a novel approach combining EEG and visual attention tasks to analyze spatiotemporal cortical features in 24 healthy participants. The method integrates dynamic hierarchical spatial features with early behavioral time-domain sensitivity, enabling detection of subtle brain activity changes at millisecond resolution. The findings suggest potential for earlier and more accurate identification of repetitive brain injuries. However, limitations include small sample size and recruitment of only healthy participants, which may not represent actual injury populations.\n\n##",
+      "keyPoints": [
+        "**초기 진단의 혁신**: EEG와 시각 주의력 과제를 결합하여 밀리초 단위의 뇌 활동 변화 감지 가능 / Novel approach combining EEG and visual tasks enables millisecond-level detection of cortical dynamics, surpassing conventional fMRI limitations",
+        "**시공간 뇌 특징 분석**: 동적 계층적 공간 특징과 초기 시간 영역 민감도를 동시에 분석하여 뇌진탕 손상의 특이적 패턴 파악 / Integration of spatial-temporal cortical features allows identification of specific damage patterns in subconcussive injuries",
+        "**조기 개입 가능성**: 반복적 뇌손상의 초기 단계를 더 빨리 감지함으로써 임상 개입 시간 단축 / Earlier detection enables timely clinical intervention, potentially preventing progressive neurological damage",
+        "**연구 한계**: 24명의 건강한 피험자만 참여하여 실제 손상 환자군에 대한 검증 필요 / Limited sample size with only healthy participants; validation needed in actual injury populations"
+      ],
+      "url": "https://arxiv.org/abs/2604.22275",
+      "featured": false
+    },
+    {
+      "id": "58bfaa6cff9f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "8일 전 / 8d ago",
+      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
+      "titleKo": "갈등 상황에서 행동과학이 마주해야 할 어려운 진실들",
+      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummary": "Approximately 2 billion people live in conflict-affected areas, yet behavioral science has developed most of its theories, experiments, and interventions in stable contexts, revealing a critical gap in the field. Behavioral scientists typically follow a pattern of taking successful interventions from elsewhere, \"localizing\" them, and evaluating their effectiveness in conflict settings, but this approach proves insufficient. As of 2024, 123 million people were forcibly displaced—the highest number on record—demonstrating an unprecedented global scale of displacement. The research emphasizes that conflict reshapes lives globally at an unparalleled scale, with unique challenges such as uncertainty, trauma, and lack of trust that differ fundamentally from stable environments. The significance of this work lies in establishing a scientific foundation for developing behavioral interventions specifically designed for conflict contexts rather than merely adapting existing solutions. The study highlights the urgent need for behavioral science to develop new theories and methodologies that directly address conflict-specific conditions. Key limitations include the practical and ethical difficulties of conducting large-scale experiments in actual conflict zones and challenges in collecting reliable field data in such settings.\n\n##",
+      "aiSummaryKo": "현재 약 20억 명이 분쟁 영향 지역에 살고 있지만, 행동과학 분야는 대부분의 이론과 실험을 안정적인 환경에서 개발해왔다는 것이 이 연구의 핵심 배경이다. 행동과학자들이 분쟁 지역에서 연구를 수행할 때도 다른 곳에서 성공한 방법을 그대로 가져와 \"지역화\"한 후 평가하는 패턴을 반복해왔다. 2024년 기준으로 1억 2,300만 명이 강제 이주되었으며, 이는 역대 최고 수치다. 이 글은 기존의 안정적 환경 중심 접근법이 분쟁 지역에서는 충분하지 않으며, 분쟁이 전 세계적으로 전례 없는 규모로 인명을 재편하고 있음을 강조한다. 행동과학이 분쟁 상황의 고유한 특성(불확실성, 트라우마, 신뢰 결여 등)을 직접 고려한 새로운 이론과 방법론 개발의 필요성을 제시한다. 이 연구의 의의는 인도주의 위기에 직면한 취약 집단을 더 효과적으로 지원할 수 있는 과학적 토대 마련이다. 제한점은 현장 데이터 수집의 어려움과 윤리적 제약으로 인해 실제 분쟁 상황에서의 대규모 실험이 현실적으로 어렵다는 점이다.\n\n##",
+      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas, yet behavioral science has developed most of its theories, experiments, and interventions in stable contexts, revealing a critical gap in the field. Behavioral scientists typically follow a pattern of taking successful interventions from elsewhere, \"localizing\" them, and evaluating their effectiveness in conflict settings, but this approach proves insufficient. As of 2024, 123 million people were forcibly displaced—the highest number on record—demonstrating an unprecedented global scale of displacement. The research emphasizes that conflict reshapes lives globally at an unparalleled scale, with unique challenges such as uncertainty, trauma, and lack of trust that differ fundamentally from stable environments. The significance of this work lies in establishing a scientific foundation for developing behavioral interventions specifically designed for conflict contexts rather than merely adapting existing solutions. The study highlights the urgent need for behavioral science to develop new theories and methodologies that directly address conflict-specific conditions. Key limitations include the practical and ethical difficulties of conducting large-scale experiments in actual conflict zones and challenges in collecting reliable field data in such settings.\n\n##",
+      "keyPoints": [
+        "**현장-이론의 괴리** / Gap Between Field Reality and Theory: 행동과학의 대부분 이론과 실험이 안정적 환경에서 개발되어 분쟁 지역의 현실과 맞지 않음 / Most behavioral science theories and experiments developed in stable contexts fail to address conflict-affected realities",
+        "**강제이주의 급증** / Unprecedented Displacement Crisis: 2024년 1억 2,300만 명의 강제 이주는 역대 최고 수치로, 기존 접근법의 재검토 필요 / 123 million forcibly displaced in 2024—a record high—necessitating fundamental reconsideration of existing approaches",
+        "**지역화만으로는 부족** / Localization Is Insufficient: 기존 성공 사례의 단순 지역화 방식으로는 분쟁 지역의 복합적 문제 해결 불가능 / Simple adaptation of successful interventions from other contexts cannot address the complex, multi-faceted challenges of conflict settings",
+        "**새로운 이론 개발 필요** / Need for Conflict-Specific Science: 불확실성, 트라우마, 신뢰 결여 등 분쟁 고유의 특성을 반영한 독립적 이론과 방법론 구축 필요 / Development of independent theories and methodologies that directly address conflict-specific conditions such as uncertainty, trauma, and broken trust is essential"
+      ],
+      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
+      "featured": false
+    },
+    {
+      "id": "378cfa2a024b",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
+      "titleKo": "하버드 과학자들, 숨겨진 염증 유발인자를 통해 장내 박테리아와 우울증의 연관성 규명",
+      "summary": "A gut bacterium may be quietly fueling depression through an unexpected chemical twist. Researchers found that when Morganella morganii interacts with a common pollutant, it produces a molecule that triggers inflammation—something strongly linked to depression. This finding helps explain how gut microbes can influence brain health at a molecular level. It also raises the possibility of new treatments that target the immune system rather than just the brain.",
+      "aiSummary": "Harvard researchers have discovered a novel mechanism by which gut bacteria may fuel depression through hidden inflammatory responses. The team found that Morganella morganii, a common gut bacterium, produces inflammation-triggering molecules when it interacts with environmental pollutants. This inflammation is strongly associated with depression. The research clarifies how gut microbiota influence brain health at the molecular level, advancing our understanding of the gut-brain axis. This discovery opens new therapeutic possibilities for depression treatment by targeting the immune system rather than solely focusing on the brain. However, further clinical studies in humans are needed to confirm efficacy and understand individual variations in response to such treatments.\n\n##",
+      "aiSummaryKo": "하버드 과학자들은 장내 박테리아가 숨겨진 염증 반응을 통해 우울증을 유발할 수 있다는 새로운 메커니즘을 발견했습니다. 연구팀은 모르가넬라 모르가니라는 장내 박테리아가 일반적인 환경 오염물질과 상호작용할 때, 염증을 촉발하는 분자를 생성한다는 것을 밝혀냈습니다. 이 염증은 우울증과 강하게 연관되어 있습니다. 본 연구는 장내 미생물이 분자 수준에서 뇌 건강에 어떻게 영향을 미치는지를 규명함으로써 장-뇌 축(gut-brain axis) 연구의 이해도를 높입니다. 이 발견은 뇌 자체만 아니라 면역 체계를 표적으로 하는 새로운 우울증 치료법 개발의 가능성을 제시합니다. 다만, 인체에서의 임상 효과와 개인차에 따른 반응의 차이를 확인하기 위한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Harvard researchers have discovered a novel mechanism by which gut bacteria may fuel depression through hidden inflammatory responses. The team found that Morganella morganii, a common gut bacterium, produces inflammation-triggering molecules when it interacts with environmental pollutants. This inflammation is strongly associated with depression. The research clarifies how gut microbiota influence brain health at the molecular level, advancing our understanding of the gut-brain axis. This discovery opens new therapeutic possibilities for depression treatment by targeting the immune system rather than solely focusing on the brain. However, further clinical studies in humans are needed to confirm efficacy and understand individual variations in response to such treatments.\n\n##",
+      "keyPoints": [
+        "**장-뇌 염증 경로 발견** / Discovery of gut-brain inflammation pathway",
+        "**새로운 치료 타겟 제시** / New therapeutic target identification",
+        "**미시적 메커니즘 규명** / Molecular mechanism clarification",
+        "뇌 축 연구의 과학적 기초 강화"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260425091216.htm",
+      "featured": false
+    },
     {
       "id": "cc41f42877c9",
       "tag": "psych",
@@ -21,7 +126,7 @@
         "**사회적 자신감 향상의 중요성** / Improved access to suitable clothing significantly enhances psychological well-being and social engagement in this demographic"
       ],
       "url": "https://www.psypost.org/new-study-links-fashion-satisfaction-to-mental-well-being-and-social-confidence-in-middle-aged-women/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5616944083e8",
@@ -305,101 +410,6 @@
         "**도메인 특화 적응 학습** / Domain-specific fine-tuning to enhance performance while maintaining efficiency gains"
       ],
       "url": "https://arxiv.org/abs/2604.21952",
-      "featured": false
-    },
-    {
-      "id": "164e15a9040f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "5시간 전 / 5h ago",
-      "title": "Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics",
-      "titleKo": "운동선수 성능 이상 탐지: 시각 분석을 활용한 벤치마킹 시스템",
-      "summary": "arXiv:2604.21953v1 Announce Type: new Abstract: Anti-doping programs rely on biological testing to detect performance-enhancing drugs, but such testing costs over $800 per sample and is limited by short detection windows for many prohibited substances. These constraints leave large portions of athletes without regular testing, motivating complementary screening approaches that analyze routine competition results to identify suspicious performance patterns. We present a system that processes 1.6 million athletics performances from over 19,000 competitions (2010-2025) using eight detection metho",
-      "aiSummary": "This research presents a system to detect suspicious performance patterns in athletics by analyzing competition results data, complementing biological testing limitations. The researchers processed 1.6 million athletic performances from over 19,000 competitions (2010-2025) using eight detection methods. Current anti-doping testing costs over $800 per sample and has limited detection windows for many prohibited substances, restricting regular testing coverage for athletes. The system automatically detects abnormal performance improvements through visual analytics tools, providing a more efficient screening method to supplement anti-doping programs. The significance lies in reducing economic costs while monitoring a broader range of athletes. However, a key limitation is that the system may not perfectly distinguish between natural performance improvements and those resulting from doping.\n\n##",
-      "aiSummaryKo": "본 연구는 생물학적 검사의 한계를 보완하기 위해 경기 결과 데이터를 분석하여 의심스러운 성능 패턴을 탐지하는 시스템을 개발했습니다. 연구팀은 2010-2025년 동안 19,000개 이상의 육상 경기에서 160만 개의 성능 데이터를 수집하여 8가지 탐지 방법을 적용했습니다. 현재 도핑 검사는 샘플당 $800 이상의 비용이 들고 많은 금지 물질의 검출 시간이 짧아 선수들에 대한 정기적 검사가 제한적이라는 문제가 있습니다. 이 시스템은 시각 분석 도구를 통해 비정상적인 성능 향상을 자동으로 감지하며, 도핑 방지 프로그램을 보완하는 보다 효율적인 스크리닝 방법을 제공합니다. 연구의 의의는 경제적 비용을 절감하면서도 더 광범위한 선수를 모니터링할 수 있다는 점입니다. 다만 이 방식은 자연적인 성능 향상과 도핑으로 인한 성능 향상을 완벽하게 구분하지 못할 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research presents a system to detect suspicious performance patterns in athletics by analyzing competition results data, complementing biological testing limitations. The researchers processed 1.6 million athletic performances from over 19,000 competitions (2010-2025) using eight detection methods. Current anti-doping testing costs over $800 per sample and has limited detection windows for many prohibited substances, restricting regular testing coverage for athletes. The system automatically detects abnormal performance improvements through visual analytics tools, providing a more efficient screening method to supplement anti-doping programs. The significance lies in reducing economic costs while monitoring a broader range of athletes. However, a key limitation is that the system may not perfectly distinguish between natural performance improvements and those resulting from doping.\n\n##",
-      "keyPoints": [
-        "**고비용 검사의 한계 극복** / Overcoming High Testing Costs",
-        "**대규모 데이터 기반 분석** / Large-Scale Data Analysis",
-        "**시각 분석을 통한 직관적 탐지** / Intuitive Detection via Visual Analytics",
-        "**보완적 스크리닝 방식의 가치** / Value of Complementary Screening"
-      ],
-      "url": "https://arxiv.org/abs/2604.21953",
-      "featured": false
-    },
-    {
-      "id": "f47afcd4ce9e",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "5시간 전 / 5h ago",
-      "title": "Conditional anomaly detection using soft harmonic functions: An application to clinical alerting",
-      "titleKo": "소프트 조화함수를 이용한 조건부 이상 탐지: 임상 경보 시스템에의 응용",
-      "summary": "arXiv:2604.21956v1 Announce Type: new Abstract: Timely detection of concerning events is an important problem in clinical practice. In this paper, we consider the problem of conditional anomaly detection that aims to identify data instances with an unusual response, such as the omission of an important lab test. We develop a new non-parametric approach for conditional anomaly detection based on the soft harmonic solution, with which we estimate the confidence of the label to detect anomalous mislabeling. We further regularize the solution to avoid the detection of isolated examples and example",
-      "aiSummary": "This study addresses the critical importance of timely detection of concerning events in clinical practice. The research focuses on conditional anomaly detection, which aims to identify unusual cases such as omission of important lab tests in patient data. The researchers developed a novel non-parametric approach based on soft harmonic functions to estimate label confidence and detect anomalous mislabeling. The method incorporates regularization techniques to avoid false positives from isolated examples. This approach has potential to improve patient safety and clinical decision-making quality. However, the study lacks validation in real clinical environments, and applicability across diverse clinical scenarios requires further verification.\n\n##",
-      "aiSummaryKo": "본 연구는 임상 실무에서 환자의 이상 신호를 적시에 감지하는 것의 중요성에서 출발했습니다. 연구팀은 환자의 중요한 검사 누락과 같이 예상과 다른 반응을 보이는 사례들을 식별하는 '조건부 이상 탐지' 문제에 주목했습니다. 연구 방법으로는 소프트 조화함수(soft harmonic solution) 기반의 새로운 비모수적 접근법을 개발했으며, 이를 통해 라벨의 신뢰도를 추정하여 비정상적인 잘못된 라벨링을 감지합니다. 연구팀은 고립된 사례들의 과도한 탐지를 피하기 위해 정규화 기법을 추가로 적용했습니다. 이 방법론은 환자 안전과 임상 의사결정의 질을 향상시킬 수 있는 잠재력을 지닙니다. 다만, 실제 임상 환경에서의 검증 데이터가 부족하고, 다양한 임상 상황에 대한 적용 가능성 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study addresses the critical importance of timely detection of concerning events in clinical practice. The research focuses on conditional anomaly detection, which aims to identify unusual cases such as omission of important lab tests in patient data. The researchers developed a novel non-parametric approach based on soft harmonic functions to estimate label confidence and detect anomalous mislabeling. The method incorporates regularization techniques to avoid false positives from isolated examples. This approach has potential to improve patient safety and clinical decision-making quality. However, the study lacks validation in real clinical environments, and applicability across diverse clinical scenarios requires further verification.\n\n##",
-      "keyPoints": [
-        "**임상 알림 시스템의 필요성**: 환자의 비정상적인 반응(특히 중요 검사 누락)을 적시에 감지하는 것이 임상 실무에서 필수적이며, 이는 환자 안전을 직결 / **Clinical alerting necessity**: Timely detection of unusual patient responses (especially critical lab test omissions) is essential in clinical practice and directly impacts patient safety",
-        "**소프트 조화함수 기반 알고리즘**: 기존의 모수적 방법이 아닌 유연한 비모수적 접근법을 사용하여 라벨 신뢰도를 정량화하고 비정상 라벨을 식별 / **Soft harmonic function approach**: Non-parametric method quantifies label confidence and identifies anomalous labels more flexibly than traditional parametric approaches",
-        "**정규화를 통한 과탐지 방지**: 고립된 개별 사례들을 과도하게 이상으로 판정하는 것을 막기 위해 정규화 기법을 적용 / **Regularization against false positives**: Regularization techniques prevent over-detection of isolated examples as anomalies",
-        "**실무 적용의 제한점**: 실제 임상 환경에서의 실증 검증 부족, 다양한 임상 시나리오에 대한 일반화 가능성 미확인 / **Limited practical validation**: Lacks empirical validation in real clinical settings and generalizability across diverse clinical scenarios remains unverified"
-      ],
-      "url": "https://arxiv.org/abs/2604.21956",
-      "featured": false
-    },
-    {
-      "id": "f5d7bca4004c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "5시간 전 / 5h ago",
-      "title": "Multi-Task Optimization over Networks of Tasks",
-      "titleKo": "작업 네트워크에서의 다중 작업 최적화",
-      "summary": "arXiv:2604.21991v1 Announce Type: new Abstract: Multi-task optimization is a powerful approach for solving a large number of tasks in parallel. However, existing algorithms face distinct limitations: Population-based methods scale poorly and remain underexplored for large task sets. Approaches that do scale beyond a thousand tasks are mostly MAP-Elites variants and rely on a fixed, discretized archive that disregards the topology of the task space. We introduce MONET (Multi-Task Optimization over Networks of Tasks), a multi-task optimization algorithm that models the task space as a graph: tas",
-      "aiSummary": "This research addresses the multi-task optimization problem for efficiently handling thousands or more tasks simultaneously. Existing methods face significant limitations: population-based approaches do not scale well, while scalable approaches like MAP-Elites variants rely on fixed, discretized archives that ignore task space topology. The research team developed MONET (Multi-Task Optimization over Networks of Tasks), a novel algorithm that models the task space as a network graph to reflect the structure of task relationships. This approach provides better scalability than existing MAP-Elites variants by leveraging similarity and relationships between tasks to improve optimization efficiency. The significance lies in providing a practical solution for large-scale multi-task environments, though further validation on more complex task network structures is needed.\n\n##",
-      "aiSummaryKo": "이 연구는 수천 개 이상의 많은 작업을 동시에 효율적으로 처리하는 다중작업 최적화(Multi-task Optimization) 문제를 다룹니다. 기존 방법들은 작업의 수가 증가하면 성능이 급격히 떨어지거나, 작업 간의 관계를 무시한 고정된 저장소를 사용하는 한계가 있었습니다. 연구팀은 MONET(다중작업 네트워크 최적화)이라는 새로운 알고리즘을 개발했으며, 이는 작업들을 네트워크 그래프로 모델링하여 작업 공간의 구조를 반영합니다. 이 접근방식은 기존의 MAP-Elites 변형 방법들보다 더 나은 확장성을 제공하며, 작업 간의 유사성과 관계를 활용하여 최적화 효율을 높입니다. 본 연구의 의의는 대규모 다중작업 환경에서 실용적인 솔루션을 제시한다는 점이며, 향후 더 복잡한 작업 네트워크 구조에 대한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research addresses the multi-task optimization problem for efficiently handling thousands or more tasks simultaneously. Existing methods face significant limitations: population-based approaches do not scale well, while scalable approaches like MAP-Elites variants rely on fixed, discretized archives that ignore task space topology. The research team developed MONET (Multi-Task Optimization over Networks of Tasks), a novel algorithm that models the task space as a network graph to reflect the structure of task relationships. This approach provides better scalability than existing MAP-Elites variants by leveraging similarity and relationships between tasks to improve optimization efficiency. The significance lies in providing a practical solution for large-scale multi-task environments, though further validation on more complex task network structures is needed.\n\n##",
-      "keyPoints": [
-        "**문제 정의** / Problem Definition",
-        "**혁신적 접근** / Innovative Approach",
-        "**확장성 개선** / Scalability Improvement",
-        "Elites 방법보다 우수한 확장성을 제공하며 더 효율적인 병렬 처리 가능"
-      ],
-      "url": "https://arxiv.org/abs/2604.21991",
-      "featured": false
-    },
-    {
-      "id": "21409ade713d",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "5시간 전 / 5h ago",
-      "title": "Foundation models for discovering robust biomarkers of neurological disorders from dynamic functional connectivity",
-      "titleKo": "",
-      "summary": "arXiv:2604.22018v1 Announce Type: new Abstract: Several brain foundation models (FM) have recently been proposed to predict brain disorders by modelling dynamic functional connectivity (FC). While they demonstrate remarkable model performance and zero- or few-shot generalization, the salient features identified as potential biomarkers are yet to be thoroughly evaluated. We propose RE-CONFIRM, a framework for evaluating the robustness of potential biomarker candidates elucidated by deep learning (DL) models including FMs. From experiments on five large datasets of Autism Spectrum Disorder (ASD)",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.22018",
-      "featured": false
-    },
-    {
-      "id": "753e3ed5f061",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "5시간 전 / 5h ago",
-      "title": "Resting-State EEG Biomarkers of Tinnitus Robust to Cross-Subject and Cross-Platform Variation",
-      "titleKo": "",
-      "summary": "arXiv:2604.22116v1 Announce Type: new Abstract: Tinnitus is a prevalent auditory condition lacking objective biomarkers, motivating the search for reliable neural signatures. EEG, being a noninvasive method of brain imaging with a high temporal resolution provides a way to investigate the neural dynamics that may be associated with tinnitus. The generalizability of EEG-based tinnitus biomarkers across different datasets remains a critical challenge. Microstate theory has allowed for the characterization of quasi-stable topographic configurations in EEG, with some studies reporting altered micr",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.22116",
       "featured": false
     }
   ]
