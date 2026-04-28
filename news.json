@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-28T16:30:46.040242+00:00",
+  "updated": "2026-04-28T20:55:13.214673+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "73feacf8115f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Scientists discover how local brain cells hijack serotonin signaling",
+      "titleKo": "과학자들, 국소 뇌세포의 세로토닌 신호 전달 탈취 메커니즘 규명",
+      "summary": "Scientists have discovered that the chemical acetylcholine can directly trigger the release of serotonin. This localized control system becomes hyperactive in mice with obsessive-compulsive traits, offering a fresh perspective on the biological roots of repetitive psychiatric conditions.",
+      "aiSummary": "Neuroscientists have discovered a new mechanism of interaction between brain neurotransmitters. The research team confirmed that acetylcholine, a chemical substance in the mouse brain, can directly trigger serotonin release through localized control systems. Notably, this neural signaling system becomes hyperactive in mice displaying obsessive-compulsive traits, suggesting a biological basis for repetitive psychiatric conditions. This discovery provides a fresh perspective on understanding the neurological mechanisms underlying obsessive-compulsive disorder and similar behavioral conditions. The findings could lead to the development of novel therapeutic targets for treating repetitive behavior-related disorders such as OCD and addiction. However, since this research is based on animal experiments, further validation is needed to confirm whether identical mechanisms operate in humans.\n\n#",
+      "aiSummaryKo": "신경과학 연구진은 뇌의 신경전달물질 간 상호작용에 대한 새로운 메커니즘을 발견했습니다. 연구팀은 마우스 뇌 조직을 대상으로 아세틸콜린이라는 화학물질이 세로토닌 방출을 직접 유발할 수 있음을 확인했습니다. 특히 강박장애 성향을 보이는 마우스에서 이러한 국소적 제어 시스템이 과도하게 활성화되는 것으로 나타났습니다. 이번 발견은 반복적이고 강박적인 정신질환의 생물학적 원인을 이해하는 데 새로운 관점을 제시합니다. 연구 결과는 강박장애, 중독 등 반복 행동 관련 질환의 새로운 치료 표적 개발로 이어질 수 있습니다. 다만 이 연구는 동물 실험 기반이므로 인간에게 동일한 메커니즘이 작용하는지 추가 검증이 필요합니다.\n\n#",
+      "aiSummaryEn": "Neuroscientists have discovered a new mechanism of interaction between brain neurotransmitters. The research team confirmed that acetylcholine, a chemical substance in the mouse brain, can directly trigger serotonin release through localized control systems. Notably, this neural signaling system becomes hyperactive in mice displaying obsessive-compulsive traits, suggesting a biological basis for repetitive psychiatric conditions. This discovery provides a fresh perspective on understanding the neurological mechanisms underlying obsessive-compulsive disorder and similar behavioral conditions. The findings could lead to the development of novel therapeutic targets for treating repetitive behavior-related disorders such as OCD and addiction. However, since this research is based on animal experiments, further validation is needed to confirm whether identical mechanisms operate in humans.\n\n#",
+      "keyPoints": [
+        "아세틸콜린이 세로토닌 방출을 직접 유발하는 신규 신경전달 메커니즘 발견 / Discovery of a novel neurotransmitter mechanism where acetylcholine directly triggers serotonin release",
+        "강박장애 성향 마우스에서 이 시스템의 과도한 활성화 확인 / Hyperactivation of this localized signaling system confirmed in mice with obsessive-compulsive traits",
+        "반복적·강박적 정신질환의 생물학적 근거 제시 / Provides biological explanation for the development of repetitive psychiatric conditions",
+        "새로운 약물 치료 표적 개발 가능성 제시 / Opens potential for developing new pharmacological treatment targets for OCD and related disorders"
+      ],
+      "url": "https://www.psypost.org/scientists-discover-how-local-brain-cells-hijack-serotonin-signaling/",
+      "featured": true
+    },
+    {
+      "id": "69a580dec5a8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Narcissism runs in the family, but not because of parenting",
+      "titleKo": "자기애는 가족력이 있지만, 양육 방식 때문은 아니다",
+      "summary": "A comprehensive assessment of twins and their families reveals that narcissistic traits are inherited genetically, contradicting the popular belief that parenting styles cause narcissism. Individual experiences outside the home shape the remaining variations in this personality trait.",
+      "aiSummary": "This research challenges the widespread belief that parenting styles cause narcissistic personality traits. Researchers conducted a comprehensive assessment of twins and their families, finding that narcissistic characteristics are primarily inherited genetically rather than shaped by parental upbringing. Specifically, a substantial portion of variations in narcissistic traits is determined by genetic factors, while the remaining variations are shaped by individual experiences outside the home, such as peer relationships, school experiences, and social interactions. The study has significant implications for changing misconceptions about narcissistic personality development and suggests that parents need not bear excessive responsibility for their children's narcissistic tendencies. However, the research may be limited to specific cultural and socioeconomic contexts, and it does not fully explain the complex mechanisms of gene-environment interactions.\n\n##",
+      "aiSummaryKo": "이 연구는 자기애적 성격이 부모의 양육 방식 때문이라는 일반적인 믿음에 의문을 제기합니다. 연구팀은 쌍둥이와 그들의 가족을 대상으로 포괄적인 평가를 실시하여 자기애적 특성이 주로 유전적으로 물려받는다는 것을 발견했습니다. 구체적으로, 자기애 특성의 변이 중 상당 부분이 유전 요인에 의해 결정되며, 나머지 변이는 가정 밖의 개별적 경험들(친구 관계, 학교 경험, 사회적 상호작용 등)에 의해 형성됩니다. 이 연구는 자기애 성격 발달에 대한 통념을 바꾸는 중요한 의미를 가지며, 부모들이 자녀의 자기애 형성에 대해 과도한 책임감을 가질 필요가 없다는 점을 시사합니다. 다만, 이 연구는 특정 문화권과 사회계층에 국한될 수 있으며, 유전과 환경 상호작용의 복잡한 메커니즘을 완전히 설명하지 못한다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research challenges the widespread belief that parenting styles cause narcissistic personality traits. Researchers conducted a comprehensive assessment of twins and their families, finding that narcissistic characteristics are primarily inherited genetically rather than shaped by parental upbringing. Specifically, a substantial portion of variations in narcissistic traits is determined by genetic factors, while the remaining variations are shaped by individual experiences outside the home, such as peer relationships, school experiences, and social interactions. The study has significant implications for changing misconceptions about narcissistic personality development and suggests that parents need not bear excessive responsibility for their children's narcissistic tendencies. However, the research may be limited to specific cultural and socioeconomic contexts, and it does not fully explain the complex mechanisms of gene-environment interactions.\n\n##",
+      "keyPoints": [
+        "**자기애는 부모 탓이 아님** / Narcissism is not caused by parenting",
+        "**유전의 강한 영향** / Strong genetic influence",
+        "**가정 밖 경험의 중요성** / Importance of outside-home experiences",
+        "**양육 책임감 완화** / Relief from parental responsibility"
+      ],
+      "url": "https://www.psypost.org/narcissism-runs-in-the-family-but-not-because-of-parenting/",
+      "featured": false
+    },
+    {
+      "id": "e05e2142343b",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Relationship between the level of mental fatigue induced by a prolonged cognitive task and the degree of balance disturbance",
+      "titleKo": "장시간 인지 과제로 인한 정신 피로 수준과 균형 장애 정도 간의 관계",
+      "summary": "arXiv:2604.22796v1 Announce Type: new Abstract: This study investigated the effects of mental fatigue (MF) induced by a 90-min AX-continuous performance test (AX-CPT) on balance control by addressing the issue of the heterogeneity of individuals' responses. Twenty healthy young active participants were recruited. They had to carry out two balance tasks (sway as little as possible on a stable support with the eyes open and closed) when standing on a force platform before and after performing a 90-min AX-CPT. The NASA-TLX test was used to assess the subjective manifestations of MF. Objective cog",
+      "aiSummary": "This study investigated how mental fatigue induced by prolonged cognitive tasks affects postural balance control, considering individual differences in responses. Twenty healthy young adults participated in the research, completing a 90-minute AX-Continuous Performance Test (AX-CPT) requiring sustained attention and concentration. Before and after the cognitive task, participants performed balance tests on a force platform under two conditions: maintaining stability with eyes open and closed on a stable surface. Mental fatigue was assessed subjectively using the NASA-TLX questionnaire, while objective cognitive performance was evaluated through task data collected during the AX-CPT. The key finding is the relationship between the degree of mental fatigue and balance disturbance while accounting for individual variability. Results suggest that mental fatigue from prolonged concentration may compromise postural stability and body control. Limitations include the small sample size of 20 participants and recruitment limited to young adults only.\n\n##",
+      "aiSummaryKo": "이 연구는 장시간의 인지 작업이 유발하는 정신적 피로가 신체 균형에 미치는 영향을 조사했습니다. 연구팀은 건강한 젊은 성인 20명을 모집하여 90분간 AX-연속수행검사(AX-CPT)라는 집중력 요구 작업을 수행하게 한 후, 작업 전후로 안정적인 지면에서 눈을 뜬 상태와 감은 상태로 균형을 유지하는 과제를 수행하게 했습니다. 정신적 피로의 주관적 수준은 NASA-TLX 검사로 측정했으며, 객관적 인지 성능은 과제 수행 중 수집한 데이터로 평가했습니다. 이 연구의 핵심은 개인별 반응의 이질성을 고려하여 정신적 피로와 균형 장애 사이의 구체적인 관계를 파악하는 것입니다. 결과는 장시간 집중 작업으로 인한 정신적 피로가 신체의 안정성에 영향을 미칠 수 있음을 시사합니다. 이 연구는 피로가 신체 안전성에 미치는 영향을 이해하는 데 중요하지만, 표본 크기가 작고 젊은 성인만 대상으로 한 점이 제한점입니다.\n\n##",
+      "aiSummaryEn": "This study investigated how mental fatigue induced by prolonged cognitive tasks affects postural balance control, considering individual differences in responses. Twenty healthy young adults participated in the research, completing a 90-minute AX-Continuous Performance Test (AX-CPT) requiring sustained attention and concentration. Before and after the cognitive task, participants performed balance tests on a force platform under two conditions: maintaining stability with eyes open and closed on a stable surface. Mental fatigue was assessed subjectively using the NASA-TLX questionnaire, while objective cognitive performance was evaluated through task data collected during the AX-CPT. The key finding is the relationship between the degree of mental fatigue and balance disturbance while accounting for individual variability. Results suggest that mental fatigue from prolonged concentration may compromise postural stability and body control. Limitations include the small sample size of 20 participants and recruitment limited to young adults only.\n\n##",
+      "keyPoints": [
+        "**정신적 피로와 신체 균형의 연관성** / Mental fatigue induced by 90-minute cognitive task directly affects postural balance control during standing tasks",
+        "**개인차 고려의 중요성** / Study specifically addresses heterogeneity of individual responses to mental fatigue, recognizing that different people show varying degrees of balance disturbance",
+        "**다층적 측정 방식** / Both subjective measures (NASA-TLX) and objective performance data were used to comprehensively assess mental fatigue and balance changes",
+        "**실무적 의의와 제한점** / Findings have implications for workplace safety and fatigue management, but limited generalizability due to small sample size (n=20) and young adult-only participants"
+      ],
+      "url": "https://arxiv.org/abs/2604.22796",
+      "featured": false
+    },
+    {
+      "id": "308b706556ca",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Vision as looking and seeing through a bottleneck",
+      "titleKo": "병목 현상을 통한 보기와 보는 행위로서의 시각",
+      "summary": "arXiv:2604.23030v1 Announce Type: new Abstract: Progress in vision research has been slower downstream than upstream of primary visual cortex (V1). Traditional frameworks have largely overlooked a central constraint: only a tiny fraction of retinal input is recognized. Thus, to a first approximation, vision is better formulated as looking and seeing through a bottleneck. Looking, mainly by the peripheral visual field, selects visual information to enter this bottleneck, largely via gaze shifts that center selected contents at fovea. Seeing, mainly by the central visual field, recognizes this c",
+      "aiSummary": "This research presents a novel theoretical framework explaining why progress in vision research has been slower downstream than upstream of the primary visual cortex (V1). The researchers emphasize a fundamental constraint: only a tiny fraction of retinal input is consciously recognized. According to this study, vision can be more accurately formulated as \"looking and seeing through a bottleneck.\" In the 'looking' stage, the peripheral visual field plays a crucial role, and gaze shifts direct selected visual information to the fovea at the center of the retina. In the 'seeing' stage, the central visual field primarily recognizes and processes this bottlenecked information. This framework explains limitations of existing visual research paradigms and provides direction for future vision science research. However, as a theoretical proposal, it requires further neurophysiological validation and quantitative experimental data.\n\n##",
+      "aiSummaryKo": "본 연구는 시각 연구에서 뇌의 1차 시각 피질(V1) 이후 진전이 느린 이유를 설명하는 새로운 이론적 틀을 제시합니다. 연구진은 망막에서 들어오는 모든 시각 정보 중 극히 일부만 인식된다는 핵심 제약을 중심으로 시각 과정을 재해석했습니다. 이 연구에 따르면 시각은 \"병목(bottleneck)을 통한 보기와 보는 것\"으로 더 정확하게 설명할 수 있습니다. '보기(looking)' 단계에서는 주변 시야가 중요한 역할을 하며, 시선 이동을 통해 선택된 시각 정보를 망막의 중심부인 황반부(fovea)에 집중시킵니다. '보는 것(seeing)' 단계에서는 중심 시야가 주로 이 병목된 정보를 인식하고 처리합니다. 이 틀은 기존의 시각 연구 패러다임의 한계를 설명하고, 앞으로의 시각 과학 연구 방향을 제시하는 데 의의가 있습니다. 다만 이는 이론적 제안으로서, 구체적인 신경생리학적 검증과 정량적 실험 데이터가 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "This research presents a novel theoretical framework explaining why progress in vision research has been slower downstream than upstream of the primary visual cortex (V1). The researchers emphasize a fundamental constraint: only a tiny fraction of retinal input is consciously recognized. According to this study, vision can be more accurately formulated as \"looking and seeing through a bottleneck.\" In the 'looking' stage, the peripheral visual field plays a crucial role, and gaze shifts direct selected visual information to the fovea at the center of the retina. In the 'seeing' stage, the central visual field primarily recognizes and processes this bottlenecked information. This framework explains limitations of existing visual research paradigms and provides direction for future vision science research. However, as a theoretical proposal, it requires further neurophysiological validation and quantitative experimental data.\n\n##",
+      "keyPoints": [
+        "**시각의 병목 구조** / Visual bottleneck structure: 망막의 모든 정보가 아닌 극소량의 정보만 의식적으로 인식되며, 이것이 시각 과정의 근본적 제약임",
+        "**'보기'와 '보는 것'의 분리** / Separation of 'looking' and 'seeing': 주변 시야를 통한 정보 선택(looking)과 중심 시야를 통한 정보 인식(seeing)이 시각의 두 가지 핵심 과정",
+        "**시선 이동의 역할** / Role of gaze shifts: 선택된 시각 정보를 황반부에 집중시키는 메커니즘으로 작동하여 효율적 정보 처리를 가능하게 함",
+        "**기존 연구 패러다임의 한계** / Limitations of existing research paradigms: V1 이후 시각 연구 진전이 느린 이유는 이러한 기본 제약을 간과한 기존 이론적 틀의 부적절함 때문"
+      ],
+      "url": "https://arxiv.org/abs/2604.23030",
+      "featured": false
+    },
+    {
+      "id": "ee01838ff23b",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "Triple Configuration of Brain Networks Based on Recurrent Neural Networks: The Synergistic Effects of Exogenous Stimuli, Task Demands, and Spontaneous Activity",
+      "titleKo": "반복신경망 기반 뇌 네트워크의 삼중 구성: 외부 자극, 과제 요구, 그리고 자발적 활동의 상승작용",
+      "summary": "arXiv:2604.23525v1 Announce Type: new Abstract: The foundation of cognitive flexibility and higher-order intelligence lies in the functional structure and activity of brain networks, which can be dynamically configured by both external environments and internal states. However, decoding these dynamics from high-dimensional neural data remains a challenge. In this study, we propose a computational framework using Recurrent Neural Networks (RNNs) with neural dynamic constraints to model source-localized resting-state EEG data from $114$ participants. We aim to clarify the \"triple brain network c",
+      "aiSummary": "This study investigates how brain networks—the foundation of cognitive flexibility and higher-order intelligence—dynamically reconfigure in response to external environments and internal states. Researchers developed a computational model using Recurrent Neural Networks (RNNs) with neural dynamic constraints to analyze resting-state EEG data from 114 participants. The model aims to clarify the \"triple configuration\" of brain networks by examining how three factors—exogenous stimuli, task demands, and spontaneous brain activity—synergistically interact to shape neural network organization. The findings suggest that brain functional structure is not static but dynamically reorganizes across different conditions. These insights could provide new perspectives for understanding and treating cognitive disorders and neuropsychiatric conditions. However, the research is in preliminary stages and requires validation across larger samples and diverse clinical populations.\n\n##",
+      "aiSummaryKo": "이 연구는 인지 유연성과 고차 지능의 기초가 되는 뇌 네트워크가 외부 환경과 내부 상태에 따라 어떻게 동적으로 변하는지를 규명하기 위해 수행되었다. 연구팀은 114명의 참가자로부터 수집한 휴식 상태 뇌파(EEG) 데이터를 분석하기 위해 신경 동역학 제약 조건이 적용된 순환신경망(RNN)이라는 계산 모델을 개발했다. 이 모델은 외부 자극(exogenous stimuli), 과제 요구(task demands), 자발적 뇌활동(spontaneous activity)이라는 세 가지 요소가 어떻게 상호작용하여 뇌 네트워크를 구성하는지를 밝혀내는 것을 목표로 한다. 연구 결과는 뇌의 기능적 구조가 단순히 고정된 것이 아니라 다양한 조건에 따라 유연하게 재구성될 수 있음을 시사한다. 이러한 발견은 인지 장애나 신경정신질환을 이해하고 치료하는 데 새로운 통찰을 제공할 수 있다. 다만 이 연구는 아직 초기 단계이며, 더 큰 표본과 다양한 임상 집단에서의 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "This study investigates how brain networks—the foundation of cognitive flexibility and higher-order intelligence—dynamically reconfigure in response to external environments and internal states. Researchers developed a computational model using Recurrent Neural Networks (RNNs) with neural dynamic constraints to analyze resting-state EEG data from 114 participants. The model aims to clarify the \"triple configuration\" of brain networks by examining how three factors—exogenous stimuli, task demands, and spontaneous brain activity—synergistically interact to shape neural network organization. The findings suggest that brain functional structure is not static but dynamically reorganizes across different conditions. These insights could provide new perspectives for understanding and treating cognitive disorders and neuropsychiatric conditions. However, the research is in preliminary stages and requires validation across larger samples and diverse clinical populations.\n\n##",
+      "keyPoints": [
+        "**RNN 기반 혁신적 분석방법** / Innovative RNN-based computational framework with neural constraints enables decoding of complex brain network dynamics from high-dimensional EEG data",
+        "**뇌 네트워크의 삼중 구성 메커니즘** / Triple configuration reveals how external stimuli, task demands, and spontaneous activity synergistically shape brain network organization beyond single-factor explanations",
+        "**114명 참가자 기반 신뢰성** / Research foundation of 114 participants with source-localized resting-state EEG provides systematic empirical evidence for dynamic brain network reconfiguration",
+        "**임상 응용 가능성과 제한점** / Potential applications in neuropsychiatric disorder understanding, but requires larger samples and diverse clinical populations for validation and clinical translation"
+      ],
+      "url": "https://arxiv.org/abs/2604.23525",
+      "featured": false
+    },
+    {
+      "id": "86f3c41e8f16",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "16시간 전 / 16h ago",
+      "title": "EyeBrain: Left and Right Brain Lateralization Activity Classification Through Pupil Diameter and Fixation Duration",
+      "titleKo": "눈과 뇌: 동공 크기와 시선 고정 시간을 통한 좌뇌와 우뇌 측화 활동 분류",
+      "summary": "arXiv:2604.23562v1 Announce Type: new Abstract: The relationship between brain lateralization and cognitive functions is well-documented. The left hemisphere primarily handles tasks such as language and arithmetic, while the right hemisphere is involved in creative activities like drawing and music perception. Eye-tracking technology has shown the potential to reveal cognitive states by measuring ocular metrics such as pupil diameter and fixation duration. However, the ability to distinguish lateralized brain activity using these ocular metrics remains underexplored. Here, we demonstrate that ",
+      "aiSummary": "The human brain exhibits lateralization, where the left hemisphere handles logical tasks like language and arithmetic, while the right hemisphere manages creative activities such as drawing and music perception. This study investigated whether eye-tracking metrics—specifically pupil diameter and fixation duration—could distinguish between activated brain hemispheres. Although previous research demonstrated that ocular metrics reflect cognitive states, their application to identifying lateralized brain activity remained underexplored. Using machine learning models, the EyeBrain research demonstrated that these eye-based measurements alone could classify brain hemisphere activation patterns. This breakthrough suggests potential applications in developing sophisticated brain-computer interfaces (BCIs) and advancing neuro-psychological diagnostics. However, the study faces limitations including small sample sizes and restricted experimental environments, requiring further validation through larger-scale and more diverse experimental conditions.\n\n##",
+      "aiSummaryKo": "뇌는 좌반구와 우반구가 서로 다른 역할을 담당하는데, 좌반구는 언어와 산술 같은 논리적 작업을, 우반구는 그리기와 음악 인식 같은 창의적 활동을 처리합니다. 이 연구는 안구 추적 기술을 이용하여 동공 크기와 응시 지속 시간(fixation duration) 같은 눈의 움직임 지표를 측정함으로써 어느 뇌 반구가 활성화되고 있는지 구분할 수 있는지 확인하려고 했습니다. 기존 연구들은 안구 지표가 인지 상태를 반영할 수 있음을 보여줬지만, 실제로 좌우 뇌 활동을 구별하는 데 사용될 수 있는지는 충분히 탐구되지 않았습니다. EyeBrain 연구는 기계학습 모델을 활용하여 안구 측정값만으로 뇌 반구의 활성화 패턴을 분류할 수 있음을 보여줌으로써, 향후 더 정교한 뇌-컴퓨터 인터페이스(BCI) 개발과 신경심리학적 진단에 활용될 가능성을 제시했습니다. 다만 이 연구는 작은 샘플 규모와 제한된 실험 환경에서 진행되어, 더 대규모이고 다양한 실험 조건에서의 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "The human brain exhibits lateralization, where the left hemisphere handles logical tasks like language and arithmetic, while the right hemisphere manages creative activities such as drawing and music perception. This study investigated whether eye-tracking metrics—specifically pupil diameter and fixation duration—could distinguish between activated brain hemispheres. Although previous research demonstrated that ocular metrics reflect cognitive states, their application to identifying lateralized brain activity remained underexplored. Using machine learning models, the EyeBrain research demonstrated that these eye-based measurements alone could classify brain hemisphere activation patterns. This breakthrough suggests potential applications in developing sophisticated brain-computer interfaces (BCIs) and advancing neuro-psychological diagnostics. However, the study faces limitations including small sample sizes and restricted experimental environments, requiring further validation through larger-scale and more diverse experimental conditions.\n\n##",
+      "keyPoints": [
+        "**뇌 반구 활동과 안구 지표의 연관성** / Brain lateralization can be identified through ocular metrics such as pupil diameter and fixation duration, suggesting eye movements directly reflect hemispheric cognitive processing",
+        "**기계학습을 통한 분류 가능성** / Machine learning models successfully demonstrated the ability to classify left vs. right brain hemisphere activity using only eye-tracking data, indicating practical applicability",
+        "**뇌-컴퓨터 인터페이스 발전 가능성** / The findings open new pathways for developing non-invasive brain-computer interfaces and improving neuropsychological assessment methods without requiring complex neuroimaging equipment",
+        "**제한점과 향후 연구 필요성** / Study limitations include small participant sample sizes and controlled experimental settings; larger-scale validation across diverse cognitive tasks and populations is essential for clinical application"
+      ],
+      "url": "https://arxiv.org/abs/2604.23562",
+      "featured": false
+    },
     {
       "id": "6d0496b7f963",
       "tag": "psych",
@@ -21,7 +147,7 @@
         "**인과관계 규명의 한계** / Limitations in Causality Determination"
       ],
       "url": "https://www.psypost.org/large-study-finds-no-meaningful-link-between-meat-consumption-and-depression/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fdb300c1e475",
@@ -274,132 +400,6 @@
         "**임상 배포의 현실화** / 실험실 기준 평가에서 벗어나 실제 병원 환경의 데이터 다양성과 변동성을 처리할 수 있는 기반 마련 / Bridges the gap between controlled research environments and real clinical practice by addressing practical deployment challenges with heterogeneous data"
       ],
       "url": "https://arxiv.org/abs/2604.21936",
-      "featured": false
-    },
-    {
-      "id": "57db0fbefa6b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "5시간 전 / 5h ago",
-      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
-      "titleKo": "MolClaw: 약물 분자 평가, 스크리닝 및 최적화를 위한 계층적 기술을 갖춘 자율 에이전트",
-      "summary": "arXiv:2604.21937v1 Announce Type: new Abstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and consistently underperform in these high-complexity scenarios. Here we present MolClaw, an autonomous agent that leads drug molecule evaluation, screening, and optimization. It unifies over 30 specialized domain resources through a three-tier hierarchical skill architecture (70 skills in total) that ",
-      "aiSummary": "Drug discovery requires orchestrating dozens of specialized computational tools in complex multi-step workflows, yet current AI agents struggle with high-complexity scenarios. Researchers developed MolClaw, an autonomous AI agent designed to lead drug molecule evaluation, screening, and optimization tasks. MolClaw integrates over 30 specialized domain resources through a three-tier hierarchical skill architecture comprising 70 skills total. This multi-layered hierarchical design significantly improves AI agent performance in complex drug discovery workflows by enabling better task decomposition and resource coordination. The research demonstrates the practical applicability of AI technology in computational drug discovery. However, validation through actual clinical-stage testing is needed, and more detailed evaluation of computational costs and processing time should be conducted in future studies.\n\n##",
-      "aiSummaryKo": "신약 개발 과정에서 분자 구조 평가, 선별, 최적화는 수십 개의 전문 도구를 조합해야 하는 복잡한 작업입니다. 기존 AI 에이전트들은 이러한 고복잡도 작업에서 성능이 떨어지는 문제를 보였습니다. 이를 해결하기 위해 연구팀은 MolClaw라는 자율 AI 에이전트를 개발했습니다. MolClaw는 30개 이상의 전문 도메인 자원을 통합하고, 3단계 계층적 기술 구조(총 70개 기술)를 통해 약물 분자 평가, 선별, 최적화를 수행합니다. 이 다층 구조 설계는 복잡한 신약 개발 워크플로우에서 AI 에이전트의 성능을 크게 향상시킵니다. 본 연구는 계산 신약 개발 분야에서 AI 기술의 실용적 적용 가능성을 보여줍니다. 다만 실제 임상 단계까지의 검증이 필요하며, 계산 비용과 처리 시간에 대한 상세한 평가가 추가되어야 할 것으로 예상됩니다.\n\n##",
-      "aiSummaryEn": "Drug discovery requires orchestrating dozens of specialized computational tools in complex multi-step workflows, yet current AI agents struggle with high-complexity scenarios. Researchers developed MolClaw, an autonomous AI agent designed to lead drug molecule evaluation, screening, and optimization tasks. MolClaw integrates over 30 specialized domain resources through a three-tier hierarchical skill architecture comprising 70 skills total. This multi-layered hierarchical design significantly improves AI agent performance in complex drug discovery workflows by enabling better task decomposition and resource coordination. The research demonstrates the practical applicability of AI technology in computational drug discovery. However, validation through actual clinical-stage testing is needed, and more detailed evaluation of computational costs and processing time should be conducted in future studies.\n\n##",
-      "keyPoints": [
-        "**계층적 기술 구조 설계** / Hierarchical Skill Architecture: 3단계 계층 구조로 70개의 전문 기술을 조직화하여 복잡한 약물 개발 작업을 효율적으로 처리 | Organizing 70 specialized skills through a 3-tier hierarchical structure enables efficient processing of complex drug development tasks",
-        "**통합된 다중 자원** / Integrated Multi-Domain Resources: 30개 이상의 전문 도메인 자원을 하나의 에이전트로 통합하여 신약 개발의 여러 단계를 동시에 처리 가능 | Consolidating 30+ specialized domain resources into single agent enables simultaneous handling of multiple drug development stages",
-        "**성능 향상의 핵심** / Performance Improvement Key: 기존 AI 에이전트의 고복잡도 작업 성능 부족 문제를 계층적 설계로 해결, 더욱 안정적이고 일관된 결과 제공 | Addresses previous AI agents' poor performance in high-complexity scenarios through hierarchical design, providing more stable and consistent results",
-        "**실제 응용 가능성** / Practical Application Potential: 계산 신약 개발 분야에서의 AI 기술 실용화로 약물 개발 시간 단축 및 효율성 증대 가능성 | Demonstrates potential to reduce drug development time and improve efficiency through AI technology application in computational drug discovery"
-      ],
-      "url": "https://arxiv.org/abs/2604.21937",
-      "featured": false
-    },
-    {
-      "id": "65fd971fbb37",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "5시간 전 / 5h ago",
-      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
-      "titleKo": "논문을 읽고 코드를 작성하다: 사회과학 결과의 에이전트 기반 재현",
-      "summary": "arXiv:2604.21965v1 Announce Type: new Abstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Can they reproduce results given only a paper's methods description and original data? We develop an agentic reproduction system that extracts structured methods descriptions from papers, runs reimplementations under strict information isolation -- agents never see the original code, results, or paper -- and enables deterministic, cell-level comparison of reproduced outputs to the original results. ",
-      "aiSummary": "This study investigates whether LLM-based AI agents can reproduce social science research results using only a paper's methods description and original data, without access to original code or results. Unlike previous work that provided both code and data, this research imposed strict information isolation where agents never see the original implementations or findings. The researchers developed a system that extracts structured methods descriptions from papers and enables deterministic, cell-level comparison of reproduced outputs against original results. This approach offers an automated methodology to address the reproducibility crisis in scientific research. The significance lies in demonstrating that AI can enhance research reproducibility efficiency while maintaining scientific rigor. However, limitations may exist in handling complex methodologies or exceptional circumstances not explicitly described in papers.\n\n##",
-      "aiSummaryKo": "이 연구는 대규모언어모델(LLM) 기반 AI 에이전트가 논문의 방법 설명과 원본 데이터만으로 사회과학 연구 결과를 재현할 수 있는지를 조사했습니다. 기존 연구와 달리 원본 코드나 결과를 제공하지 않고, 논문에 기술된 방법만을 사용하도록 제한했습니다. 연구팀은 논문에서 구조화된 방법 설명을 추출하고, AI 에이전트가 이를 바탕으로 코드를 작성하도록 하는 시스템을 개발했으며, 엄격한 정보 격리 조건 하에서 재현된 결과와 원본 결과를 세부 단위로 비교했습니다. 이는 과학 연구의 재현성 위기를 해결하기 위한 자동화된 방법론을 제시합니다. 연구의 의의는 AI가 과학적 엄밀성을 보장하면서 연구 재현의 효율성을 높일 수 있음을 보여주는 데 있습니다. 그러나 복잡한 방법론이나 예외적 상황에 대한 처리 능력에는 한계가 있을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigates whether LLM-based AI agents can reproduce social science research results using only a paper's methods description and original data, without access to original code or results. Unlike previous work that provided both code and data, this research imposed strict information isolation where agents never see the original implementations or findings. The researchers developed a system that extracts structured methods descriptions from papers and enables deterministic, cell-level comparison of reproduced outputs against original results. This approach offers an automated methodology to address the reproducibility crisis in scientific research. The significance lies in demonstrating that AI can enhance research reproducibility efficiency while maintaining scientific rigor. However, limitations may exist in handling complex methodologies or exceptional circumstances not explicitly described in papers.\n\n##",
-      "keyPoints": [
-        "**방법론적 혁신** / **Methodological Innovation**: 논문의 텍스트 설명만으로부터 구조화된 방법을 추출하고 자동 코드 생성을 통해 연구 재현성을 검증하는 새로운 프레임워크 제시 / Presents a novel framework for extracting structured methods from paper text and automating code generation to verify research reproducibility.",
-        "**엄격한 정보 격리 설계** / **Strict Information Isolation**: AI 에이전트가 원본 코드, 결과, 전체 논문 내용을 보지 못하도록 제한하여 진정한 재현 능력을 평가 / Restricts AI agents from seeing original code, results, and full paper content to genuinely assess reproduction capabilities without bias.",
-        "**과학 재현성 위기 해결** / **Addressing Reproducibility Crisis**: 사회과학 연구의 재현 불가능 문제를 자동화된 AI 시스템으로 체계적으로 검증할 수 있는 가능성 제시 / Offers systematic verification of reproducibility issues in social science through automated AI systems.",
-        "**세부 단위 비교 검증** / **Cell-Level Comparison Verification**: 단순한 결과 일치가 아닌 코드 실행의 각 단계별 출력값을 비교하여 더욱 정밀한 재현성 평가 실현 / Enables more precise reproducibility assessment by comparing outputs at each computational step rather than just final results."
-      ],
-      "url": "https://arxiv.org/abs/2604.21965",
-      "featured": false
-    },
-    {
-      "id": "6f11983beca1",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "5시간 전 / 5h ago",
-      "title": "The Spectral Lifecycle of Transformer Training: Transient Compression Waves, Persistent Spectral Gradients, and the Q/K--V Asymmetry",
-      "titleKo": "트랜스포머 훈련의 스펙트럼 생명주기: 일시적 압축파, 지속적 스펙트럼 기울기, 그리고 Q/K-V 비대칭성",
-      "summary": "arXiv:2604.22778v1 Announce Type: new Abstract: We present the first systematic study of weight matrix singular value spectra \\emph{during} transformer pretraining, tracking full SVD decompositions of every weight matrix at 25-step intervals across three model scales (30M--285M parameters). We discover three phenomena: \\textbf{(1)~Transient Compression Waves:} stable rank compression propagates as a traveling wave from early to late layers, creating a dramatic gradient that peaks early then \\emph{reverses} -- late layers eventually over-compress past early layers. \\textbf{(2)~Persistent Spectr",
-      "aiSummary": "This study presents the first systematic analysis of how weight matrix singular value spectra evolve during transformer pretraining. Researchers tracked full SVD decompositions of all weight matrices at 25-step intervals across three model scales (30M-285M parameters). Three key phenomena were discovered: (1) Transient Compression Waves—stable rank compression propagates as a traveling wave from early to late layers, peaking early then reversing, with late layers eventually over-compressing beyond early layers; (2) Persistent Spectral Gradients maintained throughout training; and (3) Q/K-V asymmetry in structural organization. This research provides fundamental insights into transformer training dynamics and internal learning mechanisms. However, the study is limited to specific model scales (30M-285M parameters), which may restrict generalizability to very large-scale models and other architectures.\n\n##",
-      "aiSummaryKo": "이 연구는 트랜스포머 모델의 학습 과정에서 가중치 행렬의 특이값 스펙트럼(singular value spectra)이 어떻게 변화하는지를 처음으로 체계적으로 분석했습니다. 연구진은 30M에서 285M 파라미터 규모의 세 가지 모델에서 학습 중 25단계 간격으로 모든 가중치 행렬의 SVD 분해를 추적했습니다. 주요 발견으로는 세 가지 현상이 있습니다: (1) 초기 층에서 후기 층으로 전파되는 '압축파'가 일시적으로 나타나며, 초반에 피크를 이룬 후 역전되어 후기 층이 초기 층보다 과도하게 압축됨, (2) 학습 전반에 걸쳐 지속되는 스펙트럼 기울기 변화, (3) Q/K와 V 행렬 간의 구조적 비대칭성입니다. 이 연구는 트랜스포머의 내부 학습 역학을 이해하는 데 중요한 기초를 제공하지만, 특정 모델 규모에 한정된 실험으로 인해 초대규모 모델에서의 일반화 가능성이 제한될 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study presents the first systematic analysis of how weight matrix singular value spectra evolve during transformer pretraining. Researchers tracked full SVD decompositions of all weight matrices at 25-step intervals across three model scales (30M-285M parameters). Three key phenomena were discovered: (1) Transient Compression Waves—stable rank compression propagates as a traveling wave from early to late layers, peaking early then reversing, with late layers eventually over-compressing beyond early layers; (2) Persistent Spectral Gradients maintained throughout training; and (3) Q/K-V asymmetry in structural organization. This research provides fundamental insights into transformer training dynamics and internal learning mechanisms. However, the study is limited to specific model scales (30M-285M parameters), which may restrict generalizability to very large-scale models and other architectures.\n\n##",
-      "keyPoints": [
-        "**압축파 현상** / **Transient Compression Waves**: 신경망의 초기 층에서 후기 층으로 이동하는 압축 현상이 발견되며, 처음에는 강하지만 학습이 진행되면서 역전되어 후기 층이 더 강하게 압축됨",
-        "**지속적 스펙트럼 기울기** / **Persistent Spectral Gradients**: 층 간에 일관된 스펙트럼 특성의 차이가 학습 전반에 걸쳐 유지되며 이는 신경망 구조의 본질적 특성을 반영",
-        "**Q/K-V 비대칭성** / **Q/K-V Asymmetry**: 어텐션 메커니즘에서 Query/Key 행렬과 Value 행렬이 서로 다른 구조적 특성을 가지고 있음을 발견",
-        "**모델 규모 일관성** / **Consistency Across Model Scales**: 30M부터 285M 파라미터의 다양한 규모 모델에서 동일한 현상이 반복되어 발견된 패턴의 보편성을 시사"
-      ],
-      "url": "https://arxiv.org/abs/2604.22778",
-      "featured": false
-    },
-    {
-      "id": "696c55943813",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "5시간 전 / 5h ago",
-      "title": "KARL: Mitigating Hallucinations in LLMs via Knowledge-Boundary-Aware Reinforcement Learning",
-      "titleKo": "KARL: 지식 경계 인식 강화학습을 통한 대규모 언어모델의 환각 현상 완화",
-      "summary": "arXiv:2604.22779v1 Announce Type: new Abstract: Enabling large language models (LLMs) to appropriately abstain from answering questions beyond their knowledge is crucial for mitigating hallucinations. While existing reinforcement learning methods foster autonomous abstention, they often compromise answer accuracy because their static reward mechanisms, agnostic to models' knowledge boundaries, drive models toward excessive caution. In this work, we propose KARL, a novel framework that continuously aligns an LLM's abstention behavior with its evolving knowledge boundary. KARL introduces two cor",
-      "aiSummary": "Large language models (LLMs) must appropriately abstain from answering questions beyond their knowledge scope to mitigate \"hallucination,\" where models generate false information. While existing reinforcement learning methods encourage models to autonomously refuse answers, they compromise answer accuracy because static reward mechanisms push models toward excessive caution without understanding knowledge boundaries. This research proposes KARL, a novel framework that continuously aligns an LLM's abstention behavior with its evolving knowledge boundary. KARL introduces two core mechanisms that make models awareness-aware of dynamic knowledge boundaries, enabling them to answer questions they can address accurately while appropriately declining questions they cannot answer. This approach more effectively reduces hallucinations compared to existing methods while maintaining answer accuracy. However, the study was validated only within specific datasets, and further research is needed to verify generalization performance across diverse domains.\n\n##",
-      "aiSummaryKo": "대형언어모델(LLM)은 자신의 지식 범위를 벗어난 질문에 답변을 삼가는 능력이 중요한데, 이는 모델이 거짓 정보를 생성하는 '환각 현상'을 줄이기 위함입니다. 기존의 강화학습 방법들은 모델이 자발적으로 답변을 거절하도록 유도했지만, 정적인 보상 메커니즘이 모델을 지나치게 신중하게 만들어 정확한 답변 제공을 훼손했습니다. 본 연구에서는 KARL이라는 새로운 프레임워크를 제안하며, 이는 LLM의 추상화 행동을 진화하는 지식 경계와 지속적으로 정렬시킵니다. KARL은 모델의 동적 지식 경계를 인식하는 두 가지 핵심 메커니즘을 도입하여, 답변해야 할 질문은 정확하게 답하고 답변할 수 없는 질문에는 적절히 거절하는 균형을 맞춥니다. 이 방식은 기존 방법보다 환각 현상을 더 효과적으로 감소시키면서도 답변 정확도를 유지합니다. 다만 연구는 특정 데이터셋 범위 내에서만 검증되었으며, 실제 다양한 도메인 적용에서의 일반화 성능은 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "Large language models (LLMs) must appropriately abstain from answering questions beyond their knowledge scope to mitigate \"hallucination,\" where models generate false information. While existing reinforcement learning methods encourage models to autonomously refuse answers, they compromise answer accuracy because static reward mechanisms push models toward excessive caution without understanding knowledge boundaries. This research proposes KARL, a novel framework that continuously aligns an LLM's abstention behavior with its evolving knowledge boundary. KARL introduces two core mechanisms that make models awareness-aware of dynamic knowledge boundaries, enabling them to answer questions they can address accurately while appropriately declining questions they cannot answer. This approach more effectively reduces hallucinations compared to existing methods while maintaining answer accuracy. However, the study was validated only within specific datasets, and further research is needed to verify generalization performance across diverse domains.\n\n##",
-      "keyPoints": [
-        "**환각 현상 해결의 핵심 과제** / Key Challenge in Mitigating Hallucinations",
-        "**지식 경계 인식 강화학습(KARL)의 혁신성** / Innovation of Knowledge-Boundary-Aware RL",
-        "time, solving excessive caution problem",
-        "**정확성과 신중성의 균형** / Balance Between Accuracy and Caution"
-      ],
-      "url": "https://arxiv.org/abs/2604.22779",
-      "featured": false
-    },
-    {
-      "id": "03591375fdef",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "5시간 전 / 5h ago",
-      "title": "BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks",
-      "titleKo": "BiTA: 컴퓨터 네트워크 알림 예측을 위한 시간 그래프 네트워크 프레임워크에서의 양방향 게이트 순환 신경망-트랜스포머 집계기",
-      "summary": "arXiv:2604.22781v1 Announce Type: new Abstract: Proactive alert prediction in computer networks is critical for mitigating evolving cyber threats and enabling timely defensive actions. Temporal Graph Neural Networks (TGNs) provide a principled framework for modeling time-evolving interactions; however, existing TGN-based methods predominantly rely on unidirectional or single-mechanism temporal aggregation, which limits their ability to capture recursive, multi-scale temporal patterns commonly observed in real-world attack behaviors. In this paper, we propose BiTA, a Bidirectional Gated Recurre",
-      "aiSummary": "This study proposes a novel AI technology for proactively detecting cyber attacks in computer networks. Existing Temporal Graph Neural Network (TGN) based methods use unidirectional and simplistic approaches to process data, failing to properly detect complex attack patterns. The research team developed BiTA (Bidirectional Gated Recurrent Unit-Transformer Aggregator), which combines bidirectional information flow with multi-scale temporal pattern analysis mechanisms, enabling more effective alert prediction. BiTA can capture more sophisticated recursive and multi-scale temporal patterns compared to existing methods, supporting rapid response to cyber security threats. The research has significant potential to substantially improve attack detection accuracy in real-world network environments. However, limitations include the need for performance validation in actual large-scale network environments and additional testing against diverse types of attacks.\n\n##",
-      "aiSummaryKo": "본 연구는 컴퓨터 네트워크의 사이버 공격을 사전에 감지하기 위한 새로운 인공지능 기술을 제안했다. 기존의 시간 그래프 신경망(TGN) 기반 방법들은 일방향적이고 단순한 방식으로 데이터를 처리하여 복잡한 공격 패턴을 제대로 감지하지 못했다. 연구팀은 BiTA(양방향 게이트 순환 신경망-트랜스포머 결합 모델)라는 새로운 모델을 개발했으며, 이는 양방향 정보 흐름과 다층적 시간 패턴 분석 메커니즘을 결합하여 더 효과적인 경보 예측을 가능하게 한다. BiTA는 기존 방법들에 비해 더 정교한 재귀적 및 다중 규모의 시간 패턴을 포착할 수 있으며, 이를 통해 사이버 보안 위협에 대한 신속한 대응을 지원한다. 본 연구는 실제 네트워크 환경에서의 공격 탐지 정확도를 크게 향상시킬 수 있는 잠재력을 가지고 있다. 다만 실제 대규모 네트워크 환경에서의 성능 검증과 다양한 유형의 공격에 대한 추가 테스트가 필요한 한계가 있다.\n\n##",
-      "aiSummaryEn": "This study proposes a novel AI technology for proactively detecting cyber attacks in computer networks. Existing Temporal Graph Neural Network (TGN) based methods use unidirectional and simplistic approaches to process data, failing to properly detect complex attack patterns. The research team developed BiTA (Bidirectional Gated Recurrent Unit-Transformer Aggregator), which combines bidirectional information flow with multi-scale temporal pattern analysis mechanisms, enabling more effective alert prediction. BiTA can capture more sophisticated recursive and multi-scale temporal patterns compared to existing methods, supporting rapid response to cyber security threats. The research has significant potential to substantially improve attack detection accuracy in real-world network environments. However, limitations include the need for performance validation in actual large-scale network environments and additional testing against diverse types of attacks.\n\n##",
-      "keyPoints": [
-        "**양방향 정보 처리 메커니즘** / Bidirectional Information Processing: 기존의 일방향 시간 집계 방식을 양방향으로 개선하여 더 복잡한 공격 패턴 감지 가능 / Improves unidirectional temporal aggregation to bidirectional approach, enabling detection of more complex attack patterns",
-        "**다중 규모 시간 패턴 분석** / Multi-Scale Temporal Pattern Analysis: 게이트 순환 신경망(GRU)과 트랜스포머를 결합하여 재귀적이고 다층적인 시간 패턴을 동시에 포착 / Combines GRU and Transformer to simultaneously capture recursive and multi-scale temporal patterns",
-        "**사이버 위협 조기 감지** / Proactive Cyber Threat Detection: 실시간 네트워크 상호작용을 모델링하여 사이버 공격을 사전에 예측하고 신속한 방어 조치 가능 / Models real-time network interactions to predict cyber attacks proactively and enable timely defensive actions",
-        "**실무 적용 가능성** / Practical Application Potential: 실제 컴퓨터 네트워크 환경에서 경보 예측 정확도를 향상시켜 네트워크 보안 운영 효율성 증대 / Enhances alert prediction accuracy in real network environments, improving operational efficiency of network security management"
-      ],
-      "url": "https://arxiv.org/abs/2604.22781",
-      "featured": false
-    },
-    {
-      "id": "f5593480bcd7",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "5시간 전 / 5h ago",
-      "title": "Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing",
-      "titleKo": "확률적 KV 라우팅: 적응형 깊이별 캐시 공유 활성화",
-      "summary": "arXiv:2604.22782v1 Announce Type: new Abstract: Serving transformer language models with high throughput requires caching Key-Values (KVs) to avoid redundant computation during autoregressive generation. The memory footprint of KV caching is significant and heavily impacts serving costs. This work proposes to lessen these memory requirements. While recent work has largely addressed KV cache reduction via compression and eviction along the temporal axis, we argue that the \\emph{depth} dimension offers an orthogonal and robust avenue for optimization. Although prior research suggests that a full",
-      "aiSummary": "Serving large language models efficiently requires caching Key-Value (KV) information to avoid redundant computation during text generation, but this KV cache creates a significant memory footprint that impacts operational costs. This research proposes \"Stochastic KV Routing,\" a novel method to reduce these memory requirements. While previous studies focused on compression and eviction along the temporal axis, this work presents an orthogonal optimization approach using the depth dimension of neural networks. The team discovered that selectively sharing KV caches across different layers of the model can substantially improve memory efficiency. Unlike conventional approaches, this method minimizes performance degradation while achieving notable memory savings. However, specific quantitative performance metrics are not detailed in the abstract, limiting full assessment of the method's practical impact at this stage.\n\n##",
-      "aiSummaryKo": "대규모 언어 모델을 효율적으로 운영하기 위해서는 생성 과정 중 반복 계산을 피하기 위해 핵심 정보(Key-Value)를 메모리에 저장해야 하는데, 이 메모리 사용량이 운영 비용의 주요 부분을 차지하고 있습니다. 본 연구는 이러한 메모리 요구량을 줄이기 위해 \"Stochastic KV Routing\"이라는 새로운 방법을 제안합니다. 기존 연구들이 시간 축(temporal axis) 방향의 압축과 제거에 집중한 반면, 이 연구는 신경망의 깊이 축(depth dimension)을 활용한 최적화 방식을 제시합니다. 연구팀은 모델의 서로 다른 층(layer)에서 Key-Value 캐시를 선택적으로 공유함으로써 메모리 효율을 높일 수 있음을 발견했습니다. 이 방법은 기존 방식과 달리 모델 성능 저하를 최소화하면서도 상당한 메모리 절감 효과를 제공합니다. 다만, 이 연구는 아직 구체적인 성능 수치가 논문 초록에 명시되지 않아 실제 효과 크기의 정량화가 필요한 상태입니다.\n\n##",
-      "aiSummaryEn": "Serving large language models efficiently requires caching Key-Value (KV) information to avoid redundant computation during text generation, but this KV cache creates a significant memory footprint that impacts operational costs. This research proposes \"Stochastic KV Routing,\" a novel method to reduce these memory requirements. While previous studies focused on compression and eviction along the temporal axis, this work presents an orthogonal optimization approach using the depth dimension of neural networks. The team discovered that selectively sharing KV caches across different layers of the model can substantially improve memory efficiency. Unlike conventional approaches, this method minimizes performance degradation while achieving notable memory savings. However, specific quantitative performance metrics are not detailed in the abstract, limiting full assessment of the method's practical impact at this stage.\n\n##",
-      "keyPoints": [
-        "**메모리 최적화의 새로운 방향**: 기존의 시간 축 중심 KV 캐시 압축에서 벗어나 신경망 깊이 축을 활용한 새로운 최적화 방식 제시 / Novel approach shifting from temporal-axis cache compression to depth-dimension optimization for KV caching",
-        "**선택적 캐시 공유 메커니즘**: 모델의 서로 다른 층에서 Key-Value 정보를 동적으로 공유하여 메모리 사용량 감소 / Dynamic sharing of Key-Value information across different model layers to reduce memory footprint",
-        "**성능과 효율성의 균형**: 메모리 절감과 함께 모델의 생성 품질(generation quality) 저하를 최소화하는 균형잡힌 접근 / Balanced approach minimizing performance degradation while achieving memory efficiency gains",
-        "**트랜스포머 모델 운영 비용 절감**: LLM 서빙 비용의 주요 부분을 차지하는 KV 캐시 메모리 비용 감소로 실무 적용 가능성 높음 / Direct reduction of operational costs for transformer model serving through lower memory requirements"
-      ],
-      "url": "https://arxiv.org/abs/2604.22782",
       "featured": false
     }
   ]
