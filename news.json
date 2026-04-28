@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-27T20:42:41.465041+00:00",
+  "updated": "2026-04-28T00:08:27.237547+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "164e15a9040f",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "20시간 전 / 20h ago",
+      "title": "Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics",
+      "titleKo": "운동선수의 성능 이상 탐지: 시각 분석을 활용한 벤치마킹 시스템",
+      "summary": "arXiv:2604.21953v1 Announce Type: new Abstract: Anti-doping programs rely on biological testing to detect performance-enhancing drugs, but such testing costs over $800 per sample and is limited by short detection windows for many prohibited substances. These constraints leave large portions of athletes without regular testing, motivating complementary screening approaches that analyze routine competition results to identify suspicious performance patterns. We present a system that processes 1.6 million athletics performances from over 19,000 competitions (2010-2025) using eight detection metho",
+      "aiSummary": "This research presents a novel approach to detect doping in sports by analyzing competition performance patterns rather than relying solely on biological testing. Current anti-doping programs face significant challenges: biological testing costs over $800 per sample and has limited detection windows for many prohibited substances, making universal athlete testing impractical. To address this, researchers developed a system that analyzed 1.6 million athletic performances from over 19,000 competitions spanning 2010-2025 using eight different detection methods. The system employs visual analytics tools to identify suspicious performance patterns and anomalies in athlete results. This approach enables more efficient allocation of limited testing resources by flagging potentially suspicious cases for further investigation. However, the research has limitations, as performance improvements can result from various factors beyond doping, including enhanced training, improved nutrition, and favorable environmental conditions.\n\n##",
+      "aiSummaryKo": "본 연구는 스포츠에서의 도핑을 탐지하기 위한 새로운 접근법을 제시합니다. 현재 생물학적 검사는 샘플당 800달러 이상의 비용이 들고 많은 금지 물질의 검출 시간이 제한되어 있어, 모든 선수를 정기적으로 검사할 수 없다는 문제가 있습니다. 이를 보완하기 위해 연구팀은 2010년부터 2025년까지 19,000개 이상의 경기에서 기록된 160만 건의 육상 경기 성과 데이터를 활용하여 8가지 탐지 방법을 적용했습니다. 이 시스템은 시각적 분석 도구를 통해 선수의 경기 결과 패턴을 분석하여 의심스러운 성능 향상을 자동으로 식별합니다. 이는 제한된 검사 자원을 더 효율적으로 배분하는 데 도움이 될 수 있습니다. 다만, 이 방법은 도핑만이 아닌 다른 요인(훈련 개선, 환경 조건 등)으로도 성능이 향상될 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research presents a novel approach to detect doping in sports by analyzing competition performance patterns rather than relying solely on biological testing. Current anti-doping programs face significant challenges: biological testing costs over $800 per sample and has limited detection windows for many prohibited substances, making universal athlete testing impractical. To address this, researchers developed a system that analyzed 1.6 million athletic performances from over 19,000 competitions spanning 2010-2025 using eight different detection methods. The system employs visual analytics tools to identify suspicious performance patterns and anomalies in athlete results. This approach enables more efficient allocation of limited testing resources by flagging potentially suspicious cases for further investigation. However, the research has limitations, as performance improvements can result from various factors beyond doping, including enhanced training, improved nutrition, and favorable environmental conditions.\n\n##",
+      "keyPoints": [
+        "**대규모 데이터 기반 분석** / Large-Scale Data-Driven Analysis",
+        "**비용 효율성 개선** / Cost-Efficiency Improvement",
+        "**다중 탐지 알고리즘 활용** / Multiple Detection Methods",
+        "**시각적 분석 시스템** / Visual Analytics System"
+      ],
+      "url": "https://arxiv.org/abs/2604.21953",
+      "featured": true
+    },
+    {
+      "id": "f47afcd4ce9e",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "20시간 전 / 20h ago",
+      "title": "Conditional anomaly detection using soft harmonic functions: An application to clinical alerting",
+      "titleKo": "소프트 조화함수를 이용한 조건부 이상 탐지: 임상 경보 시스템의 응용",
+      "summary": "arXiv:2604.21956v1 Announce Type: new Abstract: Timely detection of concerning events is an important problem in clinical practice. In this paper, we consider the problem of conditional anomaly detection that aims to identify data instances with an unusual response, such as the omission of an important lab test. We develop a new non-parametric approach for conditional anomaly detection based on the soft harmonic solution, with which we estimate the confidence of the label to detect anomalous mislabeling. We further regularize the solution to avoid the detection of isolated examples and example",
+      "aiSummary": "This research addresses the problem of conditional anomaly detection to timely identify concerning events in clinical practice, such as omission of important lab tests. The research team developed a novel non-parametric approach based on soft harmonic functions to estimate the confidence of labels and detect anomalous mislabeling in clinical data. The method incorporates regularization techniques to avoid false detection of isolated examples. The significance of this study lies in its potential to provide immediate clinical alerts that improve patient safety and healthcare quality in real-world medical settings. However, the limitations include the absence of validation results on actual clinical data and potential challenges in applying the method across diverse healthcare environments and systems.\n\n##",
+      "aiSummaryKo": "본 연구는 임상 실무에서 중요한 이상 사건을 신속하게 감지하기 위한 조건부 이상탐지(conditional anomaly detection) 문제를 다룹니다. 연구팀은 소프트 조화함수(soft harmonic functions)를 기반으로 한 새로운 비모수적 접근 방법을 개발했으며, 이를 통해 비정상적인 라벨 오류(예: 중요한 임상 검사 누락)를 감지하는 신뢰도를 추정할 수 있습니다. 이 방법은 고립된 사례들의 오탐지를 피하기 위해 규제화(regularization) 기법을 적용했습니다. 본 연구의 주요 의의는 환자 안전과 진료 품질 향상을 위해 의료 현장에서 즉각적인 임상 경고(clinical alerting)를 제공할 수 있다는 점입니다. 그러나 연구의 한계로는 실제 임상 데이터에 대한 검증 결과가 제시되지 않았으며, 다양한 의료 환경에서의 적용 가능성이 제한적일 수 있다는 점을 들 수 있습니다.\n\n##",
+      "aiSummaryEn": "This research addresses the problem of conditional anomaly detection to timely identify concerning events in clinical practice, such as omission of important lab tests. The research team developed a novel non-parametric approach based on soft harmonic functions to estimate the confidence of labels and detect anomalous mislabeling in clinical data. The method incorporates regularization techniques to avoid false detection of isolated examples. The significance of this study lies in its potential to provide immediate clinical alerts that improve patient safety and healthcare quality in real-world medical settings. However, the limitations include the absence of validation results on actual clinical data and potential challenges in applying the method across diverse healthcare environments and systems.\n\n##",
+      "keyPoints": [
+        "**조건부 이상탐지 기술**: 소프트 조화함수 기반의 새로운 비모수적 알고리즘을 통해 의료 데이터에서 비정상적 패턴(예: 누락된 검사)을 자동으로 감지 / Soft harmonic function-based non-parametric algorithm for automatic detection of abnormal patterns in clinical data such as missing tests",
+        "**임상 경고 시스템 구현**: 환자 안전 향상과 의료 오류 예방을 위해 실시간 임상 경고 시스템으로 활용 가능 / Real-time clinical alerting system implementation to prevent medical errors and enhance patient safety",
+        "**규제화 기법 적용**: 고립된 사례로 인한 위양성(false positive) 감소를 통해 임상의의 신뢰도 향상 / Regularization technique application to reduce false positives from isolated cases and improve clinician trust",
+        "**향후 개선 필요**: 실제 임상 데이터 검증, 다양한 의료 환경에서의 적용성 평가, 임상의의 의사결정 영향 분석 필요 / Future validation needed on real clinical data, assessment across diverse healthcare settings, and analysis of impact on physician decision-making"
+      ],
+      "url": "https://arxiv.org/abs/2604.21956",
+      "featured": false
+    },
+    {
+      "id": "f5d7bca4004c",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "20시간 전 / 20h ago",
+      "title": "Multi-Task Optimization over Networks of Tasks",
+      "titleKo": "작업 네트워크에서의 다중 작업 최적화",
+      "summary": "arXiv:2604.21991v1 Announce Type: new Abstract: Multi-task optimization is a powerful approach for solving a large number of tasks in parallel. However, existing algorithms face distinct limitations: Population-based methods scale poorly and remain underexplored for large task sets. Approaches that do scale beyond a thousand tasks are mostly MAP-Elites variants and rely on a fixed, discretized archive that disregards the topology of the task space. We introduce MONET (Multi-Task Optimization over Networks of Tasks), a multi-task optimization algorithm that models the task space as a graph: tas",
+      "aiSummary": "This research addresses the limitations of existing multi-task optimization methods for solving thousands of tasks simultaneously. Current approaches face significant challenges: population-based methods scale poorly, while scalable variants like MAP-Elites rely on fixed, discretized archives that ignore task space topology. The researchers propose MONET (Multi-Task Optimization over Networks of Tasks), an algorithm that models the task space as a graph to capture relationships between tasks. This approach leverages correlations and structural relationships among tasks to improve optimization performance. The significance lies in demonstrating more efficient optimization is possible in complex environments with thousands of tasks. However, further validation is needed regarding graph construction methods and performance in large-scale real-world applications.\n\n##",
+      "aiSummaryKo": "본 연구는 수천 개 이상의 대규모 작업을 동시에 해결하기 위한 다중작업 최적화 기법의 한계를 다룹니다. 기존 방법들은 인구 기반 알고리즘의 경우 확장성이 떨어지고, 대규모 작업에 대응하는 MAP-Elites 변형들은 작업 공간의 위상 구조를 무시하는 고정된 이산 아카이브에 의존한다는 문제가 있었습니다. 연구진은 작업 공간을 그래프로 모델링하는 MONET(Multi-Task Optimization over Networks of Tasks) 알고리즘을 제안했습니다. 이 접근법은 작업 간의 상관관계와 구조적 관계를 활용하여 최적화 성능을 향상시킵니다. 본 연구의 의의는 수천 개 규모의 복잡한 작업 환경에서 더 효율적인 최적화가 가능함을 보여주는 것입니다. 다만 그래프 구성 방식과 대규모 실제 응용 환경에서의 성능 검증이 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "This research addresses the limitations of existing multi-task optimization methods for solving thousands of tasks simultaneously. Current approaches face significant challenges: population-based methods scale poorly, while scalable variants like MAP-Elites rely on fixed, discretized archives that ignore task space topology. The researchers propose MONET (Multi-Task Optimization over Networks of Tasks), an algorithm that models the task space as a graph to capture relationships between tasks. This approach leverages correlations and structural relationships among tasks to improve optimization performance. The significance lies in demonstrating more efficient optimization is possible in complex environments with thousands of tasks. However, further validation is needed regarding graph construction methods and performance in large-scale real-world applications.\n\n##",
+      "keyPoints": [
+        "**기존 기법의 한계** / Limitations of Existing Methods: 인구 기반 알고리즘의 낮은 확장성과 MAP-Elites의 고정 아카이브 방식이 작업 공간 구조를 무시하는 문제 / Population-based methods have poor scalability while MAP-Elites variants ignore task space topology",
+        "**MONET 알고리즘의 핵심 혁신** / Core Innovation of MONET: 작업 공간을 그래프로 모델링하여 작업 간 상관관계와 위상 구조를 명시적으로 활용 / Models task space as a graph to explicitly leverage correlations and topological structure between tasks",
+        "**확장성 개선** / Improved Scalability: 수천 개 이상의 대규모 작업 집합에 대해 효율적으로 작동하는 확장 가능한 알고리즘 / Enables efficient optimization for large task sets exceeding thousands of tasks",
+        "**실용적 응용 가능성** / Practical Applications: 기계학습, 로봇 제어, 복잡한 시뮬레이션 등 다양한 분야에서 대규모 다중작업 최적화 문제 해결에 활용 가능 / Applicable to machine learning, robotics, and complex simulations requiring large-scale multi-task optimization"
+      ],
+      "url": "https://arxiv.org/abs/2604.21991",
+      "featured": false
+    },
+    {
+      "id": "21409ade713d",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "20시간 전 / 20h ago",
+      "title": "Foundation models for discovering robust biomarkers of neurological disorders from dynamic functional connectivity",
+      "titleKo": "동적 기능적 연결성으로부터 신경 질환의 견고한 생체표지자를 발굴하기 위한 기초 모델",
+      "summary": "arXiv:2604.22018v1 Announce Type: new Abstract: Several brain foundation models (FM) have recently been proposed to predict brain disorders by modelling dynamic functional connectivity (FC). While they demonstrate remarkable model performance and zero- or few-shot generalization, the salient features identified as potential biomarkers are yet to be thoroughly evaluated. We propose RE-CONFIRM, a framework for evaluating the robustness of potential biomarker candidates elucidated by deep learning (DL) models including FMs. From experiments on five large datasets of Autism Spectrum Disorder (ASD)",
+      "aiSummary": "Recent brain foundation models have been developed to predict neurological disorders by analyzing dynamic functional connectivity patterns in the brain. While these models show impressive predictive performance and work well with limited data (zero- or few-shot learning), the reliability of brain features identified as potential disease biomarkers has not been thoroughly validated. Researchers proposed RE-CONFIRM, a new evaluation framework to assess the robustness of potential biomarkers identified by deep learning and foundation models. Experiments were conducted across five large-scale brain imaging datasets, including studies on Autism Spectrum Disorder (ASD). This framework helps determine whether brain activity features identified by AI are truly reliable disease indicators. The study's limitations include a focus on specific disorders, and broader application to various neurological conditions requires further investigation.\n\n##",
+      "aiSummaryKo": "최근 뇌 기초 모델(Foundation Models)들이 뇌의 역동적 기능 연결성을 분석하여 신경계 질환을 예측하는 데 활용되고 있습니다. 이러한 모델들은 우수한 예측 성능과 적은 데이터로도 작동하는 장점이 있지만, 질병의 생물학적 지표(바이오마커)로 제시되는 뇌 특징들의 신뢰성이 충분히 검증되지 않았습니다. 연구팀은 'RE-CONFIRM'이라는 새로운 평가 프레임워크를 제안하여 딥러닝 모델과 기초 모델들이 식별한 잠재적 바이오마커들의 견고성을 검증했습니다. 자폐 스펙트럼 장애(ASD)를 포함한 5개의 대규모 뇌 영상 데이터셋에서 실험을 수행했습니다. 이 프레임워크는 인공지능이 찾은 뇌 활동 특징이 실제로 신뢰할 수 있는 질병 지표인지 판단하는 데 도움을 줍니다. 연구의 제한점은 특정 질환에 초점을 맞췄으며, 다양한 신경계 질환으로의 확대 적용이 필요합니다.\n\n##",
+      "aiSummaryEn": "Recent brain foundation models have been developed to predict neurological disorders by analyzing dynamic functional connectivity patterns in the brain. While these models show impressive predictive performance and work well with limited data (zero- or few-shot learning), the reliability of brain features identified as potential disease biomarkers has not been thoroughly validated. Researchers proposed RE-CONFIRM, a new evaluation framework to assess the robustness of potential biomarkers identified by deep learning and foundation models. Experiments were conducted across five large-scale brain imaging datasets, including studies on Autism Spectrum Disorder (ASD). This framework helps determine whether brain activity features identified by AI are truly reliable disease indicators. The study's limitations include a focus on specific disorders, and broader application to various neurological conditions requires further investigation.\n\n##",
+      "keyPoints": [
+        "**뇌 기초 모델의 성능 vs. 신뢰성** / Brain Foundation Models: Strong Performance but Unvalidated Biomarkers",
+        "**RE-CONFIRM 평가 프레임워크 도입** / New Validation Framework for Biomarker Robustness",
+        "**대규모 데이터셋 다중 검증** / Multi-dataset Validation Across Large Samples",
+        "**임상 적용 가능성 향상** / Enhanced Clinical Applicability"
+      ],
+      "url": "https://arxiv.org/abs/2604.22018",
+      "featured": false
+    },
+    {
+      "id": "753e3ed5f061",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "20시간 전 / 20h ago",
+      "title": "Resting-State EEG Biomarkers of Tinnitus Robust to Cross-Subject and Cross-Platform Variation",
+      "titleKo": "교차 피험자 및 교차 플랫폼 변동에 강건한 이명의 휴지 상태 뇌파 바이오마커",
+      "summary": "arXiv:2604.22116v1 Announce Type: new Abstract: Tinnitus is a prevalent auditory condition lacking objective biomarkers, motivating the search for reliable neural signatures. EEG, being a noninvasive method of brain imaging with a high temporal resolution provides a way to investigate the neural dynamics that may be associated with tinnitus. The generalizability of EEG-based tinnitus biomarkers across different datasets remains a critical challenge. Microstate theory has allowed for the characterization of quasi-stable topographic configurations in EEG, with some studies reporting altered micr",
+      "aiSummary": "This study investigates neural signatures of tinnitus—a prevalent auditory condition lacking objective diagnostic biomarkers—using resting-state EEG brain imaging. Researchers employed microstate theory to characterize quasi-stable topographic patterns in EEG data and compared neural signatures between tinnitus patients and controls. The primary objective is to develop reliable biomarkers that maintain validity across different datasets and EEG recording platforms, addressing the critical generalizability challenge in clinical neuroimaging. Tinnitus currently relies on subjective patient reports for diagnosis, so objective neural biomarkers could enable precise diagnosis and treatment efficacy monitoring. The study highlights that overcoming cross-subject variability and equipment-related differences represents a significant methodological hurdle. Future large-scale, multicenter studies are necessary to validate these findings for clinical implementation.\n\n##",
+      "aiSummaryKo": "이 연구는 객관적인 진단 지표가 부족한 이명(귀에서 들리는 윙윙거리는 소리)의 신경학적 특성을 EEG 뇌파로 찾아내려는 시도입니다. 연구팀은 마이크로스테이트(microstate) 이론을 활용하여 뇌의 안정적인 활동 패턴을 분석했으며, 이명 환자와 정상인의 뇌파 특성을 비교했습니다. 핵심 목표는 서로 다른 데이터셋과 EEG 측정 기계에서도 일관되게 작동하는 바이오마커를 개발하는 것입니다. 이명은 현재 객관적인 진단 방법이 없어 환자들의 증상 호소에만 의존하고 있기 때문에, 이 연구가 성공하면 이명의 객관적 진단과 치료 효과 측정이 가능해질 수 있습니다. 다만 서로 다른 EEG 기계와 피험자 간 변동성을 극복하는 것이 주요 과제이며, 향후 더 많은 대규모 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigates neural signatures of tinnitus—a prevalent auditory condition lacking objective diagnostic biomarkers—using resting-state EEG brain imaging. Researchers employed microstate theory to characterize quasi-stable topographic patterns in EEG data and compared neural signatures between tinnitus patients and controls. The primary objective is to develop reliable biomarkers that maintain validity across different datasets and EEG recording platforms, addressing the critical generalizability challenge in clinical neuroimaging. Tinnitus currently relies on subjective patient reports for diagnosis, so objective neural biomarkers could enable precise diagnosis and treatment efficacy monitoring. The study highlights that overcoming cross-subject variability and equipment-related differences represents a significant methodological hurdle. Future large-scale, multicenter studies are necessary to validate these findings for clinical implementation.\n\n##",
+      "keyPoints": [
+        "**이명의 객관적 진단 필요성** / Need for Objective Tinnitus Diagnosis",
+        "**마이크로스테이트 이론의 활용** / Application of Microstate Theory",
+        "**교차 검증 가능성의 중요성** / Cross-Platform Generalizability Challenge",
+        "**임상 적용 가능성** / Clinical Implementation Potential"
+      ],
+      "url": "https://arxiv.org/abs/2604.22116",
+      "featured": false
+    },
     {
       "id": "c700b5d00173",
       "tag": "psych",
@@ -21,7 +126,7 @@
         "자폐증 연구에 대한 신경생물학적 이해 심화 / Deepens neurobiological understanding of autism spectrum"
       ],
       "url": "https://www.psypost.org/autism-genetics-overlap-with-microscopic-brain-structure-in-the-general-populati/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2407c58062e0",
@@ -305,111 +410,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
-      "featured": false
-    },
-    {
-      "id": "28778d94ff7b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "5시간 전 / 5h ago",
-      "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
-      "titleKo": "수학은 둘이서: 의사소통에서 나타나는 수학적 추론 능력 테스트",
-      "summary": "arXiv:2604.21935v1 Announce Type: new Abstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reasoning or statistical pattern matching over learning formal syntax. Most existing evaluations rely on symbolic problems grounded in established mathematical conventions, limiting insight into the models' ability to construct abstract concepts from first principles. In this work, we propose Math Takes Two, a new benchmark designed to assess the emergence of mathematical reasoning through communicatio",
-      "aiSummary": "This research aims to distinguish whether language AI models' mathematical problem-solving abilities reflect genuine mathematical reasoning or merely statistical pattern matching of learned syntax. Existing mathematical benchmarks are grounded in predetermined mathematical conventions, making it difficult to evaluate whether AI can construct abstract concepts from first principles. The researchers propose \"Math Takes Two,\" a novel evaluation method that tests whether two AI models can jointly develop new mathematical concepts through communication with each other. This approach assesses whether AI can develop mathematical reasoning abilities through dialogue without external knowledge or pre-trained information. The significance lies in more accurately measuring the true level of AI intelligence and reasoning capabilities. However, a limitation is that this method may not evaluate all aspects of real-world mathematical reasoning abilities.\n\n##",
-      "aiSummaryKo": "이 연구는 언어 AI 모델들이 수학 문제를 푸는 능력이 진정한 수학적 추론인지, 아니면 단순한 통계적 패턴 매칭인지를 구별하려고 합니다. 기존의 수학 벤치마크 테스트들은 이미 정해진 수학 규칙에 기반하고 있어서 AI가 처음부터 추상적 개념을 구성할 수 있는지를 평가하기 어렵다는 한계가 있었습니다. 연구팀은 \"Math Takes Two\"라는 새로운 평가 방법을 제안했으며, 이는 두 AI 모델이 서로 소통하면서 새로운 수학적 개념을 함께 만들어낼 수 있는지를 테스트합니다. 이 접근 방식은 AI가 외부 지식이나 사전 학습 없이 의사소통을 통해 수학적 추론 능력을 발전시킬 수 있는지를 평가합니다. 이 연구의 의의는 AI의 진정한 지능 수준을 더 정확하게 측정하는 데 있습니다. 다만 이 방법이 현실의 모든 수학적 추론 능력을 평가하지는 못할 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research aims to distinguish whether language AI models' mathematical problem-solving abilities reflect genuine mathematical reasoning or merely statistical pattern matching of learned syntax. Existing mathematical benchmarks are grounded in predetermined mathematical conventions, making it difficult to evaluate whether AI can construct abstract concepts from first principles. The researchers propose \"Math Takes Two,\" a novel evaluation method that tests whether two AI models can jointly develop new mathematical concepts through communication with each other. This approach assesses whether AI can develop mathematical reasoning abilities through dialogue without external knowledge or pre-trained information. The significance lies in more accurately measuring the true level of AI intelligence and reasoning capabilities. However, a limitation is that this method may not evaluate all aspects of real-world mathematical reasoning abilities.\n\n##",
-      "keyPoints": [
-        "**평가 기준의 혁신** / Novel Assessment Paradigm",
-        "**진정한 추론 능력 구별** / Distinguishing True Reasoning",
-        "**상호작용 기반 평가** / Interactive Assessment Method",
-        "**추상적 개념 형성 능력** / Abstract Concept Formation"
-      ],
-      "url": "https://arxiv.org/abs/2604.21935",
-      "featured": false
-    },
-    {
-      "id": "78f67eb1eb4a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "5시간 전 / 5h ago",
-      "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
-      "titleKo": "적응형 및 재현 가능한 의료 영상 처리를 위한 인공물 기반 에이전트 프레임워크",
-      "summary": "arXiv:2604.21936v1 Announce Type: new Abstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying analytical methods extends beyond model design to require dataset-aware workflow configuration and provenance tracking. Two requirements therefore become central: \\textbf{adaptability}, the ability to configure workflows according to dataset-specific conditions and evolving analytical goals; and \\textbf{reproducibility}, the guarantee that all transformations and decisions are explicitly recorded",
-      "aiSummary": "Medical imaging research is shifting from controlled laboratory benchmarks to real-world clinical deployment, requiring not only advanced AI models but also dataset-specific workflow configuration and comprehensive tracking of all processing steps. This study proposes an artifact-based agent framework to address two critical requirements: 'adaptability' (the ability to configure analytical workflows according to dataset-specific conditions and evolving analytical goals) and 'reproducibility' (the guarantee that all transformations and decisions are explicitly recorded and traceable). The artifact-based approach systematically manages and tracks all intermediate results in medical image processing, ensuring transparency necessary for clinical decision-making. The framework can automatically respond to different medical datasets and evolving analytical requirements, offering high applicability in clinical settings. However, further research is needed for large-scale validation across diverse real medical environments and application to complex clinical scenarios.\n\n##",
-      "aiSummaryKo": "의료 영상 연구가 실험실의 통제된 환경에서 실제 임상 현장으로 전환되면서, 단순한 AI 모델 개발을 넘어 데이터 특성에 맞춘 워크플로우 구성과 처리 과정 추적이 중요해지고 있다. 이 연구는 의료 영상 처리의 두 가지 핵심 요구사항인 '적응성'(데이터셋 특성과 분석 목표에 따라 작업 흐름을 조정할 수 있는 능력)과 '재현성'(모든 변환 과정과 의사결정이 명확히 기록되는 것)을 해결하기 위해 인공지능 에이전트 기반 프레임워크를 제시한다. 아티팩트 기반 접근 방식은 의료 영상 처리의 모든 중간 결과물을 체계적으로 관리하고 추적함으로써 임상 의사결정에 필요한 투명성을 보장한다. 이 프레임워크는 서로 다른 의료 데이터셋과 진화하는 분석 요구에 자동으로 대응할 수 있어 임상 현장 적용성이 높다. 다만, 다양한 실제 의료 환경에서의 대규모 검증과 복잡한 임상 시나리오 적용에 대한 추가 연구가 필요하다.\n\n##",
-      "aiSummaryEn": "Medical imaging research is shifting from controlled laboratory benchmarks to real-world clinical deployment, requiring not only advanced AI models but also dataset-specific workflow configuration and comprehensive tracking of all processing steps. This study proposes an artifact-based agent framework to address two critical requirements: 'adaptability' (the ability to configure analytical workflows according to dataset-specific conditions and evolving analytical goals) and 'reproducibility' (the guarantee that all transformations and decisions are explicitly recorded and traceable). The artifact-based approach systematically manages and tracks all intermediate results in medical image processing, ensuring transparency necessary for clinical decision-making. The framework can automatically respond to different medical datasets and evolving analytical requirements, offering high applicability in clinical settings. However, further research is needed for large-scale validation across diverse real medical environments and application to complex clinical scenarios.\n\n##",
-      "keyPoints": [
-        "**적응성과 재현성의 통합** / Integration of Adaptability and Reproducibility",
-        "**아티팩트 기반 접근법** / Artifact-Based Approach",
-        "**임상 배포 중심 설계** / Clinical Deployment-Focused Design",
-        "**프로비넌스 추적과 투명성** / Provenance Tracking and Transparency"
-      ],
-      "url": "https://arxiv.org/abs/2604.21936",
-      "featured": false
-    },
-    {
-      "id": "57db0fbefa6b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "5시간 전 / 5h ago",
-      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
-      "titleKo": "MolClaw: 약물 분자 평가, 선별 및 최적화를 위한 계층적 기술을 갖춘 자율 에이전트",
-      "summary": "arXiv:2604.21937v1 Announce Type: new Abstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and consistently underperform in these high-complexity scenarios. Here we present MolClaw, an autonomous agent that leads drug molecule evaluation, screening, and optimization. It unifies over 30 specialized domain resources through a three-tier hierarchical skill architecture (70 skills in total) that ",
-      "aiSummary": "Drug discovery involves complex workflows requiring dozens of specialized tools for molecular screening and optimization, yet current AI agents struggle to maintain robust performance in such high-complexity scenarios. Researchers developed MolClaw, an autonomous AI agent designed to lead drug molecule evaluation, screening, and optimization tasks. The system integrates over 30 specialized domain resources through a three-tier hierarchical skill architecture containing 70 total skills. This hierarchical approach systematically decomposes complex tasks and overcomes the performance degradation issues observed in conventional AI agents. MolClaw demonstrates the potential for AI agents to automate actual drug development workflows end-to-end. The research represents significant progress in applying autonomous agents to pharmaceutical discovery. However, validation against real clinical data and generalization testing on novel drug classes require further investigation.\n\n##",
-      "aiSummaryKo": "신약 개발 과정에서 분자 구조 평가, 스크리닝, 최적화는 수십 개의 전문화된 도구를 조합하여 사용해야 하는 복잡한 작업입니다. 기존 AI 에이전트들은 이러한 고도의 복잡성 환경에서 성능을 유지하지 못하고 일관되게 낮은 성과를 보였습니다. 연구팀은 이러한 문제를 해결하기 위해 MolClaw라는 자율 AI 에이전트를 개발했으며, 이는 30개 이상의 전문화된 도메인 자원을 3단계 계층적 기술 아키텍처(총 70개의 기술)로 통합합니다. 이 시스템은 약물 분자의 평가, 스크리닝, 최적화 전 과정을 자동으로 수행할 수 있도록 설계되었습니다. MolClaw의 계층적 구조는 복잡한 작업을 체계적으로 분해하고 관리하여 기존 AI 에이전트의 성능 저하 문제를 극복합니다. 이 연구는 AI 에이전트가 실제 신약 개발 워크플로우를 자동화할 수 있는 가능성을 보여줍니다. 다만 실제 임상 데이터와의 검증이나 새로운 약물 클래스에 대한 일반화 성능 평가가 추가로 필요합니다.\n\n##",
-      "aiSummaryEn": "Drug discovery involves complex workflows requiring dozens of specialized tools for molecular screening and optimization, yet current AI agents struggle to maintain robust performance in such high-complexity scenarios. Researchers developed MolClaw, an autonomous AI agent designed to lead drug molecule evaluation, screening, and optimization tasks. The system integrates over 30 specialized domain resources through a three-tier hierarchical skill architecture containing 70 total skills. This hierarchical approach systematically decomposes complex tasks and overcomes the performance degradation issues observed in conventional AI agents. MolClaw demonstrates the potential for AI agents to automate actual drug development workflows end-to-end. The research represents significant progress in applying autonomous agents to pharmaceutical discovery. However, validation against real clinical data and generalization testing on novel drug classes require further investigation.\n\n##",
-      "keyPoints": [
-        "**계층적 기술 아키텍처의 혁신** / Hierarchical Skill Architecture Innovation",
-        "**복잡성 문제 해결** / Complexity Management Solution",
-        "**신약 개발 자동화의 실현화** / Drug Discovery Automation Realization",
-        "**실제 적용 가능성과 검증 필요성** / Practical Application Potential with Validation Needs"
-      ],
-      "url": "https://arxiv.org/abs/2604.21937",
-      "featured": false
-    },
-    {
-      "id": "65fd971fbb37",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "5시간 전 / 5h ago",
-      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
-      "titleKo": "논문을 읽고 코드를 작성하다: 사회과학 연구결과의 에이전트 기반 재현",
-      "summary": "arXiv:2604.21965v1 Announce Type: new Abstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Can they reproduce results given only a paper's methods description and original data? We develop an agentic reproduction system that extracts structured methods descriptions from papers, runs reimplementations under strict information isolation -- agents never see the original code, results, or paper -- and enables deterministic, cell-level comparison of reproduced outputs to the original results. ",
-      "aiSummary": "This study investigates whether Large Language Model (LLM)-based AI agents can reproduce social science research findings using only paper methodology descriptions, without access to original code. Unlike previous work, the research operated under strict conditions where agents were provided only the paper text and raw data, with no access to original code or results. The researchers developed a system that extracts structured methodology descriptions from papers and enables AI agents to reimplement studies in complete information isolation, comparing reproduced outputs to original results at the cell level for precise validation. This research demonstrates AI's potential contribution to addressing scientific reproducibility challenges. However, limitations may exist in handling specialized statistical methods or complex data preprocessing procedures.\n\n##",
-      "aiSummaryKo": "이 연구는 대규모 언어 모델(LLM) 기반 AI 에이전트가 논문의 방법 설명만으로 사회과학 연구 결과를 재현할 수 있는지 조사합니다. 기존 연구와 달리 원본 코드 접근 없이 논문 텍스트와 원본 데이터만 제공되는 조건에서 실험을 진행했습니다. 연구팀은 논문에서 구조화된 방법 설명을 추출하고, AI 에이전트가 원본 코드나 결과를 보지 못하도록 엄격한 정보 격리 상태에서 재구현하는 시스템을 개발했습니다. 이 시스템은 재현된 결과와 원본 결과를 세부 단계별(셀 레벨)로 정확하게 비교 검증할 수 있습니다. 연구의 의의는 AI가 과학적 재현 가능성 문제를 해결하는 데 기여할 수 있음을 보여줍니다. 다만 특정 통계 방법이나 복잡한 데이터 전처리 과정에서는 한계가 있을 수 있습니다.\n\n##",
-      "aiSummaryEn": "This study investigates whether Large Language Model (LLM)-based AI agents can reproduce social science research findings using only paper methodology descriptions, without access to original code. Unlike previous work, the research operated under strict conditions where agents were provided only the paper text and raw data, with no access to original code or results. The researchers developed a system that extracts structured methodology descriptions from papers and enables AI agents to reimplement studies in complete information isolation, comparing reproduced outputs to original results at the cell level for precise validation. This research demonstrates AI's potential contribution to addressing scientific reproducibility challenges. However, limitations may exist in handling specialized statistical methods or complex data preprocessing procedures.\n\n##",
-      "keyPoints": [
-        "**정보 격리 기반 재현 검증** / Information-isolated reproduction verification: 원본 코드와 결과를 보지 못하도록 하여 진정한 독립적 재현성을 평가하는 새로운 방식",
-        "**구조화된 방법 추출** / Structured methodology extraction: 논문의 자연어 기술을 AI가 이해할 수 있는 구조화된 형식으로 변환하여 재구현 가능성 향상",
-        "**세부 단계별 비교 분석** / Cell-level comparison analysis: 전체 결과뿐 아니라 계산 과정의 각 단계를 세밀하게 비교하여 오류 지점 파악 가능",
-        "**과학적 재현성의 자동화** / Automation of scientific reproducibility: AI 에이전트를 활용하여 사회과학 연구의 재현 가능성 문제를 대규모로 검증할 수 있는 가능성 제시"
-      ],
-      "url": "https://arxiv.org/abs/2604.21965",
-      "featured": false
-    },
-    {
-      "id": "5dabdf035dc9",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "5시간 전 / 5h ago",
-      "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
-      "titleKo": "포커스 세션: 멀티모달 기초 모델 가속화를 위한 하드웨어 및 소프트웨어 기법",
-      "summary": "arXiv:2604.21952v1 Announce Type: new Abstract: This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co-design of transformer blocks with an optimization pipeline that reduces computational and memory requirements. During model development, it employs performance enhancements through fine-tuning for domain-specific adaptation. Our methodology further incorporates hardware and software techniques for optimizing MFMs. Specifically, it employs MFM compression using hierarchy-aware mixed-precision quantiz",
-      "aiSummary": "This research presents a hardware-software co-optimization methodology for accelerating multimodal foundation models (MFMs) that process multiple data types including images, text, and audio simultaneously. The study addresses the significant challenge of computational and memory overhead in MFMs through an integrated approach combining transformer block optimization with a comprehensive optimization pipeline. The methodology employs hierarchy-aware mixed-precision quantization techniques for model compression and incorporates domain-specific fine-tuning to enhance performance. By leveraging both hardware and software optimization techniques, the approach substantially improves the efficiency of multimodal models, expanding their applicability to real-world applications. The research demonstrates the effectiveness of co-design strategies in reducing resource requirements while maintaining model accuracy. However, the availability of only partial paper content limits comprehensive evaluation of specific experimental results and detailed performance metrics.\n\n##",
-      "aiSummaryKo": "이 연구는 멀티모달 기초 모델(MFM)의 성능을 향상시키기 위한 하드웨어-소프트웨어 통합 최적화 방법론을 제시합니다. 멀티모달 기초 모델은 이미지, 텍스트, 음성 등 여러 형태의 데이터를 동시에 처리하는 AI 모델로, 계산량과 메모리 사용량이 매우 많아 실제 활용에 어려움이 있습니다. 연구팀은 트랜스포머 블록의 하드웨어-소프트웨어 협력 설계와 최적화 파이프라인을 결합하여 이러한 문제를 해결했습니다. 특히 계층별 혼합 정밀도 양자화 기법을 통해 모델을 압축하고, 도메인별 특화 학습으로 성능을 개선했습니다. 이 방법론은 멀티모달 모델의 효율성을 크게 향상시켜 다양한 실제 응용 분야에서의 활용 가능성을 높입니다. 다만, 연구 논문의 일부만 공개되어 있어 구체적인 실험 결과와 성능 지표의 정확한 평가가 제한적입니다.\n\n##",
-      "aiSummaryEn": "This research presents a hardware-software co-optimization methodology for accelerating multimodal foundation models (MFMs) that process multiple data types including images, text, and audio simultaneously. The study addresses the significant challenge of computational and memory overhead in MFMs through an integrated approach combining transformer block optimization with a comprehensive optimization pipeline. The methodology employs hierarchy-aware mixed-precision quantization techniques for model compression and incorporates domain-specific fine-tuning to enhance performance. By leveraging both hardware and software optimization techniques, the approach substantially improves the efficiency of multimodal models, expanding their applicability to real-world applications. The research demonstrates the effectiveness of co-design strategies in reducing resource requirements while maintaining model accuracy. However, the availability of only partial paper content limits comprehensive evaluation of specific experimental results and detailed performance metrics.\n\n##",
-      "keyPoints": [
-        "**멀티모달 모델의 효율성 문제 해결** / Addressing computational efficiency challenges in multimodal foundation models that handle multiple data types",
-        "**하드웨어-소프트웨어 협력 설계** / Hardware-software co-design approach combining transformer block optimization with software techniques",
-        "**계층별 혼합 정밀도 양자화** / Hierarchy-aware mixed-precision quantization for model compression and reduced computational requirements",
-        "**도메인 특화 적응 학습** / Domain-specific fine-tuning to enhance performance while maintaining efficiency gains"
-      ],
-      "url": "https://arxiv.org/abs/2604.21952",
       "featured": false
     }
   ]
