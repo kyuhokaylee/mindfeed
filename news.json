@@ -1,7 +1,175 @@
 {
-  "updated": "2026-04-29T16:47:47.672356+00:00",
+  "updated": "2026-04-29T18:18:17.591448+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "41286ed18ece",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The “femme fatale” might be a universal myth driven by the fear of romantic deception",
+      "titleKo": "\"팜므 파탈\"은 연애 사기에 대한 두려움에서 비롯된 보편적 신화일 수 있다",
+      "summary": "A recent study suggests that stories about dangerous, attractive women are almost universal across cultures. These cautionary tales provide evidence that evolutionary fears of emotional deception and heartbreak heavily influence human mating psychology.",
+      "aiSummary": "This research investigates why stories about attractive yet dangerous women—the \"femme fatale\" archetype—appear to be almost universal across human cultures. Researchers analyzed myths, legends, and folk tales from various cultures to identify common patterns in these narratives. The key finding is that femme fatale stories exist across cultural boundaries far more extensively than would be expected by chance alone, suggesting they may originate from evolved human psychology rather than being purely cultural products. The team interprets these universal myths as reflecting men's evolutionary fears of romantic deception and emotional heartbreak in mate selection. This study demonstrates how human mating psychology creates cross-cultural concerns that transcend cultural boundaries. However, the research faces limitations in directly tracing the origins and transmission of these stories, and cannot completely rule out cultural borrowing and diffusion as alternative explanations.\n\n##",
+      "aiSummaryKo": "이 연구는 매력적이지만 위험한 여성을 다루는 '팜므 파탈(femme fatale)' 이야기가 전 세계 문화에서 거의 보편적으로 나타나는 현상을 조사했습니다. 연구팀은 여러 문화권의 신화, 전설, 민담을 수집·분석하는 방식으로 이러한 이야기들의 공통 패턴을 추적했습니다. 핵심 발견은 팜므 파탈 관련 이야기가 문화적 경계를 넘어 광범위하게 존재한다는 것으로, 이는 단순한 문화적 산물이 아니라 인간의 진화 심리학에서 비롯된 것일 가능성을 시사합니다. 연구팀은 이러한 보편적 신화가 남성들의 로맨틱한 기만과 배신에 대한 진화적 두려움을 반영한다고 해석했습니다. 이 연구는 인간 짝짓기 심리가 문화를 초월한 공통된 진화적 우려를 어떻게 형성하는지 보여줍니다. 다만 연구는 이야기의 기원과 전파 과정을 직접 추적하기 어렵고, 문화적 차용의 가능성을 완전히 배제할 수 없다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research investigates why stories about attractive yet dangerous women—the \"femme fatale\" archetype—appear to be almost universal across human cultures. Researchers analyzed myths, legends, and folk tales from various cultures to identify common patterns in these narratives. The key finding is that femme fatale stories exist across cultural boundaries far more extensively than would be expected by chance alone, suggesting they may originate from evolved human psychology rather than being purely cultural products. The team interprets these universal myths as reflecting men's evolutionary fears of romantic deception and emotional heartbreak in mate selection. This study demonstrates how human mating psychology creates cross-cultural concerns that transcend cultural boundaries. However, the research faces limitations in directly tracing the origins and transmission of these stories, and cannot completely rule out cultural borrowing and diffusion as alternative explanations.\n\n##",
+      "keyPoints": [
+        "**보편적 신화의 증거** / Universal Myth Evidence",
+        "**진화 심리학적 해석** / Evolutionary Psychology Explanation",
+        "**문화 초월적 성격** / Transcultural Nature",
+        "**연구의 한계** / Research Limitations"
+      ],
+      "url": "https://www.psypost.org/the-femme-fatale-might-be-a-universal-myth-driven-by-the-fear-of-romantic-deception/",
+      "featured": true
+    },
+    {
+      "id": "93928d816392",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "14시간 전 / 14h ago",
+      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+      "titleKo": "다중 충실도 디지털 트윈과 FMEA 지식 강화를 기반으로 한 일반항공 항공기의 지능형 결함 진단 방법",
+      "summary": "arXiv:2604.22777v1 Announce Type: new Abstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection, multi-fidelity residual feature extraction, and large language model (LLM)-enhanced interpretable report generation. A digital twin is constructed using the JSBSim six-degree-of-freedom (6-DoF) flight dynamics en",
+      "aiSummary": "This research addresses the challenge of diagnosing faults in general aviation aircraft, which faces problems including scarce real fault data, diverse fault types, and weak fault signatures. The research team proposed a four-stage intelligent system combining digital twin technology with artificial intelligence: high-fidelity flight dynamics simulation, fault injection through FMEA knowledge, multi-fidelity feature extraction, and results interpretation using large language models. The digital twin was constructed based on JSBSim, a six-degree-of-freedom flight dynamics simulator, incorporating FMEA methodology to generate realistic fault scenarios for training. The system addresses the critical issue of limited real-world aircraft fault data and enables accurate fault diagnosis. However, the study's limitations include the need for validation across diverse aircraft models and operational conditions.\n\n##",
+      "aiSummaryKo": "본 연구는 소형 항공기의 결함 진단이 어려운 이유를 해결하기 위해 진행되었습니다. 실제 항공기 결함 데이터가 부족하고, 결함 종류가 다양하며, 결함 신호가 약하다는 문제가 있었습니다. 연구팀은 '디지털 트윈(컴퓨터로 만든 항공기 가상 모델)'과 인공지능을 결합한 4단계 시스템을 제안했습니다: 정밀한 비행 시뮬레이션, 결함 주입을 통한 학습 데이터 생성, 다양한 수준의 특징 추출, 그리고 대규모언어모델을 활용한 결과 해석입니다. JSBSim이라는 6자유도 비행 역학 시뮬레이터를 기반으로 디지털 트윈을 구축했으며, FMEA(고장 모드 분석) 지식을 활용하여 현실적인 결함 시나리오를 생성했습니다. 이 시스템은 실제 항공기 데이터 부족 문제를 해결하고 정확한 결함 진단을 가능하게 하는 의의가 있으나, 다양한 항공기 모델에 대한 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This research addresses the challenge of diagnosing faults in general aviation aircraft, which faces problems including scarce real fault data, diverse fault types, and weak fault signatures. The research team proposed a four-stage intelligent system combining digital twin technology with artificial intelligence: high-fidelity flight dynamics simulation, fault injection through FMEA knowledge, multi-fidelity feature extraction, and results interpretation using large language models. The digital twin was constructed based on JSBSim, a six-degree-of-freedom flight dynamics simulator, incorporating FMEA methodology to generate realistic fault scenarios for training. The system addresses the critical issue of limited real-world aircraft fault data and enables accurate fault diagnosis. However, the study's limitations include the need for validation across diverse aircraft models and operational conditions.\n\n##",
+      "keyPoints": [
+        "**문제 정의**: 소형 항공기의 결함 진단에서 실제 데이터 부족, 다양한 결함 종류, 약한 신호 감지 문제 존재 / **Problem Definition**: Fault diagnosis in general aviation faces challenges of scarce real data, diverse fault types, and weak fault signatures",
+        "**기술 혁신**: 디지털 트윈과 FMEA 지식 기반 결함 주입으로 시뮬레이션 데이터 생성 및 LLM을 통한 해석 가능한 보고서 자동 생성 / **Technological Innovation**: Digital twin with FMEA-driven fault injection generates synthetic data, and LLM enables interpretable automated report generation",
+        "**시스템 구성**: JSBSim 6자유도 시뮬레이터 기반 고정밀 비행 역학, 다단계 특징 추출, 다중 충실도 잔여 신호 분석의 4개 모듈 통합 / **System Architecture**: Integrates four modules including high-fidelity 6-DoF flight dynamics via JSBSim, multi-fidelity feature extraction, and residual signal analysis",
+        "**실용적 가치**: 현실의 부족한 항공기 결함 데이터 문제를 가상 시뮬레이션으로 극복하여 안전한 항공기 운영 및 예측적 유지보수 실현 가능 / **Practical Value**: Overcomes limited real-world fault data through virtual simulation, enabling safer aircraft operations and predictive maintenance"
+      ],
+      "url": "https://arxiv.org/abs/2604.22777",
+      "featured": false
+    },
+    {
+      "id": "c2c01ec9deee",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "14시간 전 / 14h ago",
+      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+      "titleKo": "PExA: 복잡한 Text-to-SQL을 위한 병렬 탐색 에이전트",
+      "summary": "arXiv:2604.22934v1 Announce Type: new Abstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in parallel and together ensure semantic coverage of the original query. After iterating on test case coverage, the final SQL is generated only when enough information is gathered, leveraging the explored t",
+      "aiSummary": "LLM-based agents for text-to-SQL conversion struggle with the latency-performance trade-off, where improvements in accuracy often come at the cost of increased response time. This research proposes PExA (Parallel Exploration Agent), a novel technique that applies software test coverage concepts to address this challenge. The team decomposes complex queries into multiple simpler, atomic SQL statements that are executed in parallel simultaneously, ensuring semantic coverage of the original query. Through iterative refinement of test case coverage, the final SQL query is generated only after sufficient information is gathered from parallel explorations. This approach maintains response speed while improving accuracy compared to traditional sequential processing methods. However, increased complexity in parallel processing management and scalability challenges with large-scale databases remain as limitations requiring further investigation.\n\n##",
+      "aiSummaryKo": "LLM 기반 텍스트-SQL 변환 에이전트는 응답 속도와 정확성 사이의 균형을 맞추기 어려운 문제를 겪고 있습니다. 이 연구는 소프트웨어 테스트 커버리지 개념을 적용하여 이 문제를 해결하는 PExA(Parallel Exploration Agent) 기법을 제안합니다. 연구팀은 복잡한 쿼리를 여러 개의 간단한 원자적 SQL 문장으로 분해하고, 이를 병렬로 동시에 실행하여 원본 쿼리의 의미적 커버리지를 보장하는 방식을 개발했습니다. 충분한 정보가 수집될 때까지 테스트 케이스 커버리지를 반복적으로 개선한 후, 최종 SQL 쿼리를 생성하는 방식으로 작동합니다. 이 접근법은 기존의 순차적 처리 방식과 달리 병렬 처리를 통해 응답 속도를 유지하면서도 정확성을 향상시킬 수 있습니다. 다만, 병렬 처리의 복잡성 증가와 대규모 데이터베이스에서의 확장성 문제가 추가 연구가 필요한 한계점으로 지적됩니다.\n\n##",
+      "aiSummaryEn": "LLM-based agents for text-to-SQL conversion struggle with the latency-performance trade-off, where improvements in accuracy often come at the cost of increased response time. This research proposes PExA (Parallel Exploration Agent), a novel technique that applies software test coverage concepts to address this challenge. The team decomposes complex queries into multiple simpler, atomic SQL statements that are executed in parallel simultaneously, ensuring semantic coverage of the original query. Through iterative refinement of test case coverage, the final SQL query is generated only after sufficient information is gathered from parallel explorations. This approach maintains response speed while improving accuracy compared to traditional sequential processing methods. However, increased complexity in parallel processing management and scalability challenges with large-scale databases remain as limitations requiring further investigation.\n\n##",
+      "keyPoints": [
+        "**병렬 처리 기반 설계** / Parallel Processing Architecture: 복잡한 SQL 쿼리를 간단한 원자적 단위로 분해하여 동시에 실행함으로써 응답 속도와 정확성의 균형 달성",
+        "**테스트 커버리지 개념 적용** / Test Coverage Concept Application: 소프트웨어 테스트 커버리지 원리를 텍스트-SQL 변환에 적용하여 의미적 완전성을 보장하는 체계적 접근",
+        "**반복적 개선 메커니즘** / Iterative Refinement Mechanism: 충분한 정보가 수집될 때까지 테스트 케이스를 반복적으로 개선하여 쿼리 생성의 신뢰성 증대",
+        "**실무 적용 가능성과 확장성 문제** / Practical Application and Scalability Concerns: 실제 데이터베이스 환경에서의 효율성 개선 가능성이 있으나 대규모 시스템 적용 시 복잡성 증가 문제 존재"
+      ],
+      "url": "https://arxiv.org/abs/2604.22934",
+      "featured": false
+    },
+    {
+      "id": "f3e8b694ae8c",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "14시간 전 / 14h ago",
+      "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+      "titleKo": "멱법칙의 힘: 비대칭성이 구성적 추론을 가능하게 하다",
+      "summary": "arXiv:2604.22951v1 Announce Type: new Abstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uniform distribution may help models better learn these long-tail skills, we find a counterintuitive result: across a wide range of compositional reasoning tasks, such as state tracking and multi-step arithmetic, training under power-law distributions consistently outperforms training under uniform distributions. To understand this advantage, we introd",
+      "aiSummary": "This study investigates how the distribution of natural language data affects AI model learning. Natural language data follows a power-law distribution, where some knowledge and skills appear at very low frequencies while others appear frequently. Researchers trained models on various datasets and found a counterintuitive result: contrary to expectations that uniform data distribution would be optimal, training with natural power-law distributions consistently outperformed uniform distributions on compositional reasoning tasks such as state tracking and multi-step arithmetic. This finding challenges conventional assumptions about data curation for AI training. The research's significance lies in demonstrating that maintaining natural data distributions during model training is important for compositional reasoning abilities. However, the study is limited to specific types of compositional reasoning tasks, and further research is needed to determine if these findings apply to other types of learning tasks.\n\n##",
+      "aiSummaryKo": "이 연구는 자연언어 데이터의 분포 방식이 AI 모델의 학습에 어떤 영향을 미치는지 조사했습니다. 자연언어 데이터는 멱법칙(power-law) 분포를 따르는데, 일부 지식과 기술은 매우 낮은 빈도로 나타나고 일부는 높은 빈도로 나타나는 특징이 있습니다. 연구팀은 다양한 데이터셋에서 모델을 훈련시켰는데, 직관적으로는 데이터를 균등하게 분배하는 것이 더 나을 것으로 예상되었으나, 예상 외로 자연적인 멱법칙 분포로 훈련할 때 상태 추적(state tracking)과 다단계 산술 같은 합성적 추론 작업에서 더 뛰어난 성능을 보였습니다. 이러한 결과는 기존의 데이터 큐레이션 방식에 대한 통념을 깨뜨리는 것입니다. 연구의 의의는 AI 모델 훈련 시 자연스러운 데이터 분포를 유지하는 것이 중요함을 시사한다는 점입니다. 다만 이 연구는 특정 유형의 합성적 추론 작업에 국한되어 있어, 다른 유형의 학습 과제에도 동일하게 적용되는지 확인이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigates how the distribution of natural language data affects AI model learning. Natural language data follows a power-law distribution, where some knowledge and skills appear at very low frequencies while others appear frequently. Researchers trained models on various datasets and found a counterintuitive result: contrary to expectations that uniform data distribution would be optimal, training with natural power-law distributions consistently outperformed uniform distributions on compositional reasoning tasks such as state tracking and multi-step arithmetic. This finding challenges conventional assumptions about data curation for AI training. The research's significance lies in demonstrating that maintaining natural data distributions during model training is important for compositional reasoning abilities. However, the study is limited to specific types of compositional reasoning tasks, and further research is needed to determine if these findings apply to other types of learning tasks.\n\n##",
+      "keyPoints": [
+        "**멱법칙 분포의 우월성**: 자연적인 멱법칙 분포로 훈련한 모델이 균등 분포로 훈련한 모델보다 합성적 추론 작업에서 더 높은 성능을 달성했음 / Power-law distributions outperformed uniform distributions in compositional reasoning tasks, contradicting conventional data curation intuitions.",
+        "**합성적 추론 능력 향상**: 상태 추적과 다단계 산술 같은 복잡한 추론 작업에서 의미 있는 성능 개선이 관찰됨 / Significant performance improvements were observed in complex tasks like state tracking and multi-step arithmetic reasoning.",
+        "**기존 통념의 재검토**: 데이터를 균등하게 분배하여 희귀 기술을 더 잘 학습하게 하려는 기존 방식이 최적이 아닐 수 있음을 시사 / Challenges the conventional assumption that balancing data distributions helps models better learn rare skills.",
+        "**제한된 적용 범위**: 연구 결과가 특정 유형의 합성적 추론 작업에만 적용되며, 다른 학습 과제나 도메인에서의 적용 가능성은 불확실함 / Findings are limited to specific compositional reasoning tasks, requiring further validation across different learning domains."
+      ],
+      "url": "https://arxiv.org/abs/2604.22951",
+      "featured": false
+    },
+    {
+      "id": "35beed3b4bfd",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "14시간 전 / 14h ago",
+      "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
+      "titleKo": "논증에서 선호도 기반 축약에 대한 역해의 존재성에 관하여",
+      "summary": "arXiv:2604.22958v1 Announce Type: new Abstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such preferences control the transformation of attacks into defeats, and different approaches to doing so result in different reductions from a PAF to an AAF. In this paper we consider a PAF inverse problem which takes an argumentation graph, a labelling and a semantics as an input, and outputs a ``yes\" or ``no\" as to whether there is a preference relation between the arguments which can yield the desire",
+      "aiSummary": "This research addresses the inverse problem in preference-based argumentation frameworks (PAFs), which extend Dung's abstract argumentation frameworks (AAFs) by encoding preferences among arguments. PAFs transform attack relationships into defeat relationships based on argument preferences, with different approaches yielding different reductions from PAF to AAF. The study analyzes whether given an argumentation graph, labeling, and semantics, a preference relation exists that can produce a desired outcome. The researchers mathematically proved the existence of inverse solutions and their computational complexity across various preference-based reduction methods. This research provides essential theoretical foundations for argumentation system design and validation, contributing to the development of logical reasoning systems in artificial intelligence. However, the study is limited to theoretical analysis without extensive validation on practical applications.\n\n##",
+      "aiSummaryKo": "본 연구는 논증 이론(argumentation theory)에서 선호도 기반 논증 프레임워크(PAF)의 역문제를 다룹니다. 기존의 던그 논증 프레임워크(AAF)를 확장한 PAF는 논증 간의 선호도를 인코딩하여 공격 관계를 패배 관계로 변환합니다. 이 논문은 논증 그래프, 라벨링, 의미론을 입력으로 받아 특정 결과를 도출할 수 있는 선호도 관계가 존재하는지를 판단하는 역문제를 분석했습니다. 연구팀은 다양한 선호도 기반 축약 방식에서 역함수의 존재 가능성과 계산 복잡성을 수학적으로 증명하였습니다. 이 연구는 논증 시스템의 설계 및 검증에 중요한 이론적 기초를 제공하며, 인공지능의 논리적 추론 시스템 개발에 기여할 수 있습니다. 다만 본 연구는 순수 이론적 분석으로 실제 응용 사례에 대한 검증이 제한적입니다.\n\n##",
+      "aiSummaryEn": "This research addresses the inverse problem in preference-based argumentation frameworks (PAFs), which extend Dung's abstract argumentation frameworks (AAFs) by encoding preferences among arguments. PAFs transform attack relationships into defeat relationships based on argument preferences, with different approaches yielding different reductions from PAF to AAF. The study analyzes whether given an argumentation graph, labeling, and semantics, a preference relation exists that can produce a desired outcome. The researchers mathematically proved the existence of inverse solutions and their computational complexity across various preference-based reduction methods. This research provides essential theoretical foundations for argumentation system design and validation, contributing to the development of logical reasoning systems in artificial intelligence. However, the study is limited to theoretical analysis without extensive validation on practical applications.\n\n##",
+      "keyPoints": [
+        "**선호도 기반 논증 프레임워크의 역문제 해결** / Solving the inverse problem of preference-based argumentation frameworks to determine whether a preference relation can yield desired outcomes",
+        "**다양한 축약 방식에 대한 수학적 증명** / Mathematical proofs of inverse solution existence and computational complexity across different preference-based reduction approaches",
+        "**논리 추론 시스템의 이론적 기초 제공** / Providing theoretical foundations for designing and validating logical reasoning systems in artificial intelligence",
+        "**순수 이론적 연구의 제한성** / Limited scope as purely theoretical analysis without practical application validation and real-world case studies"
+      ],
+      "url": "https://arxiv.org/abs/2604.22958",
+      "featured": false
+    },
+    {
+      "id": "984299f84dc2",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "14시간 전 / 14h ago",
+      "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+      "titleKo": "GCA-BULF: 그룹화된 핵심 가전제품을 이용한 상향식 단기 부하 예측 프레임워크",
+      "summary": "arXiv:2604.24766v1 Announce Type: new Abstract: With the rise of time-of-use and tiered electricity pricing, energy consumers are encouraged to adopt peak-shifting strategies by automatically controlling high-power appliances. These help lower energy costs while enhancing the power grid's stability. To support such energy management with high resilience and responsiveness, reliable short-term load forecasting (STLF) plays a critical role. STLF predicts electricity consumption over time horizons ranging from minutes to days, using historical data, temporal patterns, and contextual factors. Trad",
+      "aiSummary": "This research addresses the growing need for accurate short-term load forecasting (STLF) in the context of time-of-use and tiered electricity pricing systems that encourage consumers to shift peak energy consumption. The researchers proposed GCA-BULF (Grouped Critical Appliances Bottom-Up Load Forecasting), a novel framework that predicts electricity consumption across time horizons from minutes to days using historical data, temporal patterns, and contextual factors. The key innovation lies in its bottom-up approach that first analyzes individual household appliance consumption patterns and then aggregates them to predict total load. This granular methodology enables more precise control of high-power appliances and more accurate forecasting compared to traditional top-down approaches. The framework supports enhanced energy management with better resilience and responsiveness to grid demands. However, the study acknowledges limitations regarding how variations in appliance types and household characteristics may affect prediction accuracy, requiring further investigation.\n\n##",
+      "aiSummaryKo": "이 연구는 시간대별 차등 전기요금 제도의 확산에 따라 소비자들이 고전력 가전제품의 사용 시간을 자동으로 조절하여 에너지 비용을 절감하고 전력망 안정성을 높이기 위한 기술 개발에 주목했습니다. 연구팀은 단기 전력 수요 예측(STLF)의 정확도를 향상시키기 위해 GCA-BULF(그룹화된 중요 가전제품 기반 상향식 프레임워크)라는 새로운 방법론을 제안했습니다. 이 프레임워크는 역사적 데이터, 시간적 패턴, 맥락적 요인들을 활용하여 분 단위에서 일 단위까지의 전력 소비를 예측합니다. 연구의 핵심은 개별 가전제품의 전력 소비 패턴을 먼저 분석한 후 이를 통합하는 상향식 접근 방식에 있습니다. 이러한 방식은 기존의 하향식 예측 방법보다 더욱 세밀한 제어와 정확한 예측을 가능하게 합니다. 다만, 연구에서는 가전제품의 종류와 가정의 특성에 따른 예측 정확도의 차이에 대해 추가 검토가 필요한 것으로 지적했습니다.\n\n##",
+      "aiSummaryEn": "This research addresses the growing need for accurate short-term load forecasting (STLF) in the context of time-of-use and tiered electricity pricing systems that encourage consumers to shift peak energy consumption. The researchers proposed GCA-BULF (Grouped Critical Appliances Bottom-Up Load Forecasting), a novel framework that predicts electricity consumption across time horizons from minutes to days using historical data, temporal patterns, and contextual factors. The key innovation lies in its bottom-up approach that first analyzes individual household appliance consumption patterns and then aggregates them to predict total load. This granular methodology enables more precise control of high-power appliances and more accurate forecasting compared to traditional top-down approaches. The framework supports enhanced energy management with better resilience and responsiveness to grid demands. However, the study acknowledges limitations regarding how variations in appliance types and household characteristics may affect prediction accuracy, requiring further investigation.\n\n##",
+      "keyPoints": [
+        "**단기 전력 수요 예측의 중요성** / Criticality of Short-Term Load Forecasting",
+        "**상향식 예측 프레임워크** / Bottom-Up Forecasting Approach",
+        "**그룹화된 중요 가전제품 활용** / Grouped Critical Appliances Strategy",
+        "**에너지 관리 시스템의 자동화** / Automated Energy Management System"
+      ],
+      "url": "https://arxiv.org/abs/2604.24766",
+      "featured": false
+    },
+    {
+      "id": "2931839c5b1e",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "14시간 전 / 14h ago",
+      "title": "Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion",
+      "titleKo": "심음도에서 딥러닝과 수작업 특성 추출을 활용한 소아 선천성 심장질환의 자동 진단",
+      "summary": "arXiv:2604.24767v1 Announce Type: new Abstract: Congenital heart disease (CHD) is the most common type of birth defect, impacting about 1% of live births worldwide. Echocardiography, the gold-standard diagnostic method, is costly and inaccessible in low-resource settings. Diagnosis is delayed due to limited skilled experts, whose ability to interpret pathological patterns varies significantly, causing inter- and intra-clinician variability. Therefore, we present a new method for a more accessible diagnostic modality, the digital stethoscope, to detect CHDs. Our method is based on deep feature ",
+      "aiSummary": "Congenital heart disease (CHD) is the most common birth defect, affecting approximately 1% of live births worldwide, yet the gold-standard diagnostic method (echocardiography) is costly and inaccessible in resource-limited settings. This research presents an automated detection method for CHD using digital stethoscope recordings (phonocardiograms), addressing the challenges of limited expert availability and significant inter- and intra-clinician diagnostic variability. The proposed method combines deep learning features with handcrafted features to improve diagnostic accuracy in identifying pathological cardiac patterns. This approach demonstrates potential to reduce diagnostic delays and standardize interpretation across different clinicians. Digital stethoscopes offer a cost-effective and highly accessible diagnostic modality, particularly valuable for low-resource regions where echocardiography is unavailable. The technology shows promise in democratizing CHD diagnosis globally, though clinical validation in large, diverse populations remains necessary.\n\n##",
+      "aiSummaryKo": "선천성 심장질환(CHD)은 전 세계 신생아의 약 1%에 영향을 미치는 가장 흔한 선천성 질환으로, 현재 진단의 황금표준인 심초음파는 비용이 높고 의료 접근성이 낮은 지역에서 이용이 제한적입니다. 이 연구는 디지털 청진기를 통한 심음 녹음(phonocardiogram)으로부터 심장질환을 자동 감지하는 인공지능 기술을 개발했습니다. 연구팀은 심층 학습(deep learning) 기능과 수작업으로 설계된 특징(handcrafted features)을 융합하는 방식을 사용하여 진단 정확도를 높였습니다. 이 방법은 전문가 부족으로 인한 진단 지연 문제를 해결하고, 임상의 간의 진단 편차를 줄일 수 있는 잠재력을 보여줍니다. 디지털 청진기는 비용 효율적이고 접근성이 우수한 진단 수단으로 저소득 국가에서 특히 유용할 수 있습니다. 다만 연구는 초기 단계이며 대규모 다문화 집단에서의 임상 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "Congenital heart disease (CHD) is the most common birth defect, affecting approximately 1% of live births worldwide, yet the gold-standard diagnostic method (echocardiography) is costly and inaccessible in resource-limited settings. This research presents an automated detection method for CHD using digital stethoscope recordings (phonocardiograms), addressing the challenges of limited expert availability and significant inter- and intra-clinician diagnostic variability. The proposed method combines deep learning features with handcrafted features to improve diagnostic accuracy in identifying pathological cardiac patterns. This approach demonstrates potential to reduce diagnostic delays and standardize interpretation across different clinicians. Digital stethoscopes offer a cost-effective and highly accessible diagnostic modality, particularly valuable for low-resource regions where echocardiography is unavailable. The technology shows promise in democratizing CHD diagnosis globally, though clinical validation in large, diverse populations remains necessary.\n\n##",
+      "keyPoints": [
+        "**질환의 심각성과 접근성 문제** / CHD는 신생아의 1%에 영향을 미치지만, 표준 진단법(심초음파)은 저소득 지역에서 접근 불가능",
+        "**다중 특징 융합 기술** / 심층 학습과 수작업 설계 특징을 결합하여 진단 정확도 향상",
+        "**임상 편차 감소 효과** / AI 자동화를 통해 전문가 간 진단 불일치 문제 해결 가능성",
+        "**저비용 진단 솔루션** / 디지털 청진기는 기존 심초음파 대비 비용 효율적이고 널리 활용 가능한 대안"
+      ],
+      "url": "https://arxiv.org/abs/2604.24767",
+      "featured": false
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "24일 전 / 24d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "우리는 결코 개인이었던 적이 없다",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article challenges individualistic thinking by presenting a philosophical perspective that humans are not truly independent entities but are deeply interconnected with nature and other living beings. The research foundation is based on evidence from modern psychology and biology demonstrating human interconnectedness. Using respiration as an example, the article illustrates material exchange between humans and plants, microorganisms, and other life forms, emphasizing that our bodies serve as hosts to diverse microbial ecosystems. This biological interaction implies that individuals actually exist within complex networks with countless other living organisms. The significance of this perspective is that it can foster greater environmental awareness, empathy toward others, and deeper understanding of collective well-being. However, the article is observational and philosophical in nature, lacking specific experimental data or statistics to support its claims.\n\n##",
+      "aiSummaryKo": "이 기사는 개인주의적 사고방식에 도전하며 인간이 실제로는 독립적인 개체가 아니라 자연 및 다른 생명체와 깊이 있게 연결되어 있다는 철학적 관점을 제시한다. 연구 배경은 현대 심리학과 생물학이 인간의 상호연결성을 보여주는 증거들을 제공한다는 점에 기초하고 있다. 기사는 호흡 과정을 예시로 들어 인간과 식물, 미생물 등 다른 생명체 간의 물질 교환을 설명하며, 우리 몸이 다양한 미생물 생태계의 숙주 역할을 한다는 점을 강조한다. 이러한 생물학적 상호작용은 개인이 실제로는 수많은 다른 생명체와의 복합적인 네트워크 속에 존재한다는 의미를 함축한다. 이 관점의 의의는 환경 인식, 타인에 대한 공감, 그리고 집단 웰빙에 대한 더 깊은 이해를 촉진할 수 있다는 점이다. 다만 이 기사는 철학적 관찰 형태이며 구체적인 실험 데이터나 통계를 제공하지 않는다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This article challenges individualistic thinking by presenting a philosophical perspective that humans are not truly independent entities but are deeply interconnected with nature and other living beings. The research foundation is based on evidence from modern psychology and biology demonstrating human interconnectedness. Using respiration as an example, the article illustrates material exchange between humans and plants, microorganisms, and other life forms, emphasizing that our bodies serve as hosts to diverse microbial ecosystems. This biological interaction implies that individuals actually exist within complex networks with countless other living organisms. The significance of this perspective is that it can foster greater environmental awareness, empathy toward others, and deeper understanding of collective well-being. However, the article is observational and philosophical in nature, lacking specific experimental data or statistics to support its claims.\n\n##",
+      "keyPoints": [
+        "**호흡의 상호성** / **Reciprocal Respiration**: 인간이 산소를 마시고 이산화탄소를 내쉴 때, 식물은 우리가 내보낸 이산화탄소를 흡수하여 산소를 생성한다. 이는 우리가 생물학적으로 다른 생명체와 지속적으로 물질을 교환하고 있음을 보여준다. / When humans inhale oxygen and exhale carbon dioxide, plants absorb our CO2 and produce oxygen. This demonstrates continuous biological material exchange with other life forms.",
+        "**개인은 독립적 존재가 아님** / **Individuals Are Not Independent Entities**: \"우리는 결코 개인이었던 적이 없다\"는 명제는 인간이 자연 환경과 미생물 공동체 속에 깊이 있게 통합되어 있다는 주장이다. / The claim \"we have never been individuals\" asserts that humans are deeply integrated within natural environments and microbial communities.",
+        "**마이크로바이옴의 역할** / **Role of Microbiome**: 인간의 몸은 다양한 미생물의 생태계 숙주 역할을 하며, 이들 미생물이 우리의 건강과 기능에 필수적이다. / The human body serves as a host ecosystem for diverse microorganisms that are essential to our health and functioning.",
+        "**상호연결성의 철학적 의미** / **Philosophical Implications of Interconnectedness**: 이 관점은 환경 보호, 타자에 대한 공감, 집단적 웰빙의 중요성 인식을 증진시키며, 기존의 개인주의적 세계관에 도전한다. / This perspective promotes environmental protection awareness, empathy for others, and recognition of collective well-being's importance, challenging conventional individualistic worldviews."
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
     {
       "id": "a3554a01c321",
       "tag": "psych",
@@ -21,7 +189,7 @@
         "**공중보건 의제**: 청년층 대상 물질 사용 예방 교육 및 정책의 필요성 / Results highlight the need for targeted public health interventions and education programs for young adults regarding substance use risks"
       ],
       "url": "https://www.psypost.org/heavy-substance-use-in-early-adulthood-predicts-memory-problems-decades-later/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9ee526cbcc31",
@@ -252,174 +420,6 @@
         "**맞춤형 개입의 필요성** / Need for Tailored Interventions: 인지 건강 보존을 위해 문화적 특성을 반영한 스트레스 관리 프로그램의 개발 및 실행이 필수적임"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260427050626.htm",
-      "featured": false
-    },
-    {
-      "id": "c4b327adc932",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists may have found the brain’s switch for chronic pain",
-      "titleKo": "과학자들이 만성통증을 조절하는 뇌의 스위치를 발견했을 수도 있다",
-      "summary": "Deep within the brain, scientists have uncovered a hidden “switch” that may decide whether pain fades away—or lingers for months or even years. Researchers found that a small, little-known region called the caudal granular insular cortex (CGIC) acts like a command center, telling the body to keep pain signals alive long after an injury has healed. In animal studies, shutting down this pathway not only prevented chronic pain from forming but could even erase it once it had taken hold.",
-      "aiSummary": "A breakthrough study has identified a small brain region called the caudal granular insular cortex (CGIC) that acts as a master \"switch\" controlling whether acute pain becomes chronic pain lasting months or years. Using animal models, researchers demonstrated that the CGIC functions as a command center, continuously sending pain signals throughout the body even after the original injury has healed. When scientists deactivated this neural pathway, they successfully prevented the development of chronic pain and even eliminated existing chronic pain in the subjects studied. This discovery could potentially revolutionize treatment approaches for chronic pain affecting millions of people worldwide. However, the research is currently limited to animal studies, requiring further clinical trials to determine effectiveness and safety in humans. Additionally, potential side effects and broader neurological consequences of blocking the CGIC pathway need careful investigation before therapeutic application.",
-      "aiSummaryKo": "뇌 속 깊은 곳에 위치한 미세한 영역인 미각섬엽(caudal granular insular cortex, CGIC)이 만성통증을 조절하는 핵심 '스위치' 역할을 한다는 연구 결과가 발표되었다. 과학자들은 동물 실험을 통해 CGIC이 신체의 명령 센터처럼 작동하여 손상이 이미 치유된 후에도 통증 신호를 계속 활성화시킨다는 것을 발견했다. 연구팀이 이 신경 경로를 차단했을 때 만성통증이 형성되는 것을 예방할 수 있었을 뿐만 아니라 이미 발생한 만성통증도 제거할 수 있었다. 이 연구는 수백만 명이 고통받는 만성통증 치료에 혁신적인 새로운 방향을 제시할 가능성이 있다. 다만 현재까지는 동물 모델에서의 연구 결과이므로 인간에게 적용하기 위해서는 추가적인 임상 실험이 필요하다. 또한 CGIC 차단이 다른 부작용을 야기할 수 있는지 여부도 면밀히 검토해야 한다.",
-      "aiSummaryEn": "A breakthrough study has identified a small brain region called the caudal granular insular cortex (CGIC) that acts as a master \"switch\" controlling whether acute pain becomes chronic pain lasting months or years. Using animal models, researchers demonstrated that the CGIC functions as a command center, continuously sending pain signals throughout the body even after the original injury has healed. When scientists deactivated this neural pathway, they successfully prevented the development of chronic pain and even eliminated existing chronic pain in the subjects studied. This discovery could potentially revolutionize treatment approaches for chronic pain affecting millions of people worldwide. However, the research is currently limited to animal studies, requiring further clinical trials to determine effectiveness and safety in humans. Additionally, potential side effects and broader neurological consequences of blocking the CGIC pathway need careful investigation before therapeutic application.",
-      "keyPoints": [
-        "뇌의 미각섬엽(CGIC)이 만성통증을 조절하는 핵심 신경 구조 / The caudal granular insular cortex (CGIC) is a critical brain region controlling chronic pain development",
-        "동물 실험에서 CGIC 신경 경로 차단 시 만성통증 형성 예방 및 기존 통증 제거 가능 / Deactivating the CGIC pathway prevented chronic pain formation and eliminated existing chronic pain in animal studies",
-        "현재까지 동물 모델 기반 연구로 인간 임상 적용까지는 추가 연구 필요 / Current findings are limited to animal models; human clinical trials are necessary before therapeutic application",
-        "만성통증 환자 수백만 명의 삶의 질 개선을 위한 새로운 치료법 개발의 가능성 / Potential to revolutionize treatment for millions of chronic pain sufferers and significantly improve quality of life"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260426012317.htm",
-      "featured": false
-    },
-    {
-      "id": "bd9296bd2267",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Tabletop games like D&D act as “drama therapy in the wild” to boost players’ self-concepts",
-      "titleKo": "던전앤드래곤 같은 탁상용 게임이 플레이어의 자아상을 향상시키는 \"야생의 드라마 치료\" 역할을 한다",
-      "summary": "Immersing yourself in a tabletop role-playing game could boost your real-world self-esteem. According to a new Transcultural Psychiatry study, building strong, personal bonds with fictional avatars allows players to safely explore and improve their actual identities.",
-      "aiSummary": "A new study published in Transcultural Psychiatry suggests that immersing oneself in tabletop role-playing games like Dungeons & Dragons can boost real-world self-esteem. The research indicates that strong personal bonds formed with fictional avatars enable players to safely explore and improve their actual identities. According to the findings, players project their real personalities, values, and goals onto game characters, which facilitates psychological growth and increased self-confidence in actual life situations. The study frames this mechanism as \"drama therapy in the wild,\" suggesting that gaming serves therapeutic functions beyond entertainment. The significance of this research lies in demonstrating that games can function as mental health enhancement tools rather than mere leisure activities. However, the study's limitations include the absence of specific participant numbers, detailed experimental design, quantifiable metrics, and duration information, necessitating further validation to establish generalizability of findings.\n\n##",
-      "aiSummaryKo": "던전앤드래곤(D&D)과 같은 탁상용 롤플레잉 게임이 현실의 자존감 향상에 도움이 될 수 있다는 연구 결과가 나왔다. 초월문화정신의학(Transcultural Psychiatry) 저널에 발표된 이 연구는 게임 속 가상 캐릭터와 형성한 강한 개인적 유대감이 실제 자아 정체성을 안전하게 탐색하고 개선할 수 있게 해준다고 주장한다. 연구진은 플레이어들이 게임 내에서 자신의 실제 성격, 가치관, 목표를 가상 캐릭터에 투영하면서 심리적 성장이 일어난다는 점을 발견했다. 이는 마치 \"야생의 드라마 치료\"처럼 작용하여 플레이어들이 현실에서 자신감 있게 행동할 수 있도록 돕는다. 이 연구의 의의는 게임이 단순한 오락을 넘어 정신 건강 증진 도구로 활용될 수 있음을 시사한다는 점이다. 다만 구체적인 참가자 수, 실험 기간, 정량적 측정 수치 등의 상세 정보가 제시되지 않아 연구의 일반화 가능성에 대한 추가 검증이 필요하다.\n\n##",
-      "aiSummaryEn": "A new study published in Transcultural Psychiatry suggests that immersing oneself in tabletop role-playing games like Dungeons & Dragons can boost real-world self-esteem. The research indicates that strong personal bonds formed with fictional avatars enable players to safely explore and improve their actual identities. According to the findings, players project their real personalities, values, and goals onto game characters, which facilitates psychological growth and increased self-confidence in actual life situations. The study frames this mechanism as \"drama therapy in the wild,\" suggesting that gaming serves therapeutic functions beyond entertainment. The significance of this research lies in demonstrating that games can function as mental health enhancement tools rather than mere leisure activities. However, the study's limitations include the absence of specific participant numbers, detailed experimental design, quantifiable metrics, and duration information, necessitating further validation to establish generalizability of findings.\n\n##",
-      "keyPoints": [
-        "**자존감 향상 메커니즘** / Self-Esteem Enhancement Mechanism",
-        "**심리적 안전공간 제공** / Provision of Psychological Safe Space",
-        "**드라마 치료적 효과** / Drama Therapy Effect",
-        "**게임의 정신 건강 응용 가능성** / Mental Health Application Potential"
-      ],
-      "url": "https://www.psypost.org/tabletop-games-like-dd-act-as-drama-therapy-in-the-wild-to-boost-players-self-concepts/",
-      "featured": false
-    },
-    {
-      "id": "73feacf8115f",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "15시간 전 / 15h ago",
-      "title": "Scientists discover how local brain cells hijack serotonin signaling",
-      "titleKo": "과학자들이 뇌의 국소 세포가 세로토닌 신호를 어떻게 탈취하는지 발견하다",
-      "summary": "Scientists have discovered that the chemical acetylcholine can directly trigger the release of serotonin. This localized control system becomes hyperactive in mice with obsessive-compulsive traits, offering a fresh perspective on the biological roots of repetitive psychiatric conditions.",
-      "aiSummary": "This study revealed how interactions between brain chemical messengers contribute to repetitive behavioral disorders. Scientists discovered that acetylcholine, a neurotransmitter, can directly trigger serotonin release, and found that this localized control system becomes hyperactive in mice exhibiting obsessive-compulsive traits. The brain's chemical signaling network responsible for regulating repetitive behaviors functions abnormally in mice with OCD-like behavior. This discovery provides a novel biological perspective on understanding the mechanisms underlying obsessive-compulsive and other repetitive psychiatric conditions. The research used mouse models, so further studies are needed to confirm whether similar mechanisms operate in humans. These findings could guide the development of new therapeutic approaches for treating obsessive-compulsive disorder.\n\n##",
-      "aiSummaryKo": "이 연구는 뇌의 화학신경전달물질 간 상호작용이 반복적 행동 장애에 어떻게 영향을 미치는지 규명했다. 과학자들은 아세틸콜린이라는 신경전달물질이 세로토닌의 방출을 직접 유발할 수 있음을 발견했으며, 이러한 국소적 제어 시스템이 강박장애 특성을 보이는 쥐에서 과도하게 활성화됨을 확인했다. 강박증 행동을 보이는 쥐의 뇌에서 이 신경화학 신호 체계가 비정상적으로 과활성화되었다. 이 발견은 강박장애와 같은 반복적 정신질환의 생물학적 메커니즘을 새로운 관점에서 설명한다. 연구는 마우스 모델을 사용했으나 인간에게도 유사한 메커니즘이 작동하는지 확인이 필요하다. 이 연구는 향후 강박장애 치료제 개발의 새로운 방향을 제시할 수 있다.\n\n##",
-      "aiSummaryEn": "This study revealed how interactions between brain chemical messengers contribute to repetitive behavioral disorders. Scientists discovered that acetylcholine, a neurotransmitter, can directly trigger serotonin release, and found that this localized control system becomes hyperactive in mice exhibiting obsessive-compulsive traits. The brain's chemical signaling network responsible for regulating repetitive behaviors functions abnormally in mice with OCD-like behavior. This discovery provides a novel biological perspective on understanding the mechanisms underlying obsessive-compulsive and other repetitive psychiatric conditions. The research used mouse models, so further studies are needed to confirm whether similar mechanisms operate in humans. These findings could guide the development of new therapeutic approaches for treating obsessive-compulsive disorder.\n\n##",
-      "keyPoints": [
-        "**신경화학 메커니즘 발견** / Discovery of acetylcholine-serotonin interaction mechanism",
-        "**강박장애와의 연관성** / Link to obsessive-compulsive disorder",
-        "**반복적 정신질환의 생물학적 기초** / Biological basis of repetitive psychiatric conditions",
-        "**임상 응용 가능성과 한계** / Clinical application potential and limitations"
-      ],
-      "url": "https://www.psypost.org/scientists-discover-how-local-brain-cells-hijack-serotonin-signaling/",
-      "featured": false
-    },
-    {
-      "id": "69a580dec5a8",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "17시간 전 / 17h ago",
-      "title": "Narcissism runs in the family, but not because of parenting",
-      "titleKo": "자기애는 가족에게 유전되지만, 양육 방식 때문은 아니다",
-      "summary": "A comprehensive assessment of twins and their families reveals that narcissistic traits are inherited genetically, contradicting the popular belief that parenting styles cause narcissism. Individual experiences outside the home shape the remaining variations in this personality trait.",
-      "aiSummary": "Recent comprehensive research using twins and their families contradicts the popular belief that parenting styles cause narcissistic personality traits, instead revealing that narcissism is primarily inherited genetically. Researchers conducted longitudinal assessments of twins and family members to analyze the origins of narcissistic characteristics. The findings demonstrate that a significant portion of narcissistic traits is determined by genetic factors rather than parental upbringing. This suggests that genetic influence plays a more crucial role than parenting practices in developing narcissistic traits. However, individual experiences outside the family environment account for the remaining variations in narcissistic personality traits. The study emphasizes the role of nature in personality formation while not entirely dismissing the importance of nurture. Instead, it presents a new perspective that individuals' independent experiences outside the home have greater impact on personality development than parental parenting styles alone.\n\n##",
-      "aiSummaryKo": "자기애적 성격이 부모의 양육 방식 때문에 생긴다는 일반적인 믿음과 달리, 최근 쌍둥이와 그들의 가족을 대상으로 한 포괄적 연구에서 자기애적 특성은 주로 유전적으로 물려받는다는 것을 밝혔습니다. 연구진은 쌍둥이와 가족 구성원들을 추적 조사하여 자기애적 성격 특성의 원인을 분석했습니다. 연구 결과, 자기애적 특성의 상당 부분이 유전 요인에 의해 결정되는 것으로 나타났습니다. 이는 부모의 양육 방식보다 유전적 영향이 더 중요함을 시사합니다. 다만 개인이 가정 외부에서 경험하는 환경 요인들이 자기애적 성격의 나머지 변이를 설명하는 것으로 확인되었습니다. 이 연구는 성격 형성에 있어 자연(nature)의 역할을 강조하면서도, 양육(nurture)의 중요성을 완전히 부정하지 않습니다. 다만 부모의 양육 방식 자체보다는 개인의 독립적인 경험이 성격 발달에 더 큰 영향을 미친다는 새로운 관점을 제시합니다.\n\n##",
-      "aiSummaryEn": "Recent comprehensive research using twins and their families contradicts the popular belief that parenting styles cause narcissistic personality traits, instead revealing that narcissism is primarily inherited genetically. Researchers conducted longitudinal assessments of twins and family members to analyze the origins of narcissistic characteristics. The findings demonstrate that a significant portion of narcissistic traits is determined by genetic factors rather than parental upbringing. This suggests that genetic influence plays a more crucial role than parenting practices in developing narcissistic traits. However, individual experiences outside the family environment account for the remaining variations in narcissistic personality traits. The study emphasizes the role of nature in personality formation while not entirely dismissing the importance of nurture. Instead, it presents a new perspective that individuals' independent experiences outside the home have greater impact on personality development than parental parenting styles alone.\n\n##",
-      "keyPoints": [
-        "**유전 vs 양육의 재평가** / **Reassessment of Nature vs Nurture**: 자기애적 성격이 부모의 양육 방식이 아닌 유전적 요인에 의해 주로 결정됨 / Narcissistic traits are primarily determined by genetic factors rather than parenting styles",
-        "**쌍둥이 연구의 신뢰성** / **Reliability of Twin Study Methodology**: 쌍둥이와 가족을 대상으로 한 포괄적 평가를 통해 유전적 영향을 과학적으로 입증함 / Comprehensive assessment of twins and families scientifically demonstrates genetic influence on personality traits",
-        "**가정 외 경험의 중요성** / **Importance of Extra-familial Experiences**: 자기애적 성격의 나머지 변이는 가정 외부의 개인적 경험에 의해 형성됨 / Remaining variations in narcissism are shaped by individual experiences outside the family environment",
-        "**임상적·교육적 함의** / **Clinical and Educational Implications**: 자녀의 자기애적 특성이 부모의 책임만은 아니며, 개인의 사회적 경험과 환경 적응이 중요함을 시사함 / Suggests that children's narcissistic traits are not solely parental responsibility and individual social experiences and environmental adaptation are important"
-      ],
-      "url": "https://www.psypost.org/narcissism-runs-in-the-family-but-not-because-of-parenting/",
-      "featured": false
-    },
-    {
-      "id": "6d0496b7f963",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "19시간 전 / 19h ago",
-      "title": "Large study finds no meaningful link between meat consumption and depression",
-      "titleKo": "대규모 연구, 육류 섭취와 우울증 사이의 의미 있는 연관성 없음을 발견",
-      "summary": "A new study of nearly 80,000 people reveals that the link between eating meat and depression is exceptionally weak. The findings suggest that avoiding animal products is not a meaningful risk factor for developing depressive symptoms.",
-      "aiSummary": "This study was conducted to clarify the relationship between meat consumption and depression. The research team conducted a large-scale cohort study involving approximately 80,000 participants. The findings revealed an exceptionally weak association between meat consumption and depression development. This suggests that avoiding animal products is not a meaningful risk factor for developing depressive symptoms. Therefore, existing concerns about vegetarian diets negatively affecting mental health lack substantial evidence. However, the study indicates that dietary choices are not the only factor affecting depression, and further investigation into whether all psychosocial variables were adequately controlled is needed.\n\n##",
-      "aiSummaryKo": "이 연구는 육류 섭취와 우울증 사이의 관계를 규명하기 위해 진행되었습니다. 연구팀은 약 80,000명의 참가자를 대상으로 대규모 코호트 연구를 수행했습니다. 연구 결과, 육류 섭취와 우울증 발생 사이에는 매우 미약한 연관성만 있는 것으로 나타났습니다. 이는 동물성 제품을 피하는 것이 우울증 발병의 의미 있는 위험 요인이 아니라는 것을 시사합니다. 따라서 채식 식단이 정신 건강에 부정적인 영향을 미친다는 기존의 우려는 근거가 부족함을 보여줍니다. 다만 이 연구는 개인의 식단 선택이 우울증에 영향을 미치는 유일한 요소가 아니며, 다른 심리사회적 요인들을 모두 통제했는지에 대한 재검토가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study was conducted to clarify the relationship between meat consumption and depression. The research team conducted a large-scale cohort study involving approximately 80,000 participants. The findings revealed an exceptionally weak association between meat consumption and depression development. This suggests that avoiding animal products is not a meaningful risk factor for developing depressive symptoms. Therefore, existing concerns about vegetarian diets negatively affecting mental health lack substantial evidence. However, the study indicates that dietary choices are not the only factor affecting depression, and further investigation into whether all psychosocial variables were adequately controlled is needed.\n\n##",
-      "keyPoints": [
-        "**대규모 표본의 신뢰성** / Large Sample Reliability: 약 80,000명의 참가자를 대상으로 한 연구로 통계적 신뢰도가 높음",
-        "**채식과 정신건강의 약한 연관성** / Weak Link Between Vegetarianism and Mental Health: 육류 섭취 회피가 우울증 발병의 의미 있는 위험 요인이 아님",
-        "**기존 통념에 대한 과학적 검증** / Scientific Validation Against Existing Beliefs: 채식 식단이 정신 건강을 해친다는 일반적 우려가 과학적 근거 부족",
-        "**다중 요인 고려의 필요성** / Need for Multifactorial Consideration: 우울증 발병에는 식단 외 다양한 심리사회적 요인이 복합적으로 작용함"
-      ],
-      "url": "https://www.psypost.org/large-study-finds-no-meaningful-link-between-meat-consumption-and-depression/",
-      "featured": false
-    },
-    {
-      "id": "58bfaa6cff9f",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "9일 전 / 9d ago",
-      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
-      "titleKo": "갈등 상황에서 행동과학이 직면해야 할 불편한 진실들",
-      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
-      "aiSummary": "Approximately 2 billion people currently live in conflict-affected areas, with a record 123 million people forcibly displaced in 2024. However, behavioral science has developed most of its theories, experiments, and interventions in stable contexts, representing a critical gap in addressing global crises. When behavioral scientists work in conflict settings, they typically adopt a familiar pattern: transfer successful approaches from other contexts, \"localize\" them, and evaluate outcomes. The research argues this approach is insufficient for the unprecedented scale of global conflict reshaping lives worldwide, particularly in severe humanitarian crises like Gaza. The study emphasizes that conventional \"localization\" strategies alone cannot achieve meaningful impact in conflict zones. The fundamental conclusion is that behavioral science must reconstruct its theories and methodologies from the ground up, incorporating the unique contexts and psychosocial characteristics of conflict-affected populations rather than merely adapting existing frameworks.\n\n##",
-      "aiSummaryKo": "현재 약 20억 명이 분쟁 지역에서 생활하고 있으며, 2024년에는 역대 최고 수준인 1억 2,300만 명이 강제 이주되었다. 그러나 행동과학 분야는 대부분의 이론, 실험, 개입 방법을 안정적인 맥락에서 개발해왔다는 문제가 지적되고 있다. 행동과학자들이 분쟁 지역에서 연구를 수행할 때도 기존에 다른 곳에서 효과가 있었던 방법을 가져와 '현지화'한 후 평가하는 익숙한 패턴을 따르는 경향이 있다. 이 연구는 이러한 접근이 불충분하며, 전 지구적 규모로 급격히 변화하는 분쟁 상황에 대응하기 위해 행동과학이 더욱 근본적인 변화가 필요함을 주장한다. 특히 가자 지구 등 심각한 인도주의 위기 지역에서 기존의 '현지화' 전략만으로는 실제 효과를 거두기 어렵다는 점을 강조한다. 향후 행동과학은 분쟁 지역의 고유한 맥락과 심리사회적 특성을 처음부터 고려하여 이론과 방법론을 재구축해야 한다는 결론을 도출한다.\n\n##",
-      "aiSummaryEn": "Approximately 2 billion people currently live in conflict-affected areas, with a record 123 million people forcibly displaced in 2024. However, behavioral science has developed most of its theories, experiments, and interventions in stable contexts, representing a critical gap in addressing global crises. When behavioral scientists work in conflict settings, they typically adopt a familiar pattern: transfer successful approaches from other contexts, \"localize\" them, and evaluate outcomes. The research argues this approach is insufficient for the unprecedented scale of global conflict reshaping lives worldwide, particularly in severe humanitarian crises like Gaza. The study emphasizes that conventional \"localization\" strategies alone cannot achieve meaningful impact in conflict zones. The fundamental conclusion is that behavioral science must reconstruct its theories and methodologies from the ground up, incorporating the unique contexts and psychosocial characteristics of conflict-affected populations rather than merely adapting existing frameworks.\n\n##",
-      "keyPoints": [
-        "**분쟁 지역의 규모와 심각성** / Scale and Severity of Conflict: 약 20억 명이 분쟁 영향 지역에 거주 중이며, 2024년 강제 이주 수가 1억 2,300만 명으로 사상 최고 기록을 갱신",
-        "**행동과학의 근본적 한계** / Fundamental Limitations of Behavioral Science: 기존 이론과 개입 방법들이 안정적 환경에서만 개발되어 분쟁 상황의 복잡성을 반영하지 못함",
-        "**부적절한 현지화 전략** / Inadequate Localization Strategy: 기존에 효과가 있던 방법을 단순히 현지화하는 방식으로는 분쟁 지역의 실제 문제 해결에 충분하지 않음",
-        "**근본적 재구축의 필요성** / Need for Fundamental Reconstruction: 행동과학은 분쟁 지역의 고유한 맥락과 심리사회적 특성을 처음부터 고려하여 새로운 이론 체계와 방법론을 개발해야 함"
-      ],
-      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
-      "featured": false
-    },
-    {
-      "id": "2ca3144e26ec",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "9일 전 / 9d ago",
-      "title": "The ‘Busy’ Trap",
-      "titleKo": "바쁨의 함정",
-      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
-      "aiSummary": "In twenty-first century America, the phrase \"I'm busy\" has become a default response to casual greetings, functioning as a disguised boast rather than a genuine complaint. Interestingly, people who work minimum-wage jobs or multiple shifts for survival rarely describe themselves as \"busy,\" revealing a significant social gap between actual overwork and performative busyness. This phenomenon reflects modern society's perception of work overload as a status symbol, particularly among those with higher socioeconomic status who use their busy schedules to signal importance and prestige. The tendency contributes to a negative workplace culture that undermines individual well-being and work-life balance. This observation highlights how social class influences the language and meaning we assign to professional demands. However, the article's incompleteness limits our ability to assess comprehensive research methodology or quantitative findings. The analysis remains primarily sociological commentary rather than empirical research.\n\n##",
-      "aiSummaryKo": "현대 미국 사회에서 '바쁘다'는 표현이 일상적인 인사말로 자리잡았으며, 이는 실제 불평보다는 자신의 중요성을 드러내려는 자랑의 형태로 변질되었다. 흥미롭게도 실제로 생존을 위해 여러 일자리를 병행하는 저임금 노동자들은 자신이 '바쁘다'고 표현하지 않는데, 이는 진정한 과로와 자기 중요성을 과시하기 위한 '바쁨'이라는 표현 사이에 사회적 격차가 존재함을 시사한다. 이 현상은 현대 사회에서 업무 과부하가 지위 상징으로 인식되는 문화를 반영하며, 높은 사회경제적 지위를 가진 사람들이 자신의 바쁜 일정을 지위 표시로 활용한다는 것을 보여준다. 이러한 경향은 개인의 웰빙뿐만 아니라 일과 삶의 균형을 저해하는 부정적 사회 문화를 형성한다. 연구의 한계는 기사가 완전하지 않아 구체적인 통계나 실증적 데이터 제시 부족이다.\n\n##",
-      "aiSummaryEn": "In twenty-first century America, the phrase \"I'm busy\" has become a default response to casual greetings, functioning as a disguised boast rather than a genuine complaint. Interestingly, people who work minimum-wage jobs or multiple shifts for survival rarely describe themselves as \"busy,\" revealing a significant social gap between actual overwork and performative busyness. This phenomenon reflects modern society's perception of work overload as a status symbol, particularly among those with higher socioeconomic status who use their busy schedules to signal importance and prestige. The tendency contributes to a negative workplace culture that undermines individual well-being and work-life balance. This observation highlights how social class influences the language and meaning we assign to professional demands. However, the article's incompleteness limits our ability to assess comprehensive research methodology or quantitative findings. The analysis remains primarily sociological commentary rather than empirical research.\n\n##",
-      "keyPoints": [
-        "**포인트1**: \"바쁘다\"는 표현이 불평이 아닌 지위와 중요성을 드러내는 자랑의 형태로 변질됨 / The phrase \"busy\" has transformed from a complaint into a disguised boast signaling status and importance",
-        "**포인트2**: 실제 저임금 노동자들은 자신이 바쁘다고 표현하지 않으며, 진정한 과로와 자기중요성 과시 사이에 사회적 계층의 차이 존재 / Those working multiple minimum-wage jobs don't describe themselves as \"busy,\" revealing a class-based distinction between genuine overwork and performative busyness",
-        "**포인트3**: 업무 과부하가 현대 사회에서 높은 지위의 상징으로 인식되는 부정적인 문화 형성 / Work overload has become a status symbol in modern society, creating a negative cultural dynamic",
-        "**포인트4**: 이러한 사회 현상은 개인의 웰빙과 일과 삶의 균형을 저해하는 구조적 문제를 야기함 / This social pattern undermines individual well-being and the achievement of work-life balance in contemporary culture"
-      ],
-      "url": "https://behavioralscientist.org/the-busy-trap/",
-      "featured": false
-    },
-    {
-      "id": "c1d7d1e43287",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "15일 전 / 15d ago",
-      "title": "What It’s Like to Be…an Aerospace Engineer",
-      "titleKo": "우주항공 공학자의 삶",
-      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
-      "aiSummary": "This article covers a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. The background involves the complexity of aerospace engineering and Mars exploration, with Mohan's experience in landing the Perseverance rover on Mars as the central focus. Key topics include the \"seven minutes of terror\" phenomenon during Mars landing, working procedures in clean rooms to minimize microbial contamination, and the process of reviewing hundreds of engineering trade-offs in design decisions. The interview is part of bestselling author Dan Heath's podcast series \"What It's Like to Be...,\" which aims to make real expert experiences accessible to general audiences. The article also mentions the possibility of searching for evidence of past life on Mars. However, the article lacks specific research data and detailed scientific findings, limiting its value for in-depth academic information gathering.",
-      "aiSummaryKo": "이 기사는 NASA 제트 추진 연구소의 항공우주공학자 스와티 모한과의 인터뷰를 다룬 팟캐스트 에피소드입니다. 연구 배경으로는 화성 탐사와 관련된 항공우주공학의 복잡성을 설명하며, 모한이 퍼서비어런스 로버를 화성에 착륙시키는 프로젝트에 참여한 경험을 중심으로 진행됩니다. 주요 내용으로는 화성 착륙 시 발생하는 \"7분의 공포(seven minutes of terror)\"라는 개념과 청정실 환경에서의 작업 과정, 그리고 수백 가지의 공학적 트레이드오프(설계 결정 사항들) 검토 과정이 포함됩니다. 이 인터뷰는 베스트셀러 작가 댄 히스가 진행하는 \"What It's Like to Be...\" 팟캐스트 시리즈의 일부로, 실제 전문가의 업무 경험을 일반인에게 쉽게 전달하는 것을 목표로 합니다. 기사는 화성에서의 과거 생명 흔적 탐색 가능성도 언급하고 있습니다. 다만 구체적인 연구 수치나 과학적 발견이 상세히 제시되지 않아 심층적인 학술 정보 습득에는 제한이 있습니다.",
-      "aiSummaryEn": "This article covers a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. The background involves the complexity of aerospace engineering and Mars exploration, with Mohan's experience in landing the Perseverance rover on Mars as the central focus. Key topics include the \"seven minutes of terror\" phenomenon during Mars landing, working procedures in clean rooms to minimize microbial contamination, and the process of reviewing hundreds of engineering trade-offs in design decisions. The interview is part of bestselling author Dan Heath's podcast series \"What It's Like to Be...,\" which aims to make real expert experiences accessible to general audiences. The article also mentions the possibility of searching for evidence of past life on Mars. However, the article lacks specific research data and detailed scientific findings, limiting its value for in-depth academic information gathering.",
-      "keyPoints": [
-        "화성 착륙의 \"7분의 공포\" / \"Seven Minutes of Terror\" during Mars landing - 통신 신호 지연으로 인해 착륙 과정을 실시간으로 제어할 수 없는 극도로 긴장된 상황",
-        "청정실 환경 관리 / Clean room operations - 우주선의 미생물 오염을 최소화하기 위한 엄격한 환경 유지 과정",
-        "공학적 트레이드오프 / Engineering trade-offs - 수백 가지의 상충하는 설계 요구사항들 간의 절충안 도출 과정",
-        "화성의 과거 생명 증거 탐색 / Evidence of past life on Mars - 퍼서비어런스 로버의 주요 과학적 임무로서 화성의 생명 존재 가능성 조사"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
       "featured": false
     }
   ]
