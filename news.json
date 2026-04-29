@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-29T18:18:17.591448+00:00",
+  "updated": "2026-04-29T20:15:45.525337+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9756061e1742",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Brain halves become less alike as kids grow, especially in highly intelligent teens",
+      "titleKo": "아이들이 자라면서 뇌의 양쪽이 달라진다, 특히 지능이 높은 청소년들에서",
+      "summary": "As children grow, the left and right hemispheres of their brains begin working more independently. A new study reveals that this division of mental labor happens at an accelerated rate in adolescents with superior intelligence scores.",
+      "aiSummary": "This study examined how the left and right hemispheres of the brain become more specialized as children grow. Researchers analyzed brain imaging data from children and adolescents to measure functional differences between brain hemispheres across different ages. The key finding is that adolescents with superior intelligence scores show accelerated independent functioning of their left and right hemispheres compared to their peers. This means that the phenomenon of brain lateralization—where the two hemispheres take on increasingly distinct roles—occurs at a faster rate in highly intelligent teens. This research contributes to understanding the relationship between brain development and intelligence, while revealing important characteristics of cognitive development during adolescence. However, the study may be based on cross-sectional data, necessitating longitudinal follow-up research.\n\n##",
+      "aiSummaryKo": "이 연구는 뇌의 좌반구와 우반구가 성장 과정에서 어떻게 변화하는지 조사한 것입니다. 연구팀은 아동과 청소년 참가자들의 뇌 이미징 데이터를 분석하여 연령에 따른 뇌 반구 간의 기능적 차이를 측정했습니다. 핵심 발견은 일반 아동에 비해 지능이 높은 청소년들에서 좌반구와 우반구가 더 독립적으로 작동하는 경향이 두드러진다는 것입니다. 즉, 뇌의 두 반구가 서로 다른 역할을 더욱 분명히 하는 '뇌 반구화(lateralization)' 현상이 고지능 청소년에게서 가속화된다는 의미입니다. 이 연구는 뇌 발달과 지능 간의 관계를 이해하는 데 기여하며, 청소년의 인지 발달 특성을 규명합니다. 다만 연구는 횡단적 데이터에 기반했을 가능성이 있어 장기 추적 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study examined how the left and right hemispheres of the brain become more specialized as children grow. Researchers analyzed brain imaging data from children and adolescents to measure functional differences between brain hemispheres across different ages. The key finding is that adolescents with superior intelligence scores show accelerated independent functioning of their left and right hemispheres compared to their peers. This means that the phenomenon of brain lateralization—where the two hemispheres take on increasingly distinct roles—occurs at a faster rate in highly intelligent teens. This research contributes to understanding the relationship between brain development and intelligence, while revealing important characteristics of cognitive development during adolescence. However, the study may be based on cross-sectional data, necessitating longitudinal follow-up research.\n\n##",
+      "keyPoints": [
+        "**뇌 반구의 점진적 분화** / Progressive specialization of brain hemispheres: 성장하면서 좌반구와 우반구가 독립적으로 기능하기 시작함",
+        "**고지능 청소년의 가속화된 발달** / Accelerated development in highly intelligent adolescents: 우수한 지능을 가진 청소년들에서 뇌 반구화가 더 빠르게 진행됨",
+        "**뇌 발달과 인지능력의 관련성** / Connection between brain development and cognitive ability: 뇌의 구조적·기능적 변화가 지능 수준과 관계가 있음을 시사",
+        "**청소년기 뇌 발달의 중요성** / Significance of adolescent brain development: 청소년기는 뇌의 기능적 특화가 일어나는 중요한 발달 시기임을 강조"
+      ],
+      "url": "https://www.psypost.org/brain-halves-become-less-alike-as-kids-grow-especially-in-highly-intelligent-tee/",
+      "featured": true
+    },
+    {
+      "id": "58bfaa6cff9f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "10일 전 / 10d ago",
+      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
+      "titleKo": "갈등 상황에서 행동과학이 직면해야 할 어려운 현실",
+      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummary": "Approximately 2 billion people live in conflict-affected areas, yet behavioral science has developed most of its theories, experiments, and interventions in stable contexts. When behavioral scientists conduct research in conflict settings, they typically apply methods that worked elsewhere through \"localization,\" but this approach is insufficient. The article emphasizes that conflict is reshaping lives globally at an unprecedented scale, with 123 million people forcibly displaced in 2024—the highest number on record—and rising civilian casualties particularly in Gaza. Rather than simply adapting existing interventions, behavioral science must develop new theories and methodologies specifically designed for conflict environments. The research significance lies in highlighting the urgent need for context-specific solutions that account for the unique psychosocial factors in conflict zones. Current limitations stem from the field's heavy reliance on research conducted in stable environments, making it difficult to address the complex realities of conflict settings effectively.\n\n##",
+      "aiSummaryKo": "현재 약 20억 명의 사람들이 분쟁 지역에서 생활하고 있지만, 행동과학 분야의 대부분의 이론과 실험, 개입 방법은 안정적인 환경에서 개발되었다. 행동과학자들이 분쟁 지역에서 연구할 때도 다른 지역에서 효과가 있던 방법을 \"현지화\"하여 평가하는 익숙한 패턴을 따르는 경향이 있다. 그러나 이러한 접근 방식만으로는 충분하지 않다는 것이 이 연구의 핵심 주장이다. 2024년에 1억 2,300만 명이 강제로 이주되어 역대 최고 기록을 경신했으며, 분쟁으로 인한 민간인 사상자가 전 지구적으로 전례 없는 규모로 증가하고 있다. 이 논문은 행동과학이 분쟁 상황에 맞게 새로운 이론과 방법론을 개발해야 함을 강조한다. 현재의 한계는 기존 안정적 환경 중심의 연구 기반에 있으며, 분쟁 지역의 고유한 심리사회적 요인을 고려한 맞춤형 개입이 필요하다는 점이 연구의 의의다.\n\n##",
+      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas, yet behavioral science has developed most of its theories, experiments, and interventions in stable contexts. When behavioral scientists conduct research in conflict settings, they typically apply methods that worked elsewhere through \"localization,\" but this approach is insufficient. The article emphasizes that conflict is reshaping lives globally at an unprecedented scale, with 123 million people forcibly displaced in 2024—the highest number on record—and rising civilian casualties particularly in Gaza. Rather than simply adapting existing interventions, behavioral science must develop new theories and methodologies specifically designed for conflict environments. The research significance lies in highlighting the urgent need for context-specific solutions that account for the unique psychosocial factors in conflict zones. Current limitations stem from the field's heavy reliance on research conducted in stable environments, making it difficult to address the complex realities of conflict settings effectively.\n\n##",
+      "keyPoints": [
+        "**현황의 심각성** / **Severity of the Situation**",
+        "**기존 접근법의 한계** / **Limitations of Current Approaches**",
+        "**필요한 변화** / **Required Changes**",
+        "**연구의 시급성** / **Research Urgency**"
+      ],
+      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
+      "featured": false
+    },
+    {
+      "id": "2ca3144e26ec",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "10일 전 / 10d ago",
+      "title": "The ‘Busy’ Trap",
+      "titleKo": "'바쁨'의 함정",
+      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "aiSummary": "In twenty-first century America, describing oneself as \"busy\" has become a default social response to casual greetings, functioning as a disguised boast rather than a genuine complaint. The typical response to someone claiming they are busy—\"That's a good problem to have\"—serves as social congratulation, positioning busyness as a status symbol of importance and success. Notably, people who work intensive shifts in ICU settings or commute to multiple minimum-wage jobs are less likely to describe themselves as \"busy,\" suggesting a distinction between actual workload and social performance of busyness. The article critiques how \"busyness\" has become a cultural marker of status and social value rather than a reflection of actual work demands. This observation reveals class differences in how people narrate their professional lives and self-presentation. However, the incomplete nature of the article limits the ability to analyze specific research methodology, participant numbers, or quantitative findings that would typically characterize empirical studies.\n\n##",
+      "aiSummaryKo": "현대 미국 사회에서 '바쁘다'는 표현이 일상적인 인사말로 자리 잡았으며, 이는 겉으로는 불평이지만 실제로는 자신의 중요성과 성공을 자랑하는 위장된 자랑임을 지적한다. 사람들은 \"바빠서 좋은 문제다\" 또는 \"반대보다는 낫다\"라고 응답하며 바쁨을 긍정적으로 평가하는 경향을 보인다. 흥미롭게도 실제로 중환자실에서 연속 근무를 하거나 최저임금 일자리 세 곳을 오가며 일하는 사람들은 자신이 '바쁘다'고 말하지 않으며, 이들은 단순히 바쁜 것이 아니라 다른 상태에 있음을 암시한다. 이 기사는 '바쁨'이라는 개념이 실제 업무량이 아닌 사회적 지위 신호로 작용하고 있음을 비판한다. 본 분석은 계급과 근무 환경에 따른 '바쁨' 표현의 차이를 드러낸다. 다만 기사가 미완성이라 전체 연구 방법론과 구체적 통계 수치를 제시하지 못하는 한계가 있다.\n\n##",
+      "aiSummaryEn": "In twenty-first century America, describing oneself as \"busy\" has become a default social response to casual greetings, functioning as a disguised boast rather than a genuine complaint. The typical response to someone claiming they are busy—\"That's a good problem to have\"—serves as social congratulation, positioning busyness as a status symbol of importance and success. Notably, people who work intensive shifts in ICU settings or commute to multiple minimum-wage jobs are less likely to describe themselves as \"busy,\" suggesting a distinction between actual workload and social performance of busyness. The article critiques how \"busyness\" has become a cultural marker of status and social value rather than a reflection of actual work demands. This observation reveals class differences in how people narrate their professional lives and self-presentation. However, the incomplete nature of the article limits the ability to analyze specific research methodology, participant numbers, or quantitative findings that would typically characterize empirical studies.\n\n##",
+      "keyPoints": [
+        "**바쁨의 역설** / The Paradox of Busyness",
+        "'바쁘다'는 표현이 불평처럼 보이지만 실제로는 자신의 중요성과 성공을 드러내는 자랑의 형태로 기능함 / Describing oneself as \"busy\" appears to be a complaint but functions as a boast revealing one's importance and success",
+        "**계급별 표현의 차이** / Class-Based Expression Differences",
+        "실제로 과중한 일정을 감당하는 저임금 근로자들은 '바쁘다'고 표현하지 않으며, 이는 바쁨이 객관적 업무량이 아닌 사회적 지위 신호임을 시사 / Low-wage workers with genuinely demanding schedules don't describe themselves as \"busy,\" suggesting busyness functions as a status signal rather than reflecting actual workload"
+      ],
+      "url": "https://behavioralscientist.org/the-busy-trap/",
+      "featured": false
+    },
+    {
+      "id": "c1d7d1e43287",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "16일 전 / 16d ago",
+      "title": "What It’s Like to Be…an Aerospace Engineer",
+      "titleKo": "항공우주공학자의 삶",
+      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummary": "This article presents a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing the Mars Perseverance rover landing and the realities of space engineering work. Part of the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath, the episode aims to convey the actual experiences and expertise of a space professional to the general public. Mohan explains the rover's landing process, particularly the \"seven minutes of terror\"—the critical autonomous landing phase hampered by communication delays from Earth. She also discusses maintaining microbial contamination control in clean rooms and navigating hundreds of engineering trade-off decisions throughout the project. This interview holds significance in making the complex technical challenges of space exploration and the engineer's role accessible to a general audience. However, the article's summary format limits specific research findings and quantitative data presentation, which may be considered a limitation in terms of detailed technical information.\n\n##",
+      "aiSummaryKo": "본 기사는 NASA 제트 추진 연구소의 항공우주 공학자 스와티 모한과의 인터뷰를 통해 화성 탐사 로버의 착륙 과정과 우주 엔지니어링의 실제 업무를 소개하는 팟캐스트 에피소드이다. 베스트셀러 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 시리즈의 일환으로, 우주 전문가의 일상적 경험과 전문 지식을 대중에게 전달하는 포맷으로 구성되어 있다. 모한은 화성 탐사선 퍼서비어런스 로버의 착륙 과정, 특히 통신 지연으로 인한 \"7분의 공포(seven minutes of terror)\"라 불리는 자동착륙 단계에 대해 설명한다. 또한 클린룸 환경에서 미생물 오염을 최소화하는 업무와 수백 가지의 엔지니어링 트레이드오프(설계상 선택) 과정을 다룬다. 이 인터뷰는 우주 탐사 분야의 복잡한 기술적 도전과 엔지니어의 역할을 일반인이 이해할 수 있도록 설명하는 데 의의가 있다. 다만 기사가 요약 형태로 제시되어 구체적인 연구 결과나 수치적 데이터가 제한적이라는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This article presents a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing the Mars Perseverance rover landing and the realities of space engineering work. Part of the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath, the episode aims to convey the actual experiences and expertise of a space professional to the general public. Mohan explains the rover's landing process, particularly the \"seven minutes of terror\"—the critical autonomous landing phase hampered by communication delays from Earth. She also discusses maintaining microbial contamination control in clean rooms and navigating hundreds of engineering trade-off decisions throughout the project. This interview holds significance in making the complex technical challenges of space exploration and the engineer's role accessible to a general audience. However, the article's summary format limits specific research findings and quantitative data presentation, which may be considered a limitation in terms of detailed technical information.\n\n##",
+      "keyPoints": [
+        "**화성 착륙의 \"7분의 공포\"** / \"Seven Minutes of Terror\" in Mars Landing",
+        "**미생물 오염 통제의 중요성** / Importance of Microbial Contamination Control",
+        "**엔지니어링 트레이드오프 의사결정** / Engineering Trade-off Decision Making",
+        "**우주 탐사의 다층적 도전** / Multi-layered Challenges in Space Exploration"
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
+      "featured": false
+    },
+    {
+      "id": "c4b327adc932",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Scientists may have found the brain’s switch for chronic pain",
+      "titleKo": "과학자들이 만성 통증을 조절하는 뇌의 스위치를 찾았을 수도 있다",
+      "summary": "Deep within the brain, scientists have uncovered a hidden “switch” that may decide whether pain fades away—or lingers for months or even years. Researchers found that a small, little-known region called the caudal granular insular cortex (CGIC) acts like a command center, telling the body to keep pain signals alive long after an injury has healed. In animal studies, shutting down this pathway not only prevented chronic pain from forming but could even erase it once it had taken hold.",
+      "aiSummary": "Scientists have discovered a \"switch\" in the brain's depths that determines whether acute pain develops into chronic pain lasting months or years. The research team identified that a small brain region called the caudal granular insular cortex (CGIC) acts as a command center, instructing the body to maintain pain signals long after injuries have healed. Through animal studies, researchers found that blocking this neural pathway not only prevented chronic pain from forming but could also eliminate existing chronic pain. This discovery offers new insights into understanding and treating chronic pain, which currently affects millions of people worldwide. However, the study was conducted only in animal models, so additional clinical trials are necessary to confirm whether these findings apply to humans.\n\n##",
+      "aiSummaryKo": "과학자들이 뇌 깊숙한 곳에서 급성 통증이 만성 통증으로 전환되는지를 결정하는 뇌의 \"스위치\"를 발견했습니다. 연구팀은 꼬리 과립 뇌섬엽 피질(CGIC)이라 불리는 작은 뇌 영역이 상처가 치유된 후에도 몸에 통증 신호를 계속 보내도록 지시하는 명령 센터 역할을 한다는 것을 밝혀냈습니다. 동물 실험을 통해 이 신경 경로를 차단하면 만성 통증이 형성되는 것을 예방할 수 있을 뿐만 아니라 이미 생긴 만성 통증을 제거할 수도 있음을 확인했습니다. 이 연구는 현재 수백만 명이 고통받고 있는 만성 통증의 원인을 이해하고 치료할 새로운 방법을 제시합니다. 다만 이 연구는 동물 모델에서만 진행되었으므로 인간에게 동일한 효과가 있는지 확인하기 위해서는 추가적인 임상 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "Scientists have discovered a \"switch\" in the brain's depths that determines whether acute pain develops into chronic pain lasting months or years. The research team identified that a small brain region called the caudal granular insular cortex (CGIC) acts as a command center, instructing the body to maintain pain signals long after injuries have healed. Through animal studies, researchers found that blocking this neural pathway not only prevented chronic pain from forming but could also eliminate existing chronic pain. This discovery offers new insights into understanding and treating chronic pain, which currently affects millions of people worldwide. However, the study was conducted only in animal models, so additional clinical trials are necessary to confirm whether these findings apply to humans.\n\n##",
+      "keyPoints": [
+        "**뇌의 통증 제어 중추 발견** / Discovery of the brain's pain control hub",
+        "꼬리 과립 뇌섬엽 피질(CGIC)이 급성 통증의 만성화를 결정하는 핵심 영역임이 규명됨",
+        "**이중 효과 확인** / Dual therapeutic effects confirmed",
+        "신경 경로 차단으로 만성 통증 형성 예방과 기존 만성 통증 제거 모두 가능"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260426012317.htm",
+      "featured": false
+    },
     {
       "id": "41286ed18ece",
       "tag": "psych",
@@ -21,7 +126,7 @@
         "**연구의 한계** / Research Limitations"
       ],
       "url": "https://www.psypost.org/the-femme-fatale-might-be-a-universal-myth-driven-by-the-fear-of-romantic-deception/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "93928d816392",
@@ -315,111 +420,6 @@
         "**개별 차이 고려** / Individual differences consideration: 측정 오류와 개인차로 인한 신경다양성을 보정하여 더 신뢰할 수 있는 뇌-자극 관계 규명 가능"
       ],
       "url": "https://arxiv.org/abs/2604.24942",
-      "featured": false
-    },
-    {
-      "id": "d909b0816265",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Shared music listening synchronizes brain activity",
-      "titleKo": "음악 함께 듣기, 뇌 활동을 동기화하다",
-      "summary": "Listening to music with a friend syncs up your emotional and brain responses. According to a recent Cortex study, sharing a musical experience increases the moment-to-moment similarity of subjective pleasure and enhances neural alignment between listeners.",
-      "aiSummary": "A new study reveals that listening to music with friends synchronizes emotional and brain responses between listeners. According to research published in the journal *Cortex*, shared musical experiences increase moment-to-moment similarity in subjective pleasure and enhance neural alignment between listeners. The study demonstrates that music functions as a powerful medium that synchronizes people's emotions and brain states in real-time, beyond being mere entertainment. Shared music listening may offer various psychological and neurological benefits, including development of empathy, strengthening social bonds, and improving mental health. However, the research lacks specific information about participant numbers, diverse music genres, and individual differences, limiting the generalizability of the findings. Future research should validate these neural synchronization phenomena with larger sample sizes and diverse experimental conditions.\n\n##",
-      "aiSummaryKo": "친구와 함께 음악을 들을 때 감정과 뇌 반응이 동기화된다는 연구결과가 나왔습니다. 최근 학술지 『Cortex』에 발표된 연구에 따르면, 음악 경험을 함께 공유하면 순간순간의 즐거움 반응이 더욱 유사해지고 두 청자 간의 신경 활동 일치도가 증가합니다. 이 연구는 음악이 단순한 오락을 넘어 사람들의 감정과 뇌 상태를 실시간으로 동기화하는 강력한 매개체임을 보여줍니다. 음악 공유 청취는 공감 능력 발달, 사회적 유대감 강화, 정신 건강 개선 등 다양한 심리·신경학적 이점이 있을 수 있습니다. 다만 이 연구는 참가자 수나 다양한 음악 장르, 개인차 변수 등에 대한 구체적 정보가 제시되지 않아 결과의 일반화 가능성에 제한이 있습니다. 향후 연구에서는 더 큰 표본과 다양한 조건에서 이러한 신경 동기화 현상을 추가 검증할 필요가 있습니다.\n\n##",
-      "aiSummaryEn": "A new study reveals that listening to music with friends synchronizes emotional and brain responses between listeners. According to research published in the journal *Cortex*, shared musical experiences increase moment-to-moment similarity in subjective pleasure and enhance neural alignment between listeners. The study demonstrates that music functions as a powerful medium that synchronizes people's emotions and brain states in real-time, beyond being mere entertainment. Shared music listening may offer various psychological and neurological benefits, including development of empathy, strengthening social bonds, and improving mental health. However, the research lacks specific information about participant numbers, diverse music genres, and individual differences, limiting the generalizability of the findings. Future research should validate these neural synchronization phenomena with larger sample sizes and diverse experimental conditions.\n\n##",
-      "keyPoints": [
-        "**뇌 동기화 효과** / Neural Synchronization Effect",
-        "**주관적 즐거움 증가** / Enhanced Subjective Pleasure",
-        "**사회적 유대감 강화** / Strengthened Social Bonding",
-        "**제한된 연구 정보** / Limited Research Details"
-      ],
-      "url": "https://www.psypost.org/shared-music-listening-synchronizes-brain-activity/",
-      "featured": false
-    },
-    {
-      "id": "689378e1e4f4",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Trump’s 2024 victory flipped the psychological differences between liberals and conservatives",
-      "titleKo": "트럼프의 2024년 승리가 진보주의자와 보수주의자 간의 심리적 차이를 뒤집다",
-      "summary": "A newly published study challenges the idea that liberals and conservatives have inherently different worldviews, revealing that traits like cynicism and institutional trust flip dramatically depending on whose political party holds the White House.",
-      "aiSummary": "This newly published study challenges the conventional view that liberals and conservatives possess inherently different psychological worldviews. Researchers conducted a longitudinal study tracking psychological trait changes in both political groups before and after the 2024 U.S. presidential election. Key findings reveal that characteristics such as cynicism, institutional trust, and optimism flip dramatically depending on whether one's political party holds power or remains in opposition. This suggests that psychological differences are not fixed personality traits but rather fluid responses to political circumstances. The research provides important implications for understanding political polarization and facilitating dialogue across party lines. However, the study is limited to U.S. samples and requires longer-term longitudinal observations.\n\n##",
-      "aiSummaryKo": "이 연구는 진보주의자와 보수주의자가 타고난 심리적 차이가 있다는 기존의 통념에 의문을 제기합니다. 연구팀은 2024년 미국 대선 결과 전후로 양진영의 심리 특성 변화를 추적하는 종단 연구를 수행했습니다. 핵심 발견은 냉소주의, 제도 신뢰도, 낙관주의 같은 특성들이 정당이 집권하는지 야당인지에 따라 극적으로 뒤바뀐다는 것입니다. 이는 심리적 차이가 고정적 성향이 아니라 정치적 상황에 따라 유동적으로 변한다는 것을 시사합니다. 이 연구는 정치 양극화를 이해하고 대화를 촉진하는 데 중요한 함의를 제공합니다. 다만 이 연구는 미국 표본에 국한되어 있으며, 더 장기간의 추적 관찰이 필요합니다.\n\n##",
-      "aiSummaryEn": "This newly published study challenges the conventional view that liberals and conservatives possess inherently different psychological worldviews. Researchers conducted a longitudinal study tracking psychological trait changes in both political groups before and after the 2024 U.S. presidential election. Key findings reveal that characteristics such as cynicism, institutional trust, and optimism flip dramatically depending on whether one's political party holds power or remains in opposition. This suggests that psychological differences are not fixed personality traits but rather fluid responses to political circumstances. The research provides important implications for understanding political polarization and facilitating dialogue across party lines. However, the study is limited to U.S. samples and requires longer-term longitudinal observations.\n\n##",
-      "keyPoints": [
-        "**심리 특성의 유동성** / Fluidity of Psychological Traits: 냉소주의와 제도 신뢰도 같은 성격 특성이 정치적 상황에 따라 극적으로 변함",
-        "**상황 의존적 변화** / Situational Dependency: 자신의 정당이 집권하느냐 야당이냐에 따라 심리적 반응이 정반대로 전환됨",
-        "**기존 이론의 도전** / Challenge to Existing Theory: 진보-보수의 심리적 차이가 선천적·고정적이라는 기존의 심리학적 가정에 의문 제기",
-        "**정치 양극화 이해의 새로운 관점** / New Perspective on Political Polarization: 정치적 극단화는 근본적인 성격 차이보다는 집권·야당 지위의 변화에 따른 반응성 차이로 설명 가능"
-      ],
-      "url": "https://www.psypost.org/trumps-2024-victory-flipped-the-psychological-differences-between-liberals-and-conservatives/",
-      "featured": false
-    },
-    {
-      "id": "a8a9b4e5a915",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
-      "titleKo": "MIT 과학자들, 혼란스러운 레이저 빛을 강력한 뇌 영상 도구로 변환",
-      "summary": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method also lets researchers watch how drugs move into brain cells in real time. It could dramatically accelerate the development of treatments for neurological diseases.",
-      "aiSummary": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused \"pencil beam\" under specific conditions instead of scattering. By applying this technique to brain imaging, they achieved 3D visualization of the blood-brain barrier at speeds 25 times faster than existing methods. This innovation enables real-time observation of how drugs penetrate brain cells. The breakthrough could significantly accelerate the development of treatments for neurological diseases by providing unprecedented imaging capabilities. However, the research is in its early stages, and further validation is needed before clinical application. The technique represents a promising advancement in neuroscience research tools and drug development processes.\n\n##",
-      "aiSummaryKo": "MIT 과학자들은 무질서한 레이저 빛이 특정 조건 하에서 산란하지 않고 매우 집중된 \"연필 빔\"으로 자발적으로 형성될 수 있음을 발견했습니다. 이 기술을 뇌 영상화에 적용하여 혈액-뇌 장벽(blood-brain barrier)을 3D로 촬영하는 속도를 기존 기술 대비 25배 향상시켰습니다. 이 방법은 약물이 실시간으로 뇌 세포에 어떻게 침투하는지 관찰할 수 있게 해줍니다. 이 혁신적인 기술은 신경계질환 치료제 개발 속도를 획기적으로 단축할 수 있어 의료 분야에 큰 의의가 있습니다. 다만, 연구는 초기 단계이며 임상 실제 적용까지는 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused \"pencil beam\" under specific conditions instead of scattering. By applying this technique to brain imaging, they achieved 3D visualization of the blood-brain barrier at speeds 25 times faster than existing methods. This innovation enables real-time observation of how drugs penetrate brain cells. The breakthrough could significantly accelerate the development of treatments for neurological diseases by providing unprecedented imaging capabilities. However, the research is in its early stages, and further validation is needed before clinical application. The technique represents a promising advancement in neuroscience research tools and drug development processes.\n\n##",
-      "keyPoints": [
-        "**카오스 레이저 활용**: 무질서한 레이저 빛이 정렬된 집중 빔으로 변환되는 현상 발견 / Discovery that chaotic laser light spontaneously forms a highly focused beam",
-        "**속도 혁신**: 뇌 혈액-뇌 장벽 3D 촬영 속도 25배 향상 / 25-fold improvement in blood-brain barrier 3D imaging speed",
-        "**약물 추적 기능**: 약물이 뇌 세포에 침투하는 과정을 실시간으로 관찰 가능 / Real-time observation of drug penetration into brain cells",
-        "**신경질환 치료 개발 가속화**: 신경계질환 치료제 개발 속도 단축 및 임상 연구 효율성 증대 / Potential to significantly accelerate neurological disease treatment development and improve research efficiency"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
-      "featured": false
-    },
-    {
-      "id": "216f39ddc786",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Your dreams aren’t random. Here’s what’s really happening",
-      "titleKo": "당신의 꿈은 우연이 아닙니다. 실제로 일어나는 일은 이것입니다",
-      "summary": "Dreams are more structured than they seem, shaped by both personal traits and real-world experiences. Researchers found that the brain doesn’t just replay daily life—it reshapes it into imaginative, sometimes surreal scenarios. People who mind-wander more tend to have fragmented dreams, while those who value dreams experience richer ones. Even major events like the pandemic changed dream content, making it more emotional and restrictive.",
-      "aiSummary": "This research demonstrates that dreams are not random but are structured by personal psychological traits and real-world experiences. Researchers found that the brain does not simply replay daily life but reconstructs it into imaginative, sometimes surreal scenarios. Study results showed that people who mind-wander frequently tend to have fragmented dreams, while those who value dreams experience richer and more detailed dream content. Major events such as the pandemic were found to change dream content, making dreams more emotional and restrictive. The significance of this research lies in establishing that dreams serve as a window reflecting the interaction between individual psychological states and external environments. However, the study has limitations as it relies on self-reported dream accounts rather than objective measurements.\n\n##",
-      "aiSummaryKo": "이 연구는 꿈이 무작위적이 아니라 개인의 심리적 특성과 실제 경험에 의해 구조화된다는 것을 보여줍니다. 연구팀은 뇌가 단순히 일상을 재생하는 것이 아니라 상상력 있는 초현실적 시나리오로 재구성한다는 것을 발견했습니다. 연구 결과, 현실에서 마음이 자주 흐르는 사람들은 단편적인 꿈을 꾸는 경향이 있고, 꿈을 소중히 여기는 사람들은 더 풍부한 꿈의 내용을 경험했습니다. 특히 팬데믹 같은 주요 사건들은 꿈의 내용을 더 감정적이고 제한적으로 변화시켰습니다. 이 연구의 의의는 꿈이 개인의 심리 상태와 외부 환경의 상호작용을 반영하는 창이라는 것을 입증했다는 점입니다. 다만 연구는 개인적 보고에 의존하므로 객관적 측정의 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research demonstrates that dreams are not random but are structured by personal psychological traits and real-world experiences. Researchers found that the brain does not simply replay daily life but reconstructs it into imaginative, sometimes surreal scenarios. Study results showed that people who mind-wander frequently tend to have fragmented dreams, while those who value dreams experience richer and more detailed dream content. Major events such as the pandemic were found to change dream content, making dreams more emotional and restrictive. The significance of this research lies in establishing that dreams serve as a window reflecting the interaction between individual psychological states and external environments. However, the study has limitations as it relies on self-reported dream accounts rather than objective measurements.\n\n##",
-      "keyPoints": [
-        "**꿈의 구조화된 특성** / Dreams have a structured nature rather than being random—they are shaped by personality traits and life experiences.",
-        "**마음챙김과 꿈의 질** / Mind-wandering tendency and personal attitude toward dreams significantly influence dream fragmentation and richness of dream content.",
-        "**외부 사건의 영향** / Major real-world events (like pandemics) directly impact dream content, making them more emotionally charged and restrictive.",
-        "**뇌의 창의적 재구성 능력** / The brain reshapes daily experiences into imaginative, surreal scenarios rather than simply replaying them as-is."
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260428045538.htm",
-      "featured": false
-    },
-    {
-      "id": "c9dbb8514c7b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "This hidden kind of stress may be damaging your memory as you age",
-      "titleKo": "이 숨겨진 스트레스가 나이 들수록 당신의 기억력을 손상시킬 수 있습니다",
-      "summary": "A new study reveals that internalizing stress—especially feelings of hopelessness—may significantly speed up memory decline in older Chinese Americans. Surprisingly, factors like community support didn’t show the same impact. Researchers say cultural pressures and stereotypes may cause emotional struggles to go unnoticed and untreated. The findings suggest that targeted, culturally sensitive stress relief could play a powerful role in preserving cognitive health.",
-      "aiSummary": "This study investigated hidden stress factors affecting cognitive decline in older adults, specifically examining the relationship between internalized stress and memory loss in Chinese American seniors. Researchers assessed how internalized emotions, particularly feelings of hopelessness, impact memory deterioration in aging populations. Key findings revealed that internalized stress, especially hopelessness, significantly accelerates memory decline in older age, while surprisingly, external factors like community support showed less pronounced effects. The research suggests that cultural pressures and stereotypes may cause emotional struggles to remain unrecognized and untreated. The study's significance lies in demonstrating that culturally sensitive, targeted stress-relief interventions could play a crucial role in preserving cognitive health. Limitations include the focus on a specific ethnic group and the need for further clarification on causal mechanisms underlying these relationships.\n\n##",
-      "aiSummaryKo": "이 연구는 노년층의 인지 기능 저하에 영향을 미치는 숨겨진 스트레스 요인을 탐구했습니다. 연구진은 중국계 미국인 노인들을 대상으로 내재화된 스트레스(특히 절망감)와 기억력 감퇴 사이의 관계를 조사했습니다. 주요 결과는 절망감과 같은 내재화된 감정이 노년의 기억력 저하를 상당히 가속화할 수 있음을 보여주었으며, 흥미롭게도 지역사회 지지와 같은 외부 요인들은 같은 수준의 영향을 미치지 못했습니다. 연구진은 문화적 압박과 고정관념이 정서적 어려움을 눈에 띄지 않게 하여 치료받지 못하게 만들 수 있다고 설명했습니다. 이 연구의 의의는 인지 건강 보존을 위해 문화에 맞춘 맞춤형 스트레스 완화 접근이 필수적일 수 있음을 시사합니다. 그러나 특정 민족 집단에 한정된 연구라는 점과 인과관계의 명확성이 제한적이라는 점이 한계로 지적됩니다.\n\n##",
-      "aiSummaryEn": "This study investigated hidden stress factors affecting cognitive decline in older adults, specifically examining the relationship between internalized stress and memory loss in Chinese American seniors. Researchers assessed how internalized emotions, particularly feelings of hopelessness, impact memory deterioration in aging populations. Key findings revealed that internalized stress, especially hopelessness, significantly accelerates memory decline in older age, while surprisingly, external factors like community support showed less pronounced effects. The research suggests that cultural pressures and stereotypes may cause emotional struggles to remain unrecognized and untreated. The study's significance lies in demonstrating that culturally sensitive, targeted stress-relief interventions could play a crucial role in preserving cognitive health. Limitations include the focus on a specific ethnic group and the need for further clarification on causal mechanisms underlying these relationships.\n\n##",
-      "keyPoints": [
-        "**내재화된 스트레스의 영향** / Impact of Internalized Stress: 절망감과 같이 겉으로 드러나지 않는 감정적 스트레스가 노년의 기억력 저하를 상당히 가속화함",
-        "**예상 밖의 사회적 지지 효과 부족** / Insufficient Social Support Effects: 지역사회 지지 같은 외부적 요인이 예상과 달리 기억력 보존에 큰 영향을 미치지 못함",
-        "**문화적 요인의 중요성** / Importance of Cultural Factors: 문화적 압박과 고정관념이 정서적 문제를 은폐하여 적절한 치료 기회를 상실하게 함",
-        "**맞춤형 개입의 필요성** / Need for Tailored Interventions: 인지 건강 보존을 위해 문화적 특성을 반영한 스트레스 관리 프로그램의 개발 및 실행이 필수적임"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260427050626.htm",
       "featured": false
     }
   ]
