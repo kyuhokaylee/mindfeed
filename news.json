@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-29T20:15:45.525337+00:00",
+  "updated": "2026-04-29T22:05:29.888712+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d909b0816265",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "8시간 전 / 8h ago",
+      "title": "Shared music listening synchronizes brain activity",
+      "titleKo": "음악을 함께 듣는 것이 뇌 활동을 동기화시킨다",
+      "summary": "Listening to music with a friend syncs up your emotional and brain responses. According to a recent Cortex study, sharing a musical experience increases the moment-to-moment similarity of subjective pleasure and enhances neural alignment between listeners.",
+      "aiSummary": "A recent study published in Cortex reveals that listening to music with a friend synchronizes emotional and brain responses between listeners. The research demonstrates that shared musical experiences increase moment-to-moment similarity in subjective pleasure and enhance neural alignment between participants. This study goes beyond viewing music appreciation as an individual activity, showing that listening together creates emotional and neurological synchronization between people. The findings suggest that music has neurobiological mechanisms that can strengthen social bonding and potentially enhance empathy among listeners. The synchronized brain activity indicates that people literally align their neural responses when sharing a musical experience. However, the article lacks specific details about participant numbers, experimental design specifics, and quantitative measures of neural synchronization, necessitating further investigation of the original research.\n\n##",
+      "aiSummaryKo": "친구와 함께 음악을 듣는 경험이 뇌 활동을 동기화시킨다는 연구 결과가 발표되었습니다. 최근 Cortex 저널에 게재된 이 연구는 음악 감상이 단순한 개인적 경험을 넘어 함께 듣는 사람들 간의 감정적·신경적 동기화를 일으킨다는 것을 보여줍니다. 연구팀은 함께 음악을 청취하는 조건에서 참가자들의 쾌감(주관적 즐거움)이 순간순간 더 높은 유사성을 나타낼 수 있음을 발견했습니다. 특히 두 청취자 간의 신경 활동 정렬(neural alignment)이 향상되어 뇌 수준에서 실제로 동기화가 일어남을 확인했습니다. 이는 음악이 사람들 간의 사회적 결합을 강화하고 공감 능력을 증진시킬 수 있는 신경생물학적 기제를 제시합니다. 다만 해당 기사에서는 구체적인 참가자 수, 실험 설계 세부사항, 신경 동기화의 정량적 수치가 명시되지 않아 추가적인 정보 확인이 필요합니다.\n\n##",
+      "aiSummaryEn": "A recent study published in Cortex reveals that listening to music with a friend synchronizes emotional and brain responses between listeners. The research demonstrates that shared musical experiences increase moment-to-moment similarity in subjective pleasure and enhance neural alignment between participants. This study goes beyond viewing music appreciation as an individual activity, showing that listening together creates emotional and neurological synchronization between people. The findings suggest that music has neurobiological mechanisms that can strengthen social bonding and potentially enhance empathy among listeners. The synchronized brain activity indicates that people literally align their neural responses when sharing a musical experience. However, the article lacks specific details about participant numbers, experimental design specifics, and quantitative measures of neural synchronization, necessitating further investigation of the original research.\n\n##",
+      "keyPoints": [
+        "**음악 청취의 사회적 동기화**: 친구와 함께 음악을 들을 때 참가자들의 순간적 쾌감이 더욱 유사해지며, 개인적 감상과 다른 신경생물학적 반응이 일어남 / **Social Synchronization Through Music**: Listening to music with a friend increases moment-to-moment similarity in subjective pleasure and produces distinct neurobiological responses compared to individual listening",
+        "**신경 수준의 동기화 발견**: 뇌 활동 정렬(neural alignment)이 향상되어 두 사람의 뇌가 실제로 동기화되는 현상이 객관적으로 확인됨 / **Neural Alignment Evidence**: Enhanced neural synchronization demonstrates that listeners' brains literally align their activity patterns when sharing musical experiences",
+        "**사회적 결합 강화 메커니즘**: 음악 공유가 사람들 간의 사회적 연결을 심화시키고 공감 능력 발전에 기여할 수 있는 신경생물학적 기초를 제공 / **Social Bonding Mechanism**: Music sharing provides neurobiological basis for strengthening social connections and potentially enhancing empathy between individuals",
+        "**향후 응용 가능성과 연구 한계**: 정신 건강, 집단 치료, 교육 등 다양한 분야에 적용 가능성이 있으나, 구체적 실험 수치와 세부 방법론 공개 필요 / **Application Potential and Research Limitations**: Potential applications in mental health, group therapy, and education exist, but specific quantitative data and detailed methodology need to be disclosed for comprehensive evaluation"
+      ],
+      "url": "https://www.psypost.org/shared-music-listening-synchronizes-brain-activity/",
+      "featured": true
+    },
+    {
+      "id": "a8a9b4e5a915",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
+      "titleKo": "MIT 과학자들, 혼란스러운 레이저 빛을 강력한 뇌 영상 도구로 전환",
+      "summary": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method also lets researchers watch how drugs move into brain cells in real time. It could dramatically accelerate the development of treatments for neurological diseases.",
+      "aiSummary": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused beam under specific conditions instead of scattering randomly. Using this \"pencil beam,\" researchers achieved 25 times faster imaging speeds of the blood-brain barrier in 3D compared to existing techniques. The novel method enables real-time observation of how drugs move into brain cells, potentially accelerating the development of treatments for neurological diseases. This breakthrough represents an innovative fusion of laser physics and neuroscience that could open new avenues for brain disease research. The technology promises to be a valuable tool for studying neurological conditions such as Alzheimer's and Parkinson's disease. However, additional validation is required before clinical application, and demonstrating practical utility in biological systems remains a key future challenge.\n\n##",
+      "aiSummaryKo": "MIT 과학자들은 무질서한 레이저 광선이 특정 조건에서 산란하지 않고 집중된 빔으로 자발적으로 형성될 수 있다는 사실을 발견했습니다. 이 \"연필 같은 집중 빔\"을 이용하면 혈액-뇌 장벽을 3D로 촬영할 때 기존 기술보다 25배 빠른 속도를 달성할 수 있습니다. 이 새로운 방법은 약물이 뇌 세포로 어떻게 이동하는지를 실시간으로 관찰할 수 있게 함으로써, 신경계 질환 치료제 개발을 획기적으로 가속화할 수 있는 잠재력을 갖고 있습니다. 연구팀은 레이저 물리학과 신경과학의 혁신적인 융합을 통해 뇌 질환 치료에 새로운 길을 열었습니다. 이 기술은 알츠하이머병, 파킨슨병 등 신경계 질환 연구에 중요한 도구가 될 수 있습니다. 다만 이 기술의 임상 적용까지는 추가적인 검증 과정이 필요하며, 생체 시스템에서의 실용성 확보가 향후 과제입니다.\n\n##",
+      "aiSummaryEn": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused beam under specific conditions instead of scattering randomly. Using this \"pencil beam,\" researchers achieved 25 times faster imaging speeds of the blood-brain barrier in 3D compared to existing techniques. The novel method enables real-time observation of how drugs move into brain cells, potentially accelerating the development of treatments for neurological diseases. This breakthrough represents an innovative fusion of laser physics and neuroscience that could open new avenues for brain disease research. The technology promises to be a valuable tool for studying neurological conditions such as Alzheimer's and Parkinson's disease. However, additional validation is required before clinical application, and demonstrating practical utility in biological systems remains a key future challenge.\n\n##",
+      "keyPoints": [
+        "**혁신적 기술**: 카오스 레이저가 특정 조건에서 집중된 빔으로 자발적으로 형성되는 현상 발견 / Discovery that chaotic laser light spontaneously forms focused beams under specific conditions",
+        "**획기적 성능 향상**: 혈액-뇌 장벽 3D 영상화 속도 **25배 가속화** / 25-fold acceleration in blood-brain barrier 3D imaging speed",
+        "**실시간 약물 추적**: 뇌 세포로의 약물 이동 과정을 실시간으로 관찰 가능 / Real-time observation of drug movement into brain cells",
+        "**질병 치료 개발 가속화**: 신경계 질환 치료제 개발을 급속도로 진전시킬 수 있는 잠재력 / Significant potential to accelerate neurological disease treatment development"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
+      "featured": false
+    },
+    {
+      "id": "216f39ddc786",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Your dreams aren’t random. Here’s what’s really happening",
+      "titleKo": "당신의 꿈은 무작위가 아니다. 실제로 일어나고 있는 일은 이것이다",
+      "summary": "Dreams are more structured than they seem, shaped by both personal traits and real-world experiences. Researchers found that the brain doesn’t just replay daily life—it reshapes it into imaginative, sometimes surreal scenarios. People who mind-wander more tend to have fragmented dreams, while those who value dreams experience richer ones. Even major events like the pandemic changed dream content, making it more emotional and restrictive.",
+      "aiSummary": "Dreams are not random but are structured by personal psychological traits and real-world experiences, according to new research findings. Researchers discovered that the brain does not simply replay daily life but reshapes it into imaginative, surreal scenarios. The study revealed that individuals who frequently mind-wander tend to have fragmented dreams, while those who value their dreams experience richer and more complex dream content. Notably, major societal events like the pandemic altered dream content, making dreams more emotionally intense and restrictive in nature. This research is significant as it demonstrates that dreams serve as a window reflecting our psychological state and the stress of our actual lives. However, the study has limitations, including difficulties in quantitatively measuring individual dream experiences and reliance on self-reported data from participants.",
+      "aiSummaryKo": "꿈은 무작위로 발생하는 것이 아니라 개인의 심리적 특성과 실제 경험에 의해 구조적으로 형성된다는 연구 결과가 발표되었다. 연구진은 뇌가 일상을 단순히 재생하는 것이 아니라 상상력을 더해 초현실적인 시나리오로 재구성한다는 것을 발견했다. 연구에 따르면 일상에서 마음이 자주 흐트러지는 사람들은 단편적인 꿈을 꾸는 경향이 있으며, 반대로 꿈을 소중히 여기는 사람들은 더 풍부하고 복잡한 꿈을 경험한다. 더 흥미로운 점은 팬데믹과 같은 사회적 대사건이 꿈의 내용을 변화시켜 더욱 감정적이고 제한적으로 만들었다는 것이다. 이 연구는 꿈이 우리의 심리 상태와 실제 삶의 스트레스를 반영하는 창(窓)임을 보여준다는 점에서 의의가 있다. 다만 개별 꿈 경험을 정량적으로 측정하기 어렵고, 참가자의 자기보고에 의존하는 한계가 있다.",
+      "aiSummaryEn": "Dreams are not random but are structured by personal psychological traits and real-world experiences, according to new research findings. Researchers discovered that the brain does not simply replay daily life but reshapes it into imaginative, surreal scenarios. The study revealed that individuals who frequently mind-wander tend to have fragmented dreams, while those who value their dreams experience richer and more complex dream content. Notably, major societal events like the pandemic altered dream content, making dreams more emotionally intense and restrictive in nature. This research is significant as it demonstrates that dreams serve as a window reflecting our psychological state and the stress of our actual lives. However, the study has limitations, including difficulties in quantitatively measuring individual dream experiences and reliance on self-reported data from participants.",
+      "keyPoints": [
+        "**꿈의 구조성** / Dream Structure: 꿈은 개인의 성격 특성과 실제 경험에 의해 구조적으로 결정되며 무작위가 아님 / Dreams are structurally determined by personality traits and real experiences, not random",
+        "**마음 방황과 꿈의 질** / Mind-Wandering and Dream Quality: 일상에서 마음이 자주 흐트러지는 사람은 단편적 꿈을, 꿈을 가치 있게 여기는 사람은 풍부한 꿈을 경험 / People who frequently mind-wander experience fragmented dreams, while those who value dreams have richer dream experiences",
+        "**사회적 사건의 영향** / Social Events' Impact: 팬데믹과 같은 주요 사건이 꿈의 감정 강도와 내용을 변화시킴 / Major events like the pandemic alter dreams' emotional intensity and content",
+        "**심리 상태 반영 도구** / Psychological Mirror: 꿈은 개인의 심리 상태와 실제 스트레스를 반영하는 진단 도구로 활용 가능 / Dreams can serve as diagnostic tools reflecting individual psychological states and real-world stress levels"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260428045538.htm",
+      "featured": false
+    },
+    {
+      "id": "c9dbb8514c7b",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "This hidden kind of stress may be damaging your memory as you age",
+      "titleKo": "나이가 들면서 당신의 기억력을 손상시킬 수 있는 숨겨진 스트레스",
+      "summary": "A new study reveals that internalizing stress—especially feelings of hopelessness—may significantly speed up memory decline in older Chinese Americans. Surprisingly, factors like community support didn’t show the same impact. Researchers say cultural pressures and stereotypes may cause emotional struggles to go unnoticed and untreated. The findings suggest that targeted, culturally sensitive stress relief could play a powerful role in preserving cognitive health.",
+      "aiSummary": "This study was conducted to identify factors contributing to memory decline with age, focusing on older Chinese Americans. Researchers investigated the relationship between internalized stress—particularly feelings of hopelessness—and memory deterioration in this population. Key findings revealed that internalized emotions like hopelessness significantly accelerated memory decline, while surprisingly, external factors such as community support showed less impact. Researchers explain that cultural pressures and stereotypes render these emotional struggles invisible, leading to missed treatment opportunities. The findings suggest that culturally tailored stress relief interventions could play a crucial role in preserving cognitive health among aging populations. However, the study's focus on a specific ethnic group limits generalization to other populations, which represents a notable limitation of the research.\n\n##",
+      "aiSummaryKo": "이 연구는 나이가 들면서 기억력이 저하되는 원인을 규명하기 위해 진행되었습니다. 연구팀은 중국계 미국인 고령자들을 대상으로 내재화된 스트레스(특히 절망감)와 기억력 감퇴 간의 관계를 조사했습니다. 연구 결과, 절망감 같은 내면화된 감정이 기억력 쇠퇴를 상당히 가속화하는 것으로 나타났으며, 놀랍게도 지역사회 지원과 같은 외부 요인은 유사한 영향을 미치지 않았습니다. 연구자들은 문화적 압박과 고정관념이 이러한 정서적 어려움을 눈에 띄지 않게 만들어 치료 기회를 놓치게 한다고 설명합니다. 이 발견은 문화에 맞춘 맞춤형 스트레스 완화가 인지 건강 보존에 중요한 역할을 할 수 있음을 시사합니다. 다만 이 연구는 특정 민족 집단을 중심으로 수행되어 다른 인구 집단에 대한 일반화에는 제한이 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "This study was conducted to identify factors contributing to memory decline with age, focusing on older Chinese Americans. Researchers investigated the relationship between internalized stress—particularly feelings of hopelessness—and memory deterioration in this population. Key findings revealed that internalized emotions like hopelessness significantly accelerated memory decline, while surprisingly, external factors such as community support showed less impact. Researchers explain that cultural pressures and stereotypes render these emotional struggles invisible, leading to missed treatment opportunities. The findings suggest that culturally tailored stress relief interventions could play a crucial role in preserving cognitive health among aging populations. However, the study's focus on a specific ethnic group limits generalization to other populations, which represents a notable limitation of the research.\n\n##",
+      "keyPoints": [
+        "**내재화된 스트레스의 영향** / Internalized stress significantly accelerates memory decline, particularly through feelings of hopelessness rather than overt stressors",
+        "**문화적 맥락의 중요성** / Cultural pressures and stereotypes cause emotional distress to go unrecognized and untreated in certain communities",
+        "**외부 지원의 한계** / Community support factors showed unexpectedly minimal protective effects on cognitive health outcomes",
+        "**문화민감적 개입의 필요성** / Targeted, culturally-sensitive mental health interventions are essential for preserving cognitive function in aging populations"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260427050626.htm",
+      "featured": false
+    },
     {
       "id": "9756061e1742",
       "tag": "psych",
@@ -21,7 +105,7 @@
         "**청소년기 뇌 발달의 중요성** / Significance of adolescent brain development: 청소년기는 뇌의 기능적 특화가 일어나는 중요한 발달 시기임을 강조"
       ],
       "url": "https://www.psypost.org/brain-halves-become-less-alike-as-kids-grow-especially-in-highly-intelligent-tee/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "58bfaa6cff9f",
@@ -336,90 +420,6 @@
         "**에너지 시장 안정성 개선** / Energy Market Stability Improvement: 정확한 가격 예측을 통해 에너지 시장의 투명성, 안정성, 거래 효율성 향상에 기여 가능"
       ],
       "url": "https://arxiv.org/abs/2604.24788",
-      "featured": false
-    },
-    {
-      "id": "5dbdf0f2cb2f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "12시간 전 / 12h ago",
-      "title": "Neuronal electricality founded in murburn-thermodynamic principles: 1. Background and basic theoretical formulation",
-      "titleKo": "신경세포 전기 현상의 뮤르번-열역학적 원리 기초: 1. 배경 및 기본 이론 공식화",
-      "summary": "arXiv:2604.24772v1 Announce Type: new Abstract: Trans-membrane gradients and fluxes of cations (H+, Na+, K+, etc.) were deemed to be the rationale of electrical activities of aerobic cells/organelles, as per classical perceptions. Murburn concept (an umbrella of theorization based in stochastic redox processes) has afforded novel models for various metabolic, bioenergetic and electrophysiological outcomes. Herein, the foundational mechanistic formalisms for the electrical activities of neurons that lead signal relay along the axonal length are provided. Electron Holding potential (EHP), a dime",
-      "aiSummary": "This research re-examines the fundamental mechanisms of how electrical activities are generated in neurons and how signals are transmitted along axons. Traditionally, neuronal electrical activity has been explained by concentration gradients and fluxes of cations (H⁺, Na⁺, K⁺, etc.) across cell membranes. This study presents a novel theoretical framework based on the \"murburn\" concept, which encompasses theorization founded on stochastic redox processes. It provides mathematical formalization explaining neuronal electrical activities using murburn-thermodynamic principles and introduces a new concept called \"Electron Holding Potential (EHP).\" This research could offer novel perspectives in neurophysiology, neuropharmacology, and neurodegenerative disease research. However, it has limitations including lack of detailed comparative validation with existing ion channel theory and insufficient experimental evidence.\n\n##",
-      "aiSummaryKo": "이 연구는 신경세포의 전기활동이 어떻게 발생하고 신호가 축삭을 따라 전달되는지에 대한 기본 메커니즘을 재검토합니다. 전통적으로 신경세포의 전기활동은 세포막을 통한 양이온(H⁺, Na⁺, K⁺ 등)의 농도 차이와 흐름으로 설명되어 왔습니다. 본 연구는 \"뮤번(murburn)\" 개념이라 불리는 확률적 산화환원 과정을 기반으로 한 새로운 이론적 틀을 제시합니다. 뮤번 열역학 원리를 적용하여 신경세포의 전기활동을 설명하는 수학적 공식화를 제공하며, '전자 보유 전위(Electron Holding Potential, EHP)'라는 새로운 개념을 도입합니다. 이 연구는 신경생리학, 신경약리학, 신경퇴행성질환 연구에 새로운 관점을 제공할 수 있습니다. 다만, 기존 이온통로 이론과의 상세한 비교검증이나 실험적 증거가 부족한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research re-examines the fundamental mechanisms of how electrical activities are generated in neurons and how signals are transmitted along axons. Traditionally, neuronal electrical activity has been explained by concentration gradients and fluxes of cations (H⁺, Na⁺, K⁺, etc.) across cell membranes. This study presents a novel theoretical framework based on the \"murburn\" concept, which encompasses theorization founded on stochastic redox processes. It provides mathematical formalization explaining neuronal electrical activities using murburn-thermodynamic principles and introduces a new concept called \"Electron Holding Potential (EHP).\" This research could offer novel perspectives in neurophysiology, neuropharmacology, and neurodegenerative disease research. However, it has limitations including lack of detailed comparative validation with existing ion channel theory and insufficient experimental evidence.\n\n##",
-      "keyPoints": [
-        "**기존 이론의 재검토** / Re-examination of conventional theory",
-        "**새로운 개념 도입** / Introduction of new concept",
-        "**통합적 설명 모델** / Integrative explanatory model",
-        "**향후 적용 가능성** / Future applicability potential"
-      ],
-      "url": "https://arxiv.org/abs/2604.24772",
-      "featured": false
-    },
-    {
-      "id": "b3f8a1eaf1f5",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "12시간 전 / 12h ago",
-      "title": "One-shot emergency psychiatric triage across 15 frontier AI chatbots",
-      "titleKo": "15개 AI 챗봇의 응급 정신과 분류: 원샷 평가\n\n또는\n\n15개 프론티어 AI 챗봇의 응급 정신과 진료 분류 일회 평가",
-      "summary": "arXiv:2604.25415v1 Announce Type: new Abstract: AI chatbots are increasingly used for health advice, but their performance in psychiatric triage remains undercharacterized. Psychiatric triage is particularly challenging because urgency must often be inferred from thoughts, behavior, and context rather than from objective findings. We evaluated the performance of 15 frontier AI chatbots on psychiatric triage from realistic single-message disclosures using 112 clinical vignettes, each paired with 1 of 4 original benchmark triage labels: A, routine; B, assessment within 1 week; C, assessment with",
-      "aiSummary": "This study evaluated whether 15 state-of-the-art AI chatbots can accurately assess the urgency of psychiatric patients, as these tools are increasingly used for health advice. Psychiatric emergency triage is particularly challenging because clinicians must infer urgency from patients' thoughts, behaviors, and context without objective medical findings. The research assessed the performance of these AI chatbots using 112 clinical vignettes based on realistic single-message patient disclosures, with each case assigned to one of four benchmark triage categories: A (routine observation), B (assessment within 1 week), C (urgent assessment), and D (emergency intervention). The findings revealed specific accuracy levels and limitations in how current AI chatbots handle psychiatric emergency classification. This research is significant as it highlights potential risks and reliability concerns when deploying AI in mental health—a domain where diagnostic accuracy is critical. A key limitation is that the single-message evaluation format may not fully capture the complexity and nuance of real clinical environments.\n\n##",
-      "aiSummaryKo": "본 연구는 의료 조언 제공에 점점 더 많이 사용되는 AI 챗봇들이 정신건강 환자의 긴급도를 얼마나 정확하게 판단할 수 있는지를 평가했습니다. 정신건강 응급 분류(psychiatric triage)는 객관적 의료 지표 없이 환자의 생각, 행동, 상황만으로 긴급도를 판단해야 하기 때문에 특히 도전적입니다. 연구팀은 15개의 최신 AI 챗봇을 대상으로 112개의 임상 사례를 바탕으로 실제 단일 메시지 형태의 환자 공개 정보에 대한 응급 분류 성능을 평가했으며, 각 사례에는 \"정기적 관찰(A)\", \"1주일 내 진료(B)\", \"긴급 평가 필요(C)\" 등 4가지 벤치마크 분류 기준이 적용되었습니다. 연구 결과는 현재 AI 챗봇들의 정신건강 응급 상황 판단 능력의 정확도와 한계를 구체적으로 드러냈습니다. 이 연구는 의료 AI의 신뢰성과 안전성이 중요한 정신건강 분야에서 AI 활용의 위험성을 경고하는 데 의의가 있습니다. 다만, 단일 메시지 기반 평가로 인해 실제 임상 환경의 복잡성을 완전히 반영하지 못했다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This study evaluated whether 15 state-of-the-art AI chatbots can accurately assess the urgency of psychiatric patients, as these tools are increasingly used for health advice. Psychiatric emergency triage is particularly challenging because clinicians must infer urgency from patients' thoughts, behaviors, and context without objective medical findings. The research assessed the performance of these AI chatbots using 112 clinical vignettes based on realistic single-message patient disclosures, with each case assigned to one of four benchmark triage categories: A (routine observation), B (assessment within 1 week), C (urgent assessment), and D (emergency intervention). The findings revealed specific accuracy levels and limitations in how current AI chatbots handle psychiatric emergency classification. This research is significant as it highlights potential risks and reliability concerns when deploying AI in mental health—a domain where diagnostic accuracy is critical. A key limitation is that the single-message evaluation format may not fully capture the complexity and nuance of real clinical environments.\n\n##",
-      "keyPoints": [
-        "**AI 챗봇의 정신건강 응급 판단 능력 평가** / Assessment of AI chatbots' psychiatric emergency triage capabilities",
-        "**객관적 지표 부재의 어려움** / Challenge of inferring urgency without objective findings",
-        "**다단계 분류 체계 적용** / Multi-level triage classification system",
-        "**의료 AI의 신뢰성과 임상 안전성 문제** / Clinical safety concerns of medical AI reliability"
-      ],
-      "url": "https://arxiv.org/abs/2604.25415",
-      "featured": false
-    },
-    {
-      "id": "5f734647af17",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "12시간 전 / 12h ago",
-      "title": "A geometry aware framework enhances noninvasive mapping of whole human brain dynamics",
-      "titleKo": "기하학적 특성을 고려한 프레임워크가 인간 뇌 전체 동역학의 비침습적 매핑을 향상시킨다",
-      "summary": "arXiv:2604.25592v1 Announce Type: new Abstract: Non-invasive electrophysiology lacks methods that accurately reconstruct whole-brain spatiotemporal dynamics while incorporating individual cortical geometry, leaving current electroencephalography and magnetoencephalography source imaging limited by simplistic or biologically implausible priors. Here, we show that embedding participant-specific Geometric Basis Functions (GBFs), eigenmodes derived from each individual's cortical surface, provides a powerful anatomic constraint that resolves the inverse problem and improves reconstruction fidelity",
-      "aiSummary": "Non-invasive brain measurement techniques like EEG and MEG have struggled to accurately capture whole-brain activity simultaneously due to methodological limitations. Researchers developed \"Geometric Basis Functions (GBFs),\" a novel approach that incorporates each participant's individual cortical surface geometry to solve this problem. This method utilizes unique wave patterns derived from each person's brain surface to more accurately reconstruct neural signals. Results demonstrated significantly improved accuracy in brain activity reconstruction compared to conventional simplified models, enabling biologically plausible signal analysis. This technology has practical applications in diagnosing epilepsy and brain function research. However, challenges remain regarding the complexity of individual brain imaging data collection and computational costs for clinical implementation.\n\n##",
-      "aiSummaryKo": "뇌 활동을 비침습적으로 측정하는 뇌파(EEG)와 자기뇌파(MEG) 기술은 전체 뇌의 동시 활동을 정확히 파악하기 어려운 한계가 있었습니다. 연구팀은 개별 참가자의 뇌 피질 표면 기하학적 특성을 반영한 '기하학적 기저함수(GBF)'라는 새로운 방법을 개발했습니다. 이 방법은 각 개인의 뇌 표면 고유의 파동 패턴을 활용하여 뇌 신호를 더 정확하게 재구성합니다. 연구 결과 기존의 단순화된 모델보다 뇌 활동 복원 정확도가 크게 향상되었으며, 생물학적으로 타당한 뇌 신호 분석이 가능해졌습니다. 이 기술은 간질, 뇌전증 진단이나 뇌 기능 연구에 실질적으로 적용될 수 있습니다. 다만 개별 뇌 영상 데이터 수집의 복잡성과 계산 비용이 임상 현장 도입의 과제로 남아있습니다.\n\n##",
-      "aiSummaryEn": "Non-invasive brain measurement techniques like EEG and MEG have struggled to accurately capture whole-brain activity simultaneously due to methodological limitations. Researchers developed \"Geometric Basis Functions (GBFs),\" a novel approach that incorporates each participant's individual cortical surface geometry to solve this problem. This method utilizes unique wave patterns derived from each person's brain surface to more accurately reconstruct neural signals. Results demonstrated significantly improved accuracy in brain activity reconstruction compared to conventional simplified models, enabling biologically plausible signal analysis. This technology has practical applications in diagnosing epilepsy and brain function research. However, challenges remain regarding the complexity of individual brain imaging data collection and computational costs for clinical implementation.\n\n##",
-      "keyPoints": [
-        "**기하학적 개인화 방법** / Geometrically Personalized Approach: 각 개인의 고유한 뇌 피질 형태를 반영한 기하학적 기저함수(GBF) 개발로 뇌신호 재구성 정확도 향상",
-        "**역문제 해결** / Inverse Problem Resolution: 뇌파/자기뇌파 신호로부터 전체 뇌 활동을 정확히 역추적하는 수학적 문제를 생물학적으로 타당한 방식으로 해결",
-        "**생물학적 타당성** / Biological Plausibility: 단순한 통계 모델 대신 실제 뇌 해부학적 구조를 기반으로 한 제약조건 적용으로 신뢰성 증대",
-        "**임상 응용 가능성** / Clinical Applications: 간질 진단, 뇌 기능 지도화, 신경질환 모니터링 등 다양한 의료 분야에서의 활용 전망"
-      ],
-      "url": "https://arxiv.org/abs/2604.25592",
-      "featured": false
-    },
-    {
-      "id": "abed350b8e1f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "12시간 전 / 12h ago",
-      "title": "Independent-Component-Based Encoding Models of Brain Activity During Story Comprehension",
-      "titleKo": "이야기 이해 중 뇌 활동의 독립 성분 기반 인코딩 모델",
-      "summary": "arXiv:2604.24942v1 Announce Type: cross Abstract: Encoding models provide a powerful framework for linking continuous stimulus features to neural activity; however, traditional voxelwise approaches are limited by measurement noise, inter-subject variability, and redundancy arising from spatially correlated voxels encoding overlapping neural signals. Here, we propose an independent component (IC)-based encoding framework that dissociates stimulus-driven and noise-driven signals in fMRI data. We decompose continuous fMRI data from naturalistic story listening into ICs using one subset of the dat",
-      "aiSummary": "This study proposes a novel analytical framework to better understand the relationship between brain activity and external stimuli (narrative stories). Traditional neuroimaging approaches have been limited by measurement noise, inter-subject variability, and overlapping neural signals from spatially correlated brain regions. The researchers developed a method using Independent Component Analysis to decompose fMRI data and separate stimulus-driven signals from noise-driven components. They analyzed brain activity data collected while participants listened to stories, dividing the data into two portions—one for building the analytical model and the other for validation. This novel approach is expected to provide better explanations of how the brain responds to naturalistic stimuli like storytelling. However, the research is in its early stages and requires further validation across diverse brain regions and larger participant samples.\n\n##",
-      "aiSummaryKo": "이 연구는 뇌 활동과 외부 자극(스토리)의 관계를 더 정확하게 파악하기 위한 새로운 분석 방법을 제안합니다. 기존의 뇌 영상 분석 방식은 측정 오류, 개인차, 그리고 뇌의 같은 부위에서 겹쳐서 나타나는 신호들로 인해 정확도가 낮았습니다. 연구팀은 독립성분분석(Independent Component Analysis)이라는 통계 기법을 사용하여 fMRI 데이터를 분해하고, 이를 통해 실제 자극에 반응하는 신호와 잡음을 분리하는 방법을 개발했습니다. 연구자들은 사람들이 스토리를 듣는 동안의 뇌 활동 데이터를 두 부분으로 나누어, 한 부분으로 분석 모델을 만들고 다른 부분으로 검증했습니다. 이 새로운 방법은 스토리 같은 자연스러운 자극에 대한 뇌의 반응을 더 잘 설명할 수 있을 것으로 기대됩니다. 다만, 이 연구는 아직 초기 단계이며 다양한 뇌 영역과 더 많은 참가자를 대상으로 한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study proposes a novel analytical framework to better understand the relationship between brain activity and external stimuli (narrative stories). Traditional neuroimaging approaches have been limited by measurement noise, inter-subject variability, and overlapping neural signals from spatially correlated brain regions. The researchers developed a method using Independent Component Analysis to decompose fMRI data and separate stimulus-driven signals from noise-driven components. They analyzed brain activity data collected while participants listened to stories, dividing the data into two portions—one for building the analytical model and the other for validation. This novel approach is expected to provide better explanations of how the brain responds to naturalistic stimuli like storytelling. However, the research is in its early stages and requires further validation across diverse brain regions and larger participant samples.\n\n##",
-      "keyPoints": [
-        "**새로운 분석 방법** / Novel analytical approach: 기존의 복셀 기반(voxelwise) 인코딩 모델의 한계를 극복하기 위해 독립성분분석 기반의 새로운 프레임워크 제안",
-        "**신호와 잡음 분리** / Signal-noise dissociation: fMRI 데이터에서 자극 유도 신호와 잡음 유도 신호를 효과적으로 구분하여 분석의 정확도 향상",
-        "**자연스러운 자극 활용** / Naturalistic stimulus: 스토리 청취라는 일상적이고 자연스러운 상황에서의 뇌 활동 분석으로 실제 환경에서의 뇌 작동 메커니즘 규명",
-        "**개별 차이 고려** / Individual differences consideration: 측정 오류와 개인차로 인한 신경다양성을 보정하여 더 신뢰할 수 있는 뇌-자극 관계 규명 가능"
-      ],
-      "url": "https://arxiv.org/abs/2604.24942",
       "featured": false
     }
   ]
