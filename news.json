@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-30T15:15:32.652008+00:00",
+  "updated": "2026-04-30T17:27:05.800482+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "cacfd36a55fc",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Regular sex is linked to fewer daily menopause symptoms, survey finds",
+      "titleKo": "정기적인 성관계가 폐경 증상 완화와 관련이 있다는 조사 결과",
+      "summary": "A recent survey of middle-aged and older Japanese women shows that maintaining a regular sex life is linked to lower odds of experiencing dryness, irritation, and pain in the pelvic region during everyday activities.",
+      "aiSummary": "A recent survey of middle-aged and older Japanese women reveals that maintaining a regular sexual life is associated with reduced odds of experiencing menopausal symptoms. The research specifically examined the frequency of pelvic-related symptoms such as dryness, irritation, and pain during daily activities in menopausal women. Researchers found that women who maintained regular sexual activity had significantly lower rates of experiencing these bothersome menopausal symptoms compared to those without regular sexual activity. This finding is significant because it suggests a new lifestyle intervention approach for managing menopausal symptoms. However, the study has limitations as it is survey-based and cannot definitively establish causation, and the sample was limited to women from a specific cultural context (Japan). Further research involving diverse populations and regions would be needed to validate these findings.\n\n##",
+      "aiSummaryKo": "최근 일본의 중년 이상 여성을 대상으로 한 설문조사에서 규칙적인 성생활이 폐경기 증상 완화와 관련이 있다는 연구 결과가 발표되었다. 이 연구는 폐경기 여성들의 일상생활에서 경험하는 건조증, 자극감, 통증 등 골반 부위 증상의 빈도를 조사했다. 연구팀은 규칙적인 성생활을 유지하는 여성들이 그렇지 않은 여성들에 비해 이러한 폐경기 증상을 경험할 확률이 현저히 낮다는 것을 발견했다. 이 결과는 폐경기 증상 관리의 새로운 생활 습관 개입 방법을 제시한다는 점에서 의의가 있다. 다만, 이 연구는 설문조사 기반이어서 인과관계를 명확히 입증하지 못했으며, 특정 문화권의 여성만을 대상으로 했다는 한계가 있다. 향후 더 다양한 지역과 인구집단을 포함한 추가 연구가 필요하다.\n\n##",
+      "aiSummaryEn": "A recent survey of middle-aged and older Japanese women reveals that maintaining a regular sexual life is associated with reduced odds of experiencing menopausal symptoms. The research specifically examined the frequency of pelvic-related symptoms such as dryness, irritation, and pain during daily activities in menopausal women. Researchers found that women who maintained regular sexual activity had significantly lower rates of experiencing these bothersome menopausal symptoms compared to those without regular sexual activity. This finding is significant because it suggests a new lifestyle intervention approach for managing menopausal symptoms. However, the study has limitations as it is survey-based and cannot definitively establish causation, and the sample was limited to women from a specific cultural context (Japan). Further research involving diverse populations and regions would be needed to validate these findings.\n\n##",
+      "keyPoints": [
+        "**폐경기 증상 완화**: 규칙적인 성생활이 건조증, 자극감, 통증 등 폐경기 증상 감소와 관련 / Regular sexual activity is associated with reduced menopausal symptoms including dryness, irritation, and pelvic pain",
+        "**생활습관 개입의 가능성**: 약물 치료 외 폐경기 증상 관리를 위한 비의약적 접근법 제시 / Suggests a non-pharmaceutical lifestyle intervention strategy for managing menopausal symptoms alongside traditional medical treatments",
+        "**연구 방법의 한계**: 설문조사 기반 연구로 인과관계 입증 부족 및 특정 문화권(일본) 여성만 대상 / Survey-based methodology limits causal inference and findings are specific to Japanese women, requiring validation in diverse populations",
+        "**추가 연구의 필요성**: 다양한 지역과 문화권, 넓은 표본의 후속 연구 필요 / Further rigorous studies with larger and more diverse international samples needed to confirm findings and understand underlying mechanisms"
+      ],
+      "url": "https://www.psypost.org/regular-sex-is-linked-to-fewer-daily-menopause-symptoms-survey-finds/",
+      "featured": true
+    },
+    {
+      "id": "f9836e594358",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "13시간 전 / 13h ago",
+      "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
+      "titleKo": "사용자 행동 로그로부터의 계층적 다중 페르소나 유도: 증거 기반의 신뢰성 있는 페르소나 학습",
+      "summary": "arXiv:2604.26120v1 Announce Type: new Abstract: Behavioral logs provide rich signals for user modeling, but are noisy and interleaved across diverse intents. Recent work uses LLMs to generate interpretable natural-language personas from user logs, yet evaluation often emphasizes downstream utility, providing limited assurance of persona quality itself. We propose a hierarchical framework that aggregates user actions into intent memories and induces multiple evidence-grounded personas by clustering and labeling these memories. We formulate persona induction as an optimization problem over perso",
+      "aiSummary": "This research proposes a hierarchical framework for automatically generating trustworthy user personas from behavioral log data. While previous studies used large language models (LLMs) to create natural language personas, they lacked sufficient validation of persona quality itself. The research team developed a hierarchical approach that first classifies diverse user behaviors into intent-specific memories, then generates multiple evidence-grounded personas through clustering and labeling these memories. The method formalizes persona induction as an optimization problem, ensuring that generated personas are grounded in actual user behavioral data. The significance lies in enabling direct validation of persona quality itself, rather than relying solely on downstream task performance evaluation. However, the provided abstract summary lacks specific experimental results, dataset scale, and performance improvement metrics that would indicate research limitations.\n\n##",
+      "aiSummaryKo": "본 연구는 사용자의 행동 로그 데이터로부터 신뢰할 수 있는 사용자 페르소나(persona)를 자동으로 생성하는 방법을 제안합니다. 기존 연구들은 대규모 언어모델(LLM)을 활용하여 자연어 형태의 페르소나를 만들었지만, 페르소나 자체의 품질을 충분히 검증하지 못했다는 한계가 있었습니다. 연구팀은 계층적 프레임워크를 개발하여 사용자의 다양한 행동들을 의도별 메모리(intent memories)로 먼저 분류한 후, 이들을 클러스터링하고 라벨링하여 여러 개의 증거 기반 페르소나를 생성했습니다. 이 접근법은 페르소나 생성을 최적화 문제로 공식화하여 생성된 페르소나가 실제 사용자 행동 데이터에 근거하도록 보장합니다. 연구의 의의는 단순한 다운스트림 성능 평가 대신, 페르소나 품질 자체를 직접 검증할 수 있다는 점입니다. 다만 현재 제시된 요약만으로는 구체적인 실험 결과나 데이터셋 규모, 성능 개선 수치 등의 한계 정보가 불충분합니다.\n\n##",
+      "aiSummaryEn": "This research proposes a hierarchical framework for automatically generating trustworthy user personas from behavioral log data. While previous studies used large language models (LLMs) to create natural language personas, they lacked sufficient validation of persona quality itself. The research team developed a hierarchical approach that first classifies diverse user behaviors into intent-specific memories, then generates multiple evidence-grounded personas through clustering and labeling these memories. The method formalizes persona induction as an optimization problem, ensuring that generated personas are grounded in actual user behavioral data. The significance lies in enabling direct validation of persona quality itself, rather than relying solely on downstream task performance evaluation. However, the provided abstract summary lacks specific experimental results, dataset scale, and performance improvement metrics that would indicate research limitations.\n\n##",
+      "keyPoints": [
+        "**계층적 페르소나 생성 프레임워크** / Hierarchical framework for multi-persona induction that aggregates user actions into intent-based memories before generating personas",
+        "**증거 기반 신뢰성 확보** / Evidence-grounded approach ensuring generated personas are directly rooted in actual user behavioral logs, not speculative",
+        "**페르소나 품질 직접 평가** / Shift from downstream utility evaluation to direct assessment of persona quality itself, addressing previous methodological limitations",
+        "**최적화 문제 공식화** / Formulation of persona induction as an optimization problem enabling systematic and scalable persona generation from diverse user intents"
+      ],
+      "url": "https://arxiv.org/abs/2604.26120",
+      "featured": false
+    },
+    {
+      "id": "f9a442aeb34b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "13시간 전 / 13h ago",
+      "title": "A Multimodal and Explainable Machine Learning Approach to Diagnosing Multi-Class Ejection Fraction from Electrocardiograms",
+      "titleKo": "심전도로부터 다중 분류 좌심실 박출률을 진단하기 위한 멀티모달 및 설명 가능한 머신러닝 접근법",
+      "summary": "arXiv:2604.25942v1 Announce Type: new Abstract: Left ventricular ejection fraction (LVEF) assessment depends on echocardiography, limiting access in primary care and resource-constrained settings. We developed a multimodal machine-learning framework that combines engineered 12-lead ECG timeseries features with structured EHR variables to classify LVEF into four clinically used strata: normal (>50%), mildly reduced (40-50%), moderately reduced (30-40%), and severely reduced (<30%). To support model explainability, we identified the most influential ECG and EHR features via SHAP attributions. Us",
+      "aiSummary": "Left ventricular ejection fraction (LVEF) assessment, a critical indicator of cardiac health, currently relies exclusively on echocardiography, limiting accessibility in primary care and resource-constrained settings. Researchers developed a multimodal machine-learning framework that integrates 12-lead electrocardiogram (ECG) time-series data with electronic health records (EHR) variables to classify LVEF into four clinically-used categories: normal (>50%), mildly reduced (40-50%), moderately reduced (30-40%), and severely reduced (<30%). The team employed SHAP attribution analysis to identify the most influential ECG and EHR features, addressing the \"black box\" problem of artificial intelligence by ensuring model explainability. This approach has significant potential to improve access to heart failure diagnosis in primary care settings and resource-limited regions. However, limitations include the need for validation in real clinical environments and evaluation across diverse racial and demographic populations.\n\n##",
+      "aiSummaryKo": "좌심실 박출률(LVEF)은 심장 건강의 중요한 지표이지만, 현재는 심초음파 검사에만 의존하고 있어 의료 접근성이 제한적입니다. 연구팀은 12개 전극이 달린 심전도(ECG)의 시계열 데이터와 환자 전자의무기록(EHR)을 결합한 다중모드 머신러닝 모델을 개발했습니다. 이 모델은 심장 박출률을 4가지 임상 단계—정상(>50%), 경증(40-50%), 중등증(30-40%), 중증(<30%)—로 분류할 수 있습니다. 연구팀은 SHAP 분석 기법을 사용하여 모델이 어떤 ECG 및 EHR 특성을 기반으로 판단했는지 명확히 규명함으로써 인공지능의 '블랙박스' 문제를 해결했습니다. 이 접근법은 일차의료나 의료 자원이 부족한 지역에서 심부전 진단의 접근성을 크게 높일 수 있는 잠재력을 가집니다. 다만, 실제 임상 환경에서의 검증이 필요하며, 다양한 인종 및 인구집단에 대한 모델 성능 평가도 후속 과제입니다.\n\n##",
+      "aiSummaryEn": "Left ventricular ejection fraction (LVEF) assessment, a critical indicator of cardiac health, currently relies exclusively on echocardiography, limiting accessibility in primary care and resource-constrained settings. Researchers developed a multimodal machine-learning framework that integrates 12-lead electrocardiogram (ECG) time-series data with electronic health records (EHR) variables to classify LVEF into four clinically-used categories: normal (>50%), mildly reduced (40-50%), moderately reduced (30-40%), and severely reduced (<30%). The team employed SHAP attribution analysis to identify the most influential ECG and EHR features, addressing the \"black box\" problem of artificial intelligence by ensuring model explainability. This approach has significant potential to improve access to heart failure diagnosis in primary care settings and resource-limited regions. However, limitations include the need for validation in real clinical environments and evaluation across diverse racial and demographic populations.\n\n##",
+      "keyPoints": [
+        "**다중모드 AI 진단**: ECG 시계열 데이터와 EHR 정보를 통합하여 심박출률을 정상/경증/중등증/중증 4단계로 분류 / Multimodal AI combines ECG timeseries and EHR data to classify LVEF into four clinical categories",
+        "**투명성 확보**: SHAP 분석으로 모델의 의사결정 근거를 명확히 규명하여 의사의 신뢰도 향상 / SHAP attribution ensures model explainability and builds clinical trust by identifying key diagnostic features",
+        "**의료 접근성 개선**: 심초음파 검사 없이 ECG만으로 심부전 진단 가능, 1차 의료기관이나 저소득 지역에 활용 가능 / Enables heart failure assessment without echocardiography, improving accessibility in primary care and underserved regions",
+        "**임상 검증 필요**: 실제 환자군 및 다양한 인구에 대한 추가 연구 필요 / Further validation needed in diverse clinical populations and demographic groups"
+      ],
+      "url": "https://arxiv.org/abs/2604.25942",
+      "featured": false
+    },
+    {
+      "id": "6d042f3f86ca",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "13시간 전 / 13h ago",
+      "title": "A Randomized PDE Energy driven Iterative Framework for Efficient and Stable PDE Solutions",
+      "titleKo": "효율적이고 안정적인 편미분방정식 해를 위한 무작위화 에너지 기반 반복 프레임워크",
+      "summary": "arXiv:2604.25943v1 Announce Type: new Abstract: Efficient and stable solution of partial differential equations (PDEs) is central to scientific and engineering applications, yet existing numerical solvers rely heavily on matrix based discretizations, while learning based methods require costly training and often suffer from limited generalization. In this work, we proposes a PDE energy driven framework that solves PDEs through physically constrained diffusion iterations, without relying on classical matrix based finite element assembly or data driven neural network training. The proposed metho",
+      "aiSummary": "This study proposes a novel framework for efficiently and stably solving partial differential equations (PDEs), a fundamental problem in scientific and engineering applications. Traditional matrix-based numerical methods require extensive computational resources, while data-driven deep learning approaches suffer from high training costs and poor generalization. The research team developed a new approach using physics-constrained diffusion iterations to solve PDEs without relying on classical finite element matrix assembly or neural network training. This method leverages PDE energy as a driving force for iterative solutions. The framework enables faster and more stable simulations of complex physical phenomena in science and engineering. However, further validation of its applicability across diverse problem types and performance comparison with existing methods is needed.\n\n##",
+      "aiSummaryKo": "본 연구는 편미분방정식(PDE)을 효율적이고 안정적으로 풀기 위한 새로운 프레임워크를 제안합니다. 기존의 행렬 기반 수치해석 방법은 계산량이 많고, 딥러닝 기반 방법은 학습 비용이 크고 일반화 성능이 떨어지는 문제가 있었습니다. 연구팀은 물리적 제약 조건을 활용한 확산 반복 과정을 통해 PDE를 풀 수 있는 새로운 방식을 개발했습니다. 이 방법은 전통적인 유한요소법 행렬 계산이나 신경망 학습 없이도 PDEs를 해결할 수 있다는 점이 특징입니다. 이 접근 방식은 과학 및 공학 분야의 복잡한 물리 시뮬레이션을 더 빠르고 안정적으로 수행할 수 있게 해줍니다. 다만, 이 방법의 실제 적용 범위와 다양한 문제 유형에 대한 성능 검증이 추가로 필요합니다.\n\n##",
+      "aiSummaryEn": "This study proposes a novel framework for efficiently and stably solving partial differential equations (PDEs), a fundamental problem in scientific and engineering applications. Traditional matrix-based numerical methods require extensive computational resources, while data-driven deep learning approaches suffer from high training costs and poor generalization. The research team developed a new approach using physics-constrained diffusion iterations to solve PDEs without relying on classical finite element matrix assembly or neural network training. This method leverages PDE energy as a driving force for iterative solutions. The framework enables faster and more stable simulations of complex physical phenomena in science and engineering. However, further validation of its applicability across diverse problem types and performance comparison with existing methods is needed.\n\n##",
+      "keyPoints": [
+        "**새로운 계산 패러다임** / Novel Computational Paradigm: 기존의 행렬 기반 방법과 딥러닝 방법을 벗어나 물리적 에너지 제약 조건을 기반으로 하는 새로운 PDE 해결 방식 제안",
+        "**계산 효율성 증대** / Improved Computational Efficiency: 복잡한 유한요소법 행렬 계산과 신경망 학습 없이 PDE를 풀어 계산 시간과 비용 감소",
+        "**물리적 안정성 보장** / Physical Stability Guaranteed: 확산 반복 과정이 물리적 제약 조건으로 보호되어 수치적으로 안정적인 해를 제공",
+        "**일반화 가능성** / Enhanced Generalization: 특정 문제에 대한 학습 없이 다양한 PDE 문제에 적용 가능한 범용 접근 방식"
+      ],
+      "url": "https://arxiv.org/abs/2604.25943",
+      "featured": false
+    },
+    {
+      "id": "6fea7276c7e0",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "13시간 전 / 13h ago",
+      "title": "A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication",
+      "titleKo": "그래프 신경망 기반 통신을 이용한 다중 에이전트 심화 강화학습 조사",
+      "summary": "arXiv:2604.25972v1 Announce Type: new Abstract: In multi-agent reinforcement learning (MARL), the integration of a communication mechanism, allowing agents to better learn to coordinate their actions and converge on their objectives by sharing information. Based on an interaction graph, a subclass of methods employs graph neural networks (GNNs) to learn the communication, enabling agents to improve their internal representations by enriching them with information exchanged. With growing research, we note a lack of explicit structure and framework to distinguish and classify MARL approaches wit",
+      "aiSummary": "This paper addresses the importance of communication mechanisms among agents in multi-agent reinforcement learning (MARL). The research team investigates how graph neural networks (GNNs) can facilitate agent communication based on interaction graphs, enabling agents to enhance their internal representations through information exchange and improve coordination. This approach allows agents to converge more effectively on their objectives through shared information. While MARL research utilizing GNN-based communication is growing, there is a lack of systematic framework and structure to clearly distinguish and classify these diverse approaches. The significance of this survey lies in providing a coherent classification system for these methodologies in the field. However, the limitation is that the paper emphasizes literature review rather than specific experimental data or quantitative performance comparisons. This framework is expected to serve as a guide for researchers in the MARL field to select optimal communication mechanisms.\n\n##",
+      "aiSummaryKo": "본 논문은 다중 에이전트 강화학습(MARL) 분야에서 에이전트 간 통신 메커니즘의 중요성을 다루고 있습니다. 연구팀은 그래프 신경망(GNN)을 활용하여 에이전트들이 상호작용 그래프를 기반으로 정보를 교환하고 협력 능력을 향상시키는 방법을 조사했습니다. 이 접근 방식을 통해 에이전트들은 공유된 정보로 내부 표현을 강화하여 목표 달성에 더 효과적으로 수렴할 수 있습니다. 현재까지 GNN 기반 통신을 활용한 MARL 연구들이 증가하고 있으나, 다양한 접근 방식들을 체계적으로 분류하고 구조화한 프레임워크가 부족한 상태입니다. 본 조사 논문의 의의는 이러한 방법론들을 명확하게 구분하고 분류하는 체계를 제시하는 데 있습니다. 다만, 논문이 특정 실험 데이터나 정량적 성능 비교보다는 문헌 조사에 중점을 두고 있다는 한계가 있습니다. 향후 이 체계는 MARL 분야의 연구자들이 최적의 통신 메커니즘을 선택하는 데 지침이 될 것으로 기대됩니다.\n\n##",
+      "aiSummaryEn": "This paper addresses the importance of communication mechanisms among agents in multi-agent reinforcement learning (MARL). The research team investigates how graph neural networks (GNNs) can facilitate agent communication based on interaction graphs, enabling agents to enhance their internal representations through information exchange and improve coordination. This approach allows agents to converge more effectively on their objectives through shared information. While MARL research utilizing GNN-based communication is growing, there is a lack of systematic framework and structure to clearly distinguish and classify these diverse approaches. The significance of this survey lies in providing a coherent classification system for these methodologies in the field. However, the limitation is that the paper emphasizes literature review rather than specific experimental data or quantitative performance comparisons. This framework is expected to serve as a guide for researchers in the MARL field to select optimal communication mechanisms.\n\n##",
+      "keyPoints": [
+        "**다중 에이전트 협력의 핵심**: 에이전트 간 통신 메커니즘이 정보 공유와 목표 수렴을 가능하게 함 / **Core of Multi-Agent Cooperation**: Communication mechanisms enable information sharing and objective convergence among agents",
+        "**GNN의 역할**: 그래프 신경망을 통해 상호작용 그래프 기반의 지능형 통신 학습이 가능해짐 / **GNN's Role**: Graph neural networks enable intelligent communication learning based on interaction graphs",
+        "**분류 체계의 필요성**: 급증하는 GNN 기반 MARL 방법들을 체계적으로 구분하고 정리하는 프레임워크 부재 / **Need for Classification System**: Lack of systematic framework to distinguish rapidly growing GNN-based MARL approaches",
+        "**실무적 기여**: 연구자들이 문제 특성에 맞는 최적의 통신 방식 선택 기준 제공 / **Practical Contribution**: Providing criteria for researchers to select optimal communication methods suited to problem characteristics"
+      ],
+      "url": "https://arxiv.org/abs/2604.25972",
+      "featured": false
+    },
     {
       "id": "beb16cc30a1c",
       "tag": "psych",
@@ -21,7 +126,7 @@
         "특정 조건에서 가로 줄무늬가 더 효과적일 수 있음을 입증"
       ],
       "url": "https://www.psypost.org/science-debunks-the-fashion-myth-that-vertical-stripes-are-always-slimming/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "664d7679f68d",
@@ -315,111 +420,6 @@
         "**공학적 설계의 복잡성** / Complexity of Engineering Design Trade-offs"
       ],
       "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
-      "featured": false
-    },
-    {
-      "id": "e725cb189284",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "A hidden map in your nose could explain how smell works",
-      "titleKo": "냄새 작용 방식을 설명할 수 있는 코 속의 숨겨진 지도",
-      "summary": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
-      "aiSummary": "Scientists have finally uncovered a long-standing mystery about how the sense of smell is organized. By mapping millions of neurons in the mouse nose, researchers discovered that smell receptors are not randomly distributed but are arranged in neat, overlapping stripes organized by receptor type. This hidden structure had never been detected before despite decades of research. Most remarkably, this stripe pattern in the nose precisely mirrors how smell information is processed in the brain, revealing a coordinated system that extends from the nose through neural circuits. This discovery provides revolutionary insights into the fundamental principles of olfaction. However, further research is needed to determine whether these findings apply equally to human smell perception.\n\n##",
-      "aiSummaryKo": "과학자들은 수십 년간 풀지 못했던 후각의 조직 원리를 밝혀냈다. 생쥐의 코에 있는 수백만 개의 신경세포를 정밀하게 지도화한 결과, 후각 수용체들이 무작위로 배치된 것이 아니라 수용체 종류에 따라 규칙적인 줄무늬 패턴으로 정렬되어 있음을 발견했다. 이 연구는 마우스 후각세포를 상세히 매핑하는 방식으로 수행되었다. 가장 놀라운 발견은 코의 이러한 줄무늬 구조가 뇌에서 냄새 정보가 처리되는 방식과 정확히 일치한다는 것으로, 이는 코에서 뇌까지 하나의 조직적인 시스템이 존재함을 의미한다. 이 연구는 후각의 기본 원리를 이해하는 데 혁신적인 기여를 한다. 다만 이 발견이 인간의 후각에도 동일하게 적용되는지 확인하기 위한 추가 연구가 필요하다.\n\n##",
-      "aiSummaryEn": "Scientists have finally uncovered a long-standing mystery about how the sense of smell is organized. By mapping millions of neurons in the mouse nose, researchers discovered that smell receptors are not randomly distributed but are arranged in neat, overlapping stripes organized by receptor type. This hidden structure had never been detected before despite decades of research. Most remarkably, this stripe pattern in the nose precisely mirrors how smell information is processed in the brain, revealing a coordinated system that extends from the nose through neural circuits. This discovery provides revolutionary insights into the fundamental principles of olfaction. However, further research is needed to determine whether these findings apply equally to human smell perception.\n\n##",
-      "keyPoints": [
-        "**후각 수용체의 숨겨진 구조** / Hidden structure of smell receptors: 코의 후각 수용체가 수용체 종류별로 규칙적인 줄무늬 패턴으로 정렬되어 있다는 새로운 발견 / Discovery that smell receptors in the nose are organized in neat, overlapping stripes based on receptor type",
-        "**코-뇌 연계 시스템** / Nose-to-brain coordination: 코의 줄무늬 구조가 뇌에서의 냄새 정보 처리 방식과 정확히 일치하며, 이는 일관된 신경계 조직 원리를 시사한다 / The stripe pattern mirrors how smell information is mapped in the brain, suggesting a unified organizational principle throughout the olfactory system",
-        "**신경영상 기술의 성과** / Advancement in neuroimaging: 수백만 개의 신경세포를 정밀하게 지도화할 수 있는 기술 발전이 이러한 발견을 가능하게 했다 / Sophisticated neuron mapping technology enabled the visualization of millions of neurons, allowing this previously unknown structure to be discovered",
-        "**인간 적용 가능성의 한계** / Limitation in human applicability: 현재까지의 연구는 생쥐 모델을 기반으로 하므로, 인간의 후각에도 동일하게 적용되는지 확인하는 후속 연구가 필요하다 / The study was conducted on mice, so further research is needed to confirm whether these findings apply to human olfaction"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102025.htm",
-      "featured": false
-    },
-    {
-      "id": "99333e098694",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "4시간 전 / 4h ago",
-      "title": "Subtle changes in everyday tasks can signal Alzheimer’s risk years before memory loss",
-      "titleKo": "일상적 작업의 미묘한 변화가 기억력 상실 수년 전 알츠하이머병 위험을 알릴 수 있다",
-      "summary": "Standard cognitive tests can be flawed by cultural and educational biases. Researchers argue that monitoring a patient's ability to perform daily routines offers a more practical, culturally adaptable early warning system for dementia.",
-      "aiSummary": "This research addresses a critical gap in dementia diagnosis: standard cognitive tests often contain cultural and educational biases that limit their reliability. Researchers propose that monitoring subtle changes in patients' ability to perform daily tasks offers a more practical and culturally adaptable early warning system for dementia, potentially detecting Alzheimer's risk years before memory loss becomes apparent. By tracking changes in everyday activities such as meal preparation, dressing, and financial management, the team developed a diagnostic approach that transcends cultural and educational barriers. The findings indicate that declines in daily functioning serve as more sensitive early indicators than traditional memory tests. This approach has significant clinical implications, potentially enabling earlier therapeutic intervention and better patient outcomes. However, the study is limited by the need for longer-term longitudinal follow-up data and validation across diverse cultural populations.\n\n##",
-      "aiSummaryKo": "기존의 표준 인지 검사는 문화적, 교육적 편견으로 인해 신뢰성이 떨어질 수 있다는 문제에서 출발한 이 연구는, 일상적 과제 수행 능력 모니터링이 기억력 상실이 나타나기 수년 전에 치매 위험을 조기에 발견할 수 있는 더 실용적인 방법임을 제시한다. 연구팀은 환자들의 일상생활 능력(식사 준비, 옷 입기, 금전 관리 등)의 미묘한 변화를 추적함으로써, 문화와 교육 수준에 관계없이 적용 가능한 조기 경고 시스템을 개발했다. 이러한 접근법은 기존 인지 검사의 편향성을 극복하고 더 많은 사람들에게 공평한 진단 기회를 제공한다. 특히 기억력 검사보다 일상 기능 저하가 더 민감한 초기 지표임을 밝혀냈다. 이 연구는 알츠하이머 질환의 조기 진단으로 인한 치료 개입 시간을 확보할 수 있다는 점에서 임상적 의의가 크다. 다만 장기 추적 관찰 데이터 부족과 다양한 문화권에서의 추가 검증이 필요한 한계가 있다.\n\n##",
-      "aiSummaryEn": "This research addresses a critical gap in dementia diagnosis: standard cognitive tests often contain cultural and educational biases that limit their reliability. Researchers propose that monitoring subtle changes in patients' ability to perform daily tasks offers a more practical and culturally adaptable early warning system for dementia, potentially detecting Alzheimer's risk years before memory loss becomes apparent. By tracking changes in everyday activities such as meal preparation, dressing, and financial management, the team developed a diagnostic approach that transcends cultural and educational barriers. The findings indicate that declines in daily functioning serve as more sensitive early indicators than traditional memory tests. This approach has significant clinical implications, potentially enabling earlier therapeutic intervention and better patient outcomes. However, the study is limited by the need for longer-term longitudinal follow-up data and validation across diverse cultural populations.\n\n##",
-      "keyPoints": [
-        "**표준 인지 검사의 한계** / Limitations of Standard Cognitive Tests",
-        "**일상 기능 모니터링의 우수성** / Superiority of Daily Functioning Monitoring",
-        "**조기 진단의 임상적 이점** / Clinical Advantages of Early Detection",
-        "**문화 적응적 진단 방법의 가능성** / Potential for Culturally Adaptive Diagnosis"
-      ],
-      "url": "https://www.psypost.org/subtle-changes-in-everyday-tasks-can-signal-alzheimers-risk-years-before-memory-loss/",
-      "featured": false
-    },
-    {
-      "id": "712d4e5baec4",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "방금 전 / Just now",
-      "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
-      "titleKo": "실제 자본 환경에서 온체인 언어모델 에이전트를 위한 운영층 제어",
-      "summary": "arXiv:2604.26091v1 Announce Type: new Abstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX Terminal Pro, a 21-day deployment in which 3,505 user-funded agents traded real ETH in a bounded onchain market. Users configured vaults through structured controls and natural-language strategies, but only agents could choose normal buy/sell trades. The system produced 7.5M agent invocations, roughly 300K onchain actions, about $20M in volume, more than 5,000 ETH deployed, roughly 70B inference t",
-      "aiSummary": "This research presents the first large-scale real-world study examining the reliability of autonomous language-model agents handling actual capital in financial transactions. The DX Terminal Pro platform conducted a 21-day deployment involving 3,505 user-funded agents trading real Ethereum (ETH) in a bounded onchain market. Users configured trading vaults using structured controls and natural-language strategies, while only AI agents could execute actual buy/sell orders. The system generated 7.5 million agent invocations, approximately 300,000 onchain transactions, roughly $20 million in trading volume, and deployed more than 5,000 ETH with about 70 billion inference tokens. This study is significant for evaluating AI agent reliability and safety in real economic conditions and contributes to developing control mechanisms for autonomous AI systems. However, the research is limited by its specific market conditions and the bounded nature of the trading environment.\n\n##",
-      "aiSummaryKo": "본 연구는 실제 자금을 다루는 자율형 언어모델 에이전트의 신뢰성을 검증하는 첫 번째 대규모 현장 연구입니다. DX Terminal Pro라는 플랫폼에서 21일간 진행된 실험에 3,505개의 사용자 자금 에이전트가 참여하여 실제 이더리움(ETH)을 거래했습니다. 사용자들은 구조화된 제어 시스템과 자연어 전략으로 거래 금고(vault)를 설정했지만, 실제 매매 주문은 AI 에이전트만이 실행할 수 있도록 설계했습니다. 연구 결과 750만 회의 에이전트 호출, 약 30만 건의 온체인 거래, 약 2천만 달러 규모의 거래량, 5천 개 이상의 ETH 배치가 이루어졌습니다. 이 연구는 실제 경제 상황에서 AI 에이전트의 신뢰성과 안전성을 평가한 중요한 사례이며, 자율형 AI 시스템의 제어 메커니즘 개발에 기여합니다. 다만 특정 시장 조건과 제한된 거래 환경에서의 실험이라는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research presents the first large-scale real-world study examining the reliability of autonomous language-model agents handling actual capital in financial transactions. The DX Terminal Pro platform conducted a 21-day deployment involving 3,505 user-funded agents trading real Ethereum (ETH) in a bounded onchain market. Users configured trading vaults using structured controls and natural-language strategies, while only AI agents could execute actual buy/sell orders. The system generated 7.5 million agent invocations, approximately 300,000 onchain transactions, roughly $20 million in trading volume, and deployed more than 5,000 ETH with about 70 billion inference tokens. This study is significant for evaluating AI agent reliability and safety in real economic conditions and contributes to developing control mechanisms for autonomous AI systems. However, the research is limited by its specific market conditions and the bounded nature of the trading environment.\n\n##",
-      "keyPoints": [
-        "**대규모 실제 자본 실험** / Large-scale Real Capital Experiment: 3,505개의 에이전트가 실제 이더리움으로 $20M 규모의 거래를 수행, 언어모델 에이전트의 현실 적용 가능성을 입증",
-        "**다층 제어 시스템의 효과** / Multi-layer Control System Effectiveness: 사용자의 구조화된 제어와 자연어 전략을 결합하여 AI 의사결정에 대한 감시 및 제한을 구현, 금융 거래에서의 신뢰성 확보",
-        "**막대한 규모의 트랜잭션 데이터** / Massive Transaction Scale: 750만 회 호출, 30만 건의 온체인 거래, 70억 개 토큰 추론으로 AI 에이전트의 안정성과 오류율을 대규모로 평가 가능",
-        "**실제 금융 환경에서의 AI 안전성 검증** / AI Safety in Real Financial Context: 실제 자금 손실 위험이 있는 환경에서 자율형 AI 시스템의 제어 메커니즘 개발의 중요성을 강조, 향후 AI 규제 및 설계 기준 마련에 기여"
-      ],
-      "url": "https://arxiv.org/abs/2604.26091",
-      "featured": false
-    },
-    {
-      "id": "a9e1875e0255",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "방금 전 / Just now",
-      "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
-      "titleKo": "증류-신념: 물리장에서의 폐루프 역원천 위치파악 및 특성화",
-      "summary": "arXiv:2604.26095v1 Announce Type: new Abstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localize sources and infer latent field parameters under strict time constraints.} {The core challenge lies in the belief-space objective: valid uncertainty estimation requires expensive Bayesian inference, whereas using fast learned belief model leads to reward hacking, in which the policy exploits approximation errors rather than actually reducing uncertainty.} {We propose \\textbf{Distill-Belief}, a teacher--student framework",
-      "aiSummary": "This research addresses the problem of inverse source localization and characterization (ISLC) in physical fields, where a mobile agent must efficiently select measurements to locate sources and infer latent field parameters under strict time constraints. The core challenge is the belief-space objective: accurate uncertainty estimation requires expensive Bayesian inference, while using fast learned belief models leads to reward hacking, where the policy exploits approximation errors rather than genuinely reducing uncertainty. The researchers propose Distill-Belief, a teacher-student framework designed to balance computational efficiency and accuracy. This approach can be applied to various real-world scenarios such as environmental pollution tracking and disaster response where real-time decision-making is critical. However, as this work is presented at the abstract stage, specific experimental results and performance metrics have not yet been provided.",
-      "aiSummaryKo": "본 연구는 물리적 장(field)에서 오염원의 위치와 특성을 찾아내는 역소스 위치파악 및 특성화(ISLC) 문제를 다룹니다. 모바일 에이전트가 제한된 시간 내에 효율적인 측정을 선택하여 오염원을 찾고 숨겨진 장의 매개변수를 추론해야 하는 도전적인 상황입니다. 기존 방법의 핵심 문제는 정확한 불확실성 추정을 위해서는 계산 비용이 많이 드는 베이지안 추론이 필요하지만, 빠른 학습 기반 모델을 사용하면 실제 불확실성 감소 대신 근사 오차를 이용하는 '보상 해킹' 현상이 발생한다는 것입니다. 연구팀은 이를 해결하기 위해 'Distill-Belief'라는 교사-학생 프레임워크를 제안하여, 계산 효율성과 정확성의 균형을 맞추려 합니다. 이 방법은 실시간 의사결정이 필요한 환경오염 추적, 재난 대응 등 다양한 실제 응용에 활용될 수 있습니다. 다만, 본 연구는 아직 추상(abstract) 단계로 구체적인 실험 결과와 성능 수치가 제시되지 않았습니다.",
-      "aiSummaryEn": "This research addresses the problem of inverse source localization and characterization (ISLC) in physical fields, where a mobile agent must efficiently select measurements to locate sources and infer latent field parameters under strict time constraints. The core challenge is the belief-space objective: accurate uncertainty estimation requires expensive Bayesian inference, while using fast learned belief models leads to reward hacking, where the policy exploits approximation errors rather than genuinely reducing uncertainty. The researchers propose Distill-Belief, a teacher-student framework designed to balance computational efficiency and accuracy. This approach can be applied to various real-world scenarios such as environmental pollution tracking and disaster response where real-time decision-making is critical. However, as this work is presented at the abstract stage, specific experimental results and performance metrics have not yet been provided.",
-      "keyPoints": [
-        "폐쇄 루프 역소스 위치파악: 모바일 에이전트가 제한된 시간 내에 오염원 위치와 물리적 장의 특성을 동시에 추론해야 함 / Closed-loop inverse source localization: Mobile agents must infer both source locations and physical field characteristics within strict time constraints",
-        "보상 해킹 문제: 빠른 학습 모델 사용 시 실제 불확실성 감소가 아닌 근사 오차 이용 현상 발생 / Reward hacking problem: Fast learned models exploit approximation errors rather than genuinely reducing uncertainty",
-        "Distill-Belief 프레임워크: 교사-학생 구조로 베이지안 정확성과 계산 효율성의 균형 추구 / Distill-Belief framework: Teacher-student architecture balancing Bayesian accuracy with computational efficiency",
-        "실제 응용 가능성: 환경 오염 추적, 재난 대응, 센서 네트워크 최적화 등 다양한 분야에 활용 가능 / Practical applications: Environmental monitoring, disaster response, sensor network optimization, and related real-world scenarios"
-      ],
-      "url": "https://arxiv.org/abs/2604.26095",
-      "featured": false
-    },
-    {
-      "id": "1024a0a0f949",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "방금 전 / Just now",
-      "title": "Evaluating Strategic Reasoning in Forecasting Agents",
-      "titleKo": "예측 에이전트의 전략적 추론 평가",
-      "summary": "arXiv:2604.26106v1 Announce Type: new Abstract: Forecasting benchmarks produce accuracy leaderboards but little insight into why some forecasters are more accurate than others. We introduce Bench to the Future 2 (BTF-2), 1,417 pastcasting questions with a frozen 15M-document research corpus in which agents reproducibly research and forecast offline, producing full reasoning traces. BTF-2 detects accuracy differences of 0.004 Brier score, and can distinguish differential agent strengths in research vs. judgment. We build a forecaster 0.011 Brier more accurate than any single frontier agent, and",
-      "aiSummary": "This research was conducted to understand why different forecasting AI agents produce varying levels of accuracy. The team developed BTF-2 (Bench to the Future 2), a new benchmark consisting of 1,417 pastcasting questions and a frozen corpus of 15 million research documents. In the experimental design, AI agents utilized these materials to make predictions while recording their complete reasoning processes. The results showed that BTF-2 could detect differences as small as 0.004 in Brier score (an accuracy metric), making it more sensitive than existing benchmarks. Notably, the benchmark could distinguish whether agents' strengths lay in information gathering or judgment capabilities. Through this analysis, the research team successfully created a forecaster that was 0.011 Brier score more accurate than any single frontier agent. However, limitations include reliance on a fixed corpus and dependence on historical data.\n\n##",
-      "aiSummaryKo": "이 연구는 예측 AI 에이전트들이 왜 서로 다른 정확도를 보이는지 이해하기 위해 진행되었습니다. 연구팀은 BTF-2(Bench to the Future 2)라는 새로운 벤치마크를 개발했는데, 이는 1,417개의 과거 예측 문제와 1,500만 개의 고정된 연구 자료로 구성되어 있습니다. 실험 설계에서 AI 에이전트들은 이 자료를 활용해 예측을 하면서 전체 추론 과정을 기록하도록 했습니다. 결과적으로 BTF-2는 브라이어 점수(정확도 측정 지표) 0.004라는 아주 작은 차이도 감지할 수 있어 기존 벤치마크보다 민감했습니다. 특히 이 벤치마크는 에이전트들의 강점이 정보 수집 능력에 있는지 판단력에 있는지를 구분할 수 있었습니다. 연구팀은 이러한 분석을 통해 개별 에이전트보다 0.011 브라이어 점수만큼 더 정확한 예측기를 만들 수 있었습니다. 다만, 고정된 자료만 사용했다는 점과 과거 데이터 기반이라는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research was conducted to understand why different forecasting AI agents produce varying levels of accuracy. The team developed BTF-2 (Bench to the Future 2), a new benchmark consisting of 1,417 pastcasting questions and a frozen corpus of 15 million research documents. In the experimental design, AI agents utilized these materials to make predictions while recording their complete reasoning processes. The results showed that BTF-2 could detect differences as small as 0.004 in Brier score (an accuracy metric), making it more sensitive than existing benchmarks. Notably, the benchmark could distinguish whether agents' strengths lay in information gathering or judgment capabilities. Through this analysis, the research team successfully created a forecaster that was 0.011 Brier score more accurate than any single frontier agent. However, limitations include reliance on a fixed corpus and dependence on historical data.\n\n##",
-      "keyPoints": [
-        "**정밀한 성능 측정** / Precise Performance Measurement",
-        "2는 0.004 브라이어 점수 차이도 감지 가능해 기존 벤치마크보다 훨씬 더 세밀한 에이전트 간 차이를 측정할 수 있습니다.",
-        "**역량 분석 기능** / Capability Analysis",
-        "**완전한 추론 추적** / Full Reasoning Traces"
-      ],
-      "url": "https://arxiv.org/abs/2604.26106",
       "featured": false
     }
   ]
