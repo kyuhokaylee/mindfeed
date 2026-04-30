@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-30T19:42:49.246579+00:00",
+  "updated": "2026-04-30T21:07:36.006620+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "96ef56c86bed",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Childhood trauma linked to biological aging and gaze avoidance",
+      "titleKo": "어린 시절 외상이 생물학적 노화 및 시선 회피와 연관",
+      "summary": "Childhood abuse forces the biological clock to tick faster and curbs children's willingness to make eye contact, independent consequences that both track with higher rates of emotional and behavioral problems.",
+      "aiSummary": "This study investigated how childhood abuse affects both biological aging speed and eye contact avoidance behavior in children. Researchers compared children with abuse histories to a control group, measuring biological age markers (epigenetic aging) and tracking eye movement patterns during social interactions. Key findings showed that abused children exhibited accelerated biological aging and significantly reduced eye contact, both independent consequences that correlated with higher rates of emotional and behavioral problems. The research provides objective evidence of childhood abuse's long-term physical and psychological impacts through measurable biological markers. The significance lies in demonstrating multiple pathways through which trauma affects child development. However, limitations may include sample size constraints and the need for longitudinal studies to establish causal mechanisms.\n\n##",
+      "aiSummaryKo": "본 연구는 어린 시절 학대 경험이 생물학적 노화 속도와 시선 접촉 회피 행동에 미치는 영향을 조사했습니다. 연구팀은 학대 경험이 있는 아동과 통제 집단을 대상으로 생물학적 나이(epigenetic aging markers)를 측정하고 안구 운동을 추적하는 실험을 실시했습니다. 주요 결과로는 학대 경험 아동의 생물학적 나이가 실제 나이보다 빠르게 진행되었으며, 동시에 타인과의 시선 접촉이 현저히 감소했습니다. 이 두 현상은 각각 독립적이지만 모두 정서 및 행동 문제의 증가와 연관되었습니다. 본 연구는 아동 학대의 장기적 신체·심리적 영향을 객관적으로 입증했다는 점에서 의의가 있습니다. 다만, 표본 크기나 추적 기간의 제한이 있을 수 있으며, 인과관계 확립에는 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "This study investigated how childhood abuse affects both biological aging speed and eye contact avoidance behavior in children. Researchers compared children with abuse histories to a control group, measuring biological age markers (epigenetic aging) and tracking eye movement patterns during social interactions. Key findings showed that abused children exhibited accelerated biological aging and significantly reduced eye contact, both independent consequences that correlated with higher rates of emotional and behavioral problems. The research provides objective evidence of childhood abuse's long-term physical and psychological impacts through measurable biological markers. The significance lies in demonstrating multiple pathways through which trauma affects child development. However, limitations may include sample size constraints and the need for longitudinal studies to establish causal mechanisms.\n\n##",
+      "keyPoints": [
+        "**생물학적 노화 가속화** / Accelerated Biological Aging",
+        "**시선 회피 행동** / Gaze Avoidance Behavior",
+        "**정서·행동 문제와의 연관성** / Correlation with Emotional and Behavioral Problems",
+        "**다중 손상 메커니즘** / Multiple Damage Pathways"
+      ],
+      "url": "https://www.psypost.org/childhood-trauma-linked-to-biological-aging-and-gaze-avoidance/",
+      "featured": true
+    },
+    {
+      "id": "58bfaa6cff9f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "11일 전 / 11d ago",
+      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
+      "titleKo": "분쟁 상황에서 행동과학이 직면해야 할 어려운 진실들",
+      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummary": "Approximately 2 billion people live in conflict-affected areas, yet behavioral science has primarily developed its theories, experiments, and interventions in stable contexts. When behavioral scientists do work in conflict settings, they typically follow a pattern of adapting methods that worked elsewhere and \"localizing\" them, which proves insufficient. This is a critical problem as global conflict is reshaping lives at unprecedented scale, with 123 million people forcibly displaced in 2024—the highest number on record. The article argues that existing behavioral science theories fail to account for the unique psychological and social factors operating in conflict situations. Researchers emphasize that new theories and interventions specifically designed for local contexts in conflict-affected areas are urgently needed. The significance of this work lies in enabling more effective humanitarian interventions in global conflict situations. However, the practical difficulties and ethical constraints of conducting research in active conflict zones remain major challenges to overcome.",
+      "aiSummaryKo": "현재 약 20억 명이 분쟁 지역에서 살고 있지만, 행동과학 분야는 대부분의 이론과 실험을 안정적인 환경에서 개발해왔다. 행동과학자들이 분쟁 지역에서 연구할 때도 다른 지역에서 검증된 방법을 가져와 현지화한 후 평가하는 방식을 따르는 경향이 있다. 그러나 이러한 접근 방식은 충분하지 않다는 것이 핵심 주장이다. 2024년에는 1억 2,300만 명이 강제로 이주당했으며, 이는 역대 최고 기록이다. 이 논문은 분쟁 상황에서의 독특한 심리적·사회적 요인들을 고려하지 않은 기존 행동과학 이론의 한계를 지적하고 있다. 연구자들은 분쟁 지역의 현지 맥락에 맞게 설계된 새로운 이론과 개입 방안이 필요함을 강조한다. 이 연구의 의의는 전 지구적 분쟁 상황에서 더욱 효과적인 인도주의적 개입을 가능하게 하는 데 있다. 다만 실제 분쟁 지역에서의 연구 수행의 어려움과 윤리적 제약이 극복해야 할 과제이다.",
+      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas, yet behavioral science has primarily developed its theories, experiments, and interventions in stable contexts. When behavioral scientists do work in conflict settings, they typically follow a pattern of adapting methods that worked elsewhere and \"localizing\" them, which proves insufficient. This is a critical problem as global conflict is reshaping lives at unprecedented scale, with 123 million people forcibly displaced in 2024—the highest number on record. The article argues that existing behavioral science theories fail to account for the unique psychological and social factors operating in conflict situations. Researchers emphasize that new theories and interventions specifically designed for local contexts in conflict-affected areas are urgently needed. The significance of this work lies in enabling more effective humanitarian interventions in global conflict situations. However, the practical difficulties and ethical constraints of conducting research in active conflict zones remain major challenges to overcome.",
+      "keyPoints": [
+        "**분쟁 지역 인구의 규모와 간과된 연구 공백** / The scale of conflict-affected populations and the research gap in behavioral science",
+        "**기존 방법의 한계성** / Limitations of existing methodological approaches",
+        "**전 지구적 분쟁 위기의 심화** / Escalating global conflict crisis",
+        "**분쟁 맥락에 맞춘 새로운 이론 개발의 필수성** / Need for context-specific theories in conflict settings"
+      ],
+      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
+      "featured": false
+    },
+    {
+      "id": "2ca3144e26ec",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "11일 전 / 11d ago",
+      "title": "The ‘Busy’ Trap",
+      "titleKo": "'바쁨'의 함정",
+      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "aiSummary": "In twenty-first century America, \"busy\" has become the default response when greeting people, functioning as a boast disguised as a complaint. Researchers investigated the psychological motivations behind this widespread cultural phenomenon, finding connections to individuals' desires to signal social status. Notably, the study reveals that those genuinely working long hours—ICU nurses, minimum-wage workers with multiple jobs—do not boast about their busyness, whereas people with greater economic means tend to frame their busy schedules as markers of status and importance. This pattern reflects a cultural shift where time has become recognized as a scarce resource and time management ability is viewed as an indicator of success and achievement. The research demonstrates that expressions of busyness function primarily as social status signals rather than genuine expressions of fatigue. A limitation of the analysis is the lack of specific quantitative data to measure the prevalence and magnitude of this phenomenon across different demographic groups.\n\n##",
+      "aiSummaryKo": "현대 미국 사회에서 \"바쁘다\"는 표현이 일상적인 인사말이 되었는데, 이는 실제로는 불평을 가장한 자랑이라는 분석을 제시한다. 연구자들은 사람들이 바쁨을 과장되게 표현하는 현상의 심리적 배경을 조사했으며, 이는 사회적 지위를 나타내려는 욕구와 관련이 있음을 발견했다. 흥미롭게도, 실제로 장시간 일하는 저임금 근로자나 의료 종사자들은 자신의 바쁜 일정을 자랑하지 않으며, 오히려 경제적 여유가 있는 사람들이 바쁨을 지위의 상징으로 표현하는 경향을 보인다. 이 현상은 현대 사회에서 시간이 희귀한 자원으로 인식되고 있으며, 시간 관리 능력을 성공의 척도로 여기는 문화적 변화를 반영한다. 이 연구는 바쁨 표현이 단순한 피로가 아닌 사회적 위상 확보 수단임을 보여준다. 다만, 기사의 제시된 구체적인 수치 데이터가 부족하여 현상의 규모를 정확히 파악하기 어렵다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "In twenty-first century America, \"busy\" has become the default response when greeting people, functioning as a boast disguised as a complaint. Researchers investigated the psychological motivations behind this widespread cultural phenomenon, finding connections to individuals' desires to signal social status. Notably, the study reveals that those genuinely working long hours—ICU nurses, minimum-wage workers with multiple jobs—do not boast about their busyness, whereas people with greater economic means tend to frame their busy schedules as markers of status and importance. This pattern reflects a cultural shift where time has become recognized as a scarce resource and time management ability is viewed as an indicator of success and achievement. The research demonstrates that expressions of busyness function primarily as social status signals rather than genuine expressions of fatigue. A limitation of the analysis is the lack of specific quantitative data to measure the prevalence and magnitude of this phenomenon across different demographic groups.\n\n##",
+      "keyPoints": [
+        "**\"바쁨\"의 역설적 기능** / Paradoxical Function of \"Busyness\": \"바쁘다\"는 표현은 불평을 가장한 자랑이며, 상대의 축하 응답(\"좋은 고민이네\")을 유도하는 사회적 신호 / \"Being busy\" functions as a boast disguised as complaint, eliciting congratulatory social responses that signal accomplishment.",
+        "**계층에 따른 표현 차이** / Class-Based Expression Differences: 실제로 과로하는 저임금 근로자는 바쁨을 언급하지 않으며, 경제적 여유가 있는 사람들이 바쁨을 지위 상징으로 활용함 / Those genuinely overworked don't boast about busyness; economically comfortable individuals use it as a status symbol.",
+        "**현대 문화의 시간 인식** / Modern Cultural Perception of Time: 현대 사회에서 시간이 희귀한 자원으로 인식되고 있으며, 바쁜 일정 관리 능력이 성공과 중요성의 증거로 여겨짐 / Time has become a scarce resource in modern society; managing a busy schedule is seen as evidence of success and importance.",
+        "**사회적 지위 신호로서의 바쁨** / Busyness as Social Status Signal: 개인의 실제 피로도보다는 사회적 위상을 나타내려는 욕구가 \"바쁘다\" 표현의 주요 동기임 / The primary motivation behind expressing busyness is signaling social status rather than conveying genuine fatigue or workload."
+      ],
+      "url": "https://behavioralscientist.org/the-busy-trap/",
+      "featured": false
+    },
+    {
+      "id": "c1d7d1e43287",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "17일 전 / 17d ago",
+      "title": "What It’s Like to Be…an Aerospace Engineer",
+      "titleKo": "이것이 바로…항공우주공학자의 삶이다",
+      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummary": "This article features a podcast episode from the \"What It's Like to Be...\" series, in which bestselling author Dan Heath interviews Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory (JPL). The episode explores Mohan's professional experience working on the Mars Perseverance rover landing mission, discussing critical concepts such as \"seven minutes of terror\"—the extremely tense landing phase—and the numerous engineering trade-offs involved in spacecraft development. The interview covers practical aspects of her work, including microbial contamination control in clean rooms and the scientific quest for evidence of past life on Mars. This format aims to provide listeners with an authentic understanding of specialized aerospace engineering work through personal narratives and expert insights. The episode demonstrates how complex space exploration projects rely on the expertise of dedicated scientists and engineers. However, as a narrative-focused podcast rather than a research study, the content emphasizes personal experience and storytelling over quantitative data and scientific metrics.\n\n##",
+      "aiSummaryKo": "이 기사는 NASA의 제트 추진 연구소(JPL)에서 근무하는 우주항공공학자 스와티 모한(Swati Mohan)의 업무 경험과 화성 탐사에 대한 인터뷰를 다룬 팟캐스트 에피소드이다. 베스트셀러 저자 댄 히스(Dan Heath)가 진행하는 \"What It's Like to Be...\" 시리즈의 일부로, 실제 전문가들의 일상과 경험을 심층적으로 탐구하는 형식이다. 모한 엔지니어는 화성 탐사선 퍼서비어런스(Perseverance)의 착륙 과정에서 경험한 \"7분의 공포(seven minutes of terror)\"라는 극도로 긴장된 상황과 우주선 개발 과정에서의 무수한 엔지니어링 트레이드오프(기술적 선택과 타협)에 대해 설명한다. 또한 청정실(clean room)에서의 미생물 관리와 같은 세부적인 업무 내용과 화성에서 과거 생명체의 증거를 찾기 위한 과학적 노력에 대해 논의한다. 이 콘텐츠는 고도로 전문화된 분야의 실제 모습을 일반인이 이해할 수 있도록 전달하는 데 의의가 있다. 다만, 팟캐스트의 특성상 상세한 과학적 데이터나 정량적 연구 결과보다는 개인적 경험과 이야기에 중점을 두고 있다.\n\n##",
+      "aiSummaryEn": "This article features a podcast episode from the \"What It's Like to Be...\" series, in which bestselling author Dan Heath interviews Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory (JPL). The episode explores Mohan's professional experience working on the Mars Perseverance rover landing mission, discussing critical concepts such as \"seven minutes of terror\"—the extremely tense landing phase—and the numerous engineering trade-offs involved in spacecraft development. The interview covers practical aspects of her work, including microbial contamination control in clean rooms and the scientific quest for evidence of past life on Mars. This format aims to provide listeners with an authentic understanding of specialized aerospace engineering work through personal narratives and expert insights. The episode demonstrates how complex space exploration projects rely on the expertise of dedicated scientists and engineers. However, as a narrative-focused podcast rather than a research study, the content emphasizes personal experience and storytelling over quantitative data and scientific metrics.\n\n##",
+      "keyPoints": [
+        "**화성 착륙의 극도의 긴장 상황 / Critical Landing Challenge**: \"7분의 공포(seven minutes of terror)\"는 화성 탐사선이 통신 두절 상태에서 자동으로 착륙해야 하는 극도로 위험한 상황을 의미하며, 이는 우주항공공학자들이 직면하는 가장 도전적인 순간이다.",
+        "**엔지니어링 트레이드오프의 복잡성 / Engineering Trade-offs**: 우주선 개발 과정에서 수백 개의 상충하는 기술적 선택지 사이에서 최적의 결정을 내려야 하는 것이 항공우주 엔지니어링의 핵심 업무이다.",
+        "**청정실 관리와 미생물 제어 / Contamination Control**: 화성 탐사선의 신뢰성을 확보하기 위해 미생물 개수를 최소화하는 청정실 환경에서의 정밀한 작업이 필수적이다.",
+        "**과학적 탐사 목표 / Scientific Discovery Mission**: 화성에서 과거 생명체의 증거를 찾기 위한 과학적 노력은 우주항공공학의 기술적 발전과 과학적 탐구 목표를 연결하는 궁극의 목적이다."
+      ],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
+      "featured": false
+    },
     {
       "id": "b8dd1192aa01",
       "tag": "psych",
@@ -21,7 +105,7 @@
         "**AI 설계 및 교육의 개선 필요성** / **Need for improved AI design and education**: 사용자가 AI를 도구로 활용하되 항상 비판적 태도를 유지하도록 하는 시스템 설계와 교육 전략의 필요성 제기"
       ],
       "url": "https://www.psypost.org/high-trust-in-ai-leaves-individuals-vulnerable-to-cognitive-surrender-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "712d4e5baec4",
@@ -336,90 +420,6 @@
         "**인간 짝짓기 심리의 이해**: 연구는 인간의 짝짓기 전략 선택 뒤의 심리적 메커니즘을 밝히는 데 기여 / Research contributes to understanding the psychological mechanisms underlying human mating strategy selection"
       ],
       "url": "https://www.psypost.org/gold-digging-is-strongly-linked-to-psychopathy-and-dark-personality-traits-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "4178d4722d98",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "14시간 전 / 14h ago",
-      "title": "Spike in brain attacking autoantibodies linked to early COVID-19 pandemic",
-      "titleKo": "COVID-19 팬데믹 초기와 연관된 뇌 공격 자가항체의 급증",
-      "summary": "A massive review of laboratory data reveals that severe autoantibody attacks on the brain surged during the initial COVID-19 outbreak before falling back to baseline as population immunity and vaccination rates increased.",
-      "aiSummary": "This study investigated whether autoantibodies attacking the brain surged during the early COVID-19 pandemic through a large-scale analysis of laboratory data. Researchers reviewed extensive laboratory records and compared baseline periods with early pandemic onset and subsequent phases as population immunity and vaccination rates increased. Results showed that the incidence of brain-attacking autoantibodies significantly increased during the early pandemic phase but returned to baseline levels over time as immune protection and vaccination coverage rose. This suggests that COVID-19 infection can trigger autoimmune responses affecting the nervous system. The study's significance lies in clarifying the connection between viral infection and neurological autoimmune disease. However, the research did not definitively establish causality, and further investigation is needed to determine whether these autoantibodies actually caused neurological symptoms in patients.\n\n##",
-      "aiSummaryKo": "이 연구는 COVID-19 팬데믹 초기에 뇌를 공격하는 자가항체(자신의 뇌를 공격하는 항체)가 급증했는지를 조사한 대규모 데이터 분석 연구입니다. 연구팀은 광범위한 실험실 데이터를 검토하여 팬데믹 초기와 이후 시점을 비교했습니다. 결과적으로 뇌 공격 자가항체의 발생률이 팬데믹 초기에 현저히 증가했다가 시간이 지나면서 인구 면역력이 높아지고 백신 접종률이 증가함에 따라 기저선 수준으로 돌아갔습니다. 이는 COVID-19 감염이 자가면역 반응을 유발할 수 있음을 시사합니다. 연구의 의의는 바이러스 감염과 신경 자가면역질환의 연관성을 규명한 점입니다. 다만 이 연구는 인과관계를 명확히 증명하지 못했으며, 뇌 공격 자가항체가 실제로 신경 증상을 유발했는지는 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated whether autoantibodies attacking the brain surged during the early COVID-19 pandemic through a large-scale analysis of laboratory data. Researchers reviewed extensive laboratory records and compared baseline periods with early pandemic onset and subsequent phases as population immunity and vaccination rates increased. Results showed that the incidence of brain-attacking autoantibodies significantly increased during the early pandemic phase but returned to baseline levels over time as immune protection and vaccination coverage rose. This suggests that COVID-19 infection can trigger autoimmune responses affecting the nervous system. The study's significance lies in clarifying the connection between viral infection and neurological autoimmune disease. However, the research did not definitively establish causality, and further investigation is needed to determine whether these autoantibodies actually caused neurological symptoms in patients.\n\n##",
-      "keyPoints": [
-        "**팬데믹 초기의 급증**: 뇌 공격 자가항체가 COVID-19 팬데믹 초기에 급격히 증가했으며, 이는 바이러스 감염이 비정상적인 면역 반응을 유발했음을 시사 / Brain-attacking autoantibodies surged during early pandemic, suggesting COVID-19 triggered abnormal immune responses",
-        "**시간 경과에 따른 정상화**: 인구 면역력 증강과 백신 접종률 상승에 따라 자가항체 수치가 기저선으로 복귀 / Autoantibody levels returned to baseline as population immunity and vaccination rates increased over time",
-        "**바이러스-자가면역 연관성**: COVID-19와 같은 바이러스 감염이 뇌를 공격하는 자가면역질환 발병의 촉발 인자가 될 수 있음을 시사 / Suggests viral infections like COVID-19 can trigger neurological autoimmune diseases",
-        "**추가 연구의 필요성**: 자가항체 증가와 실제 신경 증상 간의 인과관계 규명 및 임상적 영향 평가가 필요 / Further research needed to establish causality between autoantibody increases and actual neurological symptoms and clinical impact"
-      ],
-      "url": "https://www.psypost.org/the-covid-19-pandemic-temporarily-doubled-cases-of-autoimmune-brain-inflammation/",
-      "featured": false
-    },
-    {
-      "id": "cdbfc0991369",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1시간 전 / 1h ago",
-      "title": "Scientists restore memory by blocking a single Alzheimer’s protein",
-      "titleKo": "과학자들, 알츠하이머병 단백질 하나 차단으로 기억력 회복",
-      "summary": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-      "aiSummary": "Alzheimer's disease is a neurodegenerative condition characterized by memory decline due to harmful protein accumulation in the brain, and currently lacks effective treatments. Researchers investigated a novel therapeutic approach by blocking a protein called PTP1B using mouse models to explore its potential efficacy. The experimental results demonstrated that blocking PTP1B improved memory in mice and enabled brain immune cells (microglia) to more effectively clear harmful plaques associated with Alzheimer's disease. A significant aspect of this finding is that PTP1B is also linked to diabetes and obesity, both of which are risk factors for Alzheimer's, suggesting the possibility of treating multiple conditions simultaneously through single protein inhibition. However, as this research is based on animal models, additional clinical trials in humans are necessary, and considerable time will be required before developing this into an actual therapeutic treatment.\n\n##",
-      "aiSummaryKo": "알츠하이머병은 뇌에 해로운 단백질이 축적되면서 기억력이 감퇴하는 신경퇴행성 질환으로, 현재까지 효과적인 치료법이 부족한 상황이다. 연구진은 PTP1B라는 단백질을 차단하는 방식의 새로운 치료 가능성을 탐색하기 위해 마우스 모델을 이용한 실험을 진행했다. 실험 결과, PTP1B를 차단했을 때 마우스의 기억력이 향상되었으며, 뇌 면역세포(미세아교세포)가 알츠하이머병의 원인 물질인 해로운 플라크를 더 효과적으로 제거할 수 있었다. 이 발견의 중요한 점은 PTP1B가 당뇨병과 비만과도 연관되어 있다는 것으로, 이들은 모두 알츠하이머병의 위험 요인이기 때문에 단일 단백질 차단으로 다중 질환을 동시에 치료할 가능성이 있다. 다만 이 연구는 동물 모델에서의 성과이므로, 인간을 대상으로 한 추가 임상시험이 필요하며 실제 치료법으로 개발되기까지는 상당한 시간이 소요될 것으로 예상된다.\n\n##",
-      "aiSummaryEn": "Alzheimer's disease is a neurodegenerative condition characterized by memory decline due to harmful protein accumulation in the brain, and currently lacks effective treatments. Researchers investigated a novel therapeutic approach by blocking a protein called PTP1B using mouse models to explore its potential efficacy. The experimental results demonstrated that blocking PTP1B improved memory in mice and enabled brain immune cells (microglia) to more effectively clear harmful plaques associated with Alzheimer's disease. A significant aspect of this finding is that PTP1B is also linked to diabetes and obesity, both of which are risk factors for Alzheimer's, suggesting the possibility of treating multiple conditions simultaneously through single protein inhibition. However, as this research is based on animal models, additional clinical trials in humans are necessary, and considerable time will be required before developing this into an actual therapeutic treatment.\n\n##",
-      "keyPoints": [
-        "**PTP1B 단백질 차단의 효과** / PTP1B protein blocking effectiveness: 마우스에서 기억력 향상과 뇌 플라크 제거 촉진이 확인됨 / Memory improvement and brain plaque clearance promotion confirmed in mice",
-        "**다중 질환 치료 가능성** / Multi-disease treatment potential: 당뇨병, 비만, 알츠하이머병의 공통 위험 인자인 PTP1B를 타겟하여 여러 질환을 동시에 치료할 수 있는 가능성 / Potential to simultaneously treat multiple diseases by targeting PTP1B, a common risk factor for diabetes, obesity, and Alzheimer's",
-        "**뇌 면역 기능 강화** / Enhanced brain immune function: PTP1B 차단으로 미세아교세포의 해로운 단백질 제거 능력이 증대됨 / Blocking PTP1B enhances microglia's ability to remove harmful proteins",
-        "**동물 모델 기반 연구의 한계** / Limitations of animal model research: 마우스에서의 성공이 인간 치료로 바로 이어지지 않으므로 임상시험 단계가 필수적 / Success in mice does not guarantee human treatment applicability, requiring clinical trials"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102037.htm",
-      "featured": false
-    },
-    {
-      "id": "7d63ed683aa5",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3시간 전 / 3h ago",
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "titleKo": "이 AI는 답은 알았지만 질문을 이해하지 못했다",
-      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "aiSummary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be divided into separate components like memory and attention. A recent AI model called Centaur appeared to be a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. However, new research challenges this claim, suggesting the model isn't truly \"thinking\" but rather memorizing patterns. This finding demonstrates that AI can appear to perform complex cognitive tasks while its underlying processes fundamentally differ from human understanding. The research raises important questions about AI's genuine comprehension capabilities and whether AI models can be reliably used as reference models in human cognitive research. A limitation of this study is that it may have only analyzed the structural characteristics of the Centaur model, and the generalizability of these findings to other AI models remains unclear.\n\n##",
-      "aiSummaryKo": "심리학에서는 인간의 정신이 하나의 통합 이론으로 설명될 수 있는지, 아니면 기억, 주의력 같은 독립적 부분으로 나뉘어야 하는지 수십 년간 논쟁해왔다. 최근 'Centaur'라는 AI 모델은 160개의 서로 다른 인지 과제에서 인간의 사고를 모방할 수 있다며 획기적인 돌파구를 제시한 것 같았다. 그러나 새로운 연구에 따르면 이 모델은 실제로 \"사고\"하는 것이 아니라 단순히 패턴을 암기하고 있을 뿐이다. 이 연구는 AI가 겉으로는 복잡한 인지 작업을 수행하는 것처럼 보여도 그 과정이 인간의 이해와 근본적으로 다를 수 있음을 보여준다. 이러한 발견은 AI의 진정한 이해 능력에 대한 의문을 제기하고, 인간 정신 연구에서 AI를 신뢰할 수 있는 모델로 사용할 수 있는지에 대한 중요한 질문을 던진다. 다만 이 연구의 한계는 Centaur 모델 자체의 구조적 특성만을 분석했을 가능성이 있으며, 다른 AI 모델들에는 어느 정도 일반화될 수 있을지 불명확하다.\n\n##",
-      "aiSummaryEn": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be divided into separate components like memory and attention. A recent AI model called Centaur appeared to be a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. However, new research challenges this claim, suggesting the model isn't truly \"thinking\" but rather memorizing patterns. This finding demonstrates that AI can appear to perform complex cognitive tasks while its underlying processes fundamentally differ from human understanding. The research raises important questions about AI's genuine comprehension capabilities and whether AI models can be reliably used as reference models in human cognitive research. A limitation of this study is that it may have only analyzed the structural characteristics of the Centaur model, and the generalizability of these findings to other AI models remains unclear.\n\n##",
-      "keyPoints": [
-        "**Centaur 모델의 한계** / Limitations of the Centaur Model",
-        "**인간 사고와의 근본적 차이** / Fundamental Difference from Human Cognition",
-        "**심리학 이론 발전의 영향** / Impact on Psychology Theory Development",
-        "**AI 투명성과 해석가능성의 중요성** / Importance of AI Transparency and Interpretability"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
-      "featured": false
-    },
-    {
-      "id": "a8a9b4e5a915",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
-      "titleKo": "MIT 과학자들, 혼란스러운 레이저 빛을 강력한 뇌 영상 도구로 변환",
-      "summary": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method also lets researchers watch how drugs move into brain cells in real time. It could dramatically accelerate the development of treatments for neurological diseases.",
-      "aiSummary": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused \"pencil beam\" under specific conditions rather than scattering. Using this phenomenon, the research team developed a novel brain imaging technique that enables 3D visualization of the blood-brain barrier. This method operates 25 times faster than existing imaging techniques and allows researchers to observe drugs moving into brain cells in real time. While the study did not specify the number of experimental participants or clinical trial scale, this technology is expected to dramatically accelerate the development of treatments for neurological diseases. Currently, this approach remains in the experimental research stage, and additional validation is needed before clinical application. Optimization of the complex optical system presents a significant challenge for future implementation.",
-      "aiSummaryKo": "MIT 과학자들은 특정 조건 하에서 무질서한 레이저 빛이 자발적으로 산란되지 않고 매우 집중된 빔으로 형성될 수 있다는 사실을 발견했습니다. 연구팀은 이러한 \"연필 빔\" 현상을 활용하여 뇌혈관장벽을 3차원으로 촬영하는 새로운 뇌 영상 기술을 개발했습니다. 이 기술은 기존 기법보다 25배 빠른 속도로 고해상도 영상을 획득할 수 있으며, 약물이 뇌세포로 이동하는 과정을 실시간으로 관찰할 수 있게 합니다. 연구팀은 특정 참가자 수나 임상 시험 규모를 명시하지 않았으나, 이 기술은 신경질환 치료제 개발을 획기적으로 가속화할 수 있을 것으로 기대됩니다. 현재 이 방법은 실험실 단계의 연구로 임상 적용까지는 추가 검증이 필요하며, 복잡한 광학 시스템의 최적화가 과제입니다.",
-      "aiSummaryEn": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused \"pencil beam\" under specific conditions rather than scattering. Using this phenomenon, the research team developed a novel brain imaging technique that enables 3D visualization of the blood-brain barrier. This method operates 25 times faster than existing imaging techniques and allows researchers to observe drugs moving into brain cells in real time. While the study did not specify the number of experimental participants or clinical trial scale, this technology is expected to dramatically accelerate the development of treatments for neurological diseases. Currently, this approach remains in the experimental research stage, and additional validation is needed before clinical application. Optimization of the complex optical system presents a significant challenge for future implementation.",
-      "keyPoints": [
-        "무질서한 레이저 빛이 특정 조건에서 집중된 빔으로 자발적으로 형성되는 현상 발견 / Discovery that chaotic laser light spontaneously forms a focused beam under specific conditions",
-        "뇌혈관장벽의 3D 영상화를 기존 기법보다 25배 빠른 속도로 달성 / Achieved 3D blood-brain barrier imaging 25 times faster than existing techniques",
-        "약물의 뇌세포 이입 과정을 실시간 관찰 가능 / Enables real-time observation of drug movement into brain cells",
-        "신경질환 치료제 개발 가속화의 잠재력 있으나, 임상 적용까지는 추가 검증 필요 / Potential to accelerate neurological disease treatment development, but further validation needed for clinical application"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
       "featured": false
     }
   ]
