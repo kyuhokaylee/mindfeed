@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-30T22:58:22.570746+00:00",
+  "updated": "2026-04-30T23:59:21.286329+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "44ee7e846979",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "19시간 전 / 19h ago",
+      "title": "Untrained CNNs Match Backpropagation at V1: A Systematic RSA Comparison of Four Learning Rules Against Human fMRI",
+      "titleKo": "훈련되지 않은 CNN이 V1에서 역전파와 부합: 네 가지 학습 규칙의 인간 fMRI에 대한 체계적 RSA 비교",
+      "summary": "arXiv:2604.16875v2 Announce Type: replace-cross Abstract: A central question in computational neuroscience is whether the learning rule used to train a neural network determines how well its internal representations align with those of the human visual cortex. We present a systematic comparison of four learning rules (backpropagation (BP), feedback alignment (FA), predictive coding (PC), and spike-timing-dependent plasticity (STDP)) applied to identical convolutional architectures and evaluated against human fMRI data from the THINGS-fMRI dataset (720 stimuli, 3 subjects) using Representationa",
+      "aiSummary": "This study investigates whether different learning rules in artificial neural networks determine how their internal representations align with human visual cortex processing. Researchers systematically compared four learning rules (backpropagation, feedback alignment, predictive coding, and spike-timing-dependent plasticity) applied to identical convolutional neural network architectures. They evaluated these networks against human fMRI data from the THINGS-fMRI dataset containing 720 stimuli recorded from 3 subjects using representational similarity analysis. Surprisingly, untrained CNNs matched the representational alignment of networks trained with backpropagation, the standard learning method. This finding suggests that neural network architecture itself may be more critical than the learning rule in determining similarity to human visual cortex representations. The study's limitations include a small number of subjects and evaluation on a specific stimulus dataset.\n\n##",
+      "aiSummaryKo": "본 연구는 인공신경망이 인간의 뇌 시각 영역과 얼마나 유사한 방식으로 정보를 처리하는지 알아보기 위해 진행되었습니다. 연구팀은 4가지 서로 다른 학습 규칙(역전파, 피드백 정렬, 예측 부호화, 스파이크 시간 종속 가소성)을 동일한 신경망 구조에 적용하여 비교했습니다. THINGS-fMRI 데이터셋(720개 자극, 3명 피험자)에서 수집한 인간의 뇌 활동 데이터와 신경망의 내부 표현을 비교 분석했습니다. 놀랍게도 학습되지 않은 신경망(untrained CNN)이 전통적인 역전파 학습 방식과 거의 유사한 수준으로 인간의 시각피질 표현과 일치했습니다. 이 발견은 신경망의 아키텍처 자체가 학습 규칙보다 인간 뇌와의 유사성에 더 중요할 수 있음을 시사합니다. 다만 본 연구는 제한된 수의 피험자와 특정 자극 범주에만 적용되었다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This study investigates whether different learning rules in artificial neural networks determine how their internal representations align with human visual cortex processing. Researchers systematically compared four learning rules (backpropagation, feedback alignment, predictive coding, and spike-timing-dependent plasticity) applied to identical convolutional neural network architectures. They evaluated these networks against human fMRI data from the THINGS-fMRI dataset containing 720 stimuli recorded from 3 subjects using representational similarity analysis. Surprisingly, untrained CNNs matched the representational alignment of networks trained with backpropagation, the standard learning method. This finding suggests that neural network architecture itself may be more critical than the learning rule in determining similarity to human visual cortex representations. The study's limitations include a small number of subjects and evaluation on a specific stimulus dataset.\n\n##",
+      "keyPoints": [
+        "**학습 규칙의 영향 최소화** / Minimal Impact of Learning Rules: 역전파, 피드백 정렬, 예측 부호화, STDP 등 서로 다른 학습 규칙들이 인간 시각피질 표현과의 일치도에 유사한 수준의 영향을 미침",
+        "**비학습 신경망의 성능** / Untrained Network Performance: 학습을 거치지 않은 신경망이 학습된 신경망과 거의 동등한 수준으로 인간 뇌 데이터와 일치하는 것으로 나타남",
+        "**아키텍처의 우월성** / Architecture Primacy: 신경망의 구조(아키텍처)가 학습 과정보다 인간 뇌와의 생물학적 유사성 결정에 더 중요한 역할을 할 가능성",
+        "**계산신경과학의 함의** / Implications for Computational Neuroscience: 인공신경망을 뇌 모델로 사용할 때 학습 규칙보다 망의 기본 구조에 더 주목해야 함을 시사하는 발견"
+      ],
+      "url": "https://arxiv.org/abs/2604.16875",
+      "featured": true
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "25일 전 / 25d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article challenges the notion that humans are independent individuals, proposing instead that we are deeply interconnected with other living beings. Using respiration as an example, the piece explains how the oxygen we inhale comes from plants, while the carbon dioxide we exhale provides essential material for plant photosynthesis. This demonstrates that human existence depends on continuous material exchange with surrounding life forms. Furthermore, the human body hosts countless microorganisms, suggesting we consist of far more biological entities than we typically recognize. This perspective transcends the boundaries between psychology and biology, proposing a fundamental redefinition of human identity and existence. However, the article's limitation lies in its conceptual focus, lacking specific empirical research data to support these theoretical claims.\n\n##",
+      "aiSummaryKo": "본 기사는 인간이 독립적인 개체가 아니라 다른 생명체들과 깊이 있게 상호연결되어 있다는 개념을 다룬다. 호흡을 예시로 들어, 인간이 들이마신 산소는 식물에서 나온 것이고, 인간이 내쉬는 이산화탄소는 식물의 광합성에 필요한 물질임을 설명한다. 이는 인간 신체가 주변 생명체와의 지속적인 물질 교환을 통해 존재한다는 것을 보여준다. 또한 인간의 신체는 수많은 미생물을 숙주하고 있어, 우리가 생각하는 것보다 훨씬 더 많은 생명체들로 이루어져 있다는 점을 강조한다. 이러한 관점은 심리학과 생물학의 경계를 넘어, 인간의 정체성과 존재에 대한 근본적인 재정의를 제안한다. 다만 기사는 개념적 설명에 집중하여 구체적인 실증 연구 데이터가 부족한 한계가 있다.\n\n##",
+      "aiSummaryEn": "This article challenges the notion that humans are independent individuals, proposing instead that we are deeply interconnected with other living beings. Using respiration as an example, the piece explains how the oxygen we inhale comes from plants, while the carbon dioxide we exhale provides essential material for plant photosynthesis. This demonstrates that human existence depends on continuous material exchange with surrounding life forms. Furthermore, the human body hosts countless microorganisms, suggesting we consist of far more biological entities than we typically recognize. This perspective transcends the boundaries between psychology and biology, proposing a fundamental redefinition of human identity and existence. However, the article's limitation lies in its conceptual focus, lacking specific empirical research data to support these theoretical claims.\n\n##",
+      "keyPoints": [
+        "**호흡의 상호성** / Reciprocity of Respiration",
+        "**신체의 집단성** / Collective Nature of the Body",
+        "**개인성의 재정의** / Redefinition of Individuality",
+        "**생태학적 상호연결성** / Ecological Interconnectedness"
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
     {
       "id": "78530ccb91dd",
       "tag": "psych",
@@ -21,7 +63,7 @@
         "**정책적 시사점**: 연령대별 차별화된 약물 정책과 청소년 보호 중심의 규제 필요성 제기 / Highlights the need for age-differentiated drug policies and youth-centered regulatory approaches"
       ],
       "url": "https://www.psypost.org/mental-health-risks-of-cannabis-addiction-depend-heavily-on-age/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "cdbfc0991369",
@@ -378,48 +420,6 @@
         "**실무적 기여**: 연구자들이 문제 특성에 맞는 최적의 통신 방식 선택 기준 제공 / **Practical Contribution**: Providing criteria for researchers to select optimal communication methods suited to problem characteristics"
       ],
       "url": "https://arxiv.org/abs/2604.25972",
-      "featured": false
-    },
-    {
-      "id": "beb16cc30a1c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Science debunks the fashion myth that vertical stripes are always slimming",
-      "titleKo": "과학이 밝혀낸 진실: 세로 줄무늬가 항상 날씬해 보이는 것은 아니다",
-      "summary": "Do vertical stripes actually make a person look thinner? A new study published in i-Perception provides evidence that horizontal pencil stripes can produce a more slimming effect. Researchers found that specific line spacing and direction alter our visual judgment of human figures.",
-      "aiSummary": "A new study challenges the popular fashion myth that vertical stripes always make people look slimmer. Published in the journal i-Perception, research provides evidence that horizontal pencil stripes can actually produce a more slimming effect than vertical ones. The study demonstrates that specific line spacing and direction significantly alter our visual perception of human figures. Researchers found that the arrangement and orientation of stripes influence how our brains judge body size and proportions. These findings provide scientific backing for fashion and clothing design decisions, helping consumers make more informed choices about their wardrobes. However, the research has limitations as variables such as individual body type, skin tone, lighting conditions, and fabric texture may affect the actual visual impact in real-world situations.\n\n##",
-      "aiSummaryKo": "세로 줄무늬가 항상 날씬해 보인다는 일반적인 패션 통념을 검증하기 위해 과학자들이 새로운 연구를 진행했다. 연구팀은 i-Perception 저널에 발표한 논문을 통해 가로 가는 줄무늬가 오히려 더 날씬한 효과를 낼 수 있다는 증거를 제시했다. 이 연구는 인간의 시각적 인지가 줄무늬의 간격과 방향에 따라 어떻게 달라지는지를 보여준다. 구체적인 실험 결과에 따르면 특정한 선의 배치와 방향이 신체 크기 인지에 유의미한 영향을 미친다. 이 발견은 패션과 의류 설계에 있어 과학적 근거를 제공함으로써 소비자들이 더 나은 의류 선택을 할 수 있도록 돕는다. 다만 개인의 신체 타입, 피부색, 조명 등 다양한 변수가 실제 효과에 영향을 미칠 수 있다는 점이 연구의 한계로 남아있다.\n\n##",
-      "aiSummaryEn": "A new study challenges the popular fashion myth that vertical stripes always make people look slimmer. Published in the journal i-Perception, research provides evidence that horizontal pencil stripes can actually produce a more slimming effect than vertical ones. The study demonstrates that specific line spacing and direction significantly alter our visual perception of human figures. Researchers found that the arrangement and orientation of stripes influence how our brains judge body size and proportions. These findings provide scientific backing for fashion and clothing design decisions, helping consumers make more informed choices about their wardrobes. However, the research has limitations as variables such as individual body type, skin tone, lighting conditions, and fabric texture may affect the actual visual impact in real-world situations.\n\n##",
-      "keyPoints": [
-        "**세로 줄무늬 신화 깨짐** / The vertical stripe slimming myth is debunked",
-        "전통적인 패션 관념이 과학적으로 검증되지 않았음을 시사",
-        "**가로 줄무늬의 효과** / Horizontal stripes show slimming effect",
-        "특정 조건에서 가로 줄무늬가 더 효과적일 수 있음을 입증"
-      ],
-      "url": "https://www.psypost.org/science-debunks-the-fashion-myth-that-vertical-stripes-are-always-slimming/",
-      "featured": false
-    },
-    {
-      "id": "664d7679f68d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "11시간 전 / 11h ago",
-      "title": "Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective",
-      "titleKo": "KV 캐시 제거를 통합 정보 이론적 목적함수로 재검토하기",
-      "summary": "arXiv:2604.25975v1 Announce Type: new Abstract: Key-value (KV) caching is essential for large language model inference, yet its memory overhead poses a critical bottleneck for long-context generation. Existing eviction policies predominantly rely on empirical heuristics, lacking a rigorous theoretical foundation. This work rethinks KV cache eviction through the lens of the Information Bottleneck principle. Under a linear-Gaussian surrogate of attention, we derive a closed-form mutual information objective that characterizes the effective information capacity of a retained KV cache subset. This",
-      "aiSummary": "Large Language Models (LLMs) use KV caching to store previous computations for faster inference, but memory constraints become critical during long-context generation. Existing eviction policies rely primarily on empirical heuristics without rigorous theoretical foundations. This research reconsiders KV cache eviction through the Information Bottleneck principle from information theory. By using a linear-Gaussian surrogate model of attention mechanisms, the researchers derived a closed-form mutual information objective function that characterizes the effective information capacity of retained KV cache subsets. This approach provides a theoretically sound foundation for balancing memory efficiency with model performance optimization. The significance lies in replacing ad-hoc methods with mathematically rigorous cache management principles rooted in information theory. However, the linear-Gaussian approximation may not perfectly capture the complexity of actual attention mechanisms in practical applications.\n\n##",
-      "aiSummaryKo": "대규모 언어 모델(LLM)은 빠른 응답을 위해 이전 계산 결과를 저장하는 KV 캐시를 사용하는데, 긴 문맥을 처리할 때 메모리 부족이 심각한 문제가 된다. 기존 연구들은 주로 경험적 휴리스틱에 의존하여 어떤 정보를 버릴지 결정했지만, 이론적 근거가 부족했다. 이 연구는 정보이론의 '정보 병목(Information Bottleneck)' 원칙을 적용하여 KV 캐시 제거 정책을 재검토한다. 선형-가우시안 근사 모델을 사용하여 남겨진 KV 캐시의 유효 정보 용량을 수학적으로 계산할 수 있는 상호정보(mutual information) 목적함수를 도출했다. 이 접근법은 메모리 효율성과 모델 성능 사이의 균형을 이론적으로 최적화하는 기초를 제공한다. 연구의 의의는 기존의 임시방편적 방법에서 벗어나 수학적으로 엄밀한 캐시 관리 원칙을 제시하는 것이다. 다만 선형-가우시안 근사가 실제 주의(attention) 메커니즘을 완벽하게 표현하지 못할 수 있다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "Large Language Models (LLMs) use KV caching to store previous computations for faster inference, but memory constraints become critical during long-context generation. Existing eviction policies rely primarily on empirical heuristics without rigorous theoretical foundations. This research reconsiders KV cache eviction through the Information Bottleneck principle from information theory. By using a linear-Gaussian surrogate model of attention mechanisms, the researchers derived a closed-form mutual information objective function that characterizes the effective information capacity of retained KV cache subsets. This approach provides a theoretically sound foundation for balancing memory efficiency with model performance optimization. The significance lies in replacing ad-hoc methods with mathematically rigorous cache management principles rooted in information theory. However, the linear-Gaussian approximation may not perfectly capture the complexity of actual attention mechanisms in practical applications.\n\n##",
-      "keyPoints": [
-        "**KV 캐시 메모리 문제** / KV cache memory bottleneck: LLM의 장문맥 처리 시 메모리 오버헤드가 추론 속도의 주요 제약 요소",
-        "**정보이론 기반 접근** / Information-theoretic foundation: 기존 휴리스틱 기반 제거 정책 대신 정보 병목(Information Bottleneck) 원칙으로 이론화",
-        "**수학적 최적화 목적함수** / Mutual information objective: 선형-가우시안 모델 하에서 남겨진 캐시의 유효 정보 용량을 정량적으로 측정 가능",
-        "**실무적 한계와 향후 과제** / Theoretical-practical gap: 선형-가우시안 근사의 단순화로 인한 실제 주의 메커니즘 표현 한계 존재"
-      ],
-      "url": "https://arxiv.org/abs/2604.25975",
       "featured": false
     }
   ]
