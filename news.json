@@ -1,7 +1,223 @@
 {
-  "updated": "2026-04-30T00:01:18.440423+00:00",
+  "updated": "2026-04-30T04:36:27.386902+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "99333e098694",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "Subtle changes in everyday tasks can signal Alzheimer’s risk years before memory loss",
+      "titleKo": "일상적 작업의 미묘한 변화가 기억력 상실 수년 전 알츠하이머병 위험을 알릴 수 있다",
+      "summary": "Standard cognitive tests can be flawed by cultural and educational biases. Researchers argue that monitoring a patient's ability to perform daily routines offers a more practical, culturally adaptable early warning system for dementia.",
+      "aiSummary": "This research addresses a critical gap in dementia diagnosis: standard cognitive tests often contain cultural and educational biases that limit their reliability. Researchers propose that monitoring subtle changes in patients' ability to perform daily tasks offers a more practical and culturally adaptable early warning system for dementia, potentially detecting Alzheimer's risk years before memory loss becomes apparent. By tracking changes in everyday activities such as meal preparation, dressing, and financial management, the team developed a diagnostic approach that transcends cultural and educational barriers. The findings indicate that declines in daily functioning serve as more sensitive early indicators than traditional memory tests. This approach has significant clinical implications, potentially enabling earlier therapeutic intervention and better patient outcomes. However, the study is limited by the need for longer-term longitudinal follow-up data and validation across diverse cultural populations.\n\n##",
+      "aiSummaryKo": "기존의 표준 인지 검사는 문화적, 교육적 편견으로 인해 신뢰성이 떨어질 수 있다는 문제에서 출발한 이 연구는, 일상적 과제 수행 능력 모니터링이 기억력 상실이 나타나기 수년 전에 치매 위험을 조기에 발견할 수 있는 더 실용적인 방법임을 제시한다. 연구팀은 환자들의 일상생활 능력(식사 준비, 옷 입기, 금전 관리 등)의 미묘한 변화를 추적함으로써, 문화와 교육 수준에 관계없이 적용 가능한 조기 경고 시스템을 개발했다. 이러한 접근법은 기존 인지 검사의 편향성을 극복하고 더 많은 사람들에게 공평한 진단 기회를 제공한다. 특히 기억력 검사보다 일상 기능 저하가 더 민감한 초기 지표임을 밝혀냈다. 이 연구는 알츠하이머 질환의 조기 진단으로 인한 치료 개입 시간을 확보할 수 있다는 점에서 임상적 의의가 크다. 다만 장기 추적 관찰 데이터 부족과 다양한 문화권에서의 추가 검증이 필요한 한계가 있다.\n\n##",
+      "aiSummaryEn": "This research addresses a critical gap in dementia diagnosis: standard cognitive tests often contain cultural and educational biases that limit their reliability. Researchers propose that monitoring subtle changes in patients' ability to perform daily tasks offers a more practical and culturally adaptable early warning system for dementia, potentially detecting Alzheimer's risk years before memory loss becomes apparent. By tracking changes in everyday activities such as meal preparation, dressing, and financial management, the team developed a diagnostic approach that transcends cultural and educational barriers. The findings indicate that declines in daily functioning serve as more sensitive early indicators than traditional memory tests. This approach has significant clinical implications, potentially enabling earlier therapeutic intervention and better patient outcomes. However, the study is limited by the need for longer-term longitudinal follow-up data and validation across diverse cultural populations.\n\n##",
+      "keyPoints": [
+        "**표준 인지 검사의 한계** / Limitations of Standard Cognitive Tests",
+        "**일상 기능 모니터링의 우수성** / Superiority of Daily Functioning Monitoring",
+        "**조기 진단의 임상적 이점** / Clinical Advantages of Early Detection",
+        "**문화 적응적 진단 방법의 가능성** / Potential for Culturally Adaptive Diagnosis"
+      ],
+      "url": "https://www.psypost.org/subtle-changes-in-everyday-tasks-can-signal-alzheimers-risk-years-before-memory-loss/",
+      "featured": true
+    },
+    {
+      "id": "712d4e5baec4",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "방금 전 / Just now",
+      "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+      "titleKo": "실제 자본 환경에서 온체인 언어모델 에이전트를 위한 운영층 제어",
+      "summary": "arXiv:2604.26091v1 Announce Type: new Abstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX Terminal Pro, a 21-day deployment in which 3,505 user-funded agents traded real ETH in a bounded onchain market. Users configured vaults through structured controls and natural-language strategies, but only agents could choose normal buy/sell trades. The system produced 7.5M agent invocations, roughly 300K onchain actions, about $20M in volume, more than 5,000 ETH deployed, roughly 70B inference t",
+      "aiSummary": "This research presents the first large-scale real-world study examining the reliability of autonomous language-model agents handling actual capital in financial transactions. The DX Terminal Pro platform conducted a 21-day deployment involving 3,505 user-funded agents trading real Ethereum (ETH) in a bounded onchain market. Users configured trading vaults using structured controls and natural-language strategies, while only AI agents could execute actual buy/sell orders. The system generated 7.5 million agent invocations, approximately 300,000 onchain transactions, roughly $20 million in trading volume, and deployed more than 5,000 ETH with about 70 billion inference tokens. This study is significant for evaluating AI agent reliability and safety in real economic conditions and contributes to developing control mechanisms for autonomous AI systems. However, the research is limited by its specific market conditions and the bounded nature of the trading environment.\n\n##",
+      "aiSummaryKo": "본 연구는 실제 자금을 다루는 자율형 언어모델 에이전트의 신뢰성을 검증하는 첫 번째 대규모 현장 연구입니다. DX Terminal Pro라는 플랫폼에서 21일간 진행된 실험에 3,505개의 사용자 자금 에이전트가 참여하여 실제 이더리움(ETH)을 거래했습니다. 사용자들은 구조화된 제어 시스템과 자연어 전략으로 거래 금고(vault)를 설정했지만, 실제 매매 주문은 AI 에이전트만이 실행할 수 있도록 설계했습니다. 연구 결과 750만 회의 에이전트 호출, 약 30만 건의 온체인 거래, 약 2천만 달러 규모의 거래량, 5천 개 이상의 ETH 배치가 이루어졌습니다. 이 연구는 실제 경제 상황에서 AI 에이전트의 신뢰성과 안전성을 평가한 중요한 사례이며, 자율형 AI 시스템의 제어 메커니즘 개발에 기여합니다. 다만 특정 시장 조건과 제한된 거래 환경에서의 실험이라는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research presents the first large-scale real-world study examining the reliability of autonomous language-model agents handling actual capital in financial transactions. The DX Terminal Pro platform conducted a 21-day deployment involving 3,505 user-funded agents trading real Ethereum (ETH) in a bounded onchain market. Users configured trading vaults using structured controls and natural-language strategies, while only AI agents could execute actual buy/sell orders. The system generated 7.5 million agent invocations, approximately 300,000 onchain transactions, roughly $20 million in trading volume, and deployed more than 5,000 ETH with about 70 billion inference tokens. This study is significant for evaluating AI agent reliability and safety in real economic conditions and contributes to developing control mechanisms for autonomous AI systems. However, the research is limited by its specific market conditions and the bounded nature of the trading environment.\n\n##",
+      "keyPoints": [
+        "**대규모 실제 자본 실험** / Large-scale Real Capital Experiment: 3,505개의 에이전트가 실제 이더리움으로 $20M 규모의 거래를 수행, 언어모델 에이전트의 현실 적용 가능성을 입증",
+        "**다층 제어 시스템의 효과** / Multi-layer Control System Effectiveness: 사용자의 구조화된 제어와 자연어 전략을 결합하여 AI 의사결정에 대한 감시 및 제한을 구현, 금융 거래에서의 신뢰성 확보",
+        "**막대한 규모의 트랜잭션 데이터** / Massive Transaction Scale: 750만 회 호출, 30만 건의 온체인 거래, 70억 개 토큰 추론으로 AI 에이전트의 안정성과 오류율을 대규모로 평가 가능",
+        "**실제 금융 환경에서의 AI 안전성 검증** / AI Safety in Real Financial Context: 실제 자금 손실 위험이 있는 환경에서 자율형 AI 시스템의 제어 메커니즘 개발의 중요성을 강조, 향후 AI 규제 및 설계 기준 마련에 기여"
+      ],
+      "url": "https://arxiv.org/abs/2604.26091",
+      "featured": false
+    },
+    {
+      "id": "a9e1875e0255",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "방금 전 / Just now",
+      "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+      "titleKo": "증류-신념: 물리장에서의 폐루프 역원천 위치파악 및 특성화",
+      "summary": "arXiv:2604.26095v1 Announce Type: new Abstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localize sources and infer latent field parameters under strict time constraints.} {The core challenge lies in the belief-space objective: valid uncertainty estimation requires expensive Bayesian inference, whereas using fast learned belief model leads to reward hacking, in which the policy exploits approximation errors rather than actually reducing uncertainty.} {We propose \\textbf{Distill-Belief}, a teacher--student framework",
+      "aiSummary": "This research addresses the problem of inverse source localization and characterization (ISLC) in physical fields, where a mobile agent must efficiently select measurements to locate sources and infer latent field parameters under strict time constraints. The core challenge is the belief-space objective: accurate uncertainty estimation requires expensive Bayesian inference, while using fast learned belief models leads to reward hacking, where the policy exploits approximation errors rather than genuinely reducing uncertainty. The researchers propose Distill-Belief, a teacher-student framework designed to balance computational efficiency and accuracy. This approach can be applied to various real-world scenarios such as environmental pollution tracking and disaster response where real-time decision-making is critical. However, as this work is presented at the abstract stage, specific experimental results and performance metrics have not yet been provided.",
+      "aiSummaryKo": "본 연구는 물리적 장(field)에서 오염원의 위치와 특성을 찾아내는 역소스 위치파악 및 특성화(ISLC) 문제를 다룹니다. 모바일 에이전트가 제한된 시간 내에 효율적인 측정을 선택하여 오염원을 찾고 숨겨진 장의 매개변수를 추론해야 하는 도전적인 상황입니다. 기존 방법의 핵심 문제는 정확한 불확실성 추정을 위해서는 계산 비용이 많이 드는 베이지안 추론이 필요하지만, 빠른 학습 기반 모델을 사용하면 실제 불확실성 감소 대신 근사 오차를 이용하는 '보상 해킹' 현상이 발생한다는 것입니다. 연구팀은 이를 해결하기 위해 'Distill-Belief'라는 교사-학생 프레임워크를 제안하여, 계산 효율성과 정확성의 균형을 맞추려 합니다. 이 방법은 실시간 의사결정이 필요한 환경오염 추적, 재난 대응 등 다양한 실제 응용에 활용될 수 있습니다. 다만, 본 연구는 아직 추상(abstract) 단계로 구체적인 실험 결과와 성능 수치가 제시되지 않았습니다.",
+      "aiSummaryEn": "This research addresses the problem of inverse source localization and characterization (ISLC) in physical fields, where a mobile agent must efficiently select measurements to locate sources and infer latent field parameters under strict time constraints. The core challenge is the belief-space objective: accurate uncertainty estimation requires expensive Bayesian inference, while using fast learned belief models leads to reward hacking, where the policy exploits approximation errors rather than genuinely reducing uncertainty. The researchers propose Distill-Belief, a teacher-student framework designed to balance computational efficiency and accuracy. This approach can be applied to various real-world scenarios such as environmental pollution tracking and disaster response where real-time decision-making is critical. However, as this work is presented at the abstract stage, specific experimental results and performance metrics have not yet been provided.",
+      "keyPoints": [
+        "폐쇄 루프 역소스 위치파악: 모바일 에이전트가 제한된 시간 내에 오염원 위치와 물리적 장의 특성을 동시에 추론해야 함 / Closed-loop inverse source localization: Mobile agents must infer both source locations and physical field characteristics within strict time constraints",
+        "보상 해킹 문제: 빠른 학습 모델 사용 시 실제 불확실성 감소가 아닌 근사 오차 이용 현상 발생 / Reward hacking problem: Fast learned models exploit approximation errors rather than genuinely reducing uncertainty",
+        "Distill-Belief 프레임워크: 교사-학생 구조로 베이지안 정확성과 계산 효율성의 균형 추구 / Distill-Belief framework: Teacher-student architecture balancing Bayesian accuracy with computational efficiency",
+        "실제 응용 가능성: 환경 오염 추적, 재난 대응, 센서 네트워크 최적화 등 다양한 분야에 활용 가능 / Practical applications: Environmental monitoring, disaster response, sensor network optimization, and related real-world scenarios"
+      ],
+      "url": "https://arxiv.org/abs/2604.26095",
+      "featured": false
+    },
+    {
+      "id": "1024a0a0f949",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "방금 전 / Just now",
+      "title": "Evaluating Strategic Reasoning in Forecasting Agents",
+      "titleKo": "예측 에이전트의 전략적 추론 평가",
+      "summary": "arXiv:2604.26106v1 Announce Type: new Abstract: Forecasting benchmarks produce accuracy leaderboards but little insight into why some forecasters are more accurate than others. We introduce Bench to the Future 2 (BTF-2), 1,417 pastcasting questions with a frozen 15M-document research corpus in which agents reproducibly research and forecast offline, producing full reasoning traces. BTF-2 detects accuracy differences of 0.004 Brier score, and can distinguish differential agent strengths in research vs. judgment. We build a forecaster 0.011 Brier more accurate than any single frontier agent, and",
+      "aiSummary": "This research was conducted to understand why different forecasting AI agents produce varying levels of accuracy. The team developed BTF-2 (Bench to the Future 2), a new benchmark consisting of 1,417 pastcasting questions and a frozen corpus of 15 million research documents. In the experimental design, AI agents utilized these materials to make predictions while recording their complete reasoning processes. The results showed that BTF-2 could detect differences as small as 0.004 in Brier score (an accuracy metric), making it more sensitive than existing benchmarks. Notably, the benchmark could distinguish whether agents' strengths lay in information gathering or judgment capabilities. Through this analysis, the research team successfully created a forecaster that was 0.011 Brier score more accurate than any single frontier agent. However, limitations include reliance on a fixed corpus and dependence on historical data.\n\n##",
+      "aiSummaryKo": "이 연구는 예측 AI 에이전트들이 왜 서로 다른 정확도를 보이는지 이해하기 위해 진행되었습니다. 연구팀은 BTF-2(Bench to the Future 2)라는 새로운 벤치마크를 개발했는데, 이는 1,417개의 과거 예측 문제와 1,500만 개의 고정된 연구 자료로 구성되어 있습니다. 실험 설계에서 AI 에이전트들은 이 자료를 활용해 예측을 하면서 전체 추론 과정을 기록하도록 했습니다. 결과적으로 BTF-2는 브라이어 점수(정확도 측정 지표) 0.004라는 아주 작은 차이도 감지할 수 있어 기존 벤치마크보다 민감했습니다. 특히 이 벤치마크는 에이전트들의 강점이 정보 수집 능력에 있는지 판단력에 있는지를 구분할 수 있었습니다. 연구팀은 이러한 분석을 통해 개별 에이전트보다 0.011 브라이어 점수만큼 더 정확한 예측기를 만들 수 있었습니다. 다만, 고정된 자료만 사용했다는 점과 과거 데이터 기반이라는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research was conducted to understand why different forecasting AI agents produce varying levels of accuracy. The team developed BTF-2 (Bench to the Future 2), a new benchmark consisting of 1,417 pastcasting questions and a frozen corpus of 15 million research documents. In the experimental design, AI agents utilized these materials to make predictions while recording their complete reasoning processes. The results showed that BTF-2 could detect differences as small as 0.004 in Brier score (an accuracy metric), making it more sensitive than existing benchmarks. Notably, the benchmark could distinguish whether agents' strengths lay in information gathering or judgment capabilities. Through this analysis, the research team successfully created a forecaster that was 0.011 Brier score more accurate than any single frontier agent. However, limitations include reliance on a fixed corpus and dependence on historical data.\n\n##",
+      "keyPoints": [
+        "**정밀한 성능 측정** / Precise Performance Measurement",
+        "2는 0.004 브라이어 점수 차이도 감지 가능해 기존 벤치마크보다 훨씬 더 세밀한 에이전트 간 차이를 측정할 수 있습니다.",
+        "**역량 분석 기능** / Capability Analysis",
+        "**완전한 추론 추적** / Full Reasoning Traces"
+      ],
+      "url": "https://arxiv.org/abs/2604.26106",
+      "featured": false
+    },
+    {
+      "id": "f9836e594358",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "방금 전 / Just now",
+      "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
+      "titleKo": "사용자 행동 로그로부터 계층적 다중 페르소나 유도: 증거 기반의 진실한 페르소나 학습",
+      "summary": "arXiv:2604.26120v1 Announce Type: new Abstract: Behavioral logs provide rich signals for user modeling, but are noisy and interleaved across diverse intents. Recent work uses LLMs to generate interpretable natural-language personas from user logs, yet evaluation often emphasizes downstream utility, providing limited assurance of persona quality itself. We propose a hierarchical framework that aggregates user actions into intent memories and induces multiple evidence-grounded personas by clustering and labeling these memories. We formulate persona induction as an optimization problem over perso",
+      "aiSummary": "This study proposes a method to create reliable user personas from behavioral log data. While previous research used large language models (LLMs) to generate natural language personas from user behavior, it provided limited validation of persona quality itself. The research team introduces a \"hierarchical multi-persona induction\" approach that first aggregates user actions into intent-based memories, then derives evidence-grounded personas through clustering and labeling. This method can reflect diverse user interests separately (e.g., shopping, music, work) by generating multiple personas. The research's strength lies in grounding personas in actual user behavioral data, though current limitations include evaluation on limited datasets and the need for validation across more diverse user groups.\n\n##",
+      "aiSummaryKo": "본 연구는 사용자의 행동 로그 데이터로부터 신뢰할 수 있는 사용자 프로필(페르소나)을 만드는 방법을 제안합니다. 기존 연구들은 대규모 언어모델(LLM)을 사용해 사용자 행동으로부터 자연어 형태의 페르소나를 생성했지만, 생성된 페르소나의 품질 자체를 충분히 검증하지 못했습니다. 이 연구팀은 '계층적 다중 페르소나 유도' 방식을 제안하여, 사용자 행동을 먼저 의도별 기억으로 집계한 후, 이들을 군집화하고 레이블링하여 증거 기반의 여러 페르소나를 도출합니다. 이는 사용자의 다양한 관심사(예: 쇼핑, 음악 감상, 업무)를 각각 반영하는 페르소나들을 만들 수 있다는 점에서 의의가 있습니다. 연구의 강점은 페르소나가 실제 사용자 행동 데이터에 기반한다는 점이지만, 현재는 소수의 데이터셋에서만 평가되었으며 더 다양한 사용자 그룹에서의 검증이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study proposes a method to create reliable user personas from behavioral log data. While previous research used large language models (LLMs) to generate natural language personas from user behavior, it provided limited validation of persona quality itself. The research team introduces a \"hierarchical multi-persona induction\" approach that first aggregates user actions into intent-based memories, then derives evidence-grounded personas through clustering and labeling. This method can reflect diverse user interests separately (e.g., shopping, music, work) by generating multiple personas. The research's strength lies in grounding personas in actual user behavioral data, though current limitations include evaluation on limited datasets and the need for validation across more diverse user groups.\n\n##",
+      "keyPoints": [
+        "**계층적 프레임워크 / Hierarchical Framework**: 사용자 행동을 의도별 기억으로 먼저 집계한 후 페르소나 생성 | User actions aggregated into intent-based memories before persona generation",
+        "**증거 기반 페르소나 / Evidence-Grounded Personas**: 실제 사용자 행동 로그에 직접 연계된 신뢰할 수 있는 페르소나 생성 | Trustworthy personas directly linked to actual behavioral logs",
+        "**페르소나 품질 평가 개선 / Improved Persona Quality Evaluation**: 기존의 실용성 중심 평가를 벗어나 페르소나 자체의 신뢰성과 정확성 검증 | Moving beyond downstream utility to validate reliability and accuracy of personas themselves",
+        "**다중 페르소나 지원 / Multiple Persona Support**: 한 사용자의 다양한 관심사와 행동 패턴을 여러 페르소나로 표현 | Representing diverse interests and behavior patterns of single users through multiple personas"
+      ],
+      "url": "https://arxiv.org/abs/2604.26120",
+      "featured": false
+    },
+    {
+      "id": "f9a442aeb34b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "방금 전 / Just now",
+      "title": "A Multimodal and Explainable Machine Learning Approach to Diagnosing Multi-Class Ejection Fraction from Electrocardiograms",
+      "titleKo": "심전도로부터 다중 분류 박출률을 진단하기 위한 다중양식 및 설명 가능한 기계학습 접근법",
+      "summary": "arXiv:2604.25942v1 Announce Type: new Abstract: Left ventricular ejection fraction (LVEF) assessment depends on echocardiography, limiting access in primary care and resource-constrained settings. We developed a multimodal machine-learning framework that combines engineered 12-lead ECG timeseries features with structured EHR variables to classify LVEF into four clinically used strata: normal (>50%), mildly reduced (40-50%), moderately reduced (30-40%), and severely reduced (<30%). To support model explainability, we identified the most influential ECG and EHR features via SHAP attributions. Us",
+      "aiSummary": "Left ventricular ejection fraction (LVEF) assessment is crucial for cardiac function evaluation but currently relies exclusively on echocardiography, limiting accessibility in primary care and resource-constrained settings. This study developed a multimodal machine learning framework that integrates 12-lead ECG timeseries features with structured EHR (electronic health record) variables to classify LVEF into four clinically relevant categories: normal (>50%), mildly reduced (40-50%), moderately reduced (30-40%), and severely reduced (<30%). The research team used SHAP (Shapley Additive exPlanations) attribution analysis to identify the most influential ECG and EHR features, ensuring model explainability and transparency in AI decision-making. The study's significance lies in enabling cardiac function assessment through simple ECG recordings without requiring echocardiography, potentially expanding access to diagnostic tools in underserved regions. A key limitation is the need for further validation across diverse populations, geographic regions, and healthcare settings to ensure generalizability and clinical reliability.\n\n##",
+      "aiSummaryKo": "좌심실 박출량(LVEF)은 심장 기능을 평가하는 중요한 지표이지만, 현재는 심초음파 검사에만 의존하고 있어 기초 의료 시설과 자원이 부족한 지역에서 접근이 어렵습니다. 이 연구는 머신러닝을 활용하여 12개 채널 심전도(ECG) 데이터와 전자의무기록(EHR) 정보를 결합한 새로운 진단 시스템을 개발했습니다. 이 시스템은 좌심실 박출량을 정상(50% 초과), 경미하게 감소(40-50%), 중등도로 감소(30-40%), 심하게 감소(30% 미만)의 4가지 임상적 단계로 분류합니다. 연구팀은 SHAP(Shapley Additive exPlanations) 기법을 사용하여 모델 예측에 가장 영향을 미친 ECG 및 EHR 특성들을 파악함으로써 인공지능 의사결정의 투명성을 확보했습니다. 이 연구의 의의는 심초음파 검사 없이도 간단한 심전도만으로 심장 기능을 평가할 수 있는 기회를 제공한다는 점입니다. 다만 다양한 인종, 지역, 의료 환경에서의 추가 검증이 필요한 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "Left ventricular ejection fraction (LVEF) assessment is crucial for cardiac function evaluation but currently relies exclusively on echocardiography, limiting accessibility in primary care and resource-constrained settings. This study developed a multimodal machine learning framework that integrates 12-lead ECG timeseries features with structured EHR (electronic health record) variables to classify LVEF into four clinically relevant categories: normal (>50%), mildly reduced (40-50%), moderately reduced (30-40%), and severely reduced (<30%). The research team used SHAP (Shapley Additive exPlanations) attribution analysis to identify the most influential ECG and EHR features, ensuring model explainability and transparency in AI decision-making. The study's significance lies in enabling cardiac function assessment through simple ECG recordings without requiring echocardiography, potentially expanding access to diagnostic tools in underserved regions. A key limitation is the need for further validation across diverse populations, geographic regions, and healthcare settings to ensure generalizability and clinical reliability.\n\n##",
+      "keyPoints": [
+        "**혁신적 진단 접근**: 심초음파 검사에 의존하던 심장 기능 평가를 ECG 데이터와 전자의무기록 결합으로 가능하게 함 / Innovative diagnostic approach enabling cardiac function assessment through ECG and EHR data instead of echocardiography dependency",
+        "**4단계 분류 시스템**: 좌심실 박출량을 정상·경미·중등도·심한 감소 4가지로 분류하여 임상적 의사결정을 지원 / Four-tiered LVEF classification system supporting clinical decision-making across multiple severity levels",
+        "**설명 가능한 AI(Explainable AI)**: SHAP 기법으로 모델의 예측 근거를 명확히 하여 의료진과 환자의 신뢰성 확보 / SHAP-based explainability ensuring transparency and trustworthiness for healthcare providers and patients",
+        "**자원 제약 해결**: 접근성이 낮은 지역에서도 기본적인 심전도 검사만으로 심장 질환 조기 진단 가능 / Addresses healthcare disparities by enabling early cardiac disease diagnosis with basic ECG in resource-limited settings"
+      ],
+      "url": "https://arxiv.org/abs/2604.25942",
+      "featured": false
+    },
+    {
+      "id": "6d042f3f86ca",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "방금 전 / Just now",
+      "title": "A Randomized PDE Energy driven Iterative Framework for Efficient and Stable PDE Solutions",
+      "titleKo": "PDE 에너지 기반 확률적 반복 프레임워크를 통한 효율적이고 안정적인 편미분방정식 해법",
+      "summary": "arXiv:2604.25943v1 Announce Type: new Abstract: Efficient and stable solution of partial differential equations (PDEs) is central to scientific and engineering applications, yet existing numerical solvers rely heavily on matrix based discretizations, while learning based methods require costly training and often suffer from limited generalization. In this work, we proposes a PDE energy driven framework that solves PDEs through physically constrained diffusion iterations, without relying on classical matrix based finite element assembly or data driven neural network training. The proposed metho",
+      "aiSummary": "Partial differential equations (PDEs) are fundamental to physics, engineering, and scientific applications, yet existing numerical solvers rely heavily on matrix-based computations, while learning-based approaches require expensive training and demonstrate limited generalization capabilities. This research proposes a novel PDE energy-driven framework that solves PDEs through physically-constrained diffusion iterations without relying on classical matrix-based finite element assembly or neural network training. The method leverages the physical energy concept of PDEs directly to ensure stable convergence while maximizing computational efficiency. The proposed approach combines the advantages of traditional numerical analysis and machine learning, offering faster and more accurate solutions. However, validation of performance on specific PDE types and complex boundary conditions requires further investigation, and demonstration of effectiveness in real industrial applications remains a limitation.\n\n##",
+      "aiSummaryKo": "편미분방정식(PDE)은 물리, 공학, 과학 분야에서 핵심적인 역할을 하지만, 기존의 수치 해석 방법들은 행렬 기반 계산에 의존하거나 AI 기반 방법들은 많은 학습 비용과 일반화 한계를 보이고 있습니다. 본 연구는 기존의 행렬 계산이나 신경망 학습 없이 물리 에너지 제약 조건 기반의 확산 반복 과정을 통해 편미분방정식을 효율적으로 풀 수 있는 새로운 프레임워크를 제안합니다. 이 방법은 PDE의 물리적 에너지 개념을 직접 활용하여 안정적인 수렴을 보장하면서도 계산 효율성을 극대화합니다. 제안된 접근법은 기존 수치해석과 머신러닝 방식의 장점을 결합하여 더 빠르고 정확한 해를 제공합니다. 다만, 특정 유형의 PDE나 복잡한 경계 조건에서의 성능 검증이 추가로 필요하며, 실제 산업 응용 사례에서의 효과성 입증이 한계점으로 지적될 수 있습니다.\n\n##",
+      "aiSummaryEn": "Partial differential equations (PDEs) are fundamental to physics, engineering, and scientific applications, yet existing numerical solvers rely heavily on matrix-based computations, while learning-based approaches require expensive training and demonstrate limited generalization capabilities. This research proposes a novel PDE energy-driven framework that solves PDEs through physically-constrained diffusion iterations without relying on classical matrix-based finite element assembly or neural network training. The method leverages the physical energy concept of PDEs directly to ensure stable convergence while maximizing computational efficiency. The proposed approach combines the advantages of traditional numerical analysis and machine learning, offering faster and more accurate solutions. However, validation of performance on specific PDE types and complex boundary conditions requires further investigation, and demonstration of effectiveness in real industrial applications remains a limitation.\n\n##",
+      "keyPoints": [
+        "**기존 방법의 한계 극복** / Overcoming limitations of existing methods",
+        "**물리 에너지 기반 접근** / Physics-energy-driven approach",
+        "**행렬-신경망 비의존성** / Matrix and neural network independence",
+        "**실무 적용 가능성과 검증 필요** / Practical applicability and validation requirements"
+      ],
+      "url": "https://arxiv.org/abs/2604.25943",
+      "featured": false
+    },
+    {
+      "id": "6fea7276c7e0",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "방금 전 / Just now",
+      "title": "A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication",
+      "titleKo": "그래프 신경망 기반 통신을 이용한 다중 에이전트 심화 강화 학습 조사",
+      "summary": "arXiv:2604.25972v1 Announce Type: new Abstract: In multi-agent reinforcement learning (MARL), the integration of a communication mechanism, allowing agents to better learn to coordinate their actions and converge on their objectives by sharing information. Based on an interaction graph, a subclass of methods employs graph neural networks (GNNs) to learn the communication, enabling agents to improve their internal representations by enriching them with information exchanged. With growing research, we note a lack of explicit structure and framework to distinguish and classify MARL approaches wit",
+      "aiSummary": "This research conducts a systematic survey and classification of various approaches in multi-agent reinforcement learning (MARL) that integrate graph neural network (GNN)-based communication mechanisms. The research background highlights that effective communication is essential when multiple AI agents must cooperate to solve complex problems. This survey paper presents a methodological approach to organize and classify previously scattered MARL-GNN research within a clear framework. The key contribution involves analyzing diverse methods that leverage GNNs for learning communication based on agent interaction graphs, and clarifying the strengths and weaknesses of each approach. This classification system provides a reference framework for future MARL researchers developing new methods. However, as a survey paper, it presents no new experimental data, and performance comparisons among reviewed studies may be limited.\n\n##",
+      "aiSummaryKo": "이 연구는 다중 에이전트 강화학습(MARL) 분야에서 그래프 신경망(GNN) 기반 통신 메커니즘을 활용한 다양한 접근 방식들을 체계적으로 조사하고 분류하는 것을 목표로 합니다. 연구 배경으로는 여러 AI 에이전트가 협력해야 하는 복잡한 문제 해결에서 효과적인 의사소통이 필수적이라는 점이 있습니다. 본 조사 논문은 기존의 산발적인 MARL-GNN 연구들을 명확한 틀 내에서 분류하고 체계화하는 방법론적 접근을 제시합니다. 핵심 기여는 에이전트 간 상호작용 그래프 구조를 기반으로 GNN을 활용하여 통신을 학습하는 다양한 방법들을 분석하고, 각 방법의 장단점을 명확히 하는 것입니다. 이러한 분류 체계는 향후 MARL 연구자들이 새로운 방법을 개발할 때 참고 기준점을 제공합니다. 다만 이 논문은 조사 논문으로서 새로운 실험 데이터를 제시하지 않으며, 포함된 연구들의 성능 비교가 제한적일 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research conducts a systematic survey and classification of various approaches in multi-agent reinforcement learning (MARL) that integrate graph neural network (GNN)-based communication mechanisms. The research background highlights that effective communication is essential when multiple AI agents must cooperate to solve complex problems. This survey paper presents a methodological approach to organize and classify previously scattered MARL-GNN research within a clear framework. The key contribution involves analyzing diverse methods that leverage GNNs for learning communication based on agent interaction graphs, and clarifying the strengths and weaknesses of each approach. This classification system provides a reference framework for future MARL researchers developing new methods. However, as a survey paper, it presents no new experimental data, and performance comparisons among reviewed studies may be limited.\n\n##",
+      "keyPoints": [
+        "**다중 에이전트 협력 통신의 중요성** / Importance of multi-agent cooperative communication",
+        "**GNN 기반 통신의 장점** / Advantages of GNN-based communication",
+        "**분류 체계의 필요성** / Need for classification framework",
+        "**향후 연구 방향 제시** / Direction for future research"
+      ],
+      "url": "https://arxiv.org/abs/2604.25972",
+      "featured": false
+    },
+    {
+      "id": "664d7679f68d",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "방금 전 / Just now",
+      "title": "Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective",
+      "titleKo": "",
+      "summary": "arXiv:2604.25975v1 Announce Type: new Abstract: Key-value (KV) caching is essential for large language model inference, yet its memory overhead poses a critical bottleneck for long-context generation. Existing eviction policies predominantly rely on empirical heuristics, lacking a rigorous theoretical foundation. This work rethinks KV cache eviction through the lens of the Information Bottleneck principle. Under a linear-Gaussian surrogate of attention, we derive a closed-form mutual information objective that characterizes the effective information capacity of a retained KV cache subset. This",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.25975",
+      "featured": false
+    },
+    {
+      "id": "44ee7e846979",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "방금 전 / Just now",
+      "title": "Untrained CNNs Match Backpropagation at V1: A Systematic RSA Comparison of Four Learning Rules Against Human fMRI",
+      "titleKo": "",
+      "summary": "arXiv:2604.16875v2 Announce Type: replace-cross Abstract: A central question in computational neuroscience is whether the learning rule used to train a neural network determines how well its internal representations align with those of the human visual cortex. We present a systematic comparison of four learning rules (backpropagation (BP), feedback alignment (FA), predictive coding (PC), and spike-timing-dependent plasticity (STDP)) applied to identical convolutional architectures and evaluated against human fMRI data from the THINGS-fMRI dataset (720 stimuli, 3 subjects) using Representationa",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.16875",
+      "featured": false
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "24일 전 / 24d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
     {
       "id": "4178d4722d98",
       "tag": "psych",
@@ -21,7 +237,7 @@
         "**신경계 합병증의 가능성** / Potential neurological complications"
       ],
       "url": "https://www.psypost.org/the-covid-19-pandemic-temporarily-doubled-cases-of-autoimmune-brain-inflammation/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5dbdf0f2cb2f",
@@ -189,237 +405,6 @@
         "**문화민감적 개입의 필요성** / Targeted, culturally-sensitive mental health interventions are essential for preserving cognitive function in aging populations"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260427050626.htm",
-      "featured": false
-    },
-    {
-      "id": "9756061e1742",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Brain halves become less alike as kids grow, especially in highly intelligent teens",
-      "titleKo": "아이들이 자라면서 뇌의 양쪽이 달라진다, 특히 지능이 높은 청소년들에서",
-      "summary": "As children grow, the left and right hemispheres of their brains begin working more independently. A new study reveals that this division of mental labor happens at an accelerated rate in adolescents with superior intelligence scores.",
-      "aiSummary": "This study examined how the left and right hemispheres of the brain become more specialized as children grow. Researchers analyzed brain imaging data from children and adolescents to measure functional differences between brain hemispheres across different ages. The key finding is that adolescents with superior intelligence scores show accelerated independent functioning of their left and right hemispheres compared to their peers. This means that the phenomenon of brain lateralization—where the two hemispheres take on increasingly distinct roles—occurs at a faster rate in highly intelligent teens. This research contributes to understanding the relationship between brain development and intelligence, while revealing important characteristics of cognitive development during adolescence. However, the study may be based on cross-sectional data, necessitating longitudinal follow-up research.\n\n##",
-      "aiSummaryKo": "이 연구는 뇌의 좌반구와 우반구가 성장 과정에서 어떻게 변화하는지 조사한 것입니다. 연구팀은 아동과 청소년 참가자들의 뇌 이미징 데이터를 분석하여 연령에 따른 뇌 반구 간의 기능적 차이를 측정했습니다. 핵심 발견은 일반 아동에 비해 지능이 높은 청소년들에서 좌반구와 우반구가 더 독립적으로 작동하는 경향이 두드러진다는 것입니다. 즉, 뇌의 두 반구가 서로 다른 역할을 더욱 분명히 하는 '뇌 반구화(lateralization)' 현상이 고지능 청소년에게서 가속화된다는 의미입니다. 이 연구는 뇌 발달과 지능 간의 관계를 이해하는 데 기여하며, 청소년의 인지 발달 특성을 규명합니다. 다만 연구는 횡단적 데이터에 기반했을 가능성이 있어 장기 추적 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study examined how the left and right hemispheres of the brain become more specialized as children grow. Researchers analyzed brain imaging data from children and adolescents to measure functional differences between brain hemispheres across different ages. The key finding is that adolescents with superior intelligence scores show accelerated independent functioning of their left and right hemispheres compared to their peers. This means that the phenomenon of brain lateralization—where the two hemispheres take on increasingly distinct roles—occurs at a faster rate in highly intelligent teens. This research contributes to understanding the relationship between brain development and intelligence, while revealing important characteristics of cognitive development during adolescence. However, the study may be based on cross-sectional data, necessitating longitudinal follow-up research.\n\n##",
-      "keyPoints": [
-        "**뇌 반구의 점진적 분화** / Progressive specialization of brain hemispheres: 성장하면서 좌반구와 우반구가 독립적으로 기능하기 시작함",
-        "**고지능 청소년의 가속화된 발달** / Accelerated development in highly intelligent adolescents: 우수한 지능을 가진 청소년들에서 뇌 반구화가 더 빠르게 진행됨",
-        "**뇌 발달과 인지능력의 관련성** / Connection between brain development and cognitive ability: 뇌의 구조적·기능적 변화가 지능 수준과 관계가 있음을 시사",
-        "**청소년기 뇌 발달의 중요성** / Significance of adolescent brain development: 청소년기는 뇌의 기능적 특화가 일어나는 중요한 발달 시기임을 강조"
-      ],
-      "url": "https://www.psypost.org/brain-halves-become-less-alike-as-kids-grow-especially-in-highly-intelligent-tee/",
-      "featured": false
-    },
-    {
-      "id": "58bfaa6cff9f",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "10일 전 / 10d ago",
-      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
-      "titleKo": "갈등 상황에서 행동과학이 직면해야 할 어려운 현실",
-      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
-      "aiSummary": "Approximately 2 billion people live in conflict-affected areas, yet behavioral science has developed most of its theories, experiments, and interventions in stable contexts. When behavioral scientists conduct research in conflict settings, they typically apply methods that worked elsewhere through \"localization,\" but this approach is insufficient. The article emphasizes that conflict is reshaping lives globally at an unprecedented scale, with 123 million people forcibly displaced in 2024—the highest number on record—and rising civilian casualties particularly in Gaza. Rather than simply adapting existing interventions, behavioral science must develop new theories and methodologies specifically designed for conflict environments. The research significance lies in highlighting the urgent need for context-specific solutions that account for the unique psychosocial factors in conflict zones. Current limitations stem from the field's heavy reliance on research conducted in stable environments, making it difficult to address the complex realities of conflict settings effectively.\n\n##",
-      "aiSummaryKo": "현재 약 20억 명의 사람들이 분쟁 지역에서 생활하고 있지만, 행동과학 분야의 대부분의 이론과 실험, 개입 방법은 안정적인 환경에서 개발되었다. 행동과학자들이 분쟁 지역에서 연구할 때도 다른 지역에서 효과가 있던 방법을 \"현지화\"하여 평가하는 익숙한 패턴을 따르는 경향이 있다. 그러나 이러한 접근 방식만으로는 충분하지 않다는 것이 이 연구의 핵심 주장이다. 2024년에 1억 2,300만 명이 강제로 이주되어 역대 최고 기록을 경신했으며, 분쟁으로 인한 민간인 사상자가 전 지구적으로 전례 없는 규모로 증가하고 있다. 이 논문은 행동과학이 분쟁 상황에 맞게 새로운 이론과 방법론을 개발해야 함을 강조한다. 현재의 한계는 기존 안정적 환경 중심의 연구 기반에 있으며, 분쟁 지역의 고유한 심리사회적 요인을 고려한 맞춤형 개입이 필요하다는 점이 연구의 의의다.\n\n##",
-      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas, yet behavioral science has developed most of its theories, experiments, and interventions in stable contexts. When behavioral scientists conduct research in conflict settings, they typically apply methods that worked elsewhere through \"localization,\" but this approach is insufficient. The article emphasizes that conflict is reshaping lives globally at an unprecedented scale, with 123 million people forcibly displaced in 2024—the highest number on record—and rising civilian casualties particularly in Gaza. Rather than simply adapting existing interventions, behavioral science must develop new theories and methodologies specifically designed for conflict environments. The research significance lies in highlighting the urgent need for context-specific solutions that account for the unique psychosocial factors in conflict zones. Current limitations stem from the field's heavy reliance on research conducted in stable environments, making it difficult to address the complex realities of conflict settings effectively.\n\n##",
-      "keyPoints": [
-        "**현황의 심각성** / **Severity of the Situation**",
-        "**기존 접근법의 한계** / **Limitations of Current Approaches**",
-        "**필요한 변화** / **Required Changes**",
-        "**연구의 시급성** / **Research Urgency**"
-      ],
-      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
-      "featured": false
-    },
-    {
-      "id": "2ca3144e26ec",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "10일 전 / 10d ago",
-      "title": "The ‘Busy’ Trap",
-      "titleKo": "'바쁨'의 함정",
-      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
-      "aiSummary": "In twenty-first century America, describing oneself as \"busy\" has become a default social response to casual greetings, functioning as a disguised boast rather than a genuine complaint. The typical response to someone claiming they are busy—\"That's a good problem to have\"—serves as social congratulation, positioning busyness as a status symbol of importance and success. Notably, people who work intensive shifts in ICU settings or commute to multiple minimum-wage jobs are less likely to describe themselves as \"busy,\" suggesting a distinction between actual workload and social performance of busyness. The article critiques how \"busyness\" has become a cultural marker of status and social value rather than a reflection of actual work demands. This observation reveals class differences in how people narrate their professional lives and self-presentation. However, the incomplete nature of the article limits the ability to analyze specific research methodology, participant numbers, or quantitative findings that would typically characterize empirical studies.\n\n##",
-      "aiSummaryKo": "현대 미국 사회에서 '바쁘다'는 표현이 일상적인 인사말로 자리 잡았으며, 이는 겉으로는 불평이지만 실제로는 자신의 중요성과 성공을 자랑하는 위장된 자랑임을 지적한다. 사람들은 \"바빠서 좋은 문제다\" 또는 \"반대보다는 낫다\"라고 응답하며 바쁨을 긍정적으로 평가하는 경향을 보인다. 흥미롭게도 실제로 중환자실에서 연속 근무를 하거나 최저임금 일자리 세 곳을 오가며 일하는 사람들은 자신이 '바쁘다'고 말하지 않으며, 이들은 단순히 바쁜 것이 아니라 다른 상태에 있음을 암시한다. 이 기사는 '바쁨'이라는 개념이 실제 업무량이 아닌 사회적 지위 신호로 작용하고 있음을 비판한다. 본 분석은 계급과 근무 환경에 따른 '바쁨' 표현의 차이를 드러낸다. 다만 기사가 미완성이라 전체 연구 방법론과 구체적 통계 수치를 제시하지 못하는 한계가 있다.\n\n##",
-      "aiSummaryEn": "In twenty-first century America, describing oneself as \"busy\" has become a default social response to casual greetings, functioning as a disguised boast rather than a genuine complaint. The typical response to someone claiming they are busy—\"That's a good problem to have\"—serves as social congratulation, positioning busyness as a status symbol of importance and success. Notably, people who work intensive shifts in ICU settings or commute to multiple minimum-wage jobs are less likely to describe themselves as \"busy,\" suggesting a distinction between actual workload and social performance of busyness. The article critiques how \"busyness\" has become a cultural marker of status and social value rather than a reflection of actual work demands. This observation reveals class differences in how people narrate their professional lives and self-presentation. However, the incomplete nature of the article limits the ability to analyze specific research methodology, participant numbers, or quantitative findings that would typically characterize empirical studies.\n\n##",
-      "keyPoints": [
-        "**바쁨의 역설** / The Paradox of Busyness",
-        "'바쁘다'는 표현이 불평처럼 보이지만 실제로는 자신의 중요성과 성공을 드러내는 자랑의 형태로 기능함 / Describing oneself as \"busy\" appears to be a complaint but functions as a boast revealing one's importance and success",
-        "**계급별 표현의 차이** / Class-Based Expression Differences",
-        "실제로 과중한 일정을 감당하는 저임금 근로자들은 '바쁘다'고 표현하지 않으며, 이는 바쁨이 객관적 업무량이 아닌 사회적 지위 신호임을 시사 / Low-wage workers with genuinely demanding schedules don't describe themselves as \"busy,\" suggesting busyness functions as a status signal rather than reflecting actual workload"
-      ],
-      "url": "https://behavioralscientist.org/the-busy-trap/",
-      "featured": false
-    },
-    {
-      "id": "c1d7d1e43287",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "16일 전 / 16d ago",
-      "title": "What It’s Like to Be…an Aerospace Engineer",
-      "titleKo": "항공우주공학자의 삶",
-      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
-      "aiSummary": "This article presents a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing the Mars Perseverance rover landing and the realities of space engineering work. Part of the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath, the episode aims to convey the actual experiences and expertise of a space professional to the general public. Mohan explains the rover's landing process, particularly the \"seven minutes of terror\"—the critical autonomous landing phase hampered by communication delays from Earth. She also discusses maintaining microbial contamination control in clean rooms and navigating hundreds of engineering trade-off decisions throughout the project. This interview holds significance in making the complex technical challenges of space exploration and the engineer's role accessible to a general audience. However, the article's summary format limits specific research findings and quantitative data presentation, which may be considered a limitation in terms of detailed technical information.\n\n##",
-      "aiSummaryKo": "본 기사는 NASA 제트 추진 연구소의 항공우주 공학자 스와티 모한과의 인터뷰를 통해 화성 탐사 로버의 착륙 과정과 우주 엔지니어링의 실제 업무를 소개하는 팟캐스트 에피소드이다. 베스트셀러 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 시리즈의 일환으로, 우주 전문가의 일상적 경험과 전문 지식을 대중에게 전달하는 포맷으로 구성되어 있다. 모한은 화성 탐사선 퍼서비어런스 로버의 착륙 과정, 특히 통신 지연으로 인한 \"7분의 공포(seven minutes of terror)\"라 불리는 자동착륙 단계에 대해 설명한다. 또한 클린룸 환경에서 미생물 오염을 최소화하는 업무와 수백 가지의 엔지니어링 트레이드오프(설계상 선택) 과정을 다룬다. 이 인터뷰는 우주 탐사 분야의 복잡한 기술적 도전과 엔지니어의 역할을 일반인이 이해할 수 있도록 설명하는 데 의의가 있다. 다만 기사가 요약 형태로 제시되어 구체적인 연구 결과나 수치적 데이터가 제한적이라는 한계가 있다.\n\n##",
-      "aiSummaryEn": "This article presents a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, discussing the Mars Perseverance rover landing and the realities of space engineering work. Part of the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath, the episode aims to convey the actual experiences and expertise of a space professional to the general public. Mohan explains the rover's landing process, particularly the \"seven minutes of terror\"—the critical autonomous landing phase hampered by communication delays from Earth. She also discusses maintaining microbial contamination control in clean rooms and navigating hundreds of engineering trade-off decisions throughout the project. This interview holds significance in making the complex technical challenges of space exploration and the engineer's role accessible to a general audience. However, the article's summary format limits specific research findings and quantitative data presentation, which may be considered a limitation in terms of detailed technical information.\n\n##",
-      "keyPoints": [
-        "**화성 착륙의 \"7분의 공포\"** / \"Seven Minutes of Terror\" in Mars Landing",
-        "**미생물 오염 통제의 중요성** / Importance of Microbial Contamination Control",
-        "**엔지니어링 트레이드오프 의사결정** / Engineering Trade-off Decision Making",
-        "**우주 탐사의 다층적 도전** / Multi-layered Challenges in Space Exploration"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
-      "featured": false
-    },
-    {
-      "id": "c4b327adc932",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists may have found the brain’s switch for chronic pain",
-      "titleKo": "과학자들이 만성 통증을 조절하는 뇌의 스위치를 찾았을 수도 있다",
-      "summary": "Deep within the brain, scientists have uncovered a hidden “switch” that may decide whether pain fades away—or lingers for months or even years. Researchers found that a small, little-known region called the caudal granular insular cortex (CGIC) acts like a command center, telling the body to keep pain signals alive long after an injury has healed. In animal studies, shutting down this pathway not only prevented chronic pain from forming but could even erase it once it had taken hold.",
-      "aiSummary": "Scientists have discovered a \"switch\" in the brain's depths that determines whether acute pain develops into chronic pain lasting months or years. The research team identified that a small brain region called the caudal granular insular cortex (CGIC) acts as a command center, instructing the body to maintain pain signals long after injuries have healed. Through animal studies, researchers found that blocking this neural pathway not only prevented chronic pain from forming but could also eliminate existing chronic pain. This discovery offers new insights into understanding and treating chronic pain, which currently affects millions of people worldwide. However, the study was conducted only in animal models, so additional clinical trials are necessary to confirm whether these findings apply to humans.\n\n##",
-      "aiSummaryKo": "과학자들이 뇌 깊숙한 곳에서 급성 통증이 만성 통증으로 전환되는지를 결정하는 뇌의 \"스위치\"를 발견했습니다. 연구팀은 꼬리 과립 뇌섬엽 피질(CGIC)이라 불리는 작은 뇌 영역이 상처가 치유된 후에도 몸에 통증 신호를 계속 보내도록 지시하는 명령 센터 역할을 한다는 것을 밝혀냈습니다. 동물 실험을 통해 이 신경 경로를 차단하면 만성 통증이 형성되는 것을 예방할 수 있을 뿐만 아니라 이미 생긴 만성 통증을 제거할 수도 있음을 확인했습니다. 이 연구는 현재 수백만 명이 고통받고 있는 만성 통증의 원인을 이해하고 치료할 새로운 방법을 제시합니다. 다만 이 연구는 동물 모델에서만 진행되었으므로 인간에게 동일한 효과가 있는지 확인하기 위해서는 추가적인 임상 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "Scientists have discovered a \"switch\" in the brain's depths that determines whether acute pain develops into chronic pain lasting months or years. The research team identified that a small brain region called the caudal granular insular cortex (CGIC) acts as a command center, instructing the body to maintain pain signals long after injuries have healed. Through animal studies, researchers found that blocking this neural pathway not only prevented chronic pain from forming but could also eliminate existing chronic pain. This discovery offers new insights into understanding and treating chronic pain, which currently affects millions of people worldwide. However, the study was conducted only in animal models, so additional clinical trials are necessary to confirm whether these findings apply to humans.\n\n##",
-      "keyPoints": [
-        "**뇌의 통증 제어 중추 발견** / Discovery of the brain's pain control hub",
-        "꼬리 과립 뇌섬엽 피질(CGIC)이 급성 통증의 만성화를 결정하는 핵심 영역임이 규명됨",
-        "**이중 효과 확인** / Dual therapeutic effects confirmed",
-        "신경 경로 차단으로 만성 통증 형성 예방과 기존 만성 통증 제거 모두 가능"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260426012317.htm",
-      "featured": false
-    },
-    {
-      "id": "41286ed18ece",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "The “femme fatale” might be a universal myth driven by the fear of romantic deception",
-      "titleKo": "\"팜므 파탈\"은 연애 사기에 대한 두려움에서 비롯된 보편적 신화일 수 있다",
-      "summary": "A recent study suggests that stories about dangerous, attractive women are almost universal across cultures. These cautionary tales provide evidence that evolutionary fears of emotional deception and heartbreak heavily influence human mating psychology.",
-      "aiSummary": "This research investigates why stories about attractive yet dangerous women—the \"femme fatale\" archetype—appear to be almost universal across human cultures. Researchers analyzed myths, legends, and folk tales from various cultures to identify common patterns in these narratives. The key finding is that femme fatale stories exist across cultural boundaries far more extensively than would be expected by chance alone, suggesting they may originate from evolved human psychology rather than being purely cultural products. The team interprets these universal myths as reflecting men's evolutionary fears of romantic deception and emotional heartbreak in mate selection. This study demonstrates how human mating psychology creates cross-cultural concerns that transcend cultural boundaries. However, the research faces limitations in directly tracing the origins and transmission of these stories, and cannot completely rule out cultural borrowing and diffusion as alternative explanations.\n\n##",
-      "aiSummaryKo": "이 연구는 매력적이지만 위험한 여성을 다루는 '팜므 파탈(femme fatale)' 이야기가 전 세계 문화에서 거의 보편적으로 나타나는 현상을 조사했습니다. 연구팀은 여러 문화권의 신화, 전설, 민담을 수집·분석하는 방식으로 이러한 이야기들의 공통 패턴을 추적했습니다. 핵심 발견은 팜므 파탈 관련 이야기가 문화적 경계를 넘어 광범위하게 존재한다는 것으로, 이는 단순한 문화적 산물이 아니라 인간의 진화 심리학에서 비롯된 것일 가능성을 시사합니다. 연구팀은 이러한 보편적 신화가 남성들의 로맨틱한 기만과 배신에 대한 진화적 두려움을 반영한다고 해석했습니다. 이 연구는 인간 짝짓기 심리가 문화를 초월한 공통된 진화적 우려를 어떻게 형성하는지 보여줍니다. 다만 연구는 이야기의 기원과 전파 과정을 직접 추적하기 어렵고, 문화적 차용의 가능성을 완전히 배제할 수 없다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research investigates why stories about attractive yet dangerous women—the \"femme fatale\" archetype—appear to be almost universal across human cultures. Researchers analyzed myths, legends, and folk tales from various cultures to identify common patterns in these narratives. The key finding is that femme fatale stories exist across cultural boundaries far more extensively than would be expected by chance alone, suggesting they may originate from evolved human psychology rather than being purely cultural products. The team interprets these universal myths as reflecting men's evolutionary fears of romantic deception and emotional heartbreak in mate selection. This study demonstrates how human mating psychology creates cross-cultural concerns that transcend cultural boundaries. However, the research faces limitations in directly tracing the origins and transmission of these stories, and cannot completely rule out cultural borrowing and diffusion as alternative explanations.\n\n##",
-      "keyPoints": [
-        "**보편적 신화의 증거** / Universal Myth Evidence",
-        "**진화 심리학적 해석** / Evolutionary Psychology Explanation",
-        "**문화 초월적 성격** / Transcultural Nature",
-        "**연구의 한계** / Research Limitations"
-      ],
-      "url": "https://www.psypost.org/the-femme-fatale-might-be-a-universal-myth-driven-by-the-fear-of-romantic-deception/",
-      "featured": false
-    },
-    {
-      "id": "93928d816392",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "14시간 전 / 14h ago",
-      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
-      "titleKo": "다중 충실도 디지털 트윈과 FMEA 지식 강화를 기반으로 한 일반항공 항공기의 지능형 결함 진단 방법",
-      "summary": "arXiv:2604.22777v1 Announce Type: new Abstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection, multi-fidelity residual feature extraction, and large language model (LLM)-enhanced interpretable report generation. A digital twin is constructed using the JSBSim six-degree-of-freedom (6-DoF) flight dynamics en",
-      "aiSummary": "This research addresses the challenge of diagnosing faults in general aviation aircraft, which faces problems including scarce real fault data, diverse fault types, and weak fault signatures. The research team proposed a four-stage intelligent system combining digital twin technology with artificial intelligence: high-fidelity flight dynamics simulation, fault injection through FMEA knowledge, multi-fidelity feature extraction, and results interpretation using large language models. The digital twin was constructed based on JSBSim, a six-degree-of-freedom flight dynamics simulator, incorporating FMEA methodology to generate realistic fault scenarios for training. The system addresses the critical issue of limited real-world aircraft fault data and enables accurate fault diagnosis. However, the study's limitations include the need for validation across diverse aircraft models and operational conditions.\n\n##",
-      "aiSummaryKo": "본 연구는 소형 항공기의 결함 진단이 어려운 이유를 해결하기 위해 진행되었습니다. 실제 항공기 결함 데이터가 부족하고, 결함 종류가 다양하며, 결함 신호가 약하다는 문제가 있었습니다. 연구팀은 '디지털 트윈(컴퓨터로 만든 항공기 가상 모델)'과 인공지능을 결합한 4단계 시스템을 제안했습니다: 정밀한 비행 시뮬레이션, 결함 주입을 통한 학습 데이터 생성, 다양한 수준의 특징 추출, 그리고 대규모언어모델을 활용한 결과 해석입니다. JSBSim이라는 6자유도 비행 역학 시뮬레이터를 기반으로 디지털 트윈을 구축했으며, FMEA(고장 모드 분석) 지식을 활용하여 현실적인 결함 시나리오를 생성했습니다. 이 시스템은 실제 항공기 데이터 부족 문제를 해결하고 정확한 결함 진단을 가능하게 하는 의의가 있으나, 다양한 항공기 모델에 대한 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research addresses the challenge of diagnosing faults in general aviation aircraft, which faces problems including scarce real fault data, diverse fault types, and weak fault signatures. The research team proposed a four-stage intelligent system combining digital twin technology with artificial intelligence: high-fidelity flight dynamics simulation, fault injection through FMEA knowledge, multi-fidelity feature extraction, and results interpretation using large language models. The digital twin was constructed based on JSBSim, a six-degree-of-freedom flight dynamics simulator, incorporating FMEA methodology to generate realistic fault scenarios for training. The system addresses the critical issue of limited real-world aircraft fault data and enables accurate fault diagnosis. However, the study's limitations include the need for validation across diverse aircraft models and operational conditions.\n\n##",
-      "keyPoints": [
-        "**문제 정의**: 소형 항공기의 결함 진단에서 실제 데이터 부족, 다양한 결함 종류, 약한 신호 감지 문제 존재 / **Problem Definition**: Fault diagnosis in general aviation faces challenges of scarce real data, diverse fault types, and weak fault signatures",
-        "**기술 혁신**: 디지털 트윈과 FMEA 지식 기반 결함 주입으로 시뮬레이션 데이터 생성 및 LLM을 통한 해석 가능한 보고서 자동 생성 / **Technological Innovation**: Digital twin with FMEA-driven fault injection generates synthetic data, and LLM enables interpretable automated report generation",
-        "**시스템 구성**: JSBSim 6자유도 시뮬레이터 기반 고정밀 비행 역학, 다단계 특징 추출, 다중 충실도 잔여 신호 분석의 4개 모듈 통합 / **System Architecture**: Integrates four modules including high-fidelity 6-DoF flight dynamics via JSBSim, multi-fidelity feature extraction, and residual signal analysis",
-        "**실용적 가치**: 현실의 부족한 항공기 결함 데이터 문제를 가상 시뮬레이션으로 극복하여 안전한 항공기 운영 및 예측적 유지보수 실현 가능 / **Practical Value**: Overcomes limited real-world fault data through virtual simulation, enabling safer aircraft operations and predictive maintenance"
-      ],
-      "url": "https://arxiv.org/abs/2604.22777",
-      "featured": false
-    },
-    {
-      "id": "c2c01ec9deee",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "14시간 전 / 14h ago",
-      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-      "titleKo": "PExA: 복잡한 Text-to-SQL을 위한 병렬 탐색 에이전트",
-      "summary": "arXiv:2604.22934v1 Announce Type: new Abstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in parallel and together ensure semantic coverage of the original query. After iterating on test case coverage, the final SQL is generated only when enough information is gathered, leveraging the explored t",
-      "aiSummary": "LLM-based agents for text-to-SQL conversion struggle with the latency-performance trade-off, where improvements in accuracy often come at the cost of increased response time. This research proposes PExA (Parallel Exploration Agent), a novel technique that applies software test coverage concepts to address this challenge. The team decomposes complex queries into multiple simpler, atomic SQL statements that are executed in parallel simultaneously, ensuring semantic coverage of the original query. Through iterative refinement of test case coverage, the final SQL query is generated only after sufficient information is gathered from parallel explorations. This approach maintains response speed while improving accuracy compared to traditional sequential processing methods. However, increased complexity in parallel processing management and scalability challenges with large-scale databases remain as limitations requiring further investigation.\n\n##",
-      "aiSummaryKo": "LLM 기반 텍스트-SQL 변환 에이전트는 응답 속도와 정확성 사이의 균형을 맞추기 어려운 문제를 겪고 있습니다. 이 연구는 소프트웨어 테스트 커버리지 개념을 적용하여 이 문제를 해결하는 PExA(Parallel Exploration Agent) 기법을 제안합니다. 연구팀은 복잡한 쿼리를 여러 개의 간단한 원자적 SQL 문장으로 분해하고, 이를 병렬로 동시에 실행하여 원본 쿼리의 의미적 커버리지를 보장하는 방식을 개발했습니다. 충분한 정보가 수집될 때까지 테스트 케이스 커버리지를 반복적으로 개선한 후, 최종 SQL 쿼리를 생성하는 방식으로 작동합니다. 이 접근법은 기존의 순차적 처리 방식과 달리 병렬 처리를 통해 응답 속도를 유지하면서도 정확성을 향상시킬 수 있습니다. 다만, 병렬 처리의 복잡성 증가와 대규모 데이터베이스에서의 확장성 문제가 추가 연구가 필요한 한계점으로 지적됩니다.\n\n##",
-      "aiSummaryEn": "LLM-based agents for text-to-SQL conversion struggle with the latency-performance trade-off, where improvements in accuracy often come at the cost of increased response time. This research proposes PExA (Parallel Exploration Agent), a novel technique that applies software test coverage concepts to address this challenge. The team decomposes complex queries into multiple simpler, atomic SQL statements that are executed in parallel simultaneously, ensuring semantic coverage of the original query. Through iterative refinement of test case coverage, the final SQL query is generated only after sufficient information is gathered from parallel explorations. This approach maintains response speed while improving accuracy compared to traditional sequential processing methods. However, increased complexity in parallel processing management and scalability challenges with large-scale databases remain as limitations requiring further investigation.\n\n##",
-      "keyPoints": [
-        "**병렬 처리 기반 설계** / Parallel Processing Architecture: 복잡한 SQL 쿼리를 간단한 원자적 단위로 분해하여 동시에 실행함으로써 응답 속도와 정확성의 균형 달성",
-        "**테스트 커버리지 개념 적용** / Test Coverage Concept Application: 소프트웨어 테스트 커버리지 원리를 텍스트-SQL 변환에 적용하여 의미적 완전성을 보장하는 체계적 접근",
-        "**반복적 개선 메커니즘** / Iterative Refinement Mechanism: 충분한 정보가 수집될 때까지 테스트 케이스를 반복적으로 개선하여 쿼리 생성의 신뢰성 증대",
-        "**실무 적용 가능성과 확장성 문제** / Practical Application and Scalability Concerns: 실제 데이터베이스 환경에서의 효율성 개선 가능성이 있으나 대규모 시스템 적용 시 복잡성 증가 문제 존재"
-      ],
-      "url": "https://arxiv.org/abs/2604.22934",
-      "featured": false
-    },
-    {
-      "id": "f3e8b694ae8c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "14시간 전 / 14h ago",
-      "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
-      "titleKo": "멱법칙의 힘: 비대칭성이 구성적 추론을 가능하게 하다",
-      "summary": "arXiv:2604.22951v1 Announce Type: new Abstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uniform distribution may help models better learn these long-tail skills, we find a counterintuitive result: across a wide range of compositional reasoning tasks, such as state tracking and multi-step arithmetic, training under power-law distributions consistently outperforms training under uniform distributions. To understand this advantage, we introd",
-      "aiSummary": "This study investigates how the distribution of natural language data affects AI model learning. Natural language data follows a power-law distribution, where some knowledge and skills appear at very low frequencies while others appear frequently. Researchers trained models on various datasets and found a counterintuitive result: contrary to expectations that uniform data distribution would be optimal, training with natural power-law distributions consistently outperformed uniform distributions on compositional reasoning tasks such as state tracking and multi-step arithmetic. This finding challenges conventional assumptions about data curation for AI training. The research's significance lies in demonstrating that maintaining natural data distributions during model training is important for compositional reasoning abilities. However, the study is limited to specific types of compositional reasoning tasks, and further research is needed to determine if these findings apply to other types of learning tasks.\n\n##",
-      "aiSummaryKo": "이 연구는 자연언어 데이터의 분포 방식이 AI 모델의 학습에 어떤 영향을 미치는지 조사했습니다. 자연언어 데이터는 멱법칙(power-law) 분포를 따르는데, 일부 지식과 기술은 매우 낮은 빈도로 나타나고 일부는 높은 빈도로 나타나는 특징이 있습니다. 연구팀은 다양한 데이터셋에서 모델을 훈련시켰는데, 직관적으로는 데이터를 균등하게 분배하는 것이 더 나을 것으로 예상되었으나, 예상 외로 자연적인 멱법칙 분포로 훈련할 때 상태 추적(state tracking)과 다단계 산술 같은 합성적 추론 작업에서 더 뛰어난 성능을 보였습니다. 이러한 결과는 기존의 데이터 큐레이션 방식에 대한 통념을 깨뜨리는 것입니다. 연구의 의의는 AI 모델 훈련 시 자연스러운 데이터 분포를 유지하는 것이 중요함을 시사한다는 점입니다. 다만 이 연구는 특정 유형의 합성적 추론 작업에 국한되어 있어, 다른 유형의 학습 과제에도 동일하게 적용되는지 확인이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigates how the distribution of natural language data affects AI model learning. Natural language data follows a power-law distribution, where some knowledge and skills appear at very low frequencies while others appear frequently. Researchers trained models on various datasets and found a counterintuitive result: contrary to expectations that uniform data distribution would be optimal, training with natural power-law distributions consistently outperformed uniform distributions on compositional reasoning tasks such as state tracking and multi-step arithmetic. This finding challenges conventional assumptions about data curation for AI training. The research's significance lies in demonstrating that maintaining natural data distributions during model training is important for compositional reasoning abilities. However, the study is limited to specific types of compositional reasoning tasks, and further research is needed to determine if these findings apply to other types of learning tasks.\n\n##",
-      "keyPoints": [
-        "**멱법칙 분포의 우월성**: 자연적인 멱법칙 분포로 훈련한 모델이 균등 분포로 훈련한 모델보다 합성적 추론 작업에서 더 높은 성능을 달성했음 / Power-law distributions outperformed uniform distributions in compositional reasoning tasks, contradicting conventional data curation intuitions.",
-        "**합성적 추론 능력 향상**: 상태 추적과 다단계 산술 같은 복잡한 추론 작업에서 의미 있는 성능 개선이 관찰됨 / Significant performance improvements were observed in complex tasks like state tracking and multi-step arithmetic reasoning.",
-        "**기존 통념의 재검토**: 데이터를 균등하게 분배하여 희귀 기술을 더 잘 학습하게 하려는 기존 방식이 최적이 아닐 수 있음을 시사 / Challenges the conventional assumption that balancing data distributions helps models better learn rare skills.",
-        "**제한된 적용 범위**: 연구 결과가 특정 유형의 합성적 추론 작업에만 적용되며, 다른 학습 과제나 도메인에서의 적용 가능성은 불확실함 / Findings are limited to specific compositional reasoning tasks, requiring further validation across different learning domains."
-      ],
-      "url": "https://arxiv.org/abs/2604.22951",
-      "featured": false
-    },
-    {
-      "id": "35beed3b4bfd",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "14시간 전 / 14h ago",
-      "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
-      "titleKo": "논증에서 선호도 기반 축약에 대한 역해의 존재성에 관하여",
-      "summary": "arXiv:2604.22958v1 Announce Type: new Abstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such preferences control the transformation of attacks into defeats, and different approaches to doing so result in different reductions from a PAF to an AAF. In this paper we consider a PAF inverse problem which takes an argumentation graph, a labelling and a semantics as an input, and outputs a ``yes\" or ``no\" as to whether there is a preference relation between the arguments which can yield the desire",
-      "aiSummary": "This research addresses the inverse problem in preference-based argumentation frameworks (PAFs), which extend Dung's abstract argumentation frameworks (AAFs) by encoding preferences among arguments. PAFs transform attack relationships into defeat relationships based on argument preferences, with different approaches yielding different reductions from PAF to AAF. The study analyzes whether given an argumentation graph, labeling, and semantics, a preference relation exists that can produce a desired outcome. The researchers mathematically proved the existence of inverse solutions and their computational complexity across various preference-based reduction methods. This research provides essential theoretical foundations for argumentation system design and validation, contributing to the development of logical reasoning systems in artificial intelligence. However, the study is limited to theoretical analysis without extensive validation on practical applications.\n\n##",
-      "aiSummaryKo": "본 연구는 논증 이론(argumentation theory)에서 선호도 기반 논증 프레임워크(PAF)의 역문제를 다룹니다. 기존의 던그 논증 프레임워크(AAF)를 확장한 PAF는 논증 간의 선호도를 인코딩하여 공격 관계를 패배 관계로 변환합니다. 이 논문은 논증 그래프, 라벨링, 의미론을 입력으로 받아 특정 결과를 도출할 수 있는 선호도 관계가 존재하는지를 판단하는 역문제를 분석했습니다. 연구팀은 다양한 선호도 기반 축약 방식에서 역함수의 존재 가능성과 계산 복잡성을 수학적으로 증명하였습니다. 이 연구는 논증 시스템의 설계 및 검증에 중요한 이론적 기초를 제공하며, 인공지능의 논리적 추론 시스템 개발에 기여할 수 있습니다. 다만 본 연구는 순수 이론적 분석으로 실제 응용 사례에 대한 검증이 제한적입니다.\n\n##",
-      "aiSummaryEn": "This research addresses the inverse problem in preference-based argumentation frameworks (PAFs), which extend Dung's abstract argumentation frameworks (AAFs) by encoding preferences among arguments. PAFs transform attack relationships into defeat relationships based on argument preferences, with different approaches yielding different reductions from PAF to AAF. The study analyzes whether given an argumentation graph, labeling, and semantics, a preference relation exists that can produce a desired outcome. The researchers mathematically proved the existence of inverse solutions and their computational complexity across various preference-based reduction methods. This research provides essential theoretical foundations for argumentation system design and validation, contributing to the development of logical reasoning systems in artificial intelligence. However, the study is limited to theoretical analysis without extensive validation on practical applications.\n\n##",
-      "keyPoints": [
-        "**선호도 기반 논증 프레임워크의 역문제 해결** / Solving the inverse problem of preference-based argumentation frameworks to determine whether a preference relation can yield desired outcomes",
-        "**다양한 축약 방식에 대한 수학적 증명** / Mathematical proofs of inverse solution existence and computational complexity across different preference-based reduction approaches",
-        "**논리 추론 시스템의 이론적 기초 제공** / Providing theoretical foundations for designing and validating logical reasoning systems in artificial intelligence",
-        "**순수 이론적 연구의 제한성** / Limited scope as purely theoretical analysis without practical application validation and real-world case studies"
-      ],
-      "url": "https://arxiv.org/abs/2604.22958",
-      "featured": false
-    },
-    {
-      "id": "984299f84dc2",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "14시간 전 / 14h ago",
-      "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
-      "titleKo": "GCA-BULF: 그룹화된 핵심 가전제품을 이용한 상향식 단기 부하 예측 프레임워크",
-      "summary": "arXiv:2604.24766v1 Announce Type: new Abstract: With the rise of time-of-use and tiered electricity pricing, energy consumers are encouraged to adopt peak-shifting strategies by automatically controlling high-power appliances. These help lower energy costs while enhancing the power grid's stability. To support such energy management with high resilience and responsiveness, reliable short-term load forecasting (STLF) plays a critical role. STLF predicts electricity consumption over time horizons ranging from minutes to days, using historical data, temporal patterns, and contextual factors. Trad",
-      "aiSummary": "This research addresses the growing need for accurate short-term load forecasting (STLF) in the context of time-of-use and tiered electricity pricing systems that encourage consumers to shift peak energy consumption. The researchers proposed GCA-BULF (Grouped Critical Appliances Bottom-Up Load Forecasting), a novel framework that predicts electricity consumption across time horizons from minutes to days using historical data, temporal patterns, and contextual factors. The key innovation lies in its bottom-up approach that first analyzes individual household appliance consumption patterns and then aggregates them to predict total load. This granular methodology enables more precise control of high-power appliances and more accurate forecasting compared to traditional top-down approaches. The framework supports enhanced energy management with better resilience and responsiveness to grid demands. However, the study acknowledges limitations regarding how variations in appliance types and household characteristics may affect prediction accuracy, requiring further investigation.\n\n##",
-      "aiSummaryKo": "이 연구는 시간대별 차등 전기요금 제도의 확산에 따라 소비자들이 고전력 가전제품의 사용 시간을 자동으로 조절하여 에너지 비용을 절감하고 전력망 안정성을 높이기 위한 기술 개발에 주목했습니다. 연구팀은 단기 전력 수요 예측(STLF)의 정확도를 향상시키기 위해 GCA-BULF(그룹화된 중요 가전제품 기반 상향식 프레임워크)라는 새로운 방법론을 제안했습니다. 이 프레임워크는 역사적 데이터, 시간적 패턴, 맥락적 요인들을 활용하여 분 단위에서 일 단위까지의 전력 소비를 예측합니다. 연구의 핵심은 개별 가전제품의 전력 소비 패턴을 먼저 분석한 후 이를 통합하는 상향식 접근 방식에 있습니다. 이러한 방식은 기존의 하향식 예측 방법보다 더욱 세밀한 제어와 정확한 예측을 가능하게 합니다. 다만, 연구에서는 가전제품의 종류와 가정의 특성에 따른 예측 정확도의 차이에 대해 추가 검토가 필요한 것으로 지적했습니다.\n\n##",
-      "aiSummaryEn": "This research addresses the growing need for accurate short-term load forecasting (STLF) in the context of time-of-use and tiered electricity pricing systems that encourage consumers to shift peak energy consumption. The researchers proposed GCA-BULF (Grouped Critical Appliances Bottom-Up Load Forecasting), a novel framework that predicts electricity consumption across time horizons from minutes to days using historical data, temporal patterns, and contextual factors. The key innovation lies in its bottom-up approach that first analyzes individual household appliance consumption patterns and then aggregates them to predict total load. This granular methodology enables more precise control of high-power appliances and more accurate forecasting compared to traditional top-down approaches. The framework supports enhanced energy management with better resilience and responsiveness to grid demands. However, the study acknowledges limitations regarding how variations in appliance types and household characteristics may affect prediction accuracy, requiring further investigation.\n\n##",
-      "keyPoints": [
-        "**단기 전력 수요 예측의 중요성** / Criticality of Short-Term Load Forecasting",
-        "**상향식 예측 프레임워크** / Bottom-Up Forecasting Approach",
-        "**그룹화된 중요 가전제품 활용** / Grouped Critical Appliances Strategy",
-        "**에너지 관리 시스템의 자동화** / Automated Energy Management System"
-      ],
-      "url": "https://arxiv.org/abs/2604.24766",
       "featured": false
     }
   ]
