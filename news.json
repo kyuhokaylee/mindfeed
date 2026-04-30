@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-30T21:07:36.006620+00:00",
+  "updated": "2026-04-30T22:58:22.570746+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "78530ccb91dd",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Mental health risks of cannabis addiction depend heavily on age",
+      "titleKo": "대마초 중독의 정신 건강 위험은 연령에 크게 좌우된다",
+      "summary": "Adolescents with a cannabis addiction are more likely to develop schizophrenia and depression than peers addicted to other substances. A recent study shows that this risk pattern reverses in adults, highlighting the vulnerability of the developing brain.",
+      "aiSummary": "This research demonstrates that cannabis addiction's impact on mental health varies significantly depending on age. Adolescents with cannabis addiction show substantially higher risks of developing schizophrenia and depression compared to peers addicted to other substances, while this pattern reverses in adults. The research team compared addiction groups between adolescents and adults to analyze how brain developmental stages respond to substance effects differently. The adolescent brain, still in development, is particularly vulnerable to THC (the psychoactive component of cannabis), which is identified as a key factor in increased mental illness rates. The findings emphasize the dangers of cannabis use during adolescence and highlight the importance of evidence-based drug policy from a neurodevelopmental perspective. However, the study has limitations in not fully controlling for other variables such as genetic predisposition and socioeconomic factors.\n\n##",
+      "aiSummaryKo": "이 연구는 대마초 중독이 정신 건강에 미치는 영향이 연령에 따라 크게 다르다는 점을 규명했습니다. 청소년기 대마초 중독자들은 다른 물질 중독자들과 비교할 때 조현병과 우울증 발병 위험이 현저히 높은 반면, 성인에서는 이러한 패턴이 역전되는 것으로 나타났습니다. 연구팀은 청소년과 성인 중독자 집단을 비교하는 방식으로 뇌 발달 단계가 약물의 영향에 어떻게 반응하는지 분석했습니다. 청소년의 뇌는 아직 발달 과정에 있어 대마초의 신경활성 성분인 THC에 특히 취약하며, 이것이 정신질환 발생률을 높이는 주요 원인임을 밝혔습니다. 연구 결과는 청소년 시기 대마초 사용의 위험성을 강조하며, 뇌 발달 관점에서 약물 정책 수립의 중요성을 제시합니다. 다만 연구에서는 유전적 소인, 사회경제적 요인 등 다른 변수들의 영향을 완전히 통제하지 못했다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research demonstrates that cannabis addiction's impact on mental health varies significantly depending on age. Adolescents with cannabis addiction show substantially higher risks of developing schizophrenia and depression compared to peers addicted to other substances, while this pattern reverses in adults. The research team compared addiction groups between adolescents and adults to analyze how brain developmental stages respond to substance effects differently. The adolescent brain, still in development, is particularly vulnerable to THC (the psychoactive component of cannabis), which is identified as a key factor in increased mental illness rates. The findings emphasize the dangers of cannabis use during adolescence and highlight the importance of evidence-based drug policy from a neurodevelopmental perspective. However, the study has limitations in not fully controlling for other variables such as genetic predisposition and socioeconomic factors.\n\n##",
+      "keyPoints": [
+        "**청소년 취약성**: 청소년 대마초 중독자는 다른 중독물질 사용자보다 조현병과 우울증 위험이 더 높음 / Adolescents with cannabis addiction face higher risks of schizophrenia and depression compared to other substance users",
+        "**연령별 역전 현상**: 성인에서는 이러한 위험 패턴이 역전되어 대마초의 상대적 위험성이 감소함 / The risk pattern reverses in adults, reducing cannabis's comparative danger",
+        "**뇌 발달 메커니즘**: 발달 중인 청소년 뇌가 THC에 특히 취약하여 신경정신질환 발생률 증가 / The developing adolescent brain is particularly vulnerable to THC, increasing neuropsychiatric disorder rates",
+        "**정책적 시사점**: 연령대별 차별화된 약물 정책과 청소년 보호 중심의 규제 필요성 제기 / Highlights the need for age-differentiated drug policies and youth-centered regulatory approaches"
+      ],
+      "url": "https://www.psypost.org/mental-health-risks-of-cannabis-addiction-depend-heavily-on-age/",
+      "featured": true
+    },
+    {
+      "id": "cdbfc0991369",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "14시간 전 / 14h ago",
+      "title": "Scientists restore memory by blocking a single Alzheimer’s protein",
+      "titleKo": "과학자들, 알츠하이머병 단백질 하나 차단으로 기억력 회복",
+      "summary": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
+      "aiSummary": "This study identifies PTP1B protein blocking as a potential new treatment for Alzheimer's disease. Researchers conducted experiments on laboratory mice, demonstrating that blocking this protein improved memory and enhanced the ability of brain immune cells to clear harmful amyloid plaques associated with Alzheimer's. Notably, since PTP1B is also linked to diabetes and obesity—both established risk factors for Alzheimer's—this approach could offer a more comprehensive treatment strategy. The research suggests that targeting a single protein may address multiple related diseases simultaneously. However, because the experiments were conducted only in animal models, additional clinical trials in humans are necessary to confirm whether these benefits translate to patient populations.\n\n##",
+      "aiSummaryKo": "본 연구는 알츠하이머병의 새로운 치료 방법을 찾기 위해 PTP1B라는 단백질에 주목했습니다. 연구팀은 실험쥐를 대상으로 이 단백질을 차단하는 실험을 수행했으며, 그 결과 기억력이 향상되고 뇌의 면역세포가 알츠하이머병의 원인인 해로운 플라크를 더 효과적으로 제거하는 것을 확인했습니다. 특히 PTP1B는 당뇨병과 비만에도 관련이 있으며, 이 두 질환 모두 알츠하이머병의 위험 요인이므로, 이 접근법은 더 광범위한 치료 전략을 제공할 수 있습니다. 이 연구는 단일 단백질 차단으로 여러 질환을 동시에 관리할 수 있는 가능성을 보여줍니다. 다만, 실험이 동물 모델에서만 수행되었으므로 인간에게 동일한 효과가 있는지 확인하려면 추가 임상시험이 필요합니다.\n\n##",
+      "aiSummaryEn": "This study identifies PTP1B protein blocking as a potential new treatment for Alzheimer's disease. Researchers conducted experiments on laboratory mice, demonstrating that blocking this protein improved memory and enhanced the ability of brain immune cells to clear harmful amyloid plaques associated with Alzheimer's. Notably, since PTP1B is also linked to diabetes and obesity—both established risk factors for Alzheimer's—this approach could offer a more comprehensive treatment strategy. The research suggests that targeting a single protein may address multiple related diseases simultaneously. However, because the experiments were conducted only in animal models, additional clinical trials in humans are necessary to confirm whether these benefits translate to patient populations.\n\n##",
+      "keyPoints": [
+        "**PTP1B 단백질 차단의 효과** / **Effects of PTP1B Protein Blocking**: 실험쥐에서 기억력 향상과 뇌 플라크 제거 능력 증대 확인",
+        "**다중 질환 관련성** / **Multi-Disease Relevance**: PTP1B가 알츠하이머병, 당뇨병, 비만 등 여러 질환과 연관되어 있어 통합 치료 가능성 제시",
+        "**면역 메커니즘** / **Immune Mechanism**: 뇌의 면역세포 강화를 통한 알츠하이머병의 병리학적 악순환 차단",
+        "**동물 실험의 한계** / **Limitations of Animal Studies**: 마우스 모델에서의 성공이 인간 임상시험으로 이어지지 않을 가능성 존재"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102037.htm",
+      "featured": false
+    },
+    {
+      "id": "7d63ed683aa5",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "16시간 전 / 16h ago",
+      "title": "This AI knew the answers but didn’t understand the questions",
+      "titleKo": "이 AI는 답을 알았지만 질문을 이해하지 못했다",
+      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
+      "aiSummary": "For decades, psychologists have debated whether human cognition can be explained by a unified theory or must be separated into distinct components like memory and attention. The recently developed AI model Centaur appeared to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. However, new research challenges this bold claim, suggesting the model isn't truly \"thinking\" but merely memorizing patterns. This study indicates that despite high performance, AI systems may fundamentally differ from human cognitive processes. The research reveals a critical distinction between genuine understanding and pattern recognition, even when models demonstrate impressive capabilities. These findings emphasize that future AI model evaluation must verify actual cognitive mechanisms rather than relying solely on apparent performance metrics.\n\n##",
+      "aiSummaryKo": "인간의 인지 능력이 하나의 통합된 이론으로 설명되어야 하는지, 아니면 기억력과 주의력 같은 별개의 부분으로 분리되어야 하는지에 대해 심리학자들은 수십 년간 논쟁해왔다. 최근 센타우르(Centaur)라는 AI 모델이 160가지의 다양한 인지 과제에서 인간의 사고를 모방할 수 있다고 주장하며 획기적인 돌파구를 제시한 것으로 보였다. 그러나 새로운 연구는 이러한 주장에 의문을 제기하고 있으며, 해당 모델이 실제로 \"생각하는\" 것이 아니라 단순히 패턴을 암기하고 있을 뿐이라고 제시한다. 이 연구는 AI가 높은 성능을 보여도 인간의 인지 과정과 실질적으로 다를 수 있음을 시사한다. 센타우르 모델의 광범위한 성능에도 불구하고, 진정한 이해와 단순한 패턴 인식 사이의 근본적인 차이를 드러낸다. 향후 AI 모델 평가 시 겉보기 성능만이 아닌 실제 인지 메커니즘을 검증해야 함을 강조한다.\n\n##",
+      "aiSummaryEn": "For decades, psychologists have debated whether human cognition can be explained by a unified theory or must be separated into distinct components like memory and attention. The recently developed AI model Centaur appeared to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. However, new research challenges this bold claim, suggesting the model isn't truly \"thinking\" but merely memorizing patterns. This study indicates that despite high performance, AI systems may fundamentally differ from human cognitive processes. The research reveals a critical distinction between genuine understanding and pattern recognition, even when models demonstrate impressive capabilities. These findings emphasize that future AI model evaluation must verify actual cognitive mechanisms rather than relying solely on apparent performance metrics.\n\n##",
+      "keyPoints": [
+        "**AI의 겉보기 성공과 실제 이해의 괴리** / The Gap Between AI's Apparent Success and Actual Understanding",
+        "**인지 통합 이론의 한계** / Limitations of Unified Cognitive Theory",
+        "**성능과 원리의 분리 필요성** / Need to Separate Performance from Mechanism",
+        "**AI 평가 방법의 재검토** / Reassessment of AI Evaluation Methods"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+      "featured": false
+    },
+    {
+      "id": "a8a9b4e5a915",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
+      "titleKo": "MIT 과학자들, 혼란스러운 레이저 빛을 강력한 뇌 영상 도구로 변환하다",
+      "summary": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method also lets researchers watch how drugs move into brain cells in real time. It could dramatically accelerate the development of treatments for neurological diseases.",
+      "aiSummary": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused beam under specific conditions instead of scattering randomly. Using this \"pencil beam\" technology, researchers can image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method enables real-time observation of how drugs move into brain cells, representing a breakthrough in brain imaging technology. The study appears to be at the basic research stage as specific participant numbers or clinical trial scale were not specified. This technology has significant potential to dramatically accelerate the development of treatments for neurological diseases. Further safety validation and large-scale clinical trials will be necessary before clinical application.\n\n##",
+      "aiSummaryKo": "MIT 과학자들은 무질서한 레이저 빛이 특정 조건에서 산란하지 않고 매우 집중된 빔으로 자발적으로 형성될 수 있다는 사실을 발견했습니다. 이 \"연필 빔\"이라고 불리는 기술을 이용하면 혈액-뇌 장벽을 3차원으로 기존 기술보다 25배 빠르게 촬영할 수 있습니다. 이 방법은 약물이 뇌 세포로 어떻게 이동하는지를 실시간으로 관찰할 수 있어 뇌 영상 기술의 획기적인 발전을 의미합니다. 연구진은 구체적인 참가자 수나 임상 시험 규모를 명시하지 않아, 기초 연구 단계의 발견으로 보여집니다. 이 기술은 신경계 질환 치료법 개발을 획기적으로 가속화할 수 있는 잠재력을 가지고 있습니다. 향후 임상 적용을 위해서는 추가적인 안전성 검증과 대규모 임상 시험이 필요합니다.\n\n##",
+      "aiSummaryEn": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused beam under specific conditions instead of scattering randomly. Using this \"pencil beam\" technology, researchers can image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method enables real-time observation of how drugs move into brain cells, representing a breakthrough in brain imaging technology. The study appears to be at the basic research stage as specific participant numbers or clinical trial scale were not specified. This technology has significant potential to dramatically accelerate the development of treatments for neurological diseases. Further safety validation and large-scale clinical trials will be necessary before clinical application.\n\n##",
+      "keyPoints": [
+        "**무질서한 레이저의 혁신적 활용** / Revolutionary use of chaotic laser light: 기존에 버려진 것으로 여겨지던 무질서한 레이저가 특정 조건에서 고도로 집중된 빔으로 변환될 수 있음을 발견",
+        "**25배 빠른 뇌 영상 촬영 속도** / 25-fold improvement in imaging speed: 혈액-뇌 장벽의 3차원 촬영 속도가 기존 기술 대비 25배 향상되어 고속 뇌 영상이 가능해짐",
+        "**약물 이동 경로의 실시간 추적** / Real-time drug movement tracking: 약물이 뇌 세포로 어떻게 침투하는지를 실시간으로 관찰할 수 있어 약물 개발 효율성 극대화",
+        "**신경계 질환 치료 개발 가속화** / Acceleration of neurological disease treatment: 기술의 빠른 영상화 능력이 신경계 질환 치료법 개발 과정을 크게 단축시킬 수 있는 잠재력 보유"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
+      "featured": false
+    },
     {
       "id": "96ef56c86bed",
       "tag": "psych",
@@ -21,7 +105,7 @@
         "**다중 손상 메커니즘** / Multiple Damage Pathways"
       ],
       "url": "https://www.psypost.org/childhood-trauma-linked-to-biological-aging-and-gaze-avoidance/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "58bfaa6cff9f",
@@ -336,90 +420,6 @@
         "**실무적 한계와 향후 과제** / Theoretical-practical gap: 선형-가우시안 근사의 단순화로 인한 실제 주의 메커니즘 표현 한계 존재"
       ],
       "url": "https://arxiv.org/abs/2604.25975",
-      "featured": false
-    },
-    {
-      "id": "44ee7e846979",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "11시간 전 / 11h ago",
-      "title": "Untrained CNNs Match Backpropagation at V1: A Systematic RSA Comparison of Four Learning Rules Against Human fMRI",
-      "titleKo": "훈련되지 않은 CNN이 V1에서 역전파와 일치함: 네 가지 학습 규칙을 인간 fMRI와 체계적으로 비교하는 RSA 분석",
-      "summary": "arXiv:2604.16875v2 Announce Type: replace-cross Abstract: A central question in computational neuroscience is whether the learning rule used to train a neural network determines how well its internal representations align with those of the human visual cortex. We present a systematic comparison of four learning rules (backpropagation (BP), feedback alignment (FA), predictive coding (PC), and spike-timing-dependent plasticity (STDP)) applied to identical convolutional architectures and evaluated against human fMRI data from the THINGS-fMRI dataset (720 stimuli, 3 subjects) using Representationa",
-      "aiSummary": "This computational neuroscience study investigates whether the learning rule used to train neural networks determines how well their internal representations align with human visual cortex representations. Researchers systematically compared four learning rules—backpropagation (BP), feedback alignment (FA), predictive coding (PC), and spike-timing-dependent plasticity (STDP)—applied to identical convolutional neural network architectures. Using representational similarity analysis (RSA) against human fMRI data from the THINGS-fMRI dataset (720 stimuli, 3 subjects), they found that untrained CNNs matched backpropagation-trained networks in alignment with V1 visual cortex. This surprising finding suggests that neural network architecture itself naturally reflects how biological visual systems organize information. However, the study's limitations include a small number of subjects and reliance on specific visual stimuli, with alignment potentially being weaker in higher visual areas.\n\n##",
-      "aiSummaryKo": "이 연구는 신경망을 훈련하는 학습 규칙이 인간의 시각 피질 표현과 얼마나 잘 일치하는지를 조사한 계산신경과학 연구입니다. 연구팀은 역전파(BP), 피드백 정렬(FA), 예측 부호화(PC), 스파이크-타이밍-의존 가소성(STDP)이라는 4가지 학습 규칙을 동일한 합성곱 신경망 구조에 적용했습니다. 인간 fMRI 데이터(THINGS-fMRI 데이터셋, 720개 자극, 3명 피험자)와 표현 유사성 분석(RSA)을 사용하여 비교한 결과, 훈련되지 않은 CNN도 역전파로 훈련된 신경망만큼 V1 시각 영역과 잘 일치한다는 놀라운 발견을 얻었습니다. 이는 신경망의 구조 자체가 생물학적 시각 체계의 표현 방식을 자연스럽게 반영할 수 있음을 시사합니다. 다만 이 연구는 제한된 수의 피험자와 특정 시각 자극에만 기반했으며, 더 높은 시각 영역에서의 일치성은 덜 강할 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This computational neuroscience study investigates whether the learning rule used to train neural networks determines how well their internal representations align with human visual cortex representations. Researchers systematically compared four learning rules—backpropagation (BP), feedback alignment (FA), predictive coding (PC), and spike-timing-dependent plasticity (STDP)—applied to identical convolutional neural network architectures. Using representational similarity analysis (RSA) against human fMRI data from the THINGS-fMRI dataset (720 stimuli, 3 subjects), they found that untrained CNNs matched backpropagation-trained networks in alignment with V1 visual cortex. This surprising finding suggests that neural network architecture itself naturally reflects how biological visual systems organize information. However, the study's limitations include a small number of subjects and reliance on specific visual stimuli, with alignment potentially being weaker in higher visual areas.\n\n##",
-      "keyPoints": [
-        "**구조의 중요성** / **Importance of Architecture**: 신경망의 학습 규칙보다 기본 구조가 생물학적 시각 표현과의 일치성을 결정하는 더 중요한 요소일 수 있음 / The basic architecture of neural networks may be a more important determinant of alignment with biological visual representations than the specific learning rule used",
-        "**역전파의 필요성 재검토** / **Questioning Backpropagation Necessity**: 역전파가 신경망이 생물학적 시각계와 유사하게 작동하는 데 반드시 필요하지 않을 수 있으며, 다른 학습 메커니즘도 동등한 결과를 달성 가능 / Backpropagation may not be necessary for neural networks to operate similarly to biological vision systems, with alternative learning mechanisms achieving comparable results",
-        "**V1 특화 패턴** / **V1-Specific Pattern**: 초기 시각 영역(V1)에서의 강한 일치는 신경망 구조가 기본적인 시각 처리의 생물학적 원리를 자연스럽게 구현함을 의미 / Strong alignment in early visual area V1 suggests that network architecture naturally implements fundamental principles of biological visual processing",
-        "**높은 영역 확대 필요** / **Need for Higher Area Investigation**: 더 높은 시각 영역에서의 불일치 가능성이 있어 향후 연구에서는 복잡한 시각 인식과 관련된 뇌 영역까지 확대 분석이 필요 / Potential misalignment in higher visual areas indicates future research should expand analysis to brain regions involved in complex visual perception and object recognition"
-      ],
-      "url": "https://arxiv.org/abs/2604.16875",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "25일 전 / 25d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "This article presents a philosophical perspective that humans are not independent individuals but interconnected beings deeply embedded in their environment. Using breathing as an example, it illustrates the reciprocal relationship between humans, plants, and the entire ecosystem. The oxygen we inhale comes from plants, while the carbon dioxide we exhale is essential for plant photosynthesis, demonstrating that humans cannot be separated from nature. The article also mentions the scientific fact that human bodies host diverse microbial ecosystems. This perspective challenges individualistic worldviews and provides a deeper understanding of interconnectedness. However, the article lacks specific empirical data or research participant information, presenting primarily philosophical arguments rather than experimental evidence.\n\n##",
-      "aiSummaryKo": "본 기사는 인간이 독립적인 개체가 아니라 주변 환경과 긴밀하게 연결된 존재라는 철학적 관점을 제시한다. 호흡 과정을 예로 들어 인간과 식물, 그리고 전체 생태계 간의 상호 교환 관계를 설명한다. 우리가 들이마시는 산소는 식물에서 나오고, 우리가 내쉬는 이산화탄소는 식물의 광합성에 필수적이라는 점을 통해 인간이 환경과 분리될 수 없음을 보여준다. 또한 인간의 몸이 다양한 미생물 생태계를 호스팅하고 있다는 과학적 사실을 언급한다. 이러한 관점은 개인주의적 세계관을 재검토하도록 하며, 상호연결성에 대한 깊은 이해를 제공한다. 다만 철학적 주장으로 제시되어 구체적인 실증적 데이터나 연구 참가자 정보가 부재하다는 한계가 있다.\n\n##",
-      "aiSummaryEn": "This article presents a philosophical perspective that humans are not independent individuals but interconnected beings deeply embedded in their environment. Using breathing as an example, it illustrates the reciprocal relationship between humans, plants, and the entire ecosystem. The oxygen we inhale comes from plants, while the carbon dioxide we exhale is essential for plant photosynthesis, demonstrating that humans cannot be separated from nature. The article also mentions the scientific fact that human bodies host diverse microbial ecosystems. This perspective challenges individualistic worldviews and provides a deeper understanding of interconnectedness. However, the article lacks specific empirical data or research participant information, presenting primarily philosophical arguments rather than experimental evidence.\n\n##",
-      "keyPoints": [
-        "**상호호흡적 순환**: 인간과 식물은 호흡을 통해 산소와 이산화탄소를 교환하며, 이는 생명체 간 상호의존성을 보여준다. / Reciprocal Respiration: Humans and plants exchange oxygen and carbon dioxide through breathing, demonstrating mutual interdependence between living beings.",
-        "**환경과의 불가분 관계**: 개인은 세상에 잠긴 것이 아니라 세상이 개인 안에 잠겨있으며, 이는 인간-환경의 이분법을 거부한다. / Inseparable Relationship with Environment: The world is immersed within individuals rather than the reverse, rejecting the dichotomy between human and environment.",
-        "**미생물 생태계**: 인간의 몸이 다양한 미생물을 호스팅하고 있다는 사실은 개인성이라는 개념을 재정의한다. / Microbial Ecosystem: The human body hosts diverse microbial ecosystems, which redefines the concept of individuality.",
-        "**개인주의적 패러다임 전환**: \"우리는 결코 개인이었던 적이 없다\"는 주장은 기존의 개인주의적 세계관에 대한 근본적 의문을 제기한다. / Paradigm Shift from Individualism: The claim \"we have never been individuals\" fundamentally questions conventional individualistic worldviews."
-      ],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "90ef5abe9e61",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Subconscious surrender to God predicts long-term addiction recovery, study finds",
-      "titleKo": "신을 향한 잠재의식적 항복이 장기 중독 회복을 예측한다는 연구 결과",
-      "summary": "A new study reveals that subconsciously internalizing a \"Surrender to God\" coping strategy significantly reduces the risk of long-term addiction relapse in Christian patients. However, this faith-based approach did not reduce daily cravings or increase overall meaning in life.",
-      "aiSummary": "A recent study demonstrates that subconsciously internalizing a \"Surrender to God\" coping mechanism significantly reduces the risk of long-term addiction relapse in Christian patients. Researchers measured how this faith-based coping strategy operates in the brain and found it to be particularly effective in preventing addiction relapse. Surprisingly, however, this faith-based approach did not reduce daily cravings or increase overall meaning in life—suggesting that subconscious faith may operate independently from conscious desires. This finding implies that unconscious and conscious psychological processes can work separately in addiction recovery. The study's significance lies in providing scientific evidence for integrating religious faith elements into psychotherapy more effectively. A limitation is that the research focused exclusively on Christian believers, indicating a need for further studies among other faith traditions and non-religious populations.\n\n##",
-      "aiSummaryKo": "이 연구는 기독교 신앙을 가진 중독 환자들이 \"신에게 항복\"이라는 대처 방식을 무의식적으로 내재화했을 때 장기적인 중독 재발을 크게 줄일 수 있다는 것을 발견했습니다. 연구진은 신앙 기반의 이 대처 전략이 뇌에 어떻게 작동하는지를 측정하였으며, 특히 중독 재발 방지에 효과적임을 확인했습니다. 그러나 흥미롭게도 이러한 신앙 기반 접근법은 일일 갈망(craving)을 줄이거나 삶의 의미감을 높이는 데는 효과가 없었습니다. 이는 무의식적 신앙이 의식적 욕구와는 별개로 작동할 수 있음을 시사합니다. 본 연구의 의의는 심리 치료에 종교적 신앙 요소를 보다 과학적으로 통합할 수 있는 가능성을 제시한 것입니다. 다만 연구가 기독교 신자 집단에 한정되었으므로 다른 종교나 신앙이 없는 인구에 대한 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "A recent study demonstrates that subconsciously internalizing a \"Surrender to God\" coping mechanism significantly reduces the risk of long-term addiction relapse in Christian patients. Researchers measured how this faith-based coping strategy operates in the brain and found it to be particularly effective in preventing addiction relapse. Surprisingly, however, this faith-based approach did not reduce daily cravings or increase overall meaning in life—suggesting that subconscious faith may operate independently from conscious desires. This finding implies that unconscious and conscious psychological processes can work separately in addiction recovery. The study's significance lies in providing scientific evidence for integrating religious faith elements into psychotherapy more effectively. A limitation is that the research focused exclusively on Christian believers, indicating a need for further studies among other faith traditions and non-religious populations.\n\n##",
-      "keyPoints": [
-        "**무의식적 신앙의 효과** / Subconscious faith mechanisms: \"신에게 항복\"을 무의식적으로 내재화한 기독교 환자들이 장기 재발률이 현저히 낮음 / Christian patients who subconsciously internalize \"surrender to God\" show significantly lower long-term relapse rates",
-        "**의식과 무의식의 불일치** / Conscious-unconscious dissociation: 재발 방지에는 효과적이지만 일일 갈망 감소나 삶의 의미감 증진에는 비효과적 / Effective for preventing relapse but ineffective for reducing daily cravings or increasing life meaning",
-        "**종교적 신앙의 과학적 입증** / Scientific validation of faith-based intervention: 심리 치료에서 종교적 요소를 과학적으로 측정하고 검증할 수 있음을 보여줌 / Demonstrates the possibility of scientifically measuring and validating religious elements in psychotherapy",
-        "**연구의 제한성** / Study limitations: 기독교 신자 중심 연구로 다양한 종교 전통과 무신론자 집단에 대한 추가 연구 필요 / Limited to Christian believers; further research needed among other faiths and non-religious populations"
-      ],
-      "url": "https://www.psypost.org/subconscious-surrender-to-god-predicts-long-term-addiction-recovery-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "3eed85c781fe",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Gold digging is strongly linked to psychopathy and dark personality traits, study finds",
-      "titleKo": "금전욕이 강한 행동이 정신병질 및 어두운 성격 특성과 밀접하게 연관되어 있다는 연구 결과",
-      "summary": "Gold digging is often viewed as a female stereotype, but new research suggests it is a broader human mating strategy. The study provides evidence that both men and women use this exploitative approach, which is heavily linked to psychopathy and urban environments.",
-      "aiSummary": "A new study challenges the common stereotype that gold digging is exclusively a female behavior, revealing it as a broader human mating strategy employed by both men and women. The research demonstrates that this exploitative dating approach is strongly linked to psychopathic traits and darker personality characteristics. Researchers conducted personality assessments and questionnaires about mating motivations with male and female participants, finding that those intent on gold digging exhibited significantly higher levels of psychopathic features including lack of empathy, manipulativeness, and self-centeredness. Notably, these patterns were more pronounced among urban residents compared to those in other environments. The study contributes to understanding the psychological foundations of human mating strategies and highlights the importance of moving beyond gender stereotypes. However, limitations include potential variations based on sample characteristics and cultural differences that may affect generalizability.\n\n##",
-      "aiSummaryKo": "신규 연구는 돈이나 지위를 노린 연애 전략인 '골드 디깅'이 단순한 여성 고정관념을 벗어나 남녀 모두가 사용하는 광범위한 짝짓기 전략임을 보여줍니다. 이 연구는 골드 디깅 행동이 심리병질적 성향과 어두운 성격 특성들과 강하게 연관되어 있음을 입증했습니다. 연구팀은 남녀 참가자들을 대상으로 성격 검사와 짝짓기 동기에 관한 설문을 실시했으며, 결과적으로 골드 디깅을 의도하는 사람들이 공감 능력 부족, 조작성, 자기중심성 등의 심리병질적 특징을 더 많이 보였습니다. 흥미롭게도 도시 환경 거주자들에서 이러한 경향이 더욱 두드러졌습니다. 이 연구는 인간 짝짓기 전략의 심리적 기저를 이해하는 데 기여하며, 성별 고정관념 극복의 중요성을 강조합니다. 다만 표본 특성과 문화적 차이에 따른 결과 변동 가능성이 제한점으로 지적됩니다.\n\n##",
-      "aiSummaryEn": "A new study challenges the common stereotype that gold digging is exclusively a female behavior, revealing it as a broader human mating strategy employed by both men and women. The research demonstrates that this exploitative dating approach is strongly linked to psychopathic traits and darker personality characteristics. Researchers conducted personality assessments and questionnaires about mating motivations with male and female participants, finding that those intent on gold digging exhibited significantly higher levels of psychopathic features including lack of empathy, manipulativeness, and self-centeredness. Notably, these patterns were more pronounced among urban residents compared to those in other environments. The study contributes to understanding the psychological foundations of human mating strategies and highlights the importance of moving beyond gender stereotypes. However, limitations include potential variations based on sample characteristics and cultural differences that may affect generalizability.\n\n##",
-      "keyPoints": [
-        "**성별 무관 행동**: 골드 디깅은 전통적 여성 고정관념과 달리 남녀 모두가 활용하는 짝짓기 전략 / Gold digging is employed by both men and women, contrary to traditional gender stereotypes",
-        "**심리병질성과의 강한 연관**: 골드 디깅 의도를 보이는 사람들이 공감 부족, 조작성, 자기중심성 등 어두운 성격 특성을 높이 나타냄 / Strong correlation between gold digging intentions and psychopathic traits such as low empathy, manipulativeness, and narcissism",
-        "**도시 환경의 영향**: 도시 거주자들에서 골드 디깅 행동과 관련 성격 특성이 더욱 두드러지는 경향 / Urban environments show stronger associations with gold digging behavior and related personality characteristics",
-        "**인간 짝짓기 심리의 이해**: 연구는 인간의 짝짓기 전략 선택 뒤의 심리적 메커니즘을 밝히는 데 기여 / Research contributes to understanding the psychological mechanisms underlying human mating strategy selection"
-      ],
-      "url": "https://www.psypost.org/gold-digging-is-strongly-linked-to-psychopathy-and-dark-personality-traits-study-finds/",
       "featured": false
     }
   ]
