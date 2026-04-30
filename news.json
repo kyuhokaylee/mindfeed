@@ -1,7 +1,112 @@
 {
-  "updated": "2026-04-30T17:27:05.800482+00:00",
+  "updated": "2026-04-30T19:42:49.246579+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b8dd1192aa01",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "High trust in AI leaves individuals vulnerable to “cognitive surrender,” study finds",
+      "titleKo": "AI에 대한 높은 신뢰가 개인을 \"인지적 항복\"에 취약하게 만든다는 연구 결과",
+      "summary": "People are increasingly outsourcing their thinking to artificial intelligence, bypassing critical reflection entirely. New research reveals that this \"cognitive surrender\" inflates confidence and causes users to blindly adopt algorithm-generated answers, even when the software is wrong.",
+      "aiSummary": "As artificial intelligence technology advances, people increasingly rely on AI for decision-making, potentially bypassing critical thinking processes. This study investigates whether high trust in AI triggers \"cognitive surrender,\" a phenomenon where users uncritically accept AI-generated responses without proper reflection. Researchers presented participants with AI-generated answers and measured their tendency to adopt them without scrutinizing the underlying logic or accuracy. The key finding revealed that individuals with high trust in AI blindly adopted algorithm-generated answers even when the software produced errors, without recognizing these mistakes. This indicates that greater reliance on AI correlates with diminished independent thinking and critical judgment capacity. The research's significance lies in warning against potential pitfalls of AI adoption and highlighting the need to design AI systems and education strategies that maintain user critical thinking. However, the study's generalizability may be limited as it was conducted in specific contexts with particular user populations.\n\n##",
+      "aiSummaryKo": "최근 인공지능 기술의 발전으로 사람들이 자신의 생각을 AI에 의존하는 경향이 증가하고 있습니다. 이 연구는 AI에 대한 높은 신뢰가 \"인지적 항복\"이라는 현상을 유발하는지 검증하기 위해 설계되었습니다. 연구진은 참가자들에게 AI가 생성한 답변을 제시한 후 비판적 검토 과정을 거치지 않고 이를 수용하는 경향을 측정했습니다. 핵심 결과는 AI를 신뢰하는 사람들이 알고리즘의 오류를 인식하지 못하고도 그 답변을 맹목적으로 채택했다는 것입니다. 이는 사용자의 신뢰도가 높을수록 독립적인 사고능력과 비판적 판단력이 감소함을 시사합니다. 이 연구의 의의는 AI 활용의 부작용을 경고하고, 향후 AI 교육과 설계에서 사용자의 비판적 사고를 유지하는 방법을 모색해야 함을 제시합니다. 다만 연구는 특정 상황과 사용자 집단에서만 수행되어 일반화에 제한이 있을 수 있습니다.\n\n##",
+      "aiSummaryEn": "As artificial intelligence technology advances, people increasingly rely on AI for decision-making, potentially bypassing critical thinking processes. This study investigates whether high trust in AI triggers \"cognitive surrender,\" a phenomenon where users uncritically accept AI-generated responses without proper reflection. Researchers presented participants with AI-generated answers and measured their tendency to adopt them without scrutinizing the underlying logic or accuracy. The key finding revealed that individuals with high trust in AI blindly adopted algorithm-generated answers even when the software produced errors, without recognizing these mistakes. This indicates that greater reliance on AI correlates with diminished independent thinking and critical judgment capacity. The research's significance lies in warning against potential pitfalls of AI adoption and highlighting the need to design AI systems and education strategies that maintain user critical thinking. However, the study's generalizability may be limited as it was conducted in specific contexts with particular user populations.\n\n##",
+      "keyPoints": [
+        "**AI 신뢰와 인지적 항복의 관계** / **Relationship between AI trust and cognitive surrender**: AI에 대한 높은 신뢰도가 사용자로 하여금 독립적인 사고 과정을 건너뛰고 알고리즘의 답변을 무비판적으로 수용하도록 유도",
+        "**신뢰의 부정적 효과** / **Negative effects of blind trust**: 사용자의 자신감이 부풀려지면서 오류를 식별하지 못하고, AI가 틀린 답변을 제시해도 이를 인식하지 못하게 됨",
+        "**비판적 사고 능력 저하** / **Decline in critical thinking**: AI에 대한 의존도 증가에 따라 사용자의 독립적 판단능력과 비판적 검토 역량이 감소하는 현상",
+        "**AI 설계 및 교육의 개선 필요성** / **Need for improved AI design and education**: 사용자가 AI를 도구로 활용하되 항상 비판적 태도를 유지하도록 하는 시스템 설계와 교육 전략의 필요성 제기"
+      ],
+      "url": "https://www.psypost.org/high-trust-in-ai-leaves-individuals-vulnerable-to-cognitive-surrender-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "712d4e5baec4",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "15시간 전 / 15h ago",
+      "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+      "titleKo": "실제 자본 조건에서 온체인 언어 모델 에이전트를 위한 운영 계층 제어",
+      "summary": "arXiv:2604.26091v1 Announce Type: new Abstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX Terminal Pro, a 21-day deployment in which 3,505 user-funded agents traded real ETH in a bounded onchain market. Users configured vaults through structured controls and natural-language strategies, but only agents could choose normal buy/sell trades. The system produced 7.5M agent invocations, roughly 300K onchain actions, about $20M in volume, more than 5,000 ETH deployed, roughly 70B inference t",
+      "aiSummary": "This research examines reliability in autonomous language-model agents that handle real capital and execute financial transactions. The study involved a 21-day deployment called 'DX Terminal Pro' where 3,505 user-funded agents traded actual ETH cryptocurrency in a bounded blockchain market. Users configured vault controls through structured interfaces and natural-language instructions, while only agents could make actual buy/sell decisions. The system generated 7.5 million agent invocations, approximately 300,000 onchain transactions, about $20 million in trading volume, with over 5,000 ETH deployed. This research provides valuable insights into AI agent reliability in real economic environments rather than simulations. However, the 21-day timeframe is relatively short, and results are specific to cryptocurrency markets, limiting generalization to other financial sectors.\n\n##",
+      "aiSummaryKo": "본 연구는 실제 자금을 다루는 자율 언어 모델 에이전트의 신뢰성을 조사했습니다. 연구팀은 'DX Terminal Pro'라는 시스템에서 3,505개의 사용자 자금 에이전트가 실제 ETH 암호화폐를 거래하는 21일간의 실험을 진행했습니다. 사용자들은 구조화된 제어 시스템과 자연언어 전략으로 자산 운용 지시를 내렸으며, 에이전트들만 실제 매매 결정을 할 수 있었습니다. 이 시스템은 750만 건의 에이전트 실행, 약 30만 건의 온체인 거래, 약 2,000만 달러 규모의 거래량, 5,000 이상의 ETH 배치를 기록했습니다. 이 연구는 실제 경제 활동 환경에서 AI 에이전트의 신뢰성을 평가하는 중요한 사례를 제시합니다. 다만 연구 기간이 21일로 제한적이며, 특정 암호화폐 시장에서의 결과이므로 다른 금융 시장으로의 일반화에는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This research examines reliability in autonomous language-model agents that handle real capital and execute financial transactions. The study involved a 21-day deployment called 'DX Terminal Pro' where 3,505 user-funded agents traded actual ETH cryptocurrency in a bounded blockchain market. Users configured vault controls through structured interfaces and natural-language instructions, while only agents could make actual buy/sell decisions. The system generated 7.5 million agent invocations, approximately 300,000 onchain transactions, about $20 million in trading volume, with over 5,000 ETH deployed. This research provides valuable insights into AI agent reliability in real economic environments rather than simulations. However, the 21-day timeframe is relatively short, and results are specific to cryptocurrency markets, limiting generalization to other financial sectors.\n\n##",
+      "keyPoints": [
+        "**실제 자본 기반 AI 에이전트 테스트** / Testing AI agents with real capital in actual blockchain markets rather than simulations",
+        "**대규모 실험 규모** / 3,505개 에이전트, 750만 건 실행, 약 2,000만 달러 거래량 / Scale: 3,505 agents, 7.5M invocations, $20M trading volume",
+        "**사용자 제어와 에이전트 자율성의 균형** / Users provide strategy through natural language while agents execute trades autonomously",
+        "**신뢰성 평가의 한계** / 암호화폐 시장 특화 및 단기 배포로 인한 일반화 가능성 제한 / Limited to crypto markets and 21-day period, restricting broader applicability"
+      ],
+      "url": "https://arxiv.org/abs/2604.26091",
+      "featured": false
+    },
+    {
+      "id": "a9e1875e0255",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "15시간 전 / 15h ago",
+      "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+      "titleKo": "증류-신념: 물리장에서의 폐루프 역방향 소스 위치 파악 및 특성화",
+      "summary": "arXiv:2604.26095v1 Announce Type: new Abstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localize sources and infer latent field parameters under strict time constraints.} {The core challenge lies in the belief-space objective: valid uncertainty estimation requires expensive Bayesian inference, whereas using fast learned belief model leads to reward hacking, in which the policy exploits approximation errors rather than actually reducing uncertainty.} {We propose \\textbf{Distill-Belief}, a teacher--student framework",
+      "aiSummary": "This research proposes a novel AI methodology to solve the inverse problem of locating and characterizing pollution sources in physical fields. The study is motivated by the challenge of a mobile agent selecting optimal measurement points within strict time constraints to simultaneously identify source locations and infer hidden field characteristics. The team developed \"Distill-Belief,\" a teacher-student framework that reduces the computational cost of accurate Bayesian inference while preventing neural network-based fast models from exploiting approximation errors—a phenomenon called \"reward hacking.\" The key contribution is guiding a policy network to actually collect information through an effective uncertainty estimation-based belief model. This method can be applied to various real-world applications including environmental monitoring, pollution tracking, and medical imaging. However, validation of performance in complex physical environments and very high-dimensional data remains a limitation requiring further investigation.\n\n##",
+      "aiSummaryKo": "본 연구는 물리 필드에서 오염원의 위치를 파악하고 특성을 규명하는 역산 문제를 해결하기 위한 새로운 AI 방법론을 제안한다. 이동형 에이전트가 제한된 시간 내에 최적의 측정 지점을 선택하여 오염원 위치와 필드의 숨겨진 특성을 동시에 파악해야 하는 도전적 상황이 배경이다. 연구팀은 '증류 신념(Distill-Belief)'이라는 교사-학생 프레임워크를 개발했는데, 이는 정확한 베이지안 추론의 계산 비용을 줄이면서도 신경망 기반 빠른 모델이 오류를 악용하는 문제를 방지한다. 핵심 기여는 불확실성을 효과적으로 추정하는 학습 기반 신념 모델을 통해 정책 네트워크가 실제 정보를 수집하도록 유도하는 것이다. 이 방법은 환경 모니터링, 오염 추적, 의료 이미징 등 다양한 실제 응용에 활용될 수 있다. 다만 복잡한 물리 환경이나 매우 높은 차원의 데이터에서의 성능 검증이 필요하다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This research proposes a novel AI methodology to solve the inverse problem of locating and characterizing pollution sources in physical fields. The study is motivated by the challenge of a mobile agent selecting optimal measurement points within strict time constraints to simultaneously identify source locations and infer hidden field characteristics. The team developed \"Distill-Belief,\" a teacher-student framework that reduces the computational cost of accurate Bayesian inference while preventing neural network-based fast models from exploiting approximation errors—a phenomenon called \"reward hacking.\" The key contribution is guiding a policy network to actually collect information through an effective uncertainty estimation-based belief model. This method can be applied to various real-world applications including environmental monitoring, pollution tracking, and medical imaging. However, validation of performance in complex physical environments and very high-dimensional data remains a limitation requiring further investigation.\n\n##",
+      "keyPoints": [
+        "**폐쇄루프 역산 문제의 해결** / Solving closed-loop inverse source localization: 이동형 에이전트가 물리 필드의 오염원 위치와 특성을 동시에 파악하기 위한 인공지능 기반 솔루션 제시",
+        "**보상 해킹(Reward Hacking) 문제 극복** / Overcoming reward hacking: 빠른 신경망 모델이 실제 불확실성 감소가 아닌 근사 오류를 악용하는 것을 방지하는 교사-학생 증류 방식 적용",
+        "**계산 효율성과 정확성의 균형** / Balancing computational efficiency and accuracy: 비용이 많이 드는 베이지안 추론의 이점을 유지하면서 학습 기반 신념 모델의 빠른 처리 속도 확보",
+        "**실제 응용 가능성** / Practical applications: 환경 오염 모니터링, 질병 추적, 의료 이미징 등 다양한 필드에서 활용 가능한 일반적인 프레임워크 제공"
+      ],
+      "url": "https://arxiv.org/abs/2604.26095",
+      "featured": false
+    },
+    {
+      "id": "1024a0a0f949",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "15시간 전 / 15h ago",
+      "title": "Evaluating Strategic Reasoning in Forecasting Agents",
+      "titleKo": "예측 에이전트의 전략적 추론 평가",
+      "summary": "arXiv:2604.26106v1 Announce Type: new Abstract: Forecasting benchmarks produce accuracy leaderboards but little insight into why some forecasters are more accurate than others. We introduce Bench to the Future 2 (BTF-2), 1,417 pastcasting questions with a frozen 15M-document research corpus in which agents reproducibly research and forecast offline, producing full reasoning traces. BTF-2 detects accuracy differences of 0.004 Brier score, and can distinguish differential agent strengths in research vs. judgment. We build a forecaster 0.011 Brier more accurate than any single frontier agent, and",
+      "aiSummary": "This research addresses a critical gap in forecasting benchmarks: understanding why some AI predictive systems are more accurate than others. While existing benchmarks only rank forecasting accuracy, they provide little insight into the underlying reasons for performance differences. The researchers developed Bench to the Future 2 (BTF-2), featuring 1,417 backcasting questions and a frozen corpus of 15 million research documents, allowing AI agents to conduct reproducible offline research and forecasting with full reasoning traces visible for analysis. BTF-2 achieves remarkable sensitivity, detecting accuracy differences as small as 0.004 Brier score, and can differentiate whether an agent's strengths lie in information retrieval versus judgment. The team constructed a composite forecaster achieving 0.011 Brier score improvement over any single frontier agent, demonstrating the value of systematic analysis. The significance lies in providing actionable insights for improving AI forecasting capabilities and identifying specific performance drivers. However, the study's limitation is that evaluation on historical data may not fully generalize to genuinely novel future forecasting scenarios.\n\n##",
+      "aiSummaryKo": "이 연구는 예측 AI 시스템이 정확한 예측을 내리는 이유를 파악하기 위해 설계되었습니다. 기존 벤치마크는 예측 정확도만 제시하지만, 어떤 예측 시스템이 더 나은 성과를 내는지에 대한 원인 분석이 부족했습니다. 연구팀은 1,417개의 과거 예측 문제와 1,500만 개 문서의 고정된 연구 자료로 구성된 'Bench to the Future 2(BTF-2)' 벤치마크를 개발했습니다. 이를 통해 AI 에이전트들이 오프라인에서 재현 가능하게 연구하고 예측하는 전체 추론 과정을 추적할 수 있습니다. BTF-2는 0.004 Brier 점수 수준의 정교한 정확도 차이를 감지할 수 있으며, 어느 에이전트가 정보 수집에서 강한지, 판단에서 강한지를 구분할 수 있습니다. 연구팀은 단일 최고 성능 에이전트보다 0.011 Brier 점수로 더 정확한 예측 시스템을 구축했습니다. 이 연구의 의의는 AI 예측 능력의 개선 방향을 명확히 하고, 향후 더 나은 예측 시스템 개발에 기여한다는 점입니다. 다만 과거 데이터로 평가하기 때문에 미래 예측에 대한 일반화 가능성이 제한될 수 있습니다.\n\n##",
+      "aiSummaryEn": "This research addresses a critical gap in forecasting benchmarks: understanding why some AI predictive systems are more accurate than others. While existing benchmarks only rank forecasting accuracy, they provide little insight into the underlying reasons for performance differences. The researchers developed Bench to the Future 2 (BTF-2), featuring 1,417 backcasting questions and a frozen corpus of 15 million research documents, allowing AI agents to conduct reproducible offline research and forecasting with full reasoning traces visible for analysis. BTF-2 achieves remarkable sensitivity, detecting accuracy differences as small as 0.004 Brier score, and can differentiate whether an agent's strengths lie in information retrieval versus judgment. The team constructed a composite forecaster achieving 0.011 Brier score improvement over any single frontier agent, demonstrating the value of systematic analysis. The significance lies in providing actionable insights for improving AI forecasting capabilities and identifying specific performance drivers. However, the study's limitation is that evaluation on historical data may not fully generalize to genuinely novel future forecasting scenarios.\n\n##",
+      "keyPoints": [
+        "**상세한 추론 추적**: 단순 정확도 점수가 아닌 AI의 전체 추론 과정을 기록하고 분석하여 어디서 실수가 발생하는지 파악 가능 / **Detailed Reasoning Traces**: Records complete reasoning processes rather than just accuracy scores, enabling identification of failure points in AI forecasting logic",
+        "**미세한 성능 차이 감지**: 0.004 Brier 점수 수준의 작은 정확도 차이까지 구분 가능하여 에이전트 간 진정한 성능 차이 측정 / **Fine-grained Performance Detection**: Sensitivity down to 0.004 Brier score enables meaningful differentiation between agents rather than false equivalence",
+        "**연구 vs 판단 능력 분리**: 정보 검색 능력과 의사결정 능력을 별도로 평가하여 AI 개선의 구체적 방향 제시 / **Separates Research from Judgment**: Distinguishes between information retrieval strengths and decision-making quality, providing specific improvement targets",
+        "**앙상블 방식의 우수성**: 단일 최고 성능 에이전트보다 여러 에이전트를 조합한 시스템이 0.011 Brier 점수 더 나은 성능 달성 / **Ensemble Superiority**: Combining multiple agents outperforms any single best agent by 0.011 Brier score, validating ensemble forecasting approaches"
+      ],
+      "url": "https://arxiv.org/abs/2604.26106",
+      "featured": false
+    },
+    {
+      "id": "e725cb189284",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "14시간 전 / 14h ago",
+      "title": "A hidden map in your nose could explain how smell works",
+      "titleKo": "당신의 코에 숨겨진 지도가 냄새 작용 방식을 설명할 수 있다",
+      "summary": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
+      "aiSummary": "How smell is organized in our sensory system has remained one of science's biggest unanswered questions. Researchers mapped millions of neurons in mice's noses to investigate how smell receptors are arranged. The study revealed that smell receptors in the nose are not randomly distributed but instead form neat, overlapping stripes organized by receptor type—a previously unknown hidden structure. Remarkably, this physical arrangement in the nose perfectly mirrors how smell information is mapped and processed in the brain. This discovery demonstrates a coordinated system where olfactory signals are systematically organized from the nose all the way through neural circuits. The findings have significant implications for understanding the fundamental mechanisms of how smell works and could lead to future treatments for smell-related disorders. However, since the research was conducted on mice, further studies are needed to confirm whether the same organizational principles apply to human olfactory systems.\n\n##",
+      "aiSummaryKo": "후각의 조직 방식은 오랫동안 과학의 미해결 과제였다. 연구팀은 쥐의 코에 있는 수백만 개의 신경세포를 매핑하는 방식으로 후각 수용체의 배열 구조를 조사했다. 연구 결과, 코의 후각 수용체들이 무작위로 배치된 것이 아니라 수용체 종류별로 깔끔하게 줄을 지어 겹쳐지는 패턴을 이루고 있다는 것을 발견했다. 놀랍게도 이러한 물리적 배치는 뇌에서 후각 정보를 처리하는 지도와 정확히 일치한다는 사실이 밝혀졌다. 이 발견은 코에서 뇌까지 후각 정보가 조직적이고 체계적으로 전달되는 메커니즘을 설명해준다. 이 연구는 후각 시스템의 기본 원리를 이해하는 데 획기적 의의를 가지며, 추후 후각 관련 질환 치료법 개발로 이어질 수 있다. 다만 쥐를 대상으로 한 연구이므로 인간의 후각 시스템에 동일하게 적용되는지는 추가 검증이 필요하다.\n\n##",
+      "aiSummaryEn": "How smell is organized in our sensory system has remained one of science's biggest unanswered questions. Researchers mapped millions of neurons in mice's noses to investigate how smell receptors are arranged. The study revealed that smell receptors in the nose are not randomly distributed but instead form neat, overlapping stripes organized by receptor type—a previously unknown hidden structure. Remarkably, this physical arrangement in the nose perfectly mirrors how smell information is mapped and processed in the brain. This discovery demonstrates a coordinated system where olfactory signals are systematically organized from the nose all the way through neural circuits. The findings have significant implications for understanding the fundamental mechanisms of how smell works and could lead to future treatments for smell-related disorders. However, since the research was conducted on mice, further studies are needed to confirm whether the same organizational principles apply to human olfactory systems.\n\n##",
+      "keyPoints": [
+        "**후각 수용체의 숨겨진 구조** / Hidden structure of smell receptors",
+        "**코와 뇌의 일치하는 지도** / Coordinated nose-to-brain mapping",
+        "**수백만 신경세포 매핑 연구** / Large-scale neuronal mapping study",
+        "**의약학적 응용 가능성과 인간 적용의 한계** / Clinical potential and research limitations"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102025.htm",
+      "featured": false
+    },
     {
       "id": "cacfd36a55fc",
       "tag": "psych",
@@ -21,7 +126,7 @@
         "**추가 연구의 필요성**: 다양한 지역과 문화권, 넓은 표본의 후속 연구 필요 / Further rigorous studies with larger and more diverse international samples needed to confirm findings and understand underlying mechanisms"
       ],
       "url": "https://www.psypost.org/regular-sex-is-linked-to-fewer-daily-menopause-symptoms-survey-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f9836e594358",
@@ -315,111 +420,6 @@
         "신경질환 치료제 개발 가속화의 잠재력 있으나, 임상 적용까지는 추가 검증 필요 / Potential to accelerate neurological disease treatment development, but further validation needed for clinical application"
       ],
       "url": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
-      "featured": false
-    },
-    {
-      "id": "9756061e1742",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "11시간 전 / 11h ago",
-      "title": "Brain halves become less alike as kids grow, especially in highly intelligent teens",
-      "titleKo": "아이들이 성장하면서 뇌의 좌우반구가 달라지는 경향, 특히 고도의 지능을 가진 청소년에서 두드러져",
-      "summary": "As children grow, the left and right hemispheres of their brains begin working more independently. A new study reveals that this division of mental labor happens at an accelerated rate in adolescents with superior intelligence scores.",
-      "aiSummary": "This research investigated how the left and right brain hemispheres develop increasing independence during childhood. Researchers conducted brain imaging scans on adolescents with varying intelligence levels to analyze structural and functional similarities between the two hemispheres. The results revealed that while all adolescents showed differentiation between their brain hemispheres, those with higher intelligence scores demonstrated this separation at an accelerated and more pronounced rate. These findings suggest that hemispheric independence may serve as a positive indicator of cognitive and intelligence development. However, the study was based on cross-sectional data at a single time point, requiring additional longitudinal follow-up studies for validation.\n\n##",
-      "aiSummaryKo": "이 연구는 어린이의 뇌 발달 과정에서 좌뇌와 우뇌가 독립적으로 작동하게 되는 현상을 조사했습니다. 연구팀은 다양한 지능 수준의 청소년들을 대상으로 뇌 영상 촬영을 통해 두 뇌 반구 간의 구조적·기능적 유사성을 분석했습니다. 결과적으로 모든 청소년에게서 좌뇌와 우뇌의 분화가 나타났지만, 지능 점수가 높은 청소년들에게서 이러한 현상이 더욱 빠르고 뚜렷하게 진행되는 것으로 나타났습니다. 이는 뇌 반구의 독립적 작동이 인지 발달과 지능 발달의 긍정적 지표가 될 수 있음을 시사합니다. 다만, 이 연구는 특정 시점의 데이터에 기반했으므로, 종단적 추적 관찰을 통한 추가 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This research investigated how the left and right brain hemispheres develop increasing independence during childhood. Researchers conducted brain imaging scans on adolescents with varying intelligence levels to analyze structural and functional similarities between the two hemispheres. The results revealed that while all adolescents showed differentiation between their brain hemispheres, those with higher intelligence scores demonstrated this separation at an accelerated and more pronounced rate. These findings suggest that hemispheric independence may serve as a positive indicator of cognitive and intelligence development. However, the study was based on cross-sectional data at a single time point, requiring additional longitudinal follow-up studies for validation.\n\n##",
-      "keyPoints": [
-        "**뇌 반구의 분화 현상** / Brain hemispheric differentiation occurs during adolescence, with left and right hemispheres becoming increasingly independent in their function and structure.",
-        "**지능과의 관련성** / Superior intelligence scores correlate with an accelerated rate of brain hemispheric separation, suggesting cognitive sophistication is linked to specialized hemispheric processing.",
-        "**발달 과정의 개인차** / The pace and degree of hemispheric differentiation varies significantly among adolescents based on their intelligence levels and cognitive abilities.",
-        "**뇌 발달의 생물학적 기초** / This neural reorganization represents a fundamental aspect of healthy adolescent brain development, reflecting the specialization necessary for advanced cognitive functioning."
-      ],
-      "url": "https://www.psypost.org/brain-halves-become-less-alike-as-kids-grow-especially-in-highly-intelligent-tee/",
-      "featured": false
-    },
-    {
-      "id": "41286ed18ece",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "13시간 전 / 13h ago",
-      "title": "The “femme fatale” might be a universal myth driven by the fear of romantic deception",
-      "titleKo": "\"팜므 파탈\"은 연애 사기에 대한 두려움에서 비롯된 보편적 신화일 수 있다",
-      "summary": "A recent study suggests that stories about dangerous, attractive women are almost universal across cultures. These cautionary tales provide evidence that evolutionary fears of emotional deception and heartbreak heavily influence human mating psychology.",
-      "aiSummary": "A recent study demonstrates that stories about dangerous yet attractive women appear across virtually all cultures, suggesting that the \"femme fatale\" myth is more than a cultural product—it reflects universal evolutionary fears. The research team analyzed myths, legends, and folklore from diverse cultures to track patterns in female characters who are attractive but deceive or harm men. The findings indicate that the cross-cultural repetition of these narratives suggests that evolved fears of emotional deception and romantic betrayal significantly influence human mating psychology. This implies that deep human anxieties about betrayal and loss in romantic relationships create similar narrative structures across different cultures. The study reveals that these cautionary tales serve as a cultural mechanism to process fears of heartbreak and emotional manipulation. However, the research may not fully account for specific socioeconomic contexts, historical factors, and individual variations across cultures that could contribute to these story patterns.\n\n##",
-      "aiSummaryKo": "최근 연구는 위험하면서도 매력적인 여성에 관한 이야기가 거의 모든 문화권에서 발견된다는 것을 보여줍니다. 이 연구는 '팜므 파탈(femme fatale)' 신화가 단순한 문화적 산물이 아니라 인간의 진화 과정에서 비롯된 보편적 두려움을 반영한다고 제안합니다. 연구팀은 다양한 문화권의 신화, 전설, 민간 이야기 자료들을 분석하여 매력적이지만 남성을 속이거나 해치는 여성 캐릭터의 패턴을 추적했습니다. 연구 결과, 이러한 이야기들이 문화를 초월하여 반복적으로 나타나는 현상은 짝짓기 심리에서 감정적 기만과 배신에 대한 진화적 공포가 작용하고 있음을 시사합니다. 이는 인간이 로맨틱한 관계에서 느끼는 배신감과 상실에 대한 깊은 불안감이 문화권별로 유사한 이야기 구조를 만들어냈다는 의미입니다. 다만 이 연구는 각 문화의 구체적인 사회·경제적 맥락과 개별 차이를 충분히 반영하지 못했을 가능성이 있습니다.\n\n##",
-      "aiSummaryEn": "A recent study demonstrates that stories about dangerous yet attractive women appear across virtually all cultures, suggesting that the \"femme fatale\" myth is more than a cultural product—it reflects universal evolutionary fears. The research team analyzed myths, legends, and folklore from diverse cultures to track patterns in female characters who are attractive but deceive or harm men. The findings indicate that the cross-cultural repetition of these narratives suggests that evolved fears of emotional deception and romantic betrayal significantly influence human mating psychology. This implies that deep human anxieties about betrayal and loss in romantic relationships create similar narrative structures across different cultures. The study reveals that these cautionary tales serve as a cultural mechanism to process fears of heartbreak and emotional manipulation. However, the research may not fully account for specific socioeconomic contexts, historical factors, and individual variations across cultures that could contribute to these story patterns.\n\n##",
-      "keyPoints": [
-        "**보편적 신화 패턴** / Universal Myth Pattern",
-        "**진화 심리학적 기원** / Evolutionary Psychology Origin",
-        "**짝짓기 전략과의 연결** / Connection to Mating Psychology",
-        "**문화적 표현의 다양성** / Cultural Expression Diversity"
-      ],
-      "url": "https://www.psypost.org/the-femme-fatale-might-be-a-universal-myth-driven-by-the-fear-of-romantic-deception/",
-      "featured": false
-    },
-    {
-      "id": "58bfaa6cff9f",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "10일 전 / 10d ago",
-      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
-      "titleKo": "갈등 상황에서 행동과학이 마주해야 할 불편한 진실들",
-      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
-      "aiSummary": "Approximately 2 billion people currently live in conflict-affected areas, with 123 million forced displacements recorded in 2024—the highest number on record. However, behavioral science has primarily developed its theories, conducted experiments, and designed interventions in stable settings. Behavioral scientists working in conflict areas typically follow a familiar pattern: adapting successful approaches from other contexts and evaluating them locally. This research argues that behavioral science must develop theories and interventions specifically designed for conflict situations. The psychological and social impacts of conflict are fundamentally different from stable environments, making new approaches urgent. This discussion has significant implications for redefining the role of behavioral science in addressing global crises.\n\n##",
-      "aiSummaryKo": "현재 약 20억 명이 분쟁 영향 지역에 거주하고 있으며, 2024년에는 기록적인 1억 2,300만 명이 강제 이주를 경험했다. 그러나 행동심리학 분야는 대부분의 이론 개발, 실험, 개입 방안을 안정적인 환경에서만 구축해왔다. 분쟁 지역에서 활동하는 행동심리학자들도 일반적으로 다른 환경에서 성공한 방법을 가져와 \"지역화\"한 후 평가하는 패턴을 반복하고 있다. 이 연구는 행동심리학이 분쟁 상황에 특화된 이론과 개입 방안을 개발해야 한다는 점을 강조한다. 분쟁으로 인한 심리적, 사회적 영향은 안정적 환경과 근본적으로 다르므로, 새로운 접근법의 개발이 시급하다. 이 논의는 글로벌 위기 속에서 행동심리학의 역할을 재정의하는 데 중요한 의미를 가진다.\n\n##",
-      "aiSummaryEn": "Approximately 2 billion people currently live in conflict-affected areas, with 123 million forced displacements recorded in 2024—the highest number on record. However, behavioral science has primarily developed its theories, conducted experiments, and designed interventions in stable settings. Behavioral scientists working in conflict areas typically follow a familiar pattern: adapting successful approaches from other contexts and evaluating them locally. This research argues that behavioral science must develop theories and interventions specifically designed for conflict situations. The psychological and social impacts of conflict are fundamentally different from stable environments, making new approaches urgent. This discussion has significant implications for redefining the role of behavioral science in addressing global crises.\n\n##",
-      "keyPoints": [
-        "**분쟁 지역의 규모와 심각성** / Scale and severity of conflict crises",
-        "**기존 행동심리학의 한계** / Limitations of existing behavioral science approaches",
-        "**분쟁 상황의 독특성** / Unique characteristics of conflict settings",
-        "**학문적 재정의의 필요성** / Need for academic redefinition"
-      ],
-      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
-      "featured": false
-    },
-    {
-      "id": "2ca3144e26ec",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "10일 전 / 10d ago",
-      "title": "The ‘Busy’ Trap",
-      "titleKo": "'바쁨'의 함정",
-      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
-      "aiSummary": "This article examines how \"busy\" has become the default response in modern American society when people are asked how they're doing, functioning as a disguised boast rather than a genuine complaint. The research employs qualitative analysis of conversational patterns and social phenomena rather than quantified experimental methodology with specific participant numbers. The key finding is that people actually working intensive jobs—such as ICU nurses or those working multiple minimum-wage positions—do not describe themselves as \"busy,\" while those with higher social status frequently use this expression. This suggests that busyness functions as a social signal symbolizing status and cultural capital rather than simply indicating time scarcity. The research's significance lies in revealing the relationship between psychological self-presentation and social status indicators in contemporary culture. A limitation is that the analysis relies on social observation without providing specific statistical data or empirical measurements to support the claims.\n\n##",
-      "aiSummaryKo": "현대 미국 사회에서 '바쁘다'는 표현이 일상적인 인사말로 자리 잡았으며, 이는 실제 불평보다는 자랑으로 위장된 형태임을 다룬 글이다. 연구 대상은 일상의 대화 패턴과 사회 현상에 대한 질적 분석으로, 특정 인원 수보다는 사회문화적 관찰을 중심으로 진행되었다. 핵심 발견은 실제로 높은 업무 부하를 겪는 ICU 근무자나 최저임금 일자리를 다중으로 보유한 사람들은 자신이 '바쁘다'고 표현하지 않으며, 오히려 사회적 지위가 높은 집단에서 이런 표현을 사용한다는 점이다. 이는 바쁨이 단순한 시간 부족이 아닌 사회적 지위와 자본을 상징하는 신호임을 시사한다. 연구의 의의는 현대인의 심리 상태와 사회적 위상 표현 방식의 관계를 밝혀낸 점이며, 제시된 자료가 구체적 통계 수치 없이 사회 관찰에 기반했다는 점이 제한점이다.\n\n##",
-      "aiSummaryEn": "This article examines how \"busy\" has become the default response in modern American society when people are asked how they're doing, functioning as a disguised boast rather than a genuine complaint. The research employs qualitative analysis of conversational patterns and social phenomena rather than quantified experimental methodology with specific participant numbers. The key finding is that people actually working intensive jobs—such as ICU nurses or those working multiple minimum-wage positions—do not describe themselves as \"busy,\" while those with higher social status frequently use this expression. This suggests that busyness functions as a social signal symbolizing status and cultural capital rather than simply indicating time scarcity. The research's significance lies in revealing the relationship between psychological self-presentation and social status indicators in contemporary culture. A limitation is that the analysis relies on social observation without providing specific statistical data or empirical measurements to support the claims.\n\n##",
-      "keyPoints": [
-        "**'바쁨'의 이중성** / **Duality of \"Busyness\"**: 불평으로 표현되지만 실제로는 사회적 지위와 성공을 자랑하는 수단으로 기능",
-        "**사회계층별 차이** / **Socioeconomic Distinction**: 실제로 고강도 업무를 하는 저소득 근로자보다 상위 계층이 자신의 바쁨을 더 자주 표현",
-        "**신호체계로서의 바쁨** / **Busyness as Social Signaling**: 개인의 심리 상태와 시간 관리보다는 사회적 자본과 위상을 나타내는 지표로 작용",
-        "**현대 문화의 역설** / **Modern Cultural Paradox**: 피로와 스트레스를 나타내는 표현이 오히려 긍정적 평가와 축하를 받는 사회 현상"
-      ],
-      "url": "https://behavioralscientist.org/the-busy-trap/",
-      "featured": false
-    },
-    {
-      "id": "c1d7d1e43287",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "16일 전 / 16d ago",
-      "title": "What It’s Like to Be…an Aerospace Engineer",
-      "titleKo": "우주항공 엔지니어가 된다는 것",
-      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
-      "aiSummary": "This article presents a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, from the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath. The episode explores Mohan's professional experiences, including the landing of the Perseverance rover on Mars, working in clean rooms to minimize microbial contamination, and navigating hundreds of engineering trade-offs. The discussion addresses the critical concept of the \"seven minutes of terror\" during the landing sequence and explores evidence of past life on Mars. This interview format helps general audiences understand the practical operations of complex space exploration projects and the role aerospace engineers play in their success. However, as a podcast narrative, the episode emphasizes personal experience and insights rather than comprehensive scientific data and research findings.\n\n##",
-      "aiSummaryKo": "본 기사는 NASA 제트 추진 연구소의 항공우주공학자 스와티 모한과의 인터뷰를 다루는 팟캐스트 에피소드이다. 이 프로그램은 베스트셀러 저자 댄 히스가 진행하는 \"What It's Like to Be...\" 시리즈의 일부로, 전문가들의 실제 업무 경험을 소개하는 형식이다. 모한은 화성 탐사선 퍼서비어런스 착륙, 미생물을 최소화하기 위한 클린룸 작업, 그리고 수백 가지의 공학적 설계 상충(trade-off)을 다루는 과정에서의 경험을 설명한다. 특히 착륙 과정의 \"7분의 공포(seven minutes of terror)\"라는 중요한 개념과 화성의 과거 생명 존재 증거에 대해 논의한다. 이 인터뷰는 일반인들이 복잡한 우주 탐사 프로젝트의 실제 운영 과정과 항공우주공학자의 역할을 이해하는 데 도움을 준다. 다만 팟캐스트 형식이므로 심화된 과학적 데이터나 연구 결과보다는 개인의 경험과 통찰에 중점을 두고 있는 한계가 있다.\n\n##",
-      "aiSummaryEn": "This article presents a podcast episode featuring an interview with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory, from the \"What It's Like to Be...\" series hosted by bestselling author Dan Heath. The episode explores Mohan's professional experiences, including the landing of the Perseverance rover on Mars, working in clean rooms to minimize microbial contamination, and navigating hundreds of engineering trade-offs. The discussion addresses the critical concept of the \"seven minutes of terror\" during the landing sequence and explores evidence of past life on Mars. This interview format helps general audiences understand the practical operations of complex space exploration projects and the role aerospace engineers play in their success. However, as a podcast narrative, the episode emphasizes personal experience and insights rather than comprehensive scientific data and research findings.\n\n##",
-      "keyPoints": [
-        "**화성 탐사 프로젝트 실제 운영** / Practical Operations of Mars Exploration Projects",
-        "**\"7분의 공포\" 개념** / \"Seven Minutes of Terror\" Concept",
-        "**클린룸 작업의 중요성** / Importance of Clean Room Operations",
-        "**공학적 설계의 복잡성** / Complexity of Engineering Design Trade-offs"
-      ],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
       "featured": false
     }
   ]
