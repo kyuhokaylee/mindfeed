@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-30T12:18:20.410907+00:00",
+  "updated": "2026-04-30T15:15:32.652008+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "beb16cc30a1c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Science debunks the fashion myth that vertical stripes are always slimming",
+      "titleKo": "과학이 밝혀낸 진실: 세로 줄무늬가 항상 날씬해 보이는 것은 아니다",
+      "summary": "Do vertical stripes actually make a person look thinner? A new study published in i-Perception provides evidence that horizontal pencil stripes can produce a more slimming effect. Researchers found that specific line spacing and direction alter our visual judgment of human figures.",
+      "aiSummary": "A new study challenges the popular fashion myth that vertical stripes always make people look slimmer. Published in the journal i-Perception, research provides evidence that horizontal pencil stripes can actually produce a more slimming effect than vertical ones. The study demonstrates that specific line spacing and direction significantly alter our visual perception of human figures. Researchers found that the arrangement and orientation of stripes influence how our brains judge body size and proportions. These findings provide scientific backing for fashion and clothing design decisions, helping consumers make more informed choices about their wardrobes. However, the research has limitations as variables such as individual body type, skin tone, lighting conditions, and fabric texture may affect the actual visual impact in real-world situations.\n\n##",
+      "aiSummaryKo": "세로 줄무늬가 항상 날씬해 보인다는 일반적인 패션 통념을 검증하기 위해 과학자들이 새로운 연구를 진행했다. 연구팀은 i-Perception 저널에 발표한 논문을 통해 가로 가는 줄무늬가 오히려 더 날씬한 효과를 낼 수 있다는 증거를 제시했다. 이 연구는 인간의 시각적 인지가 줄무늬의 간격과 방향에 따라 어떻게 달라지는지를 보여준다. 구체적인 실험 결과에 따르면 특정한 선의 배치와 방향이 신체 크기 인지에 유의미한 영향을 미친다. 이 발견은 패션과 의류 설계에 있어 과학적 근거를 제공함으로써 소비자들이 더 나은 의류 선택을 할 수 있도록 돕는다. 다만 개인의 신체 타입, 피부색, 조명 등 다양한 변수가 실제 효과에 영향을 미칠 수 있다는 점이 연구의 한계로 남아있다.\n\n##",
+      "aiSummaryEn": "A new study challenges the popular fashion myth that vertical stripes always make people look slimmer. Published in the journal i-Perception, research provides evidence that horizontal pencil stripes can actually produce a more slimming effect than vertical ones. The study demonstrates that specific line spacing and direction significantly alter our visual perception of human figures. Researchers found that the arrangement and orientation of stripes influence how our brains judge body size and proportions. These findings provide scientific backing for fashion and clothing design decisions, helping consumers make more informed choices about their wardrobes. However, the research has limitations as variables such as individual body type, skin tone, lighting conditions, and fabric texture may affect the actual visual impact in real-world situations.\n\n##",
+      "keyPoints": [
+        "**세로 줄무늬 신화 깨짐** / The vertical stripe slimming myth is debunked",
+        "전통적인 패션 관념이 과학적으로 검증되지 않았음을 시사",
+        "**가로 줄무늬의 효과** / Horizontal stripes show slimming effect",
+        "특정 조건에서 가로 줄무늬가 더 효과적일 수 있음을 입증"
+      ],
+      "url": "https://www.psypost.org/science-debunks-the-fashion-myth-that-vertical-stripes-are-always-slimming/",
+      "featured": true
+    },
+    {
+      "id": "664d7679f68d",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "11시간 전 / 11h ago",
+      "title": "Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective",
+      "titleKo": "KV 캐시 제거를 통합 정보 이론적 목적함수로 재검토하기",
+      "summary": "arXiv:2604.25975v1 Announce Type: new Abstract: Key-value (KV) caching is essential for large language model inference, yet its memory overhead poses a critical bottleneck for long-context generation. Existing eviction policies predominantly rely on empirical heuristics, lacking a rigorous theoretical foundation. This work rethinks KV cache eviction through the lens of the Information Bottleneck principle. Under a linear-Gaussian surrogate of attention, we derive a closed-form mutual information objective that characterizes the effective information capacity of a retained KV cache subset. This",
+      "aiSummary": "Large Language Models (LLMs) use KV caching to store previous computations for faster inference, but memory constraints become critical during long-context generation. Existing eviction policies rely primarily on empirical heuristics without rigorous theoretical foundations. This research reconsiders KV cache eviction through the Information Bottleneck principle from information theory. By using a linear-Gaussian surrogate model of attention mechanisms, the researchers derived a closed-form mutual information objective function that characterizes the effective information capacity of retained KV cache subsets. This approach provides a theoretically sound foundation for balancing memory efficiency with model performance optimization. The significance lies in replacing ad-hoc methods with mathematically rigorous cache management principles rooted in information theory. However, the linear-Gaussian approximation may not perfectly capture the complexity of actual attention mechanisms in practical applications.\n\n##",
+      "aiSummaryKo": "대규모 언어 모델(LLM)은 빠른 응답을 위해 이전 계산 결과를 저장하는 KV 캐시를 사용하는데, 긴 문맥을 처리할 때 메모리 부족이 심각한 문제가 된다. 기존 연구들은 주로 경험적 휴리스틱에 의존하여 어떤 정보를 버릴지 결정했지만, 이론적 근거가 부족했다. 이 연구는 정보이론의 '정보 병목(Information Bottleneck)' 원칙을 적용하여 KV 캐시 제거 정책을 재검토한다. 선형-가우시안 근사 모델을 사용하여 남겨진 KV 캐시의 유효 정보 용량을 수학적으로 계산할 수 있는 상호정보(mutual information) 목적함수를 도출했다. 이 접근법은 메모리 효율성과 모델 성능 사이의 균형을 이론적으로 최적화하는 기초를 제공한다. 연구의 의의는 기존의 임시방편적 방법에서 벗어나 수학적으로 엄밀한 캐시 관리 원칙을 제시하는 것이다. 다만 선형-가우시안 근사가 실제 주의(attention) 메커니즘을 완벽하게 표현하지 못할 수 있다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Large Language Models (LLMs) use KV caching to store previous computations for faster inference, but memory constraints become critical during long-context generation. Existing eviction policies rely primarily on empirical heuristics without rigorous theoretical foundations. This research reconsiders KV cache eviction through the Information Bottleneck principle from information theory. By using a linear-Gaussian surrogate model of attention mechanisms, the researchers derived a closed-form mutual information objective function that characterizes the effective information capacity of retained KV cache subsets. This approach provides a theoretically sound foundation for balancing memory efficiency with model performance optimization. The significance lies in replacing ad-hoc methods with mathematically rigorous cache management principles rooted in information theory. However, the linear-Gaussian approximation may not perfectly capture the complexity of actual attention mechanisms in practical applications.\n\n##",
+      "keyPoints": [
+        "**KV 캐시 메모리 문제** / KV cache memory bottleneck: LLM의 장문맥 처리 시 메모리 오버헤드가 추론 속도의 주요 제약 요소",
+        "**정보이론 기반 접근** / Information-theoretic foundation: 기존 휴리스틱 기반 제거 정책 대신 정보 병목(Information Bottleneck) 원칙으로 이론화",
+        "**수학적 최적화 목적함수** / Mutual information objective: 선형-가우시안 모델 하에서 남겨진 캐시의 유효 정보 용량을 정량적으로 측정 가능",
+        "**실무적 한계와 향후 과제** / Theoretical-practical gap: 선형-가우시안 근사의 단순화로 인한 실제 주의 메커니즘 표현 한계 존재"
+      ],
+      "url": "https://arxiv.org/abs/2604.25975",
+      "featured": false
+    },
+    {
+      "id": "44ee7e846979",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "11시간 전 / 11h ago",
+      "title": "Untrained CNNs Match Backpropagation at V1: A Systematic RSA Comparison of Four Learning Rules Against Human fMRI",
+      "titleKo": "훈련되지 않은 CNN이 V1에서 역전파와 일치함: 네 가지 학습 규칙을 인간 fMRI와 체계적으로 비교하는 RSA 분석",
+      "summary": "arXiv:2604.16875v2 Announce Type: replace-cross Abstract: A central question in computational neuroscience is whether the learning rule used to train a neural network determines how well its internal representations align with those of the human visual cortex. We present a systematic comparison of four learning rules (backpropagation (BP), feedback alignment (FA), predictive coding (PC), and spike-timing-dependent plasticity (STDP)) applied to identical convolutional architectures and evaluated against human fMRI data from the THINGS-fMRI dataset (720 stimuli, 3 subjects) using Representationa",
+      "aiSummary": "This computational neuroscience study investigates whether the learning rule used to train neural networks determines how well their internal representations align with human visual cortex representations. Researchers systematically compared four learning rules—backpropagation (BP), feedback alignment (FA), predictive coding (PC), and spike-timing-dependent plasticity (STDP)—applied to identical convolutional neural network architectures. Using representational similarity analysis (RSA) against human fMRI data from the THINGS-fMRI dataset (720 stimuli, 3 subjects), they found that untrained CNNs matched backpropagation-trained networks in alignment with V1 visual cortex. This surprising finding suggests that neural network architecture itself naturally reflects how biological visual systems organize information. However, the study's limitations include a small number of subjects and reliance on specific visual stimuli, with alignment potentially being weaker in higher visual areas.\n\n##",
+      "aiSummaryKo": "이 연구는 신경망을 훈련하는 학습 규칙이 인간의 시각 피질 표현과 얼마나 잘 일치하는지를 조사한 계산신경과학 연구입니다. 연구팀은 역전파(BP), 피드백 정렬(FA), 예측 부호화(PC), 스파이크-타이밍-의존 가소성(STDP)이라는 4가지 학습 규칙을 동일한 합성곱 신경망 구조에 적용했습니다. 인간 fMRI 데이터(THINGS-fMRI 데이터셋, 720개 자극, 3명 피험자)와 표현 유사성 분석(RSA)을 사용하여 비교한 결과, 훈련되지 않은 CNN도 역전파로 훈련된 신경망만큼 V1 시각 영역과 잘 일치한다는 놀라운 발견을 얻었습니다. 이는 신경망의 구조 자체가 생물학적 시각 체계의 표현 방식을 자연스럽게 반영할 수 있음을 시사합니다. 다만 이 연구는 제한된 수의 피험자와 특정 시각 자극에만 기반했으며, 더 높은 시각 영역에서의 일치성은 덜 강할 수 있다는 한계가 있습니다.\n\n##",
+      "aiSummaryEn": "This computational neuroscience study investigates whether the learning rule used to train neural networks determines how well their internal representations align with human visual cortex representations. Researchers systematically compared four learning rules—backpropagation (BP), feedback alignment (FA), predictive coding (PC), and spike-timing-dependent plasticity (STDP)—applied to identical convolutional neural network architectures. Using representational similarity analysis (RSA) against human fMRI data from the THINGS-fMRI dataset (720 stimuli, 3 subjects), they found that untrained CNNs matched backpropagation-trained networks in alignment with V1 visual cortex. This surprising finding suggests that neural network architecture itself naturally reflects how biological visual systems organize information. However, the study's limitations include a small number of subjects and reliance on specific visual stimuli, with alignment potentially being weaker in higher visual areas.\n\n##",
+      "keyPoints": [
+        "**구조의 중요성** / **Importance of Architecture**: 신경망의 학습 규칙보다 기본 구조가 생물학적 시각 표현과의 일치성을 결정하는 더 중요한 요소일 수 있음 / The basic architecture of neural networks may be a more important determinant of alignment with biological visual representations than the specific learning rule used",
+        "**역전파의 필요성 재검토** / **Questioning Backpropagation Necessity**: 역전파가 신경망이 생물학적 시각계와 유사하게 작동하는 데 반드시 필요하지 않을 수 있으며, 다른 학습 메커니즘도 동등한 결과를 달성 가능 / Backpropagation may not be necessary for neural networks to operate similarly to biological vision systems, with alternative learning mechanisms achieving comparable results",
+        "**V1 특화 패턴** / **V1-Specific Pattern**: 초기 시각 영역(V1)에서의 강한 일치는 신경망 구조가 기본적인 시각 처리의 생물학적 원리를 자연스럽게 구현함을 의미 / Strong alignment in early visual area V1 suggests that network architecture naturally implements fundamental principles of biological visual processing",
+        "**높은 영역 확대 필요** / **Need for Higher Area Investigation**: 더 높은 시각 영역에서의 불일치 가능성이 있어 향후 연구에서는 복잡한 시각 인식과 관련된 뇌 영역까지 확대 분석이 필요 / Potential misalignment in higher visual areas indicates future research should expand analysis to brain regions involved in complex visual perception and object recognition"
+      ],
+      "url": "https://arxiv.org/abs/2604.16875",
+      "featured": false
+    },
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "25일 전 / 25d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "'우리는 결코 개인이었던 적이 없다'",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "This article presents a philosophical perspective that humans are not independent individuals but interconnected beings deeply embedded in their environment. Using breathing as an example, it illustrates the reciprocal relationship between humans, plants, and the entire ecosystem. The oxygen we inhale comes from plants, while the carbon dioxide we exhale is essential for plant photosynthesis, demonstrating that humans cannot be separated from nature. The article also mentions the scientific fact that human bodies host diverse microbial ecosystems. This perspective challenges individualistic worldviews and provides a deeper understanding of interconnectedness. However, the article lacks specific empirical data or research participant information, presenting primarily philosophical arguments rather than experimental evidence.\n\n##",
+      "aiSummaryKo": "본 기사는 인간이 독립적인 개체가 아니라 주변 환경과 긴밀하게 연결된 존재라는 철학적 관점을 제시한다. 호흡 과정을 예로 들어 인간과 식물, 그리고 전체 생태계 간의 상호 교환 관계를 설명한다. 우리가 들이마시는 산소는 식물에서 나오고, 우리가 내쉬는 이산화탄소는 식물의 광합성에 필수적이라는 점을 통해 인간이 환경과 분리될 수 없음을 보여준다. 또한 인간의 몸이 다양한 미생물 생태계를 호스팅하고 있다는 과학적 사실을 언급한다. 이러한 관점은 개인주의적 세계관을 재검토하도록 하며, 상호연결성에 대한 깊은 이해를 제공한다. 다만 철학적 주장으로 제시되어 구체적인 실증적 데이터나 연구 참가자 정보가 부재하다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This article presents a philosophical perspective that humans are not independent individuals but interconnected beings deeply embedded in their environment. Using breathing as an example, it illustrates the reciprocal relationship between humans, plants, and the entire ecosystem. The oxygen we inhale comes from plants, while the carbon dioxide we exhale is essential for plant photosynthesis, demonstrating that humans cannot be separated from nature. The article also mentions the scientific fact that human bodies host diverse microbial ecosystems. This perspective challenges individualistic worldviews and provides a deeper understanding of interconnectedness. However, the article lacks specific empirical data or research participant information, presenting primarily philosophical arguments rather than experimental evidence.\n\n##",
+      "keyPoints": [
+        "**상호호흡적 순환**: 인간과 식물은 호흡을 통해 산소와 이산화탄소를 교환하며, 이는 생명체 간 상호의존성을 보여준다. / Reciprocal Respiration: Humans and plants exchange oxygen and carbon dioxide through breathing, demonstrating mutual interdependence between living beings.",
+        "**환경과의 불가분 관계**: 개인은 세상에 잠긴 것이 아니라 세상이 개인 안에 잠겨있으며, 이는 인간-환경의 이분법을 거부한다. / Inseparable Relationship with Environment: The world is immersed within individuals rather than the reverse, rejecting the dichotomy between human and environment.",
+        "**미생물 생태계**: 인간의 몸이 다양한 미생물을 호스팅하고 있다는 사실은 개인성이라는 개념을 재정의한다. / Microbial Ecosystem: The human body hosts diverse microbial ecosystems, which redefines the concept of individuality.",
+        "**개인주의적 패러다임 전환**: \"우리는 결코 개인이었던 적이 없다\"는 주장은 기존의 개인주의적 세계관에 대한 근본적 의문을 제기한다. / Paradigm Shift from Individualism: The claim \"we have never been individuals\" fundamentally questions conventional individualistic worldviews."
+      ],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": false
+    },
     {
       "id": "90ef5abe9e61",
       "tag": "psych",
@@ -21,7 +105,7 @@
         "**연구의 제한성** / Study limitations: 기독교 신자 중심 연구로 다양한 종교 전통과 무신론자 집단에 대한 추가 연구 필요 / Limited to Christian believers; further research needed among other faiths and non-religious populations"
       ],
       "url": "https://www.psypost.org/subconscious-surrender-to-god-predicts-long-term-addiction-recovery-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3eed85c781fe",
@@ -336,90 +420,6 @@
         "**완전한 추론 추적** / Full Reasoning Traces"
       ],
       "url": "https://arxiv.org/abs/2604.26106",
-      "featured": false
-    },
-    {
-      "id": "f9836e594358",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "방금 전 / Just now",
-      "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
-      "titleKo": "사용자 행동 로그로부터 계층적 다중 페르소나 유도: 증거 기반의 진실한 페르소나 학습",
-      "summary": "arXiv:2604.26120v1 Announce Type: new Abstract: Behavioral logs provide rich signals for user modeling, but are noisy and interleaved across diverse intents. Recent work uses LLMs to generate interpretable natural-language personas from user logs, yet evaluation often emphasizes downstream utility, providing limited assurance of persona quality itself. We propose a hierarchical framework that aggregates user actions into intent memories and induces multiple evidence-grounded personas by clustering and labeling these memories. We formulate persona induction as an optimization problem over perso",
-      "aiSummary": "This study proposes a method to create reliable user personas from behavioral log data. While previous research used large language models (LLMs) to generate natural language personas from user behavior, it provided limited validation of persona quality itself. The research team introduces a \"hierarchical multi-persona induction\" approach that first aggregates user actions into intent-based memories, then derives evidence-grounded personas through clustering and labeling. This method can reflect diverse user interests separately (e.g., shopping, music, work) by generating multiple personas. The research's strength lies in grounding personas in actual user behavioral data, though current limitations include evaluation on limited datasets and the need for validation across more diverse user groups.\n\n##",
-      "aiSummaryKo": "본 연구는 사용자의 행동 로그 데이터로부터 신뢰할 수 있는 사용자 프로필(페르소나)을 만드는 방법을 제안합니다. 기존 연구들은 대규모 언어모델(LLM)을 사용해 사용자 행동으로부터 자연어 형태의 페르소나를 생성했지만, 생성된 페르소나의 품질 자체를 충분히 검증하지 못했습니다. 이 연구팀은 '계층적 다중 페르소나 유도' 방식을 제안하여, 사용자 행동을 먼저 의도별 기억으로 집계한 후, 이들을 군집화하고 레이블링하여 증거 기반의 여러 페르소나를 도출합니다. 이는 사용자의 다양한 관심사(예: 쇼핑, 음악 감상, 업무)를 각각 반영하는 페르소나들을 만들 수 있다는 점에서 의의가 있습니다. 연구의 강점은 페르소나가 실제 사용자 행동 데이터에 기반한다는 점이지만, 현재는 소수의 데이터셋에서만 평가되었으며 더 다양한 사용자 그룹에서의 검증이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study proposes a method to create reliable user personas from behavioral log data. While previous research used large language models (LLMs) to generate natural language personas from user behavior, it provided limited validation of persona quality itself. The research team introduces a \"hierarchical multi-persona induction\" approach that first aggregates user actions into intent-based memories, then derives evidence-grounded personas through clustering and labeling. This method can reflect diverse user interests separately (e.g., shopping, music, work) by generating multiple personas. The research's strength lies in grounding personas in actual user behavioral data, though current limitations include evaluation on limited datasets and the need for validation across more diverse user groups.\n\n##",
-      "keyPoints": [
-        "**계층적 프레임워크 / Hierarchical Framework**: 사용자 행동을 의도별 기억으로 먼저 집계한 후 페르소나 생성 | User actions aggregated into intent-based memories before persona generation",
-        "**증거 기반 페르소나 / Evidence-Grounded Personas**: 실제 사용자 행동 로그에 직접 연계된 신뢰할 수 있는 페르소나 생성 | Trustworthy personas directly linked to actual behavioral logs",
-        "**페르소나 품질 평가 개선 / Improved Persona Quality Evaluation**: 기존의 실용성 중심 평가를 벗어나 페르소나 자체의 신뢰성과 정확성 검증 | Moving beyond downstream utility to validate reliability and accuracy of personas themselves",
-        "**다중 페르소나 지원 / Multiple Persona Support**: 한 사용자의 다양한 관심사와 행동 패턴을 여러 페르소나로 표현 | Representing diverse interests and behavior patterns of single users through multiple personas"
-      ],
-      "url": "https://arxiv.org/abs/2604.26120",
-      "featured": false
-    },
-    {
-      "id": "f9a442aeb34b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "방금 전 / Just now",
-      "title": "A Multimodal and Explainable Machine Learning Approach to Diagnosing Multi-Class Ejection Fraction from Electrocardiograms",
-      "titleKo": "심전도로부터 다중 분류 박출률을 진단하기 위한 다중양식 및 설명 가능한 기계학습 접근법",
-      "summary": "arXiv:2604.25942v1 Announce Type: new Abstract: Left ventricular ejection fraction (LVEF) assessment depends on echocardiography, limiting access in primary care and resource-constrained settings. We developed a multimodal machine-learning framework that combines engineered 12-lead ECG timeseries features with structured EHR variables to classify LVEF into four clinically used strata: normal (>50%), mildly reduced (40-50%), moderately reduced (30-40%), and severely reduced (<30%). To support model explainability, we identified the most influential ECG and EHR features via SHAP attributions. Us",
-      "aiSummary": "Left ventricular ejection fraction (LVEF) assessment is crucial for cardiac function evaluation but currently relies exclusively on echocardiography, limiting accessibility in primary care and resource-constrained settings. This study developed a multimodal machine learning framework that integrates 12-lead ECG timeseries features with structured EHR (electronic health record) variables to classify LVEF into four clinically relevant categories: normal (>50%), mildly reduced (40-50%), moderately reduced (30-40%), and severely reduced (<30%). The research team used SHAP (Shapley Additive exPlanations) attribution analysis to identify the most influential ECG and EHR features, ensuring model explainability and transparency in AI decision-making. The study's significance lies in enabling cardiac function assessment through simple ECG recordings without requiring echocardiography, potentially expanding access to diagnostic tools in underserved regions. A key limitation is the need for further validation across diverse populations, geographic regions, and healthcare settings to ensure generalizability and clinical reliability.\n\n##",
-      "aiSummaryKo": "좌심실 박출량(LVEF)은 심장 기능을 평가하는 중요한 지표이지만, 현재는 심초음파 검사에만 의존하고 있어 기초 의료 시설과 자원이 부족한 지역에서 접근이 어렵습니다. 이 연구는 머신러닝을 활용하여 12개 채널 심전도(ECG) 데이터와 전자의무기록(EHR) 정보를 결합한 새로운 진단 시스템을 개발했습니다. 이 시스템은 좌심실 박출량을 정상(50% 초과), 경미하게 감소(40-50%), 중등도로 감소(30-40%), 심하게 감소(30% 미만)의 4가지 임상적 단계로 분류합니다. 연구팀은 SHAP(Shapley Additive exPlanations) 기법을 사용하여 모델 예측에 가장 영향을 미친 ECG 및 EHR 특성들을 파악함으로써 인공지능 의사결정의 투명성을 확보했습니다. 이 연구의 의의는 심초음파 검사 없이도 간단한 심전도만으로 심장 기능을 평가할 수 있는 기회를 제공한다는 점입니다. 다만 다양한 인종, 지역, 의료 환경에서의 추가 검증이 필요한 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "Left ventricular ejection fraction (LVEF) assessment is crucial for cardiac function evaluation but currently relies exclusively on echocardiography, limiting accessibility in primary care and resource-constrained settings. This study developed a multimodal machine learning framework that integrates 12-lead ECG timeseries features with structured EHR (electronic health record) variables to classify LVEF into four clinically relevant categories: normal (>50%), mildly reduced (40-50%), moderately reduced (30-40%), and severely reduced (<30%). The research team used SHAP (Shapley Additive exPlanations) attribution analysis to identify the most influential ECG and EHR features, ensuring model explainability and transparency in AI decision-making. The study's significance lies in enabling cardiac function assessment through simple ECG recordings without requiring echocardiography, potentially expanding access to diagnostic tools in underserved regions. A key limitation is the need for further validation across diverse populations, geographic regions, and healthcare settings to ensure generalizability and clinical reliability.\n\n##",
-      "keyPoints": [
-        "**혁신적 진단 접근**: 심초음파 검사에 의존하던 심장 기능 평가를 ECG 데이터와 전자의무기록 결합으로 가능하게 함 / Innovative diagnostic approach enabling cardiac function assessment through ECG and EHR data instead of echocardiography dependency",
-        "**4단계 분류 시스템**: 좌심실 박출량을 정상·경미·중등도·심한 감소 4가지로 분류하여 임상적 의사결정을 지원 / Four-tiered LVEF classification system supporting clinical decision-making across multiple severity levels",
-        "**설명 가능한 AI(Explainable AI)**: SHAP 기법으로 모델의 예측 근거를 명확히 하여 의료진과 환자의 신뢰성 확보 / SHAP-based explainability ensuring transparency and trustworthiness for healthcare providers and patients",
-        "**자원 제약 해결**: 접근성이 낮은 지역에서도 기본적인 심전도 검사만으로 심장 질환 조기 진단 가능 / Addresses healthcare disparities by enabling early cardiac disease diagnosis with basic ECG in resource-limited settings"
-      ],
-      "url": "https://arxiv.org/abs/2604.25942",
-      "featured": false
-    },
-    {
-      "id": "6d042f3f86ca",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "방금 전 / Just now",
-      "title": "A Randomized PDE Energy driven Iterative Framework for Efficient and Stable PDE Solutions",
-      "titleKo": "PDE 에너지 기반 확률적 반복 프레임워크를 통한 효율적이고 안정적인 편미분방정식 해법",
-      "summary": "arXiv:2604.25943v1 Announce Type: new Abstract: Efficient and stable solution of partial differential equations (PDEs) is central to scientific and engineering applications, yet existing numerical solvers rely heavily on matrix based discretizations, while learning based methods require costly training and often suffer from limited generalization. In this work, we proposes a PDE energy driven framework that solves PDEs through physically constrained diffusion iterations, without relying on classical matrix based finite element assembly or data driven neural network training. The proposed metho",
-      "aiSummary": "Partial differential equations (PDEs) are fundamental to physics, engineering, and scientific applications, yet existing numerical solvers rely heavily on matrix-based computations, while learning-based approaches require expensive training and demonstrate limited generalization capabilities. This research proposes a novel PDE energy-driven framework that solves PDEs through physically-constrained diffusion iterations without relying on classical matrix-based finite element assembly or neural network training. The method leverages the physical energy concept of PDEs directly to ensure stable convergence while maximizing computational efficiency. The proposed approach combines the advantages of traditional numerical analysis and machine learning, offering faster and more accurate solutions. However, validation of performance on specific PDE types and complex boundary conditions requires further investigation, and demonstration of effectiveness in real industrial applications remains a limitation.\n\n##",
-      "aiSummaryKo": "편미분방정식(PDE)은 물리, 공학, 과학 분야에서 핵심적인 역할을 하지만, 기존의 수치 해석 방법들은 행렬 기반 계산에 의존하거나 AI 기반 방법들은 많은 학습 비용과 일반화 한계를 보이고 있습니다. 본 연구는 기존의 행렬 계산이나 신경망 학습 없이 물리 에너지 제약 조건 기반의 확산 반복 과정을 통해 편미분방정식을 효율적으로 풀 수 있는 새로운 프레임워크를 제안합니다. 이 방법은 PDE의 물리적 에너지 개념을 직접 활용하여 안정적인 수렴을 보장하면서도 계산 효율성을 극대화합니다. 제안된 접근법은 기존 수치해석과 머신러닝 방식의 장점을 결합하여 더 빠르고 정확한 해를 제공합니다. 다만, 특정 유형의 PDE나 복잡한 경계 조건에서의 성능 검증이 추가로 필요하며, 실제 산업 응용 사례에서의 효과성 입증이 한계점으로 지적될 수 있습니다.\n\n##",
-      "aiSummaryEn": "Partial differential equations (PDEs) are fundamental to physics, engineering, and scientific applications, yet existing numerical solvers rely heavily on matrix-based computations, while learning-based approaches require expensive training and demonstrate limited generalization capabilities. This research proposes a novel PDE energy-driven framework that solves PDEs through physically-constrained diffusion iterations without relying on classical matrix-based finite element assembly or neural network training. The method leverages the physical energy concept of PDEs directly to ensure stable convergence while maximizing computational efficiency. The proposed approach combines the advantages of traditional numerical analysis and machine learning, offering faster and more accurate solutions. However, validation of performance on specific PDE types and complex boundary conditions requires further investigation, and demonstration of effectiveness in real industrial applications remains a limitation.\n\n##",
-      "keyPoints": [
-        "**기존 방법의 한계 극복** / Overcoming limitations of existing methods",
-        "**물리 에너지 기반 접근** / Physics-energy-driven approach",
-        "**행렬-신경망 비의존성** / Matrix and neural network independence",
-        "**실무 적용 가능성과 검증 필요** / Practical applicability and validation requirements"
-      ],
-      "url": "https://arxiv.org/abs/2604.25943",
-      "featured": false
-    },
-    {
-      "id": "6fea7276c7e0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "방금 전 / Just now",
-      "title": "A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication",
-      "titleKo": "그래프 신경망 기반 통신을 이용한 다중 에이전트 심화 강화 학습 조사",
-      "summary": "arXiv:2604.25972v1 Announce Type: new Abstract: In multi-agent reinforcement learning (MARL), the integration of a communication mechanism, allowing agents to better learn to coordinate their actions and converge on their objectives by sharing information. Based on an interaction graph, a subclass of methods employs graph neural networks (GNNs) to learn the communication, enabling agents to improve their internal representations by enriching them with information exchanged. With growing research, we note a lack of explicit structure and framework to distinguish and classify MARL approaches wit",
-      "aiSummary": "This research conducts a systematic survey and classification of various approaches in multi-agent reinforcement learning (MARL) that integrate graph neural network (GNN)-based communication mechanisms. The research background highlights that effective communication is essential when multiple AI agents must cooperate to solve complex problems. This survey paper presents a methodological approach to organize and classify previously scattered MARL-GNN research within a clear framework. The key contribution involves analyzing diverse methods that leverage GNNs for learning communication based on agent interaction graphs, and clarifying the strengths and weaknesses of each approach. This classification system provides a reference framework for future MARL researchers developing new methods. However, as a survey paper, it presents no new experimental data, and performance comparisons among reviewed studies may be limited.\n\n##",
-      "aiSummaryKo": "이 연구는 다중 에이전트 강화학습(MARL) 분야에서 그래프 신경망(GNN) 기반 통신 메커니즘을 활용한 다양한 접근 방식들을 체계적으로 조사하고 분류하는 것을 목표로 합니다. 연구 배경으로는 여러 AI 에이전트가 협력해야 하는 복잡한 문제 해결에서 효과적인 의사소통이 필수적이라는 점이 있습니다. 본 조사 논문은 기존의 산발적인 MARL-GNN 연구들을 명확한 틀 내에서 분류하고 체계화하는 방법론적 접근을 제시합니다. 핵심 기여는 에이전트 간 상호작용 그래프 구조를 기반으로 GNN을 활용하여 통신을 학습하는 다양한 방법들을 분석하고, 각 방법의 장단점을 명확히 하는 것입니다. 이러한 분류 체계는 향후 MARL 연구자들이 새로운 방법을 개발할 때 참고 기준점을 제공합니다. 다만 이 논문은 조사 논문으로서 새로운 실험 데이터를 제시하지 않으며, 포함된 연구들의 성능 비교가 제한적일 수 있다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research conducts a systematic survey and classification of various approaches in multi-agent reinforcement learning (MARL) that integrate graph neural network (GNN)-based communication mechanisms. The research background highlights that effective communication is essential when multiple AI agents must cooperate to solve complex problems. This survey paper presents a methodological approach to organize and classify previously scattered MARL-GNN research within a clear framework. The key contribution involves analyzing diverse methods that leverage GNNs for learning communication based on agent interaction graphs, and clarifying the strengths and weaknesses of each approach. This classification system provides a reference framework for future MARL researchers developing new methods. However, as a survey paper, it presents no new experimental data, and performance comparisons among reviewed studies may be limited.\n\n##",
-      "keyPoints": [
-        "**다중 에이전트 협력 통신의 중요성** / Importance of multi-agent cooperative communication",
-        "**GNN 기반 통신의 장점** / Advantages of GNN-based communication",
-        "**분류 체계의 필요성** / Need for classification framework",
-        "**향후 연구 방향 제시** / Direction for future research"
-      ],
-      "url": "https://arxiv.org/abs/2604.25972",
       "featured": false
     }
   ]
