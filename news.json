@@ -1,7 +1,107 @@
 {
-  "updated": "2026-05-01T04:11:54.307421+00:00",
+  "updated": "2026-05-01T07:29:14.814897+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b8dd1192aa01",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "13시간 전 / 13h ago",
+      "title": "High trust in AI leaves individuals vulnerable to “cognitive surrender,” study finds",
+      "titleKo": "AI에 대한 높은 신뢰가 개인을 '인지적 항복'에 취약하게 만든다는 연구 결과",
+      "summary": "People are increasingly outsourcing their thinking to artificial intelligence, bypassing critical reflection entirely. New research reveals that this \"cognitive surrender\" inflates confidence and causes users to blindly adopt algorithm-generated answers, even when the software is wrong.",
+      "aiSummary": "As artificial intelligence technology advances, people are increasingly relying on AI to make decisions without critical reflection, a phenomenon known as \"cognitive surrender.\" New research reveals that individuals with high trust in AI experience inflated confidence and tend to blindly adopt algorithm-generated answers, even when the software provides incorrect information. The study highlights the problem of users uncritically accepting algorithmic results in situations where AI is likely to be wrong. The research emphasizes the importance of maintaining critical thinking and verification skills in the AI era, and suggests the need for AI tool designs that encourage careful human judgment. However, the lack of specific participant numbers, detailed experimental design, and quantitative data makes it difficult to assess the study's scope and statistical significance. Further research involving diverse AI systems and user populations is needed.\n\n##",
+      "aiSummaryKo": "최근 인공지능 기술의 발전으로 사람들이 AI에 과도하게 의존하면서 비판적 사고 없이 자신의 판단을 AI에 맡기는 \"인지적 항복\" 현상이 증가하고 있습니다. 새로운 연구는 AI에 높은 신뢰를 가진 사람들이 자신감이 부풀어 오르고, AI가 잘못된 답변을 제시해도 이를 무비판적으로 채택하는 경향을 보인다는 것을 밝혀냈습니다. 이 연구는 AI가 틀렸을 가능성이 높은 상황에서도 사용자들이 알고리즘의 결과를 맹목적으로 따르는 문제를 지적합니다. 연구의 의의는 AI 시대에 인간의 비판적 사고 능력과 검증 능력의 중요성을 강조하고, AI 도구 설계 시 사용자의 신중한 판단을 촉진하는 방향의 필요성을 제시합니다. 다만, 구체적인 참가자 규모, 실험 설계 세부사항, 정량적 수치 데이터가 제시되지 않아 연구의 규모와 통계적 유의성을 평가하기 어렵습니다. 향후 다양한 AI 시스템과 사용자 집단을 대상으로 한 추가 연구가 필요합니다.\n\n##",
+      "aiSummaryEn": "As artificial intelligence technology advances, people are increasingly relying on AI to make decisions without critical reflection, a phenomenon known as \"cognitive surrender.\" New research reveals that individuals with high trust in AI experience inflated confidence and tend to blindly adopt algorithm-generated answers, even when the software provides incorrect information. The study highlights the problem of users uncritically accepting algorithmic results in situations where AI is likely to be wrong. The research emphasizes the importance of maintaining critical thinking and verification skills in the AI era, and suggests the need for AI tool designs that encourage careful human judgment. However, the lack of specific participant numbers, detailed experimental design, and quantitative data makes it difficult to assess the study's scope and statistical significance. Further research involving diverse AI systems and user populations is needed.\n\n##",
+      "keyPoints": [
+        "**인지적 항복(Cognitive Surrender)** / Users outsource thinking to AI, bypassing critical reflection and engaging in blind adoption of algorithmic answers",
+        "**신뢰도와 자신감의 역설** / High trust in AI inflates user confidence, leading to overconfidence and reduced verification of AI-generated results",
+        "**의사결정 위험성** / Users uncritically accept incorrect AI outputs even when the software is demonstrably wrong, creating decision-making vulnerabilities",
+        "**필요한 개선 방향** / AI 시스템 설계에서 사용자의 비판적 사고를 유도하고 검증 프로세스를 강화해야 함 / AI system design must incorporate mechanisms to promote critical thinking and enhance user verification processes"
+      ],
+      "url": "https://www.psypost.org/high-trust-in-ai-leaves-individuals-vulnerable-to-cognitive-surrender-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "58bfaa6cff9f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "11일 전 / 11d ago",
+      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
+      "titleKo": "분쟁 상황에서 행동과학이 직면해야 할 어려운 진실들",
+      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummary": "Approximately 2 billion people currently live in conflict-affected areas, with 123 million forcibly displaced in 2024—the highest number on record. However, behavioral science has primarily developed its theories, experiments, and interventions in stable contexts, creating a critical gap in knowledge. When behavioral scientists work in conflict settings, they typically follow a standard pattern: adopt existing methods from elsewhere, localize them, and evaluate the results. This conventional approach is insufficient for the complex realities of conflict zones. The research argues that conflict is reshaping lives globally at an unprecedented scale, requiring more than incremental adaptations of existing frameworks. A fundamental paradigm shift is needed, with behavioral scientists developing new theories and methodologies specifically designed for conflict contexts rather than simply applying pre-existing solutions.\n\n##",
+      "aiSummaryKo": "현재 약 20억 명이 분쟁 지역에 살고 있으며, 2024년에는 기록상 최대인 1억 2,300만 명이 강제 이주되었다. 그러나 행동과학 분야의 이론과 실험, 개입 방법 대부분은 안정적인 환경에서 개발되었다는 문제가 제기되고 있다. 행동과학자들이 분쟁 지역에서 연구할 때도 다른 지역에서 효과가 있던 방법을 그대로 적용하고 '현지화'한 후 평가하는 패턴을 반복해왔다. 이 연구는 분쟁 상황에서는 기존의 접근 방식만으로는 부족하며, 근본적으로 다른 연구 전략이 필요함을 강조한다. 분쟁이 전 지구적으로 인간의 삶을 전례 없는 규모로 재편하고 있기 때문에, 행동과학계는 분쟁 지역의 맥락과 특성에 맞는 새로운 이론과 방법론 개발을 시급히 추진해야 한다. 이는 단순히 기존 이론의 적용을 넘어 근본적인 패러다임 전환을 요구한다.\n\n##",
+      "aiSummaryEn": "Approximately 2 billion people currently live in conflict-affected areas, with 123 million forcibly displaced in 2024—the highest number on record. However, behavioral science has primarily developed its theories, experiments, and interventions in stable contexts, creating a critical gap in knowledge. When behavioral scientists work in conflict settings, they typically follow a standard pattern: adopt existing methods from elsewhere, localize them, and evaluate the results. This conventional approach is insufficient for the complex realities of conflict zones. The research argues that conflict is reshaping lives globally at an unprecedented scale, requiring more than incremental adaptations of existing frameworks. A fundamental paradigm shift is needed, with behavioral scientists developing new theories and methodologies specifically designed for conflict contexts rather than simply applying pre-existing solutions.\n\n##",
+      "keyPoints": [
+        "**대규모 문제의 간과**: 약 20억 명의 분쟁 영향 인구와 2024년 기록상 최대인 1억 2,300만 명의 강제 이주자가 존재하지만, 행동과학의 대부분의 이론과 연구는 안정적 환경에서만 개발되어 왔음 / **Critical Research Gap**: Approximately 2 billion people live in conflict-affected areas with 123 million forcibly displaced in 2024, yet behavioral science theories were developed in stable contexts.",
+        "**비효과적인 현지화 전략**: 기존 지역에서 효과가 있던 방법을 그대로 \"현지화\"하는 방식은 분쟁 지역의 근본적으로 다른 상황을 충분히 다루기에 부족함 / **Ineffective Localization**: Simply adapting and \"localizing\" methods that worked elsewhere fails to address the fundamentally different dynamics of conflict settings.",
+        "**근본적 패러다임 전환 필요**: 분쟁 지역에서 효과적인 개입을 위해서는 기존 방법론의 단순 적용이 아니라 분쟁의 맥락과 특성에 특화된 새로운 이론과 방법론 개발이 필수적 / **Fundamental Paradigm Shift Required**: New theories and methodologies specifically designed for conflict contexts are essential, rather than simple application of existing frameworks.",
+        "**시급한 행동과학 분야의 과제**: 분쟁이 전 지구적으로 인간의 삶을 전례 없는 규모로 재편하고 있는 만큼, 행동과학계는 분쟁 지역 연구를 우선순위로 설정하고 새로운 접근 방식 개발을 시급히 추진해야 함 / **Urgent Priority for Behavioral Science**: Given conflict's unprecedented impact on global populations, behavioral science must prioritize developing context-specific approaches for conflict-affected areas."
+      ],
+      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
+      "featured": false
+    },
+    {
+      "id": "2ca3144e26ec",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "11일 전 / 11d ago",
+      "title": "The ‘Busy’ Trap",
+      "titleKo": "'바쁨'의 함정",
+      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "aiSummary": "This article examines how \"being busy\" has become the default response to casual greetings in twenty-first century America, functioning as a cultural phenomenon. Through analysis of everyday conversations and media representations, researchers investigated this linguistic and social pattern. Key findings reveal that people actually working intensive jobs—such as ICU nurses or those working multiple minimum-wage positions—rarely emphasize how busy they are, while professionals with more discretionary time frequently use busy as a status marker. This suggests that busyness functions paradoxically as a symbol of social status and importance rather than as a literal description of workload. The study's significance lies in revealing hidden class structures and self-presentation strategies in contemporary society. However, the analysis has limitations in examining cultural variations and regional differences in this behavior.\n\n##",
+      "aiSummaryKo": "현대 미국 사회에서 \"바쁘다\"는 표현이 일상적인 인사말로 자리 잡았다는 연구 배경을 다룬 이 기사는, 바쁨이 실제로는 사회적 지위와 성공의 상징으로 기능하고 있음을 분석한다. 연구자들은 일반 대중의 일상적 대화와 미디어 표현을 분석하는 방식으로 이 현상을 조사했다. 핵심 결과는 의료진이나 저임금 근로자처럼 실제로 바쁜 사람들은 오히려 자신의 바쁨을 강조하지 않으며, 상대적으로 여유 있는 직업군에서 \"바쁘다\"는 표현을 빈번하게 사용한다는 점이다. 이는 바쁨이 역설적으로 사회적 지위와 중요성을 나타내는 부호로 기능하고 있음을 시사한다. 이 연구의 의의는 현대 사회의 숨겨진 계층 구조와 자기 표현 방식을 드러낸다는 점이다. 다만 문화적 맥락이나 지역별 차이를 충분히 분석하지 못했다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "This article examines how \"being busy\" has become the default response to casual greetings in twenty-first century America, functioning as a cultural phenomenon. Through analysis of everyday conversations and media representations, researchers investigated this linguistic and social pattern. Key findings reveal that people actually working intensive jobs—such as ICU nurses or those working multiple minimum-wage positions—rarely emphasize how busy they are, while professionals with more discretionary time frequently use busy as a status marker. This suggests that busyness functions paradoxically as a symbol of social status and importance rather than as a literal description of workload. The study's significance lies in revealing hidden class structures and self-presentation strategies in contemporary society. However, the analysis has limitations in examining cultural variations and regional differences in this behavior.\n\n##",
+      "keyPoints": [
+        "**\"바쁨\"의 역설적 역할** / The Paradox of Busyness: 실제로 바쁜 사람들은 바쁨을 강조하지 않으며, 여유 있는 집단이 오히려 \"바쁨\"을 자랑처럼 표현하는 역설 / Those actually working intensive jobs rarely emphasize busyness, while privileged groups use it as a status marker.",
+        "**사회적 지위 신호로서의 기능** / Social Status Signaling: 바쁨이 자신의 중요성, 가치, 그리고 높은 사회적 지위를 간접적으로 드러내는 수단으로 기능 / Busyness indirectly signals personal importance, value, and higher social status through casual conversation.",
+        "**계층 간 표현 격차** / Socioeconomic Expression Gap: ICU 근무자나 저임금 근로자는 정말 바쁘지만 이를 강조하지 않는 반면, 시간 통제력이 더 많은 직업군이 바쁨을 과장하는 경향 / Those with less control over their time express less about busyness while discretionary-time professionals exaggerate it.",
+        "**현대 사회의 숨겨진 가치체계** / Hidden Value System of Modern Society: 바쁜 것이 긍정적으로 평가되는 문화적 환경에서 자신의 바쁨 표현이 사회적 위치와 성공을 암시하는 신호로 작동 / In a culture where busyness is valorized, expressing one's busyness becomes a coded signal of social success and status."
+      ],
+      "url": "https://behavioralscientist.org/the-busy-trap/",
+      "featured": false
+    },
+    {
+      "id": "c1d7d1e43287",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "17일 전 / 17d ago",
+      "title": "What It’s Like to Be…an Aerospace Engineer",
+      "titleKo": "",
+      "summary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummary": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
+      "featured": false
+    },
+    {
+      "id": "e725cb189284",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "A hidden map in your nose could explain how smell works",
+      "titleKo": "냄새 작동 방식을 설명할 수 있는 코 속 숨겨진 지도",
+      "summary": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
+      "aiSummary": "Scientists have solved a major mystery about how the sense of smell works. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose are not randomly arranged but are organized into neat, overlapping stripes based on receptor type—a hidden structure previously unknown to science. Remarkably, this nasal layout mirrors how smell information is mapped in the brain, revealing a coordinated system from the nose to neural circuits. This discovery provides fundamental insight into how smell is organized and processed in the body. The research could contribute to developing treatments for olfactory disorders in the future. However, since the study was conducted on mice, there may be differences between this nasal organization and the human olfactory system, which represents a limitation of the research.\n\n##",
+      "aiSummaryKo": "과학자들이 후각의 작동 원리에 대한 주요 미스터리를 해결했다. 연구팀은 쥐의 수백만 개 뉴런을 매핑하여 코의 후각 수용체가 무작위로 배열된 것이 아니라 수용체 종류에 따라 깔끔하게 겹쳐진 줄무늬 형태로 조직되어 있다는 사실을 발견했다. 이는 과학자들이 이전에 알지 못했던 숨겨진 구조다. 더욱 놀라운 점은 코의 이러한 배열이 뇌의 후각 정보 지도와 동일한 패턴을 보인다는 것으로, 코에서 뇌의 신경 회로에 이르기까지 조화로운 체계가 존재함을 시사한다. 이 연구는 후각이 어떻게 조직되고 작동하는지에 대한 근본적인 이해를 제공하며, 향후 후각 장애 치료 개발에 기여할 수 있다. 다만, 이 연구는 쥐를 대상으로 수행되었기 때문에 인간의 후각 체계와의 차이가 있을 수 있다는 한계가 있다.\n\n##",
+      "aiSummaryEn": "Scientists have solved a major mystery about how the sense of smell works. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose are not randomly arranged but are organized into neat, overlapping stripes based on receptor type—a hidden structure previously unknown to science. Remarkably, this nasal layout mirrors how smell information is mapped in the brain, revealing a coordinated system from the nose to neural circuits. This discovery provides fundamental insight into how smell is organized and processed in the body. The research could contribute to developing treatments for olfactory disorders in the future. However, since the study was conducted on mice, there may be differences between this nasal organization and the human olfactory system, which represents a limitation of the research.\n\n##",
+      "keyPoints": [
+        "**후각 수용체의 숨겨진 구조 발견** / Discovery of hidden structure in smell receptors",
+        "**코와 뇌의 일치된 체계** / Coordinated system from nose to brain",
+        "**감각 체계의 근본적 이해 증진** / Fundamental understanding of sensory systems",
+        "**임상 응용 가능성** / Potential clinical applications"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102025.htm",
+      "featured": false
+    },
     {
       "id": "eb54b78701f9",
       "tag": "psych",
@@ -21,7 +121,7 @@
         "**심리적 판단 기준** / Psychological judgment criteria: 잠재적 파트너는 프로필 정보를 신뢰성과 호환성 평가의 주요 신호로 사용하며, 음모론은 부정적 신호로 작동함 (Potential partners use profile information as key signals for trustworthiness and compatibility assessment, with conspiracy theories functioning as negative signals)"
       ],
       "url": "https://www.psypost.org/swiping-left-on-the-deep-state-how-conspiracy-theories-ruin-your-dating-profile/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5cecaebeb9c9",
@@ -290,111 +390,6 @@
         "**생태학적 상호연결성** / Ecological Interconnectedness"
       ],
       "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "78530ccb91dd",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Mental health risks of cannabis addiction depend heavily on age",
-      "titleKo": "대마초 중독의 정신 건강 위험은 연령에 크게 좌우된다",
-      "summary": "Adolescents with a cannabis addiction are more likely to develop schizophrenia and depression than peers addicted to other substances. A recent study shows that this risk pattern reverses in adults, highlighting the vulnerability of the developing brain.",
-      "aiSummary": "This research demonstrates that cannabis addiction's impact on mental health varies significantly depending on age. Adolescents with cannabis addiction show substantially higher risks of developing schizophrenia and depression compared to peers addicted to other substances, while this pattern reverses in adults. The research team compared addiction groups between adolescents and adults to analyze how brain developmental stages respond to substance effects differently. The adolescent brain, still in development, is particularly vulnerable to THC (the psychoactive component of cannabis), which is identified as a key factor in increased mental illness rates. The findings emphasize the dangers of cannabis use during adolescence and highlight the importance of evidence-based drug policy from a neurodevelopmental perspective. However, the study has limitations in not fully controlling for other variables such as genetic predisposition and socioeconomic factors.\n\n##",
-      "aiSummaryKo": "이 연구는 대마초 중독이 정신 건강에 미치는 영향이 연령에 따라 크게 다르다는 점을 규명했습니다. 청소년기 대마초 중독자들은 다른 물질 중독자들과 비교할 때 조현병과 우울증 발병 위험이 현저히 높은 반면, 성인에서는 이러한 패턴이 역전되는 것으로 나타났습니다. 연구팀은 청소년과 성인 중독자 집단을 비교하는 방식으로 뇌 발달 단계가 약물의 영향에 어떻게 반응하는지 분석했습니다. 청소년의 뇌는 아직 발달 과정에 있어 대마초의 신경활성 성분인 THC에 특히 취약하며, 이것이 정신질환 발생률을 높이는 주요 원인임을 밝혔습니다. 연구 결과는 청소년 시기 대마초 사용의 위험성을 강조하며, 뇌 발달 관점에서 약물 정책 수립의 중요성을 제시합니다. 다만 연구에서는 유전적 소인, 사회경제적 요인 등 다른 변수들의 영향을 완전히 통제하지 못했다는 한계가 있습니다.\n\n##",
-      "aiSummaryEn": "This research demonstrates that cannabis addiction's impact on mental health varies significantly depending on age. Adolescents with cannabis addiction show substantially higher risks of developing schizophrenia and depression compared to peers addicted to other substances, while this pattern reverses in adults. The research team compared addiction groups between adolescents and adults to analyze how brain developmental stages respond to substance effects differently. The adolescent brain, still in development, is particularly vulnerable to THC (the psychoactive component of cannabis), which is identified as a key factor in increased mental illness rates. The findings emphasize the dangers of cannabis use during adolescence and highlight the importance of evidence-based drug policy from a neurodevelopmental perspective. However, the study has limitations in not fully controlling for other variables such as genetic predisposition and socioeconomic factors.\n\n##",
-      "keyPoints": [
-        "**청소년 취약성**: 청소년 대마초 중독자는 다른 중독물질 사용자보다 조현병과 우울증 위험이 더 높음 / Adolescents with cannabis addiction face higher risks of schizophrenia and depression compared to other substance users",
-        "**연령별 역전 현상**: 성인에서는 이러한 위험 패턴이 역전되어 대마초의 상대적 위험성이 감소함 / The risk pattern reverses in adults, reducing cannabis's comparative danger",
-        "**뇌 발달 메커니즘**: 발달 중인 청소년 뇌가 THC에 특히 취약하여 신경정신질환 발생률 증가 / The developing adolescent brain is particularly vulnerable to THC, increasing neuropsychiatric disorder rates",
-        "**정책적 시사점**: 연령대별 차별화된 약물 정책과 청소년 보호 중심의 규제 필요성 제기 / Highlights the need for age-differentiated drug policies and youth-centered regulatory approaches"
-      ],
-      "url": "https://www.psypost.org/mental-health-risks-of-cannabis-addiction-depend-heavily-on-age/",
-      "featured": false
-    },
-    {
-      "id": "cdbfc0991369",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "14시간 전 / 14h ago",
-      "title": "Scientists restore memory by blocking a single Alzheimer’s protein",
-      "titleKo": "과학자들, 알츠하이머병 단백질 하나 차단으로 기억력 회복",
-      "summary": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-      "aiSummary": "This study identifies PTP1B protein blocking as a potential new treatment for Alzheimer's disease. Researchers conducted experiments on laboratory mice, demonstrating that blocking this protein improved memory and enhanced the ability of brain immune cells to clear harmful amyloid plaques associated with Alzheimer's. Notably, since PTP1B is also linked to diabetes and obesity—both established risk factors for Alzheimer's—this approach could offer a more comprehensive treatment strategy. The research suggests that targeting a single protein may address multiple related diseases simultaneously. However, because the experiments were conducted only in animal models, additional clinical trials in humans are necessary to confirm whether these benefits translate to patient populations.\n\n##",
-      "aiSummaryKo": "본 연구는 알츠하이머병의 새로운 치료 방법을 찾기 위해 PTP1B라는 단백질에 주목했습니다. 연구팀은 실험쥐를 대상으로 이 단백질을 차단하는 실험을 수행했으며, 그 결과 기억력이 향상되고 뇌의 면역세포가 알츠하이머병의 원인인 해로운 플라크를 더 효과적으로 제거하는 것을 확인했습니다. 특히 PTP1B는 당뇨병과 비만에도 관련이 있으며, 이 두 질환 모두 알츠하이머병의 위험 요인이므로, 이 접근법은 더 광범위한 치료 전략을 제공할 수 있습니다. 이 연구는 단일 단백질 차단으로 여러 질환을 동시에 관리할 수 있는 가능성을 보여줍니다. 다만, 실험이 동물 모델에서만 수행되었으므로 인간에게 동일한 효과가 있는지 확인하려면 추가 임상시험이 필요합니다.\n\n##",
-      "aiSummaryEn": "This study identifies PTP1B protein blocking as a potential new treatment for Alzheimer's disease. Researchers conducted experiments on laboratory mice, demonstrating that blocking this protein improved memory and enhanced the ability of brain immune cells to clear harmful amyloid plaques associated with Alzheimer's. Notably, since PTP1B is also linked to diabetes and obesity—both established risk factors for Alzheimer's—this approach could offer a more comprehensive treatment strategy. The research suggests that targeting a single protein may address multiple related diseases simultaneously. However, because the experiments were conducted only in animal models, additional clinical trials in humans are necessary to confirm whether these benefits translate to patient populations.\n\n##",
-      "keyPoints": [
-        "**PTP1B 단백질 차단의 효과** / **Effects of PTP1B Protein Blocking**: 실험쥐에서 기억력 향상과 뇌 플라크 제거 능력 증대 확인",
-        "**다중 질환 관련성** / **Multi-Disease Relevance**: PTP1B가 알츠하이머병, 당뇨병, 비만 등 여러 질환과 연관되어 있어 통합 치료 가능성 제시",
-        "**면역 메커니즘** / **Immune Mechanism**: 뇌의 면역세포 강화를 통한 알츠하이머병의 병리학적 악순환 차단",
-        "**동물 실험의 한계** / **Limitations of Animal Studies**: 마우스 모델에서의 성공이 인간 임상시험으로 이어지지 않을 가능성 존재"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102037.htm",
-      "featured": false
-    },
-    {
-      "id": "7d63ed683aa5",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "16시간 전 / 16h ago",
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "titleKo": "이 AI는 답을 알았지만 질문을 이해하지 못했다",
-      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "aiSummary": "For decades, psychologists have debated whether human cognition can be explained by a unified theory or must be separated into distinct components like memory and attention. The recently developed AI model Centaur appeared to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. However, new research challenges this bold claim, suggesting the model isn't truly \"thinking\" but merely memorizing patterns. This study indicates that despite high performance, AI systems may fundamentally differ from human cognitive processes. The research reveals a critical distinction between genuine understanding and pattern recognition, even when models demonstrate impressive capabilities. These findings emphasize that future AI model evaluation must verify actual cognitive mechanisms rather than relying solely on apparent performance metrics.\n\n##",
-      "aiSummaryKo": "인간의 인지 능력이 하나의 통합된 이론으로 설명되어야 하는지, 아니면 기억력과 주의력 같은 별개의 부분으로 분리되어야 하는지에 대해 심리학자들은 수십 년간 논쟁해왔다. 최근 센타우르(Centaur)라는 AI 모델이 160가지의 다양한 인지 과제에서 인간의 사고를 모방할 수 있다고 주장하며 획기적인 돌파구를 제시한 것으로 보였다. 그러나 새로운 연구는 이러한 주장에 의문을 제기하고 있으며, 해당 모델이 실제로 \"생각하는\" 것이 아니라 단순히 패턴을 암기하고 있을 뿐이라고 제시한다. 이 연구는 AI가 높은 성능을 보여도 인간의 인지 과정과 실질적으로 다를 수 있음을 시사한다. 센타우르 모델의 광범위한 성능에도 불구하고, 진정한 이해와 단순한 패턴 인식 사이의 근본적인 차이를 드러낸다. 향후 AI 모델 평가 시 겉보기 성능만이 아닌 실제 인지 메커니즘을 검증해야 함을 강조한다.\n\n##",
-      "aiSummaryEn": "For decades, psychologists have debated whether human cognition can be explained by a unified theory or must be separated into distinct components like memory and attention. The recently developed AI model Centaur appeared to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. However, new research challenges this bold claim, suggesting the model isn't truly \"thinking\" but merely memorizing patterns. This study indicates that despite high performance, AI systems may fundamentally differ from human cognitive processes. The research reveals a critical distinction between genuine understanding and pattern recognition, even when models demonstrate impressive capabilities. These findings emphasize that future AI model evaluation must verify actual cognitive mechanisms rather than relying solely on apparent performance metrics.\n\n##",
-      "keyPoints": [
-        "**AI의 겉보기 성공과 실제 이해의 괴리** / The Gap Between AI's Apparent Success and Actual Understanding",
-        "**인지 통합 이론의 한계** / Limitations of Unified Cognitive Theory",
-        "**성능과 원리의 분리 필요성** / Need to Separate Performance from Mechanism",
-        "**AI 평가 방법의 재검토** / Reassessment of AI Evaluation Methods"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
-      "featured": false
-    },
-    {
-      "id": "a8a9b4e5a915",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
-      "titleKo": "MIT 과학자들, 혼란스러운 레이저 빛을 강력한 뇌 영상 도구로 변환하다",
-      "summary": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method also lets researchers watch how drugs move into brain cells in real time. It could dramatically accelerate the development of treatments for neurological diseases.",
-      "aiSummary": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused beam under specific conditions instead of scattering randomly. Using this \"pencil beam\" technology, researchers can image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method enables real-time observation of how drugs move into brain cells, representing a breakthrough in brain imaging technology. The study appears to be at the basic research stage as specific participant numbers or clinical trial scale were not specified. This technology has significant potential to dramatically accelerate the development of treatments for neurological diseases. Further safety validation and large-scale clinical trials will be necessary before clinical application.\n\n##",
-      "aiSummaryKo": "MIT 과학자들은 무질서한 레이저 빛이 특정 조건에서 산란하지 않고 매우 집중된 빔으로 자발적으로 형성될 수 있다는 사실을 발견했습니다. 이 \"연필 빔\"이라고 불리는 기술을 이용하면 혈액-뇌 장벽을 3차원으로 기존 기술보다 25배 빠르게 촬영할 수 있습니다. 이 방법은 약물이 뇌 세포로 어떻게 이동하는지를 실시간으로 관찰할 수 있어 뇌 영상 기술의 획기적인 발전을 의미합니다. 연구진은 구체적인 참가자 수나 임상 시험 규모를 명시하지 않아, 기초 연구 단계의 발견으로 보여집니다. 이 기술은 신경계 질환 치료법 개발을 획기적으로 가속화할 수 있는 잠재력을 가지고 있습니다. 향후 임상 적용을 위해서는 추가적인 안전성 검증과 대규모 임상 시험이 필요합니다.\n\n##",
-      "aiSummaryEn": "MIT scientists discovered that chaotic laser light can spontaneously form a highly focused beam under specific conditions instead of scattering randomly. Using this \"pencil beam\" technology, researchers can image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method enables real-time observation of how drugs move into brain cells, representing a breakthrough in brain imaging technology. The study appears to be at the basic research stage as specific participant numbers or clinical trial scale were not specified. This technology has significant potential to dramatically accelerate the development of treatments for neurological diseases. Further safety validation and large-scale clinical trials will be necessary before clinical application.\n\n##",
-      "keyPoints": [
-        "**무질서한 레이저의 혁신적 활용** / Revolutionary use of chaotic laser light: 기존에 버려진 것으로 여겨지던 무질서한 레이저가 특정 조건에서 고도로 집중된 빔으로 변환될 수 있음을 발견",
-        "**25배 빠른 뇌 영상 촬영 속도** / 25-fold improvement in imaging speed: 혈액-뇌 장벽의 3차원 촬영 속도가 기존 기술 대비 25배 향상되어 고속 뇌 영상이 가능해짐",
-        "**약물 이동 경로의 실시간 추적** / Real-time drug movement tracking: 약물이 뇌 세포로 어떻게 침투하는지를 실시간으로 관찰할 수 있어 약물 개발 효율성 극대화",
-        "**신경계 질환 치료 개발 가속화** / Acceleration of neurological disease treatment: 기술의 빠른 영상화 능력이 신경계 질환 치료법 개발 과정을 크게 단축시킬 수 있는 잠재력 보유"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
-      "featured": false
-    },
-    {
-      "id": "96ef56c86bed",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Childhood trauma linked to biological aging and gaze avoidance",
-      "titleKo": "어린 시절 외상이 생물학적 노화 및 시선 회피와 연관",
-      "summary": "Childhood abuse forces the biological clock to tick faster and curbs children's willingness to make eye contact, independent consequences that both track with higher rates of emotional and behavioral problems.",
-      "aiSummary": "This study investigated how childhood abuse affects both biological aging speed and eye contact avoidance behavior in children. Researchers compared children with abuse histories to a control group, measuring biological age markers (epigenetic aging) and tracking eye movement patterns during social interactions. Key findings showed that abused children exhibited accelerated biological aging and significantly reduced eye contact, both independent consequences that correlated with higher rates of emotional and behavioral problems. The research provides objective evidence of childhood abuse's long-term physical and psychological impacts through measurable biological markers. The significance lies in demonstrating multiple pathways through which trauma affects child development. However, limitations may include sample size constraints and the need for longitudinal studies to establish causal mechanisms.\n\n##",
-      "aiSummaryKo": "본 연구는 어린 시절 학대 경험이 생물학적 노화 속도와 시선 접촉 회피 행동에 미치는 영향을 조사했습니다. 연구팀은 학대 경험이 있는 아동과 통제 집단을 대상으로 생물학적 나이(epigenetic aging markers)를 측정하고 안구 운동을 추적하는 실험을 실시했습니다. 주요 결과로는 학대 경험 아동의 생물학적 나이가 실제 나이보다 빠르게 진행되었으며, 동시에 타인과의 시선 접촉이 현저히 감소했습니다. 이 두 현상은 각각 독립적이지만 모두 정서 및 행동 문제의 증가와 연관되었습니다. 본 연구는 아동 학대의 장기적 신체·심리적 영향을 객관적으로 입증했다는 점에서 의의가 있습니다. 다만, 표본 크기나 추적 기간의 제한이 있을 수 있으며, 인과관계 확립에는 추가 연구가 필요합니다.\n\n##",
-      "aiSummaryEn": "This study investigated how childhood abuse affects both biological aging speed and eye contact avoidance behavior in children. Researchers compared children with abuse histories to a control group, measuring biological age markers (epigenetic aging) and tracking eye movement patterns during social interactions. Key findings showed that abused children exhibited accelerated biological aging and significantly reduced eye contact, both independent consequences that correlated with higher rates of emotional and behavioral problems. The research provides objective evidence of childhood abuse's long-term physical and psychological impacts through measurable biological markers. The significance lies in demonstrating multiple pathways through which trauma affects child development. However, limitations may include sample size constraints and the need for longitudinal studies to establish causal mechanisms.\n\n##",
-      "keyPoints": [
-        "**생물학적 노화 가속화** / Accelerated Biological Aging",
-        "**시선 회피 행동** / Gaze Avoidance Behavior",
-        "**정서·행동 문제와의 연관성** / Correlation with Emotional and Behavioral Problems",
-        "**다중 손상 메커니즘** / Multiple Damage Pathways"
-      ],
-      "url": "https://www.psypost.org/childhood-trauma-linked-to-biological-aging-and-gaze-avoidance/",
       "featured": false
     }
   ]
