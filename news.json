@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-02T06:12:28.745296+00:00",
+  "updated": "2026-05-02T08:24:21.566833+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "501c8f8bf12f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "14시간 전 / 14h ago",
+      "title": "Common cholesterol medications do not alter long-term dementia risk",
+      "titleKo": "",
+      "summary": "While statins are highly effective at protecting against heart attacks and strokes, a massive new medical records study reveals that the popular cholesterol-lowering medications do not offer additional protection against Alzheimer's disease or other age-related dementias.",
+      "aiSummary": "While statins are highly effective at protecting against heart attacks and strokes, a massive new medical records study reveals that the popular cholesterol-lowering medications do not offer additional protection against Alzheimer's disease or other age-related dementias.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "While statins are highly effective at protecting against heart attacks and strokes, a massive new medical records study reveals that the popular cholesterol-lowering medications do not offer additional protection against Alzheimer's disease or other age-related dementias.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/common-cholesterol-medications-do-not-alter-long-term-dementia-risk/",
+      "featured": true
+    },
     {
       "id": "0a3fd970e18a",
       "tag": "behav",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4bff52314140",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2604.27003v1 Announce Type: new Abstract: Memory-augmented LLM agents offer an appealing shortcut to continual learning: rather than updating model parameters, they accumulate experience in external memory, seemingly sidestepping the stability-plasticity dilemma of parametric learning. We show that this challenge does not disappear but resurfaces at the memory level. Under a limited context window, old and new experiences compete during retrieval, relocating the continual-learning bottleneck from parameter updates to memory access. To study this phenomenon, we introduce a (k,v) framework",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2604.27003",
-      "featured": false
-    },
-    {
-      "id": "8ecb7bd42db2",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "17시간 전 / 17h ago",
-      "title": "Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids",
-      "titleKo": "",
-      "summary": "arXiv:2604.27583v1 Announce Type: new Abstract: Motion retargeting from humans to human-like artificial agents is becoming increasingly important as humanoid robots grow more capable. However, most existing approaches focus only on reproducing kinematics and ignore the rich sensorimotor experience associated with human movement. In this work, we present a framework for simulating the multimodal sensorimotor experiences of infants using physical and virtual humanoids. From a single video, our method reconstructs the infant's body configuration by extracting its skeletal structure and estimating",
-      "aiSummary": "arXiv:2604.27583v1 Announce Type: new Abstract: Motion retargeting from humans to human-like artificial agents is becoming increasingly important as humanoid robots grow more capable. However, most existing approaches focus only on reproducing kinematics and ignore the rich sensorimotor experience associated with human movement. In this work, we present a framework for simulating the multimodal sensorimotor experiences of infants using physical and virtual humanoids. From a single video, our method reconstructs the infant's body configuration by extracting its skeletal structure and estimating",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2604.27583v1 Announce Type: new Abstract: Motion retargeting from humans to human-like artificial agents is becoming increasingly important as humanoid robots grow more capable. However, most existing approaches focus only on reproducing kinematics and ignore the rich sensorimotor experience associated with human movement. In this work, we present a framework for simulating the multimodal sensorimotor experiences of infants using physical and virtual humanoids. From a single video, our method reconstructs the infant's body configuration by extracting its skeletal structure and estimating",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.27583",
       "featured": false
     }
   ]
