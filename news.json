@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-02T03:39:40.682726+00:00",
+  "updated": "2026-05-02T06:12:28.745296+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "0a3fd970e18a",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "26일 전 / 26d ago",
+      "title": "‘We Have Never Been Individuals’",
+      "titleKo": "",
+      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
+      "featured": true
+    },
     {
       "id": "4bff52314140",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study reveals that the long-standing belief connecting mathematical and musical abilities is largely explained by general intelligence. When researchers controlled for cognitive reasoning, the apparent link between being good at math and music practically disappeared.",
       "keyPoints": [],
       "url": "https://www.psypost.org/general-intelligence-explains-the-link-between-math-and-music-skills/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "58bfaa6cff9f",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2604.27583v1 Announce Type: new Abstract: Motion retargeting from humans to human-like artificial agents is becoming increasingly important as humanoid robots grow more capable. However, most existing approaches focus only on reproducing kinematics and ignore the rich sensorimotor experience associated with human movement. In this work, we present a framework for simulating the multimodal sensorimotor experiences of infants using physical and virtual humanoids. From a single video, our method reconstructs the infant's body configuration by extracting its skeletal structure and estimating",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2604.27583",
-      "featured": false
-    },
-    {
-      "id": "501c8f8bf12f",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Common cholesterol medications do not alter long-term dementia risk",
-      "titleKo": "",
-      "summary": "While statins are highly effective at protecting against heart attacks and strokes, a massive new medical records study reveals that the popular cholesterol-lowering medications do not offer additional protection against Alzheimer's disease or other age-related dementias.",
-      "aiSummary": "While statins are highly effective at protecting against heart attacks and strokes, a massive new medical records study reveals that the popular cholesterol-lowering medications do not offer additional protection against Alzheimer's disease or other age-related dementias.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "While statins are highly effective at protecting against heart attacks and strokes, a massive new medical records study reveals that the popular cholesterol-lowering medications do not offer additional protection against Alzheimer's disease or other age-related dementias.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/common-cholesterol-medications-do-not-alter-long-term-dementia-risk/",
       "featured": false
     }
   ]
