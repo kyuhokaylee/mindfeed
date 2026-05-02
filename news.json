@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-02T13:25:32.551129+00:00",
+  "updated": "2026-05-02T14:55:00.518466+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4719f7fc47ee",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The benefits of frightening activities depend on what you do afterward, according to new psychology research",
+      "titleKo": "",
+      "summary": "A new study reveals that voluntarily experiencing fear, like visiting a haunted attraction, can strengthen social bonds. However, researchers found that the true secret to this interpersonal connection lies in talking about the scary experience afterward.",
+      "aiSummary": "A new study reveals that voluntarily experiencing fear, like visiting a haunted attraction, can strengthen social bonds. However, researchers found that the true secret to this interpersonal connection lies in talking about the scary experience afterward.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that voluntarily experiencing fear, like visiting a haunted attraction, can strengthen social bonds. However, researchers found that the true secret to this interpersonal connection lies in talking about the scary experience afterward.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-benefits-of-frightening-activities-depend-on-what-you-do-afterward-according-to-new-psychology-research/",
+      "featured": true
+    },
+    {
+      "id": "289b11a61354",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "Boosting one protein helps the brain fight Alzheimer’s",
+      "titleKo": "",
+      "summary": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
+      "aiSummary": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502013550.htm",
+      "featured": false
+    },
+    {
+      "id": "6888aadf9102",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "11시간 전 / 11h ago",
+      "title": "Scientists discover a hidden brain “cleaning” effect triggered by movement",
+      "titleKo": "",
+      "summary": "Scientists have uncovered a surprising link between simple body movement and brain health: every time you tighten your abdominal muscles—even slightly—your brain may gently sway inside your skull. This subtle motion, triggered by pressure changes in connected blood vessels, appears to help circulate cerebrospinal fluid around the brain, potentially flushing out harmful waste.",
+      "aiSummary": "Scientists have uncovered a surprising link between simple body movement and brain health: every time you tighten your abdominal muscles—even slightly—your brain may gently sway inside your skull. This subtle motion, triggered by pressure changes in connected blood vessels, appears to help circulate cerebrospinal fluid around the brain, potentially flushing out harmful waste.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have uncovered a surprising link between simple body movement and brain health: every time you tighten your abdominal muscles—even slightly—your brain may gently sway inside your skull. This subtle motion, triggered by pressure changes in connected blood vessels, appears to help circulate cerebrospinal fluid around the brain, potentially flushing out harmful waste.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260501052832.htm",
+      "featured": false
+    },
     {
       "id": "cdad1a8453b8",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "For years, researchers have claimed that men’s friendships are shallower and less emotionally supportive than women’s, a pattern called the “gender friendship gap.” But new research challenges how universal that really is.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-gender-friendship-gap-is-driven-primarily-by-white-men-not-a-universal-difference-across-groups/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fec5d17842b1",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/04/260429102025.htm",
-      "featured": false
-    },
-    {
-      "id": "d2abe681cba7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Excess body mass does not inherently reduce employment chances in Australia, study finds",
-      "titleKo": "",
-      "summary": "A new study suggests that carrying excess body weight doesn't inherently hurt your chances of finding employment in Australia. Once researchers accounted for past job history, body mass had little to no impact on current job prospects.",
-      "aiSummary": "A new study suggests that carrying excess body weight doesn't inherently hurt your chances of finding employment in Australia. Once researchers accounted for past job history, body mass had little to no impact on current job prospects.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study suggests that carrying excess body weight doesn't inherently hurt your chances of finding employment in Australia. Once researchers accounted for past job history, body mass had little to no impact on current job prospects.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/excess-body-mass-does-not-inherently-reduce-employment-chances-in-australia-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "9d3593862843",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index",
-      "titleKo": "",
-      "summary": "arXiv:2604.26984v1 Announce Type: new Abstract: Representational collapse, where embeddings become anisotropic and lose multi-scale structure, can erode downstream performance long before performance metrics react. We propose an online, topology-aware monitor for evolving neural representations that couples Modular Morse Homology Maintenance (MMHM) with a composite Collapse Index (CI). Instead of rebuilding complexes each epoch, we apply sparse edits at a fixed scale and maintain a discrete Morse matching, yielding fast, incremental updates. Across LLM fine-tuning and temporal KGE training, CI",
-      "aiSummary": "arXiv:2604.26984v1 Announce Type: new Abstract: Representational collapse, where embeddings become anisotropic and lose multi-scale structure, can erode downstream performance long before performance metrics react. We propose an online, topology-aware monitor for evolving neural representations that couples Modular Morse Homology Maintenance (MMHM) with a composite Collapse Index (CI). Instead of rebuilding complexes each epoch, we apply sparse edits at a fixed scale and maintain a discrete Morse matching, yielding fast, incremental updates. Across LLM fine-tuning and temporal KGE training, CI",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2604.26984v1 Announce Type: new Abstract: Representational collapse, where embeddings become anisotropic and lose multi-scale structure, can erode downstream performance long before performance metrics react. We propose an online, topology-aware monitor for evolving neural representations that couples Modular Morse Homology Maintenance (MMHM) with a composite Collapse Index (CI). Instead of rebuilding complexes each epoch, we apply sparse edits at a fixed scale and maintain a discrete Morse matching, yielding fast, incremental updates. Across LLM fine-tuning and temporal KGE training, CI",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.26984",
-      "featured": false
-    },
-    {
-      "id": "efc55e3867cd",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Simple Self-Conditioning Adaptation for Masked Diffusion Models",
-      "titleKo": "",
-      "summary": "arXiv:2604.26985v1 Announce Type: new Abstract: Masked diffusion models (MDMs) generate discrete sequences by iterative denoising under an absorbing masking process. In standard masked diffusion, if a token remains masked after a reverse update, the model discards its clean-state prediction for that position. Thus, still-masked positions must be repeatedly inferred from the mask token alone. This design choice limits cross-step refinement. To address this limitation, this paper proposes a simple, yet effective, post-training adaptation for MDMs that conditions each denoising step on the model'",
-      "aiSummary": "arXiv:2604.26985v1 Announce Type: new Abstract: Masked diffusion models (MDMs) generate discrete sequences by iterative denoising under an absorbing masking process. In standard masked diffusion, if a token remains masked after a reverse update, the model discards its clean-state prediction for that position. Thus, still-masked positions must be repeatedly inferred from the mask token alone. This design choice limits cross-step refinement. To address this limitation, this paper proposes a simple, yet effective, post-training adaptation for MDMs that conditions each denoising step on the model'",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2604.26985v1 Announce Type: new Abstract: Masked diffusion models (MDMs) generate discrete sequences by iterative denoising under an absorbing masking process. In standard masked diffusion, if a token remains masked after a reverse update, the model discards its clean-state prediction for that position. Thus, still-masked positions must be repeatedly inferred from the mask token alone. This design choice limits cross-step refinement. To address this limitation, this paper proposes a simple, yet effective, post-training adaptation for MDMs that conditions each denoising step on the model'",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.26985",
       "featured": false
     }
   ]
