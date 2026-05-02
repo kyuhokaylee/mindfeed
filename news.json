@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-02T15:54:12.243243+00:00",
+  "updated": "2026-05-02T16:57:33.683735+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "dce2809c8f17",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Combining alcohol with cocaine rewires the brain’s relapse pathways differently than cocaine alone",
+      "titleKo": "",
+      "summary": "A new study shows that combining cocaine and alcohol changes the brain circuits responsible for drug relapse. This suggests treating people who use both substances will require entirely different medical approaches than treating those who only use cocaine.",
+      "aiSummary": "A new study shows that combining cocaine and alcohol changes the brain circuits responsible for drug relapse. This suggests treating people who use both substances will require entirely different medical approaches than treating those who only use cocaine.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study shows that combining cocaine and alcohol changes the brain circuits responsible for drug relapse. This suggests treating people who use both substances will require entirely different medical approaches than treating those who only use cocaine.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/combining-alcohol-with-cocaine-rewires-the-brains-relapse-pathways-differently-than-cocaine-alone/",
+      "featured": true
+    },
     {
       "id": "4719f7fc47ee",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study reveals that voluntarily experiencing fear, like visiting a haunted attraction, can strengthen social bonds. However, researchers found that the true secret to this interpersonal connection lies in talking about the scary experience afterward.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-benefits-of-frightening-activities-depend-on-what-you-do-afterward-according-to-new-psychology-research/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "289b11a61354",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2604.27092v1 Announce Type: new Abstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assisting predefined research workflows, none has yet demonstrated end-to-end autonomous discovery in a real physical system that produces a nontrivial result supported by experimental evidence. Here we introduce Qiushi Discovery Engine, an LLM-based agentic system for end-to-end auton",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2604.27092",
-      "featured": false
-    },
-    {
-      "id": "e725cb189284",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "A hidden map in your nose could explain how smell works",
-      "titleKo": "",
-      "summary": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
-      "aiSummary": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102025.htm",
       "featured": false
     }
   ]
