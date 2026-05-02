@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-02T21:51:07.558602+00:00",
+  "updated": "2026-05-02T22:51:57.964816+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6c1ccd4f4fca",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Transgender individuals face higher rates of discrimination and violence than cisgender sexual minorities",
+      "titleKo": "",
+      "summary": "A large-scale analysis reveals that transgender individuals across Europe face decidedly higher rates of discrimination and violence than cisgender sexual minorities, regardless of the relative strength of their home country’s equality laws.",
+      "aiSummary": "A large-scale analysis reveals that transgender individuals across Europe face decidedly higher rates of discrimination and violence than cisgender sexual minorities, regardless of the relative strength of their home country’s equality laws.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A large-scale analysis reveals that transgender individuals across Europe face decidedly higher rates of discrimination and violence than cisgender sexual minorities, regardless of the relative strength of their home country’s equality laws.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/transgender-individuals-face-higher-rates-of-discrimination-and-violence-than-ci/",
+      "featured": true
+    },
+    {
+      "id": "5cecaebeb9c9",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "18시간 전 / 18h ago",
+      "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
+      "titleKo": "",
+      "summary": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retraining cost, existing methods often rely on a single global initialization and may suffer from negative ",
+      "aiSummary": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retraining cost, existing methods often rely on a single global initialization and may suffer from negative ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retraining cost, existing methods often rely on a single global initialization and may suffer from negative ",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2604.26999",
+      "featured": false
+    },
     {
       "id": "cbea4d064a4b",
       "tag": "ai",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successfully use a SAT as well as a SMT solver to compute abductive explanations from this binary causal model. To illustrate our approach, we trained the BSNN on the standard MNIST dataset and applied our SAT-",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2604.27007",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8e9d9fae8d60",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A recent study finds that the active ingredient in Wegovy and Ozempic significantly decreased heavy drinking in patients with obesity and alcohol use disorder. The findings suggest a potential new treatment path for millions of people.",
       "keyPoints": [],
       "url": "https://www.psypost.org/weight-loss-drug-semaglutide-reduces-heavy-alcohol-drinking-in-new-clinical-trial/",
-      "featured": false
-    },
-    {
-      "id": "cdbfc0991369",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists restore memory by blocking a single Alzheimer’s protein",
-      "titleKo": "",
-      "summary": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-      "aiSummary": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102037.htm",
-      "featured": false
-    },
-    {
-      "id": "7d63ed683aa5",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "titleKo": "",
-      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "aiSummary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
       "featured": false
     }
   ]
