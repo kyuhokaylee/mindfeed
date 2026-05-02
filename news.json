@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-02T08:24:21.566833+00:00",
+  "updated": "2026-05-02T10:02:58.637644+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "fec5d17842b1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Scientists link daytime sleep-like brain waves to attention lapses in ADHD",
+      "titleKo": "",
+      "summary": "For adults with ADHD, staying focused is often a daily struggle. New research suggests these attention lapses occur because the waking brain frequently slips into brief, sleep-like states, blurring the biological boundary between sleep and wakefulness.",
+      "aiSummary": "For adults with ADHD, staying focused is often a daily struggle. New research suggests these attention lapses occur because the waking brain frequently slips into brief, sleep-like states, blurring the biological boundary between sleep and wakefulness.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "For adults with ADHD, staying focused is often a daily struggle. New research suggests these attention lapses occur because the waking brain frequently slips into brief, sleep-like states, blurring the biological boundary between sleep and wakefulness.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-link-daytime-sleep-like-brain-waves-to-attention-lapses-in-adhd/",
+      "featured": true
+    },
     {
       "id": "501c8f8bf12f",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "While statins are highly effective at protecting against heart attacks and strokes, a massive new medical records study reveals that the popular cholesterol-lowering medications do not offer additional protection against Alzheimer's disease or other age-related dementias.",
       "keyPoints": [],
       "url": "https://www.psypost.org/common-cholesterol-medications-do-not-alter-long-term-dementia-risk/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0a3fd970e18a",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2604.26991v1 Announce Type: new Abstract: Recent advances in data-centric medical AI have produced highly accurate diagnostic systems, but the emphasis on data curation and performance metrics has not translated into widespread clinical adoption. We conjecture that this limited uptake stems from insufficient attention dedicated to the optimisation of fair performance across diverse patient populations and to workflow integration: performance biases can create regulatory barriers, and poorly integrated automation can disrupt clinical routines, degrade the quality of human-AI collaboration",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2604.26991",
-      "featured": false
-    },
-    {
-      "id": "8e3b66da3e5e",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "When Continual Learning Moves to Memory: A Study of Experience Reuse in LLM Agents",
-      "titleKo": "",
-      "summary": "arXiv:2604.27003v1 Announce Type: new Abstract: Memory-augmented LLM agents offer an appealing shortcut to continual learning: rather than updating model parameters, they accumulate experience in external memory, seemingly sidestepping the stability-plasticity dilemma of parametric learning. We show that this challenge does not disappear but resurfaces at the memory level. Under a limited context window, old and new experiences compete during retrieval, relocating the continual-learning bottleneck from parameter updates to memory access. To study this phenomenon, we introduce a (k,v) framework",
-      "aiSummary": "arXiv:2604.27003v1 Announce Type: new Abstract: Memory-augmented LLM agents offer an appealing shortcut to continual learning: rather than updating model parameters, they accumulate experience in external memory, seemingly sidestepping the stability-plasticity dilemma of parametric learning. We show that this challenge does not disappear but resurfaces at the memory level. Under a limited context window, old and new experiences compete during retrieval, relocating the continual-learning bottleneck from parameter updates to memory access. To study this phenomenon, we introduce a (k,v) framework",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2604.27003v1 Announce Type: new Abstract: Memory-augmented LLM agents offer an appealing shortcut to continual learning: rather than updating model parameters, they accumulate experience in external memory, seemingly sidestepping the stability-plasticity dilemma of parametric learning. We show that this challenge does not disappear but resurfaces at the memory level. Under a limited context window, old and new experiences compete during retrieval, relocating the continual-learning bottleneck from parameter updates to memory access. To study this phenomenon, we introduce a (k,v) framework",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.27003",
       "featured": false
     }
   ]
