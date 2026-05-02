@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-02T11:51:46.215805+00:00",
+  "updated": "2026-05-02T13:25:32.551129+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "cdad1a8453b8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "The gender friendship gap is driven primarily by white men, not a universal difference across groups",
+      "titleKo": "",
+      "summary": "For years, researchers have claimed that men’s friendships are shallower and less emotionally supportive than women’s, a pattern called the “gender friendship gap.” But new research challenges how universal that really is.",
+      "aiSummary": "For years, researchers have claimed that men’s friendships are shallower and less emotionally supportive than women’s, a pattern called the “gender friendship gap.” But new research challenges how universal that really is.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "For years, researchers have claimed that men’s friendships are shallower and less emotionally supportive than women’s, a pattern called the “gender friendship gap.” But new research challenges how universal that really is.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-gender-friendship-gap-is-driven-primarily-by-white-men-not-a-universal-difference-across-groups/",
+      "featured": true
+    },
     {
       "id": "fec5d17842b1",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "For adults with ADHD, staying focused is often a daily struggle. New research suggests these attention lapses occur because the waking brain frequently slips into brief, sleep-like states, blurring the biological boundary between sleep and wakefulness.",
       "keyPoints": [],
       "url": "https://www.psypost.org/scientists-link-daytime-sleep-like-brain-waves-to-attention-lapses-in-adhd/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "501c8f8bf12f",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2604.26985v1 Announce Type: new Abstract: Masked diffusion models (MDMs) generate discrete sequences by iterative denoising under an absorbing masking process. In standard masked diffusion, if a token remains masked after a reverse update, the model discards its clean-state prediction for that position. Thus, still-masked positions must be repeatedly inferred from the mask token alone. This design choice limits cross-step refinement. To address this limitation, this paper proposes a simple, yet effective, post-training adaptation for MDMs that conditions each denoising step on the model'",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2604.26985",
-      "featured": false
-    },
-    {
-      "id": "41295dfd5820",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "People-Centred Medical Image Analysis",
-      "titleKo": "",
-      "summary": "arXiv:2604.26991v1 Announce Type: new Abstract: Recent advances in data-centric medical AI have produced highly accurate diagnostic systems, but the emphasis on data curation and performance metrics has not translated into widespread clinical adoption. We conjecture that this limited uptake stems from insufficient attention dedicated to the optimisation of fair performance across diverse patient populations and to workflow integration: performance biases can create regulatory barriers, and poorly integrated automation can disrupt clinical routines, degrade the quality of human-AI collaboration",
-      "aiSummary": "arXiv:2604.26991v1 Announce Type: new Abstract: Recent advances in data-centric medical AI have produced highly accurate diagnostic systems, but the emphasis on data curation and performance metrics has not translated into widespread clinical adoption. We conjecture that this limited uptake stems from insufficient attention dedicated to the optimisation of fair performance across diverse patient populations and to workflow integration: performance biases can create regulatory barriers, and poorly integrated automation can disrupt clinical routines, degrade the quality of human-AI collaboration",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2604.26991v1 Announce Type: new Abstract: Recent advances in data-centric medical AI have produced highly accurate diagnostic systems, but the emphasis on data curation and performance metrics has not translated into widespread clinical adoption. We conjecture that this limited uptake stems from insufficient attention dedicated to the optimisation of fair performance across diverse patient populations and to workflow integration: performance biases can create regulatory barriers, and poorly integrated automation can disrupt clinical routines, degrade the quality of human-AI collaboration",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.26991",
       "featured": false
     }
   ]
