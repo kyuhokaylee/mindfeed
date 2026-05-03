@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-03T17:55:39.134158+00:00",
+  "updated": "2026-05-03T19:10:46.814224+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "7366ead163a1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Natural daylight in the office helps people with type 2 diabetes control blood sugar",
+      "titleKo": "",
+      "summary": "Sitting near a window at work could be a simple way to boost metabolic health. A new study shows that natural daylight during office hours helps people with type 2 diabetes maintain healthier blood sugar levels and burn fat.",
+      "aiSummary": "Sitting near a window at work could be a simple way to boost metabolic health. A new study shows that natural daylight during office hours helps people with type 2 diabetes maintain healthier blood sugar levels and burn fat.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Sitting near a window at work could be a simple way to boost metabolic health. A new study shows that natural daylight during office hours helps people with type 2 diabetes maintain healthier blood sugar levels and burn fat.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/natural-daylight-in-the-office-helps-people-with-type-2-diabetes-control-blood-sugar/",
+      "featured": true
+    },
+    {
+      "id": "8747e49769de",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "1시간 전 / 1h ago",
+      "title": "Helping Scientists Take Their Research Global: 7 Lessons",
+      "titleKo": "",
+      "summary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
+      "featured": false
+    },
     {
       "id": "054e66372db1",
       "tag": "behav",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "There is a popular belief that technological innovation will solve climate change without fundamental shifts in society and politics. For example, the World Economic Forum claims “we must invent our way out of climate change.” Solving climate change, the thinking goes, means investing in innovation. Technocratic policies, such as the carbon tax, also assume a direct path between problem and solution. The idea of a carbon tax assumes that if emissions are priced correctly, firms and consumers will automatically reduce carbon use and invest in cleaner alternatives. The “solution” lies in enginee",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/climate-change-is-getting-worse-why-dont-we-see-more-action/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "29408baa0d7f",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/04/260429102037.htm",
-      "featured": false
-    },
-    {
-      "id": "7d63ed683aa5",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "titleKo": "",
-      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "aiSummary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
-      "featured": false
-    },
-    {
-      "id": "6c1ccd4f4fca",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Transgender individuals face higher rates of discrimination and violence than cisgender sexual minorities",
-      "titleKo": "",
-      "summary": "A large-scale analysis reveals that transgender individuals across Europe face decidedly higher rates of discrimination and violence than cisgender sexual minorities, regardless of the relative strength of their home country’s equality laws.",
-      "aiSummary": "A large-scale analysis reveals that transgender individuals across Europe face decidedly higher rates of discrimination and violence than cisgender sexual minorities, regardless of the relative strength of their home country’s equality laws.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A large-scale analysis reveals that transgender individuals across Europe face decidedly higher rates of discrimination and violence than cisgender sexual minorities, regardless of the relative strength of their home country’s equality laws.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/transgender-individuals-face-higher-rates-of-discrimination-and-violence-than-ci/",
       "featured": false
     }
   ]
