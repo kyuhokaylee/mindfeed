@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-03T19:10:46.814224+00:00",
+  "updated": "2026-05-03T20:54:00.044694+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "61a33c485eab",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "High temperatures are linked to slightly increased rates of police violence",
+      "titleKo": "",
+      "summary": "As global temperatures rise, a new study reveals an unexpected consequence. Researchers analyzing nationwide data found that average monthly temperatures above 68.5°F are associated with a slight but significant increase in fatal police encounters.",
+      "aiSummary": "As global temperatures rise, a new study reveals an unexpected consequence. Researchers analyzing nationwide data found that average monthly temperatures above 68.5°F are associated with a slight but significant increase in fatal police encounters.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "As global temperatures rise, a new study reveals an unexpected consequence. Researchers analyzing nationwide data found that average monthly temperatures above 68.5°F are associated with a slight but significant increase in fatal police encounters.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/high-temperatures-are-linked-to-slightly-increased-rates-of-police-violence/",
+      "featured": true
+    },
     {
       "id": "7366ead163a1",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Sitting near a window at work could be a simple way to boost metabolic health. A new study shows that natural daylight during office hours helps people with type 2 diabetes maintain healthier blood sugar levels and burn fat.",
       "keyPoints": [],
       "url": "https://www.psypost.org/natural-daylight-in-the-office-helps-people-with-type-2-diabetes-control-blood-sugar/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8747e49769de",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Landing the Perseverance rover on Mars, working in clean rooms to minimize the microbial bug count, and slogging through hundreds of engineering trade-offs with Swati Mohan, an aerospace engineer at NASA's Jet Propulsion Laboratory. What are the \"seven minutes of terror\"? And is there evidence of past life on Mars? [buzzsprout episode='18903199' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a d",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-an-aerospace-engineer/",
-      "featured": false
-    },
-    {
-      "id": "cdbfc0991369",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists restore memory by blocking a single Alzheimer’s protein",
-      "titleKo": "",
-      "summary": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-      "aiSummary": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102037.htm",
       "featured": false
     }
   ]
