@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-03T14:54:59.015704+00:00",
+  "updated": "2026-05-03T15:54:34.165714+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "289b11a61354",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Boosting one protein helps the brain fight Alzheimer’s",
+      "titleKo": "",
+      "summary": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
+      "aiSummary": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502013550.htm",
+      "featured": true
+    },
+    {
+      "id": "6888aadf9102",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists discover a hidden brain “cleaning” effect triggered by movement",
+      "titleKo": "",
+      "summary": "Scientists have uncovered a surprising link between simple body movement and brain health: every time you tighten your abdominal muscles—even slightly—your brain may gently sway inside your skull. This subtle motion, triggered by pressure changes in connected blood vessels, appears to help circulate cerebrospinal fluid around the brain, potentially flushing out harmful waste.",
+      "aiSummary": "Scientists have uncovered a surprising link between simple body movement and brain health: every time you tighten your abdominal muscles—even slightly—your brain may gently sway inside your skull. This subtle motion, triggered by pressure changes in connected blood vessels, appears to help circulate cerebrospinal fluid around the brain, potentially flushing out harmful waste.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have uncovered a surprising link between simple body movement and brain health: every time you tighten your abdominal muscles—even slightly—your brain may gently sway inside your skull. This subtle motion, triggered by pressure changes in connected blood vessels, appears to help circulate cerebrospinal fluid around the brain, potentially flushing out harmful waste.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260501052832.htm",
+      "featured": false
+    },
     {
       "id": "ed8e1db485e9",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Can we successfully outsource love? A new evolutionary psychology paper argues that virtual \"girlfriend experiences\" are booming because they offer users the emotional and sexual rewards of dating without the evolutionary costs of mutual mate selection and conflict.",
       "keyPoints": [],
       "url": "https://www.psypost.org/study-explores-how-virtual-girlfriend-experiences-tap-evolved-relationship-motivations-in-the-digital-age/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d52f8c8de6ef",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A new psychological study reveals that cognitive difficulties are linked to behavioral addiction, not the mere act of playing video games. While individuals at risk of gaming disorder struggle with working memory, recreational gamers actually display enhanced attention.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-video-gaming-habits-shape-our-cognitive-profiles/",
-      "featured": false
-    },
-    {
-      "id": "b3fa15c4372a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "16시간 전 / 16h ago",
-      "title": "End-to-end autonomous scientific discovery on a real optical platform",
-      "titleKo": "",
-      "summary": "arXiv:2604.27092v1 Announce Type: new Abstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assisting predefined research workflows, none has yet demonstrated end-to-end autonomous discovery in a real physical system that produces a nontrivial result supported by experimental evidence. Here we introduce Qiushi Discovery Engine, an LLM-based agentic system for end-to-end auton",
-      "aiSummary": "arXiv:2604.27092v1 Announce Type: new Abstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assisting predefined research workflows, none has yet demonstrated end-to-end autonomous discovery in a real physical system that produces a nontrivial result supported by experimental evidence. Here we introduce Qiushi Discovery Engine, an LLM-based agentic system for end-to-end auton",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2604.27092v1 Announce Type: new Abstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assisting predefined research workflows, none has yet demonstrated end-to-end autonomous discovery in a real physical system that produces a nontrivial result supported by experimental evidence. Here we introduce Qiushi Discovery Engine, an LLM-based agentic system for end-to-end auton",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.27092",
-      "featured": false
-    },
-    {
-      "id": "0f5dd07146ff",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Dreams and daydreams share unexpected patterns of bizarreness",
-      "titleKo": "",
-      "summary": "A new study reveals that waking mind wandering is just as densely packed with bizarre elements as nighttime dreaming. While dreams feature slowly transforming impossibilities, daydreams are marked by abrupt jumps in logic.",
-      "aiSummary": "A new study reveals that waking mind wandering is just as densely packed with bizarre elements as nighttime dreaming. While dreams feature slowly transforming impossibilities, daydreams are marked by abrupt jumps in logic.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals that waking mind wandering is just as densely packed with bizarre elements as nighttime dreaming. While dreams feature slowly transforming impossibilities, daydreams are marked by abrupt jumps in logic.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/why-your-daydreams-might-be-just-as-bizarre-as-your-nighttime-dreams/",
       "featured": false
     }
   ]
