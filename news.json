@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-03T16:58:48.462686+00:00",
+  "updated": "2026-05-03T17:55:39.134158+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "054e66372db1",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "방금 전 / Just now",
+      "title": "Climate Change Is Getting Worse. Why Don’t We See More Action?",
+      "titleKo": "",
+      "summary": "There is a popular belief that technological innovation will solve climate change without fundamental shifts in society and politics. For example, the World Economic Forum claims “we must invent our way out of climate change.” Solving climate change, the thinking goes, means investing in innovation. Technocratic policies, such as the carbon tax, also assume a direct path between problem and solution. The idea of a carbon tax assumes that if emissions are priced correctly, firms and consumers will automatically reduce carbon use and invest in cleaner alternatives. The “solution” lies in enginee",
+      "aiSummary": "There is a popular belief that technological innovation will solve climate change without fundamental shifts in society and politics. For example, the World Economic Forum claims “we must invent our way out of climate change.” Solving climate change, the thinking goes, means investing in innovation. Technocratic policies, such as the carbon tax, also assume a direct path between problem and solution. The idea of a carbon tax assumes that if emissions are priced correctly, firms and consumers will automatically reduce carbon use and invest in cleaner alternatives. The “solution” lies in enginee",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "There is a popular belief that technological innovation will solve climate change without fundamental shifts in society and politics. For example, the World Economic Forum claims “we must invent our way out of climate change.” Solving climate change, the thinking goes, means investing in innovation. Technocratic policies, such as the carbon tax, also assume a direct path between problem and solution. The idea of a carbon tax assumes that if emissions are priced correctly, firms and consumers will automatically reduce carbon use and invest in cleaner alternatives. The “solution” lies in enginee",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/climate-change-is-getting-worse-why-dont-we-see-more-action/",
+      "featured": true
+    },
     {
       "id": "29408baa0d7f",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Your underlying personality dictates the vividness and frequency of your sexual fantasies. A massive national survey reveals how specific psychological components, from depression to responsibility, guide the erotic scenarios we find most arousing.",
       "keyPoints": [],
       "url": "https://www.psypost.org/what-the-big-five-personality-traits-reveal-about-your-sexual-fantasies/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2e096602f58c",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A large-scale analysis reveals that transgender individuals across Europe face decidedly higher rates of discrimination and violence than cisgender sexual minorities, regardless of the relative strength of their home country’s equality laws.",
       "keyPoints": [],
       "url": "https://www.psypost.org/transgender-individuals-face-higher-rates-of-discrimination-and-violence-than-ci/",
-      "featured": false
-    },
-    {
-      "id": "5cecaebeb9c9",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
-      "titleKo": "",
-      "summary": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retraining cost, existing methods often rely on a single global initialization and may suffer from negative ",
-      "aiSummary": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retraining cost, existing methods often rely on a single global initialization and may suffer from negative ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retraining cost, existing methods often rely on a single global initialization and may suffer from negative ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.26999",
       "featured": false
     }
   ]
