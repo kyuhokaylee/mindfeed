@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-03T03:52:30.053687+00:00",
+  "updated": "2026-05-03T06:31:36.443209+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "58bfaa6cff9f",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "13일 전 / 13d ago",
+      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
+      "titleKo": "",
+      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
+      "featured": true
+    },
+    {
+      "id": "2ca3144e26ec",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "13일 전 / 13d ago",
+      "title": "The ‘Busy’ Trap",
+      "titleKo": "",
+      "summary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "aiSummary": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/the-busy-trap/",
+      "featured": false
+    },
     {
       "id": "f61e85023db1",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A large-scale brain imaging study of over 800 incarcerated men reveals that highly psychopathic individuals possess an expanded cortical surface area and a compressed physical brain organization, offering new clues into the biology of empathy and antisocial behavior.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-scans-of-800-incarcerated-men-link-psychopathy-to-an-expanded-cortical-sur/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c1d7d1e43287",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "While statins are highly effective at protecting against heart attacks and strokes, a massive new medical records study reveals that the popular cholesterol-lowering medications do not offer additional protection against Alzheimer's disease or other age-related dementias.",
       "keyPoints": [],
       "url": "https://www.psypost.org/common-cholesterol-medications-do-not-alter-long-term-dementia-risk/",
-      "featured": false
-    },
-    {
-      "id": "0a3fd970e18a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "26일 전 / 26d ago",
-      "title": "‘We Have Never Been Individuals’",
-      "titleKo": "",
-      "summary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummary": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Take a long, deep breath in. Now slowly let it out. Each time you inhale, you’re drawing in oxygen from the plants around you. Once in your lungs, oxygen navigates the bloodstream, where it gets exchanged for carbon dioxide. With each exhale, you fill the air with carbon dioxide, the very substance that all these plants need for photosynthesis. What we breathe out, plants breathe in. What plants breathe out, we breathe in. The air you breathe is the collective breath of other living beings. You are immersed in the world. And the world is immersed in you. Your body hosts a remarkable diversity ",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/we-have-never-been-individuals/",
-      "featured": false
-    },
-    {
-      "id": "4bff52314140",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "General intelligence explains the link between math and music skills",
-      "titleKo": "",
-      "summary": "A new study reveals that the long-standing belief connecting mathematical and musical abilities is largely explained by general intelligence. When researchers controlled for cognitive reasoning, the apparent link between being good at math and music practically disappeared.",
-      "aiSummary": "A new study reveals that the long-standing belief connecting mathematical and musical abilities is largely explained by general intelligence. When researchers controlled for cognitive reasoning, the apparent link between being good at math and music practically disappeared.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals that the long-standing belief connecting mathematical and musical abilities is largely explained by general intelligence. When researchers controlled for cognitive reasoning, the apparent link between being good at math and music practically disappeared.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/general-intelligence-explains-the-link-between-math-and-music-skills/",
       "featured": false
     }
   ]
