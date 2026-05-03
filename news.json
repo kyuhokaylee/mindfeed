@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-03T11:50:41.796685+00:00",
+  "updated": "2026-05-03T13:25:15.241858+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4ed3e0139c75",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "New study links identity politics to lower mental well-being among progressives",
+      "titleKo": "",
+      "summary": "Research published in Sociological Forum suggests that engaging in identity politics is associated with lower mental well-being. The findings indicate this focus might explain why political progressives report more depression and anxiety than their conservative peers.",
+      "aiSummary": "Research published in Sociological Forum suggests that engaging in identity politics is associated with lower mental well-being. The findings indicate this focus might explain why political progressives report more depression and anxiety than their conservative peers.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Research published in Sociological Forum suggests that engaging in identity politics is associated with lower mental well-being. The findings indicate this focus might explain why political progressives report more depression and anxiety than their conservative peers.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-study-links-identity-politics-to-lower-mental-well-being-among-progressives/",
+      "featured": true
+    },
     {
       "id": "d716ed263751",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Both men and women experience intense jealousy when a romantic partner actively gives resources to a stranger. New research indicates that our emotional alarm systems react much stronger to a partner giving rather than receiving attention.",
       "keyPoints": [],
       "url": "https://www.psypost.org/both-men-and-women-view-a-partners-financial-investment-in-a-rival-as-a-major-relationship-threat/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0a3fd970e18a",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists have uncovered a surprising link between simple body movement and brain health: every time you tighten your abdominal muscles—even slightly—your brain may gently sway inside your skull. This subtle motion, triggered by pressure changes in connected blood vessels, appears to help circulate cerebrospinal fluid around the brain, potentially flushing out harmful waste.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260501052832.htm",
-      "featured": false
-    },
-    {
-      "id": "cdad1a8453b8",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "The gender friendship gap is driven primarily by white men, not a universal difference across groups",
-      "titleKo": "",
-      "summary": "For years, researchers have claimed that men’s friendships are shallower and less emotionally supportive than women’s, a pattern called the “gender friendship gap.” But new research challenges how universal that really is.",
-      "aiSummary": "For years, researchers have claimed that men’s friendships are shallower and less emotionally supportive than women’s, a pattern called the “gender friendship gap.” But new research challenges how universal that really is.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "For years, researchers have claimed that men’s friendships are shallower and less emotionally supportive than women’s, a pattern called the “gender friendship gap.” But new research challenges how universal that really is.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/the-gender-friendship-gap-is-driven-primarily-by-white-men-not-a-universal-difference-across-groups/",
       "featured": false
     }
   ]
