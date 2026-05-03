@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-03T15:54:34.165714+00:00",
+  "updated": "2026-05-03T16:58:48.462686+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "29408baa0d7f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "What your personality traits reveal about your sexual fantasies",
+      "titleKo": "",
+      "summary": "Your underlying personality dictates the vividness and frequency of your sexual fantasies. A massive national survey reveals how specific psychological components, from depression to responsibility, guide the erotic scenarios we find most arousing.",
+      "aiSummary": "Your underlying personality dictates the vividness and frequency of your sexual fantasies. A massive national survey reveals how specific psychological components, from depression to responsibility, guide the erotic scenarios we find most arousing.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Your underlying personality dictates the vividness and frequency of your sexual fantasies. A massive national survey reveals how specific psychological components, from depression to responsibility, guide the erotic scenarios we find most arousing.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/what-the-big-five-personality-traits-reveal-about-your-sexual-fantasies/",
+      "featured": true
+    },
+    {
+      "id": "2e096602f58c",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "방금 전 / Just now",
+      "title": "Scientists just discovered what coffee is really doing to your gut and brain",
+      "titleKo": "",
+      "summary": "Coffee doesn’t just energize—it actively reshapes the gut and mind. Researchers found that both caffeinated and decaf coffee altered gut bacteria in ways linked to better mood and lower stress. Decaf even improved learning and memory, while caffeine boosted focus and reduced anxiety. Together, they show coffee works through multiple pathways beyond just caffeine.",
+      "aiSummary": "Coffee doesn’t just energize—it actively reshapes the gut and mind. Researchers found that both caffeinated and decaf coffee altered gut bacteria in ways linked to better mood and lower stress. Decaf even improved learning and memory, while caffeine boosted focus and reduced anxiety. Together, they show coffee works through multiple pathways beyond just caffeine.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Coffee doesn’t just energize—it actively reshapes the gut and mind. Researchers found that both caffeinated and decaf coffee altered gut bacteria in ways linked to better mood and lower stress. Decaf even improved learning and memory, while caffeine boosted focus and reduced anxiety. Together, they show coffee works through multiple pathways beyond just caffeine.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502233911.htm",
+      "featured": false
+    },
+    {
+      "id": "87c8e29f7962",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "The creepy feeling in old buildings might have a surprising cause",
+      "titleKo": "",
+      "summary": "A hidden force may be quietly shaping how you feel—and you’d never even know it. Infrasound, an ultra-low-frequency vibration below the range of human hearing, is everywhere from traffic to old buildings. In a small experiment, people exposed to it became more irritable, less engaged, and even showed higher levels of the stress hormone cortisol—despite having no idea it was present. The findings suggest our bodies can “sense” these vibrations without conscious awareness, potentially explaining eerie sensations in places like basements or supposedly haunted buildings.",
+      "aiSummary": "A hidden force may be quietly shaping how you feel—and you’d never even know it. Infrasound, an ultra-low-frequency vibration below the range of human hearing, is everywhere from traffic to old buildings. In a small experiment, people exposed to it became more irritable, less engaged, and even showed higher levels of the stress hormone cortisol—despite having no idea it was present. The findings suggest our bodies can “sense” these vibrations without conscious awareness, potentially explaining eerie sensations in places like basements or supposedly haunted buildings.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A hidden force may be quietly shaping how you feel—and you’d never even know it. Infrasound, an ultra-low-frequency vibration below the range of human hearing, is everywhere from traffic to old buildings. In a small experiment, people exposed to it became more irritable, less engaged, and even showed higher levels of the stress hormone cortisol—despite having no idea it was present. The findings suggest our bodies can “sense” these vibrations without conscious awareness, potentially explaining eerie sensations in places like basements or supposedly haunted buildings.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502233901.htm",
+      "featured": false
+    },
     {
       "id": "289b11a61354",
       "tag": "neuro",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260502013550.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6888aadf9102",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retraining cost, existing methods often rely on a single global initialization and may suffer from negative ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2604.26999",
-      "featured": false
-    },
-    {
-      "id": "cbea4d064a4b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "Binary Spiking Neural Networks as Causal Models",
-      "titleKo": "",
-      "summary": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successfully use a SAT as well as a SMT solver to compute abductive explanations from this binary causal model. To illustrate our approach, we trained the BSNN on the standard MNIST dataset and applied our SAT-",
-      "aiSummary": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successfully use a SAT as well as a SMT solver to compute abductive explanations from this binary causal model. To illustrate our approach, we trained the BSNN on the standard MNIST dataset and applied our SAT-",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successfully use a SAT as well as a SMT solver to compute abductive explanations from this binary causal model. To illustrate our approach, we trained the BSNN on the standard MNIST dataset and applied our SAT-",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.27007",
-      "featured": false
-    },
-    {
-      "id": "8e9d9fae8d60",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
-      "titleKo": "",
-      "summary": "arXiv:2604.27082v1 Announce Type: new Abstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key contribution is a Bayesian statistical approach that calibrates automated evaluation metrics against human judgments, enabling confident model comparison even with limited manual evaluation data. We demonstrate this framework on a commercial question-answering system serving 5.3M monthly interactions across six global regions; evaluating correctness, refusal behavior, and stylistic",
-      "aiSummary": "arXiv:2604.27082v1 Announce Type: new Abstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key contribution is a Bayesian statistical approach that calibrates automated evaluation metrics against human judgments, enabling confident model comparison even with limited manual evaluation data. We demonstrate this framework on a commercial question-answering system serving 5.3M monthly interactions across six global regions; evaluating correctness, refusal behavior, and stylistic",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2604.27082v1 Announce Type: new Abstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key contribution is a Bayesian statistical approach that calibrates automated evaluation metrics against human judgments, enabling confident model comparison even with limited manual evaluation data. We demonstrate this framework on a commercial question-answering system serving 5.3M monthly interactions across six global regions; evaluating correctness, refusal behavior, and stylistic",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2604.27082",
-      "featured": false
-    },
-    {
-      "id": "28c001be16b7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "How video game habits act as a window into cognitive health",
-      "titleKo": "",
-      "summary": "A new psychological study reveals that cognitive difficulties are linked to behavioral addiction, not the mere act of playing video games. While individuals at risk of gaming disorder struggle with working memory, recreational gamers actually display enhanced attention.",
-      "aiSummary": "A new psychological study reveals that cognitive difficulties are linked to behavioral addiction, not the mere act of playing video games. While individuals at risk of gaming disorder struggle with working memory, recreational gamers actually display enhanced attention.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new psychological study reveals that cognitive difficulties are linked to behavioral addiction, not the mere act of playing video games. While individuals at risk of gaming disorder struggle with working memory, recreational gamers actually display enhanced attention.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-video-gaming-habits-shape-our-cognitive-profiles/",
       "featured": false
     }
   ]
