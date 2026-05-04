@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-03T23:55:01.573231+00:00",
+  "updated": "2026-05-04T03:50:06.174319+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4d50ef99d180",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Children with ADHD are six times more likely to experience depression",
+      "titleKo": "",
+      "summary": "A comprehensive new study confirms that depression is a major burden for youth with ADHD. Data shows they experience depression at roughly 12%, compared to just 2% for their peers, highlighting a critical need for targeted mental health support.",
+      "aiSummary": "A comprehensive new study confirms that depression is a major burden for youth with ADHD. Data shows they experience depression at roughly 12%, compared to just 2% for their peers, highlighting a critical need for targeted mental health support.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A comprehensive new study confirms that depression is a major burden for youth with ADHD. Data shows they experience depression at roughly 12%, compared to just 2% for their peers, highlighting a critical need for targeted mental health support.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/children-with-adhd-are-six-times-more-likely-to-experience-depression/",
+      "featured": true
+    },
     {
       "id": "12fec929e7eb",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Palestinian refugees displaced to Egypt experience extremely high rates of psychological distress. Using an innovative statistical approach, researchers mapped the interconnected symptoms of trauma, revealing specific mental health targets that differ greatly between men and women.",
       "keyPoints": [],
       "url": "https://www.psypost.org/mapping-the-mental-health-crisis-among-palestinian-refugees-in-egypt/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "61a33c485eab",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "If you live in America in the twenty-first century you’ve probably had to listen to a lot of people tell you how busy they are. It’s become the default response when you ask anyone how they’re doing: “Busy!” “So busy.” “ Crazy busy.” It is, pretty obviously, a boast disguised as a complaint. And the stock response is a kind of congratulation: “That’s a good problem to have,” or “Better than the opposite.” Notice it isn’t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs who tell you how busy they are; what those people are is not busy but",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/the-busy-trap/",
-      "featured": false
-    },
-    {
-      "id": "f61e85023db1",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Brain scans of 800 incarcerated men link psychopathy to an expanded cortical surface area",
-      "titleKo": "",
-      "summary": "A large-scale brain imaging study of over 800 incarcerated men reveals that highly psychopathic individuals possess an expanded cortical surface area and a compressed physical brain organization, offering new clues into the biology of empathy and antisocial behavior.",
-      "aiSummary": "A large-scale brain imaging study of over 800 incarcerated men reveals that highly psychopathic individuals possess an expanded cortical surface area and a compressed physical brain organization, offering new clues into the biology of empathy and antisocial behavior.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A large-scale brain imaging study of over 800 incarcerated men reveals that highly psychopathic individuals possess an expanded cortical surface area and a compressed physical brain organization, offering new clues into the biology of empathy and antisocial behavior.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/brain-scans-of-800-incarcerated-men-link-psychopathy-to-an-expanded-cortical-sur/",
       "featured": false
     }
   ]
