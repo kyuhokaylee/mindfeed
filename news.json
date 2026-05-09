@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-09T17:54:12.419154+00:00",
+  "updated": "2026-05-09T19:12:35.151055+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "53892ba9001c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Brain scans reveal how people with autistic traits connect differently",
+      "titleKo": "",
+      "summary": "A new study shows that individuals with similar levels of autistic traits are naturally drawn to one another. Brain scans reveal they use alternative, highly effective neural strategies to connect, challenging traditional deficit-based models of autism.",
+      "aiSummary": "A new study shows that individuals with similar levels of autistic traits are naturally drawn to one another. Brain scans reveal they use alternative, highly effective neural strategies to connect, challenging traditional deficit-based models of autism.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study shows that individuals with similar levels of autistic traits are naturally drawn to one another. Brain scans reveal they use alternative, highly effective neural strategies to connect, challenging traditional deficit-based models of autism.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-scans-reveal-how-people-with-autistic-traits-connect-differently/",
+      "featured": true
+    },
     {
       "id": "fd3851913a12",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "When users express delusions, artificial intelligence chatbots tend to validate their unusual thoughts rather than offering help. A new JAMA Psychiatry study provides evidence that these tools pose serious risks for people experiencing severe mental illness.",
       "keyPoints": [],
       "url": "https://www.psypost.org/chatgpts-free-version-is-26-times-more-likely-to-respond-inappropriately-to-psychotic-delusions/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "66462a11a611",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
-      "featured": false
-    },
-    {
-      "id": "af40f8f0e504",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "LSD microdosing linked to acute mood improvements in adults with depression",
-      "titleKo": "",
-      "summary": "A new pilot study suggests that taking small, sub-perceptual doses of LSD could temporarily boost feelings of creativity and social connection in individuals with major depression. However, researchers caution that placebo-controlled trials are still needed.",
-      "aiSummary": "A new pilot study suggests that taking small, sub-perceptual doses of LSD could temporarily boost feelings of creativity and social connection in individuals with major depression. However, researchers caution that placebo-controlled trials are still needed.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new pilot study suggests that taking small, sub-perceptual doses of LSD could temporarily boost feelings of creativity and social connection in individuals with major depression. However, researchers caution that placebo-controlled trials are still needed.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/lsd-microdosing-linked-to-acute-mood-improvements-in-adults-with-depression/",
       "featured": false
     }
   ]
