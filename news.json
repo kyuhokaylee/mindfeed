@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-09T22:54:18.047629+00:00",
+  "updated": "2026-05-09T23:55:46.812451+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "554c28a69201",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "ZAYA1-8B Technical Report",
+      "titleKo": "",
+      "summary": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-stack AMD compute, networking, and software platform. With under 1B active parameters, ZAYA1-8B matches or exceeds DeepSeek-R1-0528 on several challenging mathematics and coding benchmarks, and remains competitive with substantially larger open-weight reasoning models. ZAYA1-8B was trained from scra",
+      "aiSummary": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-stack AMD compute, networking, and software platform. With under 1B active parameters, ZAYA1-8B matches or exceeds DeepSeek-R1-0528 on several challenging mathematics and coding benchmarks, and remains competitive with substantially larger open-weight reasoning models. ZAYA1-8B was trained from scra",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-stack AMD compute, networking, and software platform. With under 1B active parameters, ZAYA1-8B matches or exceeds DeepSeek-R1-0528 on several challenging mathematics and coding benchmarks, and remains competitive with substantially larger open-weight reasoning models. ZAYA1-8B was trained from scra",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2605.05365",
+      "featured": true
+    },
+    {
+      "id": "cf74ad4bfabe",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
+      "titleKo": "",
+      "summary": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This paper introduces Partial Evidence Bench, a deterministic benchmark for measuring that failure mode. The benchmark ships three scenario families -- due diligence, compliance audit, and security incident re",
+      "aiSummary": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This paper introduces Partial Evidence Bench, a deterministic benchmark for measuring that failure mode. The benchmark ships three scenario families -- due diligence, compliance audit, and security incident re",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This paper introduces Partial Evidence Bench, a deterministic benchmark for measuring that failure mode. The benchmark ships three scenario families -- due diligence, compliance audit, and security incident re",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2605.05379",
+      "featured": false
+    },
     {
       "id": "9cd1b8a8de49",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study reveals that East-Asian infants cry significantly more than Western infants when separated from their mothers during a classic psychological test. The findings suggest researchers must consider cultural differences before labeling highly distressed babies as \"insecurely attached.\"",
       "keyPoints": [],
       "url": "https://www.psypost.org/intense-crying-in-east-asian-infants-may-reflect-cultural-norms-not-insecure-attachment-study-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f087f90f716d",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "MIT neuroscientists have uncovered a surprising secret hidden in the adult brain: millions of “silent synapses,” dormant connections that lie in wait until new learning calls them into action. Once thought to exist only in early development, these inactive links make up about 30% of synapses in the adult cortex and can be rapidly activated to form fresh memories.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260504211848.htm",
-      "featured": false
-    },
-    {
-      "id": "c1c85391ebcd",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "12시간 전 / 12h ago",
-      "title": "How caffeine alters the human brain’s electrical braking system",
-      "titleKo": "",
-      "summary": "A new experiment reveals that consuming just 200 milligrams of caffeine alters how the brain integrates sensory inputs with motor commands. The findings suggest patients should avoid their morning coffee before undergoing certain neurological exams.",
-      "aiSummary": "A new experiment reveals that consuming just 200 milligrams of caffeine alters how the brain integrates sensory inputs with motor commands. The findings suggest patients should avoid their morning coffee before undergoing certain neurological exams.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new experiment reveals that consuming just 200 milligrams of caffeine alters how the brain integrates sensory inputs with motor commands. The findings suggest patients should avoid their morning coffee before undergoing certain neurological exams.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-a-stick-of-caffeinated-gum-changes-the-brain-s-electrical-braking-system/",
-      "featured": false
-    },
-    {
-      "id": "92134f72cc7f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Understanding Annotator Safety Policy with Interpretability",
-      "titleKo": "",
-      "summary": "arXiv:2605.05329v1 Announce Type: new Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand or misexecute the task), policy ambiguity (policy wording leaves room for interpretation), or value pluralism (different annotators hold different perspectives on safety). Distinguishing these sources matters. For example, operational failures call for quality control, ambiguity calls for policy clar",
-      "aiSummary": "arXiv:2605.05329v1 Announce Type: new Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand or misexecute the task), policy ambiguity (policy wording leaves room for interpretation), or value pluralism (different annotators hold different perspectives on safety). Distinguishing these sources matters. For example, operational failures call for quality control, ambiguity calls for policy clar",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.05329v1 Announce Type: new Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand or misexecute the task), policy ambiguity (policy wording leaves room for interpretation), or value pluralism (different annotators hold different perspectives on safety). Distinguishing these sources matters. For example, operational failures call for quality control, ambiguity calls for policy clar",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.05329",
       "featured": false
     }
   ]
