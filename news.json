@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-09T21:53:15.568165+00:00",
+  "updated": "2026-05-09T22:54:18.047629+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9cd1b8a8de49",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Intense crying in East-Asian infants may reflect cultural norms, not insecure attachment, study suggests",
+      "titleKo": "",
+      "summary": "A new study reveals that East-Asian infants cry significantly more than Western infants when separated from their mothers during a classic psychological test. The findings suggest researchers must consider cultural differences before labeling highly distressed babies as \"insecurely attached.\"",
+      "aiSummary": "A new study reveals that East-Asian infants cry significantly more than Western infants when separated from their mothers during a classic psychological test. The findings suggest researchers must consider cultural differences before labeling highly distressed babies as \"insecurely attached.\"",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that East-Asian infants cry significantly more than Western infants when separated from their mothers during a classic psychological test. The findings suggest researchers must consider cultural differences before labeling highly distressed babies as \"insecurely attached.\"",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/intense-crying-in-east-asian-infants-may-reflect-cultural-norms-not-insecure-attachment-study-suggests/",
+      "featured": true
+    },
+    {
+      "id": "f087f90f716d",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "18시간 전 / 18h ago",
+      "title": "BALAR : A Bayesian Agentic Loop for Active Reasoning",
+      "titleKo": "",
+      "summary": "arXiv:2605.05386v1 Announce Type: new Abstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information exchange with a user. However, most current systems treat dialogue reactively and lack a principled mechanism to reason about what information is missing and which question should be asked next. We propose BALAR (Bayesian Agentic Loop for Active Reasoning), a task-agnostic outer-loop algorithm that requires no fine-tuning and enables structured multi-turn interaction between an LLM agent and a user. BALAR maintains a str",
+      "aiSummary": "arXiv:2605.05386v1 Announce Type: new Abstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information exchange with a user. However, most current systems treat dialogue reactively and lack a principled mechanism to reason about what information is missing and which question should be asked next. We propose BALAR (Bayesian Agentic Loop for Active Reasoning), a task-agnostic outer-loop algorithm that requires no fine-tuning and enables structured multi-turn interaction between an LLM agent and a user. BALAR maintains a str",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2605.05386v1 Announce Type: new Abstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information exchange with a user. However, most current systems treat dialogue reactively and lack a principled mechanism to reason about what information is missing and which question should be asked next. We propose BALAR (Bayesian Agentic Loop for Active Reasoning), a task-agnostic outer-loop algorithm that requires no fine-tuning and enables structured multi-turn interaction between an LLM agent and a user. BALAR maintains a str",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2605.05386",
+      "featured": false
+    },
     {
       "id": "5611f6047f39",
       "tag": "neuro",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fca509133a47",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2605.05329v1 Announce Type: new Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand or misexecute the task), policy ambiguity (policy wording leaves room for interpretation), or value pluralism (different annotators hold different perspectives on safety). Distinguishing these sources matters. For example, operational failures call for quality control, ambiguity calls for policy clar",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.05329",
-      "featured": false
-    },
-    {
-      "id": "554c28a69201",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "ZAYA1-8B Technical Report",
-      "titleKo": "",
-      "summary": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-stack AMD compute, networking, and software platform. With under 1B active parameters, ZAYA1-8B matches or exceeds DeepSeek-R1-0528 on several challenging mathematics and coding benchmarks, and remains competitive with substantially larger open-weight reasoning models. ZAYA1-8B was trained from scra",
-      "aiSummary": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-stack AMD compute, networking, and software platform. With under 1B active parameters, ZAYA1-8B matches or exceeds DeepSeek-R1-0528 on several challenging mathematics and coding benchmarks, and remains competitive with substantially larger open-weight reasoning models. ZAYA1-8B was trained from scra",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-stack AMD compute, networking, and software platform. With under 1B active parameters, ZAYA1-8B matches or exceeds DeepSeek-R1-0528 on several challenging mathematics and coding benchmarks, and remains competitive with substantially larger open-weight reasoning models. ZAYA1-8B was trained from scra",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.05365",
-      "featured": false
-    },
-    {
-      "id": "cf74ad4bfabe",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
-      "titleKo": "",
-      "summary": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This paper introduces Partial Evidence Bench, a deterministic benchmark for measuring that failure mode. The benchmark ships three scenario families -- due diligence, compliance audit, and security incident re",
-      "aiSummary": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This paper introduces Partial Evidence Bench, a deterministic benchmark for measuring that failure mode. The benchmark ships three scenario families -- due diligence, compliance audit, and security incident re",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This paper introduces Partial Evidence Bench, a deterministic benchmark for measuring that failure mode. The benchmark ships three scenario families -- due diligence, compliance audit, and security incident re",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.05379",
       "featured": false
     }
   ]
