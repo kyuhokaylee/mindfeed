@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-09T13:40:47.039721+00:00",
+  "updated": "2026-05-09T14:58:38.117732+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "66462a11a611",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Sexual arousal creates “tunnel vision” that makes ambiguous dating cues look like interest",
+      "titleKo": "",
+      "summary": "Sexual arousal can make you blind to a polite rejection. New psychology research finds that arousal causes people to interpret mixed signals optimistically, only recognizing a partner's disinterest when the rejection is blunt and unmistakable.",
+      "aiSummary": "Sexual arousal can make you blind to a polite rejection. New psychology research finds that arousal causes people to interpret mixed signals optimistically, only recognizing a partner's disinterest when the rejection is blunt and unmistakable.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Sexual arousal can make you blind to a polite rejection. New psychology research finds that arousal causes people to interpret mixed signals optimistically, only recognizing a partner's disinterest when the rejection is blunt and unmistakable.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/sexual-arousal-creates-tunnel-vision-that-makes-ambiguous-dating-cues-look-like-interest/",
+      "featured": true
+    },
+    {
+      "id": "8747e49769de",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "5일 전 / 5d ago",
+      "title": "Helping Scientists Take Their Research Global: 7 Lessons",
+      "titleKo": "",
+      "summary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
+      "featured": false
+    },
     {
       "id": "592c11237630",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study suggests that flexing your abdominal muscles physically moves your brain. This gentle shifting acts as a hydraulic pump, forcing fluids through brain tissue to wash away harmful waste and promote cognitive health.",
       "keyPoints": [],
       "url": "https://www.psypost.org/scientists-discover-a-hydraulic-link-between-the-abdomen-and-the-brain/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7524b5131e40",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2605.05209v1 Announce Type: new Abstract: Neural networks that land in flat regions of the loss landscape tend to generalise better than those in sharp regions. Sharpness-Aware Minimisation exploits this to improve generalisation. But function-preserving reparameterisation can inflate the Hessian of any minimum by two orders of magnitude without changing a single prediction. If the geometry of weight space can be manufactured from nothing, it cannot be the cause of anything. In other words, flat is simple and simplicity depends on encoding. Here I show that the actual driver is weakness,",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.05209",
-      "featured": false
-    },
-    {
-      "id": "1ba74db42378",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "23시간 전 / 23h ago",
-      "title": "Nationwide EHR-Based Chronic Rhinosinusitis Prediction Using Demographic-Stratified Models",
-      "titleKo": "",
-      "summary": "arXiv:2605.05213v1 Announce Type: new Abstract: Chronic rhinosinusitis (CRS) is a common heterogeneous inflammatory disorder that causes substantial morbidity and healthcare costs. CRS is difficult to identify early from routine encounters, as symptom presentations overlap with common conditions such as allergic rhinitis, and heterogeneous phenotypes further obscure risk patterns. Prior predictive studies often rely on single-institutional cohorts , which reduce population-level generalizability. To overcome this, we leveraged nationwide longitudinal EHR data from the \\textit{All of Us} Resear",
-      "aiSummary": "arXiv:2605.05213v1 Announce Type: new Abstract: Chronic rhinosinusitis (CRS) is a common heterogeneous inflammatory disorder that causes substantial morbidity and healthcare costs. CRS is difficult to identify early from routine encounters, as symptom presentations overlap with common conditions such as allergic rhinitis, and heterogeneous phenotypes further obscure risk patterns. Prior predictive studies often rely on single-institutional cohorts , which reduce population-level generalizability. To overcome this, we leveraged nationwide longitudinal EHR data from the \\textit{All of Us} Resear",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.05213v1 Announce Type: new Abstract: Chronic rhinosinusitis (CRS) is a common heterogeneous inflammatory disorder that causes substantial morbidity and healthcare costs. CRS is difficult to identify early from routine encounters, as symptom presentations overlap with common conditions such as allergic rhinitis, and heterogeneous phenotypes further obscure risk patterns. Prior predictive studies often rely on single-institutional cohorts , which reduce population-level generalizability. To overcome this, we leveraged nationwide longitudinal EHR data from the \\textit{All of Us} Resear",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.05213",
-      "featured": false
-    },
-    {
-      "id": "b526ac6421e1",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "23시간 전 / 23h ago",
-      "title": "SAT: Sequential Agent Tuning for Coordinator Free Plug and Play Multi-LLM Training with Monotonic Improvement Guarantees",
-      "titleKo": "",
-      "summary": "arXiv:2605.05216v1 Announce Type: new Abstract: Large language models (LLMs) with a large number of parameters achieve strong performance but are often prohibitively expensive to deploy. Recent work explores using teams of smaller, more efficient LLMs that collectively match or even outperform a single large model. However, jointly updating multiple agents introduces compounding distribution shifts, making coordination and stability during training difficult. We address this by introducing Sequential Agent Tuning (SAT), a coordinator-free training paradigm. SAT represents the team as a factori",
-      "aiSummary": "arXiv:2605.05216v1 Announce Type: new Abstract: Large language models (LLMs) with a large number of parameters achieve strong performance but are often prohibitively expensive to deploy. Recent work explores using teams of smaller, more efficient LLMs that collectively match or even outperform a single large model. However, jointly updating multiple agents introduces compounding distribution shifts, making coordination and stability during training difficult. We address this by introducing Sequential Agent Tuning (SAT), a coordinator-free training paradigm. SAT represents the team as a factori",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.05216v1 Announce Type: new Abstract: Large language models (LLMs) with a large number of parameters achieve strong performance but are often prohibitively expensive to deploy. Recent work explores using teams of smaller, more efficient LLMs that collectively match or even outperform a single large model. However, jointly updating multiple agents introduces compounding distribution shifts, making coordination and stability during training difficult. We address this by introducing Sequential Agent Tuning (SAT), a coordinator-free training paradigm. SAT represents the team as a factori",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.05216",
       "featured": false
     }
   ]
