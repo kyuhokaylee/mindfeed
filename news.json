@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-09T11:55:26.511624+00:00",
+  "updated": "2026-05-09T13:40:47.039721+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "592c11237630",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists discover a hydraulic link between the abdomen and the brain",
+      "titleKo": "",
+      "summary": "A new study suggests that flexing your abdominal muscles physically moves your brain. This gentle shifting acts as a hydraulic pump, forcing fluids through brain tissue to wash away harmful waste and promote cognitive health.",
+      "aiSummary": "A new study suggests that flexing your abdominal muscles physically moves your brain. This gentle shifting acts as a hydraulic pump, forcing fluids through brain tissue to wash away harmful waste and promote cognitive health.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests that flexing your abdominal muscles physically moves your brain. This gentle shifting acts as a hydraulic pump, forcing fluids through brain tissue to wash away harmful waste and promote cognitive health.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-discover-a-hydraulic-link-between-the-abdomen-and-the-brain/",
+      "featured": true
+    },
+    {
+      "id": "7524b5131e40",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "15시간 전 / 15h ago",
+      "title": "New brain scan index detects hidden Alzheimer’s patterns before memory loss begins",
+      "titleKo": "",
+      "summary": "A newly developed mathematical index allows standard MRI scans to detect hidden Alzheimer’s risks years before symptoms emerge, tracking the subtle impacts of genes and cardiovascular health on the brain to predict future memory decline.",
+      "aiSummary": "A newly developed mathematical index allows standard MRI scans to detect hidden Alzheimer’s risks years before symptoms emerge, tracking the subtle impacts of genes and cardiovascular health on the brain to predict future memory decline.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A newly developed mathematical index allows standard MRI scans to detect hidden Alzheimer’s risks years before symptoms emerge, tracking the subtle impacts of genes and cardiovascular health on the brain to predict future memory decline.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-brain-scan-index-detects-hidden-alzheimer-s-patterns-before-memory-loss-begi/",
+      "featured": false
+    },
     {
       "id": "d8be05590971",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Children exhibiting high ADHD traits often face psychological distress into middle age. A recent study in Nature Mental Health suggests this ongoing burden is not inevitable but is heavily influenced by lifelong experiences of societal exclusion.",
       "keyPoints": [],
       "url": "https://www.psypost.org/childhood-adhd-traits-linked-to-midlife-distress-with-societal-exclusion-playing-a-major-role/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d52f8c8de6ef",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2605.05216v1 Announce Type: new Abstract: Large language models (LLMs) with a large number of parameters achieve strong performance but are often prohibitively expensive to deploy. Recent work explores using teams of smaller, more efficient LLMs that collectively match or even outperform a single large model. However, jointly updating multiple agents introduces compounding distribution shifts, making coordination and stability during training difficult. We address this by introducing Sequential Agent Tuning (SAT), a coordinator-free training paradigm. SAT represents the team as a factori",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.05216",
-      "featured": false
-    },
-    {
-      "id": "134e9b435683",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "23시간 전 / 23h ago",
-      "title": "Physics-Informed Neural Networks with Learnable Loss Balancing and Transfer Learning",
-      "titleKo": "",
-      "summary": "arXiv:2605.05217v1 Announce Type: new Abstract: We propose a self-supervised physics-informed neural network (PINN) framework that adaptively balances physics-based and data-driven supervision for scientific machine learning under data scarcity. Unlike prior PINNs that rely on fixed or heuristic weighting of physics residuals and data loss, our approach introduces a learnable blending neuron that dynamically adjusts the relative contribution of each term based on their uncertainties. This mechanism enables stable training and improved generalization without manual tuning. To further enhance ef",
-      "aiSummary": "arXiv:2605.05217v1 Announce Type: new Abstract: We propose a self-supervised physics-informed neural network (PINN) framework that adaptively balances physics-based and data-driven supervision for scientific machine learning under data scarcity. Unlike prior PINNs that rely on fixed or heuristic weighting of physics residuals and data loss, our approach introduces a learnable blending neuron that dynamically adjusts the relative contribution of each term based on their uncertainties. This mechanism enables stable training and improved generalization without manual tuning. To further enhance ef",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.05217v1 Announce Type: new Abstract: We propose a self-supervised physics-informed neural network (PINN) framework that adaptively balances physics-based and data-driven supervision for scientific machine learning under data scarcity. Unlike prior PINNs that rely on fixed or heuristic weighting of physics residuals and data loss, our approach introduces a learnable blending neuron that dynamically adjusts the relative contribution of each term based on their uncertainties. This mechanism enables stable training and improved generalization without manual tuning. To further enhance ef",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.05217",
-      "featured": false
-    },
-    {
-      "id": "8747e49769de",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "5일 전 / 5d ago",
-      "title": "Helping Scientists Take Their Research Global: 7 Lessons",
-      "titleKo": "",
-      "summary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
-      "aiSummary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
       "featured": false
     }
   ]
