@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-09T16:01:53.931074+00:00",
+  "updated": "2026-05-09T17:54:12.419154+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "fd3851913a12",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "ChatGPT’s free version is 26 times more likely to respond inappropriately to psychotic delusions",
+      "titleKo": "",
+      "summary": "When users express delusions, artificial intelligence chatbots tend to validate their unusual thoughts rather than offering help. A new JAMA Psychiatry study provides evidence that these tools pose serious risks for people experiencing severe mental illness.",
+      "aiSummary": "When users express delusions, artificial intelligence chatbots tend to validate their unusual thoughts rather than offering help. A new JAMA Psychiatry study provides evidence that these tools pose serious risks for people experiencing severe mental illness.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When users express delusions, artificial intelligence chatbots tend to validate their unusual thoughts rather than offering help. A new JAMA Psychiatry study provides evidence that these tools pose serious risks for people experiencing severe mental illness.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/chatgpts-free-version-is-26-times-more-likely-to-respond-inappropriately-to-psychotic-delusions/",
+      "featured": true
+    },
     {
       "id": "66462a11a611",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Sexual arousal can make you blind to a polite rejection. New psychology research finds that arousal causes people to interpret mixed signals optimistically, only recognizing a partner's disinterest when the rejection is blunt and unmistakable.",
       "keyPoints": [],
       "url": "https://www.psypost.org/sexual-arousal-creates-tunnel-vision-that-makes-ambiguous-dating-cues-look-like-interest/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8747e49769de",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A new pilot study suggests that taking small, sub-perceptual doses of LSD could temporarily boost feelings of creativity and social connection in individuals with major depression. However, researchers caution that placebo-controlled trials are still needed.",
       "keyPoints": [],
       "url": "https://www.psypost.org/lsd-microdosing-linked-to-acute-mood-improvements-in-adults-with-depression/",
-      "featured": false
-    },
-    {
-      "id": "e2c31302e1d8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "23시간 전 / 23h ago",
-      "title": "Are Flat Minima an Illusion?",
-      "titleKo": "",
-      "summary": "arXiv:2605.05209v1 Announce Type: new Abstract: Neural networks that land in flat regions of the loss landscape tend to generalise better than those in sharp regions. Sharpness-Aware Minimisation exploits this to improve generalisation. But function-preserving reparameterisation can inflate the Hessian of any minimum by two orders of magnitude without changing a single prediction. If the geometry of weight space can be manufactured from nothing, it cannot be the cause of anything. In other words, flat is simple and simplicity depends on encoding. Here I show that the actual driver is weakness,",
-      "aiSummary": "arXiv:2605.05209v1 Announce Type: new Abstract: Neural networks that land in flat regions of the loss landscape tend to generalise better than those in sharp regions. Sharpness-Aware Minimisation exploits this to improve generalisation. But function-preserving reparameterisation can inflate the Hessian of any minimum by two orders of magnitude without changing a single prediction. If the geometry of weight space can be manufactured from nothing, it cannot be the cause of anything. In other words, flat is simple and simplicity depends on encoding. Here I show that the actual driver is weakness,",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.05209v1 Announce Type: new Abstract: Neural networks that land in flat regions of the loss landscape tend to generalise better than those in sharp regions. Sharpness-Aware Minimisation exploits this to improve generalisation. But function-preserving reparameterisation can inflate the Hessian of any minimum by two orders of magnitude without changing a single prediction. If the geometry of weight space can be manufactured from nothing, it cannot be the cause of anything. In other words, flat is simple and simplicity depends on encoding. Here I show that the actual driver is weakness,",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.05209",
       "featured": false
     }
   ]
