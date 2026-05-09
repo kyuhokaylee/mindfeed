@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-09T19:12:35.151055+00:00",
+  "updated": "2026-05-09T20:53:12.110643+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "fca509133a47",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Emotional dysregulation at age 7 linked to anxiety and depression in teenagers",
+      "titleKo": "",
+      "summary": "Children who struggle to control their emotional outbursts at age seven are significantly more likely to develop anxiety and depression as teenagers, according to a new study.",
+      "aiSummary": "Children who struggle to control their emotional outbursts at age seven are significantly more likely to develop anxiety and depression as teenagers, according to a new study.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Children who struggle to control their emotional outbursts at age seven are significantly more likely to develop anxiety and depression as teenagers, according to a new study.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/emotional-dysregulation-at-age-7-linked-to-anxiety-and-depression-in-teenagers/",
+      "featured": true
+    },
     {
       "id": "53892ba9001c",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study shows that individuals with similar levels of autistic traits are naturally drawn to one another. Brain scans reveal they use alternative, highly effective neural strategies to connect, challenging traditional deficit-based models of autism.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-scans-reveal-how-people-with-autistic-traits-connect-differently/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fd3851913a12",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2605.05386v1 Announce Type: new Abstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information exchange with a user. However, most current systems treat dialogue reactively and lack a principled mechanism to reason about what information is missing and which question should be asked next. We propose BALAR (Bayesian Agentic Loop for Active Reasoning), a task-agnostic outer-loop algorithm that requires no fine-tuning and enables structured multi-turn interaction between an LLM agent and a user. BALAR maintains a str",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.05386",
-      "featured": false
-    },
-    {
-      "id": "5611f6047f39",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Scientists say travel could slow aging and boost your health",
-      "titleKo": "",
-      "summary": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
-      "aiSummary": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
       "featured": false
     }
   ]
