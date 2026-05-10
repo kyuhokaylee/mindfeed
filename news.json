@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-10T21:56:06.345398+00:00",
+  "updated": "2026-05-10T22:56:56.663287+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "dcde17f3a081",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The age you have your first child predicts your long-term educational and financial success",
+      "titleKo": "",
+      "summary": "A PLOS One study links early parenthood to lifelong financial and health challenges that level out by the late twenties. Yet, researchers stress young parents aren't doomed to fail if communities provide essential support instead of stigma.",
+      "aiSummary": "A PLOS One study links early parenthood to lifelong financial and health challenges that level out by the late twenties. Yet, researchers stress young parents aren't doomed to fail if communities provide essential support instead of stigma.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A PLOS One study links early parenthood to lifelong financial and health challenges that level out by the late twenties. Yet, researchers stress young parents aren't doomed to fail if communities provide essential support instead of stigma.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-age-you-have-your-first-child-predicts-your-long-term-educational-and-financial-success/",
+      "featured": true
+    },
     {
       "id": "11838256f3e7",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Struggle to turn off the lights at a reasonable hour? A new study reveals that bedtime procrastination isn't just a lack of willpower; it’s driven by a combination of physical nervous system stress and a tendency to emotionally \"brood.\"",
       "keyPoints": [],
       "url": "https://www.psypost.org/brooding-identified-as-a-major-driver-of-bedtime-procrastination-alongside-physical-markers-of-stress/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c09c04cf8982",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This paper introduces Partial Evidence Bench, a deterministic benchmark for measuring that failure mode. The benchmark ships three scenario families -- due diligence, compliance audit, and security incident re",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.05379",
-      "featured": false
-    },
-    {
-      "id": "9cd1b8a8de49",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Intense crying in East-Asian infants may reflect cultural norms, not insecure attachment, study suggests",
-      "titleKo": "",
-      "summary": "A new study reveals that East-Asian infants cry significantly more than Western infants when separated from their mothers during a classic psychological test. The findings suggest researchers must consider cultural differences before labeling highly distressed babies as \"insecurely attached.\"",
-      "aiSummary": "A new study reveals that East-Asian infants cry significantly more than Western infants when separated from their mothers during a classic psychological test. The findings suggest researchers must consider cultural differences before labeling highly distressed babies as \"insecurely attached.\"",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals that East-Asian infants cry significantly more than Western infants when separated from their mothers during a classic psychological test. The findings suggest researchers must consider cultural differences before labeling highly distressed babies as \"insecurely attached.\"",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/intense-crying-in-east-asian-infants-may-reflect-cultural-norms-not-insecure-attachment-study-suggests/",
       "featured": false
     }
   ]
