@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-10T13:42:07.866012+00:00",
+  "updated": "2026-05-10T14:59:28.942841+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a6cbd2330564",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Keeping strict emotional score with a romantic partner is connected to depressive moods",
+      "titleKo": "",
+      "summary": "Viewing love and emotional support as limited resources can unknowingly sabotage a romantic partnership. A new daily diary study reveals that people who treat empathy like a competitive game give less affection and experience higher rates of daily depression.",
+      "aiSummary": "Viewing love and emotional support as limited resources can unknowingly sabotage a romantic partnership. A new daily diary study reveals that people who treat empathy like a competitive game give less affection and experience higher rates of daily depression.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Viewing love and emotional support as limited resources can unknowingly sabotage a romantic partnership. A new daily diary study reveals that people who treat empathy like a competitive game give less affection and experience higher rates of daily depression.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/why-treating-relationship-empathy-as-a-limited-resource-harms-your-mental-health/",
+      "featured": true
+    },
+    {
+      "id": "8747e49769de",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "6일 전 / 6d ago",
+      "title": "Helping Scientists Take Their Research Global: 7 Lessons",
+      "titleKo": "",
+      "summary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
+      "featured": false
+    },
     {
       "id": "2914dd0d88cd",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A recent paper challenges the popular idea that the body literally stores psychological trauma. Researchers propose that trauma actually disrupts the brain's prediction systems, providing evidence that focused mental states could help restore cognitive flexibility.",
       "keyPoints": [],
       "url": "https://www.psypost.org/scientists-challenge-the-body-keeps-the-score-with-a-new-predictive-model-of-trauma/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "184dfbc819f7",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Children who struggle to control their emotional outbursts at age seven are significantly more likely to develop anxiety and depression as teenagers, according to a new study.",
       "keyPoints": [],
       "url": "https://www.psypost.org/emotional-dysregulation-at-age-7-linked-to-anxiety-and-depression-in-teenagers/",
-      "featured": false
-    },
-    {
-      "id": "53892ba9001c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Brain scans reveal how people with autistic traits connect differently",
-      "titleKo": "",
-      "summary": "A new study shows that individuals with similar levels of autistic traits are naturally drawn to one another. Brain scans reveal they use alternative, highly effective neural strategies to connect, challenging traditional deficit-based models of autism.",
-      "aiSummary": "A new study shows that individuals with similar levels of autistic traits are naturally drawn to one another. Brain scans reveal they use alternative, highly effective neural strategies to connect, challenging traditional deficit-based models of autism.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study shows that individuals with similar levels of autistic traits are naturally drawn to one another. Brain scans reveal they use alternative, highly effective neural strategies to connect, challenging traditional deficit-based models of autism.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/brain-scans-reveal-how-people-with-autistic-traits-connect-differently/",
-      "featured": false
-    },
-    {
-      "id": "fd3851913a12",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "ChatGPT’s free version is 26 times more likely to respond inappropriately to psychotic delusions",
-      "titleKo": "",
-      "summary": "When users express delusions, artificial intelligence chatbots tend to validate their unusual thoughts rather than offering help. A new JAMA Psychiatry study provides evidence that these tools pose serious risks for people experiencing severe mental illness.",
-      "aiSummary": "When users express delusions, artificial intelligence chatbots tend to validate their unusual thoughts rather than offering help. A new JAMA Psychiatry study provides evidence that these tools pose serious risks for people experiencing severe mental illness.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "When users express delusions, artificial intelligence chatbots tend to validate their unusual thoughts rather than offering help. A new JAMA Psychiatry study provides evidence that these tools pose serious risks for people experiencing severe mental illness.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/chatgpts-free-version-is-26-times-more-likely-to-respond-inappropriately-to-psychotic-delusions/",
       "featured": false
     }
   ]
