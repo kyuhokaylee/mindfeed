@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-10T17:55:50.063990+00:00",
+  "updated": "2026-05-10T19:16:14.454918+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c09c04cf8982",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "A half hour of aerobic exercise reduces test anxiety and boosts cognitive focus in students",
+      "titleKo": "",
+      "summary": "A recent experiment shows that a quick jog on a treadmill can lower academic distress and sharpen mental focus. Researchers found that a short bout of aerobic activity physically rebalances the brain's ability to ignore distracting information.",
+      "aiSummary": "A recent experiment shows that a quick jog on a treadmill can lower academic distress and sharpen mental focus. Researchers found that a short bout of aerobic activity physically rebalances the brain's ability to ignore distracting information.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent experiment shows that a quick jog on a treadmill can lower academic distress and sharpen mental focus. Researchers found that a short bout of aerobic activity physically rebalances the brain's ability to ignore distracting information.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-half-hour-of-aerobic-exercise-reduces-test-anxiety-and-boosts-cognitive-focus/",
+      "featured": true
+    },
     {
       "id": "19e9796a51ca",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "How much of your sexual past and preferences should you share with your partner? A new meta-analysis reveals that most people disclose a moderate-to-high amount of sexual information, constantly weighing the benefits of intimacy against the risks of judgment.",
       "keyPoints": [],
       "url": "https://www.psypost.org/study-sheds-light-on-the-factors-that-make-people-talk-about-their-sexual-desires-and-histories/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a6cbd2330564",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2605.05386v1 Announce Type: new Abstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information exchange with a user. However, most current systems treat dialogue reactively and lack a principled mechanism to reason about what information is missing and which question should be asked next. We propose BALAR (Bayesian Agentic Loop for Active Reasoning), a task-agnostic outer-loop algorithm that requires no fine-tuning and enables structured multi-turn interaction between an LLM agent and a user. BALAR maintains a str",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.05386",
-      "featured": false
-    },
-    {
-      "id": "5611f6047f39",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Scientists say travel could slow aging and boost your health",
-      "titleKo": "",
-      "summary": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
-      "aiSummary": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
       "featured": false
     }
   ]
