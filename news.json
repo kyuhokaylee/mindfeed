@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-10T16:03:55.529462+00:00",
+  "updated": "2026-05-10T17:55:50.063990+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "19e9796a51ca",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Study sheds light on the factors that make people talk about their sexual desires and histories",
+      "titleKo": "",
+      "summary": "How much of your sexual past and preferences should you share with your partner? A new meta-analysis reveals that most people disclose a moderate-to-high amount of sexual information, constantly weighing the benefits of intimacy against the risks of judgment.",
+      "aiSummary": "How much of your sexual past and preferences should you share with your partner? A new meta-analysis reveals that most people disclose a moderate-to-high amount of sexual information, constantly weighing the benefits of intimacy against the risks of judgment.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "How much of your sexual past and preferences should you share with your partner? A new meta-analysis reveals that most people disclose a moderate-to-high amount of sexual information, constantly weighing the benefits of intimacy against the risks of judgment.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/study-sheds-light-on-the-factors-that-make-people-talk-about-their-sexual-desires-and-histories/",
+      "featured": true
+    },
     {
       "id": "a6cbd2330564",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Viewing love and emotional support as limited resources can unknowingly sabotage a romantic partnership. A new daily diary study reveals that people who treat empathy like a competitive game give less affection and experience higher rates of daily depression.",
       "keyPoints": [],
       "url": "https://www.psypost.org/why-treating-relationship-empathy-as-a-limited-resource-harms-your-mental-health/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8747e49769de",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
-      "featured": false
-    },
-    {
-      "id": "fca509133a47",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Emotional dysregulation at age 7 linked to anxiety and depression in teenagers",
-      "titleKo": "",
-      "summary": "Children who struggle to control their emotional outbursts at age seven are significantly more likely to develop anxiety and depression as teenagers, according to a new study.",
-      "aiSummary": "Children who struggle to control their emotional outbursts at age seven are significantly more likely to develop anxiety and depression as teenagers, according to a new study.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Children who struggle to control their emotional outbursts at age seven are significantly more likely to develop anxiety and depression as teenagers, according to a new study.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/emotional-dysregulation-at-age-7-linked-to-anxiety-and-depression-in-teenagers/",
       "featured": false
     }
   ]
