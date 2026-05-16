@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-16T19:14:25.589519+00:00",
+  "updated": "2026-05-16T20:57:05.039343+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6eda09f047d4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Updating Wikipedia pages boosts public trust in scientific organizations, study finds",
+      "titleKo": "",
+      "summary": "When an academic thoroughly updated the American Association for Anatomy's Wikipedia page, readers viewed the organization as more credible. A new study suggests experts should actively edit the platform to improve public access to accurate science.",
+      "aiSummary": "When an academic thoroughly updated the American Association for Anatomy's Wikipedia page, readers viewed the organization as more credible. A new study suggests experts should actively edit the platform to improve public access to accurate science.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When an academic thoroughly updated the American Association for Anatomy's Wikipedia page, readers viewed the organization as more credible. A new study suggests experts should actively edit the platform to improve public access to accurate science.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/updating-wikipedia-pages-boosts-public-trust-in-scientific-organizations-study-finds/",
+      "featured": true
+    },
     {
       "id": "21b4aeb6a3aa",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new brain-imaging study tracking teenagers over seven years reveals that an unstable home life hinders the development of cognitive control. This neurological change makes them less likely to take positive, career-building social risks in young adulthood.",
       "keyPoints": [],
       "url": "https://www.psypost.org/unpredictable-childhoods-may-hinder-a-young-adults-ability-to-take-positive-risks/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c082f9107b60",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
-      "featured": false
-    },
-    {
-      "id": "9a61820b81c0",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Artificial intelligence tools answer addiction questions accurately but lack medical nuance",
-      "titleKo": "",
-      "summary": "People increasingly turn to artificial intelligence to answer sensitive behavioral health questions. A recent study evaluating how well a popular chatbot explains addiction found that while the platform provides accurate overviews, it frequently misses necessary medical nuances.",
-      "aiSummary": "People increasingly turn to artificial intelligence to answer sensitive behavioral health questions. A recent study evaluating how well a popular chatbot explains addiction found that while the platform provides accurate overviews, it frequently misses necessary medical nuances.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "People increasingly turn to artificial intelligence to answer sensitive behavioral health questions. A recent study evaluating how well a popular chatbot explains addiction found that while the platform provides accurate overviews, it frequently misses necessary medical nuances.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/artificial-intelligence-tools-answer-addiction-questions-accurately-but-lack-med/",
       "featured": false
     }
   ]
