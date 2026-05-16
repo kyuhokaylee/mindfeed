@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-16T06:26:32.009012+00:00",
+  "updated": "2026-05-16T08:51:29.261540+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8747e49769de",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "12일 전 / 12d ago",
+      "title": "Helping Scientists Take Their Research Global: 7 Lessons",
+      "titleKo": "",
+      "summary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
+      "featured": true
+    },
+    {
+      "id": "968a88e792ad",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "20시간 전 / 20h ago",
+      "title": "Is cannabis safe after 65? Stanford experts reveal 5 risks older adults should know",
+      "titleKo": "",
+      "summary": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the chances of heart problems, falls, memory issues, dangerous drug interactions, and even addiction, especially for people over 65.",
+      "aiSummary": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the chances of heart problems, falls, memory issues, dangerous drug interactions, and even addiction, especially for people over 65.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the chances of heart problems, falls, memory issues, dangerous drug interactions, and even addiction, especially for people over 65.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002201.htm",
+      "featured": false
+    },
+    {
+      "id": "c5e6130328d9",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "21시간 전 / 21h ago",
+      "title": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
+      "titleKo": "",
+      "summary": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven circuit linked directly to tinnitus-like behavior. The findings may explain why some people experience louder ringing in their ears while taking SSRIs.",
+      "aiSummary": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven circuit linked directly to tinnitus-like behavior. The findings may explain why some people experience louder ringing in their ears while taking SSRIs.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven circuit linked directly to tinnitus-like behavior. The findings may explain why some people experience louder ringing in their ears while taking SSRIs.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002155.htm",
+      "featured": false
+    },
     {
       "id": "0a1bf7f364df",
       "tag": "ai",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and deterministically as a directed acyclic graph (DAG). Unlike prompted orchestration, agents in GraphBit operate as typed functions, while a Rust-based engine governs routing, state transitions, and tool invocation, ensuring reproducibility and auditabilit",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.13848",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2114f62a66f0",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Guiding grieving families through arrangement meetings, orchestrating meaningful memorial services within days, and preparing bodies for viewing with Heather Hill, a funeral director in North Carolina. What's different about doing makeup on a dead person? And what is it like to field a death call? [buzzsprout episode='19046716' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-funeral-director/",
-      "featured": false
-    },
-    {
-      "id": "ed146689df3b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "This daily habit could lower dementia risk by 35%, scientists say",
-      "titleKo": "",
-      "summary": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and harmful plaque buildup associated with Alzheimer’s disease. But more coffee wasn’t better — the protective effect appeared to level off after moderate intake.",
-      "aiSummary": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and harmful plaque buildup associated with Alzheimer’s disease. But more coffee wasn’t better — the protective effect appeared to level off after moderate intake.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and harmful plaque buildup associated with Alzheimer’s disease. But more coffee wasn’t better — the protective effect appeared to level off after moderate intake.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202350.htm",
-      "featured": false
-    },
-    {
-      "id": "623ddcf7cd89",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Your “um” and pauses could reveal early dementia risk",
-      "titleKo": "",
-      "summary": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function — the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
-      "aiSummary": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function — the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function — the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
-      "featured": false
-    },
-    {
-      "id": "1114086d1588",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Autistic adults face higher risk of certain types of sexual victimization, study finds",
-      "titleKo": "",
-      "summary": "Adults with undiagnosed autistic traits experience sexual victimization at rates similar to those with formal diagnoses. Researchers suggest that tailored support services should be expanded to protect anyone exhibiting these neurodevelopmental traits.",
-      "aiSummary": "Adults with undiagnosed autistic traits experience sexual victimization at rates similar to those with formal diagnoses. Researchers suggest that tailored support services should be expanded to protect anyone exhibiting these neurodevelopmental traits.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Adults with undiagnosed autistic traits experience sexual victimization at rates similar to those with formal diagnoses. Researchers suggest that tailored support services should be expanded to protect anyone exhibiting these neurodevelopmental traits.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/autistic-adults-face-higher-risk-of-certain-types-of-sexual-victimization-study-finds/",
       "featured": false
     }
   ]
