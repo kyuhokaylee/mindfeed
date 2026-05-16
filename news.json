@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-16T15:02:16.044246+00:00",
+  "updated": "2026-05-16T17:04:57.873984+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c082f9107b60",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Muscle strength linked to lower lifetime depression incidence in large new study",
+      "titleKo": "",
+      "summary": "A meta-analysis of nearly half a million adults reveals that lower handgrip strength is linked to a moderately higher risk of developing depression, suggesting physical strength may act as an early indicator of long-term mental health vulnerability.",
+      "aiSummary": "A meta-analysis of nearly half a million adults reveals that lower handgrip strength is linked to a moderately higher risk of developing depression, suggesting physical strength may act as an early indicator of long-term mental health vulnerability.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A meta-analysis of nearly half a million adults reveals that lower handgrip strength is linked to a moderately higher risk of developing depression, suggesting physical strength may act as an early indicator of long-term mental health vulnerability.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/handgrip-strength-linked-to-future-depression-risk-in-new-health-analysis/",
+      "featured": true
+    },
     {
       "id": "b5ef1af91ab5",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A fascinating new sleep study tracks the anatomy of demonic nightmares. Scientists found that these terrifying dreams often begin as minor threats days in advance before culminating in severe attacks that leave dreamers paralyzed with fear.",
       "keyPoints": [],
       "url": "https://www.psypost.org/demonic-attacks-in-dreams-follow-a-chilling-multi-night-pattern/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9c09183ba41b",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Targeted social media advertisements designed to discourage voting can impact behavior at the ballot box. A new observational study tracked digital messaging during the 2016 election to measure how customized negative advertising affects offline voter participation.",
       "keyPoints": [],
       "url": "https://www.psypost.org/digital-voter-suppression-ads-tied-to-lower-election-turnout/",
-      "featured": false
-    },
-    {
-      "id": "66e233f6f4ad",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "23시간 전 / 23h ago",
-      "title": "Unsupervised learning of acquisition variability in structural connectomes via hybrid latent space modeling",
-      "titleKo": "",
-      "summary": "arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space while explicitly separating acquisition-related effects from biological variation. Conventional dimensionality reduction methods model all variance as continuous, so acquisition effects often get absorbed into a continuous latent space. Recent hybrid latent-space models combine discrete and continuo",
-      "aiSummary": "arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space while explicitly separating acquisition-related effects from biological variation. Conventional dimensionality reduction methods model all variance as continuous, so acquisition effects often get absorbed into a continuous latent space. Recent hybrid latent-space models combine discrete and continuo",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space while explicitly separating acquisition-related effects from biological variation. Conventional dimensionality reduction methods model all variance as continuous, so acquisition effects often get absorbed into a continuous latent space. Recent hybrid latent-space models combine discrete and continuo",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.13933",
       "featured": false
     }
   ]
