@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-16T11:56:05.480597+00:00",
+  "updated": "2026-05-16T13:49:57.166460+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9c09183ba41b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Intelligence makes people more trusting, but early hardship cuts this benefit in half",
+      "titleKo": "",
+      "summary": "Smart people tend to trust others more easily. But if you grew up facing economic or family hardships, your intelligence is far less likely to translate into this highly beneficial social trait.",
+      "aiSummary": "Smart people tend to trust others more easily. But if you grew up facing economic or family hardships, your intelligence is far less likely to translate into this highly beneficial social trait.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Smart people tend to trust others more easily. But if you grew up facing economic or family hardships, your intelligence is far less likely to translate into this highly beneficial social trait.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/intelligence-makes-people-more-trusting-but-early-hardship-cuts-this-benefit-in-half/",
+      "featured": true
+    },
+    {
+      "id": "be767ebeee85",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
+      "titleKo": "",
+      "summary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.",
+      "aiSummary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
+      "featured": false
+    },
+    {
+      "id": "1546416d7853",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "13시간 전 / 13h ago",
+      "title": "Scientists say just 30 minutes of exercise a week could transform your health",
+      "titleKo": "",
+      "summary": "You may not need hours at the gym to boost your health after all. Researchers say just 30 minutes of high-intensity exercise per week — broken into tiny bursts of effort that leave you out of breath — can dramatically improve cardiovascular fitness, lower the risk of dozens of diseases, and even help protect the brain as we age. The key isn’t how long you exercise, but how hard you push yourself.",
+      "aiSummary": "You may not need hours at the gym to boost your health after all. Researchers say just 30 minutes of high-intensity exercise per week — broken into tiny bursts of effort that leave you out of breath — can dramatically improve cardiovascular fitness, lower the risk of dozens of diseases, and even help protect the brain as we age. The key isn’t how long you exercise, but how hard you push yourself.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "You may not need hours at the gym to boost your health after all. Researchers say just 30 minutes of high-intensity exercise per week — broken into tiny bursts of effort that leave you out of breath — can dramatically improve cardiovascular fitness, lower the risk of dozens of diseases, and even help protect the brain as we age. The key isn’t how long you exercise, but how hard you push yourself.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002126.htm",
+      "featured": false
+    },
     {
       "id": "d52f8c8de6ef",
       "tag": "behav",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Guiding grieving families through arrangement meetings, orchestrating meaningful memorial services within days, and preparing bodies for viewing with Heather Hill, a funeral director in North Carolina. What's different about doing makeup on a dead person? And what is it like to field a death call? [buzzsprout episode='19046716' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-funeral-director/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2117032d9ff3",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2605.13884v1 Announce Type: new Abstract: We propose uncommon self-knowledge (USK) as a candidate criterion for consciousness: synergistic information a system carries about itself that exists only in the joint of its subsystems and is destroyed by decomposition. Drawing on Gottwald's partition-lattice grounding of Partial Information Decomposition (PID), where redundancy corresponds to Aumann's common knowledge and synergy to the gap between separate and joint observation, we propose the synergistic component of self-directed information as a candidate formal signature for conscious pro",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.13884",
-      "featured": false
-    },
-    {
-      "id": "df2e6a52a3ba",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "23시간 전 / 23h ago",
-      "title": "Feature Visualization Recovers Known Cortical Selectivity from TRIBE v2",
-      "titleKo": "",
-      "summary": "arXiv:2605.13904v1 Announce Type: new Abstract: Brain encoder models predict cortical fMRI responses from the internal activations of pretrained vision and language networks, and are typically evaluated by held-out prediction accuracy. This is a useful signal for training but a poor one for interpretation: it tells us an encoder fits the data without telling us whether it has internalized the functional organization of the brain. We propose feature visualization -- gradient ascent on the encoder's predicted activation for a target region of interest (ROI) -- as a complementary interpretability",
-      "aiSummary": "arXiv:2605.13904v1 Announce Type: new Abstract: Brain encoder models predict cortical fMRI responses from the internal activations of pretrained vision and language networks, and are typically evaluated by held-out prediction accuracy. This is a useful signal for training but a poor one for interpretation: it tells us an encoder fits the data without telling us whether it has internalized the functional organization of the brain. We propose feature visualization -- gradient ascent on the encoder's predicted activation for a target region of interest (ROI) -- as a complementary interpretability",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.13904v1 Announce Type: new Abstract: Brain encoder models predict cortical fMRI responses from the internal activations of pretrained vision and language networks, and are typically evaluated by held-out prediction accuracy. This is a useful signal for training but a poor one for interpretation: it tells us an encoder fits the data without telling us whether it has internalized the functional organization of the brain. We propose feature visualization -- gradient ascent on the encoder's predicted activation for a target region of interest (ROI) -- as a complementary interpretability",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.13904",
-      "featured": false
-    },
-    {
-      "id": "287f0ff7aec4",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "23시간 전 / 23h ago",
-      "title": "Do Language Models Align with Brains? Prediction Scores Are Not Enough",
-      "titleKo": "",
-      "summary": "arXiv:2605.14025v1 Announce Type: new Abstract: Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores are enough to support that claim, using L-PACT, a source-audited framework that evaluates predictive, relational, mechanism-stripping, and reliability-bounded evidence. Across primary naturalistic language neural datasets and derived language-model representations, L-PACT compared real model features with nuisa",
-      "aiSummary": "arXiv:2605.14025v1 Announce Type: new Abstract: Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores are enough to support that claim, using L-PACT, a source-audited framework that evaluates predictive, relational, mechanism-stripping, and reliability-bounded evidence. Across primary naturalistic language neural datasets and derived language-model representations, L-PACT compared real model features with nuisa",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.14025v1 Announce Type: new Abstract: Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores are enough to support that claim, using L-PACT, a source-audited framework that evaluates predictive, relational, mechanism-stripping, and reliability-bounded evidence. Across primary naturalistic language neural datasets and derived language-model representations, L-PACT compared real model features with nuisa",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.14025",
-      "featured": false
-    },
-    {
-      "id": "985ee0ca6f56",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "23시간 전 / 23h ago",
-      "title": "Approximate Macroscopic Dynamics of Spiking Neural Networks Based on Solutions to the Transport Equation",
-      "titleKo": "",
-      "summary": "arXiv:2605.14319v1 Announce Type: new Abstract: Firing rate fluctuations in neural populations are observed experimentally over multiple time scales, in single neurons, across trials when elicited by stimuli, and across populations. In this work, we examine how firing rate fluctuations emerge in networks of coupled integrate-and-fire neurons as a function of the initial distribution of voltages in networks with time-varying inputs. We analytically derive an approximation for the evolution of the instantaneous population rate or flux as a function of the initial voltage distribution through a F",
-      "aiSummary": "arXiv:2605.14319v1 Announce Type: new Abstract: Firing rate fluctuations in neural populations are observed experimentally over multiple time scales, in single neurons, across trials when elicited by stimuli, and across populations. In this work, we examine how firing rate fluctuations emerge in networks of coupled integrate-and-fire neurons as a function of the initial distribution of voltages in networks with time-varying inputs. We analytically derive an approximation for the evolution of the instantaneous population rate or flux as a function of the initial voltage distribution through a F",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.14319v1 Announce Type: new Abstract: Firing rate fluctuations in neural populations are observed experimentally over multiple time scales, in single neurons, across trials when elicited by stimuli, and across populations. In this work, we examine how firing rate fluctuations emerge in networks of coupled integrate-and-fire neurons as a function of the initial distribution of voltages in networks with time-varying inputs. We analytically derive an approximation for the evolution of the instantaneous population rate or flux as a function of the initial voltage distribution through a F",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.14319",
       "featured": false
     }
   ]
