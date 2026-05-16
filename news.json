@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-16T13:49:57.166460+00:00",
+  "updated": "2026-05-16T15:02:16.044246+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b5ef1af91ab5",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Demonic attacks in dreams follow a chilling multi-night pattern",
+      "titleKo": "",
+      "summary": "A fascinating new sleep study tracks the anatomy of demonic nightmares. Scientists found that these terrifying dreams often begin as minor threats days in advance before culminating in severe attacks that leave dreamers paralyzed with fear.",
+      "aiSummary": "A fascinating new sleep study tracks the anatomy of demonic nightmares. Scientists found that these terrifying dreams often begin as minor threats days in advance before culminating in severe attacks that leave dreamers paralyzed with fear.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A fascinating new sleep study tracks the anatomy of demonic nightmares. Scientists found that these terrifying dreams often begin as minor threats days in advance before culminating in severe attacks that leave dreamers paralyzed with fear.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/demonic-attacks-in-dreams-follow-a-chilling-multi-night-pattern/",
+      "featured": true
+    },
     {
       "id": "9c09183ba41b",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Smart people tend to trust others more easily. But if you grew up facing economic or family hardships, your intelligence is far less likely to translate into this highly beneficial social trait.",
       "keyPoints": [],
       "url": "https://www.psypost.org/intelligence-makes-people-more-trusting-but-early-hardship-cuts-this-benefit-in-half/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "be767ebeee85",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space while explicitly separating acquisition-related effects from biological variation. Conventional dimensionality reduction methods model all variance as continuous, so acquisition effects often get absorbed into a continuous latent space. Recent hybrid latent-space models combine discrete and continuo",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.13933",
-      "featured": false
-    },
-    {
-      "id": "fe45cf0e067e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "23시간 전 / 23h ago",
-      "title": "Consciousness as Uncommon Self-Knowledge: A Synergistic Information Framework",
-      "titleKo": "",
-      "summary": "arXiv:2605.13884v1 Announce Type: new Abstract: We propose uncommon self-knowledge (USK) as a candidate criterion for consciousness: synergistic information a system carries about itself that exists only in the joint of its subsystems and is destroyed by decomposition. Drawing on Gottwald's partition-lattice grounding of Partial Information Decomposition (PID), where redundancy corresponds to Aumann's common knowledge and synergy to the gap between separate and joint observation, we propose the synergistic component of self-directed information as a candidate formal signature for conscious pro",
-      "aiSummary": "arXiv:2605.13884v1 Announce Type: new Abstract: We propose uncommon self-knowledge (USK) as a candidate criterion for consciousness: synergistic information a system carries about itself that exists only in the joint of its subsystems and is destroyed by decomposition. Drawing on Gottwald's partition-lattice grounding of Partial Information Decomposition (PID), where redundancy corresponds to Aumann's common knowledge and synergy to the gap between separate and joint observation, we propose the synergistic component of self-directed information as a candidate formal signature for conscious pro",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.13884v1 Announce Type: new Abstract: We propose uncommon self-knowledge (USK) as a candidate criterion for consciousness: synergistic information a system carries about itself that exists only in the joint of its subsystems and is destroyed by decomposition. Drawing on Gottwald's partition-lattice grounding of Partial Information Decomposition (PID), where redundancy corresponds to Aumann's common knowledge and synergy to the gap between separate and joint observation, we propose the synergistic component of self-directed information as a candidate formal signature for conscious pro",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.13884",
       "featured": false
     }
   ]
