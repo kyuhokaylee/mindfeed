@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-16T21:57:07.305964+00:00",
+  "updated": "2026-05-16T22:57:35.367182+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "02edb1b4cd44",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "How personality traits and attachment styles shape women’s reactions to infidelity",
+      "titleKo": "",
+      "summary": "A recent psychological study explores how personality traits, attachment styles, and past experiences shape a woman's reaction to infidelity. The results highlight personal characteristics that might predict whether someone chooses to forgive a cheating partner.",
+      "aiSummary": "A recent psychological study explores how personality traits, attachment styles, and past experiences shape a woman's reaction to infidelity. The results highlight personal characteristics that might predict whether someone chooses to forgive a cheating partner.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent psychological study explores how personality traits, attachment styles, and past experiences shape a woman's reaction to infidelity. The results highlight personal characteristics that might predict whether someone chooses to forgive a cheating partner.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-personality-traits-and-attachment-styles-shape-women-s-reactions-to-infideli/",
+      "featured": true
+    },
     {
       "id": "6eda09f047d4",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "When an academic thoroughly updated the American Association for Anatomy's Wikipedia page, readers viewed the organization as more credible. A new study suggests experts should actively edit the platform to improve public access to accurate science.",
       "keyPoints": [],
       "url": "https://www.psypost.org/updating-wikipedia-pages-boosts-public-trust-in-scientific-organizations-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "21b4aeb6a3aa",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "There is a popular belief that technological innovation will solve climate change without fundamental shifts in society and politics. For example, the World Economic Forum claims “we must invent our way out of climate change.” Solving climate change, the thinking goes, means investing in innovation. Technocratic policies, such as the carbon tax, also assume a direct path between problem and solution. The idea of a carbon tax assumes that if emissions are priced correctly, firms and consumers will automatically reduce carbon use and invest in cleaner alternatives. The “solution” lies in enginee",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/climate-change-is-getting-worse-why-dont-we-see-more-action/",
-      "featured": false
-    },
-    {
-      "id": "58bfaa6cff9f",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "26일 전 / 26d ago",
-      "title": "The Hard Truths Behavioral Science Must Face in Conflict Settings",
-      "titleKo": "",
-      "summary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
-      "aiSummary": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Approximately 2 billion people live in conflict-affected areas. Yet the field of behavioral science has developed most of its theories, run most of its experiments, and built most of its interventions in stable contexts. When behavioral scientists do work in conflict settings, we tend to follow a familiar pattern: take what worked elsewhere, “localize” it, and evaluate it. But this isn’t enough. This is an urgent problem. Conflict is reshaping lives globally at an unprecedented scale. In 2024, 123 million people were forcibly displaced —the highest number on record. Civilian casualties in Gaza",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/the-hard-truths-behavioral-science-must-face-in-conflict-settings/",
       "featured": false
     }
   ]
