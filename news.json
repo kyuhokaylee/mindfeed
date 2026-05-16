@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-16T17:04:57.873984+00:00",
+  "updated": "2026-05-16T19:14:25.589519+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "21b4aeb6a3aa",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Unpredictable childhoods may hinder a young adult’s ability to take positive risks",
+      "titleKo": "",
+      "summary": "A new brain-imaging study tracking teenagers over seven years reveals that an unstable home life hinders the development of cognitive control. This neurological change makes them less likely to take positive, career-building social risks in young adulthood.",
+      "aiSummary": "A new brain-imaging study tracking teenagers over seven years reveals that an unstable home life hinders the development of cognitive control. This neurological change makes them less likely to take positive, career-building social risks in young adulthood.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new brain-imaging study tracking teenagers over seven years reveals that an unstable home life hinders the development of cognitive control. This neurological change makes them less likely to take positive, career-building social risks in young adulthood.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/unpredictable-childhoods-may-hinder-a-young-adults-ability-to-take-positive-risks/",
+      "featured": true
+    },
     {
       "id": "c082f9107b60",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A meta-analysis of nearly half a million adults reveals that lower handgrip strength is linked to a moderately higher risk of developing depression, suggesting physical strength may act as an early indicator of long-term mental health vulnerability.",
       "keyPoints": [],
       "url": "https://www.psypost.org/handgrip-strength-linked-to-future-depression-risk-in-new-health-analysis/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b5ef1af91ab5",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "People increasingly turn to artificial intelligence to answer sensitive behavioral health questions. A recent study evaluating how well a popular chatbot explains addiction found that while the platform provides accurate overviews, it frequently misses necessary medical nuances.",
       "keyPoints": [],
       "url": "https://www.psypost.org/artificial-intelligence-tools-answer-addiction-questions-accurately-but-lack-med/",
-      "featured": false
-    },
-    {
-      "id": "7c0b337e3239",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Digital voter suppression ads tied to lower election turnout among specific demographic groups",
-      "titleKo": "",
-      "summary": "Targeted social media advertisements designed to discourage voting can impact behavior at the ballot box. A new observational study tracked digital messaging during the 2016 election to measure how customized negative advertising affects offline voter participation.",
-      "aiSummary": "Targeted social media advertisements designed to discourage voting can impact behavior at the ballot box. A new observational study tracked digital messaging during the 2016 election to measure how customized negative advertising affects offline voter participation.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Targeted social media advertisements designed to discourage voting can impact behavior at the ballot box. A new observational study tracked digital messaging during the 2016 election to measure how customized negative advertising affects offline voter participation.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/digital-voter-suppression-ads-tied-to-lower-election-turnout/",
       "featured": false
     }
   ]
