@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-17T19:17:48.304435+00:00",
+  "updated": "2026-05-17T21:01:03.808431+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c4d1fca119c0",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Anatomical brain mapping separates structural deviations of violent psychosis from non-violent schizophrenia",
+      "titleKo": "",
+      "summary": "A recent study mapped individual brain structures against massive growth charts to explore the anatomy of schizophrenia and violence. The findings reveal a highly diverse range of physical brain abnormalities that group averages have long obscured.",
+      "aiSummary": "A recent study mapped individual brain structures against massive growth charts to explore the anatomy of schizophrenia and violence. The findings reveal a highly diverse range of physical brain abnormalities that group averages have long obscured.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study mapped individual brain structures against massive growth charts to explore the anatomy of schizophrenia and violence. The findings reveal a highly diverse range of physical brain abnormalities that group averages have long obscured.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/mapping-the-varied-brain-structures-linked-to-schizophrenia-and-severe-violence/",
+      "featured": true
+    },
+    {
+      "id": "be767ebeee85",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
+      "titleKo": "",
+      "summary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.",
+      "aiSummary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
+      "featured": false
+    },
     {
       "id": "6c0ee6dcc407",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A study of over 500,000 Americans suggests that substances like PCP and cannabis consistently predict higher arrest rates. Conversely, psilocybin is associated with lower odds of offending, though these protective effects vary by race and age.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-study-reveals-distinct-differences-in-how-different-drugs-relate-to-criminal-behavior/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d52f8c8de6ef",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A meta-analysis of nearly half a million adults reveals that lower handgrip strength is linked to a moderately higher risk of developing depression, suggesting physical strength may act as an early indicator of long-term mental health vulnerability.",
       "keyPoints": [],
       "url": "https://www.psypost.org/handgrip-strength-linked-to-future-depression-risk-in-new-health-analysis/",
-      "featured": false
-    },
-    {
-      "id": "b5ef1af91ab5",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Demonic attacks in dreams follow a chilling multi-night pattern",
-      "titleKo": "",
-      "summary": "A fascinating new sleep study tracks the anatomy of demonic nightmares. Scientists found that these terrifying dreams often begin as minor threats days in advance before culminating in severe attacks that leave dreamers paralyzed with fear.",
-      "aiSummary": "A fascinating new sleep study tracks the anatomy of demonic nightmares. Scientists found that these terrifying dreams often begin as minor threats days in advance before culminating in severe attacks that leave dreamers paralyzed with fear.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A fascinating new sleep study tracks the anatomy of demonic nightmares. Scientists found that these terrifying dreams often begin as minor threats days in advance before culminating in severe attacks that leave dreamers paralyzed with fear.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/demonic-attacks-in-dreams-follow-a-chilling-multi-night-pattern/",
-      "featured": false
-    },
-    {
-      "id": "9c09183ba41b",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Intelligence makes people more trusting, but early hardship cuts this benefit in half",
-      "titleKo": "",
-      "summary": "Smart people tend to trust others more easily. But if you grew up facing economic or family hardships, your intelligence is far less likely to translate into this highly beneficial social trait.",
-      "aiSummary": "Smart people tend to trust others more easily. But if you grew up facing economic or family hardships, your intelligence is far less likely to translate into this highly beneficial social trait.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Smart people tend to trust others more easily. But if you grew up facing economic or family hardships, your intelligence is far less likely to translate into this highly beneficial social trait.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/intelligence-makes-people-more-trusting-but-early-hardship-cuts-this-benefit-in-half/",
       "featured": false
     }
   ]
