@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-17T04:55:31.880279+00:00",
+  "updated": "2026-05-17T07:36:31.701747+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4879645b469b",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "18시간 전 / 18h ago",
+      "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
+      "titleKo": "",
+      "summary": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of dementia. The discovery hints that energy failure inside neurons could happen before brain cells die, potentially offering a new target for future Alzheimer’s treatments.",
+      "aiSummary": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of dementia. The discovery hints that energy failure inside neurons could happen before brain cells die, potentially offering a new target for future Alzheimer’s treatments.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of dementia. The discovery hints that energy failure inside neurons could happen before brain cells die, potentially offering a new target for future Alzheimer’s treatments.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
+      "featured": true
+    },
+    {
+      "id": "1f7181117a02",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "17시간 전 / 17h ago",
+      "title": "The real reason exercise makes you stronger isn’t what you think",
+      "titleKo": "",
+      "summary": "Exercise may be training your brain just as much as your body. Researchers discovered that certain brain cells stay highly active even after a workout ends, and those lingering signals appear to help the body build endurance over time. In experiments with mice, blocking these brain cells prevented improvements in stamina, even when the animals still exercised normally.",
+      "aiSummary": "Exercise may be training your brain just as much as your body. Researchers discovered that certain brain cells stay highly active even after a workout ends, and those lingering signals appear to help the body build endurance over time. In experiments with mice, blocking these brain cells prevented improvements in stamina, even when the animals still exercised normally.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Exercise may be training your brain just as much as your body. Researchers discovered that certain brain cells stay highly active even after a workout ends, and those lingering signals appear to help the body build endurance over time. In experiments with mice, blocking these brain cells prevented improvements in stamina, even when the animals still exercised normally.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515233346.htm",
+      "featured": false
+    },
     {
       "id": "538858557864",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Researchers analyzing 40 years of presidential elections found that affluent, highly educated white voters have steadily moved toward the Democratic Party, challenging the popular belief that working-class voters are solely responsible for modern political realignment.",
       "keyPoints": [],
       "url": "https://www.psypost.org/four-decades-of-data-show-high-status-voters-not-the-working-class-are-reshaping-american-politics/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "765487a1aa33",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the chances of heart problems, falls, memory issues, dangerous drug interactions, and even addiction, especially for people over 65.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002201.htm",
-      "featured": false
-    },
-    {
-      "id": "c5e6130328d9",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "21시간 전 / 21h ago",
-      "title": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
-      "titleKo": "",
-      "summary": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven circuit linked directly to tinnitus-like behavior. The findings may explain why some people experience louder ringing in their ears while taking SSRIs.",
-      "aiSummary": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven circuit linked directly to tinnitus-like behavior. The findings may explain why some people experience louder ringing in their ears while taking SSRIs.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven circuit linked directly to tinnitus-like behavior. The findings may explain why some people experience louder ringing in their ears while taking SSRIs.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002155.htm",
-      "featured": false
-    },
-    {
-      "id": "0a1bf7f364df",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-      "titleKo": "",
-      "summary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and deterministically as a directed acyclic graph (DAG). Unlike prompted orchestration, agents in GraphBit operate as typed functions, while a Rust-based engine governs routing, state transitions, and tool invocation, ensuring reproducibility and auditabilit",
-      "aiSummary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and deterministically as a directed acyclic graph (DAG). Unlike prompted orchestration, agents in GraphBit operate as typed functions, while a Rust-based engine governs routing, state transitions, and tool invocation, ensuring reproducibility and auditabilit",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and deterministically as a directed acyclic graph (DAG). Unlike prompted orchestration, agents in GraphBit operate as typed functions, while a Rust-based engine governs routing, state transitions, and tool invocation, ensuring reproducibility and auditabilit",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.13848",
       "featured": false
     }
   ]
