@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-17T15:02:30.309330+00:00",
+  "updated": "2026-05-17T17:04:36.993908+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "15a5bb6a1944",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "This common reaction to feeling threatened can trap you in a jealousy loop",
+      "titleKo": "",
+      "summary": "Feeling jealous can prompt romantic partners to prioritize defending their relationship over routinely nurturing it. Over time, this defensive focus creates a self-reinforcing loop that can increase jealousy and quietly erode long-term relationship satisfaction.",
+      "aiSummary": "Feeling jealous can prompt romantic partners to prioritize defending their relationship over routinely nurturing it. Over time, this defensive focus creates a self-reinforcing loop that can increase jealousy and quietly erode long-term relationship satisfaction.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Feeling jealous can prompt romantic partners to prioritize defending their relationship over routinely nurturing it. Over time, this defensive focus creates a self-reinforcing loop that can increase jealousy and quietly erode long-term relationship satisfaction.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-jealousy-shapes-our-goals-and-subtly-reshapes-our-romantic-relationships/",
+      "featured": true
+    },
     {
       "id": "570760b29a8f",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study reveals that regularly writing down partner-focused sexual fantasies can significantly boost sexual desire. The brief cognitive exercise also helps reduce sexual distress and performance anxiety by shifting attention toward rewarding erotic imagery.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-simple-at-home-sexual-fantasy-exercise-increases-pleasure-and-reduces-distress/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8747e49769de",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "You may not need hours at the gym to boost your health after all. Researchers say just 30 minutes of high-intensity exercise per week — broken into tiny bursts of effort that leave you out of breath — can dramatically improve cardiovascular fitness, lower the risk of dozens of diseases, and even help protect the brain as we age. The key isn’t how long you exercise, but how hard you push yourself.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002126.htm",
-      "featured": false
-    },
-    {
-      "id": "d52f8c8de6ef",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "What It’s Like to Be…a Funeral Director",
-      "titleKo": "",
-      "summary": "Guiding grieving families through arrangement meetings, orchestrating meaningful memorial services within days, and preparing bodies for viewing with Heather Hill, a funeral director in North Carolina. What's different about doing makeup on a dead person? And what is it like to field a death call? [buzzsprout episode='19046716' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "aiSummary": "Guiding grieving families through arrangement meetings, orchestrating meaningful memorial services within days, and preparing bodies for viewing with Heather Hill, a funeral director in North Carolina. What's different about doing makeup on a dead person? And what is it like to field a death call? [buzzsprout episode='19046716' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Guiding grieving families through arrangement meetings, orchestrating meaningful memorial services within days, and preparing bodies for viewing with Heather Hill, a funeral director in North Carolina. What's different about doing makeup on a dead person? And what is it like to field a death call? [buzzsprout episode='19046716' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-funeral-director/",
       "featured": false
     }
   ]
