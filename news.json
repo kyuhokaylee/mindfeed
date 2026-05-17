@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-17T13:45:16.637905+00:00",
+  "updated": "2026-05-17T15:02:30.309330+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "570760b29a8f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "A simple at-home sexual fantasy exercise increases pleasure and reduces distress",
+      "titleKo": "",
+      "summary": "A new study reveals that regularly writing down partner-focused sexual fantasies can significantly boost sexual desire. The brief cognitive exercise also helps reduce sexual distress and performance anxiety by shifting attention toward rewarding erotic imagery.",
+      "aiSummary": "A new study reveals that regularly writing down partner-focused sexual fantasies can significantly boost sexual desire. The brief cognitive exercise also helps reduce sexual distress and performance anxiety by shifting attention toward rewarding erotic imagery.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that regularly writing down partner-focused sexual fantasies can significantly boost sexual desire. The brief cognitive exercise also helps reduce sexual distress and performance anxiety by shifting attention toward rewarding erotic imagery.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-simple-at-home-sexual-fantasy-exercise-increases-pleasure-and-reduces-distress/",
+      "featured": true
+    },
+    {
+      "id": "8747e49769de",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "13일 전 / 13d ago",
+      "title": "Helping Scientists Take Their Research Global: 7 Lessons",
+      "titleKo": "",
+      "summary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
+      "featured": false
+    },
     {
       "id": "885633da66e8",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Want to slow down the aging process? A new 25-year study suggests you should pick up a trowel. Researchers discovered that older adults who garden frequently experience a slower rate of cellular aging and walk faster in their 90s.",
       "keyPoints": [],
       "url": "https://www.psypost.org/engaging-in-gardening-is-associated-with-better-well-being-in-older-adulthood/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "65a9ce19b9ad",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Guiding grieving families through arrangement meetings, orchestrating meaningful memorial services within days, and preparing bodies for viewing with Heather Hill, a funeral director in North Carolina. What's different about doing makeup on a dead person? And what is it like to field a death call? [buzzsprout episode='19046716' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-funeral-director/",
-      "featured": false
-    },
-    {
-      "id": "2117032d9ff3",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Mind wandering enhances the brain’s ability to learn hidden patterns, new study suggests",
-      "titleKo": "",
-      "summary": "Daydreaming is often viewed as a failure of attention, but new research suggests it serves a hidden purpose. Scientists have discovered that the temporary drop in self-control during mind wandering actually boosts the brain’s ability to unconsciously learn complex environmental patterns.",
-      "aiSummary": "Daydreaming is often viewed as a failure of attention, but new research suggests it serves a hidden purpose. Scientists have discovered that the temporary drop in self-control during mind wandering actually boosts the brain’s ability to unconsciously learn complex environmental patterns.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Daydreaming is often viewed as a failure of attention, but new research suggests it serves a hidden purpose. Scientists have discovered that the temporary drop in self-control during mind wandering actually boosts the brain’s ability to unconsciously learn complex environmental patterns.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/mind-wandering-enhances-the-brains-ability-to-learn-hidden-patterns-new-study-suggests/",
-      "featured": false
-    },
-    {
-      "id": "ed146689df3b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "This daily habit could lower dementia risk by 35%, scientists say",
-      "titleKo": "",
-      "summary": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and harmful plaque buildup associated with Alzheimer’s disease. But more coffee wasn’t better — the protective effect appeared to level off after moderate intake.",
-      "aiSummary": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and harmful plaque buildup associated with Alzheimer’s disease. But more coffee wasn’t better — the protective effect appeared to level off after moderate intake.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and harmful plaque buildup associated with Alzheimer’s disease. But more coffee wasn’t better — the protective effect appeared to level off after moderate intake.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202350.htm",
       "featured": false
     }
   ]
