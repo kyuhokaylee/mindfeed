@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-17T11:14:43.257350+00:00",
+  "updated": "2026-05-17T13:45:16.637905+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "885633da66e8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Engaging in gardening is associated with better well-being in older adulthood",
+      "titleKo": "",
+      "summary": "Want to slow down the aging process? A new 25-year study suggests you should pick up a trowel. Researchers discovered that older adults who garden frequently experience a slower rate of cellular aging and walk faster in their 90s.",
+      "aiSummary": "Want to slow down the aging process? A new 25-year study suggests you should pick up a trowel. Researchers discovered that older adults who garden frequently experience a slower rate of cellular aging and walk faster in their 90s.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Want to slow down the aging process? A new 25-year study suggests you should pick up a trowel. Researchers discovered that older adults who garden frequently experience a slower rate of cellular aging and walk faster in their 90s.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/engaging-in-gardening-is-associated-with-better-well-being-in-older-adulthood/",
+      "featured": true
+    },
+    {
+      "id": "65a9ce19b9ad",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists reveal how seven days of fasting transforms the human body",
+      "titleKo": "",
+      "summary": "Scientists have discovered that the human body undergoes a dramatic internal transformation during extended fasting, with major changes appearing only after about three days without food. In a seven-day water-only fasting study, researchers tracked thousands of proteins in the blood and found widespread shifts affecting organs throughout the body — including the brain. While the body quickly switches from burning glucose to fat, the most intriguing biological changes linked to potential health benefits didn’t emerge until later in the fast.",
+      "aiSummary": "Scientists have discovered that the human body undergoes a dramatic internal transformation during extended fasting, with major changes appearing only after about three days without food. In a seven-day water-only fasting study, researchers tracked thousands of proteins in the blood and found widespread shifts affecting organs throughout the body — including the brain. While the body quickly switches from burning glucose to fat, the most intriguing biological changes linked to potential health benefits didn’t emerge until later in the fast.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have discovered that the human body undergoes a dramatic internal transformation during extended fasting, with major changes appearing only after about three days without food. In a seven-day water-only fasting study, researchers tracked thousands of proteins in the blood and found widespread shifts affecting organs throughout the body — including the brain. While the body quickly switches from burning glucose to fat, the most intriguing biological changes linked to potential health benefits didn’t emerge until later in the fast.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260517030404.htm",
+      "featured": false
+    },
     {
       "id": "19ba97bcb3b1",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Finishing a beloved video game can leave players with a profound sense of loss. A new study shows that \"post-game depression\" is a measurable phenomenon linked to broader depressive symptoms and difficulties in processing everyday emotions.",
       "keyPoints": [],
       "url": "https://www.psypost.org/feeling-empty-after-finishing-a-video-game-researchers-say-post-game-depression-is-a-real-phenomenon/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4879645b469b",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and harmful plaque buildup associated with Alzheimer’s disease. But more coffee wasn’t better — the protective effect appeared to level off after moderate intake.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202350.htm",
-      "featured": false
-    },
-    {
-      "id": "623ddcf7cd89",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Your “um” and pauses could reveal early dementia risk",
-      "titleKo": "",
-      "summary": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function — the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
-      "aiSummary": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function — the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function — the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
-      "featured": false
-    },
-    {
-      "id": "8747e49769de",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "Helping Scientists Take Their Research Global: 7 Lessons",
-      "titleKo": "",
-      "summary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
-      "aiSummary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
       "featured": false
     }
   ]
