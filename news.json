@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-17T09:52:38.901404+00:00",
+  "updated": "2026-05-17T11:14:43.257350+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "19ba97bcb3b1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Feeling empty after finishing a video game? Researchers say post-game depression is a real phenomenon",
+      "titleKo": "",
+      "summary": "Finishing a beloved video game can leave players with a profound sense of loss. A new study shows that \"post-game depression\" is a measurable phenomenon linked to broader depressive symptoms and difficulties in processing everyday emotions.",
+      "aiSummary": "Finishing a beloved video game can leave players with a profound sense of loss. A new study shows that \"post-game depression\" is a measurable phenomenon linked to broader depressive symptoms and difficulties in processing everyday emotions.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Finishing a beloved video game can leave players with a profound sense of loss. A new study shows that \"post-game depression\" is a measurable phenomenon linked to broader depressive symptoms and difficulties in processing everyday emotions.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/feeling-empty-after-finishing-a-video-game-researchers-say-post-game-depression-is-a-real-phenomenon/",
+      "featured": true
+    },
     {
       "id": "4879645b469b",
       "tag": "neuro",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of dementia. The discovery hints that energy failure inside neurons could happen before brain cells die, potentially offering a new target for future Alzheimer’s treatments.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1f7181117a02",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
-      "featured": false
-    },
-    {
-      "id": "968a88e792ad",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "20시간 전 / 20h ago",
-      "title": "Is cannabis safe after 65? Stanford experts reveal 5 risks older adults should know",
-      "titleKo": "",
-      "summary": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the chances of heart problems, falls, memory issues, dangerous drug interactions, and even addiction, especially for people over 65.",
-      "aiSummary": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the chances of heart problems, falls, memory issues, dangerous drug interactions, and even addiction, especially for people over 65.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the chances of heart problems, falls, memory issues, dangerous drug interactions, and even addiction, especially for people over 65.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002201.htm",
       "featured": false
     }
   ]
