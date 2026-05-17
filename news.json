@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-17T21:01:03.808431+00:00",
+  "updated": "2026-05-17T22:57:42.713666+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6fbfb312efe7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "How racial resentment relates to political conservatism across different White religious groups",
+      "titleKo": "",
+      "summary": "A recent study published in the Journal for the Scientific Study of Religion suggests that racial resentment strongly predicts conservative political beliefs among White Americans who are not religiously conservative.",
+      "aiSummary": "A recent study published in the Journal for the Scientific Study of Religion suggests that racial resentment strongly predicts conservative political beliefs among White Americans who are not religiously conservative.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study published in the Journal for the Scientific Study of Religion suggests that racial resentment strongly predicts conservative political beliefs among White Americans who are not religiously conservative.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-racial-resentment-relates-to-political-conservatism-across-different-white-religious-groups/",
+      "featured": true
+    },
     {
       "id": "c4d1fca119c0",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent study mapped individual brain structures against massive growth charts to explore the anatomy of schizophrenia and violence. The findings reveal a highly diverse range of physical brain abnormalities that group averages have long obscured.",
       "keyPoints": [],
       "url": "https://www.psypost.org/mapping-the-varied-brain-structures-linked-to-schizophrenia-and-severe-violence/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "be767ebeee85",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A new brain-imaging study tracking teenagers over seven years reveals that an unstable home life hinders the development of cognitive control. This neurological change makes them less likely to take positive, career-building social risks in young adulthood.",
       "keyPoints": [],
       "url": "https://www.psypost.org/unpredictable-childhoods-may-hinder-a-young-adults-ability-to-take-positive-risks/",
-      "featured": false
-    },
-    {
-      "id": "c082f9107b60",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Muscle strength linked to lower lifetime depression incidence in large new study",
-      "titleKo": "",
-      "summary": "A meta-analysis of nearly half a million adults reveals that lower handgrip strength is linked to a moderately higher risk of developing depression, suggesting physical strength may act as an early indicator of long-term mental health vulnerability.",
-      "aiSummary": "A meta-analysis of nearly half a million adults reveals that lower handgrip strength is linked to a moderately higher risk of developing depression, suggesting physical strength may act as an early indicator of long-term mental health vulnerability.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A meta-analysis of nearly half a million adults reveals that lower handgrip strength is linked to a moderately higher risk of developing depression, suggesting physical strength may act as an early indicator of long-term mental health vulnerability.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/handgrip-strength-linked-to-future-depression-risk-in-new-health-analysis/",
       "featured": false
     }
   ]
