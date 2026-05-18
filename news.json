@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-17T22:57:42.713666+00:00",
+  "updated": "2026-05-18T00:04:15.388226+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "42abc2ce742e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Poor sleep and endless video scrolling form a predictable behavioral loop",
+      "titleKo": "",
+      "summary": "Endless short videos can ruin your sleep, but exhaustion might also drive you to keep scrolling. A new study reveals how daytime tiredness acts as a gateway symptom, trapping users in a powerful cycle of media consumption.",
+      "aiSummary": "Endless short videos can ruin your sleep, but exhaustion might also drive you to keep scrolling. A new study reveals how daytime tiredness acts as a gateway symptom, trapping users in a powerful cycle of media consumption.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Endless short videos can ruin your sleep, but exhaustion might also drive you to keep scrolling. A new study reveals how daytime tiredness acts as a gateway symptom, trapping users in a powerful cycle of media consumption.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-daylight-exhaustion-secretly-fuels-endless-nighttime-scrolling/",
+      "featured": true
+    },
+    {
+      "id": "28c001be16b7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists find cognitive differences between recreational gamers and those at risk of addiction",
+      "titleKo": "",
+      "summary": "A new psychological study reveals that cognitive difficulties are linked to behavioral addiction, not the mere act of playing video games. While individuals at risk of gaming disorder struggle with working memory, recreational gamers actually display enhanced attention.",
+      "aiSummary": "A new psychological study reveals that cognitive difficulties are linked to behavioral addiction, not the mere act of playing video games. While individuals at risk of gaming disorder struggle with working memory, recreational gamers actually display enhanced attention.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new psychological study reveals that cognitive difficulties are linked to behavioral addiction, not the mere act of playing video games. While individuals at risk of gaming disorder struggle with working memory, recreational gamers actually display enhanced attention.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-video-gaming-habits-shape-our-cognitive-profiles/",
+      "featured": false
+    },
     {
       "id": "6fbfb312efe7",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A recent study published in the Journal for the Scientific Study of Religion suggests that racial resentment strongly predicts conservative political beliefs among White Americans who are not religiously conservative.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-racial-resentment-relates-to-political-conservatism-across-different-white-religious-groups/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c4d1fca119c0",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A recent psychological study explores how personality traits, attachment styles, and past experiences shape a woman's reaction to infidelity. The results highlight personal characteristics that might predict whether someone chooses to forgive a cheating partner.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-personality-traits-and-attachment-styles-shape-women-s-reactions-to-infideli/",
-      "featured": false
-    },
-    {
-      "id": "6eda09f047d4",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Updating Wikipedia pages boosts public trust in scientific organizations, study finds",
-      "titleKo": "",
-      "summary": "When an academic thoroughly updated the American Association for Anatomy's Wikipedia page, readers viewed the organization as more credible. A new study suggests experts should actively edit the platform to improve public access to accurate science.",
-      "aiSummary": "When an academic thoroughly updated the American Association for Anatomy's Wikipedia page, readers viewed the organization as more credible. A new study suggests experts should actively edit the platform to improve public access to accurate science.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "When an academic thoroughly updated the American Association for Anatomy's Wikipedia page, readers viewed the organization as more credible. A new study suggests experts should actively edit the platform to improve public access to accurate science.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/updating-wikipedia-pages-boosts-public-trust-in-scientific-organizations-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "21b4aeb6a3aa",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Unpredictable childhoods may hinder a young adult’s ability to take positive risks",
-      "titleKo": "",
-      "summary": "A new brain-imaging study tracking teenagers over seven years reveals that an unstable home life hinders the development of cognitive control. This neurological change makes them less likely to take positive, career-building social risks in young adulthood.",
-      "aiSummary": "A new brain-imaging study tracking teenagers over seven years reveals that an unstable home life hinders the development of cognitive control. This neurological change makes them less likely to take positive, career-building social risks in young adulthood.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new brain-imaging study tracking teenagers over seven years reveals that an unstable home life hinders the development of cognitive control. This neurological change makes them less likely to take positive, career-building social risks in young adulthood.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/unpredictable-childhoods-may-hinder-a-young-adults-ability-to-take-positive-risks/",
       "featured": false
     }
   ]
