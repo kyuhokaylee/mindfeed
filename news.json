@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-20T18:24:10.433206+00:00",
+  "updated": "2026-05-20T21:01:48.187866+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "286a2f8fb8ca",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Fear of missing out is linked to hypersensitive brain reactions to digital likes",
+      "titleKo": "",
+      "summary": "People who obsess over missing out on social events show hypersensitive brain activity when receiving digital approval, revealing a biological clue behind problematic phone checking and social media habits.",
+      "aiSummary": "People who obsess over missing out on social events show hypersensitive brain activity when receiving digital approval, revealing a biological clue behind problematic phone checking and social media habits.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People who obsess over missing out on social events show hypersensitive brain activity when receiving digital approval, revealing a biological clue behind problematic phone checking and social media habits.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/fear-of-missing-out-is-linked-to-hypersensitive-brain-reactions-to-digital-likes/",
+      "featured": true
+    },
+    {
+      "id": "8d2473778f80",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Scientists think they’ve cracked the mystery of human right-handedness",
+      "titleKo": "",
+      "summary": "A new study suggests humans became overwhelmingly right-handed because of two major evolutionary shifts: walking on two legs and developing much larger brains. Researchers found that as human ancestors evolved, their right-hand preference steadily intensified — transforming a mild tendency into one of humanity’s most distinctive traits.",
+      "aiSummary": "A new study suggests humans became overwhelmingly right-handed because of two major evolutionary shifts: walking on two legs and developing much larger brains. Researchers found that as human ancestors evolved, their right-hand preference steadily intensified — transforming a mild tendency into one of humanity’s most distinctive traits.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests humans became overwhelmingly right-handed because of two major evolutionary shifts: walking on two legs and developing much larger brains. Researchers found that as human ancestors evolved, their right-hand preference steadily intensified — transforming a mild tendency into one of humanity’s most distinctive traits.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260517211429.htm",
+      "featured": false
+    },
+    {
+      "id": "65a9ce19b9ad",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Scientists reveal how seven days of fasting transforms the human body",
+      "titleKo": "",
+      "summary": "Scientists have discovered that the human body undergoes a dramatic internal transformation during extended fasting, with major changes appearing only after about three days without food. In a seven-day water-only fasting study, researchers tracked thousands of proteins in the blood and found widespread shifts affecting organs throughout the body — including the brain. While the body quickly switches from burning glucose to fat, the most intriguing biological changes linked to potential health benefits didn’t emerge until later in the fast.",
+      "aiSummary": "Scientists have discovered that the human body undergoes a dramatic internal transformation during extended fasting, with major changes appearing only after about three days without food. In a seven-day water-only fasting study, researchers tracked thousands of proteins in the blood and found widespread shifts affecting organs throughout the body — including the brain. While the body quickly switches from burning glucose to fat, the most intriguing biological changes linked to potential health benefits didn’t emerge until later in the fast.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have discovered that the human body undergoes a dramatic internal transformation during extended fasting, with major changes appearing only after about three days without food. In a seven-day water-only fasting study, researchers tracked thousands of proteins in the blood and found widespread shifts affecting organs throughout the body — including the brain. While the body quickly switches from burning glucose to fat, the most intriguing biological changes linked to potential health benefits didn’t emerge until later in the fast.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260517030404.htm",
+      "featured": false
+    },
     {
       "id": "98839f605157",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "New research finds that using sex toys and dating younger partners are associated with less severe menopause symptoms. The study highlights how diverse sexual behaviors and relationship styles intertwine with physical and emotional well-being during this transition.",
       "keyPoints": [],
       "url": "https://www.psypost.org/younger-partners-and-sex-toy-use-are-associated-with-less-severe-symptoms-of-menopause/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f3604659ad10",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
-      "featured": false
-    },
-    {
-      "id": "17f94148f259",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-      "titleKo": "",
-      "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.",
-      "aiSummary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
-      "featured": false
-    },
-    {
-      "id": "38568e9954ae",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
-      "titleKo": "",
-      "summary": "Women may be especially sensitive to the effects of common dementia risk factors, according to a new UC San Diego study of over 17,000 adults. Researchers say tailoring prevention strategies specifically for women could be key to reducing Alzheimer’s risk.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
-      "featured": false
-    },
-    {
-      "id": "723c05d02128",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "People judge rap music fans as more capable of murder, new study finds",
-      "titleKo": "",
-      "summary": "New research reveals that people often judge individuals harshly simply for being fans of rap music. In fact, participants weighing a hypothetical person's character considered their favorite rap lyrics more heavily than an actual murder accusation.",
-      "aiSummary": "New research reveals that people often judge individuals harshly simply for being fans of rap music. In fact, participants weighing a hypothetical person's character considered their favorite rap lyrics more heavily than an actual murder accusation.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "New research reveals that people often judge individuals harshly simply for being fans of rap music. In fact, participants weighing a hypothetical person's character considered their favorite rap lyrics more heavily than an actual murder accusation.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/people-judge-rap-music-fans-as-more-capable-of-murder-new-study-finds/",
       "featured": false
     }
   ]
