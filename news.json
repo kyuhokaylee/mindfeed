@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-23T13:50:07.371206+00:00",
+  "updated": "2026-05-23T15:06:32.397808+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2e0e169c739f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Men with a sense of entitlement are three times more likely to consider “stealthing”",
+      "titleKo": "",
+      "summary": "Why do some men engage in non-consensual condom removal? Psychologists have linked the coercive act to entitlement, psychopathy, and narcissism.",
+      "aiSummary": "Why do some men engage in non-consensual condom removal? Psychologists have linked the coercive act to entitlement, psychopathy, and narcissism.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Why do some men engage in non-consensual condom removal? Psychologists have linked the coercive act to entitlement, psychopathy, and narcissism.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/men-with-a-sense-of-entitlement-are-three-times-more-likely-to-consider-stealthing/",
+      "featured": true
+    },
     {
       "id": "0e5971406310",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Want to generate better ideas? A new study tracking daily movement and imagination found that taking a brief, brisk walk can visibly boost your verbal creativity roughly an hour later.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-brisk-walk-might-boost-your-creativity-an-hour-later/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bd6f412f9005",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260521072412.htm",
-      "featured": false
-    },
-    {
-      "id": "228e02ff1def",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Higher body mass index in youth linked to altered brain connectivity",
-      "titleKo": "",
-      "summary": "Children and teenagers with a higher body mass index exhibit unique brain wave patterns that point to a reduction in neural inhibition. These neurological differences might make it harder for affected youths to alter ingrained dietary habits.",
-      "aiSummary": "Children and teenagers with a higher body mass index exhibit unique brain wave patterns that point to a reduction in neural inhibition. These neurological differences might make it harder for affected youths to alter ingrained dietary habits.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Children and teenagers with a higher body mass index exhibit unique brain wave patterns that point to a reduction in neural inhibition. These neurological differences might make it harder for affected youths to alter ingrained dietary habits.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/higher-body-mass-index-in-youth-linked-to-altered-brain-connectivity/",
       "featured": false
     }
   ]
