@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-23T19:20:10.292562+00:00",
+  "updated": "2026-05-23T21:00:22.248777+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "af12f2d5b06f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Being asked to help dampens the joy of doing good, according to children in multiple countries",
+      "titleKo": "",
+      "summary": "A cross-cultural study reveals that children often believe people are less willing and happy to help others when instructed to do so. However, the strength of this belief varies across different cultural and socioeconomic backgrounds.",
+      "aiSummary": "A cross-cultural study reveals that children often believe people are less willing and happy to help others when instructed to do so. However, the strength of this belief varies across different cultural and socioeconomic backgrounds.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A cross-cultural study reveals that children often believe people are less willing and happy to help others when instructed to do so. However, the strength of this belief varies across different cultural and socioeconomic backgrounds.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/being-asked-to-help-dampens-the-joy-of-doing-good-according-to-children-in-multiple-countries/",
+      "featured": true
+    },
+    {
+      "id": "d5f2a6708601",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "The Attribution Impossibility: No Feature Ranking Is Faithful, Stable, and Complete Under Collinearity",
+      "titleKo": "",
+      "summary": "arXiv:2605.21492v1 Announce Type: new Abstract: No feature ranking can be simultaneously faithful, stable, and complete when features are collinear. For collinear pairs, ranking reduces to a coin flip. We prove this impossibility, quantify it for four model classes, resolve it via ensemble averaging (DASH), and machine-verify it with 305 Lean 4 theorems. We characterize the complete attribution design space: exactly two families of methods exist -- faithful-complete methods (unstable, with rankings that flip up to 50% of the time) and ensemble methods like DASH (stable, reporting ties for symm",
+      "aiSummary": "arXiv:2605.21492v1 Announce Type: new Abstract: No feature ranking can be simultaneously faithful, stable, and complete when features are collinear. For collinear pairs, ranking reduces to a coin flip. We prove this impossibility, quantify it for four model classes, resolve it via ensemble averaging (DASH), and machine-verify it with 305 Lean 4 theorems. We characterize the complete attribution design space: exactly two families of methods exist -- faithful-complete methods (unstable, with rankings that flip up to 50% of the time) and ensemble methods like DASH (stable, reporting ties for symm",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2605.21492v1 Announce Type: new Abstract: No feature ranking can be simultaneously faithful, stable, and complete when features are collinear. For collinear pairs, ranking reduces to a coin flip. We prove this impossibility, quantify it for four model classes, resolve it via ensemble averaging (DASH), and machine-verify it with 305 Lean 4 theorems. We characterize the complete attribution design space: exactly two families of methods exist -- faithful-complete methods (unstable, with rankings that flip up to 50% of the time) and ensemble methods like DASH (stable, reporting ties for symm",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2605.21492",
+      "featured": false
+    },
+    {
+      "id": "b1ab14ec6271",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "17시간 전 / 17h ago",
+      "title": "Don't Collapse Your Features: Why CenterLoss Hurts OOD Detection and Multi-Scale Mahalanobis Wins",
+      "titleKo": "",
+      "summary": "arXiv:2605.21493v1 Announce Type: new Abstract: The ability to detect out-of-distribution (OOD) inputs is fundamental to safe deployment of machine learning systems. Yet, current methods often rely on feature representations that are optimised solely for classification accuracy, neglecting the distinct requirements of epistemic uncertainty. We introduce GOEN (Geometry-Optimised Epistemic Network), a simple pipeline that combines multi-scale features, L2 normalisation, Mahalanobis distance, and a calibration head trained with real hard OOD examples. Through systematic ablation we uncover a coun",
+      "aiSummary": "arXiv:2605.21493v1 Announce Type: new Abstract: The ability to detect out-of-distribution (OOD) inputs is fundamental to safe deployment of machine learning systems. Yet, current methods often rely on feature representations that are optimised solely for classification accuracy, neglecting the distinct requirements of epistemic uncertainty. We introduce GOEN (Geometry-Optimised Epistemic Network), a simple pipeline that combines multi-scale features, L2 normalisation, Mahalanobis distance, and a calibration head trained with real hard OOD examples. Through systematic ablation we uncover a coun",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2605.21493v1 Announce Type: new Abstract: The ability to detect out-of-distribution (OOD) inputs is fundamental to safe deployment of machine learning systems. Yet, current methods often rely on feature representations that are optimised solely for classification accuracy, neglecting the distinct requirements of epistemic uncertainty. We introduce GOEN (Geometry-Optimised Epistemic Network), a simple pipeline that combines multi-scale features, L2 normalisation, Mahalanobis distance, and a calibration head trained with real hard OOD examples. Through systematic ablation we uncover a coun",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2605.21493",
+      "featured": false
+    },
     {
       "id": "44ae0e20ed02",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A recent study found that young adults experiencing mild psychotic-like symptoms also report higher rates of hypersexuality and problematic porn use. Experts suggest these sexual behavioral issues could act as early markers for severe mental health challenges.",
       "keyPoints": [],
       "url": "https://www.psypost.org/problematic-sexual-behavior-may-be-an-early-warning-sign-for-psychosis/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b76d9ac74e06",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2605.21623v1 Announce Type: new Abstract: Researchers in Holocaust studies have often distinguished between two styles of oral survivor testimony: the USC Shoah Foundation's interviews tend to follow a structured, interviewer-guided format, whereas the Yale Fortunoff Video Archive generally favors a more free-form, open-ended style. This distinction has influenced both scholarly research and the development of later archives. In this study, we critically examine that claim by conducting a large-scale computational analysis of more than 1,600 testimonies from both collections. Leveraging ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.21623",
-      "featured": false
-    },
-    {
-      "id": "7ae4f71070d0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis",
-      "titleKo": "",
-      "summary": "arXiv:2605.21630v1 Announce Type: new Abstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the structural factors that govern problem difficulty, which can result in narrow diversity and unstable difficulty control. In this work, we view the difficulty of a reasoning problem as arising from the accumulation of atomic knowledge-reasoning transformations, which we term thought modes. Building on this perspective, we propose MindLoom, a framework ",
-      "aiSummary": "arXiv:2605.21630v1 Announce Type: new Abstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the structural factors that govern problem difficulty, which can result in narrow diversity and unstable difficulty control. In this work, we view the difficulty of a reasoning problem as arising from the accumulation of atomic knowledge-reasoning transformations, which we term thought modes. Building on this perspective, we propose MindLoom, a framework ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.21630v1 Announce Type: new Abstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the structural factors that govern problem difficulty, which can result in narrow diversity and unstable difficulty control. In this work, we view the difficulty of a reasoning problem as arising from the accumulation of atomic knowledge-reasoning transformations, which we term thought modes. Building on this perspective, we propose MindLoom, a framework ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.21630",
-      "featured": false
-    },
-    {
-      "id": "24eb9b8183a8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Temporal Contrastive Transformer for Financial Crime Detection: Self-Supervised Sequence Embeddings via Predictive Contrastive Coding",
-      "titleKo": "",
-      "summary": "arXiv:2605.21490v1 Announce Type: new Abstract: We introduce the Temporal Contrastive Transformer (TCT), a representation learning framework designed to capture contextual temporal dynamics in sequences of financial transactions. The model is trained using a self-supervised contrastive objective to produce embeddings that encode behavioral patterns over time, with the goal of supporting downstream fraud detection tasks. We evaluate TCT in a realistic setting by using the learned embeddings as input features to a gradient boosting classifier. Experimental results show that embeddings alone achi",
-      "aiSummary": "arXiv:2605.21490v1 Announce Type: new Abstract: We introduce the Temporal Contrastive Transformer (TCT), a representation learning framework designed to capture contextual temporal dynamics in sequences of financial transactions. The model is trained using a self-supervised contrastive objective to produce embeddings that encode behavioral patterns over time, with the goal of supporting downstream fraud detection tasks. We evaluate TCT in a realistic setting by using the learned embeddings as input features to a gradient boosting classifier. Experimental results show that embeddings alone achi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.21490v1 Announce Type: new Abstract: We introduce the Temporal Contrastive Transformer (TCT), a representation learning framework designed to capture contextual temporal dynamics in sequences of financial transactions. The model is trained using a self-supervised contrastive objective to produce embeddings that encode behavioral patterns over time, with the goal of supporting downstream fraud detection tasks. We evaluate TCT in a realistic setting by using the learned embeddings as input features to a gradient boosting classifier. Experimental results show that embeddings alone achi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.21490",
-      "featured": false
-    },
-    {
-      "id": "2b8374b22946",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "2시간 전 / 2h ago",
-      "title": "Teaching Language Models to Forecast Research Success Through Comparative Idea Evaluation",
-      "titleKo": "",
-      "summary": "arXiv:2605.21491v1 Announce Type: new Abstract: As language models accelerate scientific research by automating hypothesis generation and implementation, a new bottleneck emerges: evaluating and filtering hundreds of AI-generated ideas without exhaustive experimentation. We ask whether LMs can learn to forecast the empirical success of research ideas before any experiments are run. We study comparative empirical forecasting: given a benchmark-specific research goal and two candidate ideas, predict which will achieve better benchmark performance. We construct a dataset of 11,488 idea pairs grou",
-      "aiSummary": "arXiv:2605.21491v1 Announce Type: new Abstract: As language models accelerate scientific research by automating hypothesis generation and implementation, a new bottleneck emerges: evaluating and filtering hundreds of AI-generated ideas without exhaustive experimentation. We ask whether LMs can learn to forecast the empirical success of research ideas before any experiments are run. We study comparative empirical forecasting: given a benchmark-specific research goal and two candidate ideas, predict which will achieve better benchmark performance. We construct a dataset of 11,488 idea pairs grou",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.21491v1 Announce Type: new Abstract: As language models accelerate scientific research by automating hypothesis generation and implementation, a new bottleneck emerges: evaluating and filtering hundreds of AI-generated ideas without exhaustive experimentation. We ask whether LMs can learn to forecast the empirical success of research ideas before any experiments are run. We study comparative empirical forecasting: given a benchmark-specific research goal and two candidate ideas, predict which will achieve better benchmark performance. We construct a dataset of 11,488 idea pairs grou",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.21491",
       "featured": false
     }
   ]
