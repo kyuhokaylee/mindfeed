@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-23T15:06:32.397808+00:00",
+  "updated": "2026-05-23T17:09:11.664812+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e34d5cbf6428",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Brain development patterns predict if childhood ADHD symptoms will fade or persist",
+      "titleKo": "",
+      "summary": "New research reveals that physical changes in the brain during adolescence, such as the expansion of the hippocampus, are closely linked to whether a child's ADHD symptoms will fade away, persist, or worsen over time.",
+      "aiSummary": "New research reveals that physical changes in the brain during adolescence, such as the expansion of the hippocampus, are closely linked to whether a child's ADHD symptoms will fade away, persist, or worsen over time.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research reveals that physical changes in the brain during adolescence, such as the expansion of the hippocampus, are closely linked to whether a child's ADHD symptoms will fade away, persist, or worsen over time.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-signatures-identify-which-teens-will-outgrow-adhd-symptoms/",
+      "featured": true
+    },
     {
       "id": "2e0e169c739f",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Why do some men engage in non-consensual condom removal? Psychologists have linked the coercive act to entitlement, psychopathy, and narcissism.",
       "keyPoints": [],
       "url": "https://www.psypost.org/men-with-a-sense-of-entitlement-are-three-times-more-likely-to-consider-stealthing/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0e5971406310",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2605.21493v1 Announce Type: new Abstract: The ability to detect out-of-distribution (OOD) inputs is fundamental to safe deployment of machine learning systems. Yet, current methods often rely on feature representations that are optimised solely for classification accuracy, neglecting the distinct requirements of epistemic uncertainty. We introduce GOEN (Geometry-Optimised Epistemic Network), a simple pipeline that combines multi-scale features, L2 normalisation, Mahalanobis distance, and a calibration head trained with real hard OOD examples. Through systematic ablation we uncover a coun",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.21493",
-      "featured": false
-    },
-    {
-      "id": "b76d9ac74e06",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Think you’re bad at languages? Experts say these 5 myths are to blame",
-      "titleKo": "",
-      "summary": "Many people avoid learning a new language because they remember stressful grammar lessons or fear making mistakes. But language experts say communication, culture, and connection matter far more than perfection. Modern apps, entertainment, travel, and online communities have made learning easier, more social, and surprisingly fun.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260521072412.htm",
       "featured": false
     }
   ]
