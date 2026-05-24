@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-24T12:04:11.804727+00:00",
+  "updated": "2026-05-24T14:39:52.096999+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "25ee14013e57",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Declining trust in doctors is widening the health gap between conservative and liberal Americans",
+      "titleKo": "",
+      "summary": "A new study suggests conservative Americans experienced worse health outcomes and higher mortality rates than liberals over the last decade. Researchers attribute this widening gap to demographic shifts and a growing distrust in doctors among right-leaning individuals.",
+      "aiSummary": "A new study suggests conservative Americans experienced worse health outcomes and higher mortality rates than liberals over the last decade. Researchers attribute this widening gap to demographic shifts and a growing distrust in doctors among right-leaning individuals.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests conservative Americans experienced worse health outcomes and higher mortality rates than liberals over the last decade. Researchers attribute this widening gap to demographic shifts and a growing distrust in doctors among right-leaning individuals.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/declining-trust-in-doctors-is-widening-the-health-gap-between-conservative-and-liberal-americans/",
+      "featured": true
+    },
+    {
+      "id": "5f8d160ef368",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "방금 전 / Just now",
+      "title": "What Becomes of Second Chances?",
+      "titleKo": "",
+      "summary": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
+      "aiSummary": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-becomes-of-second-chances/",
+      "featured": false
+    },
+    {
+      "id": "9db051a849e8",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "Scientists “recharge” damaged nerves to ease chronic pain",
+      "titleKo": "",
+      "summary": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived by supplying them with healthy mitochondria, the tiny energy producers inside cells.",
+      "aiSummary": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived by supplying them with healthy mitochondria, the tiny energy producers inside cells.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived by supplying them with healthy mitochondria, the tiny energy producers inside cells.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260523103950.htm",
+      "featured": false
+    },
     {
       "id": "8cce0a5f8579",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A comprehensive review of global survey data shows that single parents consistently report lower life satisfaction than partnered parents. However, employment, social support, and time act as powerful buffers that help solo caregivers thrive.",
       "keyPoints": [],
       "url": "https://www.psypost.org/decades-of-data-reveal-the-reality-of-happiness-and-single-parenthood/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2b1a080db784",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2605.21630v1 Announce Type: new Abstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the structural factors that govern problem difficulty, which can result in narrow diversity and unstable difficulty control. In this work, we view the difficulty of a reasoning problem as arising from the accumulation of atomic knowledge-reasoning transformations, which we term thought modes. Building on this perspective, we propose MindLoom, a framework ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.21630",
-      "featured": false
-    },
-    {
-      "id": "24eb9b8183a8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "18시간 전 / 18h ago",
-      "title": "Temporal Contrastive Transformer for Financial Crime Detection: Self-Supervised Sequence Embeddings via Predictive Contrastive Coding",
-      "titleKo": "",
-      "summary": "arXiv:2605.21490v1 Announce Type: new Abstract: We introduce the Temporal Contrastive Transformer (TCT), a representation learning framework designed to capture contextual temporal dynamics in sequences of financial transactions. The model is trained using a self-supervised contrastive objective to produce embeddings that encode behavioral patterns over time, with the goal of supporting downstream fraud detection tasks. We evaluate TCT in a realistic setting by using the learned embeddings as input features to a gradient boosting classifier. Experimental results show that embeddings alone achi",
-      "aiSummary": "arXiv:2605.21490v1 Announce Type: new Abstract: We introduce the Temporal Contrastive Transformer (TCT), a representation learning framework designed to capture contextual temporal dynamics in sequences of financial transactions. The model is trained using a self-supervised contrastive objective to produce embeddings that encode behavioral patterns over time, with the goal of supporting downstream fraud detection tasks. We evaluate TCT in a realistic setting by using the learned embeddings as input features to a gradient boosting classifier. Experimental results show that embeddings alone achi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.21490v1 Announce Type: new Abstract: We introduce the Temporal Contrastive Transformer (TCT), a representation learning framework designed to capture contextual temporal dynamics in sequences of financial transactions. The model is trained using a self-supervised contrastive objective to produce embeddings that encode behavioral patterns over time, with the goal of supporting downstream fraud detection tasks. We evaluate TCT in a realistic setting by using the learned embeddings as input features to a gradient boosting classifier. Experimental results show that embeddings alone achi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.21490",
-      "featured": false
-    },
-    {
-      "id": "2b8374b22946",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "18시간 전 / 18h ago",
-      "title": "Teaching Language Models to Forecast Research Success Through Comparative Idea Evaluation",
-      "titleKo": "",
-      "summary": "arXiv:2605.21491v1 Announce Type: new Abstract: As language models accelerate scientific research by automating hypothesis generation and implementation, a new bottleneck emerges: evaluating and filtering hundreds of AI-generated ideas without exhaustive experimentation. We ask whether LMs can learn to forecast the empirical success of research ideas before any experiments are run. We study comparative empirical forecasting: given a benchmark-specific research goal and two candidate ideas, predict which will achieve better benchmark performance. We construct a dataset of 11,488 idea pairs grou",
-      "aiSummary": "arXiv:2605.21491v1 Announce Type: new Abstract: As language models accelerate scientific research by automating hypothesis generation and implementation, a new bottleneck emerges: evaluating and filtering hundreds of AI-generated ideas without exhaustive experimentation. We ask whether LMs can learn to forecast the empirical success of research ideas before any experiments are run. We study comparative empirical forecasting: given a benchmark-specific research goal and two candidate ideas, predict which will achieve better benchmark performance. We construct a dataset of 11,488 idea pairs grou",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.21491v1 Announce Type: new Abstract: As language models accelerate scientific research by automating hypothesis generation and implementation, a new bottleneck emerges: evaluating and filtering hundreds of AI-generated ideas without exhaustive experimentation. We ask whether LMs can learn to forecast the empirical success of research ideas before any experiments are run. We study comparative empirical forecasting: given a benchmark-specific research goal and two candidate ideas, predict which will achieve better benchmark performance. We construct a dataset of 11,488 idea pairs grou",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.21491",
-      "featured": false
-    },
-    {
-      "id": "af12f2d5b06f",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Being asked to help dampens the joy of doing good, according to children in multiple countries",
-      "titleKo": "",
-      "summary": "A cross-cultural study reveals that children often believe people are less willing and happy to help others when instructed to do so. However, the strength of this belief varies across different cultural and socioeconomic backgrounds.",
-      "aiSummary": "A cross-cultural study reveals that children often believe people are less willing and happy to help others when instructed to do so. However, the strength of this belief varies across different cultural and socioeconomic backgrounds.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A cross-cultural study reveals that children often believe people are less willing and happy to help others when instructed to do so. However, the strength of this belief varies across different cultural and socioeconomic backgrounds.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/being-asked-to-help-dampens-the-joy-of-doing-good-according-to-children-in-multiple-countries/",
       "featured": false
     }
   ]
