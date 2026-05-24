@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-24T14:39:52.096999+00:00",
+  "updated": "2026-05-24T16:06:16.836886+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "3bab9165542d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Dark personality traits linked to a higher tolerance for morally questionable behaviors",
+      "titleKo": "",
+      "summary": "A recent study found a strong association between specific “Dark Triad” traits and moral leniency. College students scoring higher in psychopathy or Machiavellianism were more open to excusing dishonest, rule-breaking, and controversial behaviors.",
+      "aiSummary": "A recent study found a strong association between specific “Dark Triad” traits and moral leniency. College students scoring higher in psychopathy or Machiavellianism were more open to excusing dishonest, rule-breaking, and controversial behaviors.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study found a strong association between specific “Dark Triad” traits and moral leniency. College students scoring higher in psychopathy or Machiavellianism were more open to excusing dishonest, rule-breaking, and controversial behaviors.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/dark-personality-traits-linked-to-a-higher-tolerance-for-morally-questionable-behaviors/",
+      "featured": true
+    },
     {
       "id": "25ee14013e57",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study suggests conservative Americans experienced worse health outcomes and higher mortality rates than liberals over the last decade. Researchers attribute this widening gap to demographic shifts and a growing distrust in doctors among right-leaning individuals.",
       "keyPoints": [],
       "url": "https://www.psypost.org/declining-trust-in-doctors-is-widening-the-health-gap-between-conservative-and-liberal-americans/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5f8d160ef368",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "As robots become more advanced, people feel a loss of personal control. A new study reveals this technological anxiety drives individuals to seek comfort in strict social hierarchies, potentially exacerbating workplace inequality.",
       "keyPoints": [],
       "url": "https://www.psypost.org/as-robots-threaten-our-jobs-and-identity-people-seek-comfort-in-unequal-social-structures/",
-      "featured": false
-    },
-    {
-      "id": "7ae4f71070d0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis",
-      "titleKo": "",
-      "summary": "arXiv:2605.21630v1 Announce Type: new Abstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the structural factors that govern problem difficulty, which can result in narrow diversity and unstable difficulty control. In this work, we view the difficulty of a reasoning problem as arising from the accumulation of atomic knowledge-reasoning transformations, which we term thought modes. Building on this perspective, we propose MindLoom, a framework ",
-      "aiSummary": "arXiv:2605.21630v1 Announce Type: new Abstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the structural factors that govern problem difficulty, which can result in narrow diversity and unstable difficulty control. In this work, we view the difficulty of a reasoning problem as arising from the accumulation of atomic knowledge-reasoning transformations, which we term thought modes. Building on this perspective, we propose MindLoom, a framework ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.21630v1 Announce Type: new Abstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the structural factors that govern problem difficulty, which can result in narrow diversity and unstable difficulty control. In this work, we view the difficulty of a reasoning problem as arising from the accumulation of atomic knowledge-reasoning transformations, which we term thought modes. Building on this perspective, we propose MindLoom, a framework ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.21630",
       "featured": false
     }
   ]
