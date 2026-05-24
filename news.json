@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-24T08:38:09.744495+00:00",
+  "updated": "2026-05-24T10:45:18.795880+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2b1a080db784",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "A new study mapped 350,000 relationship stories and found a communication style AI struggles to copy",
+      "titleKo": "",
+      "summary": "People often use restrained language to express deep pain. A recent PLOS One study suggests this gap is a deliberate strategy. Humans use subtle expressive styles that artificial intelligence currently struggles to replicate.",
+      "aiSummary": "People often use restrained language to express deep pain. A recent PLOS One study suggests this gap is a deliberate strategy. Humans use subtle expressive styles that artificial intelligence currently struggles to replicate.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People often use restrained language to express deep pain. A recent PLOS One study suggests this gap is a deliberate strategy. Humans use subtle expressive styles that artificial intelligence currently struggles to replicate.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-new-study-mapped-350000-relationship-stories-and-found-a-communication-style-ai-struggles-to-copy/",
+      "featured": true
+    },
+    {
+      "id": "b76d9ac74e06",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Think you’re bad at languages? Experts say these 5 myths are to blame",
+      "titleKo": "",
+      "summary": "Many people avoid learning a new language because they remember stressful grammar lessons or fear making mistakes. But language experts say communication, culture, and connection matter far more than perfection. Modern apps, entertainment, travel, and online communities have made learning easier, more social, and surprisingly fun.",
+      "aiSummary": "Many people avoid learning a new language because they remember stressful grammar lessons or fear making mistakes. But language experts say communication, culture, and connection matter far more than perfection. Modern apps, entertainment, travel, and online communities have made learning easier, more social, and surprisingly fun.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Many people avoid learning a new language because they remember stressful grammar lessons or fear making mistakes. But language experts say communication, culture, and connection matter far more than perfection. Modern apps, entertainment, travel, and online communities have made learning easier, more social, and surprisingly fun.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260521072412.htm",
+      "featured": false
+    },
     {
       "id": "054e66372db1",
       "tag": "behav",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "There is a popular belief that technological innovation will solve climate change without fundamental shifts in society and politics. For example, the World Economic Forum claims “we must invent our way out of climate change.” Solving climate change, the thinking goes, means investing in innovation. Technocratic policies, such as the carbon tax, also assume a direct path between problem and solution. The idea of a carbon tax assumes that if emissions are priced correctly, firms and consumers will automatically reduce carbon use and invest in cleaner alternatives. The “solution” lies in enginee",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/climate-change-is-getting-worse-why-dont-we-see-more-action/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d52f8c8de6ef",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2605.21492v1 Announce Type: new Abstract: No feature ranking can be simultaneously faithful, stable, and complete when features are collinear. For collinear pairs, ranking reduces to a coin flip. We prove this impossibility, quantify it for four model classes, resolve it via ensemble averaging (DASH), and machine-verify it with 305 Lean 4 theorems. We characterize the complete attribution design space: exactly two families of methods exist -- faithful-complete methods (unstable, with rankings that flip up to 50% of the time) and ensemble methods like DASH (stable, reporting ties for symm",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.21492",
-      "featured": false
-    },
-    {
-      "id": "b1ab14ec6271",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Don't Collapse Your Features: Why CenterLoss Hurts OOD Detection and Multi-Scale Mahalanobis Wins",
-      "titleKo": "",
-      "summary": "arXiv:2605.21493v1 Announce Type: new Abstract: The ability to detect out-of-distribution (OOD) inputs is fundamental to safe deployment of machine learning systems. Yet, current methods often rely on feature representations that are optimised solely for classification accuracy, neglecting the distinct requirements of epistemic uncertainty. We introduce GOEN (Geometry-Optimised Epistemic Network), a simple pipeline that combines multi-scale features, L2 normalisation, Mahalanobis distance, and a calibration head trained with real hard OOD examples. Through systematic ablation we uncover a coun",
-      "aiSummary": "arXiv:2605.21493v1 Announce Type: new Abstract: The ability to detect out-of-distribution (OOD) inputs is fundamental to safe deployment of machine learning systems. Yet, current methods often rely on feature representations that are optimised solely for classification accuracy, neglecting the distinct requirements of epistemic uncertainty. We introduce GOEN (Geometry-Optimised Epistemic Network), a simple pipeline that combines multi-scale features, L2 normalisation, Mahalanobis distance, and a calibration head trained with real hard OOD examples. Through systematic ablation we uncover a coun",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.21493v1 Announce Type: new Abstract: The ability to detect out-of-distribution (OOD) inputs is fundamental to safe deployment of machine learning systems. Yet, current methods often rely on feature representations that are optimised solely for classification accuracy, neglecting the distinct requirements of epistemic uncertainty. We introduce GOEN (Geometry-Optimised Epistemic Network), a simple pipeline that combines multi-scale features, L2 normalisation, Mahalanobis distance, and a calibration head trained with real hard OOD examples. Through systematic ablation we uncover a coun",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.21493",
-      "featured": false
-    },
-    {
-      "id": "44ae0e20ed02",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Problematic sexual behavior may be an early warning sign for psychosis",
-      "titleKo": "",
-      "summary": "A recent study found that young adults experiencing mild psychotic-like symptoms also report higher rates of hypersexuality and problematic porn use. Experts suggest these sexual behavioral issues could act as early markers for severe mental health challenges.",
-      "aiSummary": "A recent study found that young adults experiencing mild psychotic-like symptoms also report higher rates of hypersexuality and problematic porn use. Experts suggest these sexual behavioral issues could act as early markers for severe mental health challenges.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study found that young adults experiencing mild psychotic-like symptoms also report higher rates of hypersexuality and problematic porn use. Experts suggest these sexual behavioral issues could act as early markers for severe mental health challenges.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/problematic-sexual-behavior-may-be-an-early-warning-sign-for-psychosis/",
       "featured": false
     }
   ]
