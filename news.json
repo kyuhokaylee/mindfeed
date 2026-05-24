@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-24T22:00:12.634171+00:00",
+  "updated": "2026-05-24T23:09:58.446207+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4a2e3d466b41",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Does the smell of pine make you smarter?",
+      "titleKo": "",
+      "summary": "Can you recreate the mental benefits of a forest walk simply by diffusing tree essential oils indoors? A new study suggests the answer is no, finding no cognitive or mood improvements from smelling fir or cypress oils.",
+      "aiSummary": "Can you recreate the mental benefits of a forest walk simply by diffusing tree essential oils indoors? A new study suggests the answer is no, finding no cognitive or mood improvements from smelling fir or cypress oils.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Can you recreate the mental benefits of a forest walk simply by diffusing tree essential oils indoors? A new study suggests the answer is no, finding no cognitive or mood improvements from smelling fir or cypress oils.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/does-the-smell-of-pine-make-you-smarter/",
+      "featured": true
+    },
     {
       "id": "46d4d94e8704",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A longitudinal study of aging adults reveals that severe childhood adversity substantially raises the risk of developing simultaneous physical and mental illnesses in later life. Early-onset depression often acts as a bridge to these overlapping health struggles.",
       "keyPoints": [],
       "url": "https://www.psypost.org/childhood-trauma-predicts-higher-risk-of-combined-mind-and-body-illness-in-later/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5be783703dd2",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2605.21622v1 Announce Type: new Abstract: Topology optimization can generate efficient structures, but designers often must manually translate qualitative intent, such as desired visual style, product experience, or manufacturability into solver settings that are not directly tied to those preferences. We present TO-Agents, a multi-agent AI framework that connects natural-language design intent with iterative topology optimization. The framework converts a human-provided problem description into validated solver inputs, runs a topology optimization solver, renders the resulting 3D topolo",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.21622",
-      "featured": false
-    },
-    {
-      "id": "bbcd0d9dda06",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "20시간 전 / 20h ago",
-      "title": "The Shape of Testimony: A Scalable Framework for Oral History Archive Comparison",
-      "titleKo": "",
-      "summary": "arXiv:2605.21623v1 Announce Type: new Abstract: Researchers in Holocaust studies have often distinguished between two styles of oral survivor testimony: the USC Shoah Foundation's interviews tend to follow a structured, interviewer-guided format, whereas the Yale Fortunoff Video Archive generally favors a more free-form, open-ended style. This distinction has influenced both scholarly research and the development of later archives. In this study, we critically examine that claim by conducting a large-scale computational analysis of more than 1,600 testimonies from both collections. Leveraging ",
-      "aiSummary": "arXiv:2605.21623v1 Announce Type: new Abstract: Researchers in Holocaust studies have often distinguished between two styles of oral survivor testimony: the USC Shoah Foundation's interviews tend to follow a structured, interviewer-guided format, whereas the Yale Fortunoff Video Archive generally favors a more free-form, open-ended style. This distinction has influenced both scholarly research and the development of later archives. In this study, we critically examine that claim by conducting a large-scale computational analysis of more than 1,600 testimonies from both collections. Leveraging ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.21623v1 Announce Type: new Abstract: Researchers in Holocaust studies have often distinguished between two styles of oral survivor testimony: the USC Shoah Foundation's interviews tend to follow a structured, interviewer-guided format, whereas the Yale Fortunoff Video Archive generally favors a more free-form, open-ended style. This distinction has influenced both scholarly research and the development of later archives. In this study, we critically examine that claim by conducting a large-scale computational analysis of more than 1,600 testimonies from both collections. Leveraging ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.21623",
       "featured": false
     }
   ]
