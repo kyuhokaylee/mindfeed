@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-24T18:02:11.262288+00:00",
+  "updated": "2026-05-24T20:11:11.231013+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "46d4d94e8704",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Childhood trauma predicts higher risk of combined mental and physical illness in later life",
+      "titleKo": "",
+      "summary": "A longitudinal study of aging adults reveals that severe childhood adversity substantially raises the risk of developing simultaneous physical and mental illnesses in later life. Early-onset depression often acts as a bridge to these overlapping health struggles.",
+      "aiSummary": "A longitudinal study of aging adults reveals that severe childhood adversity substantially raises the risk of developing simultaneous physical and mental illnesses in later life. Early-onset depression often acts as a bridge to these overlapping health struggles.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A longitudinal study of aging adults reveals that severe childhood adversity substantially raises the risk of developing simultaneous physical and mental illnesses in later life. Early-onset depression often acts as a bridge to these overlapping health struggles.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/childhood-trauma-predicts-higher-risk-of-combined-mind-and-body-illness-in-later/",
+      "featured": true
+    },
+    {
+      "id": "5be783703dd2",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Breathing polluted air is linked to lagging brain and cognitive growth in young teenagers",
+      "titleKo": "",
+      "summary": "A new study reveals that preteens living in areas with high air pollution show slower brain and cognitive development compared to their peers. These findings highlight the potential physical and mental impact of neighborhood air quality.",
+      "aiSummary": "A new study reveals that preteens living in areas with high air pollution show slower brain and cognitive development compared to their peers. These findings highlight the potential physical and mental impact of neighborhood air quality.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that preteens living in areas with high air pollution show slower brain and cognitive development compared to their peers. These findings highlight the potential physical and mental impact of neighborhood air quality.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/breathing-polluted-air-is-linked-to-lagging-brain-and-cognitive-growth-in-young-teenagers/",
+      "featured": false
+    },
     {
       "id": "3bab9165542d",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A recent study found a strong association between specific “Dark Triad” traits and moral leniency. College students scoring higher in psychopathy or Machiavellianism were more open to excusing dishonest, rule-breaking, and controversial behaviors.",
       "keyPoints": [],
       "url": "https://www.psypost.org/dark-personality-traits-linked-to-a-higher-tolerance-for-morally-questionable-behaviors/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "25ee14013e57",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2605.21623v1 Announce Type: new Abstract: Researchers in Holocaust studies have often distinguished between two styles of oral survivor testimony: the USC Shoah Foundation's interviews tend to follow a structured, interviewer-guided format, whereas the Yale Fortunoff Video Archive generally favors a more free-form, open-ended style. This distinction has influenced both scholarly research and the development of later archives. In this study, we critically examine that claim by conducting a large-scale computational analysis of more than 1,600 testimonies from both collections. Leveraging ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.21623",
-      "featured": false
-    },
-    {
-      "id": "7dfc921a4e7f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Childhood junk food may rewire the brain for life",
-      "titleKo": "",
-      "summary": "Eating too much junk food early in life may rewire the brain in ways that last into adulthood, even after switching to a healthier diet. Scientists found that high-fat, high-sugar diets changed feeding behavior and disrupted appetite-control regions in the brain. Excitingly, certain gut-friendly bacteria and prebiotic fibers appeared to help undo some of the damage.",
-      "aiSummary": "Eating too much junk food early in life may rewire the brain in ways that last into adulthood, even after switching to a healthier diet. Scientists found that high-fat, high-sugar diets changed feeding behavior and disrupted appetite-control regions in the brain. Excitingly, certain gut-friendly bacteria and prebiotic fibers appeared to help undo some of the damage.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Eating too much junk food early in life may rewire the brain in ways that last into adulthood, even after switching to a healthier diet. Scientists found that high-fat, high-sugar diets changed feeding behavior and disrupted appetite-control regions in the brain. Excitingly, certain gut-friendly bacteria and prebiotic fibers appeared to help undo some of the damage.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260520093807.htm",
-      "featured": false
-    },
-    {
-      "id": "09f2c6cd73b8",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "As robots threaten our jobs and identity, people seek comfort in unequal social structures",
-      "titleKo": "",
-      "summary": "As robots become more advanced, people feel a loss of personal control. A new study reveals this technological anxiety drives individuals to seek comfort in strict social hierarchies, potentially exacerbating workplace inequality.",
-      "aiSummary": "As robots become more advanced, people feel a loss of personal control. A new study reveals this technological anxiety drives individuals to seek comfort in strict social hierarchies, potentially exacerbating workplace inequality.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "As robots become more advanced, people feel a loss of personal control. A new study reveals this technological anxiety drives individuals to seek comfort in strict social hierarchies, potentially exacerbating workplace inequality.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/as-robots-threaten-our-jobs-and-identity-people-seek-comfort-in-unequal-social-structures/",
       "featured": false
     }
   ]
