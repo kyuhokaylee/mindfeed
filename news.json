@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-24T10:45:18.795880+00:00",
+  "updated": "2026-05-24T12:04:11.804727+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8cce0a5f8579",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "What 50 years of data say about the happiness of single parents",
+      "titleKo": "",
+      "summary": "A comprehensive review of global survey data shows that single parents consistently report lower life satisfaction than partnered parents. However, employment, social support, and time act as powerful buffers that help solo caregivers thrive.",
+      "aiSummary": "A comprehensive review of global survey data shows that single parents consistently report lower life satisfaction than partnered parents. However, employment, social support, and time act as powerful buffers that help solo caregivers thrive.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A comprehensive review of global survey data shows that single parents consistently report lower life satisfaction than partnered parents. However, employment, social support, and time act as powerful buffers that help solo caregivers thrive.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/decades-of-data-reveal-the-reality-of-happiness-and-single-parenthood/",
+      "featured": true
+    },
     {
       "id": "2b1a080db784",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "People often use restrained language to express deep pain. A recent PLOS One study suggests this gap is a deliberate strategy. Humans use subtle expressive styles that artificial intelligence currently struggles to replicate.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-new-study-mapped-350000-relationship-stories-and-found-a-communication-style-ai-struggles-to-copy/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b76d9ac74e06",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A cross-cultural study reveals that children often believe people are less willing and happy to help others when instructed to do so. However, the strength of this belief varies across different cultural and socioeconomic backgrounds.",
       "keyPoints": [],
       "url": "https://www.psypost.org/being-asked-to-help-dampens-the-joy-of-doing-good-according-to-children-in-multiple-countries/",
-      "featured": false
-    },
-    {
-      "id": "d5f2a6708601",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "The Attribution Impossibility: No Feature Ranking Is Faithful, Stable, and Complete Under Collinearity",
-      "titleKo": "",
-      "summary": "arXiv:2605.21492v1 Announce Type: new Abstract: No feature ranking can be simultaneously faithful, stable, and complete when features are collinear. For collinear pairs, ranking reduces to a coin flip. We prove this impossibility, quantify it for four model classes, resolve it via ensemble averaging (DASH), and machine-verify it with 305 Lean 4 theorems. We characterize the complete attribution design space: exactly two families of methods exist -- faithful-complete methods (unstable, with rankings that flip up to 50% of the time) and ensemble methods like DASH (stable, reporting ties for symm",
-      "aiSummary": "arXiv:2605.21492v1 Announce Type: new Abstract: No feature ranking can be simultaneously faithful, stable, and complete when features are collinear. For collinear pairs, ranking reduces to a coin flip. We prove this impossibility, quantify it for four model classes, resolve it via ensemble averaging (DASH), and machine-verify it with 305 Lean 4 theorems. We characterize the complete attribution design space: exactly two families of methods exist -- faithful-complete methods (unstable, with rankings that flip up to 50% of the time) and ensemble methods like DASH (stable, reporting ties for symm",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.21492v1 Announce Type: new Abstract: No feature ranking can be simultaneously faithful, stable, and complete when features are collinear. For collinear pairs, ranking reduces to a coin flip. We prove this impossibility, quantify it for four model classes, resolve it via ensemble averaging (DASH), and machine-verify it with 305 Lean 4 theorems. We characterize the complete attribution design space: exactly two families of methods exist -- faithful-complete methods (unstable, with rankings that flip up to 50% of the time) and ensemble methods like DASH (stable, reporting ties for symm",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.21492",
       "featured": false
     }
   ]
