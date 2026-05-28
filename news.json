@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-28T19:41:56.711105+00:00",
+  "updated": "2026-05-28T22:00:09.123121+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "bfe6e97ac22b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "A virtual reality navigation test predicts Alzheimer’s risk in healthy adults",
+      "titleKo": "",
+      "summary": "By measuring how well healthy adults track their movements in virtual reality, scientists can estimate future thinning in specific brain regions. This approach could provide a simple, early warning system for neurodegenerative diseases.",
+      "aiSummary": "By measuring how well healthy adults track their movements in virtual reality, scientists can estimate future thinning in specific brain regions. This approach could provide a simple, early warning system for neurodegenerative diseases.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "By measuring how well healthy adults track their movements in virtual reality, scientists can estimate future thinning in specific brain regions. This approach could provide a simple, early warning system for neurodegenerative diseases.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-virtual-reality-navigation-test-predicts-alzheimers-risk-in-healthy-adults/",
+      "featured": true
+    },
+    {
+      "id": "e6ed6c45b831",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "14시간 전 / 14h ago",
+      "title": "Researchers block key protein that helps Parkinson’s spread through the brain",
+      "titleKo": "",
+      "summary": "A newly identified protein called GPNMB may play a major role in helping Parkinson’s disease spread through the brain. Researchers discovered that immune cells release the protein in response to damaged neurons, creating a vicious cycle that speeds up brain cell degeneration. In early experiments, antibodies that blocked GPNMB stopped the toxic process from spreading between cells.",
+      "aiSummary": "A newly identified protein called GPNMB may play a major role in helping Parkinson’s disease spread through the brain. Researchers discovered that immune cells release the protein in response to damaged neurons, creating a vicious cycle that speeds up brain cell degeneration. In early experiments, antibodies that blocked GPNMB stopped the toxic process from spreading between cells.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A newly identified protein called GPNMB may play a major role in helping Parkinson’s disease spread through the brain. Researchers discovered that immune cells release the protein in response to damaged neurons, creating a vicious cycle that speeds up brain cell degeneration. In early experiments, antibodies that blocked GPNMB stopped the toxic process from spreading between cells.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260527023214.htm",
+      "featured": false
+    },
+    {
+      "id": "6fd3fee34c37",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "16시간 전 / 16h ago",
+      "title": "Scientists thought brain inflammation was driving long COVID but the scans told a different story",
+      "titleKo": "",
+      "summary": "A new brain imaging study has found no evidence of widespread brain inflammation in patients suffering from prolonged symptoms after COVID-19 infection. Instead, the most severe long COVID symptoms were associated with increased brain activity in regions involved in mood and emotion.",
+      "aiSummary": "A new brain imaging study has found no evidence of widespread brain inflammation in patients suffering from prolonged symptoms after COVID-19 infection. Instead, the most severe long COVID symptoms were associated with increased brain activity in regions involved in mood and emotion.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new brain imaging study has found no evidence of widespread brain inflammation in patients suffering from prolonged symptoms after COVID-19 infection. Instead, the most severe long COVID symptoms were associated with increased brain activity in regions involved in mood and emotion.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260527023206.htm",
+      "featured": false
+    },
     {
       "id": "82fde7b37c54",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A recent study suggests identifying as a feminist might paradoxically increase certain body image concerns. Researchers found that when feminist beliefs intertwine with consumer culture, women may experience heightened pressures to conform to unrealistic beauty standards.",
       "keyPoints": [],
       "url": "https://www.psypost.org/identifying-as-a-feminist-might-inadvertently-increase-body-image-concerns-via-heightened-materialism/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e98ac8bdc8c1",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2605.28693v1 Announce Type: new Abstract: Backpropagation is the core learning mechanism underlying deep learning. However, whether and how this algorithm is implemented in the brain remains highly debated. In particular, while forward activations of pretrained models reliably map onto the cortical hierarchy of visual processing, it is unknown whether backpropagated gradients exhibit a similar correspondence. Here, we address this question using functional magnetic resonance imaging (fMRI) and magnetoencephalography (MEG) recordings of human brain responses to natural images. For this, w",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.28693",
-      "featured": false
-    },
-    {
-      "id": "95748267f4e3",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "8시간 전 / 8h ago",
-      "title": "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models",
-      "titleKo": "",
-      "summary": "arXiv:2605.26910v1 Announce Type: cross Abstract: Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified contributions of complex learning paradigms, and a lack of transparency in model decision-making. To address these, we propose EEG-FM-Audit, a comprehensive evaluation and analysis pipeline designed to systematize the assessment of EEG-FMs. EEG-FM-Audit consists of three primary components: (1) an ASHA-driven benchm",
-      "aiSummary": "arXiv:2605.26910v1 Announce Type: cross Abstract: Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified contributions of complex learning paradigms, and a lack of transparency in model decision-making. To address these, we propose EEG-FM-Audit, a comprehensive evaluation and analysis pipeline designed to systematize the assessment of EEG-FMs. EEG-FM-Audit consists of three primary components: (1) an ASHA-driven benchm",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.26910v1 Announce Type: cross Abstract: Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified contributions of complex learning paradigms, and a lack of transparency in model decision-making. To address these, we propose EEG-FM-Audit, a comprehensive evaluation and analysis pipeline designed to systematize the assessment of EEG-FMs. EEG-FM-Audit consists of three primary components: (1) an ASHA-driven benchm",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.26910",
-      "featured": false
-    },
-    {
-      "id": "2d276f7894ab",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "8시간 전 / 8h ago",
-      "title": "You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention",
-      "titleKo": "",
-      "summary": "arXiv:2605.27580v1 Announce Type: cross Abstract: A central puzzle for the behavioural sciences and for human-facing artificial intelligence is the persistence of within-person variability. The same individual, presented with the same observable input, produces different outcomes on different occasions, and different individuals produce divergent outcomes that no observable covariate fully predicts. We argue that this variability belongs in the dynamic latent state of the person, and that human outcomes are controllable in a precise and operational sense through interventions that target the s",
-      "aiSummary": "arXiv:2605.27580v1 Announce Type: cross Abstract: A central puzzle for the behavioural sciences and for human-facing artificial intelligence is the persistence of within-person variability. The same individual, presented with the same observable input, produces different outcomes on different occasions, and different individuals produce divergent outcomes that no observable covariate fully predicts. We argue that this variability belongs in the dynamic latent state of the person, and that human outcomes are controllable in a precise and operational sense through interventions that target the s",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.27580v1 Announce Type: cross Abstract: A central puzzle for the behavioural sciences and for human-facing artificial intelligence is the persistence of within-person variability. The same individual, presented with the same observable input, produces different outcomes on different occasions, and different individuals produce divergent outcomes that no observable covariate fully predicts. We argue that this variability belongs in the dynamic latent state of the person, and that human outcomes are controllable in a precise and operational sense through interventions that target the s",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.27580",
-      "featured": false
-    },
-    {
-      "id": "551d33cbfa29",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "12시간 전 / 12h ago",
-      "title": "Scientists say the hidden “third eye” inside your skull is the bizarre reason you can see",
-      "titleKo": "",
-      "summary": "A newly published hypothesis suggests that human eyes evolved from a single \"third eye\" on an ancient ancestor's head. This proposed evolutionary detour would explain why vertebrate vision is unique, leaving a functional remnant inside our brains.",
-      "aiSummary": "A newly published hypothesis suggests that human eyes evolved from a single \"third eye\" on an ancient ancestor's head. This proposed evolutionary detour would explain why vertebrate vision is unique, leaving a functional remnant inside our brains.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A newly published hypothesis suggests that human eyes evolved from a single \"third eye\" on an ancient ancestor's head. This proposed evolutionary detour would explain why vertebrate vision is unique, leaving a functional remnant inside our brains.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/scientists-say-the-hidden-third-eye-inside-your-skull-is-the-bizarre-reason-you-can-see/",
       "featured": false
     }
   ]
