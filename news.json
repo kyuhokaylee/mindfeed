@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-30T11:26:11.207762+00:00",
+  "updated": "2026-05-30T13:53:20.478930+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ff6db803e8cf",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "The psychology behind why some people want to censor classic nude art",
+      "titleKo": "",
+      "summary": "Nudity in art has always sparked controversy. A recent psychology study found that people who prioritize social order and purity tend to view nude paintings as pornographic, while those who prioritize fairness and autonomy view them as beautiful and interesting.",
+      "aiSummary": "Nudity in art has always sparked controversy. A recent psychology study found that people who prioritize social order and purity tend to view nude paintings as pornographic, while those who prioritize fairness and autonomy view them as beautiful and interesting.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Nudity in art has always sparked controversy. A recent psychology study found that people who prioritize social order and purity tend to view nude paintings as pornographic, while those who prioritize fairness and autonomy view them as beautiful and interesting.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-psychology-behind-why-some-people-want-to-censor-classic-nude-art/",
+      "featured": true
+    },
+    {
+      "id": "9f6a9ad152e6",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "2시간 전 / 2h ago",
+      "title": "The Psychology of the Home Run in 1921",
+      "titleKo": "",
+      "summary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
+      "aiSummary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/the-psychology-of-the-home-run-in-1921/",
+      "featured": false
+    },
     {
       "id": "4a117ff93faf",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "How adults remember their parents treating them correlates with specific personality outcomes, according to a recent Current Psychology study. Researchers found that childhood overindulgence is tied to socially difficult traits, while parental praise associates with healthy social confidence.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-study-links-parental-indulgence-to-psychopathic-and-narcissistic-traits-in-adulthood/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "37fd9446b535",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-custom-harvester/",
-      "featured": false
-    },
-    {
-      "id": "e3e6848e9d76",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "What science says about masturbation and long-distance relationships",
-      "titleKo": "",
-      "summary": "A new scientific review explores how solitary sex acts as an emotional tool in long-distance relationships. While men and women report different motivations, the practice's overall impact is deeply influenced by cultural norms and personal habits.",
-      "aiSummary": "A new scientific review explores how solitary sex acts as an emotional tool in long-distance relationships. While men and women report different motivations, the practice's overall impact is deeply influenced by cultural norms and personal habits.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new scientific review explores how solitary sex acts as an emotional tool in long-distance relationships. While men and women report different motivations, the practice's overall impact is deeply influenced by cultural norms and personal habits.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/what-science-says-about-masturbation-and-long-distance-relationships/",
-      "featured": false
-    },
-    {
-      "id": "42146bb74c8d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "15시간 전 / 15h ago",
-      "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
-      "titleKo": "",
-      "summary": "arXiv:2605.28849v1 Announce Type: new Abstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD methods typically use the feature covariance metric, whereas hybrid TD methods suggest that behavior-policy transition information can provide a more informative update geometry. This paper proposes a behavior-induced Mirror-Prox temporal-difference method, called STHTD-MP, which replaces the covariance me",
-      "aiSummary": "arXiv:2605.28849v1 Announce Type: new Abstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD methods typically use the feature covariance metric, whereas hybrid TD methods suggest that behavior-policy transition information can provide a more informative update geometry. This paper proposes a behavior-induced Mirror-Prox temporal-difference method, called STHTD-MP, which replaces the covariance me",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.28849v1 Announce Type: new Abstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD methods typically use the feature covariance metric, whereas hybrid TD methods suggest that behavior-policy transition information can provide a more informative update geometry. This paper proposes a behavior-induced Mirror-Prox temporal-difference method, called STHTD-MP, which replaces the covariance me",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.28849",
       "featured": false
     }
   ]
