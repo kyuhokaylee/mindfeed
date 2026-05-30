@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-30T13:53:20.478930+00:00",
+  "updated": "2026-05-30T15:14:38.311810+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "75413002c484",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "More than half of adults with ADHD in clinical settings have a co-occurring personality disorder",
+      "titleKo": "",
+      "summary": "A new analysis suggests that 57 percent of adults seeking help for ADHD also meet the criteria for a personality disorder. Researchers found that conditions like avoidant and borderline personality are surprisingly common in this population.",
+      "aiSummary": "A new analysis suggests that 57 percent of adults seeking help for ADHD also meet the criteria for a personality disorder. Researchers found that conditions like avoidant and borderline personality are surprisingly common in this population.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new analysis suggests that 57 percent of adults seeking help for ADHD also meet the criteria for a personality disorder. Researchers found that conditions like avoidant and borderline personality are surprisingly common in this population.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/more-than-half-of-adults-with-adhd-in-clinical-settings-have-a-co-occurring-personality-disorder/",
+      "featured": true
+    },
     {
       "id": "ff6db803e8cf",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Nudity in art has always sparked controversy. A recent psychology study found that people who prioritize social order and purity tend to view nude paintings as pornographic, while those who prioritize fairness and autonomy view them as beautiful and interesting.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-psychology-behind-why-some-people-want-to-censor-classic-nude-art/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9f6a9ad152e6",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-becomes-of-second-chances/",
-      "featured": false
-    },
-    {
-      "id": "201c32d2dca0",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "6일 전 / 6d ago",
-      "title": "What It’s Like to Be…a Custom Harvester",
-      "titleKo": "",
-      "summary": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
-      "aiSummary": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-custom-harvester/",
       "featured": false
     }
   ]
