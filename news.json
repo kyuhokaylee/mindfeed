@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-30T03:59:10.865944+00:00",
+  "updated": "2026-05-30T06:53:04.781617+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "37fd9446b535",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "14시간 전 / 14h ago",
+      "title": "Is binge-watching a harmless hobby or an addiction? Loneliness may be the deciding factor",
+      "titleKo": "",
+      "summary": "A new study reveals that loneliness drives addictive binge-watching but has no effect on casual, non-problematic viewing. For some, watching endless episodes of TV acts as a dual-pathway strategy to escape negative feelings and manufacture positive ones.",
+      "aiSummary": "A new study reveals that loneliness drives addictive binge-watching but has no effect on casual, non-problematic viewing. For some, watching endless episodes of TV acts as a dual-pathway strategy to escape negative feelings and manufacture positive ones.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that loneliness drives addictive binge-watching but has no effect on casual, non-problematic viewing. For some, watching endless episodes of TV acts as a dual-pathway strategy to escape negative feelings and manufacture positive ones.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/is-binge-watching-a-harmless-hobby-or-an-addiction-loneliness-may-be-the-deciding-factor/",
+      "featured": true
+    },
+    {
+      "id": "8747e49769de",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "26일 전 / 26d ago",
+      "title": "Helping Scientists Take Their Research Global: 7 Lessons",
+      "titleKo": "",
+      "summary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
+      "featured": false
+    },
+    {
+      "id": "65f5451928f0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "Caffeine reversed memory problems caused by sleep deprivation",
+      "titleKo": "",
+      "summary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "aiSummary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
+      "featured": false
+    },
     {
       "id": "882a4643e0b7",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Learning to read does more than help you understand written text. A new brain imaging study reveals that formal reading education physically changes the neurological pathways humans use to process and decode spoken language.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-learning-to-read-alters-the-brain-s-approach-to-spoken-language/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "55a3151a5bc9",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2605.28855v1 Announce Type: new Abstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a behavior-aware replacement of the auxiliary covariance geometry in the linear prediction setting, which is the standard local model for understanding the feature-space dynamics of value-function approximation. We first replace the TDC auxiliary matrix (C) by the behavior Bellman ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.28855",
-      "featured": false
-    },
-    {
-      "id": "2e684af644cc",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "15시간 전 / 15h ago",
-      "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
-      "titleKo": "",
-      "summary": "arXiv:2605.28864v1 Announce Type: new Abstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a matched-step protocol (215,000 optimizer steps, matched data, matched optimizer and schedule) on WikiText-103, CCT reaches 21.27 validation perplexity, compared with 24.19 for an identically fine-tuned GPT-2 Small baseline. The architecture therefore contributes a 2.92 PPL (12% relative) reduction beyon",
-      "aiSummary": "arXiv:2605.28864v1 Announce Type: new Abstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a matched-step protocol (215,000 optimizer steps, matched data, matched optimizer and schedule) on WikiText-103, CCT reaches 21.27 validation perplexity, compared with 24.19 for an identically fine-tuned GPT-2 Small baseline. The architecture therefore contributes a 2.92 PPL (12% relative) reduction beyon",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.28864v1 Announce Type: new Abstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a matched-step protocol (215,000 optimizer steps, matched data, matched optimizer and schedule) on WikiText-103, CCT reaches 21.27 validation perplexity, compared with 24.19 for an identically fine-tuned GPT-2 Small baseline. The architecture therefore contributes a 2.92 PPL (12% relative) reduction beyon",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.28864",
-      "featured": false
-    },
-    {
-      "id": "07f613be8b2a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "15시간 전 / 15h ago",
-      "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
-      "titleKo": "",
-      "summary": "arXiv:2605.28883v1 Announce Type: new Abstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This paper proposes a novel logging method for tropical forests, Ultra-Reduced-Impact-Encased-Logging (URIEL). This new method is based on heli-logging techniques combined with intensive use of robotics and AI integrated with post-harvest silvicultural treatments performed by drones. The concept of appropriate equipment for this method was developed, dime",
-      "aiSummary": "arXiv:2605.28883v1 Announce Type: new Abstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This paper proposes a novel logging method for tropical forests, Ultra-Reduced-Impact-Encased-Logging (URIEL). This new method is based on heli-logging techniques combined with intensive use of robotics and AI integrated with post-harvest silvicultural treatments performed by drones. The concept of appropriate equipment for this method was developed, dime",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.28883v1 Announce Type: new Abstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This paper proposes a novel logging method for tropical forests, Ultra-Reduced-Impact-Encased-Logging (URIEL). This new method is based on heli-logging techniques combined with intensive use of robotics and AI integrated with post-harvest silvicultural treatments performed by drones. The concept of appropriate equipment for this method was developed, dime",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.28883",
-      "featured": false
-    },
-    {
-      "id": "59e6a9febb4d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "15시간 전 / 15h ago",
-      "title": "One Mask to Rule Them All: On Hidden Facts after Editing and How to Find Them",
-      "titleKo": "",
-      "summary": "arXiv:2605.28839v1 Announce Type: new Abstract: Knowledge editing methods such as ROME and MEMIT update factual associations in transformer models by modifying MLP weights. While evaluated mainly by output behavior, their internal mechanism remains underexplored. We investigate whether edits rely on a common mechanism, regardless of which fact is modified. Despite fact-specific weight changes, we argue that ROME and MEMIT target the same subset of weights critical for maintaining edits. To isolate this subset, we train a compact binary mask over the edited weights. The mask reverses 80% of edi",
-      "aiSummary": "arXiv:2605.28839v1 Announce Type: new Abstract: Knowledge editing methods such as ROME and MEMIT update factual associations in transformer models by modifying MLP weights. While evaluated mainly by output behavior, their internal mechanism remains underexplored. We investigate whether edits rely on a common mechanism, regardless of which fact is modified. Despite fact-specific weight changes, we argue that ROME and MEMIT target the same subset of weights critical for maintaining edits. To isolate this subset, we train a compact binary mask over the edited weights. The mask reverses 80% of edi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.28839v1 Announce Type: new Abstract: Knowledge editing methods such as ROME and MEMIT update factual associations in transformer models by modifying MLP weights. While evaluated mainly by output behavior, their internal mechanism remains underexplored. We investigate whether edits rely on a common mechanism, regardless of which fact is modified. Despite fact-specific weight changes, we argue that ROME and MEMIT target the same subset of weights critical for maintaining edits. To isolate this subset, we train a compact binary mask over the edited weights. The mask reverses 80% of edi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.28839",
       "featured": false
     }
   ]
