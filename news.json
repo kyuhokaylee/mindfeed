@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-30T09:23:31.973153+00:00",
+  "updated": "2026-05-30T11:26:11.207762+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4a117ff93faf",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "New study links parental indulgence to psychopathic and narcissistic traits in adulthood",
+      "titleKo": "",
+      "summary": "How adults remember their parents treating them correlates with specific personality outcomes, according to a recent Current Psychology study. Researchers found that childhood overindulgence is tied to socially difficult traits, while parental praise associates with healthy social confidence.",
+      "aiSummary": "How adults remember their parents treating them correlates with specific personality outcomes, according to a recent Current Psychology study. Researchers found that childhood overindulgence is tied to socially difficult traits, while parental praise associates with healthy social confidence.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "How adults remember their parents treating them correlates with specific personality outcomes, according to a recent Current Psychology study. Researchers found that childhood overindulgence is tied to socially difficult traits, while parental praise associates with healthy social confidence.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-study-links-parental-indulgence-to-psychopathic-and-narcissistic-traits-in-adulthood/",
+      "featured": true
+    },
     {
       "id": "37fd9446b535",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study reveals that loneliness drives addictive binge-watching but has no effect on casual, non-problematic viewing. For some, watching endless episodes of TV acts as a dual-pathway strategy to escape negative feelings and manufacture positive ones.",
       "keyPoints": [],
       "url": "https://www.psypost.org/is-binge-watching-a-harmless-hobby-or-an-addiction-loneliness-may-be-the-deciding-factor/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8747e49769de",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2605.28849v1 Announce Type: new Abstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD methods typically use the feature covariance metric, whereas hybrid TD methods suggest that behavior-policy transition information can provide a more informative update geometry. This paper proposes a behavior-induced Mirror-Prox temporal-difference method, called STHTD-MP, which replaces the covariance me",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.28849",
-      "featured": false
-    },
-    {
-      "id": "5f666b96e77d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "15시간 전 / 15h ago",
-      "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
-      "titleKo": "",
-      "summary": "arXiv:2605.28855v1 Announce Type: new Abstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a behavior-aware replacement of the auxiliary covariance geometry in the linear prediction setting, which is the standard local model for understanding the feature-space dynamics of value-function approximation. We first replace the TDC auxiliary matrix (C) by the behavior Bellman ",
-      "aiSummary": "arXiv:2605.28855v1 Announce Type: new Abstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a behavior-aware replacement of the auxiliary covariance geometry in the linear prediction setting, which is the standard local model for understanding the feature-space dynamics of value-function approximation. We first replace the TDC auxiliary matrix (C) by the behavior Bellman ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.28855v1 Announce Type: new Abstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a behavior-aware replacement of the auxiliary covariance geometry in the linear prediction setting, which is the standard local model for understanding the feature-space dynamics of value-function approximation. We first replace the TDC auxiliary matrix (C) by the behavior Bellman ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.28855",
       "featured": false
     }
   ]
