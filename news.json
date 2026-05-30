@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-30T21:07:04.798106+00:00",
+  "updated": "2026-05-30T23:04:39.827991+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f4c7d9ed70df",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Racial attitudes mobilize white and minority evangelicals differently at the ballot box",
+      "titleKo": "",
+      "summary": "A person's beliefs about race can influence whether they vote, but the outcome heavily depends on their religious identity. A nuanced study compares how racial resentment motivates white, Black, Latino, and Asian American evangelicals in opposite ways.",
+      "aiSummary": "A person's beliefs about race can influence whether they vote, but the outcome heavily depends on their religious identity. A nuanced study compares how racial resentment motivates white, Black, Latino, and Asian American evangelicals in opposite ways.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A person's beliefs about race can influence whether they vote, but the outcome heavily depends on their religious identity. A nuanced study compares how racial resentment motivates white, Black, Latino, and Asian American evangelicals in opposite ways.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/racial-attitudes-mobilize-white-and-minority-evangelicals-differently-at-the-bal/",
+      "featured": true
+    },
+    {
+      "id": "415b85daae21",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "CBD may slow Alzheimer’s by calming the brain’s immune system",
+      "titleKo": "",
+      "summary": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled CBD reduced key drivers of neuroinflammation, a damaging process increasingly linked to memory loss and brain degeneration.",
+      "aiSummary": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled CBD reduced key drivers of neuroinflammation, a damaging process increasingly linked to memory loss and brain degeneration.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled CBD reduced key drivers of neuroinflammation, a damaging process increasingly linked to memory loss and brain degeneration.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260528082507.htm",
+      "featured": false
+    },
+    {
+      "id": "172431d95cbb",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Protein traffic jams may explain aging, memory loss, and Alzheimer’s",
+      "titleKo": "",
+      "summary": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam and malfunction over time. Tiny structures called ribosomes start colliding and stalling while reading genetic instructions, triggering a chain reaction that leads to faulty proteins and harmful clumps linked to diseases like Alzheimer’s.",
+      "aiSummary": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam and malfunction over time. Tiny structures called ribosomes start colliding and stalling while reading genetic instructions, triggering a chain reaction that leads to faulty proteins and harmful clumps linked to diseases like Alzheimer’s.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam and malfunction over time. Tiny structures called ribosomes start colliding and stalling while reading genetic instructions, triggering a chain reaction that leads to faulty proteins and harmful clumps linked to diseases like Alzheimer’s.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260528082505.htm",
+      "featured": false
+    },
     {
       "id": "cc945bde4926",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A new study explores the psychological factors driving extreme celebrity fandom. Researchers found that while mental distress is strongly linked to celebrity obsession, the impact of childhood trauma reveals a surprising pattern of both obsessive attachment and emotional withdrawal.",
       "keyPoints": [],
       "url": "https://www.psypost.org/childhood-trauma-and-mental-distress-shape-the-way-fans-idolize-celebrities/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "30eac9ba9436",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2605.28854v1 Announce Type: cross Abstract: Large language models (LLMs) exhibit remarkable flexibility: they can adapt to novel tasks from in-context examples without any parameter updates, a capability known as in-context learning (ICL). Prior work on synthetic tasks has shown that ICL can implement specific algorithms, demonstrating architectural competence, and mechanistic analyses have identified key circuits that support this behavior. However, because in-context computation -- regardless of its algorithmic form -- relies on transformations in high-dimensional representation space,",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.28854",
-      "featured": false
-    },
-    {
-      "id": "385d34939dca",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "23시간 전 / 23h ago",
-      "title": "Neural-Behavioral Representation of Natural Whole-body Movement in Monkeys",
-      "titleKo": "",
-      "summary": "arXiv:2605.29355v1 Announce Type: cross Abstract: Understanding how cortical activity represents natural whole-body behaviors in primates remains challenging. Limited by the diversity of movements and inaccessibility of large-scale neural representation of whole-body kinematics, previous motor decoding studies focused on constrained tasks and limited limb movements. Here, we present a neural-behavioral recording and modeling framework for freely moving monkeys, combining large-scale epidural cortical signals from distributed sensory- and motor-related areas with synchronized multi-view motion ",
-      "aiSummary": "arXiv:2605.29355v1 Announce Type: cross Abstract: Understanding how cortical activity represents natural whole-body behaviors in primates remains challenging. Limited by the diversity of movements and inaccessibility of large-scale neural representation of whole-body kinematics, previous motor decoding studies focused on constrained tasks and limited limb movements. Here, we present a neural-behavioral recording and modeling framework for freely moving monkeys, combining large-scale epidural cortical signals from distributed sensory- and motor-related areas with synchronized multi-view motion ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.29355v1 Announce Type: cross Abstract: Understanding how cortical activity represents natural whole-body behaviors in primates remains challenging. Limited by the diversity of movements and inaccessibility of large-scale neural representation of whole-body kinematics, previous motor decoding studies focused on constrained tasks and limited limb movements. Here, we present a neural-behavioral recording and modeling framework for freely moving monkeys, combining large-scale epidural cortical signals from distributed sensory- and motor-related areas with synchronized multi-view motion ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.29355",
-      "featured": false
-    },
-    {
-      "id": "8e2f22c1991d",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "23시간 전 / 23h ago",
-      "title": "Common Noise-Induced Group-Level Synchronization Between Uncoupled Groups of Oscillators",
-      "titleKo": "",
-      "summary": "arXiv:2605.29529v1 Announce Type: cross Abstract: We investigate group-level synchronization between oscillator groups induced by common noise in the absence of inter-group coupling. Each group receives a common noise shared by all its oscillators and independent local noise inputs to individual oscillators. The same common noise is applied to all groups. The system is studied with both identical and nonidentical oscillators, and with and without intra-group coupling. In the nonidentical case, natural frequencies are drawn from the same distribution for both groups, making them statistically e",
-      "aiSummary": "arXiv:2605.29529v1 Announce Type: cross Abstract: We investigate group-level synchronization between oscillator groups induced by common noise in the absence of inter-group coupling. Each group receives a common noise shared by all its oscillators and independent local noise inputs to individual oscillators. The same common noise is applied to all groups. The system is studied with both identical and nonidentical oscillators, and with and without intra-group coupling. In the nonidentical case, natural frequencies are drawn from the same distribution for both groups, making them statistically e",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.29529v1 Announce Type: cross Abstract: We investigate group-level synchronization between oscillator groups induced by common noise in the absence of inter-group coupling. Each group receives a common noise shared by all its oscillators and independent local noise inputs to individual oscillators. The same common noise is applied to all groups. The system is studied with both identical and nonidentical oscillators, and with and without intra-group coupling. In the nonidentical case, natural frequencies are drawn from the same distribution for both groups, making them statistically e",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.29529",
-      "featured": false
-    },
-    {
-      "id": "758ac8ce340e",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Deep-seated feelings of shame and abandonment fuel borderline traits in bipolar patients",
-      "titleKo": "",
-      "summary": "Patients with bipolar disorder often experience symptoms of borderline personality disorder. New research maps out how deeply ingrained beliefs regarding shame, abandonment, and self-control shape these overlapping mental health challenges.",
-      "aiSummary": "Patients with bipolar disorder often experience symptoms of borderline personality disorder. New research maps out how deeply ingrained beliefs regarding shame, abandonment, and self-control shape these overlapping mental health challenges.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Patients with bipolar disorder often experience symptoms of borderline personality disorder. New research maps out how deeply ingrained beliefs regarding shame, abandonment, and self-control shape these overlapping mental health challenges.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-deeply-ingrained-negative-beliefs-shape-bipolar-disorder-symptoms/",
       "featured": false
     }
   ]
