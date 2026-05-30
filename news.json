@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-30T19:26:41.136591+00:00",
+  "updated": "2026-05-30T21:07:04.798106+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "cc945bde4926",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Childhood trauma and mental distress might shape the way fans idolize celebrities",
+      "titleKo": "",
+      "summary": "A new study explores the psychological factors driving extreme celebrity fandom. Researchers found that while mental distress is strongly linked to celebrity obsession, the impact of childhood trauma reveals a surprising pattern of both obsessive attachment and emotional withdrawal.",
+      "aiSummary": "A new study explores the psychological factors driving extreme celebrity fandom. Researchers found that while mental distress is strongly linked to celebrity obsession, the impact of childhood trauma reveals a surprising pattern of both obsessive attachment and emotional withdrawal.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study explores the psychological factors driving extreme celebrity fandom. Researchers found that while mental distress is strongly linked to celebrity obsession, the impact of childhood trauma reveals a surprising pattern of both obsessive attachment and emotional withdrawal.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/childhood-trauma-and-mental-distress-shape-the-way-fans-idolize-celebrities/",
+      "featured": true
+    },
+    {
+      "id": "30eac9ba9436",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Vitamin B12 and folate deficiencies linked to chronic fatigue",
+      "titleKo": "",
+      "summary": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation, even in otherwise healthy people.",
+      "aiSummary": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation, even in otherwise healthy people.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation, even in otherwise healthy people.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260528082501.htm",
+      "featured": false
+    },
     {
       "id": "e150b1178859",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study finds that people don't always want a friendly AI chatbot. When the stakes are high, users trust artificial intelligence that uses a logical, competent tone rather than a warm, empathetic one.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-research-reveals-how-humans-judge-the-moral-minds-of-artificial-intelligence/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4ea448f45e65",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Patients with bipolar disorder often experience symptoms of borderline personality disorder. New research maps out how deeply ingrained beliefs regarding shame, abandonment, and self-control shape these overlapping mental health challenges.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-deeply-ingrained-negative-beliefs-shape-bipolar-disorder-symptoms/",
-      "featured": false
-    },
-    {
-      "id": "415b85daae21",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "21시간 전 / 21h ago",
-      "title": "CBD may slow Alzheimer’s by calming the brain’s immune system",
-      "titleKo": "",
-      "summary": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled CBD reduced key drivers of neuroinflammation, a damaging process increasingly linked to memory loss and brain degeneration.",
-      "aiSummary": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled CBD reduced key drivers of neuroinflammation, a damaging process increasingly linked to memory loss and brain degeneration.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled CBD reduced key drivers of neuroinflammation, a damaging process increasingly linked to memory loss and brain degeneration.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260528082507.htm",
-      "featured": false
-    },
-    {
-      "id": "172431d95cbb",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "9시간 전 / 9h ago",
-      "title": "Protein traffic jams may explain aging, memory loss, and Alzheimer’s",
-      "titleKo": "",
-      "summary": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam and malfunction over time. Tiny structures called ribosomes start colliding and stalling while reading genetic instructions, triggering a chain reaction that leads to faulty proteins and harmful clumps linked to diseases like Alzheimer’s.",
-      "aiSummary": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam and malfunction over time. Tiny structures called ribosomes start colliding and stalling while reading genetic instructions, triggering a chain reaction that leads to faulty proteins and harmful clumps linked to diseases like Alzheimer’s.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam and malfunction over time. Tiny structures called ribosomes start colliding and stalling while reading genetic instructions, triggering a chain reaction that leads to faulty proteins and harmful clumps linked to diseases like Alzheimer’s.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260528082505.htm",
       "featured": false
     }
   ]
