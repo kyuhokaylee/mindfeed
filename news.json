@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-30T17:16:10.073706+00:00",
+  "updated": "2026-05-30T19:26:41.136591+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e150b1178859",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "New research reveals how humans judge the moral minds of artificial intelligence",
+      "titleKo": "",
+      "summary": "A new study finds that people don't always want a friendly AI chatbot. When the stakes are high, users trust artificial intelligence that uses a logical, competent tone rather than a warm, empathetic one.",
+      "aiSummary": "A new study finds that people don't always want a friendly AI chatbot. When the stakes are high, users trust artificial intelligence that uses a logical, competent tone rather than a warm, empathetic one.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study finds that people don't always want a friendly AI chatbot. When the stakes are high, users trust artificial intelligence that uses a logical, competent tone rather than a warm, empathetic one.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-research-reveals-how-humans-judge-the-moral-minds-of-artificial-intelligence/",
+      "featured": true
+    },
+    {
+      "id": "4ea448f45e65",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "5일 전 / 5d ago",
+      "title": "What It’s Like to Be…a Correctional Officer",
+      "titleKo": "",
+      "summary": "Grinding through 16-hour shifts, standing behind inmates (never in front), and trying to stay human in an inhuman environment with Bill Farrell, a correctional officer in Massachusetts. What happens when an officer gets \"frozen\"? And why does the sound of scuffling sneakers stop him in his tracks? [buzzsprout episode='19183441' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
+      "aiSummary": "Grinding through 16-hour shifts, standing behind inmates (never in front), and trying to stay human in an inhuman environment with Bill Farrell, a correctional officer in Massachusetts. What happens when an officer gets \"frozen\"? And why does the sound of scuffling sneakers stop him in his tracks? [buzzsprout episode='19183441' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Grinding through 16-hour shifts, standing behind inmates (never in front), and trying to stay human in an inhuman environment with Bill Farrell, a correctional officer in Massachusetts. What happens when an officer gets \"frozen\"? And why does the sound of scuffling sneakers stop him in his tracks? [buzzsprout episode='19183441' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-correctional-officer/",
+      "featured": false
+    },
+    {
+      "id": "5f8d160ef368",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "6일 전 / 6d ago",
+      "title": "What Becomes of Second Chances?",
+      "titleKo": "",
+      "summary": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
+      "aiSummary": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-becomes-of-second-chances/",
+      "featured": false
+    },
     {
       "id": "b5de3ffb0921",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A daily diary study found that people with high attachment anxiety experience a spike in depression and a drop in self-esteem on days when their partner pays more attention to their phone than to them.",
       "keyPoints": [],
       "url": "https://www.psypost.org/anxiously-attached-individuals-feel-more-depressed-when-their-partners-phub-them/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "201c32d2dca0",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam and malfunction over time. Tiny structures called ribosomes start colliding and stalling while reading genetic instructions, triggering a chain reaction that leads to faulty proteins and harmful clumps linked to diseases like Alzheimer’s.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260528082505.htm",
-      "featured": false
-    },
-    {
-      "id": "30eac9ba9436",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "19시간 전 / 19h ago",
-      "title": "Vitamin B12 and folate deficiencies linked to chronic fatigue",
-      "titleKo": "",
-      "summary": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation, even in otherwise healthy people.",
-      "aiSummary": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation, even in otherwise healthy people.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation, even in otherwise healthy people.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260528082501.htm",
-      "featured": false
-    },
-    {
-      "id": "033de5eb5456",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "20시간 전 / 20h ago",
-      "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
-      "titleKo": "",
-      "summary": "Cambridge researchers created miniature brain-and-spinal-cord systems in the lab that can send signals and even trigger tiny muscle contractions. They discovered that human neurons gradually lose their ability to regrow after damage during development — but that ability can potentially be switched back on. The team identified a gene network controlling this process and found that an existing hormone drug dramatically boosted nerve fiber regrowth.",
-      "aiSummary": "Cambridge researchers created miniature brain-and-spinal-cord systems in the lab that can send signals and even trigger tiny muscle contractions. They discovered that human neurons gradually lose their ability to regrow after damage during development — but that ability can potentially be switched back on. The team identified a gene network controlling this process and found that an existing hormone drug dramatically boosted nerve fiber regrowth.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Cambridge researchers created miniature brain-and-spinal-cord systems in the lab that can send signals and even trigger tiny muscle contractions. They discovered that human neurons gradually lose their ability to regrow after damage during development — but that ability can potentially be switched back on. The team identified a gene network controlling this process and found that an existing hormone drug dramatically boosted nerve fiber regrowth.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
-      "featured": false
-    },
-    {
-      "id": "16c35d490991",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "9시간 전 / 9h ago",
-      "title": "Sexual assault accusations trigger stronger calls for artistic censorship than murder, study finds",
-      "titleKo": "",
-      "summary": "A new psychology study reveals that people are highly supportive of censoring or devaluing art when the creator is accused of sexual assault, even if they still privately enjoy the artwork itself.",
-      "aiSummary": "A new psychology study reveals that people are highly supportive of censoring or devaluing art when the creator is accused of sexual assault, even if they still privately enjoy the artwork itself.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new psychology study reveals that people are highly supportive of censoring or devaluing art when the creator is accused of sexual assault, even if they still privately enjoy the artwork itself.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/sexual-assault-accusations-trigger-stronger-calls-for-artistic-censorship-than-murder-study-finds/",
       "featured": false
     }
   ]
