@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-31T17:17:43.221616+00:00",
+  "updated": "2026-05-31T19:28:05.621790+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5a99ecea0579",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Good lawmakers go to Congress because they choose to run, not because voters reward their skills",
+      "titleKo": "",
+      "summary": "Voters rarely reward state politicians for their lawmaking skills. However, a recent study suggests that the most effective state legislators still reach Congress because their ambition drives them to pursue higher federal office.",
+      "aiSummary": "Voters rarely reward state politicians for their lawmaking skills. However, a recent study suggests that the most effective state legislators still reach Congress because their ambition drives them to pursue higher federal office.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Voters rarely reward state politicians for their lawmaking skills. However, a recent study suggests that the most effective state legislators still reach Congress because their ambition drives them to pursue higher federal office.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/good-lawmakers-go-to-congress-because-they-choose-to-run-not-because-voters-reward-their-skills/",
+      "featured": true
+    },
     {
       "id": "233994cff6ad",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study found that two minor cannabis compounds, CBN and THCV, were more effective at reducing voluntary alcohol drinking in rats than CBD, offering a potential new avenue for treating alcohol use disorder.",
       "keyPoints": [],
       "url": "https://www.psypost.org/lesser-known-cannabis-compounds-show-promise-for-treating-alcohol-addiction-in-rats/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "68e8f67ec428",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Nudity in art has always sparked controversy. A recent psychology study found that people who prioritize social order and purity tend to view nude paintings as pornographic, while those who prioritize fairness and autonomy view them as beautiful and interesting.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-psychology-behind-why-some-people-want-to-censor-classic-nude-art/",
-      "featured": false
-    },
-    {
-      "id": "9f6a9ad152e6",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "2시간 전 / 2h ago",
-      "title": "The Psychology of the Home Run in 1921",
-      "titleKo": "",
-      "summary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
-      "aiSummary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/the-psychology-of-the-home-run-in-1921/",
       "featured": false
     }
   ]
