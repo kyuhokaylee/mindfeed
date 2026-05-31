@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-31T11:03:39.618124+00:00",
+  "updated": "2026-05-31T13:59:10.432670+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2b2875d12b39",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Undigested fructose linked to anxiety and brain inflammation",
+      "titleKo": "",
+      "summary": "A new study finds that an inability to properly digest fructose alters the gut microbiome, triggering low-grade inflammation. This digestive disruption may contribute to anxiety and depressive behaviors by alarming the brain's immune system.",
+      "aiSummary": "A new study finds that an inability to properly digest fructose alters the gut microbiome, triggering low-grade inflammation. This digestive disruption may contribute to anxiety and depressive behaviors by alarming the brain's immune system.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study finds that an inability to properly digest fructose alters the gut microbiome, triggering low-grade inflammation. This digestive disruption may contribute to anxiety and depressive behaviors by alarming the brain's immune system.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/undigested-fructose-linked-to-anxiety-and-brain-inflammation/",
+      "featured": true
+    },
     {
       "id": "1e4455675d5c",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent analysis of national survey data suggests that playing video games does not correspond to increased prejudiced beliefs. Instead, researchers found that gamers tend to hold more inclusive cultural values than the general American public.",
       "keyPoints": [],
       "url": "https://www.psypost.org/contrary-to-stereotypes-gamers-tend-to-be-more-inclusive-than-the-general-public-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9ac4b3ac2ce8",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
-      "featured": false
-    },
-    {
-      "id": "882a4643e0b7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "How learning to read alters the brain’s approach to spoken language",
-      "titleKo": "",
-      "summary": "Learning to read does more than help you understand written text. A new brain imaging study reveals that formal reading education physically changes the neurological pathways humans use to process and decode spoken language.",
-      "aiSummary": "Learning to read does more than help you understand written text. A new brain imaging study reveals that formal reading education physically changes the neurological pathways humans use to process and decode spoken language.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Learning to read does more than help you understand written text. A new brain imaging study reveals that formal reading education physically changes the neurological pathways humans use to process and decode spoken language.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-learning-to-read-alters-the-brain-s-approach-to-spoken-language/",
       "featured": false
     }
   ]
