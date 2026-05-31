@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-31T13:59:10.432670+00:00",
+  "updated": "2026-05-31T15:23:51.420485+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c949c210f966",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "New study suggests the brain applies different standards of beauty to paintings and architecture",
+      "titleKo": "",
+      "summary": "A recent study found that the human brain applies different standards of beauty depending on the type of visual art it evaluates. Architects and painters weigh visual features like symmetry and complexity quite differently.",
+      "aiSummary": "A recent study found that the human brain applies different standards of beauty depending on the type of visual art it evaluates. Architects and painters weigh visual features like symmetry and complexity quite differently.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study found that the human brain applies different standards of beauty depending on the type of visual art it evaluates. Architects and painters weigh visual features like symmetry and complexity quite differently.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-study-suggests-the-brain-applies-different-standards-of-beauty-to-paintings-and-architecture/",
+      "featured": true
+    },
     {
       "id": "2b2875d12b39",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study finds that an inability to properly digest fructose alters the gut microbiome, triggering low-grade inflammation. This digestive disruption may contribute to anxiety and depressive behaviors by alarming the brain's immune system.",
       "keyPoints": [],
       "url": "https://www.psypost.org/undigested-fructose-linked-to-anxiety-and-brain-inflammation/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1e4455675d5c",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
-      "featured": false
-    },
-    {
-      "id": "65f5451928f0",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1시간 전 / 1h ago",
-      "title": "Caffeine reversed memory problems caused by sleep deprivation",
-      "titleKo": "",
-      "summary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
-      "aiSummary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
       "featured": false
     }
   ]
