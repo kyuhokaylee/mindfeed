@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-31T08:18:31.187002+00:00",
+  "updated": "2026-05-31T11:03:39.618124+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "1e4455675d5c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Contrary to stereotypes, gamers tend to be more inclusive than the general public, study finds",
+      "titleKo": "",
+      "summary": "A recent analysis of national survey data suggests that playing video games does not correspond to increased prejudiced beliefs. Instead, researchers found that gamers tend to hold more inclusive cultural values than the general American public.",
+      "aiSummary": "A recent analysis of national survey data suggests that playing video games does not correspond to increased prejudiced beliefs. Instead, researchers found that gamers tend to hold more inclusive cultural values than the general American public.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent analysis of national survey data suggests that playing video games does not correspond to increased prejudiced beliefs. Instead, researchers found that gamers tend to hold more inclusive cultural values than the general American public.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/contrary-to-stereotypes-gamers-tend-to-be-more-inclusive-than-the-general-public-study-finds/",
+      "featured": true
+    },
     {
       "id": "9ac4b3ac2ce8",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new clinical trial mapped the sleeping brains of people with insomnia after they took a cannabis-based drug. The treatment altered deeper sleep stages and reduced dreaming, though participants experienced no cognitive impairment the morning after.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-a-dose-of-medicinal-cannabis-alters-brain-waves-during-sleep-2026-03-26/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f4c7d9ed70df",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Learning to read does more than help you understand written text. A new brain imaging study reveals that formal reading education physically changes the neurological pathways humans use to process and decode spoken language.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-learning-to-read-alters-the-brain-s-approach-to-spoken-language/",
-      "featured": false
-    },
-    {
-      "id": "55a3151a5bc9",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "23시간 전 / 23h ago",
-      "title": "Subcortical Shape Variations and Their Associations with Cognition Across the 8th Decade of Life. A Study in the Lothian Birth Cohort 1936",
-      "titleKo": "",
-      "summary": "arXiv:2605.29703v1 Announce Type: new Abstract: The study of brain morphology changes in normal individuals may capture aspects of functionally-relevant brain aging not fully indicated by gross volumetry. Despite the important role of subcortical brain structures in cognition, the associations between their morphological trajectories and cognitive changes in aging have not been documented. We use neuroimaging, demographic, and cognitive data from a large longitudinal study of cognitive aging, the Lothian Birth Cohort 1936, to explore shape changes in subcortical brain structures of community-d",
-      "aiSummary": "arXiv:2605.29703v1 Announce Type: new Abstract: The study of brain morphology changes in normal individuals may capture aspects of functionally-relevant brain aging not fully indicated by gross volumetry. Despite the important role of subcortical brain structures in cognition, the associations between their morphological trajectories and cognitive changes in aging have not been documented. We use neuroimaging, demographic, and cognitive data from a large longitudinal study of cognitive aging, the Lothian Birth Cohort 1936, to explore shape changes in subcortical brain structures of community-d",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.29703v1 Announce Type: new Abstract: The study of brain morphology changes in normal individuals may capture aspects of functionally-relevant brain aging not fully indicated by gross volumetry. Despite the important role of subcortical brain structures in cognition, the associations between their morphological trajectories and cognitive changes in aging have not been documented. We use neuroimaging, demographic, and cognitive data from a large longitudinal study of cognitive aging, the Lothian Birth Cohort 1936, to explore shape changes in subcortical brain structures of community-d",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.29703",
       "featured": false
     }
   ]
