@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-31T15:23:51.420485+00:00",
+  "updated": "2026-05-31T17:17:43.221616+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "233994cff6ad",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Lesser-known cannabis compounds show promise for treating alcohol addiction in rats",
+      "titleKo": "",
+      "summary": "A new study found that two minor cannabis compounds, CBN and THCV, were more effective at reducing voluntary alcohol drinking in rats than CBD, offering a potential new avenue for treating alcohol use disorder.",
+      "aiSummary": "A new study found that two minor cannabis compounds, CBN and THCV, were more effective at reducing voluntary alcohol drinking in rats than CBD, offering a potential new avenue for treating alcohol use disorder.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study found that two minor cannabis compounds, CBN and THCV, were more effective at reducing voluntary alcohol drinking in rats than CBD, offering a potential new avenue for treating alcohol use disorder.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/lesser-known-cannabis-compounds-show-promise-for-treating-alcohol-addiction-in-rats/",
+      "featured": true
+    },
+    {
+      "id": "68e8f67ec428",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists found the hidden switch fueling alzheimer’s brain inflammation",
+      "titleKo": "",
+      "summary": "Scientists at Scripps Research have uncovered a molecular “switch” that appears to fuel the damaging brain inflammation seen in Alzheimer’s disease. They found that a protein called STING becomes chemically altered in a way that keeps the brain’s immune system stuck in overdrive, harming the connections between nerve cells.",
+      "aiSummary": "Scientists at Scripps Research have uncovered a molecular “switch” that appears to fuel the damaging brain inflammation seen in Alzheimer’s disease. They found that a protein called STING becomes chemically altered in a way that keeps the brain’s immune system stuck in overdrive, harming the connections between nerve cells.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists at Scripps Research have uncovered a molecular “switch” that appears to fuel the damaging brain inflammation seen in Alzheimer’s disease. They found that a protein called STING becomes chemically altered in a way that keeps the brain’s immune system stuck in overdrive, harming the connections between nerve cells.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260530053424.htm",
+      "featured": false
+    },
+    {
+      "id": "65f5451928f0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Caffeine reversed memory problems caused by sleep deprivation",
+      "titleKo": "",
+      "summary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "aiSummary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
+      "featured": false
+    },
     {
       "id": "c949c210f966",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A recent study found that the human brain applies different standards of beauty depending on the type of visual art it evaluates. Architects and painters weigh visual features like symmetry and complexity quite differently.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-study-suggests-the-brain-applies-different-standards-of-beauty-to-paintings-and-architecture/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2b2875d12b39",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/the-psychology-of-the-home-run-in-1921/",
-      "featured": false
-    },
-    {
-      "id": "4a117ff93faf",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "New study links parental indulgence to psychopathic and narcissistic traits in adulthood",
-      "titleKo": "",
-      "summary": "How adults remember their parents treating them correlates with specific personality outcomes, according to a recent Current Psychology study. Researchers found that childhood overindulgence is tied to socially difficult traits, while parental praise associates with healthy social confidence.",
-      "aiSummary": "How adults remember their parents treating them correlates with specific personality outcomes, according to a recent Current Psychology study. Researchers found that childhood overindulgence is tied to socially difficult traits, while parental praise associates with healthy social confidence.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "How adults remember their parents treating them correlates with specific personality outcomes, according to a recent Current Psychology study. Researchers found that childhood overindulgence is tied to socially difficult traits, while parental praise associates with healthy social confidence.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/new-study-links-parental-indulgence-to-psychopathic-and-narcissistic-traits-in-adulthood/",
-      "featured": false
-    },
-    {
-      "id": "37fd9446b535",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "14시간 전 / 14h ago",
-      "title": "Is binge-watching a harmless hobby or an addiction? Loneliness may be the deciding factor",
-      "titleKo": "",
-      "summary": "A new study reveals that loneliness drives addictive binge-watching but has no effect on casual, non-problematic viewing. For some, watching endless episodes of TV acts as a dual-pathway strategy to escape negative feelings and manufacture positive ones.",
-      "aiSummary": "A new study reveals that loneliness drives addictive binge-watching but has no effect on casual, non-problematic viewing. For some, watching endless episodes of TV acts as a dual-pathway strategy to escape negative feelings and manufacture positive ones.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals that loneliness drives addictive binge-watching but has no effect on casual, non-problematic viewing. For some, watching endless episodes of TV acts as a dual-pathway strategy to escape negative feelings and manufacture positive ones.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/is-binge-watching-a-harmless-hobby-or-an-addiction-loneliness-may-be-the-deciding-factor/",
-      "featured": false
-    },
-    {
-      "id": "8747e49769de",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "26일 전 / 26d ago",
-      "title": "Helping Scientists Take Their Research Global: 7 Lessons",
-      "titleKo": "",
-      "summary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
-      "aiSummary": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "In 2010, Joseph Henrich, Steven Heine, and Ara Norenzayan showed that 96 percent of the data that scientists had relied on to understand human psychology and behavior was from W.E.I.R.D. research participants—people living in Western, educated, industrialized, rich, and democratic countries. That biased sample, they argued, severely limited what we could say we really knew about ourselves. Their work was a wake-up call to many scientists to expand where and how they conduct their research. But recognizing the need to expand and diversify research is one thing, and actually doing it is another.",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/helping-scientists-take-their-research-global-7-lessons/",
       "featured": false
     }
   ]
