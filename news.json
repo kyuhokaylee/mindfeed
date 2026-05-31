@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-31T21:07:51.441101+00:00",
+  "updated": "2026-05-31T23:07:22.513750+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "14ee9a92dec8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "The subtle ways rape myths persist in family conversations about safety",
+      "titleKo": "",
+      "summary": "A new study shows that traditional machismo is linked to higher rape myth acceptance. Even parents who reject these myths on paper often use victim-blaming logic when discussing how to protect their daughters.",
+      "aiSummary": "A new study shows that traditional machismo is linked to higher rape myth acceptance. Even parents who reject these myths on paper often use victim-blaming logic when discussing how to protect their daughters.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study shows that traditional machismo is linked to higher rape myth acceptance. Even parents who reject these myths on paper often use victim-blaming logic when discussing how to protect their daughters.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-subtle-ways-rape-myths-persist-in-family-conversations-about-safety/",
+      "featured": true
+    },
     {
       "id": "a199d28727d3",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study reveals that the pace of a child's brain maturation can predict whether they will tend to bottle up their emotions during their teenage years, offering new clues about the biological roots of adolescent mental health.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-irregular-brain-maturation-in-childhood-predicts-emotional-habits-in-early-a/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9f6a9ad152e6",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A daily diary study found that people with high attachment anxiety experience a spike in depression and a drop in self-esteem on days when their partner pays more attention to their phone than to them.",
       "keyPoints": [],
       "url": "https://www.psypost.org/anxiously-attached-individuals-feel-more-depressed-when-their-partners-phub-them/",
-      "featured": false
-    },
-    {
-      "id": "201c32d2dca0",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "7일 전 / 7d ago",
-      "title": "What It’s Like to Be…a Custom Harvester",
-      "titleKo": "",
-      "summary": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
-      "aiSummary": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-custom-harvester/",
       "featured": false
     }
   ]
