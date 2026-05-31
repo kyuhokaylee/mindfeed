@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-30T23:04:39.827991+00:00",
+  "updated": "2026-05-31T04:24:35.963271+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9ac4b3ac2ce8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "How a dose of medicinal cannabis alters brain waves during sleep",
+      "titleKo": "",
+      "summary": "A new clinical trial mapped the sleeping brains of people with insomnia after they took a cannabis-based drug. The treatment altered deeper sleep stages and reduced dreaming, though participants experienced no cognitive impairment the morning after.",
+      "aiSummary": "A new clinical trial mapped the sleeping brains of people with insomnia after they took a cannabis-based drug. The treatment altered deeper sleep stages and reduced dreaming, though participants experienced no cognitive impairment the morning after.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new clinical trial mapped the sleeping brains of people with insomnia after they took a cannabis-based drug. The treatment altered deeper sleep stages and reduced dreaming, though participants experienced no cognitive impairment the morning after.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-a-dose-of-medicinal-cannabis-alters-brain-waves-during-sleep-2026-03-26/",
+      "featured": true
+    },
     {
       "id": "f4c7d9ed70df",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A person's beliefs about race can influence whether they vote, but the outcome heavily depends on their religious identity. A nuanced study compares how racial resentment motivates white, Black, Latino, and Asian American evangelicals in opposite ways.",
       "keyPoints": [],
       "url": "https://www.psypost.org/racial-attitudes-mobilize-white-and-minority-evangelicals-differently-at-the-bal/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "415b85daae21",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2605.29703v1 Announce Type: new Abstract: The study of brain morphology changes in normal individuals may capture aspects of functionally-relevant brain aging not fully indicated by gross volumetry. Despite the important role of subcortical brain structures in cognition, the associations between their morphological trajectories and cognitive changes in aging have not been documented. We use neuroimaging, demographic, and cognitive data from a large longitudinal study of cognitive aging, the Lothian Birth Cohort 1936, to explore shape changes in subcortical brain structures of community-d",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2605.29703",
-      "featured": false
-    },
-    {
-      "id": "8079c875bdcb",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "23시간 전 / 23h ago",
-      "title": "Large language models reorganize representational geometry during in-context learning",
-      "titleKo": "",
-      "summary": "arXiv:2605.28854v1 Announce Type: cross Abstract: Large language models (LLMs) exhibit remarkable flexibility: they can adapt to novel tasks from in-context examples without any parameter updates, a capability known as in-context learning (ICL). Prior work on synthetic tasks has shown that ICL can implement specific algorithms, demonstrating architectural competence, and mechanistic analyses have identified key circuits that support this behavior. However, because in-context computation -- regardless of its algorithmic form -- relies on transformations in high-dimensional representation space,",
-      "aiSummary": "arXiv:2605.28854v1 Announce Type: cross Abstract: Large language models (LLMs) exhibit remarkable flexibility: they can adapt to novel tasks from in-context examples without any parameter updates, a capability known as in-context learning (ICL). Prior work on synthetic tasks has shown that ICL can implement specific algorithms, demonstrating architectural competence, and mechanistic analyses have identified key circuits that support this behavior. However, because in-context computation -- regardless of its algorithmic form -- relies on transformations in high-dimensional representation space,",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.28854v1 Announce Type: cross Abstract: Large language models (LLMs) exhibit remarkable flexibility: they can adapt to novel tasks from in-context examples without any parameter updates, a capability known as in-context learning (ICL). Prior work on synthetic tasks has shown that ICL can implement specific algorithms, demonstrating architectural competence, and mechanistic analyses have identified key circuits that support this behavior. However, because in-context computation -- regardless of its algorithmic form -- relies on transformations in high-dimensional representation space,",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.28854",
       "featured": false
     }
   ]
