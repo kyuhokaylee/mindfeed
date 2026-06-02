@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-02T21:53:18.370288+00:00",
+  "updated": "2026-06-02T23:52:12.293264+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "90c0de836d49",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Psychologists identify the dark traits behind an extremist mindset",
+      "titleKo": "",
+      "summary": "New psychological research reveals that everyday sadistic tendencies and a cynical, manipulative nature powerfully fuel militant extremist beliefs. By analyzing dark personality traits and moral judgments, scientists are uncovering how ordinary people justify political violence.",
+      "aiSummary": "New psychological research reveals that everyday sadistic tendencies and a cynical, manipulative nature powerfully fuel militant extremist beliefs. By analyzing dark personality traits and moral judgments, scientists are uncovering how ordinary people justify political violence.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New psychological research reveals that everyday sadistic tendencies and a cynical, manipulative nature powerfully fuel militant extremist beliefs. By analyzing dark personality traits and moral judgments, scientists are uncovering how ordinary people justify political violence.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-dark-personality-traits-driving-militant-extremist-beliefs/",
+      "featured": true
+    },
+    {
+      "id": "24d876a9bced",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "14시간 전 / 14h ago",
+      "title": "Your brain starts making social decisions before you do",
+      "titleKo": "",
+      "summary": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
+      "aiSummary": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260602021629.htm",
+      "featured": false
+    },
+    {
+      "id": "65f5451928f0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Caffeine reversed memory problems caused by sleep deprivation",
+      "titleKo": "",
+      "summary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "aiSummary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
+      "featured": false
+    },
     {
       "id": "e4f341d7ada7",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Despite popular beliefs linking psychedelic drugs to open-mindedness, new research published in the Journal of Psychopharmacology suggests that substances like psilocybin and LSD do not reliably alter a person's authoritarian political views.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-research-challenges-the-idea-that-psychedelics-reduce-authoritarian-attitudes/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a19856681b0e",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260602021645.htm",
-      "featured": false
-    },
-    {
-      "id": "5cfabfb1da71",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Fetal brain scans can predict a toddler’s vocabulary size years before they learn to speak",
-      "titleKo": "",
-      "summary": "A new study reveals that the size of a specific language-processing region in a fetus's brain can predict how many words that child will be able to say at two to three years of age.",
-      "aiSummary": "A new study reveals that the size of a specific language-processing region in a fetus's brain can predict how many words that child will be able to say at two to three years of age.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals that the size of a specific language-processing region in a fetus's brain can predict how many words that child will be able to say at two to three years of age.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/fetal-brain-scans-can-predict-a-toddlers-vocabulary-size-years-before-they-learn-to-speak/",
-      "featured": false
-    },
-    {
-      "id": "757c7dbd14f8",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Poor sleep quality predicts marital strain, especially for women married to men",
-      "titleKo": "",
-      "summary": "A bad night of rest often leads to relationship friction. However, a new study suggests that women in different-sex marriages are uniquely sensitive to how both their own and their partner's sleep quality impacts daily tension.",
-      "aiSummary": "A bad night of rest often leads to relationship friction. However, a new study suggests that women in different-sex marriages are uniquely sensitive to how both their own and their partner's sleep quality impacts daily tension.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A bad night of rest often leads to relationship friction. However, a new study suggests that women in different-sex marriages are uniquely sensitive to how both their own and their partner's sleep quality impacts daily tension.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/poor-sleep-quality-predicts-marital-strain-especially-for-women-married-to-men/",
-      "featured": false
-    },
-    {
-      "id": "502a0d3825ad",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "4시간 전 / 4h ago",
-      "title": "Scientists discover how coffee interacts with the gut microbiome to affect the human brain",
-      "titleKo": "",
-      "summary": "Regularly drinking coffee modifies your gut microbiome, which in turn influences mood, stress, and memory. New research reveals that both caffeinated and decaf coffee offer distinct, measurable benefits for psychological well-being and digestive health.",
-      "aiSummary": "Regularly drinking coffee modifies your gut microbiome, which in turn influences mood, stress, and memory. New research reveals that both caffeinated and decaf coffee offer distinct, measurable benefits for psychological well-being and digestive health.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Regularly drinking coffee modifies your gut microbiome, which in turn influences mood, stress, and memory. New research reveals that both caffeinated and decaf coffee offer distinct, measurable benefits for psychological well-being and digestive health.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/scientists-discover-how-coffee-interacts-with-the-gut-microbiome-to-affect-the-human-brain/",
       "featured": false
     }
   ]
