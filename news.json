@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-05T22:19:49.808846+00:00",
+  "updated": "2026-06-06T00:14:00.279453+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f14f35da0d1d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Magic mushroom compound enhances the effectiveness of a common nerve pain medication",
+      "titleKo": "",
+      "summary": "New research shows that psilocybin, the active compound in magic mushrooms, reduces chronic nerve pain in mice. It also significantly enhances the performance of common pain drugs, suggesting the psychedelic might fundamentally rewire how the brain processes pain.",
+      "aiSummary": "New research shows that psilocybin, the active compound in magic mushrooms, reduces chronic nerve pain in mice. It also significantly enhances the performance of common pain drugs, suggesting the psychedelic might fundamentally rewire how the brain processes pain.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research shows that psilocybin, the active compound in magic mushrooms, reduces chronic nerve pain in mice. It also significantly enhances the performance of common pain drugs, suggesting the psychedelic might fundamentally rewire how the brain processes pain.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/magic-mushroom-compound-enhances-the-effectiveness-of-a-common-nerve-pain-medication/",
+      "featured": true
+    },
+    {
+      "id": "dde95f6a0a42",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "20시간 전 / 20h ago",
+      "title": "Early psychosis shows deviations in scaling behaviour within a critical regime",
+      "titleKo": "",
+      "summary": "arXiv:2606.06290v1 Announce Type: new Abstract: Accumulating evidence suggests that large-scale brain activity exhibits scale-invariant dynamics consistent with operation in a near-critical regime. Such dynamics have been associated with long-range correlations, efficient information processing, and the emergence of collective organization. While altered criticality-related measures have been reported in psychiatric disorders, previous findings remain fragmented across observables and modalities, making it unclear whether different scaling measures capture a common alteration of large-scale br",
+      "aiSummary": "arXiv:2606.06290v1 Announce Type: new Abstract: Accumulating evidence suggests that large-scale brain activity exhibits scale-invariant dynamics consistent with operation in a near-critical regime. Such dynamics have been associated with long-range correlations, efficient information processing, and the emergence of collective organization. While altered criticality-related measures have been reported in psychiatric disorders, previous findings remain fragmented across observables and modalities, making it unclear whether different scaling measures capture a common alteration of large-scale br",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2606.06290v1 Announce Type: new Abstract: Accumulating evidence suggests that large-scale brain activity exhibits scale-invariant dynamics consistent with operation in a near-critical regime. Such dynamics have been associated with long-range correlations, efficient information processing, and the emergence of collective organization. While altered criticality-related measures have been reported in psychiatric disorders, previous findings remain fragmented across observables and modalities, making it unclear whether different scaling measures capture a common alteration of large-scale br",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2606.06290",
+      "featured": false
+    },
     {
       "id": "5e9a9be5f450",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Rising rates of teenage depression are often blamed on growing income inequality. However, a decade-long study of over half a million adolescents reveals that local shifts in the wealth gap have practically zero impact on teen depressive symptoms.",
       "keyPoints": [],
       "url": "https://www.psypost.org/local-changes-in-income-inequality-do-not-predict-teen-depression-massive-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5f8d160ef368",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2606.05189v1 Announce Type: new Abstract: Biological neural systems achieve remarkable robustness and adaptability in uncertain environments through sparse, event-driven spike-based information processing and adaptive regulation. Inspired by this paradigm, this paper develops a neuromorhpic disturbance observer (NDO) and control framework that replaces conventional continuous-time signal representations with spike-timing encoding. Both disturbance estimates and control inputs are constructed via integrate-and-fire (IF) neuron dynamics from discrete spike events, yielding intrinsically ev",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.05189",
-      "featured": false
-    },
-    {
-      "id": "fda07f396af7",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "15시간 전 / 15h ago",
-      "title": "Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature",
-      "titleKo": "",
-      "summary": "arXiv:2606.05206v1 Announce Type: new Abstract: Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve. Here, we describe a local multi-LLM pipeline for ontology-constrained literature synthesis. The pipeline reads papers, extracts evidence, incorporates figure descriptions, assembles constrained prompts, and validates out",
-      "aiSummary": "arXiv:2606.05206v1 Announce Type: new Abstract: Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve. Here, we describe a local multi-LLM pipeline for ontology-constrained literature synthesis. The pipeline reads papers, extracts evidence, incorporates figure descriptions, assembles constrained prompts, and validates out",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.05206v1 Announce Type: new Abstract: Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve. Here, we describe a local multi-LLM pipeline for ontology-constrained literature synthesis. The pipeline reads papers, extracts evidence, incorporates figure descriptions, assembles constrained prompts, and validates out",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.05206",
-      "featured": false
-    },
-    {
-      "id": "12e9171612f4",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "15시간 전 / 15h ago",
-      "title": "Cross-scale spatially-aware generative modeling of transcriptomic programs underlying neurodegenerative brain organization",
-      "titleKo": "",
-      "summary": "arXiv:2606.05870v1 Announce Type: new Abstract: Neurodegenerative disorders such as Alzheimer's disease exhibit highly organized patterns of regional brain vulnerability, yet the biological mechanisms underlying this spatial selectivity remain incompletely understood. Existing imaging-transcriptomic studies have largely relied on correlation-based analyses between gene expression and neuroimaging phenotypes, limiting their ability to model how molecular organization gives rise to neurodegeneration. Here, we introduce a cross-scale spatially-aware generative framework for modeling transcriptomi",
-      "aiSummary": "arXiv:2606.05870v1 Announce Type: new Abstract: Neurodegenerative disorders such as Alzheimer's disease exhibit highly organized patterns of regional brain vulnerability, yet the biological mechanisms underlying this spatial selectivity remain incompletely understood. Existing imaging-transcriptomic studies have largely relied on correlation-based analyses between gene expression and neuroimaging phenotypes, limiting their ability to model how molecular organization gives rise to neurodegeneration. Here, we introduce a cross-scale spatially-aware generative framework for modeling transcriptomi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.05870v1 Announce Type: new Abstract: Neurodegenerative disorders such as Alzheimer's disease exhibit highly organized patterns of regional brain vulnerability, yet the biological mechanisms underlying this spatial selectivity remain incompletely understood. Existing imaging-transcriptomic studies have largely relied on correlation-based analyses between gene expression and neuroimaging phenotypes, limiting their ability to model how molecular organization gives rise to neurodegeneration. Here, we introduce a cross-scale spatially-aware generative framework for modeling transcriptomi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.05870",
       "featured": false
     }
   ]
