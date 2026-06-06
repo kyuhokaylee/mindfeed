@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-06T07:52:26.860829+00:00",
+  "updated": "2026-06-06T10:11:01.315885+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9a0b5a32f38c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Intolerance of uncertainty is tied to emotion labeling in people with autistic traits",
+      "titleKo": "",
+      "summary": "An intense dislike of the unknown is a major source of anxiety for people with autistic traits. A new study explores how putting complex feelings into words is associated with managing this discomfort.",
+      "aiSummary": "An intense dislike of the unknown is a major source of anxiety for people with autistic traits. A new study explores how putting complex feelings into words is associated with managing this discomfort.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "An intense dislike of the unknown is a major source of anxiety for people with autistic traits. A new study explores how putting complex feelings into words is associated with managing this discomfort.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/intolerance-of-uncertainty-is-tied-to-emotion-labeling-in-people-with-autistic-traits/",
+      "featured": true
+    },
+    {
+      "id": "1f16d91e2c4d",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "6시간 전 / 6h ago",
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "titleKo": "",
+      "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language models operated in an identity-rich deliberative forum without disclosure. We conduct a structured co",
+      "aiSummary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language models operated in an identity-rich deliberative forum without disclosure. We conduct a structured co",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language models operated in an identity-rich deliberative forum without disclosure. We conduct a structured co",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2606.05256",
+      "featured": false
+    },
+    {
+      "id": "3428e1763ab5",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "6시간 전 / 6h ago",
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "titleKo": "",
+      "summary": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strategies across two MAS topologies, finding that no fixed strategy is universally optimal. Instead, effe",
+      "aiSummary": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strategies across two MAS topologies, finding that no fixed strategy is universally optimal. Instead, effe",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strategies across two MAS topologies, finding that no fixed strategy is universally optimal. Instead, effe",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2606.05304",
+      "featured": false
+    },
     {
       "id": "ca059f7c85be",
       "tag": "ai",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies missing knowledge, retrieves open web evidence, and synthesizes evidence grounded background knowledge for meme understanding and detection. We also introduce a curated meme understanding benchmark of r",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.05316",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a52489ecd33f",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2606.04031v1 Announce Type: new Abstract: Coupled gradient descent--where the update of one parameter block depends on another--underlies bilevel optimization, two-time-scale stochastic approximation, and adversarial training. When the coupled Jacobian is block-triangular, asymptotic stability is governed by the spectral radii of the diagonal blocks, yet transient amplification before convergence can be arbitrarily large due to non-normality. We develop a sharp pseudospectral theory for such block-triangular Jacobians, proving that the Kreiss constant satisfies $K(J) \\leq 2/(1-\\gamma) + ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.04031",
-      "featured": false
-    },
-    {
-      "id": "8ee5984990cd",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Scientists discover gut bacteria that may help protect against autism and ADHD",
-      "titleKo": "",
-      "summary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
-      "aiSummary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260602021645.htm",
-      "featured": false
-    },
-    {
-      "id": "24d876a9bced",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Your brain starts making social decisions before you do",
-      "titleKo": "",
-      "summary": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
-      "aiSummary": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260602021629.htm",
-      "featured": false
-    },
-    {
-      "id": "a964a3807e79",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Your political ideology predicts which World Cup icon you prefer: Lionel Messi or Cristiano Ronaldo",
-      "titleKo": "",
-      "summary": "The debate over World Cup icons Lionel Messi and Cristiano Ronaldo isn't just about soccer. New research spanning 26 countries reveals that liberals generally prefer Messi, while conservatives favor Ronaldo, especially among younger, politically divided generations.",
-      "aiSummary": "The debate over World Cup icons Lionel Messi and Cristiano Ronaldo isn't just about soccer. New research spanning 26 countries reveals that liberals generally prefer Messi, while conservatives favor Ronaldo, especially among younger, politically divided generations.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The debate over World Cup icons Lionel Messi and Cristiano Ronaldo isn't just about soccer. New research spanning 26 countries reveals that liberals generally prefer Messi, while conservatives favor Ronaldo, especially among younger, politically divided generations.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/your-political-ideology-predicts-which-world-cup-icon-you-prefer-lionel-messi-or-cristiano-ronaldo/",
       "featured": false
     }
   ]
