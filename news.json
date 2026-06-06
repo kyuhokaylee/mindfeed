@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-06T12:09:36.912042+00:00",
+  "updated": "2026-06-06T14:47:04.403017+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b1948faffcbc",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Strong approval of the National Rifle Association is linked to support for political violence",
+      "titleKo": "",
+      "summary": "A recent nationwide survey suggests that adults who strongly approve of the National Rifle Association are more likely to justify and express a willingness to participate in politically motivated violence.",
+      "aiSummary": "A recent nationwide survey suggests that adults who strongly approve of the National Rifle Association are more likely to justify and express a willingness to participate in politically motivated violence.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent nationwide survey suggests that adults who strongly approve of the National Rifle Association are more likely to justify and express a willingness to participate in politically motivated violence.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/strong-approval-of-the-national-rifle-association-is-linked-to-support-for-political-violence/",
+      "featured": true
+    },
     {
       "id": "2d51b614e6e7",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study suggests that experiencing a mental illness is becoming a distinct political identity, particularly among Gen Z. Those who strongly identify with their mental health conditions are increasingly demanding expanded healthcare, education, and welfare funding.",
       "keyPoints": [],
       "url": "https://www.psypost.org/mental-health-might-be-emerging-as-a-source-of-political-identity-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8ee5984990cd",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "While Americans prefer back-and-forth conversations and dislike when automated systems use emojis, Chinese users appear highly accepting of mental health chatbots regardless of communication style, revealing deep cultural divides in how we interact with technology.",
       "keyPoints": [],
       "url": "https://www.psypost.org/mental-health-chatbots-face-a-cultural-divide-over-emoji-use-and-conversation-de/",
-      "featured": false
-    },
-    {
-      "id": "b77173135ec8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "Early Detection of Alzheimer's Disease Using Explainable Machine Learning on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer's Disease Neuroimaging Initiative (ADNI) Dataset",
-      "titleKo": "",
-      "summary": "arXiv:2606.03995v1 Announce Type: new Abstract: Background: Alzheimer's disease (AD) affects over 55 million people worldwide. Accurate, interpretable detection of normal cognition (NC), mild cognitive impairment (MCI), and AD from routine clinical assessments remains a critical unmet need. Methods: An XGBoost classifier was developed for three-class detection using eight clinical features from the Alzheimer's Disease Neuroimaging Initiative (ADNI): MMSE, CDR Global, CDR Sum of Boxes (CDR-SB), MoCA, FAQ, age, sex, and education. Hyperparameters were optimised using Optuna (50 trials); class im",
-      "aiSummary": "arXiv:2606.03995v1 Announce Type: new Abstract: Background: Alzheimer's disease (AD) affects over 55 million people worldwide. Accurate, interpretable detection of normal cognition (NC), mild cognitive impairment (MCI), and AD from routine clinical assessments remains a critical unmet need. Methods: An XGBoost classifier was developed for three-class detection using eight clinical features from the Alzheimer's Disease Neuroimaging Initiative (ADNI): MMSE, CDR Global, CDR Sum of Boxes (CDR-SB), MoCA, FAQ, age, sex, and education. Hyperparameters were optimised using Optuna (50 trials); class im",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.03995v1 Announce Type: new Abstract: Background: Alzheimer's disease (AD) affects over 55 million people worldwide. Accurate, interpretable detection of normal cognition (NC), mild cognitive impairment (MCI), and AD from routine clinical assessments remains a critical unmet need. Methods: An XGBoost classifier was developed for three-class detection using eight clinical features from the Alzheimer's Disease Neuroimaging Initiative (ADNI): MMSE, CDR Global, CDR Sum of Boxes (CDR-SB), MoCA, FAQ, age, sex, and education. Hyperparameters were optimised using Optuna (50 trials); class im",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.03995",
       "featured": false
     }
   ]
