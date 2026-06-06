@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-06T14:47:04.403017+00:00",
+  "updated": "2026-06-06T16:11:44.054377+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e3ba264d43fd",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Popular weight loss and diabetes drugs show no biological link to mental illness",
+      "titleKo": "",
+      "summary": "Despite troubling reports of anxiety and depression among users of new weight loss and diabetes medications, a comprehensive genetic and clinical analysis reveals no biological link between the drugs and mental health disorders.",
+      "aiSummary": "Despite troubling reports of anxiety and depression among users of new weight loss and diabetes medications, a comprehensive genetic and clinical analysis reveals no biological link between the drugs and mental health disorders.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Despite troubling reports of anxiety and depression among users of new weight loss and diabetes medications, a comprehensive genetic and clinical analysis reveals no biological link between the drugs and mental health disorders.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/popular-weight-loss-and-diabetes-drugs-show-no-biological-link-to-mental-illness/",
+      "featured": true
+    },
     {
       "id": "b1948faffcbc",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent nationwide survey suggests that adults who strongly approve of the National Rifle Association are more likely to justify and express a willingness to participate in politically motivated violence.",
       "keyPoints": [],
       "url": "https://www.psypost.org/strong-approval-of-the-national-rifle-association-is-linked-to-support-for-political-violence/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2d51b614e6e7",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists have uncovered evidence that autism may include at least two biologically distinct subtypes, each marked by a different pattern of brain communication. By combining brain scans from nearly 1,000 people with autism with insights from 20 genetically engineered mouse models, researchers identified a “hyperconnectivity” subtype, where brain regions communicate more than usual, and a “hypoconnectivity” subtype, where communication is reduced.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
-      "featured": false
-    },
-    {
-      "id": "367eaa2673e6",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Mental health chatbots face a cultural divide over emoji use and conversation depth",
-      "titleKo": "",
-      "summary": "While Americans prefer back-and-forth conversations and dislike when automated systems use emojis, Chinese users appear highly accepting of mental health chatbots regardless of communication style, revealing deep cultural divides in how we interact with technology.",
-      "aiSummary": "While Americans prefer back-and-forth conversations and dislike when automated systems use emojis, Chinese users appear highly accepting of mental health chatbots regardless of communication style, revealing deep cultural divides in how we interact with technology.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "While Americans prefer back-and-forth conversations and dislike when automated systems use emojis, Chinese users appear highly accepting of mental health chatbots regardless of communication style, revealing deep cultural divides in how we interact with technology.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/mental-health-chatbots-face-a-cultural-divide-over-emoji-use-and-conversation-de/",
       "featured": false
     }
   ]
