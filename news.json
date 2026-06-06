@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-06T16:11:44.054377+00:00",
+  "updated": "2026-06-06T18:12:14.236857+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "38aa571c204b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Hallucinogen use is linked to a slight increase in heart valve disease risk",
+      "titleKo": "",
+      "summary": "A new analysis of health records suggests a modest link between lifetime hallucinogen use and valvular heart disease. While the increased risk is small, the findings highlight the need for more research into the physical safety of psychedelics.",
+      "aiSummary": "A new analysis of health records suggests a modest link between lifetime hallucinogen use and valvular heart disease. While the increased risk is small, the findings highlight the need for more research into the physical safety of psychedelics.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new analysis of health records suggests a modest link between lifetime hallucinogen use and valvular heart disease. While the increased risk is small, the findings highlight the need for more research into the physical safety of psychedelics.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/hallucinogen-use-is-linked-to-a-slight-increase-in-heart-valve-disease-risk/",
+      "featured": true
+    },
     {
       "id": "e3ba264d43fd",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Despite troubling reports of anxiety and depression among users of new weight loss and diabetes medications, a comprehensive genetic and clinical analysis reveals no biological link between the drugs and mental health disorders.",
       "keyPoints": [],
       "url": "https://www.psypost.org/popular-weight-loss-and-diabetes-drugs-show-no-biological-link-to-mental-illness/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b1948faffcbc",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
-      "featured": false
-    },
-    {
-      "id": "dd3663856437",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Brain scans reveal two distinct types of autism",
-      "titleKo": "",
-      "summary": "Scientists have uncovered evidence that autism may include at least two biologically distinct subtypes, each marked by a different pattern of brain communication. By combining brain scans from nearly 1,000 people with autism with insights from 20 genetically engineered mouse models, researchers identified a “hyperconnectivity” subtype, where brain regions communicate more than usual, and a “hypoconnectivity” subtype, where communication is reduced.",
-      "aiSummary": "Scientists have uncovered evidence that autism may include at least two biologically distinct subtypes, each marked by a different pattern of brain communication. By combining brain scans from nearly 1,000 people with autism with insights from 20 genetically engineered mouse models, researchers identified a “hyperconnectivity” subtype, where brain regions communicate more than usual, and a “hypoconnectivity” subtype, where communication is reduced.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists have uncovered evidence that autism may include at least two biologically distinct subtypes, each marked by a different pattern of brain communication. By combining brain scans from nearly 1,000 people with autism with insights from 20 genetically engineered mouse models, researchers identified a “hyperconnectivity” subtype, where brain regions communicate more than usual, and a “hypoconnectivity” subtype, where communication is reduced.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
       "featured": false
     }
   ]
