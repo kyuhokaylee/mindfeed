@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-06T20:14:18.211253+00:00",
+  "updated": "2026-06-06T22:08:34.591528+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8d6d22e97c47",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Does testosterone therapy affect pelvic pain in transgender adolescents?",
+      "titleKo": "",
+      "summary": "A new survey suggests that transgender youth taking gender-affirming testosterone experience lower rates of pelvic pain than those not taking hormones, challenging previous assumptions about the side effects of transitional care.",
+      "aiSummary": "A new survey suggests that transgender youth taking gender-affirming testosterone experience lower rates of pelvic pain than those not taking hormones, challenging previous assumptions about the side effects of transitional care.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new survey suggests that transgender youth taking gender-affirming testosterone experience lower rates of pelvic pain than those not taking hormones, challenging previous assumptions about the side effects of transitional care.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/transgender-adolescents-on-testosterone-therapy-report-lower-rates-of-pelvic-pai/",
+      "featured": true
+    },
+    {
+      "id": "201c32d2dca0",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "14일 전 / 14d ago",
+      "title": "What It’s Like to Be…a Custom Harvester",
+      "titleKo": "",
+      "summary": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
+      "aiSummary": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-custom-harvester/",
+      "featured": false
+    },
+    {
+      "id": "2ec9fb8758d3",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
+      "titleKo": "",
+      "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments.",
+      "aiSummary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
+      "featured": false
+    },
     {
       "id": "405d61ae42a2",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A popular theory suggests voters reject opposing facts to avoid the emotional pain of being wrong. New research tested this idea and found that managing our feelings does not actually close the partisan divide over basic reality.",
       "keyPoints": [],
       "url": "https://www.psypost.org/why-voters-reject-opposing-facts-and-why-it-isn-t-about-avoiding-bad-feelings/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "dd3663856437",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "New research shows that psilocybin, the active compound in magic mushrooms, reduces chronic nerve pain in mice. It also significantly enhances the performance of common pain drugs, suggesting the psychedelic might fundamentally rewire how the brain processes pain.",
       "keyPoints": [],
       "url": "https://www.psypost.org/magic-mushroom-compound-enhances-the-effectiveness-of-a-common-nerve-pain-medication/",
-      "featured": false
-    },
-    {
-      "id": "dde95f6a0a42",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "20시간 전 / 20h ago",
-      "title": "Early psychosis shows deviations in scaling behaviour within a critical regime",
-      "titleKo": "",
-      "summary": "arXiv:2606.06290v1 Announce Type: new Abstract: Accumulating evidence suggests that large-scale brain activity exhibits scale-invariant dynamics consistent with operation in a near-critical regime. Such dynamics have been associated with long-range correlations, efficient information processing, and the emergence of collective organization. While altered criticality-related measures have been reported in psychiatric disorders, previous findings remain fragmented across observables and modalities, making it unclear whether different scaling measures capture a common alteration of large-scale br",
-      "aiSummary": "arXiv:2606.06290v1 Announce Type: new Abstract: Accumulating evidence suggests that large-scale brain activity exhibits scale-invariant dynamics consistent with operation in a near-critical regime. Such dynamics have been associated with long-range correlations, efficient information processing, and the emergence of collective organization. While altered criticality-related measures have been reported in psychiatric disorders, previous findings remain fragmented across observables and modalities, making it unclear whether different scaling measures capture a common alteration of large-scale br",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.06290v1 Announce Type: new Abstract: Accumulating evidence suggests that large-scale brain activity exhibits scale-invariant dynamics consistent with operation in a near-critical regime. Such dynamics have been associated with long-range correlations, efficient information processing, and the emergence of collective organization. While altered criticality-related measures have been reported in psychiatric disorders, previous findings remain fragmented across observables and modalities, making it unclear whether different scaling measures capture a common alteration of large-scale br",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.06290",
-      "featured": false
-    },
-    {
-      "id": "5e9a9be5f450",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Local changes in income inequality do not predict teen depression, massive study finds",
-      "titleKo": "",
-      "summary": "Rising rates of teenage depression are often blamed on growing income inequality. However, a decade-long study of over half a million adolescents reveals that local shifts in the wealth gap have practically zero impact on teen depressive symptoms.",
-      "aiSummary": "Rising rates of teenage depression are often blamed on growing income inequality. However, a decade-long study of over half a million adolescents reveals that local shifts in the wealth gap have practically zero impact on teen depressive symptoms.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Rising rates of teenage depression are often blamed on growing income inequality. However, a decade-long study of over half a million adolescents reveals that local shifts in the wealth gap have practically zero impact on teen depressive symptoms.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/local-changes-in-income-inequality-do-not-predict-teen-depression-massive-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "5f8d160ef368",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "What Becomes of Second Chances?",
-      "titleKo": "",
-      "summary": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
-      "aiSummary": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-becomes-of-second-chances/",
       "featured": false
     }
   ]
