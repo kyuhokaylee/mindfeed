@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-07T09:25:08.886690+00:00",
+  "updated": "2026-06-07T11:53:49.419294+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "419ca385c600",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "New psychology research shows people consistently overestimate how much others lie and cheat",
+      "titleKo": "",
+      "summary": "People consistently assume that others are much more likely to lie and cheat than they actually are. Research in the Journal of Experimental Social Psychology suggests that providing accurate information about honesty levels improves overall social trust.",
+      "aiSummary": "People consistently assume that others are much more likely to lie and cheat than they actually are. Research in the Journal of Experimental Social Psychology suggests that providing accurate information about honesty levels improves overall social trust.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People consistently assume that others are much more likely to lie and cheat than they actually are. Research in the Journal of Experimental Social Psychology suggests that providing accurate information about honesty levels improves overall social trust.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-psychology-research-shows-people-consistently-overestimate-how-much-others-lie-and-cheat/",
+      "featured": true
+    },
     {
       "id": "da7999758007",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A massive analysis of brain scans suggests that reduced gray matter volume and white matter integrity mediate aggressive behavior in patients with schizophrenia, providing new insights into the biology of violence.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-scans-link-tissue-reductions-to-aggression-in-schizophrenia/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5f8d160ef368",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "By measuring brainwaves and startle reflexes on a smartphone, researchers discovered that psychopathic traits like boldness overload attention to ignore threats, while meanness is tied to a biological deficit in emotional processing.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-responses-reveal-why-certain-psychopathic-traits-inhibit-empathy/",
-      "featured": false
-    },
-    {
-      "id": "9f6a9ad152e6",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "6일 전 / 6d ago",
-      "title": "The Psychology of the Home Run in 1921",
-      "titleKo": "",
-      "summary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
-      "aiSummary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/the-psychology-of-the-home-run-in-1921/",
       "featured": false
     }
   ]
