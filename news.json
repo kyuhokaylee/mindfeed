@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-07T20:17:45.695607+00:00",
+  "updated": "2026-06-07T22:10:06.425782+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "fd22cb289a35",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Eye-tracking study reveals visual preferences in toddlers with autism",
+      "titleKo": "",
+      "summary": "When toys are present in a room, young children with autism often focus their visual attention on the objects rather than human faces. Removing visual clutter can gently encourage neurodivergent toddlers to spend more time observing social interactions.",
+      "aiSummary": "When toys are present in a room, young children with autism often focus their visual attention on the objects rather than human faces. Removing visual clutter can gently encourage neurodivergent toddlers to spend more time observing social interactions.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When toys are present in a room, young children with autism often focus their visual attention on the objects rather than human faces. Removing visual clutter can gently encourage neurodivergent toddlers to spend more time observing social interactions.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/removing-toys-from-a-mixed-environment-helps-autistic-children-look-at-faces/",
+      "featured": true
+    },
+    {
+      "id": "8ee5984990cd",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "5일 전 / 5d ago",
+      "title": "Scientists discover gut bacteria that may help protect against autism and ADHD",
+      "titleKo": "",
+      "summary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
+      "aiSummary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260602021645.htm",
+      "featured": false
+    },
     {
       "id": "bb3ed4d8c820",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Researchers have developed a dual-threat model to explain modern antisemitism. The findings suggest that believing Jewish people hold excessive power triggers unique psychological fears across the political divide.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-psychological-model-explains-why-antisemitism-emerges-on-both-the-right-and-the-left/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "24d876a9bced",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A new analysis of health records suggests a modest link between lifetime hallucinogen use and valvular heart disease. While the increased risk is small, the findings highlight the need for more research into the physical safety of psychedelics.",
       "keyPoints": [],
       "url": "https://www.psypost.org/hallucinogen-use-is-linked-to-a-slight-increase-in-heart-valve-disease-risk/",
-      "featured": false
-    },
-    {
-      "id": "e3ba264d43fd",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Popular weight loss and diabetes drugs show no biological link to mental illness",
-      "titleKo": "",
-      "summary": "Despite troubling reports of anxiety and depression among users of new weight loss and diabetes medications, a comprehensive genetic and clinical analysis reveals no biological link between the drugs and mental health disorders.",
-      "aiSummary": "Despite troubling reports of anxiety and depression among users of new weight loss and diabetes medications, a comprehensive genetic and clinical analysis reveals no biological link between the drugs and mental health disorders.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Despite troubling reports of anxiety and depression among users of new weight loss and diabetes medications, a comprehensive genetic and clinical analysis reveals no biological link between the drugs and mental health disorders.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/popular-weight-loss-and-diabetes-drugs-show-no-biological-link-to-mental-illness/",
-      "featured": false
-    },
-    {
-      "id": "b1948faffcbc",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Strong approval of the National Rifle Association is linked to support for political violence",
-      "titleKo": "",
-      "summary": "A recent nationwide survey suggests that adults who strongly approve of the National Rifle Association are more likely to justify and express a willingness to participate in politically motivated violence.",
-      "aiSummary": "A recent nationwide survey suggests that adults who strongly approve of the National Rifle Association are more likely to justify and express a willingness to participate in politically motivated violence.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent nationwide survey suggests that adults who strongly approve of the National Rifle Association are more likely to justify and express a willingness to participate in politically motivated violence.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/strong-approval-of-the-national-rifle-association-is-linked-to-support-for-political-violence/",
       "featured": false
     }
   ]
