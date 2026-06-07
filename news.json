@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-07T11:53:49.419294+00:00",
+  "updated": "2026-06-07T14:07:06.722950+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "39570df53051",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Dopamine pathways explain why companionship encourages risk-taking",
+      "titleKo": "",
+      "summary": "New research in mice maps the specific brain circuitry that explains why having a friend nearby boosts courage. The findings show that social interaction shifts dopamine firing patterns to dampen risk sensitivity and motivate risky exploration.",
+      "aiSummary": "New research in mice maps the specific brain circuitry that explains why having a friend nearby boosts courage. The findings show that social interaction shifts dopamine firing patterns to dampen risk sensitivity and motivate risky exploration.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research in mice maps the specific brain circuitry that explains why having a friend nearby boosts courage. The findings show that social interaction shifts dopamine firing patterns to dampen risk sensitivity and motivate risky exploration.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-a-friend-s-presence-rewires-the-brain-to-boost-courage/",
+      "featured": true
+    },
+    {
+      "id": "9f6a9ad152e6",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "8일 전 / 8d ago",
+      "title": "The Psychology of the Home Run in 1921",
+      "titleKo": "",
+      "summary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
+      "aiSummary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/the-psychology-of-the-home-run-in-1921/",
+      "featured": false
+    },
+    {
+      "id": "4ea448f45e65",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "13일 전 / 13d ago",
+      "title": "What It’s Like to Be…a Correctional Officer",
+      "titleKo": "",
+      "summary": "Grinding through 16-hour shifts, standing behind inmates (never in front), and trying to stay human in an inhuman environment with Bill Farrell, a correctional officer in Massachusetts. What happens when an officer gets \"frozen\"? And why does the sound of scuffling sneakers stop him in his tracks? [buzzsprout episode='19183441' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
+      "aiSummary": "Grinding through 16-hour shifts, standing behind inmates (never in front), and trying to stay human in an inhuman environment with Bill Farrell, a correctional officer in Massachusetts. What happens when an officer gets \"frozen\"? And why does the sound of scuffling sneakers stop him in his tracks? [buzzsprout episode='19183441' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Grinding through 16-hour shifts, standing behind inmates (never in front), and trying to stay human in an inhuman environment with Bill Farrell, a correctional officer in Massachusetts. What happens when an officer gets \"frozen\"? And why does the sound of scuffling sneakers stop him in his tracks? [buzzsprout episode='19183441' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-correctional-officer/",
+      "featured": false
+    },
     {
       "id": "419ca385c600",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "People consistently assume that others are much more likely to lie and cheat than they actually are. Research in the Journal of Experimental Social Psychology suggests that providing accurate information about honesty levels improves overall social trust.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-psychology-research-shows-people-consistently-overestimate-how-much-others-lie-and-cheat/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "da7999758007",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strategies across two MAS topologies, finding that no fixed strategy is universally optimal. Instead, effe",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.05304",
-      "featured": false
-    },
-    {
-      "id": "ca059f7c85be",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "3시간 전 / 3h ago",
-      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
-      "titleKo": "",
-      "summary": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies missing knowledge, retrieves open web evidence, and synthesizes evidence grounded background knowledge for meme understanding and detection. We also introduce a curated meme understanding benchmark of r",
-      "aiSummary": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies missing knowledge, retrieves open web evidence, and synthesizes evidence grounded background knowledge for meme understanding and detection. We also introduce a curated meme understanding benchmark of r",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies missing knowledge, retrieves open web evidence, and synthesizes evidence grounded background knowledge for meme understanding and detection. We also introduce a curated meme understanding benchmark of r",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.05316",
-      "featured": false
-    },
-    {
-      "id": "a52489ecd33f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "3시간 전 / 3h ago",
-      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
-      "titleKo": "",
-      "summary": "arXiv:2606.05332v1 Announce Type: new Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the input context rather than modifying model weights. We present GITCO (Gated Inference-Time Context Optimization), a lightweight three-component framework: Gate, Router, and Critic that selectively identifies and suppresses harmful patches without any parameter updates. Evaluated on Tim",
-      "aiSummary": "arXiv:2606.05332v1 Announce Type: new Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the input context rather than modifying model weights. We present GITCO (Gated Inference-Time Context Optimization), a lightweight three-component framework: Gate, Router, and Critic that selectively identifies and suppresses harmful patches without any parameter updates. Evaluated on Tim",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.05332v1 Announce Type: new Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the input context rather than modifying model weights. We present GITCO (Gated Inference-Time Context Optimization), a lightweight three-component framework: Gate, Router, and Critic that selectively identifies and suppresses harmful patches without any parameter updates. Evaluated on Tim",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.05332",
-      "featured": false
-    },
-    {
-      "id": "d7835c20e47a",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Brainwaves reveal two different biological roots for psychopathic behavior",
-      "titleKo": "",
-      "summary": "By measuring brainwaves and startle reflexes on a smartphone, researchers discovered that psychopathic traits like boldness overload attention to ignore threats, while meanness is tied to a biological deficit in emotional processing.",
-      "aiSummary": "By measuring brainwaves and startle reflexes on a smartphone, researchers discovered that psychopathic traits like boldness overload attention to ignore threats, while meanness is tied to a biological deficit in emotional processing.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "By measuring brainwaves and startle reflexes on a smartphone, researchers discovered that psychopathic traits like boldness overload attention to ignore threats, while meanness is tied to a biological deficit in emotional processing.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/brain-responses-reveal-why-certain-psychopathic-traits-inhibit-empathy/",
       "featured": false
     }
   ]
