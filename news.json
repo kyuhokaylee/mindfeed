@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-07T14:07:06.722950+00:00",
+  "updated": "2026-06-07T16:22:16.379919+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "82ab7246f326",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Thalamus size identified as an early indicator of future memory struggles",
+      "titleKo": "",
+      "summary": "A single snapshot of brain volume forecasts future memory decline better than tracking brain shrinkage over time. This approach highlights the brain's structural reserve, offering a practical tool to identify those at highest risk for developing clinical dementia.",
+      "aiSummary": "A single snapshot of brain volume forecasts future memory decline better than tracking brain shrinkage over time. This approach highlights the brain's structural reserve, offering a practical tool to identify those at highest risk for developing clinical dementia.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A single snapshot of brain volume forecasts future memory decline better than tracking brain shrinkage over time. This approach highlights the brain's structural reserve, offering a practical tool to identify those at highest risk for developing clinical dementia.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-single-brain-scan-predicts-memory-decline-better-than-tracking-tissue-loss/",
+      "featured": true
+    },
+    {
+      "id": "8188bfe3ef31",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Submechanophobia: The psychology behind the fear of sunken objects",
+      "titleKo": "",
+      "summary": "Do sunken ships, pool drains, or underwater statues trigger intense panic? You might have submechanophobia. Learn the science behind this eerie fear.",
+      "aiSummary": "Do sunken ships, pool drains, or underwater statues trigger intense panic? You might have submechanophobia. Learn the science behind this eerie fear.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Do sunken ships, pool drains, or underwater statues trigger intense panic? You might have submechanophobia. Learn the science behind this eerie fear.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/submechanophobia-the-psychology-behind-the-fear-of-sunken-objects/",
+      "featured": false
+    },
+    {
+      "id": "e8a8bb9811c0",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Antidepressants and talk therapy show similar results, but medication leads in severe depression cases",
+      "titleKo": "",
+      "summary": "A new analysis shows both antidepressants and short-term psychodynamic therapy effectively treat depression. However, for patients starting with highly severe symptoms, medication might offer slightly better improvements than therapy alone.",
+      "aiSummary": "A new analysis shows both antidepressants and short-term psychodynamic therapy effectively treat depression. However, for patients starting with highly severe symptoms, medication might offer slightly better improvements than therapy alone.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new analysis shows both antidepressants and short-term psychodynamic therapy effectively treat depression. However, for patients starting with highly severe symptoms, medication might offer slightly better improvements than therapy alone.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/antidepressants-and-talk-therapy-show-similar-results-but-medication-leads-in-severe-depression-cases/",
+      "featured": false
+    },
     {
       "id": "39570df53051",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "New research in mice maps the specific brain circuitry that explains why having a friend nearby boosts courage. The findings show that social interaction shifts dopamine firing patterns to dampen risk sensitivity and motivate risky exploration.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-a-friend-s-presence-rewires-the-brain-to-boost-courage/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9f6a9ad152e6",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260602021629.htm",
-      "featured": false
-    },
-    {
-      "id": "9a0b5a32f38c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Intolerance of uncertainty is tied to emotion labeling in people with autistic traits",
-      "titleKo": "",
-      "summary": "An intense dislike of the unknown is a major source of anxiety for people with autistic traits. A new study explores how putting complex feelings into words is associated with managing this discomfort.",
-      "aiSummary": "An intense dislike of the unknown is a major source of anxiety for people with autistic traits. A new study explores how putting complex feelings into words is associated with managing this discomfort.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "An intense dislike of the unknown is a major source of anxiety for people with autistic traits. A new study explores how putting complex feelings into words is associated with managing this discomfort.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/intolerance-of-uncertainty-is-tied-to-emotion-labeling-in-people-with-autistic-traits/",
-      "featured": false
-    },
-    {
-      "id": "1f16d91e2c4d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "6시간 전 / 6h ago",
-      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-      "titleKo": "",
-      "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language models operated in an identity-rich deliberative forum without disclosure. We conduct a structured co",
-      "aiSummary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language models operated in an identity-rich deliberative forum without disclosure. We conduct a structured co",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language models operated in an identity-rich deliberative forum without disclosure. We conduct a structured co",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.05256",
-      "featured": false
-    },
-    {
-      "id": "3428e1763ab5",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "6시간 전 / 6h ago",
-      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
-      "titleKo": "",
-      "summary": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strategies across two MAS topologies, finding that no fixed strategy is universally optimal. Instead, effe",
-      "aiSummary": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strategies across two MAS topologies, finding that no fixed strategy is universally optimal. Instead, effe",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strategies across two MAS topologies, finding that no fixed strategy is universally optimal. Instead, effe",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.05304",
       "featured": false
     }
   ]
