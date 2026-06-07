@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-07T18:09:45.882887+00:00",
+  "updated": "2026-06-07T20:17:45.695607+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "bb3ed4d8c820",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "New psychological model explains why antisemitism emerges on both the right and the left",
+      "titleKo": "",
+      "summary": "Researchers have developed a dual-threat model to explain modern antisemitism. The findings suggest that believing Jewish people hold excessive power triggers unique psychological fears across the political divide.",
+      "aiSummary": "Researchers have developed a dual-threat model to explain modern antisemitism. The findings suggest that believing Jewish people hold excessive power triggers unique psychological fears across the political divide.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers have developed a dual-threat model to explain modern antisemitism. The findings suggest that believing Jewish people hold excessive power triggers unique psychological fears across the political divide.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-psychological-model-explains-why-antisemitism-emerges-on-both-the-right-and-the-left/",
+      "featured": true
+    },
+    {
+      "id": "24d876a9bced",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "5일 전 / 5d ago",
+      "title": "Your brain starts making social decisions before you do",
+      "titleKo": "",
+      "summary": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
+      "aiSummary": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260602021629.htm",
+      "featured": false
+    },
     {
       "id": "e999892b26eb",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A major national survey reveals that 2.8% of Americans over the age of 12 used psilocybin in 2024. The study found strong links between magic mushroom use, cannabis consumption, and recent struggles with depression.",
       "keyPoints": [],
       "url": "https://www.psypost.org/who-is-using-psilocybin-first-national-survey-reveals-demographics-of-magic-mushroom-users/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "82ab7246f326",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A recent nationwide survey suggests that adults who strongly approve of the National Rifle Association are more likely to justify and express a willingness to participate in politically motivated violence.",
       "keyPoints": [],
       "url": "https://www.psypost.org/strong-approval-of-the-national-rifle-association-is-linked-to-support-for-political-violence/",
-      "featured": false
-    },
-    {
-      "id": "2d51b614e6e7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Mental health might be emerging as a source of political identity, study finds",
-      "titleKo": "",
-      "summary": "A new study suggests that experiencing a mental illness is becoming a distinct political identity, particularly among Gen Z. Those who strongly identify with their mental health conditions are increasingly demanding expanded healthcare, education, and welfare funding.",
-      "aiSummary": "A new study suggests that experiencing a mental illness is becoming a distinct political identity, particularly among Gen Z. Those who strongly identify with their mental health conditions are increasingly demanding expanded healthcare, education, and welfare funding.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study suggests that experiencing a mental illness is becoming a distinct political identity, particularly among Gen Z. Those who strongly identify with their mental health conditions are increasingly demanding expanded healthcare, education, and welfare funding.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/mental-health-might-be-emerging-as-a-source-of-political-identity-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "8ee5984990cd",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Scientists discover gut bacteria that may help protect against autism and ADHD",
-      "titleKo": "",
-      "summary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
-      "aiSummary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260602021645.htm",
       "featured": false
     }
   ]
