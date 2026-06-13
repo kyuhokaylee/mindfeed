@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-13T08:26:16.239783+00:00",
+  "updated": "2026-06-13T11:20:26.256440+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ee3b0be15115",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Psychopathic traits linked to disrupted physical synchronization during natural dialogue",
+      "titleKo": "",
+      "summary": "Most empathy research relies on static photos or written surveys. A new study recording natural, face-to-face conversations reveals that psychopathic traits disrupt how people physically and emotionally sync up with others in the real world.",
+      "aiSummary": "Most empathy research relies on static photos or written surveys. A new study recording natural, face-to-face conversations reveals that psychopathic traits disrupt how people physically and emotionally sync up with others in the real world.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Most empathy research relies on static photos or written surveys. A new study recording natural, face-to-face conversations reveals that psychopathic traits disrupt how people physically and emotionally sync up with others in the real world.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-psychopathic-traits-alter-physical-and-emotional-synchronization-in-conversa/",
+      "featured": true
+    },
+    {
+      "id": "51c135b7131c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Neuroscientists discover previously unknown cognitive benefits of reading physical books",
+      "titleKo": "",
+      "summary": "A new study reveals that reading comic books on physical paper reduces the brain's workload compared to digital tablets. Brain scans show that paper provides sensory cues that make it easier to mentally organize and remember story details.",
+      "aiSummary": "A new study reveals that reading comic books on physical paper reduces the brain's workload compared to digital tablets. Brain scans show that paper provides sensory cues that make it easier to mentally organize and remember story details.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that reading comic books on physical paper reduces the brain's workload compared to digital tablets. Brain scans show that paper provides sensory cues that make it easier to mentally organize and remember story details.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/neuroscientists-discover-previously-unknown-cognitive-benefits-of-reading-physical-books/",
+      "featured": false
+    },
     {
       "id": "81e32769b768",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Quality sleep provides the energy necessary to engage in democracy. A new study finds that while rested citizens are more likely to vote, those struggling with sleep disruptions often channel their frustrations into boycotts and protests instead.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-good-night-of-sleep-might-be-the-key-to-higher-voter-turnout/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4fa224ee2641",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2606.12594v1 Announce Type: new Abstract: Modern Lean theorem provers achieve strong performance only with substantial training and inference compute, driven in part by scarce verified proof data and the long reasoning traces of formal proof search, making both supervised fine-tuning (SFT) and sampling expensive. We introduce Pythagoras-Prover, a compute-efficient open-source family of Lean theorem provers built for practical compute budgets. The family spans two generation paradigms: autoregressive models at 4B and 32B parameters, and a first proof-of-concept diffusion-based prover (4B)",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.12594",
-      "featured": false
-    },
-    {
-      "id": "7ab8766e714c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "titleKo": "",
-      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
-      "aiSummary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
-      "featured": false
-    },
-    {
-      "id": "87d57ec4bd3b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-      "titleKo": "",
-      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
-      "aiSummary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
       "featured": false
     }
   ]
