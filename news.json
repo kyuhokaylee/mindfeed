@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-13T16:19:51.818056+00:00",
+  "updated": "2026-06-13T18:16:22.721164+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ece7acacb950",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Scientists map the neural “entrapment” patterns that keep the depressed brain stuck",
+      "titleKo": "",
+      "summary": "People with depression often describe feeling stuck. Now, researchers have found a physical basis for this sensation, mapping an altered energy landscape that traps the brain in maladaptive loops and restricts cognitive flexibility.",
+      "aiSummary": "People with depression often describe feeling stuck. Now, researchers have found a physical basis for this sensation, mapping an altered energy landscape that traps the brain in maladaptive loops and restricts cognitive flexibility.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People with depression often describe feeling stuck. Now, researchers have found a physical basis for this sensation, mapping an altered energy landscape that traps the brain in maladaptive loops and restricts cognitive flexibility.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-map-the-neural-entrapment-patterns-that-keep-the-depressed-brain-stuck/",
+      "featured": true
+    },
     {
       "id": "e20625c755dc",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent study reveals that negative feedback can actually boost women's creative performance. However, women who strongly identify with traditional feminine traits tend to struggle more after facing such criticism.",
       "keyPoints": [],
       "url": "https://www.psypost.org/women-with-masculine-traits-show-greater-resilience-in-creative-tasks-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b9e3bd88584e",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Harvesting five million bushels of wheat and corn from Texas to Montana, outrunning hailstorms that decimate a year's income in 20 minutes, and running a multimillion-dollar convoy of equipment down the highway with Josh Beckley, a third-generation custom harvester from Kansas. Why do farmers outsource the harvesting of their own crops? And what happens when you drive a combine into a ditch? [buzzsprout episode='19032277' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about wh",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-custom-harvester/",
-      "featured": false
-    },
-    {
-      "id": "c4636e9a5675",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "10시간 전 / 10h ago",
-      "title": "Scientists discover a surprising cancer link to Alzheimer’s disease",
-      "titleKo": "",
-      "summary": "Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new blood-based screening methods and potential treatments borrowed from cancer medicine.",
-      "aiSummary": "Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new blood-based screening methods and potential treatments borrowed from cancer medicine.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new blood-based screening methods and potential treatments borrowed from cancer medicine.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032044.htm",
       "featured": false
     }
   ]
