@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-12T23:23:17.570228+00:00",
+  "updated": "2026-06-13T04:21:23.643629+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "81e32769b768",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "The quality of your sleep appears to shape your political behavior",
+      "titleKo": "",
+      "summary": "Quality sleep provides the energy necessary to engage in democracy. A new study finds that while rested citizens are more likely to vote, those struggling with sleep disruptions often channel their frustrations into boycotts and protests instead.",
+      "aiSummary": "Quality sleep provides the energy necessary to engage in democracy. A new study finds that while rested citizens are more likely to vote, those struggling with sleep disruptions often channel their frustrations into boycotts and protests instead.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Quality sleep provides the energy necessary to engage in democracy. A new study finds that while rested citizens are more likely to vote, those struggling with sleep disruptions often channel their frustrations into boycotts and protests instead.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-good-night-of-sleep-might-be-the-key-to-higher-voter-turnout/",
+      "featured": true
+    },
     {
       "id": "4fa224ee2641",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "By applying overlapping electrical currents to the scalp, researchers have successfully reduced tremors and movement slowness in people with Parkinson's disease. This approach targets deep brain regions without the physical risks of surgery.",
       "keyPoints": [],
       "url": "https://www.psypost.org/noninvasive-brain-stimulation-reduces-parkinsons-motor-symptoms-in-new-trial/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9f6a9ad152e6",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-      "featured": false
-    },
-    {
-      "id": "a5a3d69d0121",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Democrats rejected Trump’s speaking style more than Republicans rejected Harris’s",
-      "titleKo": "",
-      "summary": "During the 2024 election, Democrats overwhelmingly rejected the way Donald Trump communicates. In contrast, Republicans were much more likely to tolerate Kamala Harris's speaking style.",
-      "aiSummary": "During the 2024 election, Democrats overwhelmingly rejected the way Donald Trump communicates. In contrast, Republicans were much more likely to tolerate Kamala Harris's speaking style.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "During the 2024 election, Democrats overwhelmingly rejected the way Donald Trump communicates. In contrast, Republicans were much more likely to tolerate Kamala Harris's speaking style.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/democrats-rejected-trumps-speaking-style-more-than-republicans-rejected-harriss/",
       "featured": false
     }
   ]
