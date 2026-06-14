@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-14T15:09:57.681242+00:00",
+  "updated": "2026-06-14T17:25:03.054159+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "24663e5eba9f",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Why grandparents matter more than ever for children's mental health",
+      "titleKo": "",
+      "summary": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just pressure to achieve. Grandparents can help by listening, encouraging, and creating positive experiences that strengthen emotional resilience.",
+      "aiSummary": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just pressure to achieve. Grandparents can help by listening, encouraging, and creating positive experiences that strengthen emotional resilience.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just pressure to achieve. Grandparents can help by listening, encouraging, and creating positive experiences that strengthen emotional resilience.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034206.htm",
+      "featured": true
+    },
     {
       "id": "10df918700c5",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "What do narcissists and psychopaths actually value in life? A new meta-analysis reveals that people with \"Dark Triad\" personality traits are driven heavily by a desire for personal power and stimulation, while showing a strong aversion to helping others.",
       "keyPoints": [],
       "url": "https://www.psypost.org/dark-triad-traits-are-associated-with-self-enhancement-and-openness-to-change-values/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3beeef2dc2b0",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
-      "featured": false
-    },
-    {
-      "id": "7782b14c04cd",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3시간 전 / 3h ago",
-      "title": "Learning a musical instrument in your 70s could help protect memory",
-      "titleKo": "",
-      "summary": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
-      "aiSummary": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm",
       "featured": false
     }
   ]
