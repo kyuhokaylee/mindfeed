@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-14T05:55:52.091814+00:00",
+  "updated": "2026-06-14T09:49:55.130240+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9f6a9ad152e6",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "14일 전 / 14d ago",
+      "title": "The Psychology of the Home Run in 1921",
+      "titleKo": "",
+      "summary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
+      "aiSummary": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/the-psychology-of-the-home-run-in-1921/",
+      "featured": true
+    },
+    {
+      "id": "daa4c894142a",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "7시간 전 / 7h ago",
+      "title": "Why middle age is becoming a breaking point in the U.S.",
+      "titleKo": "",
+      "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy nations.",
+      "aiSummary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy nations.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy nations.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
+      "featured": false
+    },
     {
       "id": "c9ef21b9e9d0",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study explores how different types of fitness—aerobic, strength, balance, and flexibility—affect the brains of university students. The findings suggest that men and women's brains respond differently to certain types of physical fitness.",
       "keyPoints": [],
       "url": "https://www.psypost.org/physical-fitness-is-linked-to-brain-health-in-young-adults-but-the-effects-differ-by-sex/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f05882994501",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
-      "featured": false
-    },
-    {
-      "id": "87d57ec4bd3b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-      "titleKo": "",
-      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
-      "aiSummary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-      "featured": false
-    },
-    {
-      "id": "ee3b0be15115",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Psychopathic traits linked to disrupted physical synchronization during natural dialogue",
-      "titleKo": "",
-      "summary": "Most empathy research relies on static photos or written surveys. A new study recording natural, face-to-face conversations reveals that psychopathic traits disrupt how people physically and emotionally sync up with others in the real world.",
-      "aiSummary": "Most empathy research relies on static photos or written surveys. A new study recording natural, face-to-face conversations reveals that psychopathic traits disrupt how people physically and emotionally sync up with others in the real world.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Most empathy research relies on static photos or written surveys. A new study recording natural, face-to-face conversations reveals that psychopathic traits disrupt how people physically and emotionally sync up with others in the real world.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-psychopathic-traits-alter-physical-and-emotional-synchronization-in-conversa/",
       "featured": false
     }
   ]
