@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-14T19:45:05.132929+00:00",
+  "updated": "2026-06-14T21:19:44.729411+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "7a67c12493af",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Brain scan study reveals physical links to PTSD’s most distressing symptoms",
+      "titleKo": "",
+      "summary": "Researchers have discovered that damage to specific communication pathways in the brain makes it harder to suppress unwanted traumatic memories, leading to intense, \"here-and-now\" flashbacks for people with PTSD.",
+      "aiSummary": "Researchers have discovered that damage to specific communication pathways in the brain makes it harder to suppress unwanted traumatic memories, leading to intense, \"here-and-now\" flashbacks for people with PTSD.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers have discovered that damage to specific communication pathways in the brain makes it harder to suppress unwanted traumatic memories, leading to intense, \"here-and-now\" flashbacks for people with PTSD.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-scan-study-reveals-physical-links-to-ptsds-most-distressing-symptoms/",
+      "featured": true
+    },
+    {
+      "id": "0ee28ec225c3",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Your brain can keep improving into your 90s, study finds",
+      "titleKo": "",
+      "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
+      "aiSummary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
+      "featured": false
+    },
     {
       "id": "77489a952b82",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "The popular book The Body Keeps the Score has mainstreamed the idea that the body stores repressed traumatic memories. However, memory researchers warn this controversial concept risks reviving debunked theories and promoting therapies that generate false memories.",
       "keyPoints": [],
       "url": "https://www.psypost.org/does-the-body-really-keep-the-score-after-trauma-how-the-debunked-idea-of-repressed-memories-is-making-a-comeback/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7782b14c04cd",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A third grader's afternoon restlessness might predict their educational future. Researchers tracking students with wearable devices found that the ability to sustain self-control throughout the school day strongly correlates with lifelong academic achievement.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-a-third-graders-afternoon-restlessness-predicts-their-chances-of-finishing-college/",
-      "featured": false
-    },
-    {
-      "id": "ece7acacb950",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Scientists map the neural “entrapment” patterns that keep the depressed brain stuck",
-      "titleKo": "",
-      "summary": "People with depression often describe feeling stuck. Now, researchers have found a physical basis for this sensation, mapping an altered energy landscape that traps the brain in maladaptive loops and restricts cognitive flexibility.",
-      "aiSummary": "People with depression often describe feeling stuck. Now, researchers have found a physical basis for this sensation, mapping an altered energy landscape that traps the brain in maladaptive loops and restricts cognitive flexibility.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "People with depression often describe feeling stuck. Now, researchers have found a physical basis for this sensation, mapping an altered energy landscape that traps the brain in maladaptive loops and restricts cognitive flexibility.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/scientists-map-the-neural-entrapment-patterns-that-keep-the-depressed-brain-stuck/",
-      "featured": false
-    },
-    {
-      "id": "e20625c755dc",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Women with masculine traits show greater resilience in creative tasks, study finds",
-      "titleKo": "",
-      "summary": "A recent study reveals that negative feedback can actually boost women's creative performance. However, women who strongly identify with traditional feminine traits tend to struggle more after facing such criticism.",
-      "aiSummary": "A recent study reveals that negative feedback can actually boost women's creative performance. However, women who strongly identify with traditional feminine traits tend to struggle more after facing such criticism.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study reveals that negative feedback can actually boost women's creative performance. However, women who strongly identify with traditional feminine traits tend to struggle more after facing such criticism.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/women-with-masculine-traits-show-greater-resilience-in-creative-tasks-study-finds/",
       "featured": false
     }
   ]
