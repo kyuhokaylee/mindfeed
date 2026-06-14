@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-14T17:25:03.054159+00:00",
+  "updated": "2026-06-14T19:45:05.132929+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "77489a952b82",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Does the body really “keep the score” after trauma? How the debunked idea of “repressed memories” is making a comeback",
+      "titleKo": "",
+      "summary": "The popular book The Body Keeps the Score has mainstreamed the idea that the body stores repressed traumatic memories. However, memory researchers warn this controversial concept risks reviving debunked theories and promoting therapies that generate false memories.",
+      "aiSummary": "The popular book The Body Keeps the Score has mainstreamed the idea that the body stores repressed traumatic memories. However, memory researchers warn this controversial concept risks reviving debunked theories and promoting therapies that generate false memories.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The popular book The Body Keeps the Score has mainstreamed the idea that the body stores repressed traumatic memories. However, memory researchers warn this controversial concept risks reviving debunked theories and promoting therapies that generate false memories.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/does-the-body-really-keep-the-score-after-trauma-how-the-debunked-idea-of-repressed-memories-is-making-a-comeback/",
+      "featured": true
+    },
+    {
+      "id": "7782b14c04cd",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Learning a musical instrument in your 70s could help protect memory",
+      "titleKo": "",
+      "summary": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
+      "aiSummary": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm",
+      "featured": false
+    },
     {
       "id": "24663e5eba9f",
       "tag": "neuro",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just pressure to achieve. Grandparents can help by listening, encouraging, and creating positive experiences that strengthen emotional resilience.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260613034206.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "10df918700c5",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A recent study reveals that negative feedback can actually boost women's creative performance. However, women who strongly identify with traditional feminine traits tend to struggle more after facing such criticism.",
       "keyPoints": [],
       "url": "https://www.psypost.org/women-with-masculine-traits-show-greater-resilience-in-creative-tasks-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "b9e3bd88584e",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Sexual dysfunctions are significantly more common in people with paraphilias",
-      "titleKo": "",
-      "summary": "A new study of over 8,000 young adults reveals that individuals with paraphilic interests, such as voyeurism or fetishism, are more likely to experience sexual dysfunctions like erectile dysfunction and orgasmic disorder.",
-      "aiSummary": "A new study of over 8,000 young adults reveals that individuals with paraphilic interests, such as voyeurism or fetishism, are more likely to experience sexual dysfunctions like erectile dysfunction and orgasmic disorder.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study of over 8,000 young adults reveals that individuals with paraphilic interests, such as voyeurism or fetishism, are more likely to experience sexual dysfunctions like erectile dysfunction and orgasmic disorder.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/sexual-dysfunctions-are-significantly-more-common-in-people-with-paraphilias/",
-      "featured": false
-    },
-    {
-      "id": "0ee28ec225c3",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1시간 전 / 1h ago",
-      "title": "Your brain can keep improving into your 90s, study finds",
-      "titleKo": "",
-      "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
-      "aiSummary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
       "featured": false
     }
   ]
