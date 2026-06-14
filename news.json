@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-14T00:14:26.004440+00:00",
+  "updated": "2026-06-14T05:55:52.091814+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c9ef21b9e9d0",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Better cardio fitness is linked to faster cognitive processing speed in young adults",
+      "titleKo": "",
+      "summary": "A new study explores how different types of fitness—aerobic, strength, balance, and flexibility—affect the brains of university students. The findings suggest that men and women's brains respond differently to certain types of physical fitness.",
+      "aiSummary": "A new study explores how different types of fitness—aerobic, strength, balance, and flexibility—affect the brains of university students. The findings suggest that men and women's brains respond differently to certain types of physical fitness.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study explores how different types of fitness—aerobic, strength, balance, and flexibility—affect the brains of university students. The findings suggest that men and women's brains respond differently to certain types of physical fitness.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/physical-fitness-is-linked-to-brain-health-in-young-adults-but-the-effects-differ-by-sex/",
+      "featured": true
+    },
     {
       "id": "f05882994501",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Using virtual reality, researchers found that children who take physical risks during playtime develop better hazard-assessment skills. The study highlights how a cultural embrace of adventurous play helps kids safely navigate complex real-world environments.",
       "keyPoints": [],
       "url": "https://www.psypost.org/risky-play-helps-children-develop-real-world-safety-skills-new-virtual-reality-research-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4ea448f45e65",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Most empathy research relies on static photos or written surveys. A new study recording natural, face-to-face conversations reveals that psychopathic traits disrupt how people physically and emotionally sync up with others in the real world.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-psychopathic-traits-alter-physical-and-emotional-synchronization-in-conversa/",
-      "featured": false
-    },
-    {
-      "id": "51c135b7131c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Neuroscientists discover previously unknown cognitive benefits of reading physical books",
-      "titleKo": "",
-      "summary": "A new study reveals that reading comic books on physical paper reduces the brain's workload compared to digital tablets. Brain scans show that paper provides sensory cues that make it easier to mentally organize and remember story details.",
-      "aiSummary": "A new study reveals that reading comic books on physical paper reduces the brain's workload compared to digital tablets. Brain scans show that paper provides sensory cues that make it easier to mentally organize and remember story details.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals that reading comic books on physical paper reduces the brain's workload compared to digital tablets. Brain scans show that paper provides sensory cues that make it easier to mentally organize and remember story details.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/neuroscientists-discover-previously-unknown-cognitive-benefits-of-reading-physical-books/",
       "featured": false
     }
   ]
