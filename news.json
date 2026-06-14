@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-14T09:49:55.130240+00:00",
+  "updated": "2026-06-14T12:02:58.993969+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f09824f43e50",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists link ADHD genetic scores to disrupted neural timing",
+      "titleKo": "",
+      "summary": "For the first time, researchers connected a person's overall genetic risk for ADHD to specific irregularities in how their brain coordinates attention. The finding bridges the gap between inherited DNA and observable neurological changes.",
+      "aiSummary": "For the first time, researchers connected a person's overall genetic risk for ADHD to specific irregularities in how their brain coordinates attention. The finding bridges the gap between inherited DNA and observable neurological changes.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "For the first time, researchers connected a person's overall genetic risk for ADHD to specific irregularities in how their brain coordinates attention. The finding bridges the gap between inherited DNA and observable neurological changes.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-link-adhd-genetic-scores-to-disrupted-neural-timing/",
+      "featured": true
+    },
+    {
+      "id": "deed04d019b6",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "A single dose of psilocybin provides months of relief from chronic suicidal thoughts in new study",
+      "titleKo": "",
+      "summary": "A recent study in The Journal of Clinical Psychiatry suggests that a single dose of psilocybin, paired with psychological support, may rapidly and safely reduce chronic suicidal thoughts in adults with severe, treatment-resistant depression.",
+      "aiSummary": "A recent study in The Journal of Clinical Psychiatry suggests that a single dose of psilocybin, paired with psychological support, may rapidly and safely reduce chronic suicidal thoughts in adults with severe, treatment-resistant depression.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study in The Journal of Clinical Psychiatry suggests that a single dose of psilocybin, paired with psychological support, may rapidly and safely reduce chronic suicidal thoughts in adults with severe, treatment-resistant depression.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-single-dose-of-psilocybin-provides-months-of-relief-from-chronic-suicidal-thoughts-in-new-study/",
+      "featured": false
+    },
     {
       "id": "9f6a9ad152e6",
       "tag": "behav",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "The game was over. Babe, who had made one of his famous drives that day, was tired and wanted to go home. “Not tonight, Babe,” I said. “Tonight you go to college with me. You're going to take scientific tests which will reveal your secret.” “Who wants to know it?” asked Babe. “I want to know it,” I replied, “and so do several hundred thousand fans. We want to know why it is that one man has achieved a unique batting skill like yours—just why you can slam the ball as nobody else in the world can.” So away we went. Babe in his baseball uniform, not home to his armchair, but out to Columbia Unive",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/the-psychology-of-the-home-run-in-1921/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "daa4c894142a",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A new study found that omega-3 fatty acids preserve neurons and maintain healthy breathing rates in mice with Parkinson's disease. The findings suggest fish oil could be a vital add-on therapy for patients facing respiratory complications.",
       "keyPoints": [],
       "url": "https://www.psypost.org/omega-3-supplements-protect-the-brains-breathing-center-in-parkinsons-disease-model/",
-      "featured": false
-    },
-    {
-      "id": "33adc54e55d2",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Are we actually any good at guessing our partner’s attachment style? New research says yes, but there is a catch",
-      "titleKo": "",
-      "summary": "We are fairly good at detecting our partner’s attachment style, but our own insecurities often bias our judgment. New research shows that when we perceive our partners as anxious, we naturally step up to offer more affection.",
-      "aiSummary": "We are fairly good at detecting our partner’s attachment style, but our own insecurities often bias our judgment. New research shows that when we perceive our partners as anxious, we naturally step up to offer more affection.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "We are fairly good at detecting our partner’s attachment style, but our own insecurities often bias our judgment. New research shows that when we perceive our partners as anxious, we naturally step up to offer more affection.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/are-we-actually-any-good-at-guessing-our-partners-attachment-style-new-research-says-yes-but-there-is-a-catch/",
-      "featured": false
-    },
-    {
-      "id": "7ab8766e714c",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "titleKo": "",
-      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
-      "aiSummary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
       "featured": false
     }
   ]
