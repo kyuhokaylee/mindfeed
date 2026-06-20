@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-20T08:23:35.553555+00:00",
+  "updated": "2026-06-20T11:21:45.372557+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c88cad19d636",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Study finds evidence for familial clustering of same-sex attraction beyond Euro-American samples",
+      "titleKo": "",
+      "summary": "Same-sex attraction in Iran appears to cluster within families and is linked to lower numbers of biological children in some groups, according to new research.",
+      "aiSummary": "Same-sex attraction in Iran appears to cluster within families and is linked to lower numbers of biological children in some groups, according to new research.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Same-sex attraction in Iran appears to cluster within families and is linked to lower numbers of biological children in some groups, according to new research.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/study-finds-evidence-for-familial-clustering-of-same-sex-attraction-beyond-euro-american-samples/",
+      "featured": true
+    },
+    {
+      "id": "a5f38ed0cdd3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists identify two distinct biological subtypes of autism using brain scans",
+      "titleKo": "",
+      "summary": "Scientists have discovered two biologically distinct subtypes of autism using brain imaging. By studying both mice and humans, researchers linked reduced brain connectivity to synaptic function and increased connectivity to immune system activity.",
+      "aiSummary": "Scientists have discovered two biologically distinct subtypes of autism using brain imaging. By studying both mice and humans, researchers linked reduced brain connectivity to synaptic function and increased connectivity to immune system activity.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have discovered two biologically distinct subtypes of autism using brain imaging. By studying both mice and humans, researchers linked reduced brain connectivity to synaptic function and increased connectivity to immune system activity.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-identify-two-distinct-biological-subtypes-of-autism-using-brain-scans/",
+      "featured": false
+    },
     {
       "id": "e82428b83bd4",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "The brain relies on a delicate balance of excitatory and inhibitory signals. A new study on mice reveals that excessive inhibitory connections in the prefrontal cortex directly drive the memory loss and cognitive decline associated with aging.",
       "keyPoints": [],
       "url": "https://www.psypost.org/too-much-braking-in-the-brain-may-cause-age-related-memory-loss/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5050eb57d8d7",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2606.19363v1 Announce Type: new Abstract: The deployment of Time-Series Foundation Models (TSFMs) in physical sciences is hindered by a critical trade-off: while these models encode rich, universal temporal dynamics, they suffer from severe distributional misalignment when applied zero-shot to specific scientific domains, and their computational cost prohibits deployment in edge-computing sensor networks. We address a fundamental challenge: How can we extract latent structural knowledge from misaligned foundation models (FM) to train lightweight, specialized forecasters? We propose Gated",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.19363",
-      "featured": false
-    },
-    {
-      "id": "ddaeba40130d",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "A daily probiotic may help relieve depression and anxiety",
-      "titleKo": "",
-      "summary": "A small clinical trial suggests that probiotics may offer a surprising mental health boost for older adults with depression. Seniors who took a daily probiotic alongside their regular antidepressant treatment experienced slightly greater improvements in depression and anxiety symptoms than those who received a placebo.",
-      "aiSummary": "A small clinical trial suggests that probiotics may offer a surprising mental health boost for older adults with depression. Seniors who took a daily probiotic alongside their regular antidepressant treatment experienced slightly greater improvements in depression and anxiety symptoms than those who received a placebo.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A small clinical trial suggests that probiotics may offer a surprising mental health boost for older adults with depression. Seniors who took a daily probiotic alongside their regular antidepressant treatment experienced slightly greater improvements in depression and anxiety symptoms than those who received a placebo.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260617032149.htm",
-      "featured": false
-    },
-    {
-      "id": "6c524d345f90",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Vulnerable narcissism predicts revenge-seeking behaviors in women",
-      "titleKo": "",
-      "summary": "A fragile ego and a tendency to ignore one's own moral compass can be a toxic combination. New research explores the mental loops young women use to justify covert revenge and social sabotage.",
-      "aiSummary": "A fragile ego and a tendency to ignore one's own moral compass can be a toxic combination. New research explores the mental loops young women use to justify covert revenge and social sabotage.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A fragile ego and a tendency to ignore one's own moral compass can be a toxic combination. New research explores the mental loops young women use to justify covert revenge and social sabotage.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/the-hidden-psychology-of-female-revenge/",
       "featured": false
     }
   ]
