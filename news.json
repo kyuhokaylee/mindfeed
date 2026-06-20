@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-19T23:04:02.412335+00:00",
+  "updated": "2026-06-20T04:14:36.971865+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e82428b83bd4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "Too much “braking” in the brain may cause age-related memory loss",
+      "titleKo": "",
+      "summary": "The brain relies on a delicate balance of excitatory and inhibitory signals. A new study on mice reveals that excessive inhibitory connections in the prefrontal cortex directly drive the memory loss and cognitive decline associated with aging.",
+      "aiSummary": "The brain relies on a delicate balance of excitatory and inhibitory signals. A new study on mice reveals that excessive inhibitory connections in the prefrontal cortex directly drive the memory loss and cognitive decline associated with aging.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The brain relies on a delicate balance of excitatory and inhibitory signals. A new study on mice reveals that excessive inhibitory connections in the prefrontal cortex directly drive the memory loss and cognitive decline associated with aging.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/too-much-braking-in-the-brain-may-cause-age-related-memory-loss/",
+      "featured": true
+    },
     {
       "id": "5050eb57d8d7",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Laboratory research reveals that a specialized psychedelic compound drops the motivation to consume cocaine in animal models. The findings suggest that targeting specific serotonin receptors devalues the drug, offering a biological blueprint for future addiction treatments.",
       "keyPoints": [],
       "url": "https://www.psypost.org/psychedelic-compound-reduces-cocaine-motivation-and-cravings-in-animal-models/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c92a75950bc2",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A fragile ego and a tendency to ignore one's own moral compass can be a toxic combination. New research explores the mental loops young women use to justify covert revenge and social sabotage.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-hidden-psychology-of-female-revenge/",
-      "featured": false
-    },
-    {
-      "id": "80c7b9296657",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "13시간 전 / 13h ago",
-      "title": "Closing the Social-Semantic Gap: SPSD for Edge-Based Prompt Compression in Cloud LLM Inference",
-      "titleKo": "",
-      "summary": "arXiv:2606.19364v1 Announce Type: new Abstract: The prefill stage of Large Language Model (LLM) inference is a growing contributor to cloud-scale energy cost. Many consumer-support and conversational prompts contain social scaffolding: politeness markers, apologetic preamble, repetition, and rapport-building language that is important for human communication but carries low marginal information for machine reasoning. We call this discrepancy the Social-Semantic Gap. We present SPSD (Sentiment Preserving Semantic Distillation), an edge-based pipeline that compresses user prompts using a 4-bit q",
-      "aiSummary": "arXiv:2606.19364v1 Announce Type: new Abstract: The prefill stage of Large Language Model (LLM) inference is a growing contributor to cloud-scale energy cost. Many consumer-support and conversational prompts contain social scaffolding: politeness markers, apologetic preamble, repetition, and rapport-building language that is important for human communication but carries low marginal information for machine reasoning. We call this discrepancy the Social-Semantic Gap. We present SPSD (Sentiment Preserving Semantic Distillation), an edge-based pipeline that compresses user prompts using a 4-bit q",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.19364v1 Announce Type: new Abstract: The prefill stage of Large Language Model (LLM) inference is a growing contributor to cloud-scale energy cost. Many consumer-support and conversational prompts contain social scaffolding: politeness markers, apologetic preamble, repetition, and rapport-building language that is important for human communication but carries low marginal information for machine reasoning. We call this discrepancy the Social-Semantic Gap. We present SPSD (Sentiment Preserving Semantic Distillation), an edge-based pipeline that compresses user prompts using a 4-bit q",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.19364",
       "featured": false
     }
   ]
