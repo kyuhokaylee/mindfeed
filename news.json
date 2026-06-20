@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-20T14:17:28.692878+00:00",
+  "updated": "2026-06-20T16:24:04.396679+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e6e73fc2aea9",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Childhood hyperactivity symptoms show long-term associations with lower life quality",
+      "titleKo": "",
+      "summary": "Children experiencing high levels of inattention and hyperactivity report persistently lower social, emotional, and physical well-being throughout their developmental years. A 13-year observational study highlights the need to treat the holistic educational and psychological needs of affected youth.",
+      "aiSummary": "Children experiencing high levels of inattention and hyperactivity report persistently lower social, emotional, and physical well-being throughout their developmental years. A 13-year observational study highlights the need to treat the holistic educational and psychological needs of affected youth.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Children experiencing high levels of inattention and hyperactivity report persistently lower social, emotional, and physical well-being throughout their developmental years. A 13-year observational study highlights the need to treat the holistic educational and psychological needs of affected youth.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/tracking-the-13-year-well-being-toll-of-childhood-hyperactivity/",
+      "featured": true
+    },
+    {
+      "id": "3d9c2ebbf815",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "12시간 전 / 12h ago",
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "titleKo": "",
+      "summary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences in evaluation protocols, datasets, inference budgets, and generation hyperparameters make it diffic",
+      "aiSummary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences in evaluation protocols, datasets, inference budgets, and generation hyperparameters make it diffic",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences in evaluation protocols, datasets, inference budgets, and generation hyperparameters make it diffic",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2606.19475",
+      "featured": false
+    },
+    {
+      "id": "68845e90121b",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "12시간 전 / 12h ago",
+      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+      "titleKo": "",
+      "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. We model multi-agent deliberation as a closed-loop dynamical system in which each agent carries a hid",
+      "aiSummary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. We model multi-agent deliberation as a closed-loop dynamical system in which each agent carries a hid",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. We model multi-agent deliberation as a closed-loop dynamical system in which each agent carries a hid",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2606.19494",
+      "featured": false
+    },
     {
       "id": "7610acd9e844",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A new study suggests professional football players with documented concussions have higher odds of being arrested. The findings highlight the need for comprehensive, long-term support for athletes dealing with the behavioral aftereffects of repetitive head trauma.",
       "keyPoints": [],
       "url": "https://www.psypost.org/documented-concussions-in-nfl-players-linked-to-higher-odds-of-arrest/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5cc3dca9b510",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A Rutgers study suggests GLP-1 drugs such as Ozempic and Wegovy may weaken the link between impulsive tendencies and violent behavior. The surprising finding hints that these medications could affect how people act on impulses, though researchers stress that cause and effect have not been proven.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260617032152.htm",
-      "featured": false
-    },
-    {
-      "id": "dac572d79a25",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Stray hairs can amputate body parts, and researchers say psychiatric conditions often play a role",
-      "titleKo": "",
-      "summary": "Recent medical papers describe severe injuries where tightly wrapped stray hairs cut off circulation to an adult's nipple and a child's reproductive organs. Psychiatric conditions and behavioral habits frequently contribute to these unusual physical emergencies.",
-      "aiSummary": "Recent medical papers describe severe injuries where tightly wrapped stray hairs cut off circulation to an adult's nipple and a child's reproductive organs. Psychiatric conditions and behavioral habits frequently contribute to these unusual physical emergencies.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Recent medical papers describe severe injuries where tightly wrapped stray hairs cut off circulation to an adult's nipple and a child's reproductive organs. Psychiatric conditions and behavioral habits frequently contribute to these unusual physical emergencies.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/stray-hairs-can-amputate-body-parts-and-researchers-say-psychiatric-conditions-often-play-a-role/",
-      "featured": false
-    },
-    {
-      "id": "f9ead70f10cc",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "15시간 전 / 15h ago",
-      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-      "titleKo": "",
-      "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohibited from doing, what they areobliged to do after certain actions (e.g., notify the CISO), under wha",
-      "aiSummary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohibited from doing, what they areobliged to do after certain actions (e.g., notify the CISO), under wha",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohibited from doing, what they areobliged to do after certain actions (e.g., notify the CISO), under wha",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.19464",
-      "featured": false
-    },
-    {
-      "id": "73c1d0912cd0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "15시간 전 / 15h ago",
-      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "titleKo": "",
-      "summary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in Computer Science against Computer Science Curricula 2013 (CS2013) and 2023 (CS2023). The pipeline re",
-      "aiSummary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in Computer Science against Computer Science Curricula 2013 (CS2013) and 2023 (CS2023). The pipeline re",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in Computer Science against Computer Science Curricula 2013 (CS2013) and 2023 (CS2023). The pipeline re",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.19469",
       "featured": false
     }
   ]
