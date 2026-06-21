@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-21T13:11:04.533841+00:00",
+  "updated": "2026-06-21T15:58:26.314738+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d081b251953a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The human brain nonconsciously filters out negative spoken words when distracted",
+      "titleKo": "",
+      "summary": "A new study suggests the brain nonconsciously filters out emotionally negative spoken words when people are distracted. The findings indicate that the mind protects conscious awareness by ignoring disruptive emotional sounds.",
+      "aiSummary": "A new study suggests the brain nonconsciously filters out emotionally negative spoken words when people are distracted. The findings indicate that the mind protects conscious awareness by ignoring disruptive emotional sounds.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests the brain nonconsciously filters out emotionally negative spoken words when people are distracted. The findings indicate that the mind protects conscious awareness by ignoring disruptive emotional sounds.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-human-brain-nonconsciously-filters-out-negative-spoken-words-when-distracted/",
+      "featured": true
+    },
+    {
+      "id": "5292b9968b46",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Humans actively undermine AI lie detectors because they don’t want to accuse people of lying",
+      "titleKo": "",
+      "summary": "A new psychology study reveals that when a highly accurate AI system confidently accuses someone of lying, human supervisors tend to override the decision—a \"truth bias\" that actively destroys the AI's detection accuracy.",
+      "aiSummary": "A new psychology study reveals that when a highly accurate AI system confidently accuses someone of lying, human supervisors tend to override the decision—a \"truth bias\" that actively destroys the AI's detection accuracy.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new psychology study reveals that when a highly accurate AI system confidently accuses someone of lying, human supervisors tend to override the decision—a \"truth bias\" that actively destroys the AI's detection accuracy.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/humans-actively-undermine-ai-lie-detectors-because-they-dont-want-to-accuse-people-of-lying/",
+      "featured": false
+    },
+    {
+      "id": "5df50a8fc377",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s",
+      "titleKo": "",
+      "summary": "Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering into tiny droplets inside brain cells, the researchers found that tubulin—the protein that builds the cell’s internal transport network—can redirect these proteins away from forming toxic clumps and toward healthy, productive work.",
+      "aiSummary": "Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering into tiny droplets inside brain cells, the researchers found that tubulin—the protein that builds the cell’s internal transport network—can redirect these proteins away from forming toxic clumps and toward healthy, productive work.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering into tiny droplets inside brain cells, the researchers found that tubulin—the protein that builds the cell’s internal transport network—can redirect these proteins away from forming toxic clumps and toward healthy, productive work.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260620100432.htm",
+      "featured": false
+    },
     {
       "id": "7b3f60c441d9",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "New research reveals that while infants' brains process musical structure as early as three months old, their bodies take much longer to catch up. Structured physical movement to music doesn't emerge until closer to their first birthday.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-study-reveals-how-infants-brains-and-bodies-respond-to-music-in-the-first-year-of-life/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5f51eec5cda7",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A new study reveals that staying awake for twenty-four hours leaves a specific chemical signature in saliva. Using machine learning, scientists identified ten biomarkers that accurately detect extreme fatigue, paving the way for roadside sleepiness tests.",
       "keyPoints": [],
       "url": "https://www.psypost.org/missing-a-full-night-of-sleep-leaves-a-distinct-metabolic-signature-in-your-spit/",
-      "featured": false
-    },
-    {
-      "id": "f9ead70f10cc",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "14시간 전 / 14h ago",
-      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-      "titleKo": "",
-      "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohibited from doing, what they areobliged to do after certain actions (e.g., notify the CISO), under wha",
-      "aiSummary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohibited from doing, what they areobliged to do after certain actions (e.g., notify the CISO), under wha",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohibited from doing, what they areobliged to do after certain actions (e.g., notify the CISO), under wha",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.19464",
-      "featured": false
-    },
-    {
-      "id": "73c1d0912cd0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "14시간 전 / 14h ago",
-      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "titleKo": "",
-      "summary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in Computer Science against Computer Science Curricula 2013 (CS2013) and 2023 (CS2023). The pipeline re",
-      "aiSummary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in Computer Science against Computer Science Curricula 2013 (CS2013) and 2023 (CS2023). The pipeline re",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in Computer Science against Computer Science Curricula 2013 (CS2013) and 2023 (CS2023). The pipeline re",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.19469",
-      "featured": false
-    },
-    {
-      "id": "e6e73fc2aea9",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Childhood hyperactivity symptoms show long-term associations with lower life quality",
-      "titleKo": "",
-      "summary": "Children experiencing high levels of inattention and hyperactivity report persistently lower social, emotional, and physical well-being throughout their developmental years. A 13-year observational study highlights the need to treat the holistic educational and psychological needs of affected youth.",
-      "aiSummary": "Children experiencing high levels of inattention and hyperactivity report persistently lower social, emotional, and physical well-being throughout their developmental years. A 13-year observational study highlights the need to treat the holistic educational and psychological needs of affected youth.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Children experiencing high levels of inattention and hyperactivity report persistently lower social, emotional, and physical well-being throughout their developmental years. A 13-year observational study highlights the need to treat the holistic educational and psychological needs of affected youth.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/tracking-the-13-year-well-being-toll-of-childhood-hyperactivity/",
       "featured": false
     }
   ]
