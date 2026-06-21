@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-21T19:52:07.632191+00:00",
+  "updated": "2026-06-21T21:20:58.172344+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "1e329716f756",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Study explores how attachment style, dark triad traits, and sexual coercion impact romantic couples",
+      "titleKo": "",
+      "summary": "A new study reveals how attachment styles, personality traits, and aggressive behaviors influence romantic satisfaction. The findings show that women prioritize emotional bonds and partner traits, while men's relationship happiness is closely tied to experiences of sexual coercion.",
+      "aiSummary": "A new study reveals how attachment styles, personality traits, and aggressive behaviors influence romantic satisfaction. The findings show that women prioritize emotional bonds and partner traits, while men's relationship happiness is closely tied to experiences of sexual coercion.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals how attachment styles, personality traits, and aggressive behaviors influence romantic satisfaction. The findings show that women prioritize emotional bonds and partner traits, while men's relationship happiness is closely tied to experiences of sexual coercion.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-attachment-styles-and-dark-personality-traits-predict-romantic-satisfaction/",
+      "featured": true
+    },
+    {
+      "id": "cb65681fc885",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Scientists reprogram brain immune cells to fight Alzheimer’s",
+      "titleKo": "",
+      "summary": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
+      "aiSummary": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
+      "featured": false
+    },
     {
       "id": "a2b24892e95c",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study reveals that recalling a lost loved one physically spikes blood pressure. For those struggling with prolonged grief, the cardiovascular system fails to recover normally, suggesting an enduring link between emotional trauma and physical heart health.",
       "keyPoints": [],
       "url": "https://www.psypost.org/lingering-grief-physically-prevents-the-heart-from-recovering-after-stress/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a18c0763022a",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Scientists may have uncovered a hidden trigger behind Alzheimer’s disease. Instead of plaques being the root cause, amyloid beta appears to interfere with tau, a protein that helps keep neurons functioning properly. This disruption could set off the damage that eventually leads to the disease’s most recognizable brain changes.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260617032209.htm",
-      "featured": false
-    },
-    {
-      "id": "21de78a5dddd",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Passing the ideological Turing test predicts lower political hostility",
-      "titleKo": "",
-      "summary": "Can you successfully argue a viewpoint you deeply disagree with? Researchers have developed a behavioral test inspired by artificial intelligence research to measure political and social empathy, revealing high levels of mutual understanding across polarizing debates.",
-      "aiSummary": "Can you successfully argue a viewpoint you deeply disagree with? Researchers have developed a behavioral test inspired by artificial intelligence research to measure political and social empathy, revealing high levels of mutual understanding across polarizing debates.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Can you successfully argue a viewpoint you deeply disagree with? Researchers have developed a behavioral test inspired by artificial intelligence research to measure political and social empathy, revealing high levels of mutual understanding across polarizing debates.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/can-you-think-like-your-political-opponent/",
-      "featured": false
-    },
-    {
-      "id": "5f8d160ef368",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "27일 전 / 27d ago",
-      "title": "What Becomes of Second Chances?",
-      "titleKo": "",
-      "summary": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
-      "aiSummary": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A man was arrested for entering a New York subway station through an emergency gate without paying the fare. When police patted him down, they found he was illegally carrying a loaded gun. When another man was arrested for fare evasion at a different stop, police found he was carrying 38 decks of heroin and a loaded gun that had been reported as stolen. Yet another was arrested for not paying the subway fare in another part of the city, and it turned out he was carrying a gun, ammunition, and crack cocaine. New York police argue that enforcing a seemingly minor offense (fare evasion) helps the",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-becomes-of-second-chances/",
       "featured": false
     }
   ]
