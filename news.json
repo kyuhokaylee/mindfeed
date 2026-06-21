@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-20T22:14:51.872114+00:00",
+  "updated": "2026-06-21T00:14:23.462136+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "3c515b5d17f3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "6일 전 / 6d ago",
+      "title": "Announcing Our Summer Book Club and Podcast",
+      "titleKo": "",
+      "summary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "aiSummary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
+      "featured": true
+    },
     {
       "id": "2b20caeb0d63",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A massive new meta-analysis reveals that individual cognitive abilities, like reading and math, rely on inherited DNA just as much as overall intelligence, suggesting people possess heavily customized genetic cognitive profiles independent of general smarts.",
       "keyPoints": [],
       "url": "https://www.psypost.org/specific-cognitive-abilities-are-highly-heritable-independent-of-general-intelli/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9f6a9ad152e6",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Same-sex attraction in Iran appears to cluster within families and is linked to lower numbers of biological children in some groups, according to new research.",
       "keyPoints": [],
       "url": "https://www.psypost.org/study-finds-evidence-for-familial-clustering-of-same-sex-attraction-beyond-euro-american-samples/",
-      "featured": false
-    },
-    {
-      "id": "a5f38ed0cdd3",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Scientists identify two distinct biological subtypes of autism using brain scans",
-      "titleKo": "",
-      "summary": "Scientists have discovered two biologically distinct subtypes of autism using brain imaging. By studying both mice and humans, researchers linked reduced brain connectivity to synaptic function and increased connectivity to immune system activity.",
-      "aiSummary": "Scientists have discovered two biologically distinct subtypes of autism using brain imaging. By studying both mice and humans, researchers linked reduced brain connectivity to synaptic function and increased connectivity to immune system activity.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists have discovered two biologically distinct subtypes of autism using brain imaging. By studying both mice and humans, researchers linked reduced brain connectivity to synaptic function and increased connectivity to immune system activity.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/scientists-identify-two-distinct-biological-subtypes-of-autism-using-brain-scans/",
       "featured": false
     }
   ]
