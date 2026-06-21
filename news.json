@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-21T15:58:26.314738+00:00",
+  "updated": "2026-06-21T17:46:44.879322+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a18c0763022a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "The daily patterns of depression: How symptoms tend to co-occur over time",
+      "titleKo": "",
+      "summary": "Researchers tracked over 300 young adults for a month to see how depression symptoms interact. They discovered that specific feelings, like anhedonia and sadness, act as central hubs that are strongly linked to a wider array of mental and physical symptoms.",
+      "aiSummary": "Researchers tracked over 300 young adults for a month to see how depression symptoms interact. They discovered that specific feelings, like anhedonia and sadness, act as central hubs that are strongly linked to a wider array of mental and physical symptoms.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers tracked over 300 young adults for a month to see how depression symptoms interact. They discovered that specific feelings, like anhedonia and sadness, act as central hubs that are strongly linked to a wider array of mental and physical symptoms.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-daily-patterns-of-depression-how-symptoms-tend-to-co-occur-over-time/",
+      "featured": true
+    },
+    {
+      "id": "b03f512ed590",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "방금 전 / Just now",
+      "title": "How Can We Feel Loved If We Don’t Feel Known?",
+      "titleKo": "",
+      "summary": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
+      "aiSummary": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/",
+      "featured": false
+    },
     {
       "id": "d081b251953a",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study suggests the brain nonconsciously filters out emotionally negative spoken words when people are distracted. The findings indicate that the mind protects conscious awareness by ignoring disruptive emotional sounds.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-human-brain-nonconsciously-filters-out-negative-spoken-words-when-distracted/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5292b9968b46",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
-      "featured": false
-    },
-    {
-      "id": "6cffda510bdd",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Ozempic and Wegovy linked to surprising drop in violent behavior",
-      "titleKo": "",
-      "summary": "A Rutgers study suggests GLP-1 drugs such as Ozempic and Wegovy may weaken the link between impulsive tendencies and violent behavior. The surprising finding hints that these medications could affect how people act on impulses, though researchers stress that cause and effect have not been proven.",
-      "aiSummary": "A Rutgers study suggests GLP-1 drugs such as Ozempic and Wegovy may weaken the link between impulsive tendencies and violent behavior. The surprising finding hints that these medications could affect how people act on impulses, though researchers stress that cause and effect have not been proven.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A Rutgers study suggests GLP-1 drugs such as Ozempic and Wegovy may weaken the link between impulsive tendencies and violent behavior. The surprising finding hints that these medications could affect how people act on impulses, though researchers stress that cause and effect have not been proven.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260617032152.htm",
-      "featured": false
-    },
-    {
-      "id": "017d6be3e691",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Missing a full night of sleep leaves a distinct metabolic signature in your spit",
-      "titleKo": "",
-      "summary": "A new study reveals that staying awake for twenty-four hours leaves a specific chemical signature in saliva. Using machine learning, scientists identified ten biomarkers that accurately detect extreme fatigue, paving the way for roadside sleepiness tests.",
-      "aiSummary": "A new study reveals that staying awake for twenty-four hours leaves a specific chemical signature in saliva. Using machine learning, scientists identified ten biomarkers that accurately detect extreme fatigue, paving the way for roadside sleepiness tests.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals that staying awake for twenty-four hours leaves a specific chemical signature in saliva. Using machine learning, scientists identified ten biomarkers that accurately detect extreme fatigue, paving the way for roadside sleepiness tests.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/missing-a-full-night-of-sleep-leaves-a-distinct-metabolic-signature-in-your-spit/",
       "featured": false
     }
   ]
