@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-21T10:34:58.558357+00:00",
+  "updated": "2026-06-21T13:11:04.533841+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "7b3f60c441d9",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "New study reveals how infants’ brains and bodies respond to music in the first year of life",
+      "titleKo": "",
+      "summary": "New research reveals that while infants' brains process musical structure as early as three months old, their bodies take much longer to catch up. Structured physical movement to music doesn't emerge until closer to their first birthday.",
+      "aiSummary": "New research reveals that while infants' brains process musical structure as early as three months old, their bodies take much longer to catch up. Structured physical movement to music doesn't emerge until closer to their first birthday.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research reveals that while infants' brains process musical structure as early as three months old, their bodies take much longer to catch up. Structured physical movement to music doesn't emerge until closer to their first birthday.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-study-reveals-how-infants-brains-and-bodies-respond-to-music-in-the-first-year-of-life/",
+      "featured": true
+    },
+    {
+      "id": "5f51eec5cda7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Why American dads now spend more time on childcare than hunter-gatherer fathers",
+      "titleKo": "",
+      "summary": "Fathers today spend four times as much time with their kids as they did 50 years ago. However, a parenting researcher notes this is largely because extended community and family support networks have deteriorated.",
+      "aiSummary": "Fathers today spend four times as much time with their kids as they did 50 years ago. However, a parenting researcher notes this is largely because extended community and family support networks have deteriorated.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Fathers today spend four times as much time with their kids as they did 50 years ago. However, a parenting researcher notes this is largely because extended community and family support networks have deteriorated.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/why-american-dads-now-spend-more-time-on-childcare-than-hunter-gatherer-fathers/",
+      "featured": false
+    },
     {
       "id": "fe6510f52981",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "New research shows that specific sleep patterns, like interrupted rest and falling asleep quickly, can predict lucid dreaming in people with PTSD. This could eventually help therapists use conscious dreaming to treat trauma-related nightmares.",
       "keyPoints": [],
       "url": "https://www.psypost.org/scientists-uncover-the-physical-signs-of-lucid-dreaming-in-people-with-trauma-symptoms/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "26961174a26a",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Children experiencing high levels of inattention and hyperactivity report persistently lower social, emotional, and physical well-being throughout their developmental years. A 13-year observational study highlights the need to treat the holistic educational and psychological needs of affected youth.",
       "keyPoints": [],
       "url": "https://www.psypost.org/tracking-the-13-year-well-being-toll-of-childhood-hyperactivity/",
-      "featured": false
-    },
-    {
-      "id": "3d9c2ebbf815",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "12시간 전 / 12h ago",
-      "title": "Diffusion Language Models: An Experimental Analysis",
-      "titleKo": "",
-      "summary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences in evaluation protocols, datasets, inference budgets, and generation hyperparameters make it diffic",
-      "aiSummary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences in evaluation protocols, datasets, inference budgets, and generation hyperparameters make it diffic",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences in evaluation protocols, datasets, inference budgets, and generation hyperparameters make it diffic",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.19475",
-      "featured": false
-    },
-    {
-      "id": "68845e90121b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "12시간 전 / 12h ago",
-      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-      "titleKo": "",
-      "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. We model multi-agent deliberation as a closed-loop dynamical system in which each agent carries a hid",
-      "aiSummary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. We model multi-agent deliberation as a closed-loop dynamical system in which each agent carries a hid",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. We model multi-agent deliberation as a closed-loop dynamical system in which each agent carries a hid",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.19494",
       "featured": false
     }
   ]
