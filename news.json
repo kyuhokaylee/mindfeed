@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-22T20:55:51.679301+00:00",
+  "updated": "2026-06-22T22:50:38.577335+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f487b67fcb0c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Researchers map specific empathy blind spots found in psychopathic personalities",
+      "titleKo": "",
+      "summary": "Psychopathic traits exist on a spectrum in the general population. A new study breaks down exactly how traits like callousness and selfishness correspond to distinct deficits in our ability to understand and feel the emotions of others.",
+      "aiSummary": "Psychopathic traits exist on a spectrum in the general population. A new study breaks down exactly how traits like callousness and selfishness correspond to distinct deficits in our ability to understand and feel the emotions of others.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Psychopathic traits exist on a spectrum in the general population. A new study breaks down exactly how traits like callousness and selfishness correspond to distinct deficits in our ability to understand and feel the emotions of others.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/researchers-map-the-specific-empathy-blind-spots-found-in-psychopathic-personali/",
+      "featured": true
+    },
+    {
+      "id": "b03f512ed590",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "1일 전 / 1d ago",
+      "title": "How Can We Feel Loved If We Don’t Feel Known?",
+      "titleKo": "",
+      "summary": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
+      "aiSummary": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/",
+      "featured": false
+    },
+    {
+      "id": "5df50a8fc377",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s",
+      "titleKo": "",
+      "summary": "Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering into tiny droplets inside brain cells, the researchers found that tubulin—the protein that builds the cell’s internal transport network—can redirect these proteins away from forming toxic clumps and toward healthy, productive work.",
+      "aiSummary": "Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering into tiny droplets inside brain cells, the researchers found that tubulin—the protein that builds the cell’s internal transport network—can redirect these proteins away from forming toxic clumps and toward healthy, productive work.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering into tiny droplets inside brain cells, the researchers found that tubulin—the protein that builds the cell’s internal transport network—can redirect these proteins away from forming toxic clumps and toward healthy, productive work.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260620100432.htm",
+      "featured": false
+    },
     {
       "id": "ab9a8d79ecac",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "By measuring voter trust in candidate issue-handling and leadership strength, a forward-looking forecasting model successfully predicted the historically close outcome of the 2024 United States presidential election. The research provides actionable insights for shaping campaign strategy.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-predictive-model-based-on-voter-expectations-explains-the-2024-popular-vote/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "76ac99db0f77",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A new study reveals how attachment styles, personality traits, and aggressive behaviors influence romantic satisfaction. The findings show that women prioritize emotional bonds and partner traits, while men's relationship happiness is closely tied to experiences of sexual coercion.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-attachment-styles-and-dark-personality-traits-predict-romantic-satisfaction/",
-      "featured": false
-    },
-    {
-      "id": "cb65681fc885",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists reprogram brain immune cells to fight Alzheimer’s",
-      "titleKo": "",
-      "summary": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
-      "aiSummary": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
-      "featured": false
-    },
-    {
-      "id": "a2b24892e95c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Lingering grief physically limits cardiovascular recovery after stress",
-      "titleKo": "",
-      "summary": "A new study reveals that recalling a lost loved one physically spikes blood pressure. For those struggling with prolonged grief, the cardiovascular system fails to recover normally, suggesting an enduring link between emotional trauma and physical heart health.",
-      "aiSummary": "A new study reveals that recalling a lost loved one physically spikes blood pressure. For those struggling with prolonged grief, the cardiovascular system fails to recover normally, suggesting an enduring link between emotional trauma and physical heart health.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals that recalling a lost loved one physically spikes blood pressure. For those struggling with prolonged grief, the cardiovascular system fails to recover normally, suggesting an enduring link between emotional trauma and physical heart health.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/lingering-grief-physically-prevents-the-heart-from-recovering-after-stress/",
-      "featured": false
-    },
-    {
-      "id": "a18c0763022a",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "The daily patterns of depression: How symptoms tend to co-occur over time",
-      "titleKo": "",
-      "summary": "Researchers tracked over 300 young adults for a month to see how depression symptoms interact. They discovered that specific feelings, like anhedonia and sadness, act as central hubs that are strongly linked to a wider array of mental and physical symptoms.",
-      "aiSummary": "Researchers tracked over 300 young adults for a month to see how depression symptoms interact. They discovered that specific feelings, like anhedonia and sadness, act as central hubs that are strongly linked to a wider array of mental and physical symptoms.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers tracked over 300 young adults for a month to see how depression symptoms interact. They discovered that specific feelings, like anhedonia and sadness, act as central hubs that are strongly linked to a wider array of mental and physical symptoms.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/the-daily-patterns-of-depression-how-symptoms-tend-to-co-occur-over-time/",
       "featured": false
     }
   ]
