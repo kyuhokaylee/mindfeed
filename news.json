@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-24T04:07:25.414172+00:00",
+  "updated": "2026-06-24T08:26:10.312548+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "128406b8bf1f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "14시간 전 / 14h ago",
+      "title": "Positive romantic relationships ease existential dread by boosting meaning in life",
+      "titleKo": "",
+      "summary": "Can love protect us from the fear of dying? A new psychology study suggests that healthy romantic relationships act as an existential shield, reducing death anxiety in women by giving them a deeper sense of meaning.",
+      "aiSummary": "Can love protect us from the fear of dying? A new psychology study suggests that healthy romantic relationships act as an existential shield, reducing death anxiety in women by giving them a deeper sense of meaning.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Can love protect us from the fear of dying? A new psychology study suggests that healthy romantic relationships act as an existential shield, reducing death anxiety in women by giving them a deeper sense of meaning.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/positive-romantic-relationships-ease-existential-dread-by-boosting-meaning-in-life/",
+      "featured": true
+    },
     {
       "id": "d85bf747af37",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Four recent network meta-analyses indicate that the most effective exercise for improving sleep depends on a person's demographic and clinical profile. Tailoring physical activity to specific populations yields better results than generalized fitness recommendations.",
       "keyPoints": [],
       "url": "https://www.psypost.org/what-is-the-best-exercise-to-improve-sleep-the-answer-depends-on-your-age-gender-and-mental-health/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fb88590f5cc0",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Long-term nicotine use alters specific brain circuits in mice, dramatically increasing their motivation to work for food. By dampening a regulatory neural pathway, nicotine creates an exaggerated drive for non-drug rewards that persists independently of physical hunger.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-chronic-nicotine-rewires-the-brain-to-increase-motivation-for-food/",
-      "featured": false
-    },
-    {
-      "id": "b7ea0c9bee51",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces",
-      "titleKo": "",
-      "summary": "arXiv:2606.20569v1 Announce Type: new Abstract: We analyze identifiability in co-adaptive human-machine systems. We show that closed-loop encoder estimates do not uniquely identify user adaptation, but instead reflect properties of the joint system. We discuss implications for interpreting behavioral adaptation and propose conditions for identification.",
-      "aiSummary": "arXiv:2606.20569v1 Announce Type: new Abstract: We analyze identifiability in co-adaptive human-machine systems. We show that closed-loop encoder estimates do not uniquely identify user adaptation, but instead reflect properties of the joint system. We discuss implications for interpreting behavioral adaptation and propose conditions for identification.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.20569v1 Announce Type: new Abstract: We analyze identifiability in co-adaptive human-machine systems. We show that closed-loop encoder estimates do not uniquely identify user adaptation, but instead reflect properties of the joint system. We discuss implications for interpreting behavioral adaptation and propose conditions for identification.",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.20569",
       "featured": false
     }
   ]
