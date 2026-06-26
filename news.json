@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-26T21:37:21.321840+00:00",
+  "updated": "2026-06-26T23:13:44.956607+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a41b692583e1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Competitive students use ChatGPT to memorize trivia instead of actually learning",
+      "titleKo": "",
+      "summary": "When students try to outsmart their peers, their academic performance suffers. A new psychology study reveals that pushing learners to compete leads them to ask ChatGPT superficial questions, increasing their anxiety and severely hindering true knowledge acquisition.",
+      "aiSummary": "When students try to outsmart their peers, their academic performance suffers. A new psychology study reveals that pushing learners to compete leads them to ask ChatGPT superficial questions, increasing their anxiety and severely hindering true knowledge acquisition.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When students try to outsmart their peers, their academic performance suffers. A new psychology study reveals that pushing learners to compete leads them to ask ChatGPT superficial questions, increasing their anxiety and severely hindering true knowledge acquisition.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-the-desire-to-outshine-peers-ruins-learning-with-chatgpt/",
+      "featured": true
+    },
+    {
+      "id": "104d772dbdda",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "19시간 전 / 19h ago",
+      "title": "Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis",
+      "titleKo": "",
+      "summary": "arXiv:2606.26169v1 Announce Type: new Abstract: Neural Architecture Search (NAS) has emerged as a pivotal technique in optimizing the design of Generative Adversarial Networks (GANs), automating the search for effective architectures while addressing the challenges inherent in manual design. This paper provides a comprehensive review of NAS methods applied to GANs, categorizing and comparing various approaches based on criteria such as search strategies, evaluation metrics, and performance outcomes. The review highlights the benefits of NAS in improving GAN performance, stability, and efficien",
+      "aiSummary": "arXiv:2606.26169v1 Announce Type: new Abstract: Neural Architecture Search (NAS) has emerged as a pivotal technique in optimizing the design of Generative Adversarial Networks (GANs), automating the search for effective architectures while addressing the challenges inherent in manual design. This paper provides a comprehensive review of NAS methods applied to GANs, categorizing and comparing various approaches based on criteria such as search strategies, evaluation metrics, and performance outcomes. The review highlights the benefits of NAS in improving GAN performance, stability, and efficien",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2606.26169v1 Announce Type: new Abstract: Neural Architecture Search (NAS) has emerged as a pivotal technique in optimizing the design of Generative Adversarial Networks (GANs), automating the search for effective architectures while addressing the challenges inherent in manual design. This paper provides a comprehensive review of NAS methods applied to GANs, categorizing and comparing various approaches based on criteria such as search strategies, evaluation metrics, and performance outcomes. The review highlights the benefits of NAS in improving GAN performance, stability, and efficien",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2606.26169",
+      "featured": false
+    },
+    {
+      "id": "c004ab417e04",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "19시간 전 / 19h ago",
+      "title": "Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist",
+      "titleKo": "",
+      "summary": "arXiv:2606.26448v1 Announce Type: new Abstract: Across the sciences, autonomous systems are increasingly being used in closed-loop discovery, proposing new theories and designing and running experiments to test them. This approach is yet to be applied in the field of cognitive science, where the central bottleneck is theory-building: the creative step of turning the accumulated failures of existing models into better ones. Theory generation has remained manual even as data collection, modeling, and experiment design have been automated. We present the Automated Cognitive Scientist (AutoCog), a",
+      "aiSummary": "arXiv:2606.26448v1 Announce Type: new Abstract: Across the sciences, autonomous systems are increasingly being used in closed-loop discovery, proposing new theories and designing and running experiments to test them. This approach is yet to be applied in the field of cognitive science, where the central bottleneck is theory-building: the creative step of turning the accumulated failures of existing models into better ones. Theory generation has remained manual even as data collection, modeling, and experiment design have been automated. We present the Automated Cognitive Scientist (AutoCog), a",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2606.26448v1 Announce Type: new Abstract: Across the sciences, autonomous systems are increasingly being used in closed-loop discovery, proposing new theories and designing and running experiments to test them. This approach is yet to be applied in the field of cognitive science, where the central bottleneck is theory-building: the creative step of turning the accumulated failures of existing models into better ones. Theory generation has remained manual even as data collection, modeling, and experiment design have been automated. We present the Automated Cognitive Scientist (AutoCog), a",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2606.26448",
+      "featured": false
+    },
     {
       "id": "9e5cd099cceb",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Exposure to subtle religious cues, like a Christmas carol or the call to prayer, can temporarily lower an individual's dietary restraint. A new study shows how reminders of God cause consumers to desire unhealthy ultra-processed foods.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-simple-reminders-of-god-make-us-crave-junk-food/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8f0c418cd02e",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2606.26128v1 Announce Type: new Abstract: The spatiotemporal evolution of many physical, chemical, and biological systems is described by nonlinear partial differential equations (PDEs). Recently, deep neural network-based surrogate models have gained increasing interest as efficient alternatives to computationally expensive traditional numerical solvers. In this work, we propose an attention-based, physics-guided convolutional neural network as a surrogate model to learn the microstructural evolution of such systems. We train the model to accurately predict the full time-evolution of ph",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.26128",
-      "featured": false
-    },
-    {
-      "id": "ed036a963d47",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "13시간 전 / 13h ago",
-      "title": "\\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation",
-      "titleKo": "",
-      "summary": "arXiv:2606.26164v1 Announce Type: new Abstract: Finding all modes of a multimodal black-box function is a fundamental challenge in optimization, Bayesian inference, and scientific computing. Existing approaches -- basin-hopping, CMA-ES, multistart gradient descent -- operate sequentially and cannot exploit the massive parallelism of modern GPU hardware. We introduce \\chisao{} (\\textbf{C}onvergence-\\textbf{H}alt-\\textbf{I}nvert-\\textbf{S}tick-\\textbf{A}nd-\\textbf{O}scillate), a GPU-native population optimizer that runs an entire sample batch simultaneously and exploits a deliberate convergence-",
-      "aiSummary": "arXiv:2606.26164v1 Announce Type: new Abstract: Finding all modes of a multimodal black-box function is a fundamental challenge in optimization, Bayesian inference, and scientific computing. Existing approaches -- basin-hopping, CMA-ES, multistart gradient descent -- operate sequentially and cannot exploit the massive parallelism of modern GPU hardware. We introduce \\chisao{} (\\textbf{C}onvergence-\\textbf{H}alt-\\textbf{I}nvert-\\textbf{S}tick-\\textbf{A}nd-\\textbf{O}scillate), a GPU-native population optimizer that runs an entire sample batch simultaneously and exploits a deliberate convergence-",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.26164v1 Announce Type: new Abstract: Finding all modes of a multimodal black-box function is a fundamental challenge in optimization, Bayesian inference, and scientific computing. Existing approaches -- basin-hopping, CMA-ES, multistart gradient descent -- operate sequentially and cannot exploit the massive parallelism of modern GPU hardware. We introduce \\chisao{} (\\textbf{C}onvergence-\\textbf{H}alt-\\textbf{I}nvert-\\textbf{S}tick-\\textbf{A}nd-\\textbf{O}scillate), a GPU-native population optimizer that runs an entire sample batch simultaneously and exploits a deliberate convergence-",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.26164",
-      "featured": false
-    },
-    {
-      "id": "30313d086542",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "13시간 전 / 13h ago",
-      "title": "Implementation of reinforcement learning in chemical reaction networks: application to phototaxis as curiosity-driven exploration",
-      "titleKo": "",
-      "summary": "arXiv:2606.26168v1 Announce Type: new Abstract: Living systems navigate environments using noisy and incomplete sensory signals. In unicellular algae, phototaxis is often modeled as a mechanistic run--tumble process driven by stimulus--response rules. However, such descriptions overlook how organisms actively sample their environment to reduce sensory ambiguity. From a minimal cognition perspective, we reframe this navigation as a subjective, information-driven sensorimotor process. To this end, we propose a framework linking a Partially Observable Markov Decision Process (POMDP) with biochemi",
-      "aiSummary": "arXiv:2606.26168v1 Announce Type: new Abstract: Living systems navigate environments using noisy and incomplete sensory signals. In unicellular algae, phototaxis is often modeled as a mechanistic run--tumble process driven by stimulus--response rules. However, such descriptions overlook how organisms actively sample their environment to reduce sensory ambiguity. From a minimal cognition perspective, we reframe this navigation as a subjective, information-driven sensorimotor process. To this end, we propose a framework linking a Partially Observable Markov Decision Process (POMDP) with biochemi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.26168v1 Announce Type: new Abstract: Living systems navigate environments using noisy and incomplete sensory signals. In unicellular algae, phototaxis is often modeled as a mechanistic run--tumble process driven by stimulus--response rules. However, such descriptions overlook how organisms actively sample their environment to reduce sensory ambiguity. From a minimal cognition perspective, we reframe this navigation as a subjective, information-driven sensorimotor process. To this end, we propose a framework linking a Partially Observable Markov Decision Process (POMDP) with biochemi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.26168",
-      "featured": false
-    },
-    {
-      "id": "6a8311f831e9",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "The universe may be hiding conscious minds stranger than we can imagine",
-      "titleKo": "",
-      "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
       "featured": false
     }
   ]
