@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-27T14:46:52.970733+00:00",
+  "updated": "2026-06-27T16:10:41.310862+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8ff24be05819",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Love and money both matter for health, but they don’t replace each other",
+      "titleKo": "",
+      "summary": "A new study reveals that a happy romantic relationship and a sense of financial security are independently linked to better physical and mental health. The findings suggest that both domains are important, but neither replaces the other.",
+      "aiSummary": "A new study reveals that a happy romantic relationship and a sense of financial security are independently linked to better physical and mental health. The findings suggest that both domains are important, but neither replaces the other.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that a happy romantic relationship and a sense of financial security are independently linked to better physical and mental health. The findings suggest that both domains are important, but neither replaces the other.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/love-and-money-both-matter-for-health-but-they-dont-replace-each-other/",
+      "featured": true
+    },
+    {
+      "id": "bb161b061e02",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Men and women show different psychological links between the “fit ideal” and risky behaviors",
+      "titleKo": "",
+      "summary": "The push for a perfectly toned physique takes a toll on mental health. A new study reveals that while both men and women feel the pressure of the modern fitness ideal, the psychological paths to disordered eating differ completely.",
+      "aiSummary": "The push for a perfectly toned physique takes a toll on mental health. A new study reveals that while both men and women feel the pressure of the modern fitness ideal, the psychological paths to disordered eating differ completely.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The push for a perfectly toned physique takes a toll on mental health. A new study reveals that while both men and women feel the pressure of the modern fitness ideal, the psychological paths to disordered eating differ completely.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-the-social-media-fitness-ideal-affects-men-and-women-differently/",
+      "featured": false
+    },
+    {
+      "id": "7e3d465a32f3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Parents invest differently in daughters and sons, study finds",
+      "titleKo": "",
+      "summary": "A new study published in Human Nature reports that parents do not simply invest more in daughters or sons overall, rather, their investment differs by domain, with mothers, fathers, daughters, and sons showing distinct patterns.",
+      "aiSummary": "A new study published in Human Nature reports that parents do not simply invest more in daughters or sons overall, rather, their investment differs by domain, with mothers, fathers, daughters, and sons showing distinct patterns.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study published in Human Nature reports that parents do not simply invest more in daughters or sons overall, rather, their investment differs by domain, with mothers, fathers, daughters, and sons showing distinct patterns.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/parents-invest-differently-in-daughters-and-sons-study-finds/",
+      "featured": false
+    },
     {
       "id": "2df381883ebe",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Deep brain stimulation offers hope for severe depression, but how it works has remained a mystery. A new study reveals the therapy actually physically reshapes the brain’s white matter pathways, explaining its long-lasting mood-boosting effects.",
       "keyPoints": [],
       "url": "https://www.psypost.org/scientists-discover-deep-brain-stimulation-physically-reshapes-the-brains-information-superhighway/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3f797f7940e3",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
-      "featured": false
-    },
-    {
-      "id": "598b2b8edafb",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists discover ancient brain cells that help block distractions",
-      "titleKo": "",
-      "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
-      "aiSummary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
-      "featured": false
-    },
-    {
-      "id": "cff8905056f2",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "This common vitamin deficiency can mimic normal aging",
-      "titleKo": "",
-      "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
-      "aiSummary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
-      "featured": false
-    },
-    {
-      "id": "a591c7397fbb",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "How different types of narcissists exaggerate their abilities",
-      "titleKo": "",
-      "summary": "While some narcissists seek praise for their intelligence, others demand adoration for their extreme kindness. New research explores how these different personality variants exaggerate their knowledge to look superior to everyone around them.",
-      "aiSummary": "While some narcissists seek praise for their intelligence, others demand adoration for their extreme kindness. New research explores how these different personality variants exaggerate their knowledge to look superior to everyone around them.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "While some narcissists seek praise for their intelligence, others demand adoration for their extreme kindness. New research explores how these different personality variants exaggerate their knowledge to look superior to everyone around them.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/the-grandiose-ego-how-different-narcissists-exaggerate-their-abilities/",
       "featured": false
     }
   ]
