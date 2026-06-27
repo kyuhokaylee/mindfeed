@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-27T07:52:27.011604+00:00",
+  "updated": "2026-06-27T10:15:05.641785+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ce1ac9603270",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "A balanced diet of video games is associated with greater stoicism and less isolation",
+      "titleKo": "",
+      "summary": "Are video game habits connected to isolation? A new study reveals that adults who play open-world and accessible single-player games report significantly lower feelings of loneliness, a trend that is closely associated with higher stoic attitudes.",
+      "aiSummary": "Are video game habits connected to isolation? A new study reveals that adults who play open-world and accessible single-player games report significantly lower feelings of loneliness, a trend that is closely associated with higher stoic attitudes.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Are video game habits connected to isolation? A new study reveals that adults who play open-world and accessible single-player games report significantly lower feelings of loneliness, a trend that is closely associated with higher stoic attitudes.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-balanced-diet-of-video-games-is-associated-with-greater-stoicism-and-less-isolation/",
+      "featured": true
+    },
     {
       "id": "3c515b5d17f3",
       "tag": "behav",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6a8311f831e9",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2606.26158v1 Announce Type: new Abstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the opportunity to study six other key dimensions of agent performance: construct validity issues such as shortcuts, out-of-distribution generalizability, efficiency, reliability, the relative importance of the model versus the scaffold, and uplift from human-agent collaboration. We use CORE-Bench Hard, a benchmark for computational reproducibility of scientific code, as a case study to",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.26158",
-      "featured": false
-    },
-    {
-      "id": "33c779eb9635",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "13시간 전 / 13h ago",
-      "title": "Refusal Lives Downstream of Persona in Chat Models",
-      "titleKo": "",
-      "summary": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct, we extract a compliant model-persona direction and a refusal direction and intervene on both. Compliant persona steering suppresses refusal -- in Llama, the refusal rate falls from 97% to 2%. Reintroducing the refusal direction partially restores refusal at lat",
-      "aiSummary": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct, we extract a compliant model-persona direction and a refusal direction and intervene on both. Compliant persona steering suppresses refusal -- in Llama, the refusal rate falls from 97% to 2%. Reintroducing the refusal direction partially restores refusal at lat",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct, we extract a compliant model-persona direction and a refusal direction and intervene on both. Compliant persona steering suppresses refusal -- in Llama, the refusal rate falls from 97% to 2%. Reintroducing the refusal direction partially restores refusal at lat",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.26161",
       "featured": false
     }
   ]
