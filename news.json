@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-27T16:10:41.310862+00:00",
+  "updated": "2026-06-27T18:09:21.235655+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "fae67a27f319",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Baby teeth reveal how early metal exposures shape the adolescent brain",
+      "titleKo": "",
+      "summary": "Using baby teeth to reconstruct weekly chemical exposures, scientists found that the specific timing of early metal absorption is associated with differences in the developing brain and later adolescent behavior.",
+      "aiSummary": "Using baby teeth to reconstruct weekly chemical exposures, scientists found that the specific timing of early metal absorption is associated with differences in the developing brain and later adolescent behavior.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Using baby teeth to reconstruct weekly chemical exposures, scientists found that the specific timing of early metal absorption is associated with differences in the developing brain and later adolescent behavior.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/baby-teeth-reveal-how-early-metal-exposures-shape-the-adolescent-brain/",
+      "featured": true
+    },
+    {
+      "id": "598b2b8edafb",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Scientists discover ancient brain cells that help block distractions",
+      "titleKo": "",
+      "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
+      "aiSummary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+      "featured": false
+    },
+    {
+      "id": "cff8905056f2",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "This common vitamin deficiency can mimic normal aging",
+      "titleKo": "",
+      "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
+      "aiSummary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
+      "featured": false
+    },
     {
       "id": "8ff24be05819",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A new study reveals that a happy romantic relationship and a sense of financial security are independently linked to better physical and mental health. The findings suggest that both domains are important, but neither replaces the other.",
       "keyPoints": [],
       "url": "https://www.psypost.org/love-and-money-both-matter-for-health-but-they-dont-replace-each-other/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bb161b061e02",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/",
-      "featured": false
-    },
-    {
-      "id": "26961174a26a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "5일 전 / 5d ago",
-      "title": "What It’s Like to Be…an Airline Pilot",
-      "titleKo": "",
-      "summary": "Shooting cat-three landings in the fog, using the “voice of God” on unruly passengers, and declaring Mayday after an engine fire with Paul Drusch, a commercial airline pilot. Why does the pilot’s paycheck start with the parking brake? And what does “sterile cockpit” mean? (Spoiler: it doesn’t mean “clean.”) [buzzsprout episode='19294742' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribut",
-      "aiSummary": "Shooting cat-three landings in the fog, using the “voice of God” on unruly passengers, and declaring Mayday after an engine fire with Paul Drusch, a commercial airline pilot. Why does the pilot’s paycheck start with the parking brake? And what does “sterile cockpit” mean? (Spoiler: it doesn’t mean “clean.”) [buzzsprout episode='19294742' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribut",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Shooting cat-three landings in the fog, using the “voice of God” on unruly passengers, and declaring Mayday after an engine fire with Paul Drusch, a commercial airline pilot. Why does the pilot’s paycheck start with the parking brake? And what does “sterile cockpit” mean? (Spoiler: it doesn’t mean “clean.”) [buzzsprout episode='19294742' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribut",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-airline-pilot/",
-      "featured": false
-    },
-    {
-      "id": "da1d5bb3889e",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "5일 전 / 5d ago",
-      "title": "What It’s Like to Be…a Clinical Ethicist",
-      "titleKo": "",
-      "summary": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "aiSummary": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-clinical-ethicist/",
-      "featured": false
-    },
-    {
-      "id": "6c365c890dcd",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "They knew the pill was fake but their memory still improved",
-      "titleKo": "",
-      "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "aiSummary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
       "featured": false
     }
   ]
