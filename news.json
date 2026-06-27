@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-27T12:11:17.224370+00:00",
+  "updated": "2026-06-27T14:46:52.970733+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2df381883ebe",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Scientists discover deep brain stimulation physically reshapes the brain’s information superhighway",
+      "titleKo": "",
+      "summary": "Deep brain stimulation offers hope for severe depression, but how it works has remained a mystery. A new study reveals the therapy actually physically reshapes the brain’s white matter pathways, explaining its long-lasting mood-boosting effects.",
+      "aiSummary": "Deep brain stimulation offers hope for severe depression, but how it works has remained a mystery. A new study reveals the therapy actually physically reshapes the brain’s white matter pathways, explaining its long-lasting mood-boosting effects.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Deep brain stimulation offers hope for severe depression, but how it works has remained a mystery. A new study reveals the therapy actually physically reshapes the brain’s white matter pathways, explaining its long-lasting mood-boosting effects.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-discover-deep-brain-stimulation-physically-reshapes-the-brains-information-superhighway/",
+      "featured": true
+    },
     {
       "id": "3f797f7940e3",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study shows that pregnant women exposed to higher levels of air pollution may have children who exhibit more attention-related symptoms in school. However, this exposure is not associated with higher rates of formal clinical ADHD diagnoses.",
       "keyPoints": [],
       "url": "https://www.psypost.org/prenatal-exposure-to-air-pollution-is-linked-to-increased-attention-issues-in-children/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ce1ac9603270",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "While some narcissists seek praise for their intelligence, others demand adoration for their extreme kindness. New research explores how these different personality variants exaggerate their knowledge to look superior to everyone around them.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-grandiose-ego-how-different-narcissists-exaggerate-their-abilities/",
-      "featured": false
-    },
-    {
-      "id": "d8617eb90ee7",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "13시간 전 / 13h ago",
-      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-      "titleKo": "",
-      "summary": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks can reliably detect model features responsible for a behavior, and therefore the ability to steer models toward or away from such behavior. In this work, we present an iterative data generation pipeline that isolates cascading linear features responsible for a behavior. Specifically, we show how movi",
-      "aiSummary": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks can reliably detect model features responsible for a behavior, and therefore the ability to steer models toward or away from such behavior. In this work, we present an iterative data generation pipeline that isolates cascading linear features responsible for a behavior. Specifically, we show how movi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks can reliably detect model features responsible for a behavior, and therefore the ability to steer models toward or away from such behavior. In this work, we present an iterative data generation pipeline that isolates cascading linear features responsible for a behavior. Specifically, we show how movi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.26155",
       "featured": false
     }
   ]
