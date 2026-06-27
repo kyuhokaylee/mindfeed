@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-26T23:13:44.956607+00:00",
+  "updated": "2026-06-27T04:00:43.912149+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "3c515b5d17f3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "12일 전 / 12d ago",
+      "title": "Announcing Our Summer Book Club and Podcast",
+      "titleKo": "",
+      "summary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "aiSummary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
+      "featured": true
+    },
+    {
+      "id": "6a8311f831e9",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "The universe may be hiding conscious minds stranger than we can imagine",
+      "titleKo": "",
+      "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
+      "aiSummary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
+      "featured": false
+    },
     {
       "id": "a41b692583e1",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "When students try to outsmart their peers, their academic performance suffers. A new psychology study reveals that pushing learners to compete leads them to ask ChatGPT superficial questions, increasing their anxiety and severely hindering true knowledge acquisition.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-the-desire-to-outshine-peers-ruins-learning-with-chatgpt/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "104d772dbdda",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct, we extract a compliant model-persona direction and a refusal direction and intervene on both. Compliant persona steering suppresses refusal -- in Llama, the refusal rate falls from 97% to 2%. Reintroducing the refusal direction partially restores refusal at lat",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.26161",
-      "featured": false
-    },
-    {
-      "id": "7d89653d1145",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "13시간 전 / 13h ago",
-      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-      "titleKo": "",
-      "summary": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic trading. This domain is uniquely challenging because it is noisy, non-stationary, and highly discontinuous. We present AlgoEvolve, an LLM-driven evolutionary framework that generates, evaluates, and iteratively improves executable trading strategies. These strategies are expressed as Python code and evalu",
-      "aiSummary": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic trading. This domain is uniquely challenging because it is noisy, non-stationary, and highly discontinuous. We present AlgoEvolve, an LLM-driven evolutionary framework that generates, evaluates, and iteratively improves executable trading strategies. These strategies are expressed as Python code and evalu",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic trading. This domain is uniquely challenging because it is noisy, non-stationary, and highly discontinuous. We present AlgoEvolve, an LLM-driven evolutionary framework that generates, evaluates, and iteratively improves executable trading strategies. These strategies are expressed as Python code and evalu",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.26173",
-      "featured": false
-    },
-    {
-      "id": "aece5ad4749b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "13시간 전 / 13h ago",
-      "title": "Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics",
-      "titleKo": "",
-      "summary": "arXiv:2606.26128v1 Announce Type: new Abstract: The spatiotemporal evolution of many physical, chemical, and biological systems is described by nonlinear partial differential equations (PDEs). Recently, deep neural network-based surrogate models have gained increasing interest as efficient alternatives to computationally expensive traditional numerical solvers. In this work, we propose an attention-based, physics-guided convolutional neural network as a surrogate model to learn the microstructural evolution of such systems. We train the model to accurately predict the full time-evolution of ph",
-      "aiSummary": "arXiv:2606.26128v1 Announce Type: new Abstract: The spatiotemporal evolution of many physical, chemical, and biological systems is described by nonlinear partial differential equations (PDEs). Recently, deep neural network-based surrogate models have gained increasing interest as efficient alternatives to computationally expensive traditional numerical solvers. In this work, we propose an attention-based, physics-guided convolutional neural network as a surrogate model to learn the microstructural evolution of such systems. We train the model to accurately predict the full time-evolution of ph",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.26128v1 Announce Type: new Abstract: The spatiotemporal evolution of many physical, chemical, and biological systems is described by nonlinear partial differential equations (PDEs). Recently, deep neural network-based surrogate models have gained increasing interest as efficient alternatives to computationally expensive traditional numerical solvers. In this work, we propose an attention-based, physics-guided convolutional neural network as a surrogate model to learn the microstructural evolution of such systems. We train the model to accurately predict the full time-evolution of ph",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.26128",
       "featured": false
     }
   ]
