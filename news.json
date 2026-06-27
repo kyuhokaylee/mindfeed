@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-27T20:12:40.229010+00:00",
+  "updated": "2026-06-27T22:08:06.246817+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9157915d52fe",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Eight weeks of guided slow breathing alters stress responses in veterans",
+      "titleKo": "",
+      "summary": "A daily routine of device-guided slow breathing helps veterans with trauma disorders dial back their physical fight-or-flight response to sudden mental stress, suggesting a new path for protecting the cardiovascular health of vulnerable patients without relying on medications.",
+      "aiSummary": "A daily routine of device-guided slow breathing helps veterans with trauma disorders dial back their physical fight-or-flight response to sudden mental stress, suggesting a new path for protecting the cardiovascular health of vulnerable patients without relying on medications.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A daily routine of device-guided slow breathing helps veterans with trauma disorders dial back their physical fight-or-flight response to sudden mental stress, suggesting a new path for protecting the cardiovascular health of vulnerable patients without relying on medications.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/eight-weeks-of-guided-slow-breathing-alters-stress-responses-in-veterans/",
+      "featured": true
+    },
     {
       "id": "989396c01c7a",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Entering a relationship or changing jobs often coincides with personality changes. However, new research shows these associations are highly individualized, relying on a person's age, gender, and subjective perception.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-people-interpret-life-milestones-is-tied-to-how-their-personalities-develop/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6c365c890dcd",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2606.26279v1 Announce Type: cross Abstract: Cognitive tasks are organized by shared and specialized neural processes. Masked fMRI reconstruction provides a common self-supervised objective for quantifying transfer relations among task states, but existing reconstruction-based taskonomies mainly study one-to-one transfer from a single source task to a target. Here, we extend an fMRI cognitive taskonomy from single-source to multi-source transfer across 23 Human Connectome Project task states and use Boolean Integer Programming (BIP) to analyze budget-constrained task allocation. We train ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2606.26279",
-      "featured": false
-    },
-    {
-      "id": "032fce0d474b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "17시간 전 / 17h ago",
-      "title": "Power-Law Scaling in the Classification Performance of Small-Scale Spiking Neural Networks",
-      "titleKo": "",
-      "summary": "arXiv:2601.14961v2 Announce Type: replace Abstract: This paper investigates the classification capability of small-scale spiking neural networks based on the Leaky Integrate-and-Fire (LIF) neuron model. We analyze the relationship between classification accuracy and three factors: the number of neurons, the number of stimulus nodes, and the number of classification categories. Notably, we employ a large language model (LLM) to assist in discovering the underlying functional relationships among these variables, and compare its performance against traditional methods such as linear and polynomia",
-      "aiSummary": "arXiv:2601.14961v2 Announce Type: replace Abstract: This paper investigates the classification capability of small-scale spiking neural networks based on the Leaky Integrate-and-Fire (LIF) neuron model. We analyze the relationship between classification accuracy and three factors: the number of neurons, the number of stimulus nodes, and the number of classification categories. Notably, we employ a large language model (LLM) to assist in discovering the underlying functional relationships among these variables, and compare its performance against traditional methods such as linear and polynomia",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2601.14961v2 Announce Type: replace Abstract: This paper investigates the classification capability of small-scale spiking neural networks based on the Leaky Integrate-and-Fire (LIF) neuron model. We analyze the relationship between classification accuracy and three factors: the number of neurons, the number of stimulus nodes, and the number of classification categories. Notably, we employ a large language model (LLM) to assist in discovering the underlying functional relationships among these variables, and compare its performance against traditional methods such as linear and polynomia",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2601.14961",
       "featured": false
     }
   ]
