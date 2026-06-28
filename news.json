@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-28T09:20:03.630655+00:00",
+  "updated": "2026-06-28T11:50:18.795321+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "71c5c6555f9a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Study links autistic traits to how the brain processes social versus nonsocial rewards",
+      "titleKo": "",
+      "summary": "New brain imaging research reveals that individuals with higher autistic traits show weaker connections between visual and reward-processing brain regions, explaining why they may place less value on social rewards like smiles compared to nonsocial rewards.",
+      "aiSummary": "New brain imaging research reveals that individuals with higher autistic traits show weaker connections between visual and reward-processing brain regions, explaining why they may place less value on social rewards like smiles compared to nonsocial rewards.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New brain imaging research reveals that individuals with higher autistic traits show weaker connections between visual and reward-processing brain regions, explaining why they may place less value on social rewards like smiles compared to nonsocial rewards.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-autistic-traits-shape-the-brain-s-response-to-social-rewards/",
+      "featured": true
+    },
+    {
+      "id": "c9a258a35125",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "People with insecure relationship habits tend to have more children, study finds",
+      "titleKo": "",
+      "summary": "Research across Japan, Canada, and the United States shows that fearful and preoccupied relationship traits actually predict larger family sizes. The findings suggest cultural norms heavily influence how our emotional habits impact reproductive success.",
+      "aiSummary": "Research across Japan, Canada, and the United States shows that fearful and preoccupied relationship traits actually predict larger family sizes. The findings suggest cultural norms heavily influence how our emotional habits impact reproductive success.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Research across Japan, Canada, and the United States shows that fearful and preoccupied relationship traits actually predict larger family sizes. The findings suggest cultural norms heavily influence how our emotional habits impact reproductive success.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/people-with-insecure-relationship-habits-tend-to-have-more-children-study-finds/",
+      "featured": false
+    },
     {
       "id": "27fe604bf855",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new analysis of combined brain imaging data from 273 people reveals how classic psychedelics flatten the brain’s strict processing hierarchy, increasing communication between sensory systems and the cognitive regions responsible for abstract thought.",
       "keyPoints": [],
       "url": "https://www.psypost.org/an-international-brain-imaging-analysis-reveals-how-psychedelics-rewire-neural-c/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "db8b7a8815b3",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
-      "featured": false
-    },
-    {
-      "id": "6a8311f831e9",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "The universe may be hiding conscious minds stranger than we can imagine",
-      "titleKo": "",
-      "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
-      "aiSummary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
-      "featured": false
-    },
-    {
-      "id": "a41b692583e1",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Competitive students use ChatGPT to memorize trivia instead of actually learning",
-      "titleKo": "",
-      "summary": "When students try to outsmart their peers, their academic performance suffers. A new psychology study reveals that pushing learners to compete leads them to ask ChatGPT superficial questions, increasing their anxiety and severely hindering true knowledge acquisition.",
-      "aiSummary": "When students try to outsmart their peers, their academic performance suffers. A new psychology study reveals that pushing learners to compete leads them to ask ChatGPT superficial questions, increasing their anxiety and severely hindering true knowledge acquisition.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "When students try to outsmart their peers, their academic performance suffers. A new psychology study reveals that pushing learners to compete leads them to ask ChatGPT superficial questions, increasing their anxiety and severely hindering true knowledge acquisition.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-the-desire-to-outshine-peers-ruins-learning-with-chatgpt/",
       "featured": false
     }
   ]
