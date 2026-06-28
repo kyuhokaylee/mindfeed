@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-28T11:50:18.795321+00:00",
+  "updated": "2026-06-28T14:01:59.419692+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "06810bf4c7f2",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "One highly desirable trait can dominate how you choose a romantic partner",
+      "titleKo": "",
+      "summary": "When evaluating potential dates, people do not simply tally up positive and negative qualities. Research shows that a single highly attractive characteristic often outweighs other factors, heavily influencing our final romantic choices.",
+      "aiSummary": "When evaluating potential dates, people do not simply tally up positive and negative qualities. Research shows that a single highly attractive characteristic often outweighs other factors, heavily influencing our final romantic choices.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When evaluating potential dates, people do not simply tally up positive and negative qualities. Research shows that a single highly attractive characteristic often outweighs other factors, heavily influencing our final romantic choices.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/one-highly-desirable-trait-can-dominate-how-you-choose-a-romantic-partner/",
+      "featured": true
+    },
+    {
+      "id": "739c91e1f066",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "The science of “mommy brain”: How dopamine locks in lifelong cognitive benefits for mothers",
+      "titleKo": "",
+      "summary": "A recent study published in Nature reveals that motherhood permanently remodels the brain through dopamine, enhancing learning and memory. The findings challenge the \"mommy brain\" myth, while warning that severe postpartum stress can disrupt these natural adaptations.",
+      "aiSummary": "A recent study published in Nature reveals that motherhood permanently remodels the brain through dopamine, enhancing learning and memory. The findings challenge the \"mommy brain\" myth, while warning that severe postpartum stress can disrupt these natural adaptations.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study published in Nature reveals that motherhood permanently remodels the brain through dopamine, enhancing learning and memory. The findings challenge the \"mommy brain\" myth, while warning that severe postpartum stress can disrupt these natural adaptations.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-science-of-mommy-brain-how-dopamine-locks-in-lifelong-cognitive-benefits-for-mothers/",
+      "featured": false
+    },
+    {
+      "id": "6a8311f831e9",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "The universe may be hiding conscious minds stranger than we can imagine",
+      "titleKo": "",
+      "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
+      "aiSummary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
+      "featured": false
+    },
     {
       "id": "71c5c6555f9a",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "New brain imaging research reveals that individuals with higher autistic traits show weaker connections between visual and reward-processing brain regions, explaining why they may place less value on social rewards like smiles compared to nonsocial rewards.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-autistic-traits-shape-the-brain-s-response-to-social-rewards/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c9a258a35125",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Deep brain stimulation offers hope for severe depression, but how it works has remained a mystery. A new study reveals the therapy actually physically reshapes the brain’s white matter pathways, explaining its long-lasting mood-boosting effects.",
       "keyPoints": [],
       "url": "https://www.psypost.org/scientists-discover-deep-brain-stimulation-physically-reshapes-the-brains-information-superhighway/",
-      "featured": false
-    },
-    {
-      "id": "3f797f7940e3",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Prenatal exposure to air pollution is linked to increased attention issues in children",
-      "titleKo": "",
-      "summary": "A new study shows that pregnant women exposed to higher levels of air pollution may have children who exhibit more attention-related symptoms in school. However, this exposure is not associated with higher rates of formal clinical ADHD diagnoses.",
-      "aiSummary": "A new study shows that pregnant women exposed to higher levels of air pollution may have children who exhibit more attention-related symptoms in school. However, this exposure is not associated with higher rates of formal clinical ADHD diagnoses.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study shows that pregnant women exposed to higher levels of air pollution may have children who exhibit more attention-related symptoms in school. However, this exposure is not associated with higher rates of formal clinical ADHD diagnoses.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/prenatal-exposure-to-air-pollution-is-linked-to-increased-attention-issues-in-children/",
-      "featured": false
-    },
-    {
-      "id": "ce1ac9603270",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "A balanced diet of video games is associated with greater stoicism and less isolation",
-      "titleKo": "",
-      "summary": "Are video game habits connected to isolation? A new study reveals that adults who play open-world and accessible single-player games report significantly lower feelings of loneliness, a trend that is closely associated with higher stoic attitudes.",
-      "aiSummary": "Are video game habits connected to isolation? A new study reveals that adults who play open-world and accessible single-player games report significantly lower feelings of loneliness, a trend that is closely associated with higher stoic attitudes.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Are video game habits connected to isolation? A new study reveals that adults who play open-world and accessible single-player games report significantly lower feelings of loneliness, a trend that is closely associated with higher stoic attitudes.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/a-balanced-diet-of-video-games-is-associated-with-greater-stoicism-and-less-isolation/",
-      "featured": false
-    },
-    {
-      "id": "3c515b5d17f3",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "Announcing Our Summer Book Club and Podcast",
-      "titleKo": "",
-      "summary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "aiSummary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
       "featured": false
     }
   ]
