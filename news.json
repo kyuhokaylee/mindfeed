@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28T18:09:02.450328+00:00",
+  "updated": "2026-06-28T20:17:22.739331+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "0657c9b54afd",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Can nighttime brain bursts predict performance on intelligence tests?",
+      "titleKo": "",
+      "summary": "A large-scale statistical review reveals how the electrical rhythms of the sleeping brain change as we age. The findings also outline differences in rest architecture between men and women, alongside unique links to waking cognitive abilities.",
+      "aiSummary": "A large-scale statistical review reveals how the electrical rhythms of the sleeping brain change as we age. The findings also outline differences in rest architecture between men and women, alongside unique links to waking cognitive abilities.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A large-scale statistical review reveals how the electrical rhythms of the sleeping brain change as we age. The findings also outline differences in rest architecture between men and women, alongside unique links to waking cognitive abilities.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-age-and-biological-sex-shape-our-sleeping-brain-waves/",
+      "featured": true
+    },
     {
       "id": "f7ab415cf642",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study tracked teenagers over a year and found that experiencing negative life events is strongly linked to depressive symptoms. For girls, stressful events were specifically tied to a sharp increase in negative self-evaluation.",
       "keyPoints": [],
       "url": "https://www.psypost.org/negative-life-events-trigger-different-depressive-symptoms-in-teenage-girls-and-boys/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8ec070c94a9e",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
-      "featured": false
-    },
-    {
-      "id": "cff8905056f2",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "This common vitamin deficiency can mimic normal aging",
-      "titleKo": "",
-      "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
-      "aiSummary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
       "featured": false
     }
   ]
