@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28T16:17:07.832612+00:00",
+  "updated": "2026-06-28T18:09:02.450328+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f7ab415cf642",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Negative life events trigger different depressive symptoms in teenage girls and boys",
+      "titleKo": "",
+      "summary": "A new study tracked teenagers over a year and found that experiencing negative life events is strongly linked to depressive symptoms. For girls, stressful events were specifically tied to a sharp increase in negative self-evaluation.",
+      "aiSummary": "A new study tracked teenagers over a year and found that experiencing negative life events is strongly linked to depressive symptoms. For girls, stressful events were specifically tied to a sharp increase in negative self-evaluation.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study tracked teenagers over a year and found that experiencing negative life events is strongly linked to depressive symptoms. For girls, stressful events were specifically tied to a sharp increase in negative self-evaluation.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/negative-life-events-trigger-different-depressive-symptoms-in-teenage-girls-and-boys/",
+      "featured": true
+    },
     {
       "id": "8ec070c94a9e",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "When a child’s verbal and nonverbal intelligence scores don’t match up, it can signal underlying struggles with impulse control. New brain imaging research explores how this intelligence gap relates to blood flow in the prefrontal cortex.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-scans-reveal-how-uneven-intelligence-scores-relate-to-attention-deficits-i/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9a41e186c375",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
-      "featured": false
-    },
-    {
-      "id": "8ff24be05819",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Love and money both matter for health, but they don’t replace each other",
-      "titleKo": "",
-      "summary": "A new study reveals that a happy romantic relationship and a sense of financial security are independently linked to better physical and mental health. The findings suggest that both domains are important, but neither replaces the other.",
-      "aiSummary": "A new study reveals that a happy romantic relationship and a sense of financial security are independently linked to better physical and mental health. The findings suggest that both domains are important, but neither replaces the other.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals that a happy romantic relationship and a sense of financial security are independently linked to better physical and mental health. The findings suggest that both domains are important, but neither replaces the other.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/love-and-money-both-matter-for-health-but-they-dont-replace-each-other/",
       "featured": false
     }
   ]
