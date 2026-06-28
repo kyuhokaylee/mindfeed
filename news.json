@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-28T14:01:59.419692+00:00",
+  "updated": "2026-06-28T16:17:07.832612+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8ec070c94a9e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Brain scans reveal how uneven intelligence scores relate to attention deficits in children",
+      "titleKo": "",
+      "summary": "When a child’s verbal and nonverbal intelligence scores don’t match up, it can signal underlying struggles with impulse control. New brain imaging research explores how this intelligence gap relates to blood flow in the prefrontal cortex.",
+      "aiSummary": "When a child’s verbal and nonverbal intelligence scores don’t match up, it can signal underlying struggles with impulse control. New brain imaging research explores how this intelligence gap relates to blood flow in the prefrontal cortex.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When a child’s verbal and nonverbal intelligence scores don’t match up, it can signal underlying struggles with impulse control. New brain imaging research explores how this intelligence gap relates to blood flow in the prefrontal cortex.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-scans-reveal-how-uneven-intelligence-scores-relate-to-attention-deficits-i/",
+      "featured": true
+    },
+    {
+      "id": "9a41e186c375",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Teachers say they distrust AI but still accept its harsh grading mistakes, study finds",
+      "titleKo": "",
+      "summary": "When grading student work, teachers are surprisingly quick to accept an AI's overly harsh mistakes. A recent study shows that simply keeping a human in the loop isn't enough to prevent automated systems from making unfair decisions.",
+      "aiSummary": "When grading student work, teachers are surprisingly quick to accept an AI's overly harsh mistakes. A recent study shows that simply keeping a human in the loop isn't enough to prevent automated systems from making unfair decisions.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When grading student work, teachers are surprisingly quick to accept an AI's overly harsh mistakes. A recent study shows that simply keeping a human in the loop isn't enough to prevent automated systems from making unfair decisions.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/teachers-say-they-distrust-ai-but-still-accept-its-harsh-grading-mistakes-study-finds/",
+      "featured": false
+    },
+    {
+      "id": "3c515b5d17f3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "13일 전 / 13d ago",
+      "title": "Announcing Our Summer Book Club and Podcast",
+      "titleKo": "",
+      "summary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "aiSummary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
+      "featured": false
+    },
     {
       "id": "06810bf4c7f2",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "When evaluating potential dates, people do not simply tally up positive and negative qualities. Research shows that a single highly attractive characteristic often outweighs other factors, heavily influencing our final romantic choices.",
       "keyPoints": [],
       "url": "https://www.psypost.org/one-highly-desirable-trait-can-dominate-how-you-choose-a-romantic-partner/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "739c91e1f066",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A new study reveals that a happy romantic relationship and a sense of financial security are independently linked to better physical and mental health. The findings suggest that both domains are important, but neither replaces the other.",
       "keyPoints": [],
       "url": "https://www.psypost.org/love-and-money-both-matter-for-health-but-they-dont-replace-each-other/",
-      "featured": false
-    },
-    {
-      "id": "bb161b061e02",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Men and women show different psychological links between the “fit ideal” and risky behaviors",
-      "titleKo": "",
-      "summary": "The push for a perfectly toned physique takes a toll on mental health. A new study reveals that while both men and women feel the pressure of the modern fitness ideal, the psychological paths to disordered eating differ completely.",
-      "aiSummary": "The push for a perfectly toned physique takes a toll on mental health. A new study reveals that while both men and women feel the pressure of the modern fitness ideal, the psychological paths to disordered eating differ completely.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The push for a perfectly toned physique takes a toll on mental health. A new study reveals that while both men and women feel the pressure of the modern fitness ideal, the psychological paths to disordered eating differ completely.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-the-social-media-fitness-ideal-affects-men-and-women-differently/",
-      "featured": false
-    },
-    {
-      "id": "7e3d465a32f3",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Parents invest differently in daughters and sons, study finds",
-      "titleKo": "",
-      "summary": "A new study published in Human Nature reports that parents do not simply invest more in daughters or sons overall, rather, their investment differs by domain, with mothers, fathers, daughters, and sons showing distinct patterns.",
-      "aiSummary": "A new study published in Human Nature reports that parents do not simply invest more in daughters or sons overall, rather, their investment differs by domain, with mothers, fathers, daughters, and sons showing distinct patterns.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study published in Human Nature reports that parents do not simply invest more in daughters or sons overall, rather, their investment differs by domain, with mothers, fathers, daughters, and sons showing distinct patterns.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/parents-invest-differently-in-daughters-and-sons-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "2df381883ebe",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Scientists discover deep brain stimulation physically reshapes the brain’s information superhighway",
-      "titleKo": "",
-      "summary": "Deep brain stimulation offers hope for severe depression, but how it works has remained a mystery. A new study reveals the therapy actually physically reshapes the brain’s white matter pathways, explaining its long-lasting mood-boosting effects.",
-      "aiSummary": "Deep brain stimulation offers hope for severe depression, but how it works has remained a mystery. A new study reveals the therapy actually physically reshapes the brain’s white matter pathways, explaining its long-lasting mood-boosting effects.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Deep brain stimulation offers hope for severe depression, but how it works has remained a mystery. A new study reveals the therapy actually physically reshapes the brain’s white matter pathways, explaining its long-lasting mood-boosting effects.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/scientists-discover-deep-brain-stimulation-physically-reshapes-the-brains-information-superhighway/",
       "featured": false
     }
   ]
