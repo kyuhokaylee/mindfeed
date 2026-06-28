@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28T00:08:13.710787+00:00",
+  "updated": "2026-06-28T05:21:20.411382+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "27fe604bf855",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "An international brain imaging analysis reveals how psychedelics rewire neural circuits",
+      "titleKo": "",
+      "summary": "A new analysis of combined brain imaging data from 273 people reveals how classic psychedelics flatten the brain’s strict processing hierarchy, increasing communication between sensory systems and the cognitive regions responsible for abstract thought.",
+      "aiSummary": "A new analysis of combined brain imaging data from 273 people reveals how classic psychedelics flatten the brain’s strict processing hierarchy, increasing communication between sensory systems and the cognitive regions responsible for abstract thought.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new analysis of combined brain imaging data from 273 people reveals how classic psychedelics flatten the brain’s strict processing hierarchy, increasing communication between sensory systems and the cognitive regions responsible for abstract thought.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/an-international-brain-imaging-analysis-reveals-how-psychedelics-rewire-neural-c/",
+      "featured": true
+    },
     {
       "id": "db8b7a8815b3",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "New research shows that people walk away from deals more satisfied when their counterpart is a woman. Women achieve the exact same financial results as men but excel at building relationships, leading to more future business opportunities.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-prefer-negotiating-with-women-over-men-study-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b03f512ed590",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "When students try to outsmart their peers, their academic performance suffers. A new psychology study reveals that pushing learners to compete leads them to ask ChatGPT superficial questions, increasing their anxiety and severely hindering true knowledge acquisition.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-the-desire-to-outshine-peers-ruins-learning-with-chatgpt/",
-      "featured": false
-    },
-    {
-      "id": "104d772dbdda",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis",
-      "titleKo": "",
-      "summary": "arXiv:2606.26169v1 Announce Type: new Abstract: Neural Architecture Search (NAS) has emerged as a pivotal technique in optimizing the design of Generative Adversarial Networks (GANs), automating the search for effective architectures while addressing the challenges inherent in manual design. This paper provides a comprehensive review of NAS methods applied to GANs, categorizing and comparing various approaches based on criteria such as search strategies, evaluation metrics, and performance outcomes. The review highlights the benefits of NAS in improving GAN performance, stability, and efficien",
-      "aiSummary": "arXiv:2606.26169v1 Announce Type: new Abstract: Neural Architecture Search (NAS) has emerged as a pivotal technique in optimizing the design of Generative Adversarial Networks (GANs), automating the search for effective architectures while addressing the challenges inherent in manual design. This paper provides a comprehensive review of NAS methods applied to GANs, categorizing and comparing various approaches based on criteria such as search strategies, evaluation metrics, and performance outcomes. The review highlights the benefits of NAS in improving GAN performance, stability, and efficien",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2606.26169v1 Announce Type: new Abstract: Neural Architecture Search (NAS) has emerged as a pivotal technique in optimizing the design of Generative Adversarial Networks (GANs), automating the search for effective architectures while addressing the challenges inherent in manual design. This paper provides a comprehensive review of NAS methods applied to GANs, categorizing and comparing various approaches based on criteria such as search strategies, evaluation metrics, and performance outcomes. The review highlights the benefits of NAS in improving GAN performance, stability, and efficien",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2606.26169",
       "featured": false
     }
   ]
