@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-01T21:40:52.521191+00:00",
+  "updated": "2026-07-01T23:20:33.332536+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "cd38ac8bca3a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Video games might offer a small boost to memory and mental skills",
+      "titleKo": "",
+      "summary": "A recent overarching review of dozens of studies found that playing video games might offer a modest boost to various mental skills, helping players process information and remember details more effectively.",
+      "aiSummary": "A recent overarching review of dozens of studies found that playing video games might offer a modest boost to various mental skills, helping players process information and remember details more effectively.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent overarching review of dozens of studies found that playing video games might offer a modest boost to various mental skills, helping players process information and remember details more effectively.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/video-games-might-offer-a-small-boost-to-memory-and-mental-skills/",
+      "featured": true
+    },
+    {
+      "id": "e1354c3fcb7b",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+      "titleKo": "",
+      "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
+      "aiSummary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+      "featured": false
+    },
+    {
+      "id": "6c365c890dcd",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "6일 전 / 6d ago",
+      "title": "They knew the pill was fake but their memory still improved",
+      "titleKo": "",
+      "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+      "aiSummary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
+      "featured": false
+    },
     {
       "id": "7d46917c4bdc",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A new study of over 80,000 infants reveals that babies breastfed for their first six months are less likely to experience short sleep durations at age one, challenging the common belief that formula-fed babies sleep longer.",
       "keyPoints": [],
       "url": "https://www.psypost.org/breastfeeding-during-the-first-six-months-is-linked-to-better-sleep-at-one-year/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2aa312d9480f",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Shooting cat-three landings in the fog, using the “voice of God” on unruly passengers, and declaring Mayday after an engine fire with Paul Drusch, a commercial airline pilot. Why does the pilot’s paycheck start with the parking brake? And what does “sterile cockpit” mean? (Spoiler: it doesn’t mean “clean.”) [buzzsprout episode='19294742' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribut",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-an-airline-pilot/",
-      "featured": false
-    },
-    {
-      "id": "da1d5bb3889e",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "10일 전 / 10d ago",
-      "title": "What It’s Like to Be…a Clinical Ethicist",
-      "titleKo": "",
-      "summary": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "aiSummary": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-clinical-ethicist/",
-      "featured": false
-    },
-    {
-      "id": "3c515b5d17f3",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "16일 전 / 16d ago",
-      "title": "Announcing Our Summer Book Club and Podcast",
-      "titleKo": "",
-      "summary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "aiSummary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
-      "featured": false
-    },
-    {
-      "id": "882e6deb9183",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Experts and the public have radically different visions of an automated future",
-      "titleKo": "",
-      "summary": "A new survey finds that technology experts focus heavily on the benefits of artificial intelligence, while everyday users remain far more sensitive to its risks. This disconnect could lead to tools that fail to meet human needs.",
-      "aiSummary": "A new survey finds that technology experts focus heavily on the benefits of artificial intelligence, while everyday users remain far more sensitive to its risks. This disconnect could lead to tools that fail to meet human needs.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new survey finds that technology experts focus heavily on the benefits of artificial intelligence, while everyday users remain far more sensitive to its risks. This disconnect could lead to tools that fail to meet human needs.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/experts-and-the-public-have-radically-different-visions-of-an-automated-future/",
       "featured": false
     }
   ]
