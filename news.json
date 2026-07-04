@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04T10:17:21.965071+00:00",
+  "updated": "2026-07-04T12:09:54.475642+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d3e277056b56",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "How leaning too heavily on artificial intelligence fuels student burnout",
+      "titleKo": "",
+      "summary": "College students overwhelmed by academic pressure often use artificial intelligence to lighten their mental load. A new study explores how relying too heavily on these digital tools can erode a student's self-confidence and fuel eventual burnout.",
+      "aiSummary": "College students overwhelmed by academic pressure often use artificial intelligence to lighten their mental load. A new study explores how relying too heavily on these digital tools can erode a student's self-confidence and fuel eventual burnout.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "College students overwhelmed by academic pressure often use artificial intelligence to lighten their mental load. A new study explores how relying too heavily on these digital tools can erode a student's self-confidence and fuel eventual burnout.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-leaning-too-heavily-on-artificial-intelligence-fuels-student-burnout/",
+      "featured": true
+    },
     {
       "id": "5c228568110b",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Psychologists have identified three specific types of liars in romantic relationships. The findings suggest that while insecure individuals often lie to maintain harmony, those with dark personality traits use deception to control and manipulate their partners.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-psychology-research-reveals-three-distinct-types-of-liars-in-romantic-relationships/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "42a1c5429057",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2602.22364v2 Announce Type: replace Abstract: Cultures of neurons grown on multi-electrode arrays have become a common experimental preparation for investigating developing neural networks. Experiment and simulation have shown that these developing networks eventually exhibit bursting behavior in which the entire culture participates for short periods of time, with inter-burst intervals in which the network is comparatively quiescent. This paper extends previous simulation results by examining the spatiotemporal patterns of such bursting. We show that these bursts originate at a small nu",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2602.22364",
-      "featured": false
-    },
-    {
-      "id": "6c365c890dcd",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "8일 전 / 8d ago",
-      "title": "They knew the pill was fake but their memory still improved",
-      "titleKo": "",
-      "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "aiSummary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
       "featured": false
     }
   ]
