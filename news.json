@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-04T16:08:00.453323+00:00",
+  "updated": "2026-07-04T18:06:21.010746+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5729b1a1c826",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Popular psychology task fails to link heartbeat perception with anxiety and depression",
+      "titleKo": "",
+      "summary": "New research challenges a common psychological test. Scientists found that a person's ability to count their own heartbeats does not reliably indicate their levels of anxiety, depression, or emotional awareness.",
+      "aiSummary": "New research challenges a common psychological test. Scientists found that a person's ability to count their own heartbeats does not reliably indicate their levels of anxiety, depression, or emotional awareness.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research challenges a common psychological test. Scientists found that a person's ability to count their own heartbeats does not reliably indicate their levels of anxiety, depression, or emotional awareness.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/popular-psychology-task-fails-to-link-heartbeat-perception-with-anxiety-and-depression/",
+      "featured": true
+    },
+    {
+      "id": "d6c6c9fd7381",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Millions of Americans favor strong leaders over democracy",
+      "titleKo": "",
+      "summary": "Most Americans support democratic ideals, but millions hold views sympathetic to authoritarianism. A new nationally representative survey explores the public's appetite for suspending Congress and deploying the military to enforce federal policies.",
+      "aiSummary": "Most Americans support democratic ideals, but millions hold views sympathetic to authoritarianism. A new nationally representative survey explores the public's appetite for suspending Congress and deploying the military to enforce federal policies.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Most Americans support democratic ideals, but millions hold views sympathetic to authoritarianism. A new nationally representative survey explores the public's appetite for suspending Congress and deploying the military to enforce federal policies.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/survey-finds-substantial-minority-in-the-united-states-endorses-authoritarian-co/",
+      "featured": false
+    },
     {
       "id": "77a91cacce3a",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study in Molecular Psychiatry suggests that the timing of childhood abuse is linked to distinct differences in how the adult brain processes emotional information, depending on whether the trauma happened in early childhood or adolescence.",
       "keyPoints": [],
       "url": "https://www.psypost.org/age-at-which-childhood-abuse-occurs-is-associated-with-distinct-brain-activity-in-adulthood/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6c365c890dcd",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-clinical-ethicist/",
-      "featured": false
-    },
-    {
-      "id": "3c515b5d17f3",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "19일 전 / 19d ago",
-      "title": "Announcing Our Summer Book Club and Podcast",
-      "titleKo": "",
-      "summary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "aiSummary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
-      "featured": false
-    },
-    {
-      "id": "063644a86c18",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Brain imaging reveals what makes professional visual artists unique",
-      "titleKo": "",
-      "summary": "Professional visual artists possess unique brain structures that support vivid mental imagery, according to new research. By combining multiple brain scans, scientists discovered distinct neural patterns in artists that differ significantly from those without artistic training.",
-      "aiSummary": "Professional visual artists possess unique brain structures that support vivid mental imagery, according to new research. By combining multiple brain scans, scientists discovered distinct neural patterns in artists that differ significantly from those without artistic training.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Professional visual artists possess unique brain structures that support vivid mental imagery, according to new research. By combining multiple brain scans, scientists discovered distinct neural patterns in artists that differ significantly from those without artistic training.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/brain-imaging-reveals-what-makes-professional-visual-artists-unique/",
       "featured": false
     }
   ]
