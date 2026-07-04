@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-04T12:09:54.475642+00:00",
+  "updated": "2026-07-04T14:40:54.059266+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "77a91cacce3a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Age at which childhood abuse occurs is associated with distinct brain activity in adulthood",
+      "titleKo": "",
+      "summary": "A new study in Molecular Psychiatry suggests that the timing of childhood abuse is linked to distinct differences in how the adult brain processes emotional information, depending on whether the trauma happened in early childhood or adolescence.",
+      "aiSummary": "A new study in Molecular Psychiatry suggests that the timing of childhood abuse is linked to distinct differences in how the adult brain processes emotional information, depending on whether the trauma happened in early childhood or adolescence.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study in Molecular Psychiatry suggests that the timing of childhood abuse is linked to distinct differences in how the adult brain processes emotional information, depending on whether the trauma happened in early childhood or adolescence.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/age-at-which-childhood-abuse-occurs-is-associated-with-distinct-brain-activity-in-adulthood/",
+      "featured": true
+    },
+    {
+      "id": "6c365c890dcd",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "9일 전 / 9d ago",
+      "title": "They knew the pill was fake but their memory still improved",
+      "titleKo": "",
+      "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+      "aiSummary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
+      "featured": false
+    },
     {
       "id": "d3e277056b56",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "College students overwhelmed by academic pressure often use artificial intelligence to lighten their mental load. A new study explores how relying too heavily on these digital tools can erode a student's self-confidence and fuel eventual burnout.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-leaning-too-heavily-on-artificial-intelligence-fuels-student-burnout/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5c228568110b",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Professional visual artists possess unique brain structures that support vivid mental imagery, according to new research. By combining multiple brain scans, scientists discovered distinct neural patterns in artists that differ significantly from those without artistic training.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-imaging-reveals-what-makes-professional-visual-artists-unique/",
-      "featured": false
-    },
-    {
-      "id": "e671ff85c079",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "14시간 전 / 14h ago",
-      "title": "Gravity-Awareness: Deep Learning Models and LLM Simulation of Human Awareness in Altered Gravity",
-      "titleKo": "",
-      "summary": "arXiv:2511.05536v2 Announce Type: replace Abstract: Earth s gravity fundamentally shapes human behaviour. The brain encodes this force as an internal model of gravity, enabling the prediction and interpretation of gravitational effects during perception and action. Understanding how this model adapts to altered gravity is critical for predicting human performance in spaceflight. We present a computational framework for modelling neurophysiological adaptation across diverse gravitational environments. The framework has two components trained on open-access data from altered-gravity studies, par",
-      "aiSummary": "arXiv:2511.05536v2 Announce Type: replace Abstract: Earth s gravity fundamentally shapes human behaviour. The brain encodes this force as an internal model of gravity, enabling the prediction and interpretation of gravitational effects during perception and action. Understanding how this model adapts to altered gravity is critical for predicting human performance in spaceflight. We present a computational framework for modelling neurophysiological adaptation across diverse gravitational environments. The framework has two components trained on open-access data from altered-gravity studies, par",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2511.05536v2 Announce Type: replace Abstract: Earth s gravity fundamentally shapes human behaviour. The brain encodes this force as an internal model of gravity, enabling the prediction and interpretation of gravitational effects during perception and action. Understanding how this model adapts to altered gravity is critical for predicting human performance in spaceflight. We present a computational framework for modelling neurophysiological adaptation across diverse gravitational environments. The framework has two components trained on open-access data from altered-gravity studies, par",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2511.05536",
-      "featured": false
-    },
-    {
-      "id": "0efa2ba55b76",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "14시간 전 / 14h ago",
-      "title": "Spatiotemporal bursting in simulated cultures of cortical neurons",
-      "titleKo": "",
-      "summary": "arXiv:2602.22364v2 Announce Type: replace Abstract: Cultures of neurons grown on multi-electrode arrays have become a common experimental preparation for investigating developing neural networks. Experiment and simulation have shown that these developing networks eventually exhibit bursting behavior in which the entire culture participates for short periods of time, with inter-burst intervals in which the network is comparatively quiescent. This paper extends previous simulation results by examining the spatiotemporal patterns of such bursting. We show that these bursts originate at a small nu",
-      "aiSummary": "arXiv:2602.22364v2 Announce Type: replace Abstract: Cultures of neurons grown on multi-electrode arrays have become a common experimental preparation for investigating developing neural networks. Experiment and simulation have shown that these developing networks eventually exhibit bursting behavior in which the entire culture participates for short periods of time, with inter-burst intervals in which the network is comparatively quiescent. This paper extends previous simulation results by examining the spatiotemporal patterns of such bursting. We show that these bursts originate at a small nu",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2602.22364v2 Announce Type: replace Abstract: Cultures of neurons grown on multi-electrode arrays have become a common experimental preparation for investigating developing neural networks. Experiment and simulation have shown that these developing networks eventually exhibit bursting behavior in which the entire culture participates for short periods of time, with inter-burst intervals in which the network is comparatively quiescent. This paper extends previous simulation results by examining the spatiotemporal patterns of such bursting. We show that these bursts originate at a small nu",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2602.22364",
       "featured": false
     }
   ]
