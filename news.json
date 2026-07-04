@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-04T18:06:21.010746+00:00",
+  "updated": "2026-07-04T20:11:58.819305+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "bbd2076b72ee",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Brain signal chaos increases during an active migraine attack",
+      "titleKo": "",
+      "summary": "People with frequent migraines lose natural unpredictability in their brain signals over time. A recent brain imaging study reveals that sudden migraine attacks might serve as a chaotic reset switch, temporarily restoring flexibility to rigid neural networks.",
+      "aiSummary": "People with frequent migraines lose natural unpredictability in their brain signals over time. A recent brain imaging study reveals that sudden migraine attacks might serve as a chaotic reset switch, temporarily restoring flexibility to rigid neural networks.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People with frequent migraines lose natural unpredictability in their brain signals over time. A recent brain imaging study reveals that sudden migraine attacks might serve as a chaotic reset switch, temporarily restoring flexibility to rigid neural networks.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-hidden-chaos-of-migraines-how-brain-signals-slow-down-and-suddenly-restart/",
+      "featured": true
+    },
+    {
+      "id": "3c515b5d17f3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "20일 전 / 20d ago",
+      "title": "Announcing Our Summer Book Club and Podcast",
+      "titleKo": "",
+      "summary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "aiSummary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
+      "featured": false
+    },
     {
       "id": "5729b1a1c826",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "New research challenges a common psychological test. Scientists found that a person's ability to count their own heartbeats does not reliably indicate their levels of anxiety, depression, or emotional awareness.",
       "keyPoints": [],
       "url": "https://www.psypost.org/popular-psychology-task-fails-to-link-heartbeat-perception-with-anxiety-and-depression/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d6c6c9fd7381",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/",
-      "featured": false
-    },
-    {
-      "id": "26961174a26a",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "What It’s Like to Be…an Airline Pilot",
-      "titleKo": "",
-      "summary": "Shooting cat-three landings in the fog, using the “voice of God” on unruly passengers, and declaring Mayday after an engine fire with Paul Drusch, a commercial airline pilot. Why does the pilot’s paycheck start with the parking brake? And what does “sterile cockpit” mean? (Spoiler: it doesn’t mean “clean.”) [buzzsprout episode='19294742' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribut",
-      "aiSummary": "Shooting cat-three landings in the fog, using the “voice of God” on unruly passengers, and declaring Mayday after an engine fire with Paul Drusch, a commercial airline pilot. Why does the pilot’s paycheck start with the parking brake? And what does “sterile cockpit” mean? (Spoiler: it doesn’t mean “clean.”) [buzzsprout episode='19294742' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribut",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Shooting cat-three landings in the fog, using the “voice of God” on unruly passengers, and declaring Mayday after an engine fire with Paul Drusch, a commercial airline pilot. Why does the pilot’s paycheck start with the parking brake? And what does “sterile cockpit” mean? (Spoiler: it doesn’t mean “clean.”) [buzzsprout episode='19294742' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribut",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-airline-pilot/",
-      "featured": false
-    },
-    {
-      "id": "da1d5bb3889e",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "What It’s Like to Be…a Clinical Ethicist",
-      "titleKo": "",
-      "summary": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "aiSummary": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Untangling who gets to speak for a dying patient, weighing a treatment's benefits against its burdens, and searching for clarity in the grayest corners of healthcare with Esther Berkowitz, a clinical ethicist. What is the \"dignity of risk\"? And how do you know which \"version\" of a person to trust? [buzzsprout episode='19262736' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partne",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-clinical-ethicist/",
       "featured": false
     }
   ]
