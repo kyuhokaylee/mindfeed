@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-05T17:18:08.407819+00:00",
+  "updated": "2026-07-05T19:26:22.871039+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8a6d9bbf7009",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Higher education is less associated with economic parity for women in highly hierarchical cultures",
+      "titleKo": "",
+      "summary": "Higher education is often viewed as a great equalizer. However, new research suggests the association between a college degree and women's economic equality is significantly weaker in countries that favor rigid social hierarchies and traditional gender roles.",
+      "aiSummary": "Higher education is often viewed as a great equalizer. However, new research suggests the association between a college degree and women's economic equality is significantly weaker in countries that favor rigid social hierarchies and traditional gender roles.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Higher education is often viewed as a great equalizer. However, new research suggests the association between a college degree and women's economic equality is significantly weaker in countries that favor rigid social hierarchies and traditional gender roles.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/higher-education-is-less-associated-with-economic-parity-for-women-in-highly-hierarchical-cultures/",
+      "featured": true
+    },
     {
       "id": "5f0646af7e4b",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Can an artificial intelligence bot cure feelings of isolation? A new psychology experiment finds that while AI companions can offer emotional support, only daily texting with a real human peer actually reduces loneliness over time.",
       "keyPoints": [],
       "url": "https://www.psypost.org/ai-chatbots-offer-empathy-but-still-fail-to-cure-loneliness/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "45e18fb3a4d4",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
-      "featured": false
-    },
-    {
-      "id": "5729b1a1c826",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Popular psychology task fails to link heartbeat perception with anxiety and depression",
-      "titleKo": "",
-      "summary": "New research challenges a common psychological test. Scientists found that a person's ability to count their own heartbeats does not reliably indicate their levels of anxiety, depression, or emotional awareness.",
-      "aiSummary": "New research challenges a common psychological test. Scientists found that a person's ability to count their own heartbeats does not reliably indicate their levels of anxiety, depression, or emotional awareness.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "New research challenges a common psychological test. Scientists found that a person's ability to count their own heartbeats does not reliably indicate their levels of anxiety, depression, or emotional awareness.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/popular-psychology-task-fails-to-link-heartbeat-perception-with-anxiety-and-depression/",
       "featured": false
     }
   ]
