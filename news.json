@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-05T09:13:53.871448+00:00",
+  "updated": "2026-07-05T11:38:49.100672+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5e607df5a876",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Love addiction, emotional dependence, and manic love have distinct psychological profiles",
+      "titleKo": "",
+      "summary": "When romantic relationships become obsessive or overly dependent, the underlying psychology can vary significantly. A new review reveals that manic love, emotional dependence, and love addiction each have distinct psychological profiles and should be treated as separate issues.",
+      "aiSummary": "When romantic relationships become obsessive or overly dependent, the underlying psychology can vary significantly. A new review reveals that manic love, emotional dependence, and love addiction each have distinct psychological profiles and should be treated as separate issues.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When romantic relationships become obsessive or overly dependent, the underlying psychology can vary significantly. A new review reveals that manic love, emotional dependence, and love addiction each have distinct psychological profiles and should be treated as separate issues.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/love-addiction-emotional-dependence-and-manic-love-have-distinct-psychological-profiles/",
+      "featured": true
+    },
+    {
+      "id": "07bd7f46b04d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Classic psychedelics linked to lasting increases in openness and drops in neuroticism",
+      "titleKo": "",
+      "summary": "A new review of nearly 50 studies suggests classic psychedelics like psilocybin and LSD can cause lasting personality changes. Research links the use of these substances to long-term increases in openness and significant drops in neuroticism.",
+      "aiSummary": "A new review of nearly 50 studies suggests classic psychedelics like psilocybin and LSD can cause lasting personality changes. Research links the use of these substances to long-term increases in openness and significant drops in neuroticism.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new review of nearly 50 studies suggests classic psychedelics like psilocybin and LSD can cause lasting personality changes. Research links the use of these substances to long-term increases in openness and significant drops in neuroticism.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/classic-psychedelics-linked-to-lasting-increases-in-openness-and-drops-in-neuroticism/",
+      "featured": false
+    },
     {
       "id": "5d7a71be7370",
       "tag": "neuro",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "90404f2f156d",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
-      "featured": false
-    },
-    {
-      "id": "7702e0741772",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Scientists discover a surprising link between vitamin C and brain health",
-      "titleKo": "",
-      "summary": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter and weaker connections in a key brain network involved in memory, attention, and other cognitive functions.",
-      "aiSummary": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter and weaker connections in a key brain network involved in memory, attention, and other cognitive functions.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter and weaker connections in a key brain network involved in memory, attention, and other cognitive functions.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
-      "featured": false
-    },
-    {
-      "id": "9dbc1333dddc",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "18시간 전 / 18h ago",
-      "title": "Multilayer Q-Matrix-Embedded Neural Network for Cognitive Diagnosis (M-QCDNet): Structure-Aware Deep Learning Architecture for Psychometric Interpretability",
-      "titleKo": "",
-      "summary": "arXiv:2607.01278v1 Announce Type: new Abstract: The research proposes a multilayer Q-matrix-embedded neural network for cognitive diagnosis (M-QCDNet), which integrates the structural interpretability of cognitive diagnostic models (CDMs) with the deep learning neural network (NN). M-QCDNet structures the item-skill relationship using the Q-matrix as a structural prior, ensuring latent mastery profiles remain interpretable and consistent with cognitive theory, followed by the proposed loss function with an L2 penalty to penalize skills not aligned with the Q-matrix and to balance predictive pe",
-      "aiSummary": "arXiv:2607.01278v1 Announce Type: new Abstract: The research proposes a multilayer Q-matrix-embedded neural network for cognitive diagnosis (M-QCDNet), which integrates the structural interpretability of cognitive diagnostic models (CDMs) with the deep learning neural network (NN). M-QCDNet structures the item-skill relationship using the Q-matrix as a structural prior, ensuring latent mastery profiles remain interpretable and consistent with cognitive theory, followed by the proposed loss function with an L2 penalty to penalize skills not aligned with the Q-matrix and to balance predictive pe",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.01278v1 Announce Type: new Abstract: The research proposes a multilayer Q-matrix-embedded neural network for cognitive diagnosis (M-QCDNet), which integrates the structural interpretability of cognitive diagnostic models (CDMs) with the deep learning neural network (NN). M-QCDNet structures the item-skill relationship using the Q-matrix as a structural prior, ensuring latent mastery profiles remain interpretable and consistent with cognitive theory, followed by the proposed loss function with an L2 penalty to penalize skills not aligned with the Q-matrix and to balance predictive pe",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.01278",
       "featured": false
     }
   ]
