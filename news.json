@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-05T05:00:42.756201+00:00",
+  "updated": "2026-07-05T09:13:53.871448+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5d7a71be7370",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists discover why some brains resist Alzheimer's",
+      "titleKo": "",
+      "summary": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
+      "aiSummary": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm",
+      "featured": true
+    },
+    {
+      "id": "90404f2f156d",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Drinking to cope with stress may permanently rewire your brain",
+      "titleKo": "",
+      "summary": "Using alcohol to cope with stress when young may permanently alter the brain, making it harder to adapt to challenges and increasing the risk of returning to drinking later in life. Researchers also found signs of brain damage associated with early dementia, suggesting the effects can linger long after alcohol use has stopped.",
+      "aiSummary": "Using alcohol to cope with stress when young may permanently alter the brain, making it harder to adapt to challenges and increasing the risk of returning to drinking later in life. Researchers also found signs of brain damage associated with early dementia, suggesting the effects can linger long after alcohol use has stopped.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Using alcohol to cope with stress when young may permanently alter the brain, making it harder to adapt to challenges and increasing the risk of returning to drinking later in life. Researchers also found signs of brain damage associated with early dementia, suggesting the effects can linger long after alcohol use has stopped.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030437.htm",
+      "featured": false
+    },
     {
       "id": "ef48295a560a",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A massive analysis of population data in Finland links the decline in national church membership with the country's dropping birth rate. As secularization rises, couples that share a religious affiliation are becoming rarer, further suppressing first-time parenthood.",
       "keyPoints": [],
       "url": "https://www.psypost.org/declining-church-membership-is-driving-down-birth-rates-in-finland/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b03f512ed590",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2607.01278v1 Announce Type: new Abstract: The research proposes a multilayer Q-matrix-embedded neural network for cognitive diagnosis (M-QCDNet), which integrates the structural interpretability of cognitive diagnostic models (CDMs) with the deep learning neural network (NN). M-QCDNet structures the item-skill relationship using the Q-matrix as a structural prior, ensuring latent mastery profiles remain interpretable and consistent with cognitive theory, followed by the proposed loss function with an L2 penalty to penalize skills not aligned with the Q-matrix and to balance predictive pe",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.01278",
-      "featured": false
-    },
-    {
-      "id": "8524d37562f3",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "18시간 전 / 18h ago",
-      "title": "I\\textsuperscript{2}RiMA: Spectral Riemannian Representation with Temporal Attention for Mental Stress Detection based on EEG Signals",
-      "titleKo": "",
-      "summary": "arXiv:2607.01279v1 Announce Type: new Abstract: Cross-subject EEG stress detection remains challenging because discriminative stress-related patterns are both subject-dependent and frequency-specific. Conventional Riemannian methods model spatial covariance mainly in the time domain, overlooking neural oscillations that are critical for high-level cognitive state decoding, while standard temporal tokenization often fragments inter-slice temporal coherence. To address these limitations, we propose \\method{}, an Intra-Inter Riemannian Manifold Attention Network for EEG-based stress detection. \\m",
-      "aiSummary": "arXiv:2607.01279v1 Announce Type: new Abstract: Cross-subject EEG stress detection remains challenging because discriminative stress-related patterns are both subject-dependent and frequency-specific. Conventional Riemannian methods model spatial covariance mainly in the time domain, overlooking neural oscillations that are critical for high-level cognitive state decoding, while standard temporal tokenization often fragments inter-slice temporal coherence. To address these limitations, we propose \\method{}, an Intra-Inter Riemannian Manifold Attention Network for EEG-based stress detection. \\m",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.01279v1 Announce Type: new Abstract: Cross-subject EEG stress detection remains challenging because discriminative stress-related patterns are both subject-dependent and frequency-specific. Conventional Riemannian methods model spatial covariance mainly in the time domain, overlooking neural oscillations that are critical for high-level cognitive state decoding, while standard temporal tokenization often fragments inter-slice temporal coherence. To address these limitations, we propose \\method{}, an Intra-Inter Riemannian Manifold Attention Network for EEG-based stress detection. \\m",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.01279",
-      "featured": false
-    },
-    {
-      "id": "30c2d56990f3",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "18시간 전 / 18h ago",
-      "title": "Fixed-Set Robustness in Programming by Example: Example Corruption and Semantic Partition Recovery",
-      "titleKo": "",
-      "summary": "arXiv:2607.01280v1 Announce Type: new Abstract: Programming-by-example systems infer programs from a small set of input-output examples. Robust PBE work usually models wrong examples as samples from a stochastic noise process and then minimizes an expected or empirical loss. This paper studies a different failure mode: an adversary who sees the synthesizer and chooses the examples whose corruption most damages the returned program. We formalize fixed-set worst-case corruption for finite PBE version spaces, implement exact-within-bounded-pool and heuristic corruption searches for a string-trans",
-      "aiSummary": "arXiv:2607.01280v1 Announce Type: new Abstract: Programming-by-example systems infer programs from a small set of input-output examples. Robust PBE work usually models wrong examples as samples from a stochastic noise process and then minimizes an expected or empirical loss. This paper studies a different failure mode: an adversary who sees the synthesizer and chooses the examples whose corruption most damages the returned program. We formalize fixed-set worst-case corruption for finite PBE version spaces, implement exact-within-bounded-pool and heuristic corruption searches for a string-trans",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.01280v1 Announce Type: new Abstract: Programming-by-example systems infer programs from a small set of input-output examples. Robust PBE work usually models wrong examples as samples from a stochastic noise process and then minimizes an expected or empirical loss. This paper studies a different failure mode: an adversary who sees the synthesizer and chooses the examples whose corruption most damages the returned program. We formalize fixed-set worst-case corruption for finite PBE version spaces, implement exact-within-bounded-pool and heuristic corruption searches for a string-trans",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.01280",
       "featured": false
     }
   ]
