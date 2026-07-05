@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-05T13:53:01.610276+00:00",
+  "updated": "2026-07-05T15:17:24.656776+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d01006768ac9",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "More than 50 percent of adults worry about their libido, new study finds",
+      "titleKo": "",
+      "summary": "Everyday stressors, mental health challenges, and relationship dynamics play a major role in how people perceive their sexual desire. New research reveals that these factors lead more than half of adults to worry about their libido.",
+      "aiSummary": "Everyday stressors, mental health challenges, and relationship dynamics play a major role in how people perceive their sexual desire. New research reveals that these factors lead more than half of adults to worry about their libido.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Everyday stressors, mental health challenges, and relationship dynamics play a major role in how people perceive their sexual desire. New research reveals that these factors lead more than half of adults to worry about their libido.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/more-than-50-percent-of-adults-worry-about-their-libido-new-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "e1354c3fcb7b",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "5일 전 / 5d ago",
+      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+      "titleKo": "",
+      "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
+      "aiSummary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+      "featured": false
+    },
+    {
+      "id": "2928940b5137",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "5일 전 / 5d ago",
+      "title": "Scientists say creatine may help fight depression",
+      "titleKo": "",
+      "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
+      "aiSummary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
+      "featured": false
+    },
     {
       "id": "a9dc565a9d30",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "While raw processing speed declines after your 20s, a combination of emotional intelligence, accumulated knowledge, and mature personality traits pushes optimal human functioning into late midlife. New research reveals the ideal age for complex decision-making.",
       "keyPoints": [],
       "url": "https://www.psypost.org/when-do-humans-reach-their-psychological-peak-a-new-study-points-to-late-midlife/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9e12894ccd6d",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
-      "featured": false
-    },
-    {
-      "id": "d3e277056b56",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "How leaning too heavily on artificial intelligence fuels student burnout",
-      "titleKo": "",
-      "summary": "College students overwhelmed by academic pressure often use artificial intelligence to lighten their mental load. A new study explores how relying too heavily on these digital tools can erode a student's self-confidence and fuel eventual burnout.",
-      "aiSummary": "College students overwhelmed by academic pressure often use artificial intelligence to lighten their mental load. A new study explores how relying too heavily on these digital tools can erode a student's self-confidence and fuel eventual burnout.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "College students overwhelmed by academic pressure often use artificial intelligence to lighten their mental load. A new study explores how relying too heavily on these digital tools can erode a student's self-confidence and fuel eventual burnout.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-leaning-too-heavily-on-artificial-intelligence-fuels-student-burnout/",
-      "featured": false
-    },
-    {
-      "id": "5c228568110b",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "New psychology research reveals three distinct types of liars in romantic relationships",
-      "titleKo": "",
-      "summary": "Psychologists have identified three specific types of liars in romantic relationships. The findings suggest that while insecure individuals often lie to maintain harmony, those with dark personality traits use deception to control and manipulate their partners.",
-      "aiSummary": "Psychologists have identified three specific types of liars in romantic relationships. The findings suggest that while insecure individuals often lie to maintain harmony, those with dark personality traits use deception to control and manipulate their partners.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Psychologists have identified three specific types of liars in romantic relationships. The findings suggest that while insecure individuals often lie to maintain harmony, those with dark personality traits use deception to control and manipulate their partners.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/new-psychology-research-reveals-three-distinct-types-of-liars-in-romantic-relationships/",
-      "featured": false
-    },
-    {
-      "id": "42a1c5429057",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "10시간 전 / 10h ago",
-      "title": "Social media users tend to face more political hostility in less democratic and more unequal countries",
-      "titleKo": "",
-      "summary": "Social media is often blamed for toxic political debates, but a new global study links digital aggression to offline issues. Researchers found that users in less democratic and economically unequal countries report experiencing significantly more online hostility.",
-      "aiSummary": "Social media is often blamed for toxic political debates, but a new global study links digital aggression to offline issues. Researchers found that users in less democratic and economically unequal countries report experiencing significantly more online hostility.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Social media is often blamed for toxic political debates, but a new global study links digital aggression to offline issues. Researchers found that users in less democratic and economically unequal countries report experiencing significantly more online hostility.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/social-media-users-tend-to-face-more-political-hostility-in-less-democratic-and-more-unequal-countries/",
       "featured": false
     }
   ]
