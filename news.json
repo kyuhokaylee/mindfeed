@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-05T11:38:49.100672+00:00",
+  "updated": "2026-07-05T13:53:01.610276+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a9dc565a9d30",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "When do humans reach their psychological peak? A new study points to late midlife",
+      "titleKo": "",
+      "summary": "While raw processing speed declines after your 20s, a combination of emotional intelligence, accumulated knowledge, and mature personality traits pushes optimal human functioning into late midlife. New research reveals the ideal age for complex decision-making.",
+      "aiSummary": "While raw processing speed declines after your 20s, a combination of emotional intelligence, accumulated knowledge, and mature personality traits pushes optimal human functioning into late midlife. New research reveals the ideal age for complex decision-making.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "While raw processing speed declines after your 20s, a combination of emotional intelligence, accumulated knowledge, and mature personality traits pushes optimal human functioning into late midlife. New research reveals the ideal age for complex decision-making.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/when-do-humans-reach-their-psychological-peak-a-new-study-points-to-late-midlife/",
+      "featured": true
+    },
+    {
+      "id": "9e12894ccd6d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Democrats are disproportionately driving the rise in angry congressional tweets, study finds",
+      "titleKo": "",
+      "summary": "A recent study of over two million tweets suggests members of Congress are increasingly using angry rhetoric on social media. Researchers found that Democratic lawmakers are disproportionately driving this trend of digital outrage to build their political brands.",
+      "aiSummary": "A recent study of over two million tweets suggests members of Congress are increasingly using angry rhetoric on social media. Researchers found that Democratic lawmakers are disproportionately driving this trend of digital outrage to build their political brands.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study of over two million tweets suggests members of Congress are increasingly using angry rhetoric on social media. Researchers found that Democratic lawmakers are disproportionately driving this trend of digital outrage to build their political brands.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/democrats-are-disproportionately-driving-the-rise-in-angry-congressional-tweets-study-finds/",
+      "featured": false
+    },
     {
       "id": "5e607df5a876",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "When romantic relationships become obsessive or overly dependent, the underlying psychology can vary significantly. A new review reveals that manic love, emotional dependence, and love addiction each have distinct psychological profiles and should be treated as separate issues.",
       "keyPoints": [],
       "url": "https://www.psypost.org/love-addiction-emotional-dependence-and-manic-love-have-distinct-psychological-profiles/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "07bd7f46b04d",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Social media is often blamed for toxic political debates, but a new global study links digital aggression to offline issues. Researchers found that users in less democratic and economically unequal countries report experiencing significantly more online hostility.",
       "keyPoints": [],
       "url": "https://www.psypost.org/social-media-users-tend-to-face-more-political-hostility-in-less-democratic-and-more-unequal-countries/",
-      "featured": false
-    },
-    {
-      "id": "e1354c3fcb7b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-      "titleKo": "",
-      "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
-      "aiSummary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-      "featured": false
-    },
-    {
-      "id": "2928940b5137",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Scientists say creatine may help fight depression",
-      "titleKo": "",
-      "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "aiSummary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
       "featured": false
     }
   ]
