@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-05T15:17:24.656776+00:00",
+  "updated": "2026-07-05T17:18:08.407819+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5f0646af7e4b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Texting a stranger works better to fight loneliness than talking to an AI chatbot",
+      "titleKo": "",
+      "summary": "Can an artificial intelligence bot cure feelings of isolation? A new psychology experiment finds that while AI companions can offer emotional support, only daily texting with a real human peer actually reduces loneliness over time.",
+      "aiSummary": "Can an artificial intelligence bot cure feelings of isolation? A new psychology experiment finds that while AI companions can offer emotional support, only daily texting with a real human peer actually reduces loneliness over time.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Can an artificial intelligence bot cure feelings of isolation? A new psychology experiment finds that while AI companions can offer emotional support, only daily texting with a real human peer actually reduces loneliness over time.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/ai-chatbots-offer-empathy-but-still-fail-to-cure-loneliness/",
+      "featured": true
+    },
+    {
+      "id": "45e18fb3a4d4",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "방금 전 / Just now",
+      "title": "What It’s Like to Be…an Air Traffic Controller",
+      "titleKo": "",
+      "summary": "Sequencing departures like a moving puzzle, scrambling when a jet takes off without clearance, and catching what radar misses with a glance out the window with Michael Rejent, an air traffic controller. What does \"tally ho\" mean to a pilot? What phrase makes every controller in the cab look up? [buzzsprout episode='19294755' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner w",
+      "aiSummary": "Sequencing departures like a moving puzzle, scrambling when a jet takes off without clearance, and catching what radar misses with a glance out the window with Michael Rejent, an air traffic controller. What does \"tally ho\" mean to a pilot? What phrase makes every controller in the cab look up? [buzzsprout episode='19294755' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner w",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Sequencing departures like a moving puzzle, scrambling when a jet takes off without clearance, and catching what radar misses with a glance out the window with Michael Rejent, an air traffic controller. What does \"tally ho\" mean to a pilot? What phrase makes every controller in the cab look up? [buzzsprout episode='19294755' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner w",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-air-traffic-controller/",
+      "featured": false
+    },
+    {
+      "id": "19a5e4071396",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "방금 전 / Just now",
+      "title": "What It’s Like to Be…a Flight Attendant",
+      "titleKo": "",
+      "summary": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
+      "aiSummary": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-flight-attendant/",
+      "featured": false
+    },
     {
       "id": "d01006768ac9",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Everyday stressors, mental health challenges, and relationship dynamics play a major role in how people perceive their sexual desire. New research reveals that these factors lead more than half of adults to worry about their libido.",
       "keyPoints": [],
       "url": "https://www.psypost.org/more-than-50-percent-of-adults-worry-about-their-libido-new-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e1354c3fcb7b",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "New research challenges a common psychological test. Scientists found that a person's ability to count their own heartbeats does not reliably indicate their levels of anxiety, depression, or emotional awareness.",
       "keyPoints": [],
       "url": "https://www.psypost.org/popular-psychology-task-fails-to-link-heartbeat-perception-with-anxiety-and-depression/",
-      "featured": false
-    },
-    {
-      "id": "d6c6c9fd7381",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Millions of Americans favor strong leaders over democracy",
-      "titleKo": "",
-      "summary": "Most Americans support democratic ideals, but millions hold views sympathetic to authoritarianism. A new nationally representative survey explores the public's appetite for suspending Congress and deploying the military to enforce federal policies.",
-      "aiSummary": "Most Americans support democratic ideals, but millions hold views sympathetic to authoritarianism. A new nationally representative survey explores the public's appetite for suspending Congress and deploying the military to enforce federal policies.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Most Americans support democratic ideals, but millions hold views sympathetic to authoritarianism. A new nationally representative survey explores the public's appetite for suspending Congress and deploying the military to enforce federal policies.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/survey-finds-substantial-minority-in-the-united-states-endorses-authoritarian-co/",
-      "featured": false
-    },
-    {
-      "id": "77a91cacce3a",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Age at which childhood abuse occurs is associated with distinct brain activity in adulthood",
-      "titleKo": "",
-      "summary": "A new study in Molecular Psychiatry suggests that the timing of childhood abuse is linked to distinct differences in how the adult brain processes emotional information, depending on whether the trauma happened in early childhood or adolescence.",
-      "aiSummary": "A new study in Molecular Psychiatry suggests that the timing of childhood abuse is linked to distinct differences in how the adult brain processes emotional information, depending on whether the trauma happened in early childhood or adolescence.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study in Molecular Psychiatry suggests that the timing of childhood abuse is linked to distinct differences in how the adult brain processes emotional information, depending on whether the trauma happened in early childhood or adolescence.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/age-at-which-childhood-abuse-occurs-is-associated-with-distinct-brain-activity-in-adulthood/",
-      "featured": false
-    },
-    {
-      "id": "6c365c890dcd",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "9일 전 / 9d ago",
-      "title": "They knew the pill was fake but their memory still improved",
-      "titleKo": "",
-      "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "aiSummary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
       "featured": false
     }
   ]
