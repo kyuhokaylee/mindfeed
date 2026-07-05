@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-05T19:26:22.871039+00:00",
+  "updated": "2026-07-05T21:08:33.923595+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "69e30570ce26",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "The link between an athletic physique and upward social mobility for male refugees",
+      "titleKo": "",
+      "summary": "A new study suggests that an athletic physique is associated with a higher likelihood of male Afghan refugees dating women with German citizenship, highlighting how physical traits might function as social currency for newcomers facing legal instability.",
+      "aiSummary": "A new study suggests that an athletic physique is associated with a higher likelihood of male Afghan refugees dating women with German citizenship, highlighting how physical traits might function as social currency for newcomers facing legal instability.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests that an athletic physique is associated with a higher likelihood of male Afghan refugees dating women with German citizenship, highlighting how physical traits might function as social currency for newcomers facing legal instability.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-link-between-an-athletic-physique-and-upward-social-mobility-for-male-refuge/",
+      "featured": true
+    },
     {
       "id": "8a6d9bbf7009",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Higher education is often viewed as a great equalizer. However, new research suggests the association between a college degree and women's economic equality is significantly weaker in countries that favor rigid social hierarchies and traditional gender roles.",
       "keyPoints": [],
       "url": "https://www.psypost.org/higher-education-is-less-associated-with-economic-parity-for-women-in-highly-hierarchical-cultures/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5f0646af7e4b",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "People with frequent migraines lose natural unpredictability in their brain signals over time. A recent brain imaging study reveals that sudden migraine attacks might serve as a chaotic reset switch, temporarily restoring flexibility to rigid neural networks.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-hidden-chaos-of-migraines-how-brain-signals-slow-down-and-suddenly-restart/",
-      "featured": false
-    },
-    {
-      "id": "3c515b5d17f3",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "20일 전 / 20d ago",
-      "title": "Announcing Our Summer Book Club and Podcast",
-      "titleKo": "",
-      "summary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "aiSummary": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Each summer, we read a novel and explore its themes through conversations with leading thinkers at the intersection of science and culture. This summer, we’ll read Flights by Polish author Olga Tokarczuk, the recipient of the 2018 Nobel Prize in literature. Flights is an enigma of a novel—part memoir, part short story collection, part ethnography of travel—that explores the human impulse toward movement; the perpetual tension between exploring somewhere new or staying put. “Clearly I did not inherit whatever gene it is that makes it so when you linger in a place you start to put down roots,” T",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/announcing-our-summer-book-club-and-podcast/",
       "featured": false
     }
   ]
