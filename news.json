@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-06T09:03:38.238338+00:00",
+  "updated": "2026-07-06T13:51:39.581172+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "210d13cace37",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "People with migraines experience restless legs syndrome at twice the normal rate",
+      "titleKo": "",
+      "summary": "About 20 percent of migraine patients also experience restless legs syndrome, a rate double that of the general population. A new meta-analysis highlights the specific clinical markers and shared brain pathways linking these two disabling neurological conditions.",
+      "aiSummary": "About 20 percent of migraine patients also experience restless legs syndrome, a rate double that of the general population. A new meta-analysis highlights the specific clinical markers and shared brain pathways linking these two disabling neurological conditions.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "About 20 percent of migraine patients also experience restless legs syndrome, a rate double that of the general population. A new meta-analysis highlights the specific clinical markers and shared brain pathways linking these two disabling neurological conditions.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/people-with-migraines-experience-restless-legs-syndrome-at-twice-the-normal-rate/",
+      "featured": true
+    },
+    {
+      "id": "5d913d54dbef",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Neurotic individuals suffer worse medical side effects, and psychologists just pinpointed why",
+      "titleKo": "",
+      "summary": "A new psychology study reveals why some people experience more medical side effects. Individuals who naturally lean toward negative emotions tend to anticipate worse treatment outcomes, creating a self-fulfilling prophecy known as the nocebo effect.",
+      "aiSummary": "A new psychology study reveals why some people experience more medical side effects. Individuals who naturally lean toward negative emotions tend to anticipate worse treatment outcomes, creating a self-fulfilling prophecy known as the nocebo effect.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new psychology study reveals why some people experience more medical side effects. Individuals who naturally lean toward negative emotions tend to anticipate worse treatment outcomes, creating a self-fulfilling prophecy known as the nocebo effect.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/neurotic-individuals-suffer-worse-medical-side-effects-and-psychologists-just-pinpointed-why/",
+      "featured": false
+    },
     {
       "id": "94f0543b3e0e",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study in Cell Reports reveals that the boundary between wakefulness and sleep is highly porous. Researchers found that humans can experience bizarre, dream-like states while awake and engage in rational planning while asleep.",
       "keyPoints": [],
       "url": "https://www.psypost.org/your-brain-can-start-dreaming-while-you-are-still-awake-and-scientists-just-mapped-how-it-happens/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7c18e3fb8d77",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A massive analysis of population data in Finland links the decline in national church membership with the country's dropping birth rate. As secularization rises, couples that share a religious affiliation are becoming rarer, further suppressing first-time parenthood.",
       "keyPoints": [],
       "url": "https://www.psypost.org/declining-church-membership-is-driving-down-birth-rates-in-finland/",
-      "featured": false
-    },
-    {
-      "id": "b03f512ed590",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "13일 전 / 13d ago",
-      "title": "How Can We Feel Loved If We Don’t Feel Known?",
-      "titleKo": "",
-      "summary": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
-      "aiSummary": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/",
-      "featured": false
-    },
-    {
-      "id": "1321b837f181",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Voters find AI-generated debate answers more authentic than real political speech",
-      "titleKo": "",
-      "summary": "A recent study suggests that voters easily mistake AI-generated political content for reality. Participants actually rated fake debate responses as more genuine and on-topic than the exact answers provided by the real politicians.",
-      "aiSummary": "A recent study suggests that voters easily mistake AI-generated political content for reality. Participants actually rated fake debate responses as more genuine and on-topic than the exact answers provided by the real politicians.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study suggests that voters easily mistake AI-generated political content for reality. Participants actually rated fake debate responses as more genuine and on-topic than the exact answers provided by the real politicians.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/voters-find-ai-generated-debate-answers-more-authentic-than-real-political-speech/",
       "featured": false
     }
   ]
