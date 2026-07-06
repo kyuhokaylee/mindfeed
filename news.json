@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-06T13:51:39.581172+00:00",
+  "updated": "2026-07-06T16:54:26.753935+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8fa68139de4c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Neuroscientists shed light on the illusion of learning from short videos",
+      "titleKo": "",
+      "summary": "A new study reveals that consuming fragmented, fast-paced media on social platforms hinders the brain’s ability to form long-term memories. While the format grabs sensory attention, it disrupts the neural networks required to absorb facts effectively.",
+      "aiSummary": "A new study reveals that consuming fragmented, fast-paced media on social platforms hinders the brain’s ability to form long-term memories. While the format grabs sensory attention, it disrupts the neural networks required to absorb facts effectively.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that consuming fragmented, fast-paced media on social platforms hinders the brain’s ability to form long-term memories. While the format grabs sensory attention, it disrupts the neural networks required to absorb facts effectively.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-illusion-of-learning-from-short-videos/",
+      "featured": true
+    },
+    {
+      "id": "3b3b5c81e953",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "People hide psychopathy but highlight narcissism when trying to look good",
+      "titleKo": "",
+      "summary": "A new study reveals that when asked to fake a good impression, people hide psychopathic and sadistic traits but actually increase their narcissistic responses. The findings show how different toxic personalities navigate social pressure and deception.",
+      "aiSummary": "A new study reveals that when asked to fake a good impression, people hide psychopathic and sadistic traits but actually increase their narcissistic responses. The findings show how different toxic personalities navigate social pressure and deception.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that when asked to fake a good impression, people hide psychopathic and sadistic traits but actually increase their narcissistic responses. The findings show how different toxic personalities navigate social pressure and deception.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/people-hide-psychopathy-but-highlight-narcissism-when-trying-to-look-good/",
+      "featured": false
+    },
+    {
+      "id": "b03f512ed590",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "15일 전 / 15d ago",
+      "title": "How Can We Feel Loved If We Don’t Feel Known?",
+      "titleKo": "",
+      "summary": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
+      "aiSummary": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/",
+      "featured": false
+    },
     {
       "id": "210d13cace37",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "About 20 percent of migraine patients also experience restless legs syndrome, a rate double that of the general population. A new meta-analysis highlights the specific clinical markers and shared brain pathways linking these two disabling neurological conditions.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-with-migraines-experience-restless-legs-syndrome-at-twice-the-normal-rate/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5d913d54dbef",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A new review of nearly 50 studies suggests classic psychedelics like psilocybin and LSD can cause lasting personality changes. Research links the use of these substances to long-term increases in openness and significant drops in neuroticism.",
       "keyPoints": [],
       "url": "https://www.psypost.org/classic-psychedelics-linked-to-lasting-increases-in-openness-and-drops-in-neuroticism/",
-      "featured": false
-    },
-    {
-      "id": "5d7a71be7370",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists discover why some brains resist Alzheimer's",
-      "titleKo": "",
-      "summary": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
-      "aiSummary": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm",
-      "featured": false
-    },
-    {
-      "id": "90404f2f156d",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Drinking to cope with stress may permanently rewire your brain",
-      "titleKo": "",
-      "summary": "Using alcohol to cope with stress when young may permanently alter the brain, making it harder to adapt to challenges and increasing the risk of returning to drinking later in life. Researchers also found signs of brain damage associated with early dementia, suggesting the effects can linger long after alcohol use has stopped.",
-      "aiSummary": "Using alcohol to cope with stress when young may permanently alter the brain, making it harder to adapt to challenges and increasing the risk of returning to drinking later in life. Researchers also found signs of brain damage associated with early dementia, suggesting the effects can linger long after alcohol use has stopped.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Using alcohol to cope with stress when young may permanently alter the brain, making it harder to adapt to challenges and increasing the risk of returning to drinking later in life. Researchers also found signs of brain damage associated with early dementia, suggesting the effects can linger long after alcohol use has stopped.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030437.htm",
-      "featured": false
-    },
-    {
-      "id": "ef48295a560a",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Declining state church membership tied to dropping birth rates in Finland",
-      "titleKo": "",
-      "summary": "A massive analysis of population data in Finland links the decline in national church membership with the country's dropping birth rate. As secularization rises, couples that share a religious affiliation are becoming rarer, further suppressing first-time parenthood.",
-      "aiSummary": "A massive analysis of population data in Finland links the decline in national church membership with the country's dropping birth rate. As secularization rises, couples that share a religious affiliation are becoming rarer, further suppressing first-time parenthood.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A massive analysis of population data in Finland links the decline in national church membership with the country's dropping birth rate. As secularization rises, couples that share a religious affiliation are becoming rarer, further suppressing first-time parenthood.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/declining-church-membership-is-driving-down-birth-rates-in-finland/",
       "featured": false
     }
   ]
