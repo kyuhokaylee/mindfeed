@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-06T20:57:29.037014+00:00",
+  "updated": "2026-07-06T22:21:01.943659+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e1b489c5b8f7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Cannabidiol shows no significant benefit for treating psychotic disorders, new study finds",
+      "titleKo": "",
+      "summary": "Despite its popularity, a new meta-analysis shows that CBD provides no meaningful benefit for patients with psychosis. Scientists note the treatment is well-tolerated but fails to outperform placebos in managing hallucinations, delusions, or cognitive issues.",
+      "aiSummary": "Despite its popularity, a new meta-analysis shows that CBD provides no meaningful benefit for patients with psychosis. Scientists note the treatment is well-tolerated but fails to outperform placebos in managing hallucinations, delusions, or cognitive issues.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Despite its popularity, a new meta-analysis shows that CBD provides no meaningful benefit for patients with psychosis. Scientists note the treatment is well-tolerated but fails to outperform placebos in managing hallucinations, delusions, or cognitive issues.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/cannabidiol-shows-no-significant-benefit-for-treating-psychotic-disorders-new-study-finds/",
+      "featured": true
+    },
     {
       "id": "da28e52f9e72",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A shifting gut microbiome in aging mice creates localized inflammation that numbs the vagus nerve. Without regular sensory signals from the body, the brain struggles to encode new memories, revealing a surprising peripheral pathway for age-related cognitive decline.",
       "keyPoints": [],
       "url": "https://www.psypost.org/aging-gut-bacteria-numb-the-vagus-nerve-and-drive-memory-loss-in-mice/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "09be513e1ca3",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
-      "featured": false
-    },
-    {
-      "id": "a9dc565a9d30",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "When do humans reach their psychological peak? A new study points to late midlife",
-      "titleKo": "",
-      "summary": "While raw processing speed declines after your 20s, a combination of emotional intelligence, accumulated knowledge, and mature personality traits pushes optimal human functioning into late midlife. New research reveals the ideal age for complex decision-making.",
-      "aiSummary": "While raw processing speed declines after your 20s, a combination of emotional intelligence, accumulated knowledge, and mature personality traits pushes optimal human functioning into late midlife. New research reveals the ideal age for complex decision-making.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "While raw processing speed declines after your 20s, a combination of emotional intelligence, accumulated knowledge, and mature personality traits pushes optimal human functioning into late midlife. New research reveals the ideal age for complex decision-making.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/when-do-humans-reach-their-psychological-peak-a-new-study-points-to-late-midlife/",
       "featured": false
     }
   ]
