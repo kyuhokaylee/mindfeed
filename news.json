@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-06T18:59:44.777413+00:00",
+  "updated": "2026-07-06T20:57:29.037014+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "da28e52f9e72",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Aging gut bacteria numb the vagus nerve and drive memory loss in mice",
+      "titleKo": "",
+      "summary": "A shifting gut microbiome in aging mice creates localized inflammation that numbs the vagus nerve. Without regular sensory signals from the body, the brain struggles to encode new memories, revealing a surprising peripheral pathway for age-related cognitive decline.",
+      "aiSummary": "A shifting gut microbiome in aging mice creates localized inflammation that numbs the vagus nerve. Without regular sensory signals from the body, the brain struggles to encode new memories, revealing a surprising peripheral pathway for age-related cognitive decline.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A shifting gut microbiome in aging mice creates localized inflammation that numbs the vagus nerve. Without regular sensory signals from the body, the brain struggles to encode new memories, revealing a surprising peripheral pathway for age-related cognitive decline.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/aging-gut-bacteria-numb-the-vagus-nerve-and-drive-memory-loss-in-mice/",
+      "featured": true
+    },
     {
       "id": "09be513e1ca3",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "While massive public awareness campaigns reach millions, they rarely inspire real lifestyle changes. A new review reveals that personalized, community-driven educational programs are far more effective at helping people adopt habits that reduce their dementia risk.",
       "keyPoints": [],
       "url": "https://www.psypost.org/millions-of-dementia-cases-could-be-avoided-but-personalized-education-is-the-key-to-actual-change/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5d7a71be7370",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "While raw processing speed declines after your 20s, a combination of emotional intelligence, accumulated knowledge, and mature personality traits pushes optimal human functioning into late midlife. New research reveals the ideal age for complex decision-making.",
       "keyPoints": [],
       "url": "https://www.psypost.org/when-do-humans-reach-their-psychological-peak-a-new-study-points-to-late-midlife/",
-      "featured": false
-    },
-    {
-      "id": "9e12894ccd6d",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Democrats are disproportionately driving the rise in angry congressional tweets, study finds",
-      "titleKo": "",
-      "summary": "A recent study of over two million tweets suggests members of Congress are increasingly using angry rhetoric on social media. Researchers found that Democratic lawmakers are disproportionately driving this trend of digital outrage to build their political brands.",
-      "aiSummary": "A recent study of over two million tweets suggests members of Congress are increasingly using angry rhetoric on social media. Researchers found that Democratic lawmakers are disproportionately driving this trend of digital outrage to build their political brands.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study of over two million tweets suggests members of Congress are increasingly using angry rhetoric on social media. Researchers found that Democratic lawmakers are disproportionately driving this trend of digital outrage to build their political brands.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/democrats-are-disproportionately-driving-the-rise-in-angry-congressional-tweets-study-finds/",
       "featured": false
     }
   ]
