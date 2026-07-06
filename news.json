@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-06T16:54:26.753935+00:00",
+  "updated": "2026-07-06T18:59:44.777413+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "09be513e1ca3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Millions of dementia cases could be avoided, but personalized education is the key to actual change",
+      "titleKo": "",
+      "summary": "While massive public awareness campaigns reach millions, they rarely inspire real lifestyle changes. A new review reveals that personalized, community-driven educational programs are far more effective at helping people adopt habits that reduce their dementia risk.",
+      "aiSummary": "While massive public awareness campaigns reach millions, they rarely inspire real lifestyle changes. A new review reveals that personalized, community-driven educational programs are far more effective at helping people adopt habits that reduce their dementia risk.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "While massive public awareness campaigns reach millions, they rarely inspire real lifestyle changes. A new review reveals that personalized, community-driven educational programs are far more effective at helping people adopt habits that reduce their dementia risk.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/millions-of-dementia-cases-could-be-avoided-but-personalized-education-is-the-key-to-actual-change/",
+      "featured": true
+    },
+    {
+      "id": "5d7a71be7370",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Scientists discover why some brains resist Alzheimer's",
+      "titleKo": "",
+      "summary": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
+      "aiSummary": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm",
+      "featured": false
+    },
     {
       "id": "8fa68139de4c",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study reveals that consuming fragmented, fast-paced media on social platforms hinders the brain’s ability to form long-term memories. While the format grabs sensory attention, it disrupts the neural networks required to absorb facts effectively.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-illusion-of-learning-from-short-videos/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3b3b5c81e953",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A recent study of over two million tweets suggests members of Congress are increasingly using angry rhetoric on social media. Researchers found that Democratic lawmakers are disproportionately driving this trend of digital outrage to build their political brands.",
       "keyPoints": [],
       "url": "https://www.psypost.org/democrats-are-disproportionately-driving-the-rise-in-angry-congressional-tweets-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "5e607df5a876",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Love addiction, emotional dependence, and manic love have distinct psychological profiles",
-      "titleKo": "",
-      "summary": "When romantic relationships become obsessive or overly dependent, the underlying psychology can vary significantly. A new review reveals that manic love, emotional dependence, and love addiction each have distinct psychological profiles and should be treated as separate issues.",
-      "aiSummary": "When romantic relationships become obsessive or overly dependent, the underlying psychology can vary significantly. A new review reveals that manic love, emotional dependence, and love addiction each have distinct psychological profiles and should be treated as separate issues.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "When romantic relationships become obsessive or overly dependent, the underlying psychology can vary significantly. A new review reveals that manic love, emotional dependence, and love addiction each have distinct psychological profiles and should be treated as separate issues.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/love-addiction-emotional-dependence-and-manic-love-have-distinct-psychological-profiles/",
-      "featured": false
-    },
-    {
-      "id": "07bd7f46b04d",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Classic psychedelics linked to lasting increases in openness and drops in neuroticism",
-      "titleKo": "",
-      "summary": "A new review of nearly 50 studies suggests classic psychedelics like psilocybin and LSD can cause lasting personality changes. Research links the use of these substances to long-term increases in openness and significant drops in neuroticism.",
-      "aiSummary": "A new review of nearly 50 studies suggests classic psychedelics like psilocybin and LSD can cause lasting personality changes. Research links the use of these substances to long-term increases in openness and significant drops in neuroticism.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new review of nearly 50 studies suggests classic psychedelics like psilocybin and LSD can cause lasting personality changes. Research links the use of these substances to long-term increases in openness and significant drops in neuroticism.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/classic-psychedelics-linked-to-lasting-increases-in-openness-and-drops-in-neuroticism/",
       "featured": false
     }
   ]
