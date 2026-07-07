@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-06T22:21:01.943659+00:00",
+  "updated": "2026-07-07T00:14:18.596162+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "31996e08172e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "How a single mindful moment improves mental health for days",
+      "titleKo": "",
+      "summary": "By tracking participants multiple times a day via smartphones, researchers have mapped the specific psychological pathways that turn brief moments of mindfulness into lasting improvements in mental health and overall well-being.",
+      "aiSummary": "By tracking participants multiple times a day via smartphones, researchers have mapped the specific psychological pathways that turn brief moments of mindfulness into lasting improvements in mental health and overall well-being.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "By tracking participants multiple times a day via smartphones, researchers have mapped the specific psychological pathways that turn brief moments of mindfulness into lasting improvements in mental health and overall well-being.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-a-single-mindful-moment-improves-mental-health-for-days/",
+      "featured": true
+    },
     {
       "id": "e1b489c5b8f7",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Despite its popularity, a new meta-analysis shows that CBD provides no meaningful benefit for patients with psychosis. Scientists note the treatment is well-tolerated but fails to outperform placebos in managing hallucinations, delusions, or cognitive issues.",
       "keyPoints": [],
       "url": "https://www.psypost.org/cannabidiol-shows-no-significant-benefit-for-treating-psychotic-disorders-new-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "da28e52f9e72",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-      "featured": false
-    },
-    {
-      "id": "2928940b5137",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "5일 전 / 5d ago",
-      "title": "Scientists say creatine may help fight depression",
-      "titleKo": "",
-      "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "aiSummary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
       "featured": false
     }
   ]
