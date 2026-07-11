@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-11T10:19:14.723625+00:00",
+  "updated": "2026-07-11T11:56:48.511069+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9ac4e0306438",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Antidepressants may normalize brain tissue changes caused by chronic depression",
+      "titleKo": "",
+      "summary": "A new study reveals how antidepressant medications physically change the brain. Researchers found that treating chronic depression normalizes abnormal brain tissue microstructure, suggesting the initial abnormalities were actually the brain’s attempt to cope with severe symptoms.",
+      "aiSummary": "A new study reveals how antidepressant medications physically change the brain. Researchers found that treating chronic depression normalizes abnormal brain tissue microstructure, suggesting the initial abnormalities were actually the brain’s attempt to cope with severe symptoms.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals how antidepressant medications physically change the brain. Researchers found that treating chronic depression normalizes abnormal brain tissue microstructure, suggesting the initial abnormalities were actually the brain’s attempt to cope with severe symptoms.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/antidepressants-may-normalize-brain-tissue-changes-caused-by-chronic-depression/",
+      "featured": true
+    },
+    {
+      "id": "5d7a71be7370",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "7일 전 / 7d ago",
+      "title": "Scientists discover why some brains resist Alzheimer's",
+      "titleKo": "",
+      "summary": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
+      "aiSummary": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward entirely new ways to protect memory and slow dementia.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm",
+      "featured": false
+    },
     {
       "id": "9eae32468f0e",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "New research highlights how two distinct styles of meditation reduce symptoms of depression. While focused-attention practices and introspective self-inquiry operate through slightly different mental pathways, both help individuals detach from negative thoughts and perceived threats.",
       "keyPoints": [],
       "url": "https://www.psypost.org/letting-go-of-a-rigid-self-image-might-be-the-secret-to-meditations-mental-health-benefits/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7c18e3fb8d77",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-      "featured": false
-    },
-    {
-      "id": "2928940b5137",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "10일 전 / 10d ago",
-      "title": "Scientists say creatine may help fight depression",
-      "titleKo": "",
-      "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "aiSummary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
-      "featured": false
-    },
-    {
-      "id": "c157cd0c36d2",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "17시간 전 / 17h ago",
-      "title": "New MRI breakthrough reveals the brain and eye like never before",
-      "titleKo": "",
-      "summary": "Scientists have redesigned a key piece of MRI hardware using metamaterials, allowing existing scanners to produce clearer images of difficult-to-see parts of the body in less time. The breakthrough could improve diagnoses, make scans more comfortable, and open the door to new medical imaging and treatment applications.",
-      "aiSummary": "Scientists have redesigned a key piece of MRI hardware using metamaterials, allowing existing scanners to produce clearer images of difficult-to-see parts of the body in less time. The breakthrough could improve diagnoses, make scans more comfortable, and open the door to new medical imaging and treatment applications.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists have redesigned a key piece of MRI hardware using metamaterials, allowing existing scanners to produce clearer images of difficult-to-see parts of the body in less time. The breakthrough could improve diagnoses, make scans more comfortable, and open the door to new medical imaging and treatment applications.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626125712.htm",
       "featured": false
     }
   ]
