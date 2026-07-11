@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-11T19:18:58.165851+00:00",
+  "updated": "2026-07-11T20:57:33.614480+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "3b0b98a6943c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "A Mediterranean diet is linked to better psychological well-being in older adults",
+      "titleKo": "",
+      "summary": "Older adults who follow a Mediterranean diet experience higher levels of positive psychological well-being. A new study suggests this eating pattern even provided an emotional buffer against the stress of the early COVID-19 pandemic.",
+      "aiSummary": "Older adults who follow a Mediterranean diet experience higher levels of positive psychological well-being. A new study suggests this eating pattern even provided an emotional buffer against the stress of the early COVID-19 pandemic.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Older adults who follow a Mediterranean diet experience higher levels of positive psychological well-being. A new study suggests this eating pattern even provided an emotional buffer against the stress of the early COVID-19 pandemic.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-mediterranean-diet-is-linked-to-better-psychological-well-being-in-older-adults/",
+      "featured": true
+    },
+    {
+      "id": "55feb239ddd6",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "16시간 전 / 16h ago",
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "titleKo": "",
+      "summary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
+      "aiSummary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2607.07761",
+      "featured": false
+    },
     {
       "id": "4bfb63bd2fa1",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "As cannabis use grows among older adults, so do concerns about memory loss. However, a new study found that prior or occasional cannabis use is not associated with faster cognitive decline or a higher risk of dementia.",
       "keyPoints": [],
       "url": "https://www.psypost.org/cannabis-use-in-older-adults-not-linked-to-faster-cognitive-decline-or-dementia/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ef9d0e250aad",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, their relationships, and state transitions over time. Built on this graph, we define a Delta Detecti",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.07721",
-      "featured": false
-    },
-    {
-      "id": "22d041bcff3a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "AI-integrated models for assessing agricultural resilience",
-      "titleKo": "",
-      "summary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
-      "aiSummary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.07759",
-      "featured": false
-    },
-    {
-      "id": "db8da75a6ba0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-      "titleKo": "",
-      "summary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena are not adequately captured by familiar descriptions of epistemic bubbles, echo chambers, or misinform",
-      "aiSummary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena are not adequately captured by familiar descriptions of epistemic bubbles, echo chambers, or misinform",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena are not adequately captured by familiar descriptions of epistemic bubbles, echo chambers, or misinform",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.07760",
       "featured": false
     }
   ]
