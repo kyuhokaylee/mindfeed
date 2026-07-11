@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-11T17:58:05.373311+00:00",
+  "updated": "2026-07-11T19:18:58.165851+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4bfb63bd2fa1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Cannabis use in older adults not linked to faster cognitive decline or dementia",
+      "titleKo": "",
+      "summary": "As cannabis use grows among older adults, so do concerns about memory loss. However, a new study found that prior or occasional cannabis use is not associated with faster cognitive decline or a higher risk of dementia.",
+      "aiSummary": "As cannabis use grows among older adults, so do concerns about memory loss. However, a new study found that prior or occasional cannabis use is not associated with faster cognitive decline or a higher risk of dementia.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "As cannabis use grows among older adults, so do concerns about memory loss. However, a new study found that prior or occasional cannabis use is not associated with faster cognitive decline or a higher risk of dementia.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/cannabis-use-in-older-adults-not-linked-to-faster-cognitive-decline-or-dementia/",
+      "featured": true
+    },
     {
       "id": "ef9d0e250aad",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Instagram posts tagged with #SexPositivity often promote objectification, narrow beauty standards, and commercial branding more than sexual empowerment, according to research published in Sex Roles.",
       "keyPoints": [],
       "url": "https://www.psypost.org/study-finds-sexpositivity-posts-on-instagram-often-reinforce-womens-objectification-and-narrow-beauty-ideals/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4cf7e00e2a57",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena are not adequately captured by familiar descriptions of epistemic bubbles, echo chambers, or misinform",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.07760",
-      "featured": false
-    },
-    {
-      "id": "55feb239ddd6",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "2시간 전 / 2h ago",
-      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-      "titleKo": "",
-      "summary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
-      "aiSummary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.07761",
       "featured": false
     }
   ]
