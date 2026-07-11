@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-11T21:58:21.275259+00:00",
+  "updated": "2026-07-11T23:00:47.783800+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d3311fc5765c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Coffee consumption linked to slower cellular aging in people with severe mental illness",
+      "titleKo": "",
+      "summary": "Patients with severe mental health conditions who drink three to four cups of coffee daily may possess cells that appear roughly five years younger. A new study links moderate coffee intake to longer telomeres, the protective caps on human chromosomes.",
+      "aiSummary": "Patients with severe mental health conditions who drink three to four cups of coffee daily may possess cells that appear roughly five years younger. A new study links moderate coffee intake to longer telomeres, the protective caps on human chromosomes.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Patients with severe mental health conditions who drink three to four cups of coffee daily may possess cells that appear roughly five years younger. A new study links moderate coffee intake to longer telomeres, the protective caps on human chromosomes.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/coffee-consumption-linked-to-slower-cellular-aging-in-people-with-severe-mental/",
+      "featured": true
+    },
+    {
+      "id": "5d1c2e6998ea",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "19시간 전 / 19h ago",
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "titleKo": "",
+      "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, their relationships, and state transitions over time. Built on this graph, we define a Delta Detecti",
+      "aiSummary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, their relationships, and state transitions over time. Built on this graph, we define a Delta Detecti",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, their relationships, and state transitions over time. Built on this graph, we define a Delta Detecti",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2607.07721",
+      "featured": false
+    },
     {
       "id": "22d041bcff3a",
       "tag": "ai",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.07759",
-      "featured": true
+      "featured": false
     },
     {
       "id": "db8da75a6ba0",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Sequencing departures like a moving puzzle, scrambling when a jet takes off without clearance, and catching what radar misses with a glance out the window with Michael Rejent, an air traffic controller. What does \"tally ho\" mean to a pilot? What phrase makes every controller in the cab look up? [buzzsprout episode='19294755' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner w",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-an-air-traffic-controller/",
-      "featured": false
-    },
-    {
-      "id": "abaa0117fced",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "14시간 전 / 14h ago",
-      "title": "Neuroimaging study of 30,000 adults links the size of six brain areas to stronger working memory",
-      "titleKo": "",
-      "summary": "As we age, our ability to temporarily hold and process information tends to decline. However, a recent study of over 30,000 adults suggests that having more physical tissue in six specific brain regions predicts better working memory.",
-      "aiSummary": "As we age, our ability to temporarily hold and process information tends to decline. However, a recent study of over 30,000 adults suggests that having more physical tissue in six specific brain regions predicts better working memory.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "As we age, our ability to temporarily hold and process information tends to decline. However, a recent study of over 30,000 adults suggests that having more physical tissue in six specific brain regions predicts better working memory.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/neuroimaging-study-of-30000-adults-links-the-size-of-six-brain-areas-to-stronger-working-memory/",
-      "featured": false
-    },
-    {
-      "id": "19a5e4071396",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "5일 전 / 5d ago",
-      "title": "What It’s Like to Be…a Flight Attendant",
-      "titleKo": "",
-      "summary": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
-      "aiSummary": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-flight-attendant/",
       "featured": false
     }
   ]
