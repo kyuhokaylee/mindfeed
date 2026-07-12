@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12T13:40:04.432906+00:00",
+  "updated": "2026-07-12T15:02:40.762964+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "58b777861886",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Hunger makes all sweetness more rewarding, but artificial sweetener users show unique brain responses",
+      "titleKo": "",
+      "summary": "A new study suggests that hunger amplifies our immediate enjoyment of sweetness, regardless of calories. The research also reveals that regular consumers of artificial sweeteners show heightened brain activity in areas linked to self-control.",
+      "aiSummary": "A new study suggests that hunger amplifies our immediate enjoyment of sweetness, regardless of calories. The research also reveals that regular consumers of artificial sweeteners show heightened brain activity in areas linked to self-control.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests that hunger amplifies our immediate enjoyment of sweetness, regardless of calories. The research also reveals that regular consumers of artificial sweeteners show heightened brain activity in areas linked to self-control.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/hunger-makes-all-sweetness-more-rewarding-but-artificial-sweetener-users-show-unique-brain-responses/",
+      "featured": true
+    },
     {
       "id": "71d8383871de",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "An international survey reveals that spending more time on social media and dating apps is tied to lower body satisfaction. The study highlights how these platforms are linked to a higher drive for muscularity, particularly in men.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-spending-more-time-on-social-media-and-dating-apps-tend-to-be-slightly-less-satisfied-with-their-bodies/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2488a808d9dc",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.07761",
-      "featured": false
-    },
-    {
-      "id": "4bfb63bd2fa1",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Cannabis use in older adults not linked to faster cognitive decline or dementia",
-      "titleKo": "",
-      "summary": "As cannabis use grows among older adults, so do concerns about memory loss. However, a new study found that prior or occasional cannabis use is not associated with faster cognitive decline or a higher risk of dementia.",
-      "aiSummary": "As cannabis use grows among older adults, so do concerns about memory loss. However, a new study found that prior or occasional cannabis use is not associated with faster cognitive decline or a higher risk of dementia.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "As cannabis use grows among older adults, so do concerns about memory loss. However, a new study found that prior or occasional cannabis use is not associated with faster cognitive decline or a higher risk of dementia.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/cannabis-use-in-older-adults-not-linked-to-faster-cognitive-decline-or-dementia/",
       "featured": false
     }
   ]
