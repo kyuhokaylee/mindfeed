@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12T19:13:28.429825+00:00",
+  "updated": "2026-07-12T20:57:50.965214+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4443e25d5230",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "People with psychiatric disorders tend to have a smaller pineal gland",
+      "titleKo": "",
+      "summary": "A new review of brain scans reveals that people with psychiatric disorders, especially schizophrenia, tend to have a physically smaller pineal gland. However, this anatomical difference doesn't appear to directly influence how well they sleep at night.",
+      "aiSummary": "A new review of brain scans reveals that people with psychiatric disorders, especially schizophrenia, tend to have a physically smaller pineal gland. However, this anatomical difference doesn't appear to directly influence how well they sleep at night.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new review of brain scans reveals that people with psychiatric disorders, especially schizophrenia, tend to have a physically smaller pineal gland. However, this anatomical difference doesn't appear to directly influence how well they sleep at night.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/people-with-psychiatric-disorders-tend-to-have-a-smaller-pineal-gland/",
+      "featured": true
+    },
     {
       "id": "e62698c74b5a",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Political beliefs now dictate more than just voting habits. Recent research reveals that our partisan identities actively shape how we interpret smiles, manage our moral boundaries, and even decide how many children to have.",
       "keyPoints": [],
       "url": "https://www.psypost.org/nine-recent-studies-that-reveal-the-hidden-psychology-of-american-politics/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "77aba053a4de",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.07759",
-      "featured": false
-    },
-    {
-      "id": "db8da75a6ba0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-      "titleKo": "",
-      "summary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena are not adequately captured by familiar descriptions of epistemic bubbles, echo chambers, or misinform",
-      "aiSummary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena are not adequately captured by familiar descriptions of epistemic bubbles, echo chambers, or misinform",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena are not adequately captured by familiar descriptions of epistemic bubbles, echo chambers, or misinform",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.07760",
       "featured": false
     }
   ]
