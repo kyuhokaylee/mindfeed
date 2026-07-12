@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12T21:59:58.439131+00:00",
+  "updated": "2026-07-12T23:02:33.019881+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "0948fd830209",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "School smartphone bans save time but don’t improve student mental health, study finds",
+      "titleKo": "",
+      "summary": "Managing smartphone use in schools consumes over three full-time staff salaries a year, according to a new economic analysis. While restrictive policies are slightly cheaper to enforce, they offer no measurable boost to students' mental health.",
+      "aiSummary": "Managing smartphone use in schools consumes over three full-time staff salaries a year, according to a new economic analysis. While restrictive policies are slightly cheaper to enforce, they offer no measurable boost to students' mental health.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Managing smartphone use in schools consumes over three full-time staff salaries a year, according to a new economic analysis. While restrictive policies are slightly cheaper to enforce, they offer no measurable boost to students' mental health.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/school-smartphone-bans-save-time-but-dont-improve-student-mental-health-study-finds/",
+      "featured": true
+    },
     {
       "id": "4443e25d5230",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new review of brain scans reveals that people with psychiatric disorders, especially schizophrenia, tend to have a physically smaller pineal gland. However, this anatomical difference doesn't appear to directly influence how well they sleep at night.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-with-psychiatric-disorders-tend-to-have-a-smaller-pineal-gland/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e62698c74b5a",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, their relationships, and state transitions over time. Built on this graph, we define a Delta Detecti",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.07721",
-      "featured": false
-    },
-    {
-      "id": "22d041bcff3a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "AI-integrated models for assessing agricultural resilience",
-      "titleKo": "",
-      "summary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
-      "aiSummary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.07759",
       "featured": false
     }
   ]
