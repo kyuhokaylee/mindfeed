@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12T17:05:49.441128+00:00",
+  "updated": "2026-07-12T19:13:28.429825+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e62698c74b5a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Nine recent studies that reveal the hidden psychology of American politics",
+      "titleKo": "",
+      "summary": "Political beliefs now dictate more than just voting habits. Recent research reveals that our partisan identities actively shape how we interpret smiles, manage our moral boundaries, and even decide how many children to have.",
+      "aiSummary": "Political beliefs now dictate more than just voting habits. Recent research reveals that our partisan identities actively shape how we interpret smiles, manage our moral boundaries, and even decide how many children to have.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Political beliefs now dictate more than just voting habits. Recent research reveals that our partisan identities actively shape how we interpret smiles, manage our moral boundaries, and even decide how many children to have.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/nine-recent-studies-that-reveal-the-hidden-psychology-of-american-politics/",
+      "featured": true
+    },
     {
       "id": "77aba053a4de",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Attending heated yoga classes provides a proportional reduction in depression severity, meaning that the more sessions a person attends, the better they tend to feel. These community programs could offer an accessible option to help manage depressive symptoms.",
       "keyPoints": [],
       "url": "https://www.psypost.org/more-heated-yoga-means-less-severe-depression-symptoms-new-trial-analysis-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "58b777861886",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena are not adequately captured by familiar descriptions of epistemic bubbles, echo chambers, or misinform",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.07760",
-      "featured": false
-    },
-    {
-      "id": "3b0b98a6943c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "A Mediterranean diet is linked to better psychological well-being in older adults",
-      "titleKo": "",
-      "summary": "Older adults who follow a Mediterranean diet experience higher levels of positive psychological well-being. A new study suggests this eating pattern even provided an emotional buffer against the stress of the early COVID-19 pandemic.",
-      "aiSummary": "Older adults who follow a Mediterranean diet experience higher levels of positive psychological well-being. A new study suggests this eating pattern even provided an emotional buffer against the stress of the early COVID-19 pandemic.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Older adults who follow a Mediterranean diet experience higher levels of positive psychological well-being. A new study suggests this eating pattern even provided an emotional buffer against the stress of the early COVID-19 pandemic.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/a-mediterranean-diet-is-linked-to-better-psychological-well-being-in-older-adults/",
       "featured": false
     }
   ]
