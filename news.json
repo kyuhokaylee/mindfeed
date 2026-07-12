@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12T15:02:40.762964+00:00",
+  "updated": "2026-07-12T17:05:49.441128+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "77aba053a4de",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "More hot yoga means less severe depression symptoms, new trial analysis finds",
+      "titleKo": "",
+      "summary": "Attending heated yoga classes provides a proportional reduction in depression severity, meaning that the more sessions a person attends, the better they tend to feel. These community programs could offer an accessible option to help manage depressive symptoms.",
+      "aiSummary": "Attending heated yoga classes provides a proportional reduction in depression severity, meaning that the more sessions a person attends, the better they tend to feel. These community programs could offer an accessible option to help manage depressive symptoms.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Attending heated yoga classes provides a proportional reduction in depression severity, meaning that the more sessions a person attends, the better they tend to feel. These community programs could offer an accessible option to help manage depressive symptoms.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/more-heated-yoga-means-less-severe-depression-symptoms-new-trial-analysis-finds/",
+      "featured": true
+    },
     {
       "id": "58b777861886",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study suggests that hunger amplifies our immediate enjoyment of sweetness, regardless of calories. The research also reveals that regular consumers of artificial sweeteners show heightened brain activity in areas linked to self-control.",
       "keyPoints": [],
       "url": "https://www.psypost.org/hunger-makes-all-sweetness-more-rewarding-but-artificial-sweetener-users-show-unique-brain-responses/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "71d8383871de",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Older adults who follow a Mediterranean diet experience higher levels of positive psychological well-being. A new study suggests this eating pattern even provided an emotional buffer against the stress of the early COVID-19 pandemic.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-mediterranean-diet-is-linked-to-better-psychological-well-being-in-older-adults/",
-      "featured": false
-    },
-    {
-      "id": "55feb239ddd6",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "16시간 전 / 16h ago",
-      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-      "titleKo": "",
-      "summary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
-      "aiSummary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductiv",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.07761",
       "featured": false
     }
   ]
