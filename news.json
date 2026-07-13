@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12T23:02:33.019881+00:00",
+  "updated": "2026-07-13T03:34:34.075421+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5d6adc3bf303",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Better diets are linked to sharper focus in teens with attention disorders",
+      "titleKo": "",
+      "summary": "A small study holds that most teenagers eat poor diets regardless of their mental health. However, among adolescents with attention disorders, a Mediterranean-style diet and specific vitamins are strongly associated with better cognitive test performance.",
+      "aiSummary": "A small study holds that most teenagers eat poor diets regardless of their mental health. However, among adolescents with attention disorders, a Mediterranean-style diet and specific vitamins are strongly associated with better cognitive test performance.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A small study holds that most teenagers eat poor diets regardless of their mental health. However, among adolescents with attention disorders, a Mediterranean-style diet and specific vitamins are strongly associated with better cognitive test performance.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/better-diets-are-linked-to-sharper-focus-in-teens-with-attention-disorders/",
+      "featured": true
+    },
     {
       "id": "0948fd830209",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Managing smartphone use in schools consumes over three full-time staff salaries a year, according to a new economic analysis. While restrictive policies are slightly cheaper to enforce, they offer no measurable boost to students' mental health.",
       "keyPoints": [],
       "url": "https://www.psypost.org/school-smartphone-bans-save-time-but-dont-improve-student-mental-health-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4443e25d5230",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Patients with severe mental health conditions who drink three to four cups of coffee daily may possess cells that appear roughly five years younger. A new study links moderate coffee intake to longer telomeres, the protective caps on human chromosomes.",
       "keyPoints": [],
       "url": "https://www.psypost.org/coffee-consumption-linked-to-slower-cellular-aging-in-people-with-severe-mental/",
-      "featured": false
-    },
-    {
-      "id": "5d1c2e6998ea",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "19시간 전 / 19h ago",
-      "title": "Context Graphs for Proactive Enterprise Agents",
-      "titleKo": "",
-      "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, their relationships, and state transitions over time. Built on this graph, we define a Delta Detecti",
-      "aiSummary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, their relationships, and state transitions over time. Built on this graph, we define a Delta Detecti",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, their relationships, and state transitions over time. Built on this graph, we define a Delta Detecti",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.07721",
       "featured": false
     }
   ]
