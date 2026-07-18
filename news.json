@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-18T17:59:25.309376+00:00",
+  "updated": "2026-07-18T19:18:22.779461+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "55362e41108a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "A tactile wearable device suggests promising results for extending total sleep time",
+      "titleKo": "",
+      "summary": "A new study published in JMIR mHealth and uHealth suggests that transcutaneous vibratory stimulation can extend total sleep time. The technology provides evidence of a non-invasive option for individuals struggling to get enough sleep.",
+      "aiSummary": "A new study published in JMIR mHealth and uHealth suggests that transcutaneous vibratory stimulation can extend total sleep time. The technology provides evidence of a non-invasive option for individuals struggling to get enough sleep.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study published in JMIR mHealth and uHealth suggests that transcutaneous vibratory stimulation can extend total sleep time. The technology provides evidence of a non-invasive option for individuals struggling to get enough sleep.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-tactile-wearable-device-suggests-promising-results-for-extending-total-sleep-time/",
+      "featured": true
+    },
     {
       "id": "dce460751c8b",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Which comes first: loneliness or a change in personality? A large new study suggests it's a two-way street. Researchers found that while being less extraverted and emotionally stable predicts future loneliness, being lonely also changes those traits over time.",
       "keyPoints": [],
       "url": "https://www.psypost.org/do-our-personalities-make-us-lonely-or-does-loneliness-change-who-we-are/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f1a0270ee796",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "For Sonja, researching happiness means being asked over and over again, “What is the secret to happiness?” Sonja has always dreaded that question. It’s ridiculous, it’s reductive, and it’s restrictive. But mostly she has dreaded it because she has never had a solid, science-based answer that she could offer with any confidence. There is no secret to happiness. But there are huge contributors to happiness, and some of them are more powerful than others. Sonja resists being pinned down to just one. But if she were pressed to give an answer, she now has one. She found it when she met Harry, who s",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/",
-      "featured": false
-    },
-    {
-      "id": "9f86bcc419d8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Explainable Geospatial AI for Satellite Ground Station Siting Using LiDAR-Derived Terrain Intelligence",
-      "titleKo": "",
-      "summary": "arXiv:2607.14127v1 Announce Type: new Abstract: Representative clutter height (RCH) is a key parameter in radio propagation and interference analysis because it captures the dominant height of local obstructions that drive terminal clutter loss. Current practice often relies on fixed clutter heights assigned to land use classes in Recommendation ITU-R P.452-18, but this misses within class variation and can lead to conservative exclusion zones and poor site ranking for low Earth orbit ground station siting and spectrum coordination. We present an interpretable, globally deployable machine lear",
-      "aiSummary": "arXiv:2607.14127v1 Announce Type: new Abstract: Representative clutter height (RCH) is a key parameter in radio propagation and interference analysis because it captures the dominant height of local obstructions that drive terminal clutter loss. Current practice often relies on fixed clutter heights assigned to land use classes in Recommendation ITU-R P.452-18, but this misses within class variation and can lead to conservative exclusion zones and poor site ranking for low Earth orbit ground station siting and spectrum coordination. We present an interpretable, globally deployable machine lear",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.14127v1 Announce Type: new Abstract: Representative clutter height (RCH) is a key parameter in radio propagation and interference analysis because it captures the dominant height of local obstructions that drive terminal clutter loss. Current practice often relies on fixed clutter heights assigned to land use classes in Recommendation ITU-R P.452-18, but this misses within class variation and can lead to conservative exclusion zones and poor site ranking for low Earth orbit ground station siting and spectrum coordination. We present an interpretable, globally deployable machine lear",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.14127",
       "featured": false
     }
   ]
