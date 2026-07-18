@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-18T14:59:42.249172+00:00",
+  "updated": "2026-07-18T16:04:53.094049+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "dce460751c8b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Do our personalities make us lonely, or does loneliness change who we are?",
+      "titleKo": "",
+      "summary": "Which comes first: loneliness or a change in personality? A large new study suggests it's a two-way street. Researchers found that while being less extraverted and emotionally stable predicts future loneliness, being lonely also changes those traits over time.",
+      "aiSummary": "Which comes first: loneliness or a change in personality? A large new study suggests it's a two-way street. Researchers found that while being less extraverted and emotionally stable predicts future loneliness, being lonely also changes those traits over time.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Which comes first: loneliness or a change in personality? A large new study suggests it's a two-way street. Researchers found that while being less extraverted and emotionally stable predicts future loneliness, being lonely also changes those traits over time.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/do-our-personalities-make-us-lonely-or-does-loneliness-change-who-we-are/",
+      "featured": true
+    },
     {
       "id": "f1a0270ee796",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "By analyzing the brain scans of intoxicated humans and rats, scientists have validated a new mathematical tool that successfully tracks the brain’s inhibitory system. This non-invasive measure could help researchers better understand various mental health conditions.",
       "keyPoints": [],
       "url": "https://www.psypost.org/alcohol-alters-a-mathematical-marker-of-brain-inhibition/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "781dac050a55",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2607.14127v1 Announce Type: new Abstract: Representative clutter height (RCH) is a key parameter in radio propagation and interference analysis because it captures the dominant height of local obstructions that drive terminal clutter loss. Current practice often relies on fixed clutter heights assigned to land use classes in Recommendation ITU-R P.452-18, but this misses within class variation and can lead to conservative exclusion zones and poor site ranking for low Earth orbit ground station siting and spectrum coordination. We present an interpretable, globally deployable machine lear",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.14127",
-      "featured": false
-    },
-    {
-      "id": "97690f8353e8",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per-Domain Contamination Control with Conformal Risk Guarantees",
-      "titleKo": "",
-      "summary": "arXiv:2607.14157v1 Announce Type: new Abstract: Retrieval over corpora that mix several domains often returns relevant but wrong-domain evidence that ranking metrics miss and that conformal risk control bounds only marginally, under-covering the worst domains. This work introduces C3R, a drop-in control layer that, from an inferred domain posterior and no query-time label, certifies a per-domain contamination budget where feasible and otherwise abstains rather than silently violating; on the hardest domains it guarantees a reduction, not a tight bound. The core is a two-split scheme built on r",
-      "aiSummary": "arXiv:2607.14157v1 Announce Type: new Abstract: Retrieval over corpora that mix several domains often returns relevant but wrong-domain evidence that ranking metrics miss and that conformal risk control bounds only marginally, under-covering the worst domains. This work introduces C3R, a drop-in control layer that, from an inferred domain posterior and no query-time label, certifies a per-domain contamination budget where feasible and otherwise abstains rather than silently violating; on the hardest domains it guarantees a reduction, not a tight bound. The core is a two-split scheme built on r",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.14157v1 Announce Type: new Abstract: Retrieval over corpora that mix several domains often returns relevant but wrong-domain evidence that ranking metrics miss and that conformal risk control bounds only marginally, under-covering the worst domains. This work introduces C3R, a drop-in control layer that, from an inferred domain posterior and no query-time label, certifies a per-domain contamination budget where feasible and otherwise abstains rather than silently violating; on the hardest domains it guarantees a reduction, not a tight bound. The core is a two-split scheme built on r",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.14157",
       "featured": false
     }
   ]
