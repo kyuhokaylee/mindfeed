@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-18T09:39:03.384868+00:00",
+  "updated": "2026-07-18T11:08:37.236055+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "bd6fe7049753",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "How a parent’s education level predicts cognitive scores in children receiving mental health support",
+      "titleKo": "",
+      "summary": "A new study tracking thousands of youth in an open mental healthcare system reveals that a parent's education level strongly predicts a child's cognitive scores. The research highlights hidden disparities in how families utilize medical support.",
+      "aiSummary": "A new study tracking thousands of youth in an open mental healthcare system reveals that a parent's education level strongly predicts a child's cognitive scores. The research highlights hidden disparities in how families utilize medical support.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study tracking thousands of youth in an open mental healthcare system reveals that a parent's education level strongly predicts a child's cognitive scores. The research highlights hidden disparities in how families utilize medical support.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-a-parent-s-educational-background-predicts-the-intelligence-of-children-seek/",
+      "featured": true
+    },
+    {
+      "id": "9e20f92089fb",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Unpredictable preferences, not flawed learning, drive social misunderstandings in autism",
+      "titleKo": "",
+      "summary": "Social misunderstandings in autism may stem from highly varied personal preferences rather than a lack of empathy. New research shows both autistic and non-autistic people struggle to guess what autistic teenagers like.",
+      "aiSummary": "Social misunderstandings in autism may stem from highly varied personal preferences rather than a lack of empathy. New research shows both autistic and non-autistic people struggle to guess what autistic teenagers like.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Social misunderstandings in autism may stem from highly varied personal preferences rather than a lack of empathy. New research shows both autistic and non-autistic people struggle to guess what autistic teenagers like.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/unpredictable-preferences-not-flawed-learning-drive-social-misunderstandings-in-autism/",
+      "featured": false
+    },
     {
       "id": "ff064305d718",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A recent study published in NeuroImage reveals that while human brains naturally synchronize during cooperative video games, this mental alignment does not guarantee success. High neural synchrony was actually linked to worse strategic performance.",
       "keyPoints": [],
       "url": "https://www.psypost.org/neuroscientists-find-a-teamwork-paradox-highly-synchronized-brains-perform-worse-at-complex-tasks/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "63082e125632",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Going to the cinema, visiting museums, or attending concerts may do more than entertain. Researchers found that older adults who regularly participated in cultural activities tended to have bodies that functioned like those of people about three years younger. They believe stronger social ties, better mental health, and healthier habits could help explain the link, although more research is needed to determine whether cultural activities directly slow aging.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/07/260714225526.htm",
-      "featured": false
-    },
-    {
-      "id": "b76650559bb7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Brain structure variations are linked to different types of traumatic memories",
-      "titleKo": "",
-      "summary": "New research shows that the microscopic structure of specific brain pathways is linked to how people experience trauma-related flashbacks. Variations in white matter integrity may determine whether traumatic memories manifest as spontaneous intrusions or vivid sensory reliving.",
-      "aiSummary": "New research shows that the microscopic structure of specific brain pathways is linked to how people experience trauma-related flashbacks. Variations in white matter integrity may determine whether traumatic memories manifest as spontaneous intrusions or vivid sensory reliving.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "New research shows that the microscopic structure of specific brain pathways is linked to how people experience trauma-related flashbacks. Variations in white matter integrity may determine whether traumatic memories manifest as spontaneous intrusions or vivid sensory reliving.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/brain-structure-variations-are-linked-to-different-types-of-traumatic-memories/",
-      "featured": false
-    },
-    {
-      "id": "3d8b425b2bd1",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "14시간 전 / 14h ago",
-      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "titleKo": "",
-      "summary": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset level, forcing catastrophic over-deletion. We present ob, a record- and token-level data provenance system that propagates author identity through data processing pipelines and resolves revocation requests into precise forget sets via deterministic queries. Evaluation on 219,555 Wikipedia pages demons",
-      "aiSummary": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset level, forcing catastrophic over-deletion. We present ob, a record- and token-level data provenance system that propagates author identity through data processing pipelines and resolves revocation requests into precise forget sets via deterministic queries. Evaluation on 219,555 Wikipedia pages demons",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset level, forcing catastrophic over-deletion. We present ob, a record- and token-level data provenance system that propagates author identity through data processing pipelines and resolves revocation requests into precise forget sets via deterministic queries. Evaluation on 219,555 Wikipedia pages demons",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.13037",
       "featured": false
     }
   ]
