@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-17T22:59:15.824433+00:00",
+  "updated": "2026-07-18T00:01:02.870109+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "73e52fc7527e",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "20시간 전 / 20h ago",
+      "title": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
+      "titleKo": "",
+      "summary": "arXiv:2607.14123v1 Announce Type: new Abstract: Despite the proliferation of Explainable AI (XAI) techniques -- from feature attributions to sparse autoencoders -- explanations rarely influence real-world workflows. In practice, they are often generated and discarded without guiding meaningful action. This gap reflects foundational shortcomings: research has not yet established methodologies for integrating explanations into end-to-end, human-in-the-loop systems. This position paper argues that the machine learning community must pivot from ad-hoc XAI methods toward addressing foundational & s",
+      "aiSummary": "arXiv:2607.14123v1 Announce Type: new Abstract: Despite the proliferation of Explainable AI (XAI) techniques -- from feature attributions to sparse autoencoders -- explanations rarely influence real-world workflows. In practice, they are often generated and discarded without guiding meaningful action. This gap reflects foundational shortcomings: research has not yet established methodologies for integrating explanations into end-to-end, human-in-the-loop systems. This position paper argues that the machine learning community must pivot from ad-hoc XAI methods toward addressing foundational & s",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2607.14123v1 Announce Type: new Abstract: Despite the proliferation of Explainable AI (XAI) techniques -- from feature attributions to sparse autoencoders -- explanations rarely influence real-world workflows. In practice, they are often generated and discarded without guiding meaningful action. This gap reflects foundational shortcomings: research has not yet established methodologies for integrating explanations into end-to-end, human-in-the-loop systems. This position paper argues that the machine learning community must pivot from ad-hoc XAI methods toward addressing foundational & s",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2607.14123",
+      "featured": true
+    },
+    {
+      "id": "fbd491b1fcac",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.LG",
+      "time": "20시간 전 / 20h ago",
+      "title": "CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models",
+      "titleKo": "",
+      "summary": "arXiv:2607.14125v1 Announce Type: new Abstract: Pre-trained vision-language models (VLMs) enable zero-shot image classification by computing the similarity score between an image and textual descriptions, typically formed by inserting a class label (e.g., \"cat\") into a prompt (e.g., \"a photo of a\"). Since the score for a given image-class pair is sensitive to the choice of prompt, existing studies ensemble multiple prompts using a weighting vector to aggregate scores across different prompts. Yet, in current strategies, the weighting vector assigned to each prompt is shared across all classes,",
+      "aiSummary": "arXiv:2607.14125v1 Announce Type: new Abstract: Pre-trained vision-language models (VLMs) enable zero-shot image classification by computing the similarity score between an image and textual descriptions, typically formed by inserting a class label (e.g., \"cat\") into a prompt (e.g., \"a photo of a\"). Since the score for a given image-class pair is sensitive to the choice of prompt, existing studies ensemble multiple prompts using a weighting vector to aggregate scores across different prompts. Yet, in current strategies, the weighting vector assigned to each prompt is shared across all classes,",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2607.14125v1 Announce Type: new Abstract: Pre-trained vision-language models (VLMs) enable zero-shot image classification by computing the similarity score between an image and textual descriptions, typically formed by inserting a class label (e.g., \"cat\") into a prompt (e.g., \"a photo of a\"). Since the score for a given image-class pair is sensitive to the choice of prompt, existing studies ensemble multiple prompts using a weighting vector to aggregate scores across different prompts. Yet, in current strategies, the weighting vector assigned to each prompt is shared across all classes,",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2607.14125",
+      "featured": false
+    },
+    {
+      "id": "7c18e3fb8d77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "12일 전 / 12d ago",
+      "title": "Behavioral Scientist’s Summer Book List 2026",
+      "titleKo": "",
+      "summary": "For your intellectual travels this summer, we’ve curated a baker’s dozen of behavioral science books newly published this year. Explore the mysteries of life and consciousness, glimpse the power of constraints and the games that define our lives, navigate life’s cliffs, and find the places that will make you who you are. — Heather Graci, Editor and Evan Nesterak, Editor-in-Chief Exploring life, death, and consciousness “Life begins, with a spark of sentience catalyzed by chemistry and chance, and then it ends, with death,” writes Maria Popova. “The great mystery is not the fable of what lies b",
+      "aiSummary": "For your intellectual travels this summer, we’ve curated a baker’s dozen of behavioral science books newly published this year. Explore the mysteries of life and consciousness, glimpse the power of constraints and the games that define our lives, navigate life’s cliffs, and find the places that will make you who you are. — Heather Graci, Editor and Evan Nesterak, Editor-in-Chief Exploring life, death, and consciousness “Life begins, with a spark of sentience catalyzed by chemistry and chance, and then it ends, with death,” writes Maria Popova. “The great mystery is not the fable of what lies b",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "For your intellectual travels this summer, we’ve curated a baker’s dozen of behavioral science books newly published this year. Explore the mysteries of life and consciousness, glimpse the power of constraints and the games that define our lives, navigate life’s cliffs, and find the places that will make you who you are. — Heather Graci, Editor and Evan Nesterak, Editor-in-Chief Exploring life, death, and consciousness “Life begins, with a spark of sentience catalyzed by chemistry and chance, and then it ends, with death,” writes Maria Popova. “The great mystery is not the fable of what lies b",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/behavioral-scientists-summer-book-list-2026/",
+      "featured": false
+    },
     {
       "id": "b62b6fb547d0",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Aerobic workouts and mind-body practices like yoga both offer immediate relief from anxiety and bad moods. However, new research shows that getting your heart pumping is necessary to trigger the release of specific mood-elevating biological molecules.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-different-types-of-exercise-impact-mood-and-brain-chemistry/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "45e18fb3a4d4",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2607.13073v1 Announce Type: new Abstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery for self-reference. In this paper we expand the cognitive power of $IFOL_B$ by using the probability computation for the currently unknown sentences, based on Nilsson's probability structure for the $IFOL_B$. We introduce the global symmetry transformation that preserves the current knowledge database and logical deduction",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.13073",
-      "featured": false
-    },
-    {
-      "id": "63082e125632",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "16시간 전 / 16h ago",
-      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
-      "titleKo": "",
-      "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the therapy increased median survival by 50% while shrinking tumors without noticeable damage to other organs.",
-      "aiSummary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the therapy increased median survival by 50% while shrinking tumors without noticeable damage to other organs.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the therapy increased median survival by 50% while shrinking tumors without noticeable damage to other organs.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
-      "featured": false
-    },
-    {
-      "id": "95133f92a123",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "4일 전 / 4d ago",
-      "title": "Where you live could shape your dementia risk, massive study finds",
-      "titleKo": "",
-      "summary": "Researchers analyzing data from more than 214,000 people found that dementia risk factors differ widely across countries, challenging the idea of a one-size-fits-all prevention strategy. At the same time, they uncovered surprisingly consistent patterns that could help shape smarter, more targeted public health efforts.",
-      "aiSummary": "Researchers analyzing data from more than 214,000 people found that dementia risk factors differ widely across countries, challenging the idea of a one-size-fits-all prevention strategy. At the same time, they uncovered surprisingly consistent patterns that could help shape smarter, more targeted public health efforts.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers analyzing data from more than 214,000 people found that dementia risk factors differ widely across countries, challenging the idea of a one-size-fits-all prevention strategy. At the same time, they uncovered surprisingly consistent patterns that could help shape smarter, more targeted public health efforts.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000753.htm",
-      "featured": false
-    },
-    {
-      "id": "431911a04f05",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "New research warns of a looming partisan battle over artificial intelligence",
-      "titleKo": "",
-      "summary": "A recent study suggests that public opinion on artificial intelligence is already deeply divided. These beliefs about job security and economic threats align with existing political lines, creating an easy opportunity for politicians to exploit voter anxiety.",
-      "aiSummary": "A recent study suggests that public opinion on artificial intelligence is already deeply divided. These beliefs about job security and economic threats align with existing political lines, creating an easy opportunity for politicians to exploit voter anxiety.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study suggests that public opinion on artificial intelligence is already deeply divided. These beliefs about job security and economic threats align with existing political lines, creating an easy opportunity for politicians to exploit voter anxiety.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/new-research-warns-of-a-looming-partisan-battle-over-artificial-intelligence/",
       "featured": false
     }
   ]
