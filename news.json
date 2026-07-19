@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-19T11:15:50.292230+00:00",
+  "updated": "2026-07-19T13:37:03.419497+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f79206ed98dd",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Study finds retaliatory incivility is judged less harshly than instigatory incivility",
+      "titleKo": "",
+      "summary": "When someone is rude, how we judge them depends heavily on who started it. A new study finds that people view retaliatory rudeness as more justifiable and virtuous than unprovoked rudeness, though polite responses are still preferred overall.",
+      "aiSummary": "When someone is rude, how we judge them depends heavily on who started it. A new study finds that people view retaliatory rudeness as more justifiable and virtuous than unprovoked rudeness, though polite responses are still preferred overall.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When someone is rude, how we judge them depends heavily on who started it. A new study finds that people view retaliatory rudeness as more justifiable and virtuous than unprovoked rudeness, though polite responses are still preferred overall.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/study-finds-retaliatory-incivility-is-judged-less-harshly-than-instigatory-incivility/",
+      "featured": true
+    },
+    {
+      "id": "97f6fcb95293",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Anti-democratic attitudes are highly contagious, new psychology study finds",
+      "titleKo": "",
+      "summary": "The rise of anti-democratic sentiments might be driven by social contagion. Researchers have discovered that citizens often adapt their personal support for authoritarian rule to align with the political views of those around them.",
+      "aiSummary": "The rise of anti-democratic sentiments might be driven by social contagion. Researchers have discovered that citizens often adapt their personal support for authoritarian rule to align with the political views of those around them.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The rise of anti-democratic sentiments might be driven by social contagion. Researchers have discovered that citizens often adapt their personal support for authoritarian rule to align with the political views of those around them.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/anti-democratic-attitudes-are-highly-contagious-new-psychology-study-finds/",
+      "featured": false
+    },
     {
       "id": "8ffb2153bf87",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study spanning 14 years suggests that optimism could be a powerful tool for healthy aging. Researchers found that older adults with a more positive outlook on life have a 15% lower risk of developing dementia.",
       "keyPoints": [],
       "url": "https://www.psypost.org/higher-optimism-is-associated-with-a-lower-risk-of-dementia/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bd0dd8ce1cdf",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A new study tracking thousands of youth in an open mental healthcare system reveals that a parent's education level strongly predicts a child's cognitive scores. The research highlights hidden disparities in how families utilize medical support.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-a-parent-s-educational-background-predicts-the-intelligence-of-children-seek/",
-      "featured": false
-    },
-    {
-      "id": "9e20f92089fb",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Unpredictable preferences, not flawed learning, drive social misunderstandings in autism",
-      "titleKo": "",
-      "summary": "Social misunderstandings in autism may stem from highly varied personal preferences rather than a lack of empathy. New research shows both autistic and non-autistic people struggle to guess what autistic teenagers like.",
-      "aiSummary": "Social misunderstandings in autism may stem from highly varied personal preferences rather than a lack of empathy. New research shows both autistic and non-autistic people struggle to guess what autistic teenagers like.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Social misunderstandings in autism may stem from highly varied personal preferences rather than a lack of empathy. New research shows both autistic and non-autistic people struggle to guess what autistic teenagers like.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/unpredictable-preferences-not-flawed-learning-drive-social-misunderstandings-in-autism/",
-      "featured": false
-    },
-    {
-      "id": "ff064305d718",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "4시간 전 / 4h ago",
-      "title": "Neuroscientists find a teamwork paradox: highly synchronized brains perform worse at complex tasks",
-      "titleKo": "",
-      "summary": "A recent study published in NeuroImage reveals that while human brains naturally synchronize during cooperative video games, this mental alignment does not guarantee success. High neural synchrony was actually linked to worse strategic performance.",
-      "aiSummary": "A recent study published in NeuroImage reveals that while human brains naturally synchronize during cooperative video games, this mental alignment does not guarantee success. High neural synchrony was actually linked to worse strategic performance.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study published in NeuroImage reveals that while human brains naturally synchronize during cooperative video games, this mental alignment does not guarantee success. High neural synchrony was actually linked to worse strategic performance.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/neuroscientists-find-a-teamwork-paradox-highly-synchronized-brains-perform-worse-at-complex-tasks/",
       "featured": false
     }
   ]
