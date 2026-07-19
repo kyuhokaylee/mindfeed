@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-19T19:13:53.322611+00:00",
+  "updated": "2026-07-19T20:57:54.328906+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "29f86fcbde5d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Brain scans reveal the hidden neurological cost of passive TV watching",
+      "titleKo": "",
+      "summary": "A new study suggests that not all sitting is created equal. While frequent TV watching is linked to reduced brain volume, mentally engaging desk work is linked to preserved brain structure in older adults.",
+      "aiSummary": "A new study suggests that not all sitting is created equal. While frequent TV watching is linked to reduced brain volume, mentally engaging desk work is linked to preserved brain structure in older adults.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests that not all sitting is created equal. While frequent TV watching is linked to reduced brain volume, mentally engaging desk work is linked to preserved brain structure in older adults.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-scans-reveal-the-hidden-neurological-cost-of-passive-tv-watching/",
+      "featured": true
+    },
+    {
+      "id": "781dac050a55",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Popular sugar substitutes linked to faster brain aging",
+      "titleKo": "",
+      "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
+      "aiSummary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
+      "featured": false
+    },
     {
       "id": "923e56bd69d8",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study maps out how adults balance shared intimacy and solo sex. Based on attitudes, desire, and motives, people fall into distinct profiles that challenge common assumptions about relationships and satisfaction.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-adults-balance-shared-intimacy-and-solo-sex-in-relationships/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "78ad6ce5960e",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A new study published in JMIR mHealth and uHealth suggests that transcutaneous vibratory stimulation can extend total sleep time. The technology provides evidence of a non-invasive option for individuals struggling to get enough sleep.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-tactile-wearable-device-suggests-promising-results-for-extending-total-sleep-time/",
-      "featured": false
-    },
-    {
-      "id": "dce460751c8b",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Do our personalities make us lonely, or does loneliness change who we are?",
-      "titleKo": "",
-      "summary": "Which comes first: loneliness or a change in personality? A large new study suggests it's a two-way street. Researchers found that while being less extraverted and emotionally stable predicts future loneliness, being lonely also changes those traits over time.",
-      "aiSummary": "Which comes first: loneliness or a change in personality? A large new study suggests it's a two-way street. Researchers found that while being less extraverted and emotionally stable predicts future loneliness, being lonely also changes those traits over time.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Which comes first: loneliness or a change in personality? A large new study suggests it's a two-way street. Researchers found that while being less extraverted and emotionally stable predicts future loneliness, being lonely also changes those traits over time.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/do-our-personalities-make-us-lonely-or-does-loneliness-change-who-we-are/",
-      "featured": false
-    },
-    {
-      "id": "f1a0270ee796",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Alcohol alters a mathematical marker of brain inhibition",
-      "titleKo": "",
-      "summary": "By analyzing the brain scans of intoxicated humans and rats, scientists have validated a new mathematical tool that successfully tracks the brain’s inhibitory system. This non-invasive measure could help researchers better understand various mental health conditions.",
-      "aiSummary": "By analyzing the brain scans of intoxicated humans and rats, scientists have validated a new mathematical tool that successfully tracks the brain’s inhibitory system. This non-invasive measure could help researchers better understand various mental health conditions.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "By analyzing the brain scans of intoxicated humans and rats, scientists have validated a new mathematical tool that successfully tracks the brain’s inhibitory system. This non-invasive measure could help researchers better understand various mental health conditions.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/alcohol-alters-a-mathematical-marker-of-brain-inhibition/",
       "featured": false
     }
   ]
