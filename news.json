@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-19T17:04:19.543734+00:00",
+  "updated": "2026-07-19T19:13:53.322611+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "923e56bd69d8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "New study identifies the 3 types of masturbation habits in romantic relationships",
+      "titleKo": "",
+      "summary": "A new study maps out how adults balance shared intimacy and solo sex. Based on attitudes, desire, and motives, people fall into distinct profiles that challenge common assumptions about relationships and satisfaction.",
+      "aiSummary": "A new study maps out how adults balance shared intimacy and solo sex. Based on attitudes, desire, and motives, people fall into distinct profiles that challenge common assumptions about relationships and satisfaction.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study maps out how adults balance shared intimacy and solo sex. Based on attitudes, desire, and motives, people fall into distinct profiles that challenge common assumptions about relationships and satisfaction.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-adults-balance-shared-intimacy-and-solo-sex-in-relationships/",
+      "featured": true
+    },
     {
       "id": "78ad6ce5960e",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "We often imagine the brooding genius burdened by intellect, or assume that ignorance is bliss. But what does the data say? Decades of psychological research reveal a highly complex relationship between cognitive ability, emotional skills, and human joy.",
       "keyPoints": [],
       "url": "https://www.psypost.org/is-intelligence-related-to-happiness/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b63d8f7a4a61",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "By analyzing the brain scans of intoxicated humans and rats, scientists have validated a new mathematical tool that successfully tracks the brain’s inhibitory system. This non-invasive measure could help researchers better understand various mental health conditions.",
       "keyPoints": [],
       "url": "https://www.psypost.org/alcohol-alters-a-mathematical-marker-of-brain-inhibition/",
-      "featured": false
-    },
-    {
-      "id": "781dac050a55",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1시간 전 / 1h ago",
-      "title": "Popular sugar substitutes linked to faster brain aging",
-      "titleKo": "",
-      "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
-      "aiSummary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
       "featured": false
     }
   ]
