@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-19T15:01:53.663721+00:00",
+  "updated": "2026-07-19T17:04:19.543734+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "78ad6ce5960e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Is intelligence related to happiness?",
+      "titleKo": "",
+      "summary": "We often imagine the brooding genius burdened by intellect, or assume that ignorance is bliss. But what does the data say? Decades of psychological research reveal a highly complex relationship between cognitive ability, emotional skills, and human joy.",
+      "aiSummary": "We often imagine the brooding genius burdened by intellect, or assume that ignorance is bliss. But what does the data say? Decades of psychological research reveal a highly complex relationship between cognitive ability, emotional skills, and human joy.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "We often imagine the brooding genius burdened by intellect, or assume that ignorance is bliss. But what does the data say? Decades of psychological research reveal a highly complex relationship between cognitive ability, emotional skills, and human joy.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/is-intelligence-related-to-happiness/",
+      "featured": true
+    },
+    {
+      "id": "b63d8f7a4a61",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Your fingers may hold a secret of human brain evolution",
+      "titleKo": "",
+      "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
+      "aiSummary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
+      "featured": false
+    },
     {
       "id": "4b0bf36d7125",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "People who constantly worry about achieving happiness are more likely to use cannabis frequently and struggle to quit, according to new research. The same study explores how underlying bipolar risk relates to daily marijuana interference.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-the-relentless-pursuit-of-happiness-influences-cannabis-habits/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "baaad8c77377",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
-      "featured": false
-    },
-    {
-      "id": "101435080eee",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Why do we seek out long-term relationships? A new study explores our deepest motivations",
-      "titleKo": "",
-      "summary": "A new study explores the psychology behind our desire to pair up. Researchers found that people seek out lasting romantic relationships overwhelmingly for emotional connection and companionship, placing very little importance on financial support or societal pressure.",
-      "aiSummary": "A new study explores the psychology behind our desire to pair up. Researchers found that people seek out lasting romantic relationships overwhelmingly for emotional connection and companionship, placing very little importance on financial support or societal pressure.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study explores the psychology behind our desire to pair up. Researchers found that people seek out lasting romantic relationships overwhelmingly for emotional connection and companionship, placing very little importance on financial support or societal pressure.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/why-do-we-seek-out-long-term-relationships-a-new-study-explores-our-deepest-motivations/",
-      "featured": false
-    },
-    {
-      "id": "cd2c21b785e1",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "A daily head cooling habit might promote relaxation and boost mental well-being",
-      "titleKo": "",
-      "summary": "A new study suggests that wearing a cooling cap for 30 minutes a day can boost relaxing brain waves and lower depressive symptoms in young adults. Researchers say the non-invasive technique offers a simple way to manage stress.",
-      "aiSummary": "A new study suggests that wearing a cooling cap for 30 minutes a day can boost relaxing brain waves and lower depressive symptoms in young adults. Researchers say the non-invasive technique offers a simple way to manage stress.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study suggests that wearing a cooling cap for 30 minutes a day can boost relaxing brain waves and lower depressive symptoms in young adults. Researchers say the non-invasive technique offers a simple way to manage stress.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/a-daily-head-cooling-habit-might-promote-relaxation-and-boost-mental-well-being/",
       "featured": false
     }
   ]
