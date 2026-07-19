@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-18T22:59:36.387462+00:00",
+  "updated": "2026-07-19T00:02:36.716146+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "45e18fb3a4d4",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "13일 전 / 13d ago",
+      "title": "What It’s Like to Be…an Air Traffic Controller",
+      "titleKo": "",
+      "summary": "Sequencing departures like a moving puzzle, scrambling when a jet takes off without clearance, and catching what radar misses with a glance out the window with Michael Rejent, an air traffic controller. What does \"tally ho\" mean to a pilot? What phrase makes every controller in the cab look up? [buzzsprout episode='19294755' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner w",
+      "aiSummary": "Sequencing departures like a moving puzzle, scrambling when a jet takes off without clearance, and catching what radar misses with a glance out the window with Michael Rejent, an air traffic controller. What does \"tally ho\" mean to a pilot? What phrase makes every controller in the cab look up? [buzzsprout episode='19294755' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner w",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Sequencing departures like a moving puzzle, scrambling when a jet takes off without clearance, and catching what radar misses with a glance out the window with Michael Rejent, an air traffic controller. What does \"tally ho\" mean to a pilot? What phrase makes every controller in the cab look up? [buzzsprout episode='19294755' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner w",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-air-traffic-controller/",
+      "featured": true
+    },
+    {
+      "id": "19a5e4071396",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "13일 전 / 13d ago",
+      "title": "What It’s Like to Be…a Flight Attendant",
+      "titleKo": "",
+      "summary": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
+      "aiSummary": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-flight-attendant/",
+      "featured": false
+    },
     {
       "id": "0e626d00e6dd",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Brain imaging reveals that LSD works by quieting local electrical rhythms and severing small-scale synchronization in the cortex. This fragmentation forces the brain to globally integrate sensory data, fundamentally altering human consciousness and perception.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-scans-reveal-how-lsd-desynchronizes-local-neural-activity-to-alter-conscio/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b03f512ed590",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2607.14125v1 Announce Type: new Abstract: Pre-trained vision-language models (VLMs) enable zero-shot image classification by computing the similarity score between an image and textual descriptions, typically formed by inserting a class label (e.g., \"cat\") into a prompt (e.g., \"a photo of a\"). Since the score for a given image-class pair is sensitive to the choice of prompt, existing studies ensemble multiple prompts using a weighting vector to aggregate scores across different prompts. Yet, in current strategies, the weighting vector assigned to each prompt is shared across all classes,",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.14125",
-      "featured": false
-    },
-    {
-      "id": "7c18e3fb8d77",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "Behavioral Scientist’s Summer Book List 2026",
-      "titleKo": "",
-      "summary": "For your intellectual travels this summer, we’ve curated a baker’s dozen of behavioral science books newly published this year. Explore the mysteries of life and consciousness, glimpse the power of constraints and the games that define our lives, navigate life’s cliffs, and find the places that will make you who you are. — Heather Graci, Editor and Evan Nesterak, Editor-in-Chief Exploring life, death, and consciousness “Life begins, with a spark of sentience catalyzed by chemistry and chance, and then it ends, with death,” writes Maria Popova. “The great mystery is not the fable of what lies b",
-      "aiSummary": "For your intellectual travels this summer, we’ve curated a baker’s dozen of behavioral science books newly published this year. Explore the mysteries of life and consciousness, glimpse the power of constraints and the games that define our lives, navigate life’s cliffs, and find the places that will make you who you are. — Heather Graci, Editor and Evan Nesterak, Editor-in-Chief Exploring life, death, and consciousness “Life begins, with a spark of sentience catalyzed by chemistry and chance, and then it ends, with death,” writes Maria Popova. “The great mystery is not the fable of what lies b",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "For your intellectual travels this summer, we’ve curated a baker’s dozen of behavioral science books newly published this year. Explore the mysteries of life and consciousness, glimpse the power of constraints and the games that define our lives, navigate life’s cliffs, and find the places that will make you who you are. — Heather Graci, Editor and Evan Nesterak, Editor-in-Chief Exploring life, death, and consciousness “Life begins, with a spark of sentience catalyzed by chemistry and chance, and then it ends, with death,” writes Maria Popova. “The great mystery is not the fable of what lies b",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/behavioral-scientists-summer-book-list-2026/",
-      "featured": false
-    },
-    {
-      "id": "b62b6fb547d0",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "How different types of exercise impact mood and brain chemistry",
-      "titleKo": "",
-      "summary": "Aerobic workouts and mind-body practices like yoga both offer immediate relief from anxiety and bad moods. However, new research shows that getting your heart pumping is necessary to trigger the release of specific mood-elevating biological molecules.",
-      "aiSummary": "Aerobic workouts and mind-body practices like yoga both offer immediate relief from anxiety and bad moods. However, new research shows that getting your heart pumping is necessary to trigger the release of specific mood-elevating biological molecules.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Aerobic workouts and mind-body practices like yoga both offer immediate relief from anxiety and bad moods. However, new research shows that getting your heart pumping is necessary to trigger the release of specific mood-elevating biological molecules.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-different-types-of-exercise-impact-mood-and-brain-chemistry/",
       "featured": false
     }
   ]
