@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-19T13:37:03.419497+00:00",
+  "updated": "2026-07-19T15:01:53.663721+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4b0bf36d7125",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Bipolar disorder risk linked to cannabis disrupting daily routines",
+      "titleKo": "",
+      "summary": "People who constantly worry about achieving happiness are more likely to use cannabis frequently and struggle to quit, according to new research. The same study explores how underlying bipolar risk relates to daily marijuana interference.",
+      "aiSummary": "People who constantly worry about achieving happiness are more likely to use cannabis frequently and struggle to quit, according to new research. The same study explores how underlying bipolar risk relates to daily marijuana interference.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People who constantly worry about achieving happiness are more likely to use cannabis frequently and struggle to quit, according to new research. The same study explores how underlying bipolar risk relates to daily marijuana interference.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-the-relentless-pursuit-of-happiness-influences-cannabis-habits/",
+      "featured": true
+    },
+    {
+      "id": "baaad8c77377",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Women, LGBTQ+ individuals, and liberals are more likely to be celebrity “stans”",
+      "titleKo": "",
+      "summary": "A new study suggests that highly dedicated celebrity fans, commonly known as stans, are more likely to be female, LGBTQ+, and politically liberal. These individuals use social media to find social connection and promote their favorite public figures.",
+      "aiSummary": "A new study suggests that highly dedicated celebrity fans, commonly known as stans, are more likely to be female, LGBTQ+, and politically liberal. These individuals use social media to find social connection and promote their favorite public figures.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests that highly dedicated celebrity fans, commonly known as stans, are more likely to be female, LGBTQ+, and politically liberal. These individuals use social media to find social connection and promote their favorite public figures.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/women-lgbtq-individuals-and-liberals-are-more-likely-to-be-celebrity-stans/",
+      "featured": false
+    },
+    {
+      "id": "b1321a7a5f91",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "The mysterious hum heard around the world may finally have an explanation",
+      "titleKo": "",
+      "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
+      "aiSummary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+      "featured": false
+    },
     {
       "id": "f79206ed98dd",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "When someone is rude, how we judge them depends heavily on who started it. A new study finds that people view retaliatory rudeness as more justifiable and virtuous than unprovoked rudeness, though polite responses are still preferred overall.",
       "keyPoints": [],
       "url": "https://www.psypost.org/study-finds-retaliatory-incivility-is-judged-less-harshly-than-instigatory-incivility/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "97f6fcb95293",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A new study suggests that wearing a cooling cap for 30 minutes a day can boost relaxing brain waves and lower depressive symptoms in young adults. Researchers say the non-invasive technique offers a simple way to manage stress.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-daily-head-cooling-habit-might-promote-relaxation-and-boost-mental-well-being/",
-      "featured": false
-    },
-    {
-      "id": "b63d8f7a4a61",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Your fingers may hold a secret of human brain evolution",
-      "titleKo": "",
-      "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
-      "aiSummary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
-      "featured": false
-    },
-    {
-      "id": "0009130ce2a5",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "11시간 전 / 11h ago",
-      "title": "Mediterranean diet may activate tiny proteins that protect the heart and brain",
-      "titleKo": "",
-      "summary": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, which have been linked to heart and brain protection. Olive oil, fish, legumes, and fewer refined carbohydrates appeared especially important. The findings could eventually help scientists develop more personalized nutrition plans for healthy aging.",
-      "aiSummary": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, which have been linked to heart and brain protection. Olive oil, fish, legumes, and fewer refined carbohydrates appeared especially important. The findings could eventually help scientists develop more personalized nutrition plans for healthy aging.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, which have been linked to heart and brain protection. Olive oil, fish, legumes, and fewer refined carbohydrates appeared especially important. The findings could eventually help scientists develop more personalized nutrition plans for healthy aging.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
-      "featured": false
-    },
-    {
-      "id": "bd6fe7049753",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "How a parent’s education level predicts cognitive scores in children receiving mental health support",
-      "titleKo": "",
-      "summary": "A new study tracking thousands of youth in an open mental healthcare system reveals that a parent's education level strongly predicts a child's cognitive scores. The research highlights hidden disparities in how families utilize medical support.",
-      "aiSummary": "A new study tracking thousands of youth in an open mental healthcare system reveals that a parent's education level strongly predicts a child's cognitive scores. The research highlights hidden disparities in how families utilize medical support.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study tracking thousands of youth in an open mental healthcare system reveals that a parent's education level strongly predicts a child's cognitive scores. The research highlights hidden disparities in how families utilize medical support.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-a-parent-s-educational-background-predicts-the-intelligence-of-children-seek/",
       "featured": false
     }
   ]
