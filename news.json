@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-25T13:47:34.566334+00:00",
+  "updated": "2026-07-25T15:08:45.046754+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f5ea749332cf",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "How you walk when you are happy or sad is linked to your daily fitness and diet",
+      "titleKo": "",
+      "summary": "A recent study suggests that daily habits like exercise and diet are associated with how our emotions physically manifest in our walking stride.",
+      "aiSummary": "A recent study suggests that daily habits like exercise and diet are associated with how our emotions physically manifest in our walking stride.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study suggests that daily habits like exercise and diet are associated with how our emotions physically manifest in our walking stride.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-you-walk-when-you-are-happy-or-sad-is-linked-to-your-daily-fitness-and-diet/",
+      "featured": true
+    },
+    {
+      "id": "ad0bb660f7eb",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3일 전 / 3d ago",
+      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
+      "titleKo": "",
+      "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
+      "aiSummary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
+      "featured": false
+    },
     {
       "id": "9c7ed32c64c9",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "While lowered mental restraint typically boosts a person's ability to unconsciously learn physical habits, new research shows that individuals with prevalent ADHD traits do not experience this same compensatory cognitive advantage.",
       "keyPoints": [],
       "url": "https://www.psypost.org/adhd-traits-disrupt-the-brain-s-balance-between-self-control-and-automatic-learn/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5e8261ee164e",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2607.20492v1 Announce Type: new Abstract: Language models in production do not write prose. They fill forms: JSON fields, function arguments, extraction templates. We show that the form itself causes hallucination. We ask thirteen models the same question about the same input and change only the answer format. The inputs are built so the question cannot be answered: a viral post showing 12,400 likes but no visible replies, a support ticket whose call was never transcribed. In free text, GPT-5.5 answers honestly. It says there is no reply data, 98% of the time. Given a required JSON field",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.20492",
-      "featured": false
-    },
-    {
-      "id": "89dfa722720d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "The Active Ingredient in Muon's Grokking",
-      "titleKo": "",
-      "summary": "arXiv:2607.20512v1 Announce Type: new Abstract: The Muon optimizer reaches the grokking threshold on modular arithmetic faster than AdamW. Prior work attributes this to \"spectral-norm constraints plus orthogonalized momentum\" but does not isolate which mechanism matters. To better understand Moun's behavior, we run multi-seed and multi-learning-rate sweeps to decompose and stress-test the effect. First, an ablation shows the speedup comes from orthogonalization (the Newton-Schulz iteration): orthogonalize-only matches full Muon, whereas spectral-only is no faster than AdamW and is unreliable, ",
-      "aiSummary": "arXiv:2607.20512v1 Announce Type: new Abstract: The Muon optimizer reaches the grokking threshold on modular arithmetic faster than AdamW. Prior work attributes this to \"spectral-norm constraints plus orthogonalized momentum\" but does not isolate which mechanism matters. To better understand Moun's behavior, we run multi-seed and multi-learning-rate sweeps to decompose and stress-test the effect. First, an ablation shows the speedup comes from orthogonalization (the Newton-Schulz iteration): orthogonalize-only matches full Muon, whereas spectral-only is no faster than AdamW and is unreliable, ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.20512v1 Announce Type: new Abstract: The Muon optimizer reaches the grokking threshold on modular arithmetic faster than AdamW. Prior work attributes this to \"spectral-norm constraints plus orthogonalized momentum\" but does not isolate which mechanism matters. To better understand Moun's behavior, we run multi-seed and multi-learning-rate sweeps to decompose and stress-test the effect. First, an ablation shows the speedup comes from orthogonalization (the Newton-Schulz iteration): orthogonalize-only matches full Muon, whereas spectral-only is no faster than AdamW and is unreliable, ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.20512",
-      "featured": false
-    },
-    {
-      "id": "790d5a8f5c55",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-      "titleKo": "",
-      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
-      "aiSummary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
       "featured": false
     }
   ]
