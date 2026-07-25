@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-25T11:16:17.467369+00:00",
+  "updated": "2026-07-25T13:47:34.566334+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9c7ed32c64c9",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "People with elevated ADHD traits miss out on an automatic learning advantage, study finds",
+      "titleKo": "",
+      "summary": "While lowered mental restraint typically boosts a person's ability to unconsciously learn physical habits, new research shows that individuals with prevalent ADHD traits do not experience this same compensatory cognitive advantage.",
+      "aiSummary": "While lowered mental restraint typically boosts a person's ability to unconsciously learn physical habits, new research shows that individuals with prevalent ADHD traits do not experience this same compensatory cognitive advantage.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "While lowered mental restraint typically boosts a person's ability to unconsciously learn physical habits, new research shows that individuals with prevalent ADHD traits do not experience this same compensatory cognitive advantage.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/adhd-traits-disrupt-the-brain-s-balance-between-self-control-and-automatic-learn/",
+      "featured": true
+    },
+    {
+      "id": "5e8261ee164e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Aphantasia is linked to specific face recognition deficits, but matching skills remain intact",
+      "titleKo": "",
+      "summary": "A new study reveals that individuals with aphantasia experience specific deficits in perceiving and remembering faces. However, their ability to visually match faces remains intact, highlighting the complex nature of facial recognition.",
+      "aiSummary": "A new study reveals that individuals with aphantasia experience specific deficits in perceiving and remembering faces. However, their ability to visually match faces remains intact, highlighting the complex nature of facial recognition.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that individuals with aphantasia experience specific deficits in perceiving and remembering faces. However, their ability to visually match faces remains intact, highlighting the complex nature of facial recognition.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/aphantasia-is-linked-to-specific-face-recognition-deficits-but-matching-skills-remain-intact/",
+      "featured": false
+    },
     {
       "id": "a1a2b8d169bf",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "If you have a genetic risk for depression, the hardest part of a breakup might be the years leading up to it. A new study found these individuals showed increased antidepressant use years before their relationships actually ended.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-with-a-genetic-risk-for-depression-struggle-most-in-the-years-before-a-breakup/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4a1f5ee5b35b",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
-      "featured": false
-    },
-    {
-      "id": "ad0bb660f7eb",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
-      "titleKo": "",
-      "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
-      "aiSummary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
-      "featured": false
-    },
-    {
-      "id": "aea9f55bf07d",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Reclaimed hate speech backfires by desensitizing listeners, study finds",
-      "titleKo": "",
-      "summary": "Minority groups often reclaim offensive slurs as a tool for empowerment. However, newly published research has found that exposure to reclaimed homophobic language causes psychological distress in minority listeners and normalizes prejudice among majority observers.",
-      "aiSummary": "Minority groups often reclaim offensive slurs as a tool for empowerment. However, newly published research has found that exposure to reclaimed homophobic language causes psychological distress in minority listeners and normalizes prejudice among majority observers.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Minority groups often reclaim offensive slurs as a tool for empowerment. However, newly published research has found that exposure to reclaimed homophobic language causes psychological distress in minority listeners and normalizes prejudice among majority observers.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/when-reclaiming-derogatory-language-goes-wrong/",
       "featured": false
     }
   ]
