@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-25T09:03:41.523570+00:00",
+  "updated": "2026-07-25T11:16:17.467369+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a1a2b8d169bf",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "People with a genetic risk for depression struggle most in the years before a breakup",
+      "titleKo": "",
+      "summary": "If you have a genetic risk for depression, the hardest part of a breakup might be the years leading up to it. A new study found these individuals showed increased antidepressant use years before their relationships actually ended.",
+      "aiSummary": "If you have a genetic risk for depression, the hardest part of a breakup might be the years leading up to it. A new study found these individuals showed increased antidepressant use years before their relationships actually ended.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "If you have a genetic risk for depression, the hardest part of a breakup might be the years leading up to it. A new study found these individuals showed increased antidepressant use years before their relationships actually ended.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/people-with-a-genetic-risk-for-depression-struggle-most-in-the-years-before-a-breakup/",
+      "featured": true
+    },
+    {
+      "id": "4a1f5ee5b35b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists just settled a decades-old debate about the brain’s mirror neurons",
+      "titleKo": "",
+      "summary": "A new study reveals that mirror neurons don’t just care about final goals. Instead, these brain cells work together in dynamic networks to continuously track the specific physical details of observed movements in real time.",
+      "aiSummary": "A new study reveals that mirror neurons don’t just care about final goals. Instead, these brain cells work together in dynamic networks to continuously track the specific physical details of observed movements in real time.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that mirror neurons don’t just care about final goals. Instead, these brain cells work together in dynamic networks to continuously track the specific physical details of observed movements in real time.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-just-settled-a-decades-old-debate-about-the-brains-mirror-neurons/",
+      "featured": false
+    },
     {
       "id": "0bb12380ac86",
       "tag": "behav",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4a8e291d43b3",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Minority groups often reclaim offensive slurs as a tool for empowerment. However, newly published research has found that exposure to reclaimed homophobic language causes psychological distress in minority listeners and normalizes prejudice among majority observers.",
       "keyPoints": [],
       "url": "https://www.psypost.org/when-reclaiming-derogatory-language-goes-wrong/",
-      "featured": false
-    },
-    {
-      "id": "7105eb61740b",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Scaling Closed-Loop Feature Channel Configuration with LLMs",
-      "titleKo": "",
-      "summary": "arXiv:2607.20516v1 Announce Type: new Abstract: Promising initial results in closed-loop large-language-model-based channel-configuration search demonstrated that neural-network widths can be optimized directly through executable code generation and accuracy feedback. However, those results were obtained from a relatively sparse set of valid evaluations, leaving open whether the observed optimization behavior transfers to a denser sampling regime and whether additional architectural regularities emerge when more generated networks are evaluated. To test this, the same search setting is scaled ",
-      "aiSummary": "arXiv:2607.20516v1 Announce Type: new Abstract: Promising initial results in closed-loop large-language-model-based channel-configuration search demonstrated that neural-network widths can be optimized directly through executable code generation and accuracy feedback. However, those results were obtained from a relatively sparse set of valid evaluations, leaving open whether the observed optimization behavior transfers to a denser sampling regime and whether additional architectural regularities emerge when more generated networks are evaluated. To test this, the same search setting is scaled ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.20516v1 Announce Type: new Abstract: Promising initial results in closed-loop large-language-model-based channel-configuration search demonstrated that neural-network widths can be optimized directly through executable code generation and accuracy feedback. However, those results were obtained from a relatively sparse set of valid evaluations, leaving open whether the observed optimization behavior transfers to a denser sampling regime and whether additional architectural regularities emerge when more generated networks are evaluated. To test this, the same search setting is scaled ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.20516",
-      "featured": false
-    },
-    {
-      "id": "75ddc3957208",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "17시간 전 / 17h ago",
-      "title": "Spectral theory for population density dynamics of spiking neurons with refractoriness",
-      "titleKo": "",
-      "summary": "arXiv:2607.20699v1 Announce Type: new Abstract: Incorporating an absolute refractory period into the population density approach for spiking neurons remains an open problem, despite evidence that refractoriness can strongly affect nonlinear transfer functions and network stability. We develop a rigorous operator-theoretic framework for neuronal population dynamics with a finite refractory time by augmenting the state space to include refractory history and formulating the problem as a non-self-adjoint boundary eigenvalue problem for the Fokker-Planck operator. This yields a complete spectral c",
-      "aiSummary": "arXiv:2607.20699v1 Announce Type: new Abstract: Incorporating an absolute refractory period into the population density approach for spiking neurons remains an open problem, despite evidence that refractoriness can strongly affect nonlinear transfer functions and network stability. We develop a rigorous operator-theoretic framework for neuronal population dynamics with a finite refractory time by augmenting the state space to include refractory history and formulating the problem as a non-self-adjoint boundary eigenvalue problem for the Fokker-Planck operator. This yields a complete spectral c",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.20699v1 Announce Type: new Abstract: Incorporating an absolute refractory period into the population density approach for spiking neurons remains an open problem, despite evidence that refractoriness can strongly affect nonlinear transfer functions and network stability. We develop a rigorous operator-theoretic framework for neuronal population dynamics with a finite refractory time by augmenting the state space to include refractory history and formulating the problem as a non-self-adjoint boundary eigenvalue problem for the Fokker-Planck operator. This yields a complete spectral c",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.20699",
       "featured": false
     }
   ]
