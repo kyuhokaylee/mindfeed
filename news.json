@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-25T17:06:04.740889+00:00",
+  "updated": "2026-07-25T19:16:31.947013+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d0c352ac7327",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Plant-based compounds in berries and tea may help delay brain aging",
+      "titleKo": "",
+      "summary": "A new scientific review suggests that polyphenols—natural compounds found in berries, tea, and olive oil—may help protect the brain from age-related decline. However, researchers emphasize eating whole foods over relying on high-dose supplements.",
+      "aiSummary": "A new scientific review suggests that polyphenols—natural compounds found in berries, tea, and olive oil—may help protect the brain from age-related decline. However, researchers emphasize eating whole foods over relying on high-dose supplements.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new scientific review suggests that polyphenols—natural compounds found in berries, tea, and olive oil—may help protect the brain from age-related decline. However, researchers emphasize eating whole foods over relying on high-dose supplements.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/plant-based-compounds-in-berries-and-tea-may-help-delay-brain-aging/",
+      "featured": true
+    },
     {
       "id": "baa40ebfbe47",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study reveals that the emotional distress caused by hallucinations and delusions is strongly linked to suicidal thoughts. This connection operates through severe anxiety and feelings of entrapment, highlighting the importance of easing a person's subjective emotional pain.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-the-emotional-distress-of-psychosis-fuels-suicidal-thoughts-through-anxiety/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "cee127c2e10f",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2607.20462v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domains like medicine, where small token-level perturbations can result in significant semantic changes, underexplored. In this work, we present the first rigorous study of how LLM watermarks affect medical performance, benchmarking 5 watermarking schemes across 11 LLMs and 7 VLMs on various tasks spannin",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.20462",
-      "featured": false
-    },
-    {
-      "id": "b06f77da394c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "23시간 전 / 23h ago",
-      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
-      "titleKo": "",
-      "summary": "arXiv:2607.20463v1 Announce Type: new Abstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings with linguistically motivated features and a custom \"baitness\" score. After evaluating various natural language processing techniques -- from classic vectorizers to large language model (LLM) embeddings -- an XGBoost-based model was developed that achieves an F1-score of 91% on the",
-      "aiSummary": "arXiv:2607.20463v1 Announce Type: new Abstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings with linguistically motivated features and a custom \"baitness\" score. After evaluating various natural language processing techniques -- from classic vectorizers to large language model (LLM) embeddings -- an XGBoost-based model was developed that achieves an F1-score of 91% on the",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.20463v1 Announce Type: new Abstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings with linguistically motivated features and a custom \"baitness\" score. After evaluating various natural language processing techniques -- from classic vectorizers to large language model (LLM) embeddings -- an XGBoost-based model was developed that achieves an F1-score of 91% on the",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.20463",
       "featured": false
     }
   ]
