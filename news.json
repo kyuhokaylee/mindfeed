@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26T18:04:50.523689+00:00",
+  "updated": "2026-07-26T20:13:49.046290+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f57a039359d1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Brain “noise” during speech processing is linked to verbal communication skills in autistic youth",
+      "titleKo": "",
+      "summary": "A new study found that background electrical brain activity while listening to speech relates to everyday verbal communication skills in autistic children and teens, suggesting that higher neural noise may affect practical language use.",
+      "aiSummary": "A new study found that background electrical brain activity while listening to speech relates to everyday verbal communication skills in autistic children and teens, suggesting that higher neural noise may affect practical language use.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study found that background electrical brain activity while listening to speech relates to everyday verbal communication skills in autistic children and teens, suggesting that higher neural noise may affect practical language use.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-noise-during-speech-processing-is-linked-to-verbal-communication-skills-in-autistic-youth/",
+      "featured": true
+    },
     {
       "id": "f9d5e101dd7d",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A large analysis of business and law school graduates reveals that attending classes with a racially diverse student body is linked to higher median starting salaries, suggesting that diversity initiatives offer tangible economic benefits for all students.",
       "keyPoints": [],
       "url": "https://www.psypost.org/diversity-in-graduate-school-linked-to-higher-starting-salaries/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9a0aa3dda40d",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces involving the brain, body, lifestyle, and environment.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/07/260723084045.htm",
-      "featured": false
-    },
-    {
-      "id": "f5ea749332cf",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "How you walk when you are happy or sad is linked to your daily fitness and diet",
-      "titleKo": "",
-      "summary": "A recent study suggests that daily habits like exercise and diet are associated with how our emotions physically manifest in our walking stride.",
-      "aiSummary": "A recent study suggests that daily habits like exercise and diet are associated with how our emotions physically manifest in our walking stride.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study suggests that daily habits like exercise and diet are associated with how our emotions physically manifest in our walking stride.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-you-walk-when-you-are-happy-or-sad-is-linked-to-your-daily-fitness-and-diet/",
       "featured": false
     }
   ]
