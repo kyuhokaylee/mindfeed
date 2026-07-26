@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26T16:06:39.199452+00:00",
+  "updated": "2026-07-26T18:04:50.523689+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f9d5e101dd7d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Diversity in graduate school linked to higher starting salaries",
+      "titleKo": "",
+      "summary": "A large analysis of business and law school graduates reveals that attending classes with a racially diverse student body is linked to higher median starting salaries, suggesting that diversity initiatives offer tangible economic benefits for all students.",
+      "aiSummary": "A large analysis of business and law school graduates reveals that attending classes with a racially diverse student body is linked to higher median starting salaries, suggesting that diversity initiatives offer tangible economic benefits for all students.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A large analysis of business and law school graduates reveals that attending classes with a racially diverse student body is linked to higher median starting salaries, suggesting that diversity initiatives offer tangible economic benefits for all students.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/diversity-in-graduate-school-linked-to-higher-starting-salaries/",
+      "featured": true
+    },
     {
       "id": "9a0aa3dda40d",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "New neuroimaging research reveals that the functional brain networks supporting attention operate on a continuous spectrum, looking functionally identical in children whether or not they have a diagnosis of ADHD.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-connectivity-for-attention-operates-on-a-unified-spectrum/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0bb12380ac86",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A recent study suggests that daily habits like exercise and diet are associated with how our emotions physically manifest in our walking stride.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-you-walk-when-you-are-happy-or-sad-is-linked-to-your-daily-fitness-and-diet/",
-      "featured": false
-    },
-    {
-      "id": "ad0bb660f7eb",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
-      "titleKo": "",
-      "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
-      "aiSummary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
       "featured": false
     }
   ]
