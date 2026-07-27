@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26T22:03:30.520243+00:00",
+  "updated": "2026-07-27T00:05:29.212151+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6924794a8eb6",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Scientists reveal what is actually happening to your body when you let out a random sigh",
+      "titleKo": "",
+      "summary": "A recent study reveals that spontaneous sighs do more than express boredom. They act as a physical reset button, restoring natural breathing rhythms and triggering a burst of physiological arousal during monotonous tasks.",
+      "aiSummary": "A recent study reveals that spontaneous sighs do more than express boredom. They act as a physical reset button, restoring natural breathing rhythms and triggering a burst of physiological arousal during monotonous tasks.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study reveals that spontaneous sighs do more than express boredom. They act as a physical reset button, restoring natural breathing rhythms and triggering a burst of physiological arousal during monotonous tasks.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-reveal-what-is-actually-happening-to-your-body-when-you-let-out-a-random-sigh/",
+      "featured": true
+    },
     {
       "id": "f57a039359d1",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study found that background electrical brain activity while listening to speech relates to everyday verbal communication skills in autistic children and teens, suggesting that higher neural noise may affect practical language use.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-noise-during-speech-processing-is-linked-to-verbal-communication-skills-in-autistic-youth/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f9d5e101dd7d",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours. The benefits were temporary, but they suggest that adult brain circuits may remain far more adaptable than previously believed.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
-      "featured": false
-    },
-    {
-      "id": "12f7bb4f3d39",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2시간 전 / 2h ago",
-      "title": "Superagers keep youthful memories but their DNA does not explain why",
-      "titleKo": "",
-      "summary": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces involving the brain, body, lifestyle, and environment.",
-      "aiSummary": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces involving the brain, body, lifestyle, and environment.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces involving the brain, body, lifestyle, and environment.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084045.htm",
       "featured": false
     }
   ]
