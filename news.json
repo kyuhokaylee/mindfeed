@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-01T17:06:28.899173+00:00",
+  "updated": "2026-08-01T19:17:43.174240+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "30c848f47fc0",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Horror soundtracks can make friendly smiles feel eerie and threatening, study finds",
+      "titleKo": "",
+      "summary": "A new study in the Quarterly Journal of Experimental Psychology suggests scary music subtly alters how people interpret facial expressions. By tracking subjective ratings and eye responses, researchers found ominous soundtracks can make even friendly faces feel threatening.",
+      "aiSummary": "A new study in the Quarterly Journal of Experimental Psychology suggests scary music subtly alters how people interpret facial expressions. By tracking subjective ratings and eye responses, researchers found ominous soundtracks can make even friendly faces feel threatening.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study in the Quarterly Journal of Experimental Psychology suggests scary music subtly alters how people interpret facial expressions. By tracking subjective ratings and eye responses, researchers found ominous soundtracks can make even friendly faces feel threatening.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/horror-soundtracks-can-make-friendly-smiles-feel-eerie-and-threatening-study-finds/",
+      "featured": true
+    },
     {
       "id": "99ef15acfd8a",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "New research analyzing convicted offenders in South Korea reveals that specific psychological traits vary across different types of within-family murders. Emotional deficits play a pronounced role in distinguishing those who kill their parents from those who kill their siblings.",
       "keyPoints": [],
       "url": "https://www.psypost.org/emotional-detachment-drives-specific-types-of-within-family-homicide/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7c18e3fb8d77",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "When the gap between rich and poor grows, people become more likely to view themselves as objects to be looked at—and the effect holds equally for men and women, according to new experimental research.",
       "keyPoints": [],
       "url": "https://www.psypost.org/income-inequality-heightens-status-anxiety-and-self-objectification-across-genders/",
-      "featured": false
-    },
-    {
-      "id": "41c26f7a413e",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "DoTime: A Synthetic Benchmark Generator for Interventional and Counterfactual Time Series",
-      "titleKo": "",
-      "summary": "arXiv:2607.27263v1 Announce Type: new Abstract: Most benchmarks for causal inference over time series are observational, small, or domain-specific, leaving interventional and counterfactual estimation under-served exactly where it matters most, such as in healthcare, policy evaluation, and climate science. We introduce \\textbf{DoTime}, an open, scalable, and theoretically grounded generator of multivariate temporal structural causal models (TSCMs) with interventions, released as the \\code{dotime} PyPI package together with four frozen evaluation suites. Beyond existing work, it adds capabiliti",
-      "aiSummary": "arXiv:2607.27263v1 Announce Type: new Abstract: Most benchmarks for causal inference over time series are observational, small, or domain-specific, leaving interventional and counterfactual estimation under-served exactly where it matters most, such as in healthcare, policy evaluation, and climate science. We introduce \\textbf{DoTime}, an open, scalable, and theoretically grounded generator of multivariate temporal structural causal models (TSCMs) with interventions, released as the \\code{dotime} PyPI package together with four frozen evaluation suites. Beyond existing work, it adds capabiliti",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.27263v1 Announce Type: new Abstract: Most benchmarks for causal inference over time series are observational, small, or domain-specific, leaving interventional and counterfactual estimation under-served exactly where it matters most, such as in healthcare, policy evaluation, and climate science. We introduce \\textbf{DoTime}, an open, scalable, and theoretically grounded generator of multivariate temporal structural causal models (TSCMs) with interventions, released as the \\code{dotime} PyPI package together with four frozen evaluation suites. Beyond existing work, it adds capabiliti",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.27263",
       "featured": false
     }
   ]
