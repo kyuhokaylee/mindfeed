@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-01T19:17:43.174240+00:00",
+  "updated": "2026-08-01T21:02:05.961976+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f9cfad1b1a94",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Machine learning and online tests identify autistic adults with 92% accuracy",
+      "titleKo": "",
+      "summary": "Diagnosing autism in adults can be difficult due to long wait times. A new study shows that combining a standard questionnaire with online mental tests and artificial intelligence can predict an autism diagnosis with 92% accuracy.",
+      "aiSummary": "Diagnosing autism in adults can be difficult due to long wait times. A new study shows that combining a standard questionnaire with online mental tests and artificial intelligence can predict an autism diagnosis with 92% accuracy.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Diagnosing autism in adults can be difficult due to long wait times. A new study shows that combining a standard questionnaire with online mental tests and artificial intelligence can predict an autism diagnosis with 92% accuracy.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/machine-learning-and-online-tests-identify-autistic-adults-with-92-accuracy/",
+      "featured": true
+    },
     {
       "id": "30c848f47fc0",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study in the Quarterly Journal of Experimental Psychology suggests scary music subtly alters how people interpret facial expressions. By tracking subjective ratings and eye responses, researchers found ominous soundtracks can make even friendly faces feel threatening.",
       "keyPoints": [],
       "url": "https://www.psypost.org/horror-soundtracks-can-make-friendly-smiles-feel-eerie-and-threatening-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "99ef15acfd8a",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Eating within a shorter daily window may help protect certain thinking skills as people age. In a small six-month trial, older women who limited eating to about 8 to 9 hours a day performed better on planning and problem-solving tests than those who ate over 12 hours. Both groups lost similar amounts of weight, hinting that when people eat could matter in addition to how much they eat.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/07/260727012125.htm",
-      "featured": false
-    },
-    {
-      "id": "359277fe88e1",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Income inequality heightens status anxiety and self-objectification across genders",
-      "titleKo": "",
-      "summary": "When the gap between rich and poor grows, people become more likely to view themselves as objects to be looked at—and the effect holds equally for men and women, according to new experimental research.",
-      "aiSummary": "When the gap between rich and poor grows, people become more likely to view themselves as objects to be looked at—and the effect holds equally for men and women, according to new experimental research.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "When the gap between rich and poor grows, people become more likely to view themselves as objects to be looked at—and the effect holds equally for men and women, according to new experimental research.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/income-inequality-heightens-status-anxiety-and-self-objectification-across-genders/",
       "featured": false
     }
   ]
