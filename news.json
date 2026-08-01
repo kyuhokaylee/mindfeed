@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-01T03:31:16.904139+00:00",
+  "updated": "2026-08-01T06:34:48.097072+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "0bb12380ac86",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "12일 전 / 12d ago",
+      "title": "Journey to Robbers Cave",
+      "titleKo": "",
+      "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
+      "aiSummary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
+      "featured": true
+    },
     {
       "id": "bdc0d0386ca3",
       "tag": "ai",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "arXiv:2607.27260v1 Announce Type: new Abstract: Multimodal continual learning (MMCL) aims to learn emerging knowledge from multimodal data while preserving knowledge. To mitigate forgetting, current MMCL methods usually focus on cross-modal representation alignment or semantic similarity, but they overlook whether the relative contributions of individual modalities and their interactions remain stable across incremental tasks. We term this decision-level shift Modality Contribution Drift (MCD) and quantify it with the MCD score, which combines contribution-strength and relative-reliance change",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.27260",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e896e64d2126",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
-      "featured": false
-    },
-    {
-      "id": "b135d1b5aae1",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Dummy pills reveal the hidden power of human expectation in addiction recovery",
-      "titleKo": "",
-      "summary": "Patients being treated for addiction often experience a sharp drop in their daily cravings simply by taking a placebo. New research explores how human expectation and medical routines can alter the harsh biological realities of dependence.",
-      "aiSummary": "Patients being treated for addiction often experience a sharp drop in their daily cravings simply by taking a placebo. New research explores how human expectation and medical routines can alter the harsh biological realities of dependence.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Patients being treated for addiction often experience a sharp drop in their daily cravings simply by taking a placebo. New research explores how human expectation and medical routines can alter the harsh biological realities of dependence.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/dummy-pills-reveal-the-hidden-power-of-human-expectation-in-addiction-recovery/",
       "featured": false
     }
   ]
