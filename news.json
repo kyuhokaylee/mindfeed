@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-01T22:59:06.528237+00:00",
+  "updated": "2026-08-02T00:05:47.591027+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "83afd1964f45",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Ayahuasca might protect the brain from stress-induced damage, primate study finds",
+      "titleKo": "",
+      "summary": "A new study on marmosets suggests ayahuasca could protect the brain from physical damage caused by chronic stress, pointing to the psychedelic brew's potential as a preventative treatment for depression.",
+      "aiSummary": "A new study on marmosets suggests ayahuasca could protect the brain from physical damage caused by chronic stress, pointing to the psychedelic brew's potential as a preventative treatment for depression.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study on marmosets suggests ayahuasca could protect the brain from physical damage caused by chronic stress, pointing to the psychedelic brew's potential as a preventative treatment for depression.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/ayahuasca-might-protect-the-brain-from-stress-induced-damage-primate-study-finds/",
+      "featured": true
+    },
     {
       "id": "a050fe3cc90d",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent clinical trial found that a single dose of ketamine tends to increase morning cortisol levels in suicidal patients. This surprising hormonal boost persists for 24 hours and may play a role in the drug's rapid antidepressant effects.",
       "keyPoints": [],
       "url": "https://www.psypost.org/ketamines-rapid-relief-of-suicidal-thoughts-may-be-linked-to-an-increase-in-morning-cortisol/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f9cfad1b1a94",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2607.27260v1 Announce Type: new Abstract: Multimodal continual learning (MMCL) aims to learn emerging knowledge from multimodal data while preserving knowledge. To mitigate forgetting, current MMCL methods usually focus on cross-modal representation alignment or semantic similarity, but they overlook whether the relative contributions of individual modalities and their interactions remain stable across incremental tasks. We term this decision-level shift Modality Contribution Drift (MCD) and quantify it with the MCD score, which combines contribution-strength and relative-reliance change",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2607.27260",
-      "featured": false
-    },
-    {
-      "id": "e896e64d2126",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Your gut may help your brain decide what to remember",
-      "titleKo": "",
-      "summary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to remember where food had been located. Over time, diets high in fat and sugar also weakened this memory system.",
-      "aiSummary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to remember where food had been located. Over time, diets high in fat and sugar also weakened this memory system.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to remember where food had been located. Over time, diets high in fat and sugar also weakened this memory system.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
       "featured": false
     }
   ]
