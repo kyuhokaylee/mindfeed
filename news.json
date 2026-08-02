@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-02T10:02:21.367780+00:00",
+  "updated": "2026-08-02T12:07:16.949175+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "94e0b179d39a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Left-handed university students show higher neuroticism compared to their right-handed peers",
+      "titleKo": "",
+      "summary": "A new Austrian study reveals that right-handed students tend to be more extraverted, conscientious, and emotionally stable than left-handers. Researchers also found surprising ways that sex and hand dominance interact to influence depressive symptoms.",
+      "aiSummary": "A new Austrian study reveals that right-handed students tend to be more extraverted, conscientious, and emotionally stable than left-handers. Researchers also found surprising ways that sex and hand dominance interact to influence depressive symptoms.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new Austrian study reveals that right-handed students tend to be more extraverted, conscientious, and emotionally stable than left-handers. Researchers also found surprising ways that sex and hand dominance interact to influence depressive symptoms.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/left-handed-university-students-show-higher-neuroticism-compared-to-their-right-handed-peers/",
+      "featured": true
+    },
+    {
+      "id": "b838171315e4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Remembering a chaotic childhood is linked to psychopathic traits, especially in men",
+      "titleKo": "",
+      "summary": "Childhood chaos may shape adult personality more than persistent hardship. A new study in Personality and Individual Differences links an unpredictable early home life to psychopathic traits like meanness and disinhibition, particularly among men.",
+      "aiSummary": "Childhood chaos may shape adult personality more than persistent hardship. A new study in Personality and Individual Differences links an unpredictable early home life to psychopathic traits like meanness and disinhibition, particularly among men.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Childhood chaos may shape adult personality more than persistent hardship. A new study in Personality and Individual Differences links an unpredictable early home life to psychopathic traits like meanness and disinhibition, particularly among men.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/remembering-a-chaotic-childhood-is-linked-to-psychopathic-traits-especially-in-men/",
+      "featured": false
+    },
     {
       "id": "83afd1964f45",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study on marmosets suggests ayahuasca could protect the brain from physical damage caused by chronic stress, pointing to the psychedelic brew's potential as a preventative treatment for depression.",
       "keyPoints": [],
       "url": "https://www.psypost.org/ayahuasca-might-protect-the-brain-from-stress-induced-damage-primate-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a050fe3cc90d",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Patients being treated for addiction often experience a sharp drop in their daily cravings simply by taking a placebo. New research explores how human expectation and medical routines can alter the harsh biological realities of dependence.",
       "keyPoints": [],
       "url": "https://www.psypost.org/dummy-pills-reveal-the-hidden-power-of-human-expectation-in-addiction-recovery/",
-      "featured": false
-    },
-    {
-      "id": "0bb12380ac86",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "12일 전 / 12d ago",
-      "title": "Journey to Robbers Cave",
-      "titleKo": "",
-      "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "aiSummary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-      "featured": false
-    },
-    {
-      "id": "bdc0d0386ca3",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "23시간 전 / 23h ago",
-      "title": "Regularizing modality contribution drift in multimodal continual learning",
-      "titleKo": "",
-      "summary": "arXiv:2607.27260v1 Announce Type: new Abstract: Multimodal continual learning (MMCL) aims to learn emerging knowledge from multimodal data while preserving knowledge. To mitigate forgetting, current MMCL methods usually focus on cross-modal representation alignment or semantic similarity, but they overlook whether the relative contributions of individual modalities and their interactions remain stable across incremental tasks. We term this decision-level shift Modality Contribution Drift (MCD) and quantify it with the MCD score, which combines contribution-strength and relative-reliance change",
-      "aiSummary": "arXiv:2607.27260v1 Announce Type: new Abstract: Multimodal continual learning (MMCL) aims to learn emerging knowledge from multimodal data while preserving knowledge. To mitigate forgetting, current MMCL methods usually focus on cross-modal representation alignment or semantic similarity, but they overlook whether the relative contributions of individual modalities and their interactions remain stable across incremental tasks. We term this decision-level shift Modality Contribution Drift (MCD) and quantify it with the MCD score, which combines contribution-strength and relative-reliance change",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2607.27260v1 Announce Type: new Abstract: Multimodal continual learning (MMCL) aims to learn emerging knowledge from multimodal data while preserving knowledge. To mitigate forgetting, current MMCL methods usually focus on cross-modal representation alignment or semantic similarity, but they overlook whether the relative contributions of individual modalities and their interactions remain stable across incremental tasks. We term this decision-level shift Modality Contribution Drift (MCD) and quantify it with the MCD score, which combines contribution-strength and relative-reliance change",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2607.27260",
       "featured": false
     }
   ]
