@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-02T16:04:35.308402+00:00",
+  "updated": "2026-08-02T18:03:18.734193+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5931541899e7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "How five psychological traits predict a person’s breaking point",
+      "titleKo": "",
+      "summary": "A novel psychological framework provides a way to measure a person's risk of profound mental exhaustion. By evaluating five core elements of resilience, researchers can accurately predict whether someone is thriving or nearing total existential collapse.",
+      "aiSummary": "A novel psychological framework provides a way to measure a person's risk of profound mental exhaustion. By evaluating five core elements of resilience, researchers can accurately predict whether someone is thriving or nearing total existential collapse.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A novel psychological framework provides a way to measure a person's risk of profound mental exhaustion. By evaluating five core elements of resilience, researchers can accurately predict whether someone is thriving or nearing total existential collapse.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-equation-of-enough-a-new-way-to-measure-mental-sustainability/",
+      "featured": true
+    },
     {
       "id": "7baf0a9ab6ac",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A single dose of psilocybin can alter brain communication for up to a month. New research suggests the psychedelic increases brain flexibility and shifts information flow, offering clues to its lasting effects on mental health.",
       "keyPoints": [],
       "url": "https://www.psypost.org/psilocybin-increases-brain-flexibility-and-shifts-information-flow-weeks-after-use/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e6b2d78bbc9d",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Sequencing departures like a moving puzzle, scrambling when a jet takes off without clearance, and catching what radar misses with a glance out the window with Michael Rejent, an air traffic controller. What does \"tally ho\" mean to a pilot? What phrase makes every controller in the cab look up? [buzzsprout episode='19294755' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner w",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-an-air-traffic-controller/",
-      "featured": false
-    },
-    {
-      "id": "19a5e4071396",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "26일 전 / 26d ago",
-      "title": "What It’s Like to Be…a Flight Attendant",
-      "titleKo": "",
-      "summary": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
-      "aiSummary": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Hugging a mother through an anxiety attack, bidding for the best routes, and absorbing strangers' confessions at 35,000 feet with Linda Beall, a flight attendant. What does it mean when the cabin bells ring three or four times? And what makes a trip a “dog”? [buzzsprout episode='19322844' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution partner with episodes released every other wee",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-flight-attendant/",
       "featured": false
     }
   ]
