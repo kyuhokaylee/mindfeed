@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-02T23:04:45.446508+00:00",
+  "updated": "2026-08-03T03:33:15.361087+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "54231ecb4885",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Experts say blood pressure guidelines are missing half the equation",
+      "titleKo": "",
+      "summary": "A new report suggests that blood pressure may be controlled more effectively by increasing potassium while also cutting sodium. Potassium-rich foods can help balance sodium’s effects, but most people consume far less potassium than recommended.",
+      "aiSummary": "A new report suggests that blood pressure may be controlled more effectively by increasing potassium while also cutting sodium. Potassium-rich foods can help balance sodium’s effects, but most people consume far less potassium than recommended.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new report suggests that blood pressure may be controlled more effectively by increasing potassium while also cutting sodium. Potassium-rich foods can help balance sodium’s effects, but most people consume far less potassium than recommended.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260731034135.htm",
+      "featured": true
+    },
     {
       "id": "2b8fd7dcbc17",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent review in Molecular and Cellular Neuroscience suggests that popular weight-loss and diabetes drugs might help clear brain proteins associated with Alzheimer's disease. While animal studies show promise, human data remains limited.",
       "keyPoints": [],
       "url": "https://www.psypost.org/glp-1-drugs-like-ozempic-might-help-clear-alzheimers-disease-plaques-new-review-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "542b30daa096",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A new study in the Quarterly Journal of Experimental Psychology suggests scary music subtly alters how people interpret facial expressions. By tracking subjective ratings and eye responses, researchers found ominous soundtracks can make even friendly faces feel threatening.",
       "keyPoints": [],
       "url": "https://www.psypost.org/horror-soundtracks-can-make-friendly-smiles-feel-eerie-and-threatening-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "99ef15acfd8a",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "New research uncovers distinct personality traits among family murder subtypes",
-      "titleKo": "",
-      "summary": "New research analyzing convicted offenders in South Korea reveals that specific psychological traits vary across different types of within-family murders. Emotional deficits play a pronounced role in distinguishing those who kill their parents from those who kill their siblings.",
-      "aiSummary": "New research analyzing convicted offenders in South Korea reveals that specific psychological traits vary across different types of within-family murders. Emotional deficits play a pronounced role in distinguishing those who kill their parents from those who kill their siblings.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "New research analyzing convicted offenders in South Korea reveals that specific psychological traits vary across different types of within-family murders. Emotional deficits play a pronounced role in distinguishing those who kill their parents from those who kill their siblings.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/emotional-detachment-drives-specific-types-of-within-family-homicide/",
       "featured": false
     }
   ]
