@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-07T19:04:24.663106+00:00",
+  "updated": "2026-08-07T20:48:11.236813+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "113787d4a109",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "7시간 전 / 7h ago",
+      "title": "Parental conservatism does not improve the transmission of religious beliefs, study shows",
+      "titleKo": "",
+      "summary": "Young adults are more likely to share their parents' religious habits if they view their upbringing as warm but structured. A recent study reveals that regional geographic culture alters how different parenting strategies shape this intergenerational transmission of faith.",
+      "aiSummary": "Young adults are more likely to share their parents' religious habits if they view their upbringing as warm but structured. A recent study reveals that regional geographic culture alters how different parenting strategies shape this intergenerational transmission of faith.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Young adults are more likely to share their parents' religious habits if they view their upbringing as warm but structured. A recent study reveals that regional geographic culture alters how different parenting strategies shape this intergenerational transmission of faith.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/regional-culture-shapes-how-parents-pass-down-religion-to-their-children/",
+      "featured": true
+    },
+    {
+      "id": "1ab378ed4550",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "16시간 전 / 16h ago",
+      "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+      "titleKo": "",
+      "summary": "arXiv:2608.05159v1 Announce Type: new Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial and material resources in building these applications, however, effectively leveraging and orchestrating them remains a formidable challenge. Conventional approaches to enterprise application integration, encompassing middleware architectures such as Enterprise Service Bus (ESB), API gateway infrastructures, and Robotic Pro",
+      "aiSummary": "arXiv:2608.05159v1 Announce Type: new Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial and material resources in building these applications, however, effectively leveraging and orchestrating them remains a formidable challenge. Conventional approaches to enterprise application integration, encompassing middleware architectures such as Enterprise Service Bus (ESB), API gateway infrastructures, and Robotic Pro",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2608.05159v1 Announce Type: new Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial and material resources in building these applications, however, effectively leveraging and orchestrating them remains a formidable challenge. Conventional approaches to enterprise application integration, encompassing middleware architectures such as Enterprise Service Bus (ESB), API gateway infrastructures, and Robotic Pro",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2608.05159",
+      "featured": false
+    },
     {
       "id": "17862e50be32",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A recent study suggests that basil extract might help ease anxiety and depression. When taken with standard antidepressants, patients using a nightly basil syrup reported greater symptom relief than those taking a placebo.",
       "keyPoints": [],
       "url": "https://www.psypost.org/common-herb-may-help-ease-anxiety-symptoms-in-patients-with-depression/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "45e18fb3a4d4",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2608.05635v1 Announce Type: new Abstract: Transcutaneous spinal cord stimulation (tSCS) modulates spinal sensorimotor circuits primarily through activation of afferent networks. While prior work has emphasized locomotor performance and spinal excitability, how tSCS affects conscious proprioceptive perception and the extent to which such effects parallel changes in locomotor control remain unclear. We investigated the acute and training-related effects of tSCS on ankle proprioception and gait in unimpaired adults (n = 14), with an independent control group (n = 14) completing identical pr",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.05635",
-      "featured": false
-    },
-    {
-      "id": "a4ae6e66b098",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "7시간 전 / 7h ago",
-      "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
-      "titleKo": "",
-      "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes. Researchers also observed signs of improved stress regulation and changes in brain circuits tied to emotion.",
-      "aiSummary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes. Researchers also observed signs of improved stress regulation and changes in brain circuits tied to emotion.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes. Researchers also observed signs of improved stress regulation and changes in brain circuits tied to emotion.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
-      "featured": false
-    },
-    {
-      "id": "358506ddfa3a",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "13시간 전 / 13h ago",
-      "title": "Scientists discover a hidden brain shift that begins around age 50",
-      "titleKo": "",
-      "summary": "Beginning around age 50, the brain’s memory center appears to lose many of its longtime immune cells and replace them with more inflammatory ones. This surprising shift may help explain how normal aging sets the stage for Alzheimer’s disease and dementia.",
-      "aiSummary": "Beginning around age 50, the brain’s memory center appears to lose many of its longtime immune cells and replace them with more inflammatory ones. This surprising shift may help explain how normal aging sets the stage for Alzheimer’s disease and dementia.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Beginning around age 50, the brain’s memory center appears to lose many of its longtime immune cells and replace them with more inflammatory ones. This surprising shift may help explain how normal aging sets the stage for Alzheimer’s disease and dementia.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050700.htm",
       "featured": false
     }
   ]
