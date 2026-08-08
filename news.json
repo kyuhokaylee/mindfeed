@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08T19:34:15.400389+00:00",
+  "updated": "2026-08-08T20:36:18.712632+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "15552f78d4f2",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Green tea compound shows promise in protecting the brain from obesity-related damage",
+      "titleKo": "",
+      "summary": "A compound found in green tea might protect the brain from memory loss and structural damage caused by obesity. New research shows the compound reduces inflammation and triggers a cellular recycling process that preserves brain volume.",
+      "aiSummary": "A compound found in green tea might protect the brain from memory loss and structural damage caused by obesity. New research shows the compound reduces inflammation and triggers a cellular recycling process that preserves brain volume.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A compound found in green tea might protect the brain from memory loss and structural damage caused by obesity. New research shows the compound reduces inflammation and triggers a cellular recycling process that preserves brain volume.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/green-tea-compound-shows-promise-in-protecting-the-brain-from-obesity-related-da/",
+      "featured": true
+    },
     {
       "id": "14f581bf8c08",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Researchers have developed a synthetic molecule called SK-129 that blocks toxic protein clumps linked to Parkinson’s disease. In mice, the lab-designed molecule reduced disease symptoms by targeting flexible, previously \"undruggable\" proteins in the brain.",
       "keyPoints": [],
       "url": "https://www.psypost.org/foldable-synthetic-molecules-could-infiltrate-and-bust-apart-the-toxic-protein-clumps-causing-parkinsons/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "84cf5a168b56",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
-      "featured": false
-    },
-    {
-      "id": "c7d34f1b46e2",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Lower myelin levels in gray matter suggest a biological tie between early trauma and depression",
-      "titleKo": "",
-      "summary": "A new neuroimaging study suggests that adults with depression who experienced childhood trauma tend to have lower levels of myelin in specific brain regions. This indicates a potential biological link between early adversity and depressive symptoms.",
-      "aiSummary": "A new neuroimaging study suggests that adults with depression who experienced childhood trauma tend to have lower levels of myelin in specific brain regions. This indicates a potential biological link between early adversity and depressive symptoms.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new neuroimaging study suggests that adults with depression who experienced childhood trauma tend to have lower levels of myelin in specific brain regions. This indicates a potential biological link between early adversity and depressive symptoms.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/lower-myelin-levels-in-gray-matter-suggest-a-biological-tie-between-early-trauma-and-depression/",
       "featured": false
     }
   ]
