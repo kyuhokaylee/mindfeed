@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08T13:52:22.917678+00:00",
+  "updated": "2026-08-08T14:37:04.121234+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4af1a624adc7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "New study suggests anxiety symptoms drive the physical stress markers linked to depression",
+      "titleKo": "",
+      "summary": "Physical feelings of anxiety tend to predict chronic stress markers better than depression symptoms, suggesting that past research linking depression to body strain may have picked up on hidden anxiety instead.",
+      "aiSummary": "Physical feelings of anxiety tend to predict chronic stress markers better than depression symptoms, suggesting that past research linking depression to body strain may have picked up on hidden anxiety instead.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Physical feelings of anxiety tend to predict chronic stress markers better than depression symptoms, suggesting that past research linking depression to body strain may have picked up on hidden anxiety instead.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-study-suggests-anxiety-symptoms-drive-the-physical-stress-markers-linked-to-depression/",
+      "featured": true
+    },
     {
       "id": "6e4c14fc269e",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A systematic review of 49 imaging studies highlights how COVID-19 affects the human brain. Researchers found widespread structural and functional changes in areas responsible for memory, emotion, and attention, providing insight into enduring neurological symptoms like brain fog.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-scans-reveal-widespread-structural-and-functional-changes-in-patients-foll/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "13e084c8864c",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.05203v1 Announce Type: new Abstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by the misalignment of model explanations with clinicians' reasoning. Motivated by a clinician user study calling for clinical guideline-aligned cut-offs, we ask whether continuous predictors can be replaced by clinically informed categorical encodings without sacrificing performance. On a multi-centre European registry stratified into three treatment cohorts, we compare standard and fully categorise",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.05203",
-      "featured": false
-    },
-    {
-      "id": "f64c10924e03",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "22시간 전 / 22h ago",
-      "title": "MS-MLB: An Open Machine Learning Benchmark for Blood-Based MS Classification",
-      "titleKo": "",
-      "summary": "arXiv:2608.05196v1 Announce Type: new Abstract: Multiple sclerosis (MS) is diagnosed through clinical assessment, magnetic resonance imaging, laboratory evidence when appropriate, and exclusion of better explanations. Blood RNA expression data may contain disease associated immune signal, but a blood RNA classifier cannot be treated as a replacement for clinical diagnosis. This paper presents MS-MLB (Multiple Sclerosis Machine Learning Benchmark), a reproducible open benchmark for machine learning based MS research classification from whole blood RNA expression data. MS-MLB uses the public GSE",
-      "aiSummary": "arXiv:2608.05196v1 Announce Type: new Abstract: Multiple sclerosis (MS) is diagnosed through clinical assessment, magnetic resonance imaging, laboratory evidence when appropriate, and exclusion of better explanations. Blood RNA expression data may contain disease associated immune signal, but a blood RNA classifier cannot be treated as a replacement for clinical diagnosis. This paper presents MS-MLB (Multiple Sclerosis Machine Learning Benchmark), a reproducible open benchmark for machine learning based MS research classification from whole blood RNA expression data. MS-MLB uses the public GSE",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.05196v1 Announce Type: new Abstract: Multiple sclerosis (MS) is diagnosed through clinical assessment, magnetic resonance imaging, laboratory evidence when appropriate, and exclusion of better explanations. Blood RNA expression data may contain disease associated immune signal, but a blood RNA classifier cannot be treated as a replacement for clinical diagnosis. This paper presents MS-MLB (Multiple Sclerosis Machine Learning Benchmark), a reproducible open benchmark for machine learning based MS research classification from whole blood RNA expression data. MS-MLB uses the public GSE",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.05196",
       "featured": false
     }
   ]
