@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08T12:59:49.121914+00:00",
+  "updated": "2026-08-08T13:52:22.917678+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6e4c14fc269e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Brain scans reveal widespread structural and functional changes in patients following COVID-19 infection",
+      "titleKo": "",
+      "summary": "A systematic review of 49 imaging studies highlights how COVID-19 affects the human brain. Researchers found widespread structural and functional changes in areas responsible for memory, emotion, and attention, providing insight into enduring neurological symptoms like brain fog.",
+      "aiSummary": "A systematic review of 49 imaging studies highlights how COVID-19 affects the human brain. Researchers found widespread structural and functional changes in areas responsible for memory, emotion, and attention, providing insight into enduring neurological symptoms like brain fog.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A systematic review of 49 imaging studies highlights how COVID-19 affects the human brain. Researchers found widespread structural and functional changes in areas responsible for memory, emotion, and attention, providing insight into enduring neurological symptoms like brain fog.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-scans-reveal-widespread-structural-and-functional-changes-in-patients-foll/",
+      "featured": true
+    },
     {
       "id": "13e084c8864c",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent study in the Schizophrenia Bulletin suggests that a ketogenic diet provides metabolic and psychiatric benefits for individuals diagnosed with schizophrenia or bipolar disorder, improving blood sugar regulation and reducing symptoms over time.",
       "keyPoints": [],
       "url": "https://www.psypost.org/ketogenic-diet-improves-metabolic-health-and-may-reduce-symptoms-in-schizophrenia-and-bipolar-disorder/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "07fb7c798c54",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.05196v1 Announce Type: new Abstract: Multiple sclerosis (MS) is diagnosed through clinical assessment, magnetic resonance imaging, laboratory evidence when appropriate, and exclusion of better explanations. Blood RNA expression data may contain disease associated immune signal, but a blood RNA classifier cannot be treated as a replacement for clinical diagnosis. This paper presents MS-MLB (Multiple Sclerosis Machine Learning Benchmark), a reproducible open benchmark for machine learning based MS research classification from whole blood RNA expression data. MS-MLB uses the public GSE",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.05196",
-      "featured": false
-    },
-    {
-      "id": "1d5ed2621b1e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "13시간 전 / 13h ago",
-      "title": "New autism therapy shows surprising benefits even in adult mice",
-      "titleKo": "",
-      "summary": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids and showed lasting effects in adult mice, suggesting the brain may remain more treatable later in life than previously thought.",
-      "aiSummary": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids and showed lasting effects in adult mice, suggesting the brain may remain more treatable later in life than previously thought.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids and showed lasting effects in adult mice, suggesting the brain may remain more treatable later in life than previously thought.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
       "featured": false
     }
   ]
