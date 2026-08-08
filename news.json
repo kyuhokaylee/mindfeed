@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08T09:43:13.059201+00:00",
+  "updated": "2026-08-08T10:38:45.143281+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5cb98fb4ee0b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Is sexting good for your relationship? Psychological research points to one important factor",
+      "titleKo": "",
+      "summary": "Engaging in digital sex isn't inherently good or bad for your relationship. New research indicates that it's the psychological motivations behind the messages that predict a couple's overall happiness.",
+      "aiSummary": "Engaging in digital sex isn't inherently good or bad for your relationship. New research indicates that it's the psychological motivations behind the messages that predict a couple's overall happiness.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Engaging in digital sex isn't inherently good or bad for your relationship. New research indicates that it's the psychological motivations behind the messages that predict a couple's overall happiness.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/is-sexting-good-for-your-relationship-psychological-research-points-to-one-important-factor/",
+      "featured": true
+    },
     {
       "id": "637d5d3f0504",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A large study tracking thousands of adults over five years reveals that core personality traits, particularly extraversion and conscientiousness, strongly predict how often a person drinks alcohol.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-your-core-personality-traits-predict-your-drinking-habits-over-time/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0bb12380ac86",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.05207v1 Announce Type: new Abstract: Frozen pretrained forecasters often fail in structured, recurring ways that are costly to repair through fine-tuning. We study corrective feature discovery: mining interpretable features of a frozen forecaster's residual to drive a lightweight post-hoc corrector. Prior automated feature engineering models the data-generating process; corrective features instead model the model-failure process. We present CRAFTER (Corrective Residual Agent with Feature-based Temporal Exploration and Reasoning), which keeps the backbone frozen and mines its residua",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.05207",
-      "featured": false
-    },
-    {
-      "id": "395853ed3427",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "PPDL: LLM-Based Flows as Probabilistic Programs",
-      "titleKo": "",
-      "summary": "arXiv:2608.05234v1 Announce Type: new Abstract: Building reliable applications that leverage large language models (LLMs) remains a significant challenge. While LLMs offer impressive capabilities across diverse tasks, their outputs often lack accuracy and provide no clear measure of confidence. This uncertainty compounds in flows of multiple calls to LLMs and other tools, making it difficult for developers and end-users to trust the results. This paper introduces a probabilistic language for programming LLM-based flows. It enables developers to quantify and propagate uncertainty throughout the",
-      "aiSummary": "arXiv:2608.05234v1 Announce Type: new Abstract: Building reliable applications that leverage large language models (LLMs) remains a significant challenge. While LLMs offer impressive capabilities across diverse tasks, their outputs often lack accuracy and provide no clear measure of confidence. This uncertainty compounds in flows of multiple calls to LLMs and other tools, making it difficult for developers and end-users to trust the results. This paper introduces a probabilistic language for programming LLM-based flows. It enables developers to quantify and propagate uncertainty throughout the",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.05234v1 Announce Type: new Abstract: Building reliable applications that leverage large language models (LLMs) remains a significant challenge. While LLMs offer impressive capabilities across diverse tasks, their outputs often lack accuracy and provide no clear measure of confidence. This uncertainty compounds in flows of multiple calls to LLMs and other tools, making it difficult for developers and end-users to trust the results. This paper introduces a probabilistic language for programming LLM-based flows. It enables developers to quantify and propagate uncertainty throughout the",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.05234",
       "featured": false
     }
   ]
