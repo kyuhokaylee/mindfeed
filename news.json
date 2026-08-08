@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08T22:35:04.396706+00:00",
+  "updated": "2026-08-08T23:33:57.565642+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "fe3b06d24a99",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+      "titleKo": "",
+      "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
+      "aiSummary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+      "featured": true
+    },
     {
       "id": "d5d0b3eff485",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent meta-analysis indicates that the four most common forms of dementia feature distinct immune system responses. These biological differences occur independently of other health conditions and might eventually guide targeted treatments for cognitive decline.",
       "keyPoints": [],
       "url": "https://www.psypost.org/different-types-of-dementia-are-linked-to-unique-inflammatory-profiles-study-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "15552f78d4f2",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Young adults who spend at least an hour daily on apps like TikTok show increased connectivity across multiple brain networks compared to lighter users, according to new research.",
       "keyPoints": [],
       "url": "https://www.psypost.org/frequent-short-video-viewers-show-altered-brain-function/",
-      "featured": false
-    },
-    {
-      "id": "17862e50be32",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "10시간 전 / 10h ago",
-      "title": "Common herb may help ease anxiety symptoms in patients with depression",
-      "titleKo": "",
-      "summary": "A recent study suggests that basil extract might help ease anxiety and depression. When taken with standard antidepressants, patients using a nightly basil syrup reported greater symptom relief than those taking a placebo.",
-      "aiSummary": "A recent study suggests that basil extract might help ease anxiety and depression. When taken with standard antidepressants, patients using a nightly basil syrup reported greater symptom relief than those taking a placebo.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study suggests that basil extract might help ease anxiety and depression. When taken with standard antidepressants, patients using a nightly basil syrup reported greater symptom relief than those taking a placebo.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/common-herb-may-help-ease-anxiety-symptoms-in-patients-with-depression/",
       "featured": false
     }
   ]
