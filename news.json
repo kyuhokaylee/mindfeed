@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08T07:01:51.305620+00:00",
+  "updated": "2026-08-08T08:49:20.112156+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "637d5d3f0504",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "10시간 전 / 10h ago",
+      "title": "How your core personality traits predict your drinking habits over time",
+      "titleKo": "",
+      "summary": "A large study tracking thousands of adults over five years reveals that core personality traits, particularly extraversion and conscientiousness, strongly predict how often a person drinks alcohol.",
+      "aiSummary": "A large study tracking thousands of adults over five years reveals that core personality traits, particularly extraversion and conscientiousness, strongly predict how often a person drinks alcohol.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A large study tracking thousands of adults over five years reveals that core personality traits, particularly extraversion and conscientiousness, strongly predict how often a person drinks alcohol.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-your-core-personality-traits-predict-your-drinking-habits-over-time/",
+      "featured": true
+    },
     {
       "id": "0bb12380ac86",
       "tag": "behav",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2bfb59a8a85e",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.05234v1 Announce Type: new Abstract: Building reliable applications that leverage large language models (LLMs) remains a significant challenge. While LLMs offer impressive capabilities across diverse tasks, their outputs often lack accuracy and provide no clear measure of confidence. This uncertainty compounds in flows of multiple calls to LLMs and other tools, making it difficult for developers and end-users to trust the results. This paper introduces a probabilistic language for programming LLM-based flows. It enables developers to quantify and propagate uncertainty throughout the",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.05234",
-      "featured": false
-    },
-    {
-      "id": "04af13e62fb1",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "Decoupling Perception from Description: Computation-Grounded Representation Alignment between Multivariate Time Series and Language",
-      "titleKo": "",
-      "summary": "arXiv:2608.05238v1 Announce Type: new Abstract: Training multimodal models to align time series with language runs into a self-supervision trap. The usual recipe asks an LLM to read a series and write a description, so label quality is capped by the perceptual skill the model is supposed to learn. The data can never teach more than the labeler already knows. A second gap makes this worse: most datasets use a single variable, but the patterns that matter (cross-channel correlation, lead-lag structure, co-occurring anomalies) appear only with several variables, right where the labeling LLM's lim",
-      "aiSummary": "arXiv:2608.05238v1 Announce Type: new Abstract: Training multimodal models to align time series with language runs into a self-supervision trap. The usual recipe asks an LLM to read a series and write a description, so label quality is capped by the perceptual skill the model is supposed to learn. The data can never teach more than the labeler already knows. A second gap makes this worse: most datasets use a single variable, but the patterns that matter (cross-channel correlation, lead-lag structure, co-occurring anomalies) appear only with several variables, right where the labeling LLM's lim",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.05238v1 Announce Type: new Abstract: Training multimodal models to align time series with language runs into a self-supervision trap. The usual recipe asks an LLM to read a series and write a description, so label quality is capped by the perceptual skill the model is supposed to learn. The data can never teach more than the labeler already knows. A second gap makes this worse: most datasets use a single variable, but the patterns that matter (cross-channel correlation, lead-lag structure, co-occurring anomalies) appear only with several variables, right where the labeling LLM's lim",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.05238",
       "featured": false
     }
   ]
