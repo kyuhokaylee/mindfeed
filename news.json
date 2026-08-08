@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08T21:35:33.180851+00:00",
+  "updated": "2026-08-08T22:35:04.396706+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d5d0b3eff485",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Different types of dementia are linked to unique inflammatory profiles, study suggests",
+      "titleKo": "",
+      "summary": "A recent meta-analysis indicates that the four most common forms of dementia feature distinct immune system responses. These biological differences occur independently of other health conditions and might eventually guide targeted treatments for cognitive decline.",
+      "aiSummary": "A recent meta-analysis indicates that the four most common forms of dementia feature distinct immune system responses. These biological differences occur independently of other health conditions and might eventually guide targeted treatments for cognitive decline.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent meta-analysis indicates that the four most common forms of dementia feature distinct immune system responses. These biological differences occur independently of other health conditions and might eventually guide targeted treatments for cognitive decline.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/different-types-of-dementia-are-linked-to-unique-inflammatory-profiles-study-suggests/",
+      "featured": true
+    },
     {
       "id": "15552f78d4f2",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A compound found in green tea might protect the brain from memory loss and structural damage caused by obesity. New research shows the compound reduces inflammation and triggers a cellular recycling process that preserves brain volume.",
       "keyPoints": [],
       "url": "https://www.psypost.org/green-tea-compound-shows-promise-in-protecting-the-brain-from-obesity-related-da/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "14f581bf8c08",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A recent study suggests that basil extract might help ease anxiety and depression. When taken with standard antidepressants, patients using a nightly basil syrup reported greater symptom relief than those taking a placebo.",
       "keyPoints": [],
       "url": "https://www.psypost.org/common-herb-may-help-ease-anxiety-symptoms-in-patients-with-depression/",
-      "featured": false
-    },
-    {
-      "id": "fe3b06d24a99",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "16시간 전 / 16h ago",
-      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
-      "titleKo": "",
-      "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
-      "aiSummary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
       "featured": false
     }
   ]
