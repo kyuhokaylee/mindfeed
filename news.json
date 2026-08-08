@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08T17:35:44.700415+00:00",
+  "updated": "2026-08-08T18:46:17.564720+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "14f581bf8c08",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Foldable synthetic molecules could infiltrate and bust apart the toxic protein clumps causing Parkinson’s",
+      "titleKo": "",
+      "summary": "Researchers have developed a synthetic molecule called SK-129 that blocks toxic protein clumps linked to Parkinson’s disease. In mice, the lab-designed molecule reduced disease symptoms by targeting flexible, previously \"undruggable\" proteins in the brain.",
+      "aiSummary": "Researchers have developed a synthetic molecule called SK-129 that blocks toxic protein clumps linked to Parkinson’s disease. In mice, the lab-designed molecule reduced disease symptoms by targeting flexible, previously \"undruggable\" proteins in the brain.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers have developed a synthetic molecule called SK-129 that blocks toxic protein clumps linked to Parkinson’s disease. In mice, the lab-designed molecule reduced disease symptoms by targeting flexible, previously \"undruggable\" proteins in the brain.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/foldable-synthetic-molecules-could-infiltrate-and-bust-apart-the-toxic-protein-clumps-causing-parkinsons/",
+      "featured": true
+    },
     {
       "id": "84cf5a168b56",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study suggests that delivering mild electrical pulses to the ear can help people with severe depression better judge when a task is worth the physical effort, reducing the amount of energy they waste on unrewarding choices.",
       "keyPoints": [],
       "url": "https://www.psypost.org/zapping-the-ears-vagus-nerve-might-boost-motivation-efficiency-in-severe-depression/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "712f3fdd2a8f",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A new neuroimaging study suggests that adults with depression who experienced childhood trauma tend to have lower levels of myelin in specific brain regions. This indicates a potential biological link between early adversity and depressive symptoms.",
       "keyPoints": [],
       "url": "https://www.psypost.org/lower-myelin-levels-in-gray-matter-suggest-a-biological-tie-between-early-trauma-and-depression/",
-      "featured": false
-    },
-    {
-      "id": "cbd6c35c81ea",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "22시간 전 / 22h ago",
-      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-      "titleKo": "",
-      "summary": "arXiv:2608.05160v1 Announce Type: new Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-layer linear probe accuracy as a function of input signal strength, extracting steepness parameter beta-hat: high values indicate abrupt, ignition-like transitions; low values indicate graded build-up. Across 11 models spanning five architecture families, shuffled-label controls demonstrate 9.6-fold selectivity for genuine",
-      "aiSummary": "arXiv:2608.05160v1 Announce Type: new Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-layer linear probe accuracy as a function of input signal strength, extracting steepness parameter beta-hat: high values indicate abrupt, ignition-like transitions; low values indicate graded build-up. Across 11 models spanning five architecture families, shuffled-label controls demonstrate 9.6-fold selectivity for genuine",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.05160v1 Announce Type: new Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-layer linear probe accuracy as a function of input signal strength, extracting steepness parameter beta-hat: high values indicate abrupt, ignition-like transitions; low values indicate graded build-up. Across 11 models spanning five architecture families, shuffled-label controls demonstrate 9.6-fold selectivity for genuine",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.05160",
       "featured": false
     }
   ]
