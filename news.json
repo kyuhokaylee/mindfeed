@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08T11:33:29.648383+00:00",
+  "updated": "2026-08-08T12:59:49.121914+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "13e084c8864c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Ketogenic diet improves metabolic health and may reduce symptoms in schizophrenia and bipolar disorder",
+      "titleKo": "",
+      "summary": "A recent study in the Schizophrenia Bulletin suggests that a ketogenic diet provides metabolic and psychiatric benefits for individuals diagnosed with schizophrenia or bipolar disorder, improving blood sugar regulation and reducing symptoms over time.",
+      "aiSummary": "A recent study in the Schizophrenia Bulletin suggests that a ketogenic diet provides metabolic and psychiatric benefits for individuals diagnosed with schizophrenia or bipolar disorder, improving blood sugar regulation and reducing symptoms over time.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study in the Schizophrenia Bulletin suggests that a ketogenic diet provides metabolic and psychiatric benefits for individuals diagnosed with schizophrenia or bipolar disorder, improving blood sugar regulation and reducing symptoms over time.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/ketogenic-diet-improves-metabolic-health-and-may-reduce-symptoms-in-schizophrenia-and-bipolar-disorder/",
+      "featured": true
+    },
     {
       "id": "07fb7c798c54",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A systematic review and meta-analysis of six trials found that listening to music was associated with increased breast milk volume, higher milk fat, and lower cortisol levels in nursing mothers, likely by reducing psychological stress.",
       "keyPoints": [],
       "url": "https://www.psypost.org/scientists-may-have-found-a-surprisingly-simple-way-to-boost-breast-milk-production/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5cb98fb4ee0b",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids and showed lasting effects in adult mice, suggesting the brain may remain more treatable later in life than previously thought.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
-      "featured": false
-    },
-    {
-      "id": "0c165b210d69",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "7시간 전 / 7h ago",
-      "title": "Brain wiring patterns linked to harm avoidance in obsessive-compulsive disorder",
-      "titleKo": "",
-      "summary": "Researchers have linked denser nerve connections deep within the brain to a heightened sensitivity to potential threats. This specific brain wiring pattern appears across multiple psychiatric conditions, including obsessive-compulsive disorder and anxiety.",
-      "aiSummary": "Researchers have linked denser nerve connections deep within the brain to a heightened sensitivity to potential threats. This specific brain wiring pattern appears across multiple psychiatric conditions, including obsessive-compulsive disorder and anxiety.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers have linked denser nerve connections deep within the brain to a heightened sensitivity to potential threats. This specific brain wiring pattern appears across multiple psychiatric conditions, including obsessive-compulsive disorder and anxiety.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/brain-wiring-patterns-linked-to-harm-avoidance-in-obsessive-compulsive-disorder/",
       "featured": false
     }
   ]
