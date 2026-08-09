@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09T17:35:56.555570+00:00",
+  "updated": "2026-08-09T18:49:30.394695+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "91b74a1c4bf9",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Wealthier children score higher on intelligence, but quality parenting levels the playing field",
+      "titleKo": "",
+      "summary": "Children from higher-income families show greater fluid intelligence, a new study finds. However, researchers discovered that increased parental time and positive parenting can effectively bridge this developmental gap, especially for disadvantaged youth.",
+      "aiSummary": "Children from higher-income families show greater fluid intelligence, a new study finds. However, researchers discovered that increased parental time and positive parenting can effectively bridge this developmental gap, especially for disadvantaged youth.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Children from higher-income families show greater fluid intelligence, a new study finds. However, researchers discovered that increased parental time and positive parenting can effectively bridge this developmental gap, especially for disadvantaged youth.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/wealthier-children-score-higher-on-intelligence-but-quality-parenting-levels-the-playing-field/",
+      "featured": true
+    },
     {
       "id": "a9f78f35a010",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Even after being entirely forgotten, the tonal languages we hear during our first months of life permanently alter the physical wiring of our brains, according to new imaging research on international adoptees.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-hidden-architecture-of-forgotten-first-languages-in-the-human-brain/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3db2a63d062a",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A new study suggests that delivering mild electrical pulses to the ear can help people with severe depression better judge when a task is worth the physical effort, reducing the amount of energy they waste on unrewarding choices.",
       "keyPoints": [],
       "url": "https://www.psypost.org/zapping-the-ears-vagus-nerve-might-boost-motivation-efficiency-in-severe-depression/",
-      "featured": false
-    },
-    {
-      "id": "712f3fdd2a8f",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Six months of action gaming alters brain networks and improves visual attention",
-      "titleKo": "",
-      "summary": "Long-term action video game training might do more than just improve your gaming skills. A new study reveals how six months of digital combat reshapes resting brain waves and whole-brain connectivity to boost visual attention.",
-      "aiSummary": "Long-term action video game training might do more than just improve your gaming skills. A new study reveals how six months of digital combat reshapes resting brain waves and whole-brain connectivity to boost visual attention.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Long-term action video game training might do more than just improve your gaming skills. A new study reveals how six months of digital combat reshapes resting brain waves and whole-brain connectivity to boost visual attention.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/six-months-of-action-gaming-alters-brain-networks-and-improves-visual-attention/",
       "featured": false
     }
   ]
