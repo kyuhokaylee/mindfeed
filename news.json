@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09T15:37:01.695523+00:00",
+  "updated": "2026-08-09T16:41:50.011717+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "a9f78f35a010",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The hidden architecture of forgotten first languages in the human brain",
+      "titleKo": "",
+      "summary": "Even after being entirely forgotten, the tonal languages we hear during our first months of life permanently alter the physical wiring of our brains, according to new imaging research on international adoptees.",
+      "aiSummary": "Even after being entirely forgotten, the tonal languages we hear during our first months of life permanently alter the physical wiring of our brains, according to new imaging research on international adoptees.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Even after being entirely forgotten, the tonal languages we hear during our first months of life permanently alter the physical wiring of our brains, according to new imaging research on international adoptees.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-hidden-architecture-of-forgotten-first-languages-in-the-human-brain/",
+      "featured": true
+    },
     {
       "id": "3db2a63d062a",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Anorexia nervosa is notoriously difficult to treat, often resisting standard care. Now, a new pilot study suggests that psilocybin therapy, paired with psychological support, could safely help reduce eating disorder symptoms and boost the motivation to recover.",
       "keyPoints": [],
       "url": "https://www.psypost.org/psilocybin-combined-with-talk-therapy-shows-potential-for-treating-anorexia-nervosa/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0bb12380ac86",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Long-term action video game training might do more than just improve your gaming skills. A new study reveals how six months of digital combat reshapes resting brain waves and whole-brain connectivity to boost visual attention.",
       "keyPoints": [],
       "url": "https://www.psypost.org/six-months-of-action-gaming-alters-brain-networks-and-improves-visual-attention/",
-      "featured": false
-    },
-    {
-      "id": "4af1a624adc7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "New study suggests anxiety symptoms drive the physical stress markers linked to depression",
-      "titleKo": "",
-      "summary": "Physical feelings of anxiety tend to predict chronic stress markers better than depression symptoms, suggesting that past research linking depression to body strain may have picked up on hidden anxiety instead.",
-      "aiSummary": "Physical feelings of anxiety tend to predict chronic stress markers better than depression symptoms, suggesting that past research linking depression to body strain may have picked up on hidden anxiety instead.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Physical feelings of anxiety tend to predict chronic stress markers better than depression symptoms, suggesting that past research linking depression to body strain may have picked up on hidden anxiety instead.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/new-study-suggests-anxiety-symptoms-drive-the-physical-stress-markers-linked-to-depression/",
       "featured": false
     }
   ]
