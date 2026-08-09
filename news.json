@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09T09:45:39.813355+00:00",
+  "updated": "2026-08-09T10:40:06.488721+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5cfc3382c319",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Psychology research suggests a common response to negative emotions is worse for you in certain countries",
+      "titleKo": "",
+      "summary": "Ruminating on negative experiences is tied to lower daily well-being, but a new study indicates this association is stronger in the U.S. than in Japan. The findings provide evidence that our cultural background influences how we process emotions.",
+      "aiSummary": "Ruminating on negative experiences is tied to lower daily well-being, but a new study indicates this association is stronger in the U.S. than in Japan. The findings provide evidence that our cultural background influences how we process emotions.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Ruminating on negative experiences is tied to lower daily well-being, but a new study indicates this association is stronger in the U.S. than in Japan. The findings provide evidence that our cultural background influences how we process emotions.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/psychology-research-suggests-a-common-response-to-negative-emotions-is-worse-for-you-in-certain-countries/",
+      "featured": true
+    },
     {
       "id": "fe3b06d24a99",
       "tag": "neuro",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d5d0b3eff485",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Beginning around age 50, the brain’s memory center appears to lose many of its longtime immune cells and replace them with more inflammatory ones. This surprising shift may help explain how normal aging sets the stage for Alzheimer’s disease and dementia.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260806050700.htm",
-      "featured": false
-    },
-    {
-      "id": "62c7dc2e6e39",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Frequent short-video viewers show altered brain function",
-      "titleKo": "",
-      "summary": "Young adults who spend at least an hour daily on apps like TikTok show increased connectivity across multiple brain networks compared to lighter users, according to new research.",
-      "aiSummary": "Young adults who spend at least an hour daily on apps like TikTok show increased connectivity across multiple brain networks compared to lighter users, according to new research.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Young adults who spend at least an hour daily on apps like TikTok show increased connectivity across multiple brain networks compared to lighter users, according to new research.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/frequent-short-video-viewers-show-altered-brain-function/",
       "featured": false
     }
   ]
