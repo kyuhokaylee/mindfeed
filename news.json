@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09T21:38:05.066825+00:00",
+  "updated": "2026-08-09T22:36:46.992638+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c26c041c1f3d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Standard clinic schedules can create barriers for working patients in alcohol recovery",
+      "titleKo": "",
+      "summary": "A new study reveals that regularly employed patients are more likely to drop out of outpatient alcohol treatment than those without steady jobs, suggesting standard clinic hours create hidden barriers to addiction recovery.",
+      "aiSummary": "A new study reveals that regularly employed patients are more likely to drop out of outpatient alcohol treatment than those without steady jobs, suggesting standard clinic hours create hidden barriers to addiction recovery.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that regularly employed patients are more likely to drop out of outpatient alcohol treatment than those without steady jobs, suggesting standard clinic hours create hidden barriers to addiction recovery.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/regular-employment-linked-to-higher-dropout-rates-in-outpatient-alcohol-treatmen/",
+      "featured": true
+    },
     {
       "id": "aa72d6de2a90",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Digital platforms give users access to a massive pool of potential matches. However, recent data suggests that rather than broadening dating horizons, these apps generally encourage individuals to select partners of similar ages.",
       "keyPoints": [],
       "url": "https://www.psypost.org/dating-apps-tend-to-encourage-age-similarity-rather-than-diversity/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "91b74a1c4bf9",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A compound found in green tea might protect the brain from memory loss and structural damage caused by obesity. New research shows the compound reduces inflammation and triggers a cellular recycling process that preserves brain volume.",
       "keyPoints": [],
       "url": "https://www.psypost.org/green-tea-compound-shows-promise-in-protecting-the-brain-from-obesity-related-da/",
-      "featured": false
-    },
-    {
-      "id": "14f581bf8c08",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Foldable synthetic molecules could infiltrate and bust apart the toxic protein clumps causing Parkinson’s",
-      "titleKo": "",
-      "summary": "Researchers have developed a synthetic molecule called SK-129 that blocks toxic protein clumps linked to Parkinson’s disease. In mice, the lab-designed molecule reduced disease symptoms by targeting flexible, previously \"undruggable\" proteins in the brain.",
-      "aiSummary": "Researchers have developed a synthetic molecule called SK-129 that blocks toxic protein clumps linked to Parkinson’s disease. In mice, the lab-designed molecule reduced disease symptoms by targeting flexible, previously \"undruggable\" proteins in the brain.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers have developed a synthetic molecule called SK-129 that blocks toxic protein clumps linked to Parkinson’s disease. In mice, the lab-designed molecule reduced disease symptoms by targeting flexible, previously \"undruggable\" proteins in the brain.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/foldable-synthetic-molecules-could-infiltrate-and-bust-apart-the-toxic-protein-clumps-causing-parkinsons/",
       "featured": false
     }
   ]
