@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09T23:36:44.552474+00:00",
+  "updated": "2026-08-10T02:14:19.915391+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "eb408b31a992",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Decreased sleep in adolescents is linked to lasting changes in how the brain communicates",
+      "titleKo": "",
+      "summary": "A new study suggests that getting less sleep alters how regions of the developing brain communicate. By tracking adolescents over time and testing sleep-deprived adults, scientists found evidence that sleep loss directly reshapes brain network connectivity.",
+      "aiSummary": "A new study suggests that getting less sleep alters how regions of the developing brain communicate. By tracking adolescents over time and testing sleep-deprived adults, scientists found evidence that sleep loss directly reshapes brain network connectivity.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests that getting less sleep alters how regions of the developing brain communicate. By tracking adolescents over time and testing sleep-deprived adults, scientists found evidence that sleep loss directly reshapes brain network connectivity.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/decreased-sleep-in-adolescents-is-linked-to-lasting-changes-in-how-the-brain-communicates/",
+      "featured": true
+    },
     {
       "id": "c26c041c1f3d",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study reveals that regularly employed patients are more likely to drop out of outpatient alcohol treatment than those without steady jobs, suggesting standard clinic hours create hidden barriers to addiction recovery.",
       "keyPoints": [],
       "url": "https://www.psypost.org/regular-employment-linked-to-higher-dropout-rates-in-outpatient-alcohol-treatmen/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "aa72d6de2a90",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A recent meta-analysis indicates that the four most common forms of dementia feature distinct immune system responses. These biological differences occur independently of other health conditions and might eventually guide targeted treatments for cognitive decline.",
       "keyPoints": [],
       "url": "https://www.psypost.org/different-types-of-dementia-are-linked-to-unique-inflammatory-profiles-study-suggests/",
-      "featured": false
-    },
-    {
-      "id": "15552f78d4f2",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Green tea compound shows promise in protecting the brain from obesity-related damage",
-      "titleKo": "",
-      "summary": "A compound found in green tea might protect the brain from memory loss and structural damage caused by obesity. New research shows the compound reduces inflammation and triggers a cellular recycling process that preserves brain volume.",
-      "aiSummary": "A compound found in green tea might protect the brain from memory loss and structural damage caused by obesity. New research shows the compound reduces inflammation and triggers a cellular recycling process that preserves brain volume.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A compound found in green tea might protect the brain from memory loss and structural damage caused by obesity. New research shows the compound reduces inflammation and triggers a cellular recycling process that preserves brain volume.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/green-tea-compound-shows-promise-in-protecting-the-brain-from-obesity-related-da/",
       "featured": false
     }
   ]
