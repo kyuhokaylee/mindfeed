@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-11T13:17:56.867164+00:00",
+  "updated": "2026-08-11T15:03:06.773481+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4a438d4024ee",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Believing the world is unfair may explain why some who experience adversity are drawn to conspiracy theories",
+      "titleKo": "",
+      "summary": "New research published in the British Journal of Psychology suggests that experiencing personal hardship does not directly cause conspiracy beliefs. Instead, adversity tends to foster a sense of injustice, which then makes conspiratorial ideas more appealing.",
+      "aiSummary": "New research published in the British Journal of Psychology suggests that experiencing personal hardship does not directly cause conspiracy beliefs. Instead, adversity tends to foster a sense of injustice, which then makes conspiratorial ideas more appealing.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research published in the British Journal of Psychology suggests that experiencing personal hardship does not directly cause conspiracy beliefs. Instead, adversity tends to foster a sense of injustice, which then makes conspiratorial ideas more appealing.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/believing-the-world-is-unfair-may-explain-why-some-who-experience-adversity-are-drawn-to-conspiracy-theories/",
+      "featured": true
+    },
+    {
+      "id": "b750369ac43f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "15시간 전 / 15h ago",
+      "title": "Social isolation harms the aging brain independently of loneliness",
+      "titleKo": "",
+      "summary": "New research reveals that physical social isolation harms the aging brain independently of subjective feelings of loneliness. Simulated public health interventions show that reconnecting isolated older adults can directly protect against cognitive decline.",
+      "aiSummary": "New research reveals that physical social isolation harms the aging brain independently of subjective feelings of loneliness. Simulated public health interventions show that reconnecting isolated older adults can directly protect against cognitive decline.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research reveals that physical social isolation harms the aging brain independently of subjective feelings of loneliness. Simulated public health interventions show that reconnecting isolated older adults can directly protect against cognitive decline.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/social-isolation-harms-the-aging-brain-independently-of-loneliness/",
+      "featured": false
+    },
     {
       "id": "6cde427cef35",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A one-year study tracking high school students suggests addictive use of short-form videos limits teenagers' ability to focus on the future. This shortened perspective makes it harder for them to bounce back from everyday academic setbacks.",
       "keyPoints": [],
       "url": "https://www.psypost.org/short-form-video-addiction-erodes-teens-ability-to-handle-school-stress/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "45e18fb3a4d4",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2608.09773v1 Announce Type: new Abstract: Graph-theoretical analysis offers a principled framework for quantifying emergent dynamics in neuronal cultures. Here, we present an analytical pipeline for inferring network-level properties of in vitro cortical cultures from multichannel electrophysiological recordings. The approach builds on a recently proposed Reservoir Computing (RC) framework (Auslender et al., 2025), which enables direct extraction of an Intrinsic Connectivity Map (ICM) from neural activity. We interpret the ICM as an effective adjacency matrix and apply graph-theoretic ce",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.09773",
-      "featured": false
-    },
-    {
-      "id": "685b31db82e8",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "5시간 전 / 5h ago",
-      "title": "Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model",
-      "titleKo": "",
-      "summary": "arXiv:2608.09222v1 Announce Type: cross Abstract: Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics that action-only formulations leave unmodeled, such as verbal production, interaction, and hesitation. We propose a factorized inverse decision model (FIDM) that decomposes each individual's task-execution likelihood into an action factor and an effort factor, governed by separate individual-specific paramete",
-      "aiSummary": "arXiv:2608.09222v1 Announce Type: cross Abstract: Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics that action-only formulations leave unmodeled, such as verbal production, interaction, and hesitation. We propose a factorized inverse decision model (FIDM) that decomposes each individual's task-execution likelihood into an action factor and an effort factor, governed by separate individual-specific paramete",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.09222v1 Announce Type: cross Abstract: Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics that action-only formulations leave unmodeled, such as verbal production, interaction, and hesitation. We propose a factorized inverse decision model (FIDM) that decomposes each individual's task-execution likelihood into an action factor and an effort factor, governed by separate individual-specific paramete",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.09222",
-      "featured": false
-    },
-    {
-      "id": "26912b615548",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "5시간 전 / 5h ago",
-      "title": "Confidence is detection-like in high-dimensional spaces",
-      "titleKo": "",
-      "summary": "arXiv:2410.18933v5 Announce Type: replace Abstract: Confidence estimates are often \"detection-like\" - driven by positive evidence in favour of a decision. This empirical observation has been interpreted as showing that human metacognition is limited by biases or heuristics. Here, we show that Bayesian confidence estimates also exhibit heightened sensitivity to decision-congruent evidence in higher-dimensional signal detection theoretic spaces, leading to detection-like confidence criteria. This effect is due to a nonlinearity induced by normalisation of confidence by a large number of unchosen",
-      "aiSummary": "arXiv:2410.18933v5 Announce Type: replace Abstract: Confidence estimates are often \"detection-like\" - driven by positive evidence in favour of a decision. This empirical observation has been interpreted as showing that human metacognition is limited by biases or heuristics. Here, we show that Bayesian confidence estimates also exhibit heightened sensitivity to decision-congruent evidence in higher-dimensional signal detection theoretic spaces, leading to detection-like confidence criteria. This effect is due to a nonlinearity induced by normalisation of confidence by a large number of unchosen",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2410.18933v5 Announce Type: replace Abstract: Confidence estimates are often \"detection-like\" - driven by positive evidence in favour of a decision. This empirical observation has been interpreted as showing that human metacognition is limited by biases or heuristics. Here, we show that Bayesian confidence estimates also exhibit heightened sensitivity to decision-congruent evidence in higher-dimensional signal detection theoretic spaces, leading to detection-like confidence criteria. This effect is due to a nonlinearity induced by normalisation of confidence by a large number of unchosen",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2410.18933",
       "featured": false
     }
   ]
