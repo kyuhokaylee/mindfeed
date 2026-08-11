@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-10T23:39:57.517523+00:00",
+  "updated": "2026-08-11T02:07:08.910220+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b750369ac43f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Social isolation harms the aging brain independently of loneliness",
+      "titleKo": "",
+      "summary": "New research reveals that physical social isolation harms the aging brain independently of subjective feelings of loneliness. Simulated public health interventions show that reconnecting isolated older adults can directly protect against cognitive decline.",
+      "aiSummary": "New research reveals that physical social isolation harms the aging brain independently of subjective feelings of loneliness. Simulated public health interventions show that reconnecting isolated older adults can directly protect against cognitive decline.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research reveals that physical social isolation harms the aging brain independently of subjective feelings of loneliness. Simulated public health interventions show that reconnecting isolated older adults can directly protect against cognitive decline.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/social-isolation-harms-the-aging-brain-independently-of-loneliness/",
+      "featured": true
+    },
+    {
+      "id": "e2203d58a84b",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "22시간 전 / 22h ago",
+      "title": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+      "titleKo": "",
+      "summary": "arXiv:2608.07393v1 Announce Type: cross Abstract: Functional Magnetic Resonance Imaging ( fMRI ) data are often pooled into collaborative multi-site consortia, as deep learning models for analyses require large datasets to generalize well. While Federated Learning (FL) offers a privacy-preserving paradigm for collaborative training, standard approaches continue to struggle with statistical heterogeneity. In particular, site differences pose a key challenge in multi-site data settings. Additionally, existing FL approaches for fMRI rely on static Functional Connectivity ( FC), omitting dynamic i",
+      "aiSummary": "arXiv:2608.07393v1 Announce Type: cross Abstract: Functional Magnetic Resonance Imaging ( fMRI ) data are often pooled into collaborative multi-site consortia, as deep learning models for analyses require large datasets to generalize well. While Federated Learning (FL) offers a privacy-preserving paradigm for collaborative training, standard approaches continue to struggle with statistical heterogeneity. In particular, site differences pose a key challenge in multi-site data settings. Additionally, existing FL approaches for fMRI rely on static Functional Connectivity ( FC), omitting dynamic i",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2608.07393v1 Announce Type: cross Abstract: Functional Magnetic Resonance Imaging ( fMRI ) data are often pooled into collaborative multi-site consortia, as deep learning models for analyses require large datasets to generalize well. While Federated Learning (FL) offers a privacy-preserving paradigm for collaborative training, standard approaches continue to struggle with statistical heterogeneity. In particular, site differences pose a key challenge in multi-site data settings. Additionally, existing FL approaches for fMRI rely on static Functional Connectivity ( FC), omitting dynamic i",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2608.07393",
+      "featured": false
+    },
+    {
+      "id": "adeaff6ea203",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "arXiv – q-bio.NC",
+      "time": "22시간 전 / 22h ago",
+      "title": "A Physics-Inspired Classical Digital Twin of Cortical Dynamics: A Band-Stratified Metriplectic Port-Hamiltonian Neural Network Learned from Brain-Computer-Interface EEG",
+      "titleKo": "",
+      "summary": "arXiv:2607.10439v3 Announce Type: replace Abstract: We present a physics-inspired classical digital twin of brain-computer- interface (BCI) data: a graph neural network constrained to a band-stratified, metriplectic port-Hamiltonian form, with parameters learned from scalp EEG recorded during rest and motor imagery. The port-Hamiltonian structure is a modelling choice - it buys passivity, a certified steady-state power balance, and a clean separation of storage, routing and dissipation - not a claim about what the brain is. The state pairs each channel's instantaneous phase with its angular fr",
+      "aiSummary": "arXiv:2607.10439v3 Announce Type: replace Abstract: We present a physics-inspired classical digital twin of brain-computer- interface (BCI) data: a graph neural network constrained to a band-stratified, metriplectic port-Hamiltonian form, with parameters learned from scalp EEG recorded during rest and motor imagery. The port-Hamiltonian structure is a modelling choice - it buys passivity, a certified steady-state power balance, and a clean separation of storage, routing and dissipation - not a claim about what the brain is. The state pairs each channel's instantaneous phase with its angular fr",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2607.10439v3 Announce Type: replace Abstract: We present a physics-inspired classical digital twin of brain-computer- interface (BCI) data: a graph neural network constrained to a band-stratified, metriplectic port-Hamiltonian form, with parameters learned from scalp EEG recorded during rest and motor imagery. The port-Hamiltonian structure is a modelling choice - it buys passivity, a certified steady-state power balance, and a clean separation of storage, routing and dissipation - not a claim about what the brain is. The state pairs each channel's instantaneous phase with its angular fr",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2607.10439",
+      "featured": false
+    },
     {
       "id": "315d40c88ae7",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A new study finds that as artificial intelligence advances, the fear of falling behind is creating a measurable psychological burden. Fortunately, building practical competence with these new digital tools can help protect your mental health.",
       "keyPoints": [],
       "url": "https://www.psypost.org/fear-of-missing-out-on-ai-is-linked-to-anxiety-and-depression/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "83976ac1c26a",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2608.06420v1 Announce Type: new Abstract: Perception in biological systems is inherently noisy, requiring organisms to make decisions under uncertainty where misclassification can be costly or fatal. We present an Artificial Life predator-prey model of foraging under noisy perception, and compare agent performance when using various policies that take into account their noisy predictions. Through controlled experiments under both symmetric and asymmetric perceptual noise, we show that blindly trusting perceptual labels leads to catastrophic failure as noise increases, while uncertainty-a",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.06420",
-      "featured": false
-    },
-    {
-      "id": "c15a190246d0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "15시간 전 / 15h ago",
-      "title": "Sharding Prevents LLM Oversight Failures and Adversarial Exploitation",
-      "titleKo": "",
-      "summary": "arXiv:2608.06422v1 Announce Type: new Abstract: Giving an LLM judge more compute does not necessarily make it check more requirements. When one call must return many verdicts, some decisions become weakly grounded in the evidence, even when that call receives the same token or tool budget as a panel of separate calls. Across expert-graded research replications, legal work, and clinical-trial assessments, agreement with experts falls as the number of verdicts per call grows. We identify sharding as the intervention that mitigates this failure in model-based oversight. Sharding partitions the re",
-      "aiSummary": "arXiv:2608.06422v1 Announce Type: new Abstract: Giving an LLM judge more compute does not necessarily make it check more requirements. When one call must return many verdicts, some decisions become weakly grounded in the evidence, even when that call receives the same token or tool budget as a panel of separate calls. Across expert-graded research replications, legal work, and clinical-trial assessments, agreement with experts falls as the number of verdicts per call grows. We identify sharding as the intervention that mitigates this failure in model-based oversight. Sharding partitions the re",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.06422v1 Announce Type: new Abstract: Giving an LLM judge more compute does not necessarily make it check more requirements. When one call must return many verdicts, some decisions become weakly grounded in the evidence, even when that call receives the same token or tool budget as a panel of separate calls. Across expert-graded research replications, legal work, and clinical-trial assessments, agreement with experts falls as the number of verdicts per call grows. We identify sharding as the intervention that mitigates this failure in model-based oversight. Sharding partitions the re",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.06422",
-      "featured": false
-    },
-    {
-      "id": "2c00bbe75c3d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "15시간 전 / 15h ago",
-      "title": "Adversarial Causal Intervention Falsification",
-      "titleKo": "",
-      "summary": "arXiv:2608.06427v1 Announce Type: new Abstract: Generative models can reproduce an observational distribution while encoding an incorrect causal structure. We study a sequential game in which a structural causal generator proposes observational and interventional distributions, while an adversarial experimentalist selects interventions intended to maximally falsify the generator. The discriminator is therefore not merely a real-versus-synthetic classifier: it is indexed by an intervention and tests whether the generator reproduces the corresponding post-intervention law. We introduce Adversari",
-      "aiSummary": "arXiv:2608.06427v1 Announce Type: new Abstract: Generative models can reproduce an observational distribution while encoding an incorrect causal structure. We study a sequential game in which a structural causal generator proposes observational and interventional distributions, while an adversarial experimentalist selects interventions intended to maximally falsify the generator. The discriminator is therefore not merely a real-versus-synthetic classifier: it is indexed by an intervention and tests whether the generator reproduces the corresponding post-intervention law. We introduce Adversari",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.06427v1 Announce Type: new Abstract: Generative models can reproduce an observational distribution while encoding an incorrect causal structure. We study a sequential game in which a structural causal generator proposes observational and interventional distributions, while an adversarial experimentalist selects interventions intended to maximally falsify the generator. The discriminator is therefore not merely a real-versus-synthetic classifier: it is indexed by an intervention and tests whether the generator reproduces the corresponding post-intervention law. We introduce Adversari",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.06427",
-      "featured": false
-    },
-    {
-      "id": "dc6cf4d77096",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "13시간 전 / 13h ago",
-      "title": "International Transfer of Stochastic Cortical Self-Reconstruction",
-      "titleKo": "",
-      "summary": "arXiv:2608.07092v1 Announce Type: cross Abstract: Stochastic cortical self-reconstruction (SCSR) enables personalized mapping of gray matter atrophy, a hallmark of neurodegenerative disorders such as Alzheimer's disease (AD), onto high-resolution cortical surfaces. Unlike conventional normative modeling approaches, which typically operate at a coarse regional level and remain inherently constrained by the covariates included during training, SCSR estimates an individualized healthy reference directly from the observed cortical thickness at the vertex level. This allows the detection of subtle,",
-      "aiSummary": "arXiv:2608.07092v1 Announce Type: cross Abstract: Stochastic cortical self-reconstruction (SCSR) enables personalized mapping of gray matter atrophy, a hallmark of neurodegenerative disorders such as Alzheimer's disease (AD), onto high-resolution cortical surfaces. Unlike conventional normative modeling approaches, which typically operate at a coarse regional level and remain inherently constrained by the covariates included during training, SCSR estimates an individualized healthy reference directly from the observed cortical thickness at the vertex level. This allows the detection of subtle,",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.07092v1 Announce Type: cross Abstract: Stochastic cortical self-reconstruction (SCSR) enables personalized mapping of gray matter atrophy, a hallmark of neurodegenerative disorders such as Alzheimer's disease (AD), onto high-resolution cortical surfaces. Unlike conventional normative modeling approaches, which typically operate at a coarse regional level and remain inherently constrained by the covariates included during training, SCSR estimates an individualized healthy reference directly from the observed cortical thickness at the vertex level. This allows the detection of subtle,",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.07092",
       "featured": false
     }
   ]
