@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T10:27:46.037774+00:00",
+  "updated": "2026-08-15T11:25:02.773662+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "3b361a127acb",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The science behind Simtriyo, the first ADHD medication to target three major neurotransmitters",
+      "titleKo": "",
+      "summary": "Centanafadine represents a new class of ADHD medication that uniquely targets three major brain chemicals. By preventing the reuptake of dopamine, noradrenaline, and serotonin, the daily tablet reduces hyperactivity while potentially offering broader mood-regulating benefits.",
+      "aiSummary": "Centanafadine represents a new class of ADHD medication that uniquely targets three major brain chemicals. By preventing the reuptake of dopamine, noradrenaline, and serotonin, the daily tablet reduces hyperactivity while potentially offering broader mood-regulating benefits.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Centanafadine represents a new class of ADHD medication that uniquely targets three major brain chemicals. By preventing the reuptake of dopamine, noradrenaline, and serotonin, the daily tablet reduces hyperactivity while potentially offering broader mood-regulating benefits.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-science-behind-simtriyo-the-first-adhd-medication-to-target-three-major-neurotransmitters/",
+      "featured": true
+    },
     {
       "id": "ed6c64ab236c",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent study indicates that consumers with manipulative or self-centered personality traits are surprisingly hostile toward brands that share those characteristics. Rather than feeling a sense of loyalty, these individuals are more likely to retaliate against toxic companies.",
       "keyPoints": [],
       "url": "https://www.psypost.org/when-consumer-similarity-backfires-dark-triad-personalities-punish-brands-that-act-like-them/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bfc2f32129cc",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "People all over the world consider morality a part of who they are. A large new study explores how age, gender, and cultural background shape whether individuals view their moral traits as a private compass or a public identity.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-culture-and-age-shape-the-way-people-view-their-own-morality/",
-      "featured": false
-    },
-    {
-      "id": "ac9571f7e6d1",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "9시간 전 / 9h ago",
-      "title": "Could a simple supplement combo help adolescents with ADHD stay on task?",
-      "titleKo": "",
-      "summary": "A single dose of caffeine and L-theanine may help teens with ADHD ignore distractions. Recent brainwave data indicates this nutritional combination enhances the brain's ability to process visual information and prevents attention from fading over time.",
-      "aiSummary": "A single dose of caffeine and L-theanine may help teens with ADHD ignore distractions. Recent brainwave data indicates this nutritional combination enhances the brain's ability to process visual information and prevents attention from fading over time.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A single dose of caffeine and L-theanine may help teens with ADHD ignore distractions. Recent brainwave data indicates this nutritional combination enhances the brain's ability to process visual information and prevents attention from fading over time.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/could-a-simple-supplement-combo-help-adolescents-with-adhd-stay-on-task/",
       "featured": false
     }
   ]
