@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-15T17:25:02.051831+00:00",
+  "updated": "2026-08-15T18:36:54.235823+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ee35832251c3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Insomnia drug lemborexant reduces the gap between perceived and actual sleep",
+      "titleKo": "",
+      "summary": "A recent study reveals that the insomnia drug lemborexant helps align how well patients think they slept with actual sleep data. This improved sleep perception is also linked to reduced daytime fatigue and better overall functioning.",
+      "aiSummary": "A recent study reveals that the insomnia drug lemborexant helps align how well patients think they slept with actual sleep data. This improved sleep perception is also linked to reduced daytime fatigue and better overall functioning.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study reveals that the insomnia drug lemborexant helps align how well patients think they slept with actual sleep data. This improved sleep perception is also linked to reduced daytime fatigue and better overall functioning.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/insomnia-drug-lemborexant-reduces-the-gap-between-perceived-and-actual-sleep/",
+      "featured": true
+    },
+    {
+      "id": "7c730cbdf9c5",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+      "titleKo": "",
+      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
+      "aiSummary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+      "featured": false
+    },
     {
       "id": "e9fabd6b24d8",
       "tag": "neuro",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bc34fbfbfab1",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. This paper proposes no new mitigation; it supplies a causal apparatus, empirical findings, and a detection-limit result. A four-run apparatus prices the route-mediated fraction (RMF) of quantization damage, a token-level attribution decomposes it by mechanism, and pre-registered probes carry the findi",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.11212",
-      "featured": false
-    },
-    {
-      "id": "177ff7df7d62",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "23시간 전 / 23h ago",
-      "title": "Metacognitive Skill Learning: A Computational Account",
-      "titleKo": "",
-      "summary": "arXiv:2608.12393v1 Announce Type: new Abstract: This dissertation presents the first formal theory of metacognitive skill learning. Metacognition, the capacity to monitor and control one's own cognitive processes, has been widely studied, yet the field still lacks a theoretical framework explaining how metacognitive abilities are learned. This gap limits progress in both theory and application across fields such as cognitive science, education, therapeutic practice, and artificial intelligence. The account developed here builds on classic models of skill acquisition from perceptual-motor and c",
-      "aiSummary": "arXiv:2608.12393v1 Announce Type: new Abstract: This dissertation presents the first formal theory of metacognitive skill learning. Metacognition, the capacity to monitor and control one's own cognitive processes, has been widely studied, yet the field still lacks a theoretical framework explaining how metacognitive abilities are learned. This gap limits progress in both theory and application across fields such as cognitive science, education, therapeutic practice, and artificial intelligence. The account developed here builds on classic models of skill acquisition from perceptual-motor and c",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.12393v1 Announce Type: new Abstract: This dissertation presents the first formal theory of metacognitive skill learning. Metacognition, the capacity to monitor and control one's own cognitive processes, has been widely studied, yet the field still lacks a theoretical framework explaining how metacognitive abilities are learned. This gap limits progress in both theory and application across fields such as cognitive science, education, therapeutic practice, and artificial intelligence. The account developed here builds on classic models of skill acquisition from perceptual-motor and c",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.12393",
-      "featured": false
-    },
-    {
-      "id": "5ba83a0688d1",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "16시간 전 / 16h ago",
-      "title": "A stress hormone may help the brain repair itself",
-      "titleKo": "",
-      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
-      "aiSummary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
       "featured": false
     }
   ]
