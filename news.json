@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T04:36:50.252455+00:00",
+  "updated": "2026-08-15T05:29:47.866239+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "7c18e3fb8d77",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "40일 전 / 40d ago",
+      "title": "Behavioral Scientist’s Summer Book List 2026",
+      "titleKo": "",
+      "summary": "For your intellectual travels this summer, we’ve curated a baker’s dozen of behavioral science books newly published this year. Explore the mysteries of life and consciousness, glimpse the power of constraints and the games that define our lives, navigate life’s cliffs, and find the places that will make you who you are. — Heather Graci, Editor and Evan Nesterak, Editor-in-Chief Exploring life, death, and consciousness “Life begins, with a spark of sentience catalyzed by chemistry and chance, and then it ends, with death,” writes Maria Popova. “The great mystery is not the fable of what lies b",
+      "aiSummary": "For your intellectual travels this summer, we’ve curated a baker’s dozen of behavioral science books newly published this year. Explore the mysteries of life and consciousness, glimpse the power of constraints and the games that define our lives, navigate life’s cliffs, and find the places that will make you who you are. — Heather Graci, Editor and Evan Nesterak, Editor-in-Chief Exploring life, death, and consciousness “Life begins, with a spark of sentience catalyzed by chemistry and chance, and then it ends, with death,” writes Maria Popova. “The great mystery is not the fable of what lies b",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "For your intellectual travels this summer, we’ve curated a baker’s dozen of behavioral science books newly published this year. Explore the mysteries of life and consciousness, glimpse the power of constraints and the games that define our lives, navigate life’s cliffs, and find the places that will make you who you are. — Heather Graci, Editor and Evan Nesterak, Editor-in-Chief Exploring life, death, and consciousness “Life begins, with a spark of sentience catalyzed by chemistry and chance, and then it ends, with death,” writes Maria Popova. “The great mystery is not the fable of what lies b",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/behavioral-scientists-summer-book-list-2026/",
+      "featured": true
+    },
     {
       "id": "1def9f037674",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "As animals learn to self-administer cocaine, specific brain networks rapidly expand and then shrink. Using advanced imaging, researchers discovered that the cells controlling this addictive habit constantly swap in and out, revealing a highly flexible neurological process.",
       "keyPoints": [],
       "url": "https://www.psypost.org/fluid-brain-circuits-drive-the-formation-of-cocaine-habits/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3695b874da57",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.12422v1 Announce Type: new Abstract: Two free satellite signals carry real information about glacial-lake outburst risk in the Nepal Himalaya: radar interferometry sees a moraine dam slowly sagging, and satellite weather marks the weeks when a primed lake is under stress. A companion feasibility study found that deformation indicates which lake is destabilizing and weather indicates when it is at risk, but proposed no predictive model. To address this gap, we propose and evaluate models that predict which site is susceptible and when a trigger arrives. We test three related hazards ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.12422",
-      "featured": false
-    },
-    {
-      "id": "bfc2f32129cc",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "38일 전 / 38d ago",
-      "title": "What It’s Like to Be…a Civil Aviation Engineer",
-      "titleKo": "",
-      "summary": "Designing runways for hot air and heavy planes, inspecting pavement cracks with measuring wheels, and protecting vicious little owls from construction crews with Eileen Vélez-Vega , a civil aviation engineer in Puerto Rico. What does the color of runway lights reveal to a pilot? And what's a “spall”? [buzzsprout episode='19322848' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution par",
-      "aiSummary": "Designing runways for hot air and heavy planes, inspecting pavement cracks with measuring wheels, and protecting vicious little owls from construction crews with Eileen Vélez-Vega , a civil aviation engineer in Puerto Rico. What does the color of runway lights reveal to a pilot? And what's a “spall”? [buzzsprout episode='19322848' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution par",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Designing runways for hot air and heavy planes, inspecting pavement cracks with measuring wheels, and protecting vicious little owls from construction crews with Eileen Vélez-Vega , a civil aviation engineer in Puerto Rico. What does the color of runway lights reveal to a pilot? And what's a “spall”? [buzzsprout episode='19322848' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution par",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-civil-aviation-engineer/",
       "featured": false
     }
   ]
