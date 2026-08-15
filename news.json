@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-15T21:26:22.501777+00:00",
+  "updated": "2026-08-15T22:27:32.115740+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "48dd25224e58",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Childhood adversity linked to altered physical response during stress",
+      "titleKo": "",
+      "summary": "Early life trauma might fundamentally alter how the body handles psychological stress. A new study reveals that adults with a history of childhood adversity show muted blood pressure responses during stressful tasks and take longer to recover afterward.",
+      "aiSummary": "Early life trauma might fundamentally alter how the body handles psychological stress. A new study reveals that adults with a history of childhood adversity show muted blood pressure responses during stressful tasks and take longer to recover afterward.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Early life trauma might fundamentally alter how the body handles psychological stress. A new study reveals that adults with a history of childhood adversity show muted blood pressure responses during stressful tasks and take longer to recover afterward.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/childhood-adversity-linked-to-muted-blood-pressure-response-during-stress/",
+      "featured": true
+    },
+    {
+      "id": "a5cfea95d9ea",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "18시간 전 / 18h ago",
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "titleKo": "",
+      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
+      "aiSummary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2608.12346",
+      "featured": false
+    },
     {
       "id": "12a63dcfeade",
       "tag": "ai",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and suppo",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.12368",
-      "featured": true
+      "featured": false
     },
     {
       "id": "509069d8b552",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "As animals learn to self-administer cocaine, specific brain networks rapidly expand and then shrink. Using advanced imaging, researchers discovered that the cells controlling this addictive habit constantly swap in and out, revealing a highly flexible neurological process.",
       "keyPoints": [],
       "url": "https://www.psypost.org/fluid-brain-circuits-drive-the-formation-of-cocaine-habits/",
-      "featured": false
-    },
-    {
-      "id": "3695b874da57",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "방금 전 / Just now",
-      "title": "Position: Reasoning is a Learnable Rule-Based Process",
-      "titleKo": "",
-      "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiable automated reasoning. This position contends that definitional ambiguity leaves the construct valid",
-      "aiSummary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiable automated reasoning. This position contends that definitional ambiguity leaves the construct valid",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiable automated reasoning. This position contends that definitional ambiguity leaves the construct valid",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.12325",
-      "featured": false
-    },
-    {
-      "id": "bdea41f6ff14",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "방금 전 / Just now",
-      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-      "titleKo": "",
-      "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants, we find that under peak pressure, models fail roughly 1 in 3 integrity-critical decisions, and nei",
-      "aiSummary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants, we find that under peak pressure, models fail roughly 1 in 3 integrity-critical decisions, and nei",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants, we find that under peak pressure, models fail roughly 1 in 3 integrity-critical decisions, and nei",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.12345",
       "featured": false
     }
   ]
