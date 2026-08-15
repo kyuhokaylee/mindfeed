@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T09:30:28.850260+00:00",
+  "updated": "2026-08-15T10:27:46.037774+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ed6c64ab236c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "When consumer similarity backfires: Dark Triad personalities punish brands that act like them",
+      "titleKo": "",
+      "summary": "A recent study indicates that consumers with manipulative or self-centered personality traits are surprisingly hostile toward brands that share those characteristics. Rather than feeling a sense of loyalty, these individuals are more likely to retaliate against toxic companies.",
+      "aiSummary": "A recent study indicates that consumers with manipulative or self-centered personality traits are surprisingly hostile toward brands that share those characteristics. Rather than feeling a sense of loyalty, these individuals are more likely to retaliate against toxic companies.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study indicates that consumers with manipulative or self-centered personality traits are surprisingly hostile toward brands that share those characteristics. Rather than feeling a sense of loyalty, these individuals are more likely to retaliate against toxic companies.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/when-consumer-similarity-backfires-dark-triad-personalities-punish-brands-that-act-like-them/",
+      "featured": true
+    },
     {
       "id": "bfc2f32129cc",
       "tag": "behav",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Designing runways for hot air and heavy planes, inspecting pavement cracks with measuring wheels, and protecting vicious little owls from construction crews with Eileen Vélez-Vega , a civil aviation engineer in Puerto Rico. What does the color of runway lights reveal to a pilot? And what's a “spall”? [buzzsprout episode='19322848' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution par",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-civil-aviation-engineer/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7c18e3fb8d77",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A single dose of caffeine and L-theanine may help teens with ADHD ignore distractions. Recent brainwave data indicates this nutritional combination enhances the brain's ability to process visual information and prevents attention from fading over time.",
       "keyPoints": [],
       "url": "https://www.psypost.org/could-a-simple-supplement-combo-help-adolescents-with-adhd-stay-on-task/",
-      "featured": false
-    },
-    {
-      "id": "26329c78bec0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "21시간 전 / 21h ago",
-      "title": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining",
-      "titleKo": "",
-      "summary": "arXiv:2608.12419v1 Announce Type: new Abstract: Large language models (LLMs) have achieved remarkable breakthroughs across various applications. However, their architectures remain inefficient in pretraining due to two main limitations: (i) self-attention lacks an explicit inductive bias for locality, leading to redundant modeling of sequence-internal local information; (ii) mixture-of-experts (MoE) implicitly couples knowledge storage with computational pathways, hindering flexible access to sequence-external global knowledge. To overcome these limitations, we propose LoKiFormer, a novel LLM ",
-      "aiSummary": "arXiv:2608.12419v1 Announce Type: new Abstract: Large language models (LLMs) have achieved remarkable breakthroughs across various applications. However, their architectures remain inefficient in pretraining due to two main limitations: (i) self-attention lacks an explicit inductive bias for locality, leading to redundant modeling of sequence-internal local information; (ii) mixture-of-experts (MoE) implicitly couples knowledge storage with computational pathways, hindering flexible access to sequence-external global knowledge. To overcome these limitations, we propose LoKiFormer, a novel LLM ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.12419v1 Announce Type: new Abstract: Large language models (LLMs) have achieved remarkable breakthroughs across various applications. However, their architectures remain inefficient in pretraining due to two main limitations: (i) self-attention lacks an explicit inductive bias for locality, leading to redundant modeling of sequence-internal local information; (ii) mixture-of-experts (MoE) implicitly couples knowledge storage with computational pathways, hindering flexible access to sequence-external global knowledge. To overcome these limitations, we propose LoKiFormer, a novel LLM ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.12419",
       "featured": false
     }
   ]
