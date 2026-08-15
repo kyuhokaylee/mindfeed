@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T19:25:10.327488+00:00",
+  "updated": "2026-08-15T20:28:13.389395+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "509069d8b552",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Adolescent binge drinking permanently alters adult brain sensitivity to alcohol",
+      "titleKo": "",
+      "summary": "A mouse study reveals that heavy alcohol use during adolescence alters hippocampal nerve cells, creating a lifelong sensitivity to alcohol. Fortunately, scientists found that a medication used for alcohol use disorders can restore normal brain function.",
+      "aiSummary": "A mouse study reveals that heavy alcohol use during adolescence alters hippocampal nerve cells, creating a lifelong sensitivity to alcohol. Fortunately, scientists found that a medication used for alcohol use disorders can restore normal brain function.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A mouse study reveals that heavy alcohol use during adolescence alters hippocampal nerve cells, creating a lifelong sensitivity to alcohol. Fortunately, scientists found that a medication used for alcohol use disorders can restore normal brain function.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/adolescent-binge-drinking-permanently-alters-adult-brain-sensitivity-to-alcohol/",
+      "featured": true
+    },
     {
       "id": "5ba83a0688d1",
       "tag": "neuro",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ee35832251c3",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.12346",
-      "featured": false
-    },
-    {
-      "id": "12a63dcfeade",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "방금 전 / Just now",
-      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-      "titleKo": "",
-      "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and suppo",
-      "aiSummary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and suppo",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and suppo",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.12368",
       "featured": false
     }
   ]
