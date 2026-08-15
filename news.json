@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T18:36:54.235823+00:00",
+  "updated": "2026-08-15T19:25:10.327488+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5ba83a0688d1",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "A stress hormone may help the brain repair itself",
+      "titleKo": "",
+      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
+      "aiSummary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+      "featured": true
+    },
     {
       "id": "ee35832251c3",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent study reveals that the insomnia drug lemborexant helps align how well patients think they slept with actual sleep data. This improved sleep perception is also linked to reduced daytime fatigue and better overall functioning.",
       "keyPoints": [],
       "url": "https://www.psypost.org/insomnia-drug-lemborexant-reduces-the-gap-between-perceived-and-actual-sleep/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7c730cbdf9c5",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and suppo",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.12368",
-      "featured": false
-    },
-    {
-      "id": "1c0d9a88fbc4",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "23시간 전 / 23h ago",
-      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-      "titleKo": "",
-      "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. This paper proposes no new mitigation; it supplies a causal apparatus, empirical findings, and a detection-limit result. A four-run apparatus prices the route-mediated fraction (RMF) of quantization damage, a token-level attribution decomposes it by mechanism, and pre-registered probes carry the findi",
-      "aiSummary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. This paper proposes no new mitigation; it supplies a causal apparatus, empirical findings, and a detection-limit result. A four-run apparatus prices the route-mediated fraction (RMF) of quantization damage, a token-level attribution decomposes it by mechanism, and pre-registered probes carry the findi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. This paper proposes no new mitigation; it supplies a causal apparatus, empirical findings, and a detection-limit result. A four-run apparatus prices the route-mediated fraction (RMF) of quantization damage, a token-level attribution decomposes it by mechanism, and pre-registered probes carry the findi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.11212",
       "featured": false
     }
   ]
