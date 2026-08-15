@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T15:26:09.873842+00:00",
+  "updated": "2026-08-15T16:31:02.273738+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "bc34fbfbfab1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Why some socially anxious people lash out in anger",
+      "titleKo": "",
+      "summary": "While social anxiety is usually associated with avoiding conflict, a new study reveals that socially anxious individuals who also possess traits of vulnerable narcissism are more likely to respond to perceived social threats with hostility and aggression.",
+      "aiSummary": "While social anxiety is usually associated with avoiding conflict, a new study reveals that socially anxious individuals who also possess traits of vulnerable narcissism are more likely to respond to perceived social threats with hostility and aggression.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "While social anxiety is usually associated with avoiding conflict, a new study reveals that socially anxious individuals who also possess traits of vulnerable narcissism are more likely to respond to perceived social threats with hostility and aggression.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/why-some-socially-anxious-people-lash-out-in-anger/",
+      "featured": true
+    },
     {
       "id": "0bb12380ac86",
       "tag": "behav",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9af69dac58af",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
-      "featured": false
-    },
-    {
-      "id": "e9fabd6b24d8",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "16시간 전 / 16h ago",
-      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
-      "titleKo": "",
-      "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
-      "aiSummary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
       "featured": false
     }
   ]
