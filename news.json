@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T11:25:02.773662+00:00",
+  "updated": "2026-08-15T12:48:28.938245+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ba860900a7e8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Repurposing a blood pressure drug for anxiety reveals unexpected sex differences in attention",
+      "titleKo": "",
+      "summary": "A common blood pressure medication shows promise for reducing anxiety, but a new study reveals a surprising catch: it alters how the brain processes distractions, affecting men’s and women’s focus in completely opposite ways.",
+      "aiSummary": "A common blood pressure medication shows promise for reducing anxiety, but a new study reveals a surprising catch: it alters how the brain processes distractions, affecting men’s and women’s focus in completely opposite ways.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A common blood pressure medication shows promise for reducing anxiety, but a new study reveals a surprising catch: it alters how the brain processes distractions, affecting men’s and women’s focus in completely opposite ways.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/repurposing-a-blood-pressure-drug-for-anxiety-reveals-unexpected-sex-differences-in-attention/",
+      "featured": true
+    },
     {
       "id": "3b361a127acb",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Centanafadine represents a new class of ADHD medication that uniquely targets three major brain chemicals. By preventing the reuptake of dopamine, noradrenaline, and serotonin, the daily tablet reduces hyperactivity while potentially offering broader mood-regulating benefits.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-science-behind-simtriyo-the-first-adhd-medication-to-target-three-major-neurotransmitters/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ed6c64ab236c",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
-      "featured": false
-    },
-    {
-      "id": "3c1a1c20a1ad",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Women globally place higher importance on moral identity than men",
-      "titleKo": "",
-      "summary": "People all over the world consider morality a part of who they are. A large new study explores how age, gender, and cultural background shape whether individuals view their moral traits as a private compass or a public identity.",
-      "aiSummary": "People all over the world consider morality a part of who they are. A large new study explores how age, gender, and cultural background shape whether individuals view their moral traits as a private compass or a public identity.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "People all over the world consider morality a part of who they are. A large new study explores how age, gender, and cultural background shape whether individuals view their moral traits as a private compass or a public identity.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-culture-and-age-shape-the-way-people-view-their-own-morality/",
       "featured": false
     }
   ]
