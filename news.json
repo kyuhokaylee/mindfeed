@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-15T13:34:24.767022+00:00",
+  "updated": "2026-08-15T14:28:23.641974+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c2f8c0ebd852",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The biology of fandom: Live sports synchronize spectator heart rates and elevate oxytocin",
+      "titleKo": "",
+      "summary": "New research suggests attending a local college basketball game can synchronize fans' heart rates and stimulate the release of oxytocin. These biological changes are linked to a stronger sense of unity and enjoyment among the crowd.",
+      "aiSummary": "New research suggests attending a local college basketball game can synchronize fans' heart rates and stimulate the release of oxytocin. These biological changes are linked to a stronger sense of unity and enjoyment among the crowd.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research suggests attending a local college basketball game can synchronize fans' heart rates and stimulate the release of oxytocin. These biological changes are linked to a stronger sense of unity and enjoyment among the crowd.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-biology-of-fandom-live-sports-synchronize-spectator-heart-rates-and-elevate-oxytocin/",
+      "featured": true
+    },
+    {
+      "id": "e363202bdd8e",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
+      "titleKo": "",
+      "summary": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
+      "aiSummary": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
+      "featured": false
+    },
     {
       "id": "9eeea6002f5c",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "When a politician is caught in a sex scandal, their spouse’s reaction can shape the public fallout. A new experiment reveals that voters judge unfaithful candidates far more harshly if their spouse decides to end the marriage.",
       "keyPoints": [],
       "url": "https://www.psypost.org/voters-punish-politicians-more-for-infidelity-if-their-spouse-leaves-them/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ba860900a7e8",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors from scientific literature is slow and needs both domain and statistical expertise. We present \\textbf{Distribird}, an agentic web application that automates this process. Given a parameter name, physical description, and domain context, Distribird deploys a multi-agent pipeline that searches the litera",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.11210",
-      "featured": false
-    },
-    {
-      "id": "0bb12380ac86",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "26일 전 / 26d ago",
-      "title": "Journey to Robbers Cave",
-      "titleKo": "",
-      "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "aiSummary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-      "featured": false
-    },
-    {
-      "id": "9af69dac58af",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "31일 전 / 31d ago",
-      "title": "What It’s Like to Be…an Airport CEO",
-      "titleKo": "",
-      "summary": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
-      "aiSummary": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-airport-ceo/",
       "featured": false
     }
   ]
