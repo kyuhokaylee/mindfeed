@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T12:48:28.938245+00:00",
+  "updated": "2026-08-15T13:34:24.767022+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9eeea6002f5c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Voters punish politicians more for infidelity if their spouse leaves them",
+      "titleKo": "",
+      "summary": "When a politician is caught in a sex scandal, their spouse’s reaction can shape the public fallout. A new experiment reveals that voters judge unfaithful candidates far more harshly if their spouse decides to end the marriage.",
+      "aiSummary": "When a politician is caught in a sex scandal, their spouse’s reaction can shape the public fallout. A new experiment reveals that voters judge unfaithful candidates far more harshly if their spouse decides to end the marriage.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When a politician is caught in a sex scandal, their spouse’s reaction can shape the public fallout. A new experiment reveals that voters judge unfaithful candidates far more harshly if their spouse decides to end the marriage.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/voters-punish-politicians-more-for-infidelity-if-their-spouse-leaves-them/",
+      "featured": true
+    },
     {
       "id": "ba860900a7e8",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A common blood pressure medication shows promise for reducing anxiety, but a new study reveals a surprising catch: it alters how the brain processes distractions, affecting men’s and women’s focus in completely opposite ways.",
       "keyPoints": [],
       "url": "https://www.psypost.org/repurposing-a-blood-pressure-drug-for-anxiety-reveals-unexpected-sex-differences-in-attention/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3b361a127acb",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-an-airport-ceo/",
-      "featured": false
-    },
-    {
-      "id": "e363202bdd8e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
-      "titleKo": "",
-      "summary": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
-      "aiSummary": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
       "featured": false
     }
   ]
