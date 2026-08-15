@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T20:28:13.389395+00:00",
+  "updated": "2026-08-15T21:26:22.501777+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "12a63dcfeade",
+      "tag": "ai",
+      "tagLabel": "AI 연구 / AI Research",
+      "source": "arXiv – cs.AI",
+      "time": "17시간 전 / 17h ago",
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "titleKo": "",
+      "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and suppo",
+      "aiSummary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and suppo",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and suppo",
+      "keyPoints": [],
+      "url": "https://arxiv.org/abs/2608.12368",
+      "featured": true
+    },
     {
       "id": "509069d8b552",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A mouse study reveals that heavy alcohol use during adolescence alters hippocampal nerve cells, creating a lifelong sensitivity to alcohol. Fortunately, scientists found that a medication used for alcohol use disorders can restore normal brain function.",
       "keyPoints": [],
       "url": "https://www.psypost.org/adolescent-binge-drinking-permanently-alters-adult-brain-sensitivity-to-alcohol/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5ba83a0688d1",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants, we find that under peak pressure, models fail roughly 1 in 3 integrity-critical decisions, and nei",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.12345",
-      "featured": false
-    },
-    {
-      "id": "a5cfea95d9ea",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "방금 전 / Just now",
-      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-      "titleKo": "",
-      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
-      "aiSummary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.12346",
       "featured": false
     }
   ]
