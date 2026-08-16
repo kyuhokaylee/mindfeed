@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15T23:25:26.599342+00:00",
+  "updated": "2026-08-16T01:42:53.166883+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6b5359ed441c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "The partisan divide over civil rights legislation widened abruptly in the 1990s and 2010s",
+      "titleKo": "",
+      "summary": "Legislative support for civil rights in Congress has grown over the past fifty years, but this support is increasingly divided by party. A new study indicates this polarization accelerated sharply during the 1990s and 2010s.",
+      "aiSummary": "Legislative support for civil rights in Congress has grown over the past fifty years, but this support is increasingly divided by party. A new study indicates this polarization accelerated sharply during the 1990s and 2010s.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Legislative support for civil rights in Congress has grown over the past fifty years, but this support is increasingly divided by party. A new study indicates this polarization accelerated sharply during the 1990s and 2010s.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-partisan-divide-over-civil-rights-legislation-widened-abruptly-in-the-1990s-and-2010s/",
+      "featured": true
+    },
     {
       "id": "3695b874da57",
       "tag": "ai",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiable automated reasoning. This position contends that definitional ambiguity leaves the construct valid",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.12325",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bdea41f6ff14",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A recent study indicates that consumers with manipulative or self-centered personality traits are surprisingly hostile toward brands that share those characteristics. Rather than feeling a sense of loyalty, these individuals are more likely to retaliate against toxic companies.",
       "keyPoints": [],
       "url": "https://www.psypost.org/when-consumer-similarity-backfires-dark-triad-personalities-punish-brands-that-act-like-them/",
-      "featured": false
-    },
-    {
-      "id": "bfc2f32129cc",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "38일 전 / 38d ago",
-      "title": "What It’s Like to Be…a Civil Aviation Engineer",
-      "titleKo": "",
-      "summary": "Designing runways for hot air and heavy planes, inspecting pavement cracks with measuring wheels, and protecting vicious little owls from construction crews with Eileen Vélez-Vega , a civil aviation engineer in Puerto Rico. What does the color of runway lights reveal to a pilot? And what's a “spall”? [buzzsprout episode='19322848' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution par",
-      "aiSummary": "Designing runways for hot air and heavy planes, inspecting pavement cracks with measuring wheels, and protecting vicious little owls from construction crews with Eileen Vélez-Vega , a civil aviation engineer in Puerto Rico. What does the color of runway lights reveal to a pilot? And what's a “spall”? [buzzsprout episode='19322848' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution par",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Designing runways for hot air and heavy planes, inspecting pavement cracks with measuring wheels, and protecting vicious little owls from construction crews with Eileen Vélez-Vega , a civil aviation engineer in Puerto Rico. What does the color of runway lights reveal to a pilot? And what's a “spall”? [buzzsprout episode='19322848' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution par",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-civil-aviation-engineer/",
       "featured": false
     }
   ]
