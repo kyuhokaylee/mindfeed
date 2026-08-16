@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16T09:32:27.507150+00:00",
+  "updated": "2026-08-16T10:28:11.643881+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5b646d674a43",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Doomscrolling political news during your downtime predicts reduced engagement at work",
+      "titleKo": "",
+      "summary": "Consuming political news outside of work is associated with how employees feel on the job. A new study suggests negative media predicts workplace anxiety, while positive content is linked to increased hope and helpfulness.",
+      "aiSummary": "Consuming political news outside of work is associated with how employees feel on the job. A new study suggests negative media predicts workplace anxiety, while positive content is linked to increased hope and helpfulness.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Consuming political news outside of work is associated with how employees feel on the job. A new study suggests negative media predicts workplace anxiety, while positive content is linked to increased hope and helpfulness.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/doomscrolling-political-news-during-your-downtime-predicts-reduced-engagement-at-work/",
+      "featured": true
+    },
     {
       "id": "bfc2f32129cc",
       "tag": "behav",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Designing runways for hot air and heavy planes, inspecting pavement cracks with measuring wheels, and protecting vicious little owls from construction crews with Eileen Vélez-Vega , a civil aviation engineer in Puerto Rico. What does the color of runway lights reveal to a pilot? And what's a “spall”? [buzzsprout episode='19322848' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a distribution par",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-civil-aviation-engineer/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7c18e3fb8d77",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "When a politician is caught in a sex scandal, their spouse’s reaction can shape the public fallout. A new experiment reveals that voters judge unfaithful candidates far more harshly if their spouse decides to end the marriage.",
       "keyPoints": [],
       "url": "https://www.psypost.org/voters-punish-politicians-more-for-infidelity-if-their-spouse-leaves-them/",
-      "featured": false
-    },
-    {
-      "id": "ba860900a7e8",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Repurposing a blood pressure drug for anxiety reveals unexpected sex differences in attention",
-      "titleKo": "",
-      "summary": "A common blood pressure medication shows promise for reducing anxiety, but a new study reveals a surprising catch: it alters how the brain processes distractions, affecting men’s and women’s focus in completely opposite ways.",
-      "aiSummary": "A common blood pressure medication shows promise for reducing anxiety, but a new study reveals a surprising catch: it alters how the brain processes distractions, affecting men’s and women’s focus in completely opposite ways.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A common blood pressure medication shows promise for reducing anxiety, but a new study reveals a surprising catch: it alters how the brain processes distractions, affecting men’s and women’s focus in completely opposite ways.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/repurposing-a-blood-pressure-drug-for-anxiety-reveals-unexpected-sex-differences-in-attention/",
       "featured": false
     }
   ]
