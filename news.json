@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16T10:28:11.643881+00:00",
+  "updated": "2026-08-16T11:24:49.704563+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b16cbc3adb01",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Psychedelic drug calms hyperactive brain cells linked to chronic pain",
+      "titleKo": "",
+      "summary": "A single dose of psilocybin rapidly relieved both chronic pain and depression-like symptoms in mice. Researchers discovered the psychedelic compound works by calming hyperactive neurons in a specific brain region associated with both conditions.",
+      "aiSummary": "A single dose of psilocybin rapidly relieved both chronic pain and depression-like symptoms in mice. Researchers discovered the psychedelic compound works by calming hyperactive neurons in a specific brain region associated with both conditions.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A single dose of psilocybin rapidly relieved both chronic pain and depression-like symptoms in mice. Researchers discovered the psychedelic compound works by calming hyperactive neurons in a specific brain region associated with both conditions.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-single-dose-of-psilocybin-relieves-chronic-pain-and-depression-in-mice/",
+      "featured": true
+    },
     {
       "id": "5b646d674a43",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Consuming political news outside of work is associated with how employees feel on the job. A new study suggests negative media predicts workplace anxiety, while positive content is linked to increased hope and helpfulness.",
       "keyPoints": [],
       "url": "https://www.psypost.org/doomscrolling-political-news-during-your-downtime-predicts-reduced-engagement-at-work/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bfc2f32129cc",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
-      "featured": false
-    },
-    {
-      "id": "9eeea6002f5c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Voters punish politicians more for infidelity if their spouse leaves them",
-      "titleKo": "",
-      "summary": "When a politician is caught in a sex scandal, their spouse’s reaction can shape the public fallout. A new experiment reveals that voters judge unfaithful candidates far more harshly if their spouse decides to end the marriage.",
-      "aiSummary": "When a politician is caught in a sex scandal, their spouse’s reaction can shape the public fallout. A new experiment reveals that voters judge unfaithful candidates far more harshly if their spouse decides to end the marriage.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "When a politician is caught in a sex scandal, their spouse’s reaction can shape the public fallout. A new experiment reveals that voters judge unfaithful candidates far more harshly if their spouse decides to end the marriage.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/voters-punish-politicians-more-for-infidelity-if-their-spouse-leaves-them/",
       "featured": false
     }
   ]
