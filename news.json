@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16T21:25:15.671702+00:00",
+  "updated": "2026-08-16T22:27:03.708576+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "588062f12ba7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Children can understand falsification through evidence as early as age 4",
+      "titleKo": "",
+      "summary": "The ability to argue using scientific evidence starts remarkably early. A new German study demonstrates that four-year-olds can effectively use evidence to refute false claims, a critical cognitive skill that expands significantly by age five.",
+      "aiSummary": "The ability to argue using scientific evidence starts remarkably early. A new German study demonstrates that four-year-olds can effectively use evidence to refute false claims, a critical cognitive skill that expands significantly by age five.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The ability to argue using scientific evidence starts remarkably early. A new German study demonstrates that four-year-olds can effectively use evidence to refute false claims, a critical cognitive skill that expands significantly by age five.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/children-can-understand-falsification-through-evidence-as-early-as-age-4/",
+      "featured": true
+    },
     {
       "id": "14ef864a5ff9",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent case report details how a 45-year-old man developed severe religious delusions and hallucinations after receiving prescribed testosterone injections. His undiagnosed genetic condition may have increased his vulnerability to these rare psychiatric side effects.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-man-began-hearing-voices-from-his-body-parts-after-receiving-testosterone-injections/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5ba83a0688d1",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Early life trauma might fundamentally alter how the body handles psychological stress. A new study reveals that adults with a history of childhood adversity show muted blood pressure responses during stressful tasks and take longer to recover afterward.",
       "keyPoints": [],
       "url": "https://www.psypost.org/childhood-adversity-linked-to-muted-blood-pressure-response-during-stress/",
-      "featured": false
-    },
-    {
-      "id": "a5cfea95d9ea",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-      "titleKo": "",
-      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
-      "aiSummary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user ado",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.12346",
       "featured": false
     }
   ]
