@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16T16:31:22.278351+00:00",
+  "updated": "2026-08-16T17:23:53.742404+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "7c730cbdf9c5",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+      "titleKo": "",
+      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
+      "aiSummary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+      "featured": true
+    },
     {
       "id": "5d61b56d0772",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Teens with depression show unique brain patterns when facing social rejection. A recent brain imaging study reveals that their amygdala fails to adapt to repeated social threats, keeping them on high alert during difficult peer interactions.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brains-of-teens-with-depression-remain-on-high-alert-to-social-rejection/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e9fabd6b24d8",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A mouse study reveals that heavy alcohol use during adolescence alters hippocampal nerve cells, creating a lifelong sensitivity to alcohol. Fortunately, scientists found that a medication used for alcohol use disorders can restore normal brain function.",
       "keyPoints": [],
       "url": "https://www.psypost.org/adolescent-binge-drinking-permanently-alters-adult-brain-sensitivity-to-alcohol/",
-      "featured": false
-    },
-    {
-      "id": "5ba83a0688d1",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "A stress hormone may help the brain repair itself",
-      "titleKo": "",
-      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
-      "aiSummary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
       "featured": false
     }
   ]
