@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16T14:28:09.536331+00:00",
+  "updated": "2026-08-16T15:26:46.832260+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "0bb12380ac86",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "27일 전 / 27d ago",
+      "title": "Journey to Robbers Cave",
+      "titleKo": "",
+      "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
+      "aiSummary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
+      "featured": true
+    },
     {
       "id": "a14ffd1d0166",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "As women increasingly outpace men in higher education, a new study indicates that college-educated women are maintaining stable marriage rates by partnering with men without degrees. This shift corresponds with declining marriage rates for women without degrees.",
       "keyPoints": [],
       "url": "https://www.psypost.org/college-women-are-increasingly-marrying-men-without-degrees-as-college-demographics-shift/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9af69dac58af",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
-      "featured": false
-    },
-    {
-      "id": "e9fabd6b24d8",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
-      "titleKo": "",
-      "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
-      "aiSummary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
       "featured": false
     }
   ]
