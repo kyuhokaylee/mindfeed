@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16T12:49:47.054048+00:00",
+  "updated": "2026-08-16T13:35:24.997560+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "000af5f9d667",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "How classical musicians experience the sensation of playing together",
+      "titleKo": "",
+      "summary": "A small study exploring how classical musicians experience togetherness reveals that establishing a profound connection requires more than technical precision. Performers rely on shared emotional understanding, adaptability, and visual cues to reach peak harmony during live concerts.",
+      "aiSummary": "A small study exploring how classical musicians experience togetherness reveals that establishing a profound connection requires more than technical precision. Performers rely on shared emotional understanding, adaptability, and visual cues to reach peak harmony during live concerts.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A small study exploring how classical musicians experience togetherness reveals that establishing a profound connection requires more than technical precision. Performers rely on shared emotional understanding, adaptability, and visual cues to reach peak harmony during live concerts.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-classical-musicians-experience-the-sensation-of-playing-together/",
+      "featured": true
+    },
     {
       "id": "250173b2691d",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent study found that during REM sleep, the brain receives a surge of blood and nutrients, yet energy levels inside neurons actually drop. This “energy paradox” suggests the sleeping brain dynamically reorganizes its metabolic resources.",
       "keyPoints": [],
       "url": "https://www.psypost.org/scientists-uncover-an-energy-paradox-in-the-brain-during-rem-sleep/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "335134f29ea1",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-      "featured": false
-    },
-    {
-      "id": "9af69dac58af",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "31일 전 / 31d ago",
-      "title": "What It’s Like to Be…an Airport CEO",
-      "titleKo": "",
-      "summary": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
-      "aiSummary": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-an-airport-ceo/",
       "featured": false
     }
   ]
