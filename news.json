@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-17T04:49:31.276405+00:00",
+  "updated": "2026-08-17T05:39:01.666327+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "335134f29ea1",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "17시간 전 / 17h ago",
+      "title": "A little movement in midlife could pay off for your brain years later",
+      "titleKo": "",
+      "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factors may differ across populations.",
+      "aiSummary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factors may differ across populations.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factors may differ across populations.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
+      "featured": true
+    },
     {
       "id": "aa69ef98e036",
       "tag": "ai",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "arXiv:2608.13564v1 Announce Type: new Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Such a judge is a reward-free proxy whose value depends on whether it can be trusted, yet existing judges either hand-write the scoring rubric, as in G-Eval, or fine-tune the judge's weights, and both tend to credit fluent but unsuccessful trajectories as successes. We instead induce the text of an agent-judging rubric from ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.13564",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9fdf15539889",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
-      "featured": false
-    },
-    {
-      "id": "0bb12380ac86",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "27일 전 / 27d ago",
-      "title": "Journey to Robbers Cave",
-      "titleKo": "",
-      "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "aiSummary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
       "featured": false
     }
   ]
