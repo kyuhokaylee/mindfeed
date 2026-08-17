@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16T23:25:24.397047+00:00",
+  "updated": "2026-08-17T01:40:56.530292+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "7e8bcd8b2aa7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Brain scans reveal lasting tissue and chemical changes in both long COVID and recovered patients",
+      "titleKo": "",
+      "summary": "Brain scans reveal that COVID-19 may leave a lasting physical imprint on the brain. A recent study found altered tissue structure and chemical imbalances in both long COVID patients and those who fully recovered from the virus.",
+      "aiSummary": "Brain scans reveal that COVID-19 may leave a lasting physical imprint on the brain. A recent study found altered tissue structure and chemical imbalances in both long COVID patients and those who fully recovered from the virus.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Brain scans reveal that COVID-19 may leave a lasting physical imprint on the brain. A recent study found altered tissue structure and chemical imbalances in both long COVID patients and those who fully recovered from the virus.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-scans-reveal-lasting-tissue-and-chemical-changes-in-both-long-covid-and-re/",
+      "featured": true
+    },
     {
       "id": "588062f12ba7",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "The ability to argue using scientific evidence starts remarkably early. A new German study demonstrates that four-year-olds can effectively use evidence to refute false claims, a critical cognitive skill that expands significantly by age five.",
       "keyPoints": [],
       "url": "https://www.psypost.org/children-can-understand-falsification-through-evidence-as-early-as-age-4/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "14ef864a5ff9",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants, we find that under peak pressure, models fail roughly 1 in 3 integrity-critical decisions, and nei",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.12345",
-      "featured": false
-    },
-    {
-      "id": "48dd25224e58",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Childhood adversity linked to altered physical response during stress",
-      "titleKo": "",
-      "summary": "Early life trauma might fundamentally alter how the body handles psychological stress. A new study reveals that adults with a history of childhood adversity show muted blood pressure responses during stressful tasks and take longer to recover afterward.",
-      "aiSummary": "Early life trauma might fundamentally alter how the body handles psychological stress. A new study reveals that adults with a history of childhood adversity show muted blood pressure responses during stressful tasks and take longer to recover afterward.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Early life trauma might fundamentally alter how the body handles psychological stress. A new study reveals that adults with a history of childhood adversity show muted blood pressure responses during stressful tasks and take longer to recover afterward.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/childhood-adversity-linked-to-muted-blood-pressure-response-during-stress/",
       "featured": false
     }
   ]
