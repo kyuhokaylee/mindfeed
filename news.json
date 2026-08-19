@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-19T06:52:57.180249+00:00",
+  "updated": "2026-08-19T07:43:25.663411+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2ecf9e77b1b0",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "13시간 전 / 13h ago",
+      "title": "Brain’s cannabinoid system links persistent anxiety to stronger alcohol reward learning",
+      "titleKo": "",
+      "summary": "Mice with persistent anxiety are quicker to learn about alcohol-related rewards than their less anxious peers. A new study reveals this connection is controlled by the brain’s endocannabinoid system, offering clues into anxiety and alcohol use disorders.",
+      "aiSummary": "Mice with persistent anxiety are quicker to learn about alcohol-related rewards than their less anxious peers. A new study reveals this connection is controlled by the brain’s endocannabinoid system, offering clues into anxiety and alcohol use disorders.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Mice with persistent anxiety are quicker to learn about alcohol-related rewards than their less anxious peers. A new study reveals this connection is controlled by the brain’s endocannabinoid system, offering clues into anxiety and alcohol use disorders.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brains-cannabinoid-system-links-persistent-anxiety-to-stronger-alcohol-reward-learning/",
+      "featured": true
+    },
+    {
+      "id": "9af69dac58af",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "35일 전 / 35d ago",
+      "title": "What It’s Like to Be…an Airport CEO",
+      "titleKo": "",
+      "summary": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
+      "aiSummary": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-airport-ceo/",
+      "featured": false
+    },
+    {
+      "id": "15355e751359",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "A therapy that “rewrites” childhood memories can ease fear of failure",
+      "titleKo": "",
+      "summary": "Childhood criticism can leave people carrying a fear of failure long into adulthood, but new research suggests those emotional patterns may be surprisingly flexible. Young adults who revisited painful memories through imagery-based therapy showed lasting reductions in fear, guilt, sadness, and stress.",
+      "aiSummary": "Childhood criticism can leave people carrying a fear of failure long into adulthood, but new research suggests those emotional patterns may be surprisingly flexible. Young adults who revisited painful memories through imagery-based therapy showed lasting reductions in fear, guilt, sadness, and stress.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Childhood criticism can leave people carrying a fear of failure long into adulthood, but new research suggests those emotional patterns may be surprisingly flexible. Young adults who revisited painful memories through imagery-based therapy showed lasting reductions in fear, guilt, sadness, and stress.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064833.htm",
+      "featured": false
+    },
     {
       "id": "f816288ae1ae",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A recent study in Intelligence &#038; Cognitive Abilities indicates that people with higher general intelligence tend to possess more specialized knowledge about wine. The research suggests cognitive ability drives the accumulation of deep facts without formal rewards.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-with-higher-iq-scores-tend-to-know-more-about-wine-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ffd26351830e",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2608.16971v1 Announce Type: new Abstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals have less local evidence, and pooling data may be infeasible. We introduce FedPref: frozen public language models propose alternative JSON extractions, local annotations rank them, and sites collaboratively train compact Qwen3-8B adapters while sharing only model updates. A heterogeneous teacher poo",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.16971",
-      "featured": false
-    },
-    {
-      "id": "ce91d9f6879e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "방금 전 / Just now",
-      "title": "Phase-based spatial ordinal patterns for characterizing oscillatory dynamics",
-      "titleKo": "",
-      "summary": "arXiv:2608.17196v1 Announce Type: cross Abstract: The emergence of organized spatiotemporal patterns is ubiquitous in oscillatory systems, from neural populations to engineered networks. Identifying these patterns and tracking how they evolve over time remains challenging, particularly when systems exhibit transient dynamics. Here, we introduce a framework based on spatial ordinal patterns to characterize the spatiotemporal dynamics of oscillatory systems. Our approach acts directly on the phase rather than the amplitude, with additional patterns introduced to account for near-equal phases. Th",
-      "aiSummary": "arXiv:2608.17196v1 Announce Type: cross Abstract: The emergence of organized spatiotemporal patterns is ubiquitous in oscillatory systems, from neural populations to engineered networks. Identifying these patterns and tracking how they evolve over time remains challenging, particularly when systems exhibit transient dynamics. Here, we introduce a framework based on spatial ordinal patterns to characterize the spatiotemporal dynamics of oscillatory systems. Our approach acts directly on the phase rather than the amplitude, with additional patterns introduced to account for near-equal phases. Th",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.17196v1 Announce Type: cross Abstract: The emergence of organized spatiotemporal patterns is ubiquitous in oscillatory systems, from neural populations to engineered networks. Identifying these patterns and tracking how they evolve over time remains challenging, particularly when systems exhibit transient dynamics. Here, we introduce a framework based on spatial ordinal patterns to characterize the spatiotemporal dynamics of oscillatory systems. Our approach acts directly on the phase rather than the amplitude, with additional patterns introduced to account for near-equal phases. Th",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.17196",
-      "featured": false
-    },
-    {
-      "id": "e0d3d316820b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "방금 전 / Just now",
-      "title": "Scientific Machine Learning of Chaotic Systems Learns Reduced-Order Equations for Neural Populations",
-      "titleKo": "",
-      "summary": "arXiv:2507.03631v5 Announce Type: replace-cross Abstract: Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with universal differential equations to discover governing equations from limited, noise-corrupted observations. Prediction-error feedback smooths the chaotic optimization problem; for noise-free data generated within the model class, it preserves the data-consistent zero-loss set, whereas noise and model m",
-      "aiSummary": "arXiv:2507.03631v5 Announce Type: replace-cross Abstract: Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with universal differential equations to discover governing equations from limited, noise-corrupted observations. Prediction-error feedback smooths the chaotic optimization problem; for noise-free data generated within the model class, it preserves the data-consistent zero-loss set, whereas noise and model m",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2507.03631v5 Announce Type: replace-cross Abstract: Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with universal differential equations to discover governing equations from limited, noise-corrupted observations. Prediction-error feedback smooths the chaotic optimization problem; for noise-free data generated within the model class, it preserves the data-consistent zero-loss set, whereas noise and model m",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2507.03631",
-      "featured": false
-    },
-    {
-      "id": "f6ab227f8d47",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "방금 전 / Just now",
-      "title": "Center-Manifold Reduction of Learning at Bifurcations: Interference and Rich Learning in Recurrent Neural Networks",
-      "titleKo": "",
-      "summary": "arXiv:2605.12763v2 Announce Type: replace-cross Abstract: Rich learning in recurrent neural networks often proceeds through sudden transitions in latent dynamics, but there is little theory predicting how gradient descent behaves during these events. We study the local learning geometry near codimension-one bifurcations through the global empirical Neural Tangent Kernel (GeNTK). Under local center-manifold conditions, and when bifurcation-related sensitivity dominates bounded residual terms, we show that the global parameter-to-state Jacobian \\(D_\\theta h\\) is approximated by a low-rank normal",
-      "aiSummary": "arXiv:2605.12763v2 Announce Type: replace-cross Abstract: Rich learning in recurrent neural networks often proceeds through sudden transitions in latent dynamics, but there is little theory predicting how gradient descent behaves during these events. We study the local learning geometry near codimension-one bifurcations through the global empirical Neural Tangent Kernel (GeNTK). Under local center-manifold conditions, and when bifurcation-related sensitivity dominates bounded residual terms, we show that the global parameter-to-state Jacobian \\(D_\\theta h\\) is approximated by a low-rank normal",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2605.12763v2 Announce Type: replace-cross Abstract: Rich learning in recurrent neural networks often proceeds through sudden transitions in latent dynamics, but there is little theory predicting how gradient descent behaves during these events. We study the local learning geometry near codimension-one bifurcations through the global empirical Neural Tangent Kernel (GeNTK). Under local center-manifold conditions, and when bifurcation-related sensitivity dominates bounded residual terms, we show that the global parameter-to-state Jacobian \\(D_\\theta h\\) is approximated by a low-rank normal",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2605.12763",
       "featured": false
     }
   ]
