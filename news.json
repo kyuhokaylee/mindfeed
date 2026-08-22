@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-22T05:32:15.845481+00:00",
+  "updated": "2026-08-22T06:49:13.313962+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e92fe64f5af3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "10일 전 / 10d ago",
+      "title": "What It’s Like to Be…a Mail Carrier",
+      "titleKo": "",
+      "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+      "featured": true
+    },
+    {
+      "id": "13ff983ba277",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "24일 전 / 24d ago",
+      "title": "What It’s Like to Be…a Hotshot",
+      "titleKo": "",
+      "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+      "featured": false
+    },
     {
       "id": "ce657c41b310",
       "tag": "neuro",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6e0377f36b91",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a left frontal region that may serve as a starting point for the loss.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
-      "featured": false
-    },
-    {
-      "id": "9cf2c1b9ed9b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
-      "titleKo": "",
-      "summary": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
-      "aiSummary": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
-      "featured": false
-    },
-    {
-      "id": "048bcece1022",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "6시간 전 / 6h ago",
-      "title": "Caffeine might ease anxiety and depression by calming brain inflammation",
-      "titleKo": "",
-      "summary": "A systematic review of animal research suggests that caffeine can reduce anxiety and depressive-like behaviors by acting as a brake on the brain's immune system and lowering neuroinflammation.",
-      "aiSummary": "A systematic review of animal research suggests that caffeine can reduce anxiety and depressive-like behaviors by acting as a brake on the brain's immune system and lowering neuroinflammation.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A systematic review of animal research suggests that caffeine can reduce anxiety and depressive-like behaviors by acting as a brake on the brain's immune system and lowering neuroinflammation.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-caffeine-might-ease-anxiety-and-depression-by-calming-brain-inflammation/",
       "featured": false
     }
   ]
