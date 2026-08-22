@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22T04:38:34.112270+00:00",
+  "updated": "2026-08-22T05:32:15.845481+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ce657c41b310",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Ozempic does something unexpected to the brain’s hunger neurons",
+      "titleKo": "",
+      "summary": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
+      "aiSummary": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
+      "featured": true
+    },
     {
       "id": "6e0377f36b91",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Childhood adversity might alter how the brain responds to social hormones. A study in Translational Psychiatry suggests oxytocin temporarily increases altruism in adults with difficult childhoods, but decreases generosity in those with fewer adverse early experiences.",
       "keyPoints": [],
       "url": "https://www.psypost.org/oxytocin-has-opposite-effects-on-mens-generosity-depending-on-a-their-childhood-experiences/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bde08fe81a3d",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A systematic review of animal research suggests that caffeine can reduce anxiety and depressive-like behaviors by acting as a brake on the brain's immune system and lowering neuroinflammation.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-caffeine-might-ease-anxiety-and-depression-by-calming-brain-inflammation/",
-      "featured": false
-    },
-    {
-      "id": "0c2edf061e9a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-      "titleKo": "",
-      "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate findings from interdisciplinary studies utilizing diverse data sources such as social media posts, electronic medical records, and multimodal inputs to enable early detection of depression, suicide risk assessment, personalized therapy support, and psychoeducational content generation. Our review highl",
-      "aiSummary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate findings from interdisciplinary studies utilizing diverse data sources such as social media posts, electronic medical records, and multimodal inputs to enable early detection of depression, suicide risk assessment, personalized therapy support, and psychoeducational content generation. Our review highl",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate findings from interdisciplinary studies utilizing diverse data sources such as social media posts, electronic medical records, and multimodal inputs to enable early detection of depression, suicide risk assessment, personalized therapy support, and psychoeducational content generation. Our review highl",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.18080",
       "featured": false
     }
   ]
