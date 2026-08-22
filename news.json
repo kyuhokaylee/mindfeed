@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22T19:26:18.620737+00:00",
+  "updated": "2026-08-22T20:28:36.971485+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c8fa6125c531",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Psychedelic raves act as a modern rite of passage with complex psychological effects, new research suggests",
+      "titleKo": "",
+      "summary": "A new study reveals that for Israeli rave-goers using psychedelics, the party is just one phase. Extensive preparations and complex physical, emotional, and social after-effects show the experience extends well beyond the dance floor.",
+      "aiSummary": "A new study reveals that for Israeli rave-goers using psychedelics, the party is just one phase. Extensive preparations and complex physical, emotional, and social after-effects show the experience extends well beyond the dance floor.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that for Israeli rave-goers using psychedelics, the party is just one phase. Extensive preparations and complex physical, emotional, and social after-effects show the experience extends well beyond the dance floor.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/psychedelic-raves-act-as-a-modern-rite-of-passage-with-complex-psychological-effects-new-research-suggests/",
+      "featured": true
+    },
     {
       "id": "0bb12380ac86",
       "tag": "behav",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "dd67316ced75",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Women experiencing physical symptoms of stress, like headaches or muscle pain, report more negative dreams. A new psychological survey explores how daytime physical discomfort and general bodily awareness relate to the emotional intensity of our nighttime narratives.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-physical-stress-symptoms-shape-the-emotional-content-of-women-s-dreams/",
-      "featured": false
-    },
-    {
-      "id": "7b56b53cc3af",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "23시간 전 / 23h ago",
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-      "titleKo": "",
-      "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and collusion among independent firms without eroding the economic harm distinction. Experiments with DeepSeek-R1 agents in the Bertrand oligopoly pricing domain reveal a tendency towa",
-      "aiSummary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and collusion among independent firms without eroding the economic harm distinction. Experiments with DeepSeek-R1 agents in the Bertrand oligopoly pricing domain reveal a tendency towa",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and collusion among independent firms without eroding the economic harm distinction. Experiments with DeepSeek-R1 agents in the Bertrand oligopoly pricing domain reveal a tendency towa",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.18078",
       "featured": false
     }
   ]
