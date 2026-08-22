@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22T11:25:24.233348+00:00",
+  "updated": "2026-08-22T12:49:35.511976+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ffe5cf4664d4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Weight-loss drugs linked to rare eye condition in massive data review",
+      "titleKo": "",
+      "summary": "A comprehensive analysis of nearly 1.6 million patients suggests that popular diabetes and obesity medications may increase the risk of a rare condition that causes sudden vision loss, though the absolute risk remains very low.",
+      "aiSummary": "A comprehensive analysis of nearly 1.6 million patients suggests that popular diabetes and obesity medications may increase the risk of a rare condition that causes sudden vision loss, though the absolute risk remains very low.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A comprehensive analysis of nearly 1.6 million patients suggests that popular diabetes and obesity medications may increase the risk of a rare condition that causes sudden vision loss, though the absolute risk remains very low.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/weight-loss-drugs-linked-to-rare-eye-condition-in-massive-data-review/",
+      "featured": true
+    },
     {
       "id": "3aa2e88e89ed",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "New research suggests adolescents who feel emotionally unnoticed are more likely to engage in addictive behaviors. A newly developed psychological scale reveals how this “sense of absence” acts as a bridge connecting family struggles to teen addiction.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-sense-of-absence-may-explain-why-disconnected-teens-turn-to-addictive-behaviors/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9af69dac58af",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.19290v1 Announce Type: new Abstract: In recent decades, the early olfactory system (EOS) of the fruit fly has become a leading model for studying olfactory processing and associative memory, owing in part to a well-characterized feedforward pathway that feeds the processes underlying associative memory and by examining the role played by a handful of neurons and synapses. The recent completion of dense electron-microscopy connectomes provides high quality visualizations of every cell type, neuron, and synapse along the early olfactory pathway. Yet a wiring diagram, however complete,",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.19290",
-      "featured": false
-    },
-    {
-      "id": "f64d74aa09f5",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "7시간 전 / 7h ago",
-      "title": "Women face higher risks of partner violence during the weeks their partners cheat",
-      "titleKo": "",
-      "summary": "A new study reveals a troubling pattern in young relationships: women are more likely to face intimate partner violence during the exact weeks their partners are cheating on them, often leading to a breakup.",
-      "aiSummary": "A new study reveals a troubling pattern in young relationships: women are more likely to face intimate partner violence during the exact weeks their partners are cheating on them, often leading to a breakup.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study reveals a troubling pattern in young relationships: women are more likely to face intimate partner violence during the exact weeks their partners are cheating on them, often leading to a breakup.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/women-face-higher-risks-of-partner-violence-during-the-weeks-their-partners-cheat/",
       "featured": false
     }
   ]
