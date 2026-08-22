@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-22T13:35:44.499391+00:00",
+  "updated": "2026-08-22T14:26:38.679730+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "312ebba95d95",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Maternal stress during pregnancy linked to children’s social communication skills",
+      "titleKo": "",
+      "summary": "Children whose mothers experienced high levels of stress during pregnancy and shortly after birth may face lasting challenges with social communication. A new analysis tracks how early adversity shapes distinct social skills from childhood through late adolescence.",
+      "aiSummary": "Children whose mothers experienced high levels of stress during pregnancy and shortly after birth may face lasting challenges with social communication. A new analysis tracks how early adversity shapes distinct social skills from childhood through late adolescence.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Children whose mothers experienced high levels of stress during pregnancy and shortly after birth may face lasting challenges with social communication. A new analysis tracks how early adversity shapes distinct social skills from childhood through late adolescence.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/maternal-stress-during-pregnancy-linked-to-children-s-social-communication-skill/",
+      "featured": true
+    },
+    {
+      "id": "f2efcb576017",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "Multilingual people may have brains up to 13 years younger",
+      "titleKo": "",
+      "summary": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
+      "aiSummary": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
+      "featured": false
+    },
     {
       "id": "63f8e2e1ed8b",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "The way a person jokes may offer a glimpse into their psychological makeup. A recent study suggests that people who favor darker humor, such as sarcasm and cynicism, tend to show higher levels of maladaptive personality traits.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-who-favor-dark-humor-tend-to-exhibit-more-problematic-personality-traits/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ffe5cf4664d4",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2608.19234v1 Announce Type: new Abstract: Decision-making in complex systems often involves dealing with imprecise or uncertain information, frequently represented using fuzzy sets, particularly Triangular Fuzzy Numbers (TFNs). A crucial aspect of many fuzzy methods is the quantification of distance between TFNs. Many distance measures assume that all values are in the same scale, requiring a preliminary normalization stage when applied to heterogeneous attributes with different scales or units. This paper proposes the Triangular Fuzzy Rescaling Distance (d_{TR}), a metric designed to ad",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.19234",
-      "featured": false
-    },
-    {
-      "id": "0bc02df4e09d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "22시간 전 / 22h ago",
-      "title": "Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis",
-      "titleKo": "",
-      "summary": "arXiv:2608.19297v1 Announce Type: new Abstract: While multimodal large language models (MLLMs) excel in medical applications, most of them favor static images or short-term signals. In the critical field of dynamic electrocardiograms (ECG), models struggle with complex temporal reasoning and diagnostic report generation due to a lack of high-quality datasets and benchmarks. To address this, we introduce (i) Holtercare-23K, a large-scale multimodal dynamic ECG dataset comprising 22,980 QA pairs derived from 788 clinical Holter records and featuring a novel signal-video-text tri-modal alignment.",
-      "aiSummary": "arXiv:2608.19297v1 Announce Type: new Abstract: While multimodal large language models (MLLMs) excel in medical applications, most of them favor static images or short-term signals. In the critical field of dynamic electrocardiograms (ECG), models struggle with complex temporal reasoning and diagnostic report generation due to a lack of high-quality datasets and benchmarks. To address this, we introduce (i) Holtercare-23K, a large-scale multimodal dynamic ECG dataset comprising 22,980 QA pairs derived from 788 clinical Holter records and featuring a novel signal-video-text tri-modal alignment.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.19297v1 Announce Type: new Abstract: While multimodal large language models (MLLMs) excel in medical applications, most of them favor static images or short-term signals. In the critical field of dynamic electrocardiograms (ECG), models struggle with complex temporal reasoning and diagnostic report generation due to a lack of high-quality datasets and benchmarks. To address this, we introduce (i) Holtercare-23K, a large-scale multimodal dynamic ECG dataset comprising 22,980 QA pairs derived from 788 clinical Holter records and featuring a novel signal-video-text tri-modal alignment.",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.19297",
-      "featured": false
-    },
-    {
-      "id": "16b0adaeef96",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "22시간 전 / 22h ago",
-      "title": "Quantum Kernel Estimation for the Discovery of Early Lung Cancer Detection",
-      "titleKo": "",
-      "summary": "arXiv:2608.19304v1 Announce Type: new Abstract: Lung cancer screening with low-dose chest computed tomography reduces mortality, but its impact is limited by uptake, adherence, and management challenges. Blood-based cell-free DNA (cfDNA) biomarkers offer a complementary approach, although early detection remains difficult because of lung cancer heterogeneity and high-dimensional, nonlinear molecular signals. We evaluated quantum-classical hybrid machine learning for lung cancer detection using DNA fragmentomics and DNA methylation. After feature selection, models were trained using 20- and 40-",
-      "aiSummary": "arXiv:2608.19304v1 Announce Type: new Abstract: Lung cancer screening with low-dose chest computed tomography reduces mortality, but its impact is limited by uptake, adherence, and management challenges. Blood-based cell-free DNA (cfDNA) biomarkers offer a complementary approach, although early detection remains difficult because of lung cancer heterogeneity and high-dimensional, nonlinear molecular signals. We evaluated quantum-classical hybrid machine learning for lung cancer detection using DNA fragmentomics and DNA methylation. After feature selection, models were trained using 20- and 40-",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.19304v1 Announce Type: new Abstract: Lung cancer screening with low-dose chest computed tomography reduces mortality, but its impact is limited by uptake, adherence, and management challenges. Blood-based cell-free DNA (cfDNA) biomarkers offer a complementary approach, although early detection remains difficult because of lung cancer heterogeneity and high-dimensional, nonlinear molecular signals. We evaluated quantum-classical hybrid machine learning for lung cancer detection using DNA fragmentomics and DNA methylation. After feature selection, models were trained using 20- and 40-",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.19304",
       "featured": false
     }
   ]
