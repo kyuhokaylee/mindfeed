@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22T12:49:35.511976+00:00",
+  "updated": "2026-08-22T13:35:44.499391+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "63f8e2e1ed8b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "People who favor dark humor tend to exhibit more problematic personality traits",
+      "titleKo": "",
+      "summary": "The way a person jokes may offer a glimpse into their psychological makeup. A recent study suggests that people who favor darker humor, such as sarcasm and cynicism, tend to show higher levels of maladaptive personality traits.",
+      "aiSummary": "The way a person jokes may offer a glimpse into their psychological makeup. A recent study suggests that people who favor darker humor, such as sarcasm and cynicism, tend to show higher levels of maladaptive personality traits.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The way a person jokes may offer a glimpse into their psychological makeup. A recent study suggests that people who favor darker humor, such as sarcasm and cynicism, tend to show higher levels of maladaptive personality traits.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/people-who-favor-dark-humor-tend-to-exhibit-more-problematic-personality-traits/",
+      "featured": true
+    },
     {
       "id": "ffe5cf4664d4",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A comprehensive analysis of nearly 1.6 million patients suggests that popular diabetes and obesity medications may increase the risk of a rare condition that causes sudden vision loss, though the absolute risk remains very low.",
       "keyPoints": [],
       "url": "https://www.psypost.org/weight-loss-drugs-linked-to-rare-eye-condition-in-massive-data-review/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3aa2e88e89ed",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.19304v1 Announce Type: new Abstract: Lung cancer screening with low-dose chest computed tomography reduces mortality, but its impact is limited by uptake, adherence, and management challenges. Blood-based cell-free DNA (cfDNA) biomarkers offer a complementary approach, although early detection remains difficult because of lung cancer heterogeneity and high-dimensional, nonlinear molecular signals. We evaluated quantum-classical hybrid machine learning for lung cancer detection using DNA fragmentomics and DNA methylation. After feature selection, models were trained using 20- and 40-",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.19304",
-      "featured": false
-    },
-    {
-      "id": "0d498b696f9d",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "22시간 전 / 22h ago",
-      "title": "The Connectome and the Quest for the Functional Logic of the Drosophila Early Olfactory System",
-      "titleKo": "",
-      "summary": "arXiv:2608.19290v1 Announce Type: new Abstract: In recent decades, the early olfactory system (EOS) of the fruit fly has become a leading model for studying olfactory processing and associative memory, owing in part to a well-characterized feedforward pathway that feeds the processes underlying associative memory and by examining the role played by a handful of neurons and synapses. The recent completion of dense electron-microscopy connectomes provides high quality visualizations of every cell type, neuron, and synapse along the early olfactory pathway. Yet a wiring diagram, however complete,",
-      "aiSummary": "arXiv:2608.19290v1 Announce Type: new Abstract: In recent decades, the early olfactory system (EOS) of the fruit fly has become a leading model for studying olfactory processing and associative memory, owing in part to a well-characterized feedforward pathway that feeds the processes underlying associative memory and by examining the role played by a handful of neurons and synapses. The recent completion of dense electron-microscopy connectomes provides high quality visualizations of every cell type, neuron, and synapse along the early olfactory pathway. Yet a wiring diagram, however complete,",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.19290v1 Announce Type: new Abstract: In recent decades, the early olfactory system (EOS) of the fruit fly has become a leading model for studying olfactory processing and associative memory, owing in part to a well-characterized feedforward pathway that feeds the processes underlying associative memory and by examining the role played by a handful of neurons and synapses. The recent completion of dense electron-microscopy connectomes provides high quality visualizations of every cell type, neuron, and synapse along the early olfactory pathway. Yet a wiring diagram, however complete,",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.19290",
       "featured": false
     }
   ]
