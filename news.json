@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22T18:37:29.599499+00:00",
+  "updated": "2026-08-22T19:26:18.620737+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "0bb12380ac86",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "33일 전 / 33d ago",
+      "title": "Journey to Robbers Cave",
+      "titleKo": "",
+      "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
+      "aiSummary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
+      "featured": true
+    },
     {
       "id": "dd67316ced75",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Think feeling excited and enthusiastic is the secret to a great life? A new analysis of nearly 30,000 people suggests a completely different kind of positive emotion actually drives true life satisfaction.",
       "keyPoints": [],
       "url": "https://www.psypost.org/this-specific-type-of-positive-emotion-predicts-life-satisfaction-better-than-the-rest/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "77410a378274",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and collusion among independent firms without eroding the economic harm distinction. Experiments with DeepSeek-R1 agents in the Bertrand oligopoly pricing domain reveal a tendency towa",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2608.18078",
-      "featured": false
-    },
-    {
-      "id": "ee499e0e3d0d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "23시간 전 / 23h ago",
-      "title": "Towards On-Board Implementation of ML-Based Helicopter Weight Estimator",
-      "titleKo": "",
-      "summary": "arXiv:2608.19210v1 Announce Type: new Abstract: This paper focuses on the implementation of a novel supervised Machine Learning model for estimating helicopter weight during takeoff, utilizing extensive datasets from Airbus's global in-service fleet. The study details a learning assurance process aligned with the EASA concept paper for machine learning application, and with the on-going Eurocae ED-324. We propose a set of Machine Learning Requirements, a Machine Learning Model Description, and its implementation for a long short-term memory recurrent neural network. Finally, we verify the requ",
-      "aiSummary": "arXiv:2608.19210v1 Announce Type: new Abstract: This paper focuses on the implementation of a novel supervised Machine Learning model for estimating helicopter weight during takeoff, utilizing extensive datasets from Airbus's global in-service fleet. The study details a learning assurance process aligned with the EASA concept paper for machine learning application, and with the on-going Eurocae ED-324. We propose a set of Machine Learning Requirements, a Machine Learning Model Description, and its implementation for a long short-term memory recurrent neural network. Finally, we verify the requ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.19210v1 Announce Type: new Abstract: This paper focuses on the implementation of a novel supervised Machine Learning model for estimating helicopter weight during takeoff, utilizing extensive datasets from Airbus's global in-service fleet. The study details a learning assurance process aligned with the EASA concept paper for machine learning application, and with the on-going Eurocae ED-324. We propose a set of Machine Learning Requirements, a Machine Learning Model Description, and its implementation for a long short-term memory recurrent neural network. Finally, we verify the requ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.19210",
       "featured": false
     }
   ]
