@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-23T17:24:40.959401+00:00",
+  "updated": "2026-08-23T18:36:55.032245+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "60222f063ef7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "New study: Men and women multitask equally well, but men talk less while doing it",
+      "titleKo": "",
+      "summary": "Do women really multitask better than men? Researchers put both sexes through a rigorous real-world simulation. While they scored the same on most metrics, one difference emerged that explains why men often look like they are struggling.",
+      "aiSummary": "Do women really multitask better than men? Researchers put both sexes through a rigorous real-world simulation. While they scored the same on most metrics, one difference emerged that explains why men often look like they are struggling.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Do women really multitask better than men? Researchers put both sexes through a rigorous real-world simulation. While they scored the same on most metrics, one difference emerged that explains why men often look like they are struggling.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/new-study-men-and-women-multitask-equally-well-but-men-talk-less-while-doing-it/",
+      "featured": true
+    },
     {
       "id": "b809d9822683",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "New research reveals how genetic risk and trauma symptoms combine to influence tobacco use. Individuals with a lower genetic predisposition to smoking may actually be more vulnerable to using tobacco in response to severe post-traumatic stress symptoms.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-trauma-symptoms-and-genetic-risk-combine-to-influence-smoking-habits/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9af69dac58af",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
-      "featured": false
-    },
-    {
-      "id": "63f8e2e1ed8b",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "People who favor dark humor tend to exhibit more problematic personality traits",
-      "titleKo": "",
-      "summary": "The way a person jokes may offer a glimpse into their psychological makeup. A recent study suggests that people who favor darker humor, such as sarcasm and cynicism, tend to show higher levels of maladaptive personality traits.",
-      "aiSummary": "The way a person jokes may offer a glimpse into their psychological makeup. A recent study suggests that people who favor darker humor, such as sarcasm and cynicism, tend to show higher levels of maladaptive personality traits.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The way a person jokes may offer a glimpse into their psychological makeup. A recent study suggests that people who favor darker humor, such as sarcasm and cynicism, tend to show higher levels of maladaptive personality traits.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/people-who-favor-dark-humor-tend-to-exhibit-more-problematic-personality-traits/",
       "featured": false
     }
   ]
