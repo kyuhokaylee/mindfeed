@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-23T10:29:18.964816+00:00",
+  "updated": "2026-08-23T11:25:36.293642+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b2efc9fc051c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Unpredictable work schedules increase the risk of romantic breakups, new study finds",
+      "titleKo": "",
+      "summary": "While money problems are a known relationship killer, a new study uncovers another threat: unpredictable work schedules. Researchers found that erratic shifts and last-minute changes increase the risk of breakups for hourly service workers.",
+      "aiSummary": "While money problems are a known relationship killer, a new study uncovers another threat: unpredictable work schedules. Researchers found that erratic shifts and last-minute changes increase the risk of breakups for hourly service workers.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "While money problems are a known relationship killer, a new study uncovers another threat: unpredictable work schedules. Researchers found that erratic shifts and last-minute changes increase the risk of breakups for hourly service workers.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/unpredictable-work-schedules-increase-the-risk-of-romantic-breakups-new-study-finds/",
+      "featured": true
+    },
     {
       "id": "dd521b182ad3",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent survey of unmarried adults in their thirties and forties shows wide variation in future relationship goals. While many prefer cohabitation to marriage, others are unsure or have no interest in living with a partner again.",
       "keyPoints": [],
       "url": "https://www.psypost.org/single-adults-in-early-midlife-often-prefer-cohabitation-over-marriage/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9ee6959c9ee1",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
-      "featured": false
-    },
-    {
-      "id": "ce657c41b310",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Ozempic does something unexpected to the brain’s hunger neurons",
-      "titleKo": "",
-      "summary": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
-      "aiSummary": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
       "featured": false
     }
   ]
