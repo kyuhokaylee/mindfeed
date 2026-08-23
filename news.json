@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-23T03:08:13.281762+00:00",
+  "updated": "2026-08-23T04:42:44.620992+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "9ee6959c9ee1",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1시간 전 / 1h ago",
+      "title": "Quitting alcohol may prime the brain for relapse",
+      "titleKo": "",
+      "summary": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.",
+      "aiSummary": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
+      "featured": true
+    },
+    {
+      "id": "8884d3cdaeda",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "방금 전 / Just now",
+      "title": "This common vitamin was linked to 13% better cognitive scores",
+      "titleKo": "",
+      "summary": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest vitamin D could be worth studying as a potentially modifiable factor during an early window of cognitive decline.",
+      "aiSummary": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest vitamin D could be worth studying as a potentially modifiable factor during an early window of cognitive decline.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest vitamin D could be worth studying as a potentially modifiable factor during an early window of cognitive decline.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
+      "featured": false
+    },
     {
       "id": "c8fa6125c531",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study reveals that for Israeli rave-goers using psychedelics, the party is just one phase. Extensive preparations and complex physical, emotional, and social after-effects show the experience extends well beyond the dance floor.",
       "keyPoints": [],
       "url": "https://www.psypost.org/psychedelic-raves-act-as-a-modern-rite-of-passage-with-complex-psychological-effects-new-research-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0bb12380ac86",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Childhood adversity might alter how the brain responds to social hormones. A study in Translational Psychiatry suggests oxytocin temporarily increases altruism in adults with difficult childhoods, but decreases generosity in those with fewer adverse early experiences.",
       "keyPoints": [],
       "url": "https://www.psypost.org/oxytocin-has-opposite-effects-on-mens-generosity-depending-on-a-their-childhood-experiences/",
-      "featured": false
-    },
-    {
-      "id": "bde08fe81a3d",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Researchers reveal deeper workings of brain’s information hub",
-      "titleKo": "",
-      "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
-      "aiSummary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
-      "featured": false
-    },
-    {
-      "id": "7590a33d615c",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "13시간 전 / 13h ago",
-      "title": "How physical stress symptoms shape the emotional content of women’s dreams",
-      "titleKo": "",
-      "summary": "Women experiencing physical symptoms of stress, like headaches or muscle pain, report more negative dreams. A new psychological survey explores how daytime physical discomfort and general bodily awareness relate to the emotional intensity of our nighttime narratives.",
-      "aiSummary": "Women experiencing physical symptoms of stress, like headaches or muscle pain, report more negative dreams. A new psychological survey explores how daytime physical discomfort and general bodily awareness relate to the emotional intensity of our nighttime narratives.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Women experiencing physical symptoms of stress, like headaches or muscle pain, report more negative dreams. A new psychological survey explores how daytime physical discomfort and general bodily awareness relate to the emotional intensity of our nighttime narratives.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-physical-stress-symptoms-shape-the-emotional-content-of-women-s-dreams/",
       "featured": false
     }
   ]
