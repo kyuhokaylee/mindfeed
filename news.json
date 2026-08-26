@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-26T16:22:30.581902+00:00",
+  "updated": "2026-08-26T19:08:39.295854+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "375405f972c4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Timing of maternal vocal responses linked to childhood ADHD in preliminary study",
+      "titleKo": "",
+      "summary": "A new study suggests that mothers who are less likely to respond to their infants within one second have a higher chance of their children developing ADHD or disruptive behavior disorders by age seven.",
+      "aiSummary": "A new study suggests that mothers who are less likely to respond to their infants within one second have a higher chance of their children developing ADHD or disruptive behavior disorders by age seven.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests that mothers who are less likely to respond to their infants within one second have a higher chance of their children developing ADHD or disruptive behavior disorders by age seven.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/timing-of-maternal-vocal-responses-linked-to-childhood-adhd-in-preliminary-study/",
+      "featured": true
+    },
+    {
+      "id": "f8b2f4f6e6a3",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Too much or too little sleep may make your body age faster",
+      "titleKo": "",
+      "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
+      "aiSummary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
+      "featured": false
+    },
+    {
+      "id": "a9a833ad3687",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "11시간 전 / 11h ago",
+      "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
+      "titleKo": "",
+      "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
+      "aiSummary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
+      "featured": false
+    },
     {
       "id": "ffffe8a6d19a",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Women experiencing a chronic lack of sexual desire still routinely engage in sexual activity to maintain relationship stability. A review of clinical trial data quantifies exactly how often this obligatory intimacy occurs and explores the psychological reasons behind it.",
       "keyPoints": [],
       "url": "https://www.psypost.org/clinical-trials-reveal-the-hidden-frequency-of-obligatory-sex-in-women-with-low/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "285e18ba446e",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Fathers who experience severe trauma before conception can pass biological and behavioral changes to their offspring. A new animal study reveals that combat-like stress in males alters the pain perception, social behavior, and brain chemistry of their descendants.",
       "keyPoints": [],
       "url": "https://www.psypost.org/traumatic-stress-in-fathers-alters-the-brain-chemistry-and-behavior-of-their-off/",
-      "featured": false
-    },
-    {
-      "id": "6c2b1a582482",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "9시간 전 / 9h ago",
-      "title": "Beauty is in the ELBO of the Beholder: A Variational Account of Processing Fluency in Face Perception",
-      "titleKo": "",
-      "summary": "arXiv:2608.24219v1 Announce Type: cross Abstract: Facial attractiveness has been linked to statistical regularities such as symmetry and averageness, suggesting that beauty may depend on the ease with which a face is perceived. We empirically test this hypothesis by training variational autoencoders on four face datasets without attractiveness supervision and evaluating their representations on the 597 faces from the Chicago Face Database. Across models, human attractiveness ratings closely aligns with the direction defined by the VAE evidence lower bound (ELBO) in rate-distortion space. Indep",
-      "aiSummary": "arXiv:2608.24219v1 Announce Type: cross Abstract: Facial attractiveness has been linked to statistical regularities such as symmetry and averageness, suggesting that beauty may depend on the ease with which a face is perceived. We empirically test this hypothesis by training variational autoencoders on four face datasets without attractiveness supervision and evaluating their representations on the 597 faces from the Chicago Face Database. Across models, human attractiveness ratings closely aligns with the direction defined by the VAE evidence lower bound (ELBO) in rate-distortion space. Indep",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.24219v1 Announce Type: cross Abstract: Facial attractiveness has been linked to statistical regularities such as symmetry and averageness, suggesting that beauty may depend on the ease with which a face is perceived. We empirically test this hypothesis by training variational autoencoders on four face datasets without attractiveness supervision and evaluating their representations on the 597 faces from the Chicago Face Database. Across models, human attractiveness ratings closely aligns with the direction defined by the VAE evidence lower bound (ELBO) in rate-distortion space. Indep",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.24219",
-      "featured": false
-    },
-    {
-      "id": "15405863dcb6",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "9시간 전 / 9h ago",
-      "title": "CytoNet: A Foundation Model for the Human Cerebral Cortex at Cellular Resolution",
-      "titleKo": "",
-      "summary": "arXiv:2511.01870v3 Announce Type: replace Abstract: Studying the cellular architecture of the human cerebral cortex is essential for understanding how the brain is organized from the micro to the macro level, and how it functions. However, investigating complex texture patterns in histological images using automatic methods that can be scaled across whole brains remains a challenge. Here we introduce CytoNet, a foundation model trained on 1 million unlabeled microscopic image patches from over 4,000 histological sections from nine postmortem brains, and evaluated on over 2,000 sections from fi",
-      "aiSummary": "arXiv:2511.01870v3 Announce Type: replace Abstract: Studying the cellular architecture of the human cerebral cortex is essential for understanding how the brain is organized from the micro to the macro level, and how it functions. However, investigating complex texture patterns in histological images using automatic methods that can be scaled across whole brains remains a challenge. Here we introduce CytoNet, a foundation model trained on 1 million unlabeled microscopic image patches from over 4,000 histological sections from nine postmortem brains, and evaluated on over 2,000 sections from fi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2511.01870v3 Announce Type: replace Abstract: Studying the cellular architecture of the human cerebral cortex is essential for understanding how the brain is organized from the micro to the macro level, and how it functions. However, investigating complex texture patterns in histological images using automatic methods that can be scaled across whole brains remains a challenge. Here we introduce CytoNet, a foundation model trained on 1 million unlabeled microscopic image patches from over 4,000 histological sections from nine postmortem brains, and evaluated on over 2,000 sections from fi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2511.01870",
-      "featured": false
-    },
-    {
-      "id": "0bb12380ac86",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "37일 전 / 37d ago",
-      "title": "Journey to Robbers Cave",
-      "titleKo": "",
-      "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "aiSummary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
       "featured": false
     }
   ]
