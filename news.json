@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-29T14:18:55.498685+00:00",
+  "updated": "2026-08-29T18:15:47.801766+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "fcffcf01de3d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "The hormonal and cognitive benefits of group singing for adults with brain conditions",
+      "titleKo": "",
+      "summary": "Clinical observations indicate that joining a neurological choir drastically improves the quality of life for adults with brain conditions. Patients struggling with aphasia or cognitive decline can bypass complex word-finding processes by engaging with familiar musical rhythms.",
+      "aiSummary": "Clinical observations indicate that joining a neurological choir drastically improves the quality of life for adults with brain conditions. Patients struggling with aphasia or cognitive decline can bypass complex word-finding processes by engaging with familiar musical rhythms.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Clinical observations indicate that joining a neurological choir drastically improves the quality of life for adults with brain conditions. Patients struggling with aphasia or cognitive decline can bypass complex word-finding processes by engaging with familiar musical rhythms.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-hormonal-and-cognitive-benefits-of-group-singing-for-adults-with-brain-conditions/",
+      "featured": true
+    },
+    {
+      "id": "ebb10bbde444",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "The tendency of conspiracy theorists to police others online is associated with narcissistic traits",
+      "titleKo": "",
+      "summary": "New research suggests that people who endorse conspiracy theories frequently adopt the role of online \"social vigilantes.\" This confrontational behavior—including arguing and online shaming—is closely linked to feelings of superiority and narcissistic desires for status.",
+      "aiSummary": "New research suggests that people who endorse conspiracy theories frequently adopt the role of online \"social vigilantes.\" This confrontational behavior—including arguing and online shaming—is closely linked to feelings of superiority and narcissistic desires for status.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research suggests that people who endorse conspiracy theories frequently adopt the role of online \"social vigilantes.\" This confrontational behavior—including arguing and online shaming—is closely linked to feelings of superiority and narcissistic desires for status.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-tendency-of-conspiracy-theorists-to-police-others-online-is-associated-with-narcissistic-traits/",
+      "featured": false
+    },
+    {
+      "id": "7071eb057db8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Study finds media coverage of the 2024 presidential race favored political spectacle over substantive policy debates",
+      "titleKo": "",
+      "summary": "During the chaotic 2024 presidential election, major U.S. newspapers focused heavily on political strategy and legal battles rather than substantive policy. A recent study indicates that media coverage remained largely negative, except for a brief bump for Kamala Harris.",
+      "aiSummary": "During the chaotic 2024 presidential election, major U.S. newspapers focused heavily on political strategy and legal battles rather than substantive policy. A recent study indicates that media coverage remained largely negative, except for a brief bump for Kamala Harris.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "During the chaotic 2024 presidential election, major U.S. newspapers focused heavily on political strategy and legal battles rather than substantive policy. A recent study indicates that media coverage remained largely negative, except for a brief bump for Kamala Harris.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/study-finds-media-coverage-of-the-2024-presidential-race-favored-political-spectacle-over-substantive-policy-debates/",
+      "featured": false
+    },
     {
       "id": "0f63718017b2",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Roughly 27% of American gun owners leave firearms unattended in their vehicles, often in center consoles or glove compartments, according to a national survey examining safety fears and theft risks.",
       "keyPoints": [],
       "url": "https://www.psypost.org/millions-of-american-gun-owners-leave-firearms-in-cars-often-in-unlocked-consoles/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "023ad101503e",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A 20-year study of 400,000 students found that children who attended public school pre-K earned better grades and test scores through high school than those in other childcare settings. Better-trained teachers and earlier exposure to structured classrooms may help explain why the advantage lasted so long.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260828005213.htm",
-      "featured": false
-    },
-    {
-      "id": "68903ea4f9f0",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
-      "titleKo": "",
-      "summary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100% survival at 60 days, though it has not yet been tested in humans.",
-      "aiSummary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100% survival at 60 days, though it has not yet been tested in humans.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100% survival at 60 days, though it has not yet been tested in humans.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826060617.htm",
-      "featured": false
-    },
-    {
-      "id": "4775f01dc032",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists discover a brain “brake” that can shut down chronic pain",
-      "titleKo": "",
-      "summary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
-      "aiSummary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
-      "featured": false
-    },
-    {
-      "id": "a91b8dea84a4",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "방금 전 / Just now",
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "titleKo": "",
-      "summary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interpretability, leading to a \"black-box\" trust crisis that hinders their adoption in real-world pedagogical settings. To address these challenges, we propose EduRiskX, a neuro-symbolic framework that integrates a temporal Transformer-based predictor with F-Logic symbolic reasoning. The neural component m",
-      "aiSummary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interpretability, leading to a \"black-box\" trust crisis that hinders their adoption in real-world pedagogical settings. To address these challenges, we propose EduRiskX, a neuro-symbolic framework that integrates a temporal Transformer-based predictor with F-Logic symbolic reasoning. The neural component m",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interpretability, leading to a \"black-box\" trust crisis that hinders their adoption in real-world pedagogical settings. To address these challenges, we propose EduRiskX, a neuro-symbolic framework that integrates a temporal Transformer-based predictor with F-Logic symbolic reasoning. The neural component m",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2608.26107",
       "featured": false
     }
   ]
