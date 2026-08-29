@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-29T18:15:47.801766+00:00",
+  "updated": "2026-08-29T21:35:17.426797+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2597db9ad463",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Adolescents report low regret and high satisfaction following gender-affirming chest surgery",
+      "titleKo": "",
+      "summary": "Adolescents who undergo gender-affirming chest surgery experience high satisfaction and low regret, reporting outcomes similar to those of young adults. A new survey challenges political concerns that youth are likely to regret these procedures later in life.",
+      "aiSummary": "Adolescents who undergo gender-affirming chest surgery experience high satisfaction and low regret, reporting outcomes similar to those of young adults. A new survey challenges political concerns that youth are likely to regret these procedures later in life.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Adolescents who undergo gender-affirming chest surgery experience high satisfaction and low regret, reporting outcomes similar to those of young adults. A new survey challenges political concerns that youth are likely to regret these procedures later in life.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/adolescents-report-low-regret-and-high-satisfaction-following-gender-affirming-c/",
+      "featured": true
+    },
+    {
+      "id": "68903ea4f9f0",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
+      "titleKo": "",
+      "summary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100% survival at 60 days, though it has not yet been tested in humans.",
+      "aiSummary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100% survival at 60 days, though it has not yet been tested in humans.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100% survival at 60 days, though it has not yet been tested in humans.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826060617.htm",
+      "featured": false
+    },
+    {
+      "id": "4775f01dc032",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Scientists discover a brain “brake” that can shut down chronic pain",
+      "titleKo": "",
+      "summary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
+      "aiSummary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
+      "featured": false
+    },
     {
       "id": "fcffcf01de3d",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Clinical observations indicate that joining a neurological choir drastically improves the quality of life for adults with brain conditions. Patients struggling with aphasia or cognitive decline can bypass complex word-finding processes by engaging with familiar musical rhythms.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-hormonal-and-cognitive-benefits-of-group-singing-for-adults-with-brain-conditions/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ebb10bbde444",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "When family members help loved ones avoid anxiety triggers, it can accidentally worsen symptoms. New research shows that while this behavior is common across all ages, specialized treatment can successfully reverse its effects and lead to recovery.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-family-accommodation-impacts-anxiety-and-ocd-treatment-across-the-lifespan/",
-      "featured": false
-    },
-    {
-      "id": "5d9a4ff28551",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "How the stories we tell about ourselves reveal hidden personality disorders",
-      "titleKo": "",
-      "summary": "How people construct the stories of their lives offers insight into the severity of their personality disorders. Researchers found that narrating life events with a focus on negative self-change strongly predicted everyday functional impairment.",
-      "aiSummary": "How people construct the stories of their lives offers insight into the severity of their personality disorders. Researchers found that narrating life events with a focus on negative self-change strongly predicted everyday functional impairment.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "How people construct the stories of their lives offers insight into the severity of their personality disorders. Researchers found that narrating life events with a focus on negative self-change strongly predicted everyday functional impairment.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-the-stories-we-tell-about-ourselves-reveal-hidden-personality-disorders/",
-      "featured": false
-    },
-    {
-      "id": "5ffb3023c206",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "4시간 전 / 4h ago",
-      "title": "Donald Trump’s New York accent has subtly shifted over the past five decades",
-      "titleKo": "",
-      "summary": "Acoustic analysis of Donald Trump’s speech from 1980 to 2023 reveals that while he largely maintained his classic New York accent, he steadily shifted his pronunciation of stigmatized vowels.",
-      "aiSummary": "Acoustic analysis of Donald Trump’s speech from 1980 to 2023 reveals that while he largely maintained his classic New York accent, he steadily shifted his pronunciation of stigmatized vowels.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Acoustic analysis of Donald Trump’s speech from 1980 to 2023 reveals that while he largely maintained his classic New York accent, he steadily shifted his pronunciation of stigmatized vowels.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/donald-trumps-new-york-accent-has-subtly-shifted-over-the-past-five-decades/",
-      "featured": false
-    },
-    {
-      "id": "3e8aeeb02333",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "5시간 전 / 5h ago",
-      "title": "Researchers followed 400,000 kids for 20 years and found a lasting pre-K advantage",
-      "titleKo": "",
-      "summary": "A 20-year study of 400,000 students found that children who attended public school pre-K earned better grades and test scores through high school than those in other childcare settings. Better-trained teachers and earlier exposure to structured classrooms may help explain why the advantage lasted so long.",
-      "aiSummary": "A 20-year study of 400,000 students found that children who attended public school pre-K earned better grades and test scores through high school than those in other childcare settings. Better-trained teachers and earlier exposure to structured classrooms may help explain why the advantage lasted so long.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A 20-year study of 400,000 students found that children who attended public school pre-K earned better grades and test scores through high school than those in other childcare settings. Better-trained teachers and earlier exposure to structured classrooms may help explain why the advantage lasted so long.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005213.htm",
       "featured": false
     }
   ]
