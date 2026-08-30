@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-29T21:35:17.426797+00:00",
+  "updated": "2026-08-30T00:00:09.442748+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "be949d3c5496",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Brain network rhythms reveal why some people are better at keeping their focus",
+      "titleKo": "",
+      "summary": "Why can some people easily ignore distractions while others struggle to stay on task? New research shows that the ability to maintain focus is a stable trait reflected in the rhythmic synchronization of large-scale brain networks.",
+      "aiSummary": "Why can some people easily ignore distractions while others struggle to stay on task? New research shows that the ability to maintain focus is a stable trait reflected in the rhythmic synchronization of large-scale brain networks.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Why can some people easily ignore distractions while others struggle to stay on task? New research shows that the ability to maintain focus is a stable trait reflected in the rhythmic synchronization of large-scale brain networks.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-network-rhythms-reveal-why-some-people-are-better-at-keeping-their-focus/",
+      "featured": true
+    },
+    {
+      "id": "3e8aeeb02333",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Researchers followed 400,000 kids for 20 years and found a lasting pre-K advantage",
+      "titleKo": "",
+      "summary": "A 20-year study of 400,000 students found that children who attended public school pre-K earned better grades and test scores through high school than those in other childcare settings. Better-trained teachers and earlier exposure to structured classrooms may help explain why the advantage lasted so long.",
+      "aiSummary": "A 20-year study of 400,000 students found that children who attended public school pre-K earned better grades and test scores through high school than those in other childcare settings. Better-trained teachers and earlier exposure to structured classrooms may help explain why the advantage lasted so long.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A 20-year study of 400,000 students found that children who attended public school pre-K earned better grades and test scores through high school than those in other childcare settings. Better-trained teachers and earlier exposure to structured classrooms may help explain why the advantage lasted so long.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828005213.htm",
+      "featured": false
+    },
     {
       "id": "2597db9ad463",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Adolescents who undergo gender-affirming chest surgery experience high satisfaction and low regret, reporting outcomes similar to those of young adults. A new survey challenges political concerns that youth are likely to regret these procedures later in life.",
       "keyPoints": [],
       "url": "https://www.psypost.org/adolescents-report-low-regret-and-high-satisfaction-following-gender-affirming-c/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "68903ea4f9f0",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
-      "featured": false
-    },
-    {
-      "id": "e6dd9601f0c6",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "The gender gap in politics is not widening as much as you think",
-      "titleKo": "",
-      "summary": "Despite narratives of a growing political divide between the sexes, new research shows that men and women actually shift their opinions in parallel. Major national events, rather than generational changes, drive these unified shifts in public opinion.",
-      "aiSummary": "Despite narratives of a growing political divide between the sexes, new research shows that men and women actually shift their opinions in parallel. Major national events, rather than generational changes, drive these unified shifts in public opinion.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Despite narratives of a growing political divide between the sexes, new research shows that men and women actually shift their opinions in parallel. Major national events, rather than generational changes, drive these unified shifts in public opinion.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/the-gender-gap-in-politics-is-not-widening-as-much-as-you-think/",
-      "featured": false
-    },
-    {
-      "id": "83b18cad66f1",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "How family accommodation impacts anxiety and OCD treatment across the lifespan",
-      "titleKo": "",
-      "summary": "When family members help loved ones avoid anxiety triggers, it can accidentally worsen symptoms. New research shows that while this behavior is common across all ages, specialized treatment can successfully reverse its effects and lead to recovery.",
-      "aiSummary": "When family members help loved ones avoid anxiety triggers, it can accidentally worsen symptoms. New research shows that while this behavior is common across all ages, specialized treatment can successfully reverse its effects and lead to recovery.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "When family members help loved ones avoid anxiety triggers, it can accidentally worsen symptoms. New research shows that while this behavior is common across all ages, specialized treatment can successfully reverse its effects and lead to recovery.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-family-accommodation-impacts-anxiety-and-ocd-treatment-across-the-lifespan/",
       "featured": false
     }
   ]
