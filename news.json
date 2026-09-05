@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-05T13:48:01.479879+00:00",
+  "updated": "2026-09-05T16:42:10.692453+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5d339ab6c6bb",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Scientists build a more accurate Alzheimer’s risk score using global DNA data",
+      "titleKo": "",
+      "summary": "Standard genetic tests for Alzheimer's often fail in non-European populations. A new study shows that blending global genetic data creates a highly accurate tool that predicts both Alzheimer's risk and underlying brain damage across diverse ancestral groups.",
+      "aiSummary": "Standard genetic tests for Alzheimer's often fail in non-European populations. A new study shows that blending global genetic data creates a highly accurate tool that predicts both Alzheimer's risk and underlying brain damage across diverse ancestral groups.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Standard genetic tests for Alzheimer's often fail in non-European populations. A new study shows that blending global genetic data creates a highly accurate tool that predicts both Alzheimer's risk and underlying brain damage across diverse ancestral groups.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-build-a-more-accurate-alzheimers-risk-score-using-global-dna-data/",
+      "featured": true
+    },
+    {
+      "id": "d38c786bfdff",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Personality impairments link childhood maltreatment to adult anxiety",
+      "titleKo": "",
+      "summary": "A recent study finds that childhood emotional abuse and neglect are strongly linked to adult anxiety. This relationship is largely explained by impairments in how a person perceives themselves and connects with others.",
+      "aiSummary": "A recent study finds that childhood emotional abuse and neglect are strongly linked to adult anxiety. This relationship is largely explained by impairments in how a person perceives themselves and connects with others.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study finds that childhood emotional abuse and neglect are strongly linked to adult anxiety. This relationship is largely explained by impairments in how a person perceives themselves and connects with others.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-childhood-emotional-abuse-and-neglect-fuel-adult-anxiety-symptoms/",
+      "featured": false
+    },
+    {
+      "id": "45d6e2adeef4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "First human trial of psilocin since the 1960s reveals better tolerability than psilocybin",
+      "titleKo": "",
+      "summary": "A new study suggests that consuming psilocin directly—rather than its precursor, psilocybin—provides a similar psychedelic experience with fewer side effects. Researchers also found that taking the drug under the tongue produced emotional breakthroughs despite milder effects.",
+      "aiSummary": "A new study suggests that consuming psilocin directly—rather than its precursor, psilocybin—provides a similar psychedelic experience with fewer side effects. Researchers also found that taking the drug under the tongue produced emotional breakthroughs despite milder effects.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study suggests that consuming psilocin directly—rather than its precursor, psilocybin—provides a similar psychedelic experience with fewer side effects. Researchers also found that taking the drug under the tongue produced emotional breakthroughs despite milder effects.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/first-human-trial-of-psilocin-since-the-1960s-reveals-better-tolerability-than-psilocybin/",
+      "featured": false
+    },
     {
       "id": "6a3b76081d8f",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Young adults who frequently watch physically violent online pornography report lower empathy, more acceptance of violence against women, and increased difficulties with sexual function, according to a large survey conducted in Spain.",
       "keyPoints": [],
       "url": "https://www.psypost.org/watching-violent-online-pornography-is-linked-to-poorer-sexual-health/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "32951343d7c6",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-      "featured": false
-    },
-    {
-      "id": "a436ded141b6",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "10시간 전 / 10h ago",
-      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-      "titleKo": "",
-      "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-      "featured": false
-    },
-    {
-      "id": "84a3d0138885",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "18시간 전 / 18h ago",
-      "title": "New injectable treatment helps the brain rebuild after stroke",
-      "titleKo": "",
-      "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right conditions.",
-      "aiSummary": "",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
-      "featured": false
-    },
-    {
-      "id": "b32326e5abec",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Individuals with psychotic spectrum disorder are less successful in recognizing the emotions of others",
-      "titleKo": "",
-      "summary": "A recent study finds that people with psychotic spectrum disorders who have a history of aggression are significantly less accurate at recognizing emotions than non-aggressive patients or healthy individuals, often misidentifying negative social cues as positive ones.",
-      "aiSummary": "A recent study finds that people with psychotic spectrum disorders who have a history of aggression are significantly less accurate at recognizing emotions than non-aggressive patients or healthy individuals, often misidentifying negative social cues as positive ones.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study finds that people with psychotic spectrum disorders who have a history of aggression are significantly less accurate at recognizing emotions than non-aggressive patients or healthy individuals, often misidentifying negative social cues as positive ones.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/individuals-with-psychotic-spectrum-disorder-are-less-successful-in-recognizing-the-emotions-of-others/",
       "featured": false
     }
   ]
