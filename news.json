@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-05T18:55:41.179680+00:00",
+  "updated": "2026-09-05T21:04:16.743720+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "47a9e0f1faab",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Comedy is funnier when it is easier to process, new psychology study finds",
+      "titleKo": "",
+      "summary": "A new study in the Journal of Experimental Social Psychology reveals that jokes, memes, and punchlines are significantly funnier when they are easy to process. This cognitive fluency helps our brains quickly make sense of unexpected humour.",
+      "aiSummary": "A new study in the Journal of Experimental Social Psychology reveals that jokes, memes, and punchlines are significantly funnier when they are easy to process. This cognitive fluency helps our brains quickly make sense of unexpected humour.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study in the Journal of Experimental Social Psychology reveals that jokes, memes, and punchlines are significantly funnier when they are easy to process. This cognitive fluency helps our brains quickly make sense of unexpected humour.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/comedy-is-funnier-when-it-is-easier-to-process-new-psychology-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "f369ca0439f6",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "A longer exhale may push your brain toward bolder decisions",
+      "titleKo": "",
+      "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
+      "aiSummary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
+      "featured": false
+    },
+    {
+      "id": "33762afc1aa7",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Scientists reveal the hidden instructions that build the human brain",
+      "titleKo": "",
+      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
+      "aiSummary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
+      "featured": false
+    },
     {
       "id": "5335e4a60de7",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Singles and people unhappy in their romantic relationships are more likely to develop strong emotional and physical attractions to fictional characters, suggesting one-sided media crushes can serve as a substitute for unfulfilled real-world needs.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-with-unfulfilled-romantic-needs-form-stronger-attachments-to-fictional-ch/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a436ded141b6",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and application of a new practical English textbook driven by artificial intelligence. A five-layer architecture is proposed: knowledge mapping, learner profiling, task generation, feedback orchestration, and teacher-side governance. A prototype was tested on 186 non-English-major undergraduates for eight weeks",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.02981",
-      "featured": false
-    },
-    {
-      "id": "0b564610b46f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "MasterControl Seventeen Every Time",
-      "titleKo": "",
-      "summary": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can remain expressive within a defined analytical class, using relational operations plus aggregation, comparison, windows, ranking, and similarity. Fixed meaning, policy, data, and execution rules also make results replayable. Across 440 runs, three 8B models generated SQL and selected tools at runtime, wh",
-      "aiSummary": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can remain expressive within a defined analytical class, using relational operations plus aggregation, comparison, windows, ranking, and similarity. Fixed meaning, policy, data, and execution rules also make results replayable. Across 440 runs, three 8B models generated SQL and selected tools at runtime, wh",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can remain expressive within a defined analytical class, using relational operations plus aggregation, comparison, windows, ranking, and similarity. Fixed meaning, policy, data, and execution rules also make results replayable. Across 440 runs, three 8B models generated SQL and selected tools at runtime, wh",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.03209",
-      "featured": false
-    },
-    {
-      "id": "1f4bc90a91cb",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-      "titleKo": "",
-      "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model produces the official trajectory, while a faster speculative drafter model continuously predicts and executes future action chains on an isolated environment snapshot. SMC mines recurring multi-action sk",
-      "aiSummary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model produces the official trajectory, while a faster speculative drafter model continuously predicts and executes future action chains on an isolated environment snapshot. SMC mines recurring multi-action sk",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model produces the official trajectory, while a faster speculative drafter model continuously predicts and executes future action chains on an isolated environment snapshot. SMC mines recurring multi-action sk",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.03236",
-      "featured": false
-    },
-    {
-      "id": "591ed7b3a798",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "titleKo": "",
-      "summary": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validation protocol. Plans cite the exact public records they used, and an executor validates only the record",
-      "aiSummary": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validation protocol. Plans cite the exact public records they used, and an executor validates only the record",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validation protocol. Plans cite the exact public records they used, and an executor validates only the record",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.03340",
       "featured": false
     }
   ]
