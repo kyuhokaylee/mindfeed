@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-05T16:42:10.692453+00:00",
+  "updated": "2026-09-05T18:55:41.179680+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5335e4a60de7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "People with unfulfilled romantic needs form stronger attachments to fictional characters",
+      "titleKo": "",
+      "summary": "Singles and people unhappy in their romantic relationships are more likely to develop strong emotional and physical attractions to fictional characters, suggesting one-sided media crushes can serve as a substitute for unfulfilled real-world needs.",
+      "aiSummary": "Singles and people unhappy in their romantic relationships are more likely to develop strong emotional and physical attractions to fictional characters, suggesting one-sided media crushes can serve as a substitute for unfulfilled real-world needs.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Singles and people unhappy in their romantic relationships are more likely to develop strong emotional and physical attractions to fictional characters, suggesting one-sided media crushes can serve as a substitute for unfulfilled real-world needs.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/people-with-unfulfilled-romantic-needs-form-stronger-attachments-to-fictional-ch/",
+      "featured": true
+    },
+    {
+      "id": "a436ded141b6",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+      "titleKo": "",
+      "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
+      "aiSummary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
+      "featured": false
+    },
+    {
+      "id": "84a3d0138885",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "New injectable treatment helps the brain rebuild after stroke",
+      "titleKo": "",
+      "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right conditions.",
+      "aiSummary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right conditions.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right conditions.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
+      "featured": false
+    },
     {
       "id": "5d339ab6c6bb",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Standard genetic tests for Alzheimer's often fail in non-European populations. A new study shows that blending global genetic data creates a highly accurate tool that predicts both Alzheimer's risk and underlying brain damage across diverse ancestral groups.",
       "keyPoints": [],
       "url": "https://www.psypost.org/scientists-build-a-more-accurate-alzheimers-risk-score-using-global-dna-data/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d38c786bfdff",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validation protocol. Plans cite the exact public records they used, and an executor validates only the record",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.03340",
-      "featured": false
-    },
-    {
-      "id": "243d801255ba",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "18시간 전 / 18h ago",
-      "title": "The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors",
-      "titleKo": "",
-      "summary": "arXiv:2609.02959v1 Announce Type: new Abstract: What does a language model predict when it has few clues? The answer lurks in its unembedding geometry: a single direction of the unembedding matrix encodes the unigram distribution of the training corpus, which serves as the Bayesian prior the model falls back on when uncertain. This structure --- which we term the \\emph{direction of ignorance} --- appears in all four model families examined (\\texttt{Llama}, \\texttt{Qwen}, \\texttt{Gemma}, and \\texttt{Pythia}), ranging from 0.4B to 405B parameters. Projecting the final prediction state onto this ",
-      "aiSummary": "arXiv:2609.02959v1 Announce Type: new Abstract: What does a language model predict when it has few clues? The answer lurks in its unembedding geometry: a single direction of the unembedding matrix encodes the unigram distribution of the training corpus, which serves as the Bayesian prior the model falls back on when uncertain. This structure --- which we term the \\emph{direction of ignorance} --- appears in all four model families examined (\\texttt{Llama}, \\texttt{Qwen}, \\texttt{Gemma}, and \\texttt{Pythia}), ranging from 0.4B to 405B parameters. Projecting the final prediction state onto this ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.02959v1 Announce Type: new Abstract: What does a language model predict when it has few clues? The answer lurks in its unembedding geometry: a single direction of the unembedding matrix encodes the unigram distribution of the training corpus, which serves as the Bayesian prior the model falls back on when uncertain. This structure --- which we term the \\emph{direction of ignorance} --- appears in all four model families examined (\\texttt{Llama}, \\texttt{Qwen}, \\texttt{Gemma}, and \\texttt{Pythia}), ranging from 0.4B to 405B parameters. Projecting the final prediction state onto this ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.02959",
-      "featured": false
-    },
-    {
-      "id": "f369ca0439f6",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "11시간 전 / 11h ago",
-      "title": "A longer exhale may push your brain toward bolder decisions",
-      "titleKo": "",
-      "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-      "aiSummary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-      "featured": false
-    },
-    {
-      "id": "33762afc1aa7",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "16시간 전 / 16h ago",
-      "title": "Scientists reveal the hidden instructions that build the human brain",
-      "titleKo": "",
-      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
-      "aiSummary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
       "featured": false
     }
   ]
