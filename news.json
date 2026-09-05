@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-05T05:29:54.212278+00:00",
+  "updated": "2026-09-05T10:21:37.079744+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b416c55179ae",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Over half the risk for postpartum psychosis is tied to genetics, large study finds",
+      "titleKo": "",
+      "summary": "A new study indicates that over half the risk for postpartum psychosis is driven by genetics. The findings provide evidence that the condition is a biological vulnerability rather than just a psychological reaction to childbirth.",
+      "aiSummary": "A new study indicates that over half the risk for postpartum psychosis is driven by genetics. The findings provide evidence that the condition is a biological vulnerability rather than just a psychological reaction to childbirth.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study indicates that over half the risk for postpartum psychosis is driven by genetics. The findings provide evidence that the condition is a biological vulnerability rather than just a psychological reaction to childbirth.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/over-half-the-risk-for-postpartum-psychosis-is-tied-to-genetics-large-study-finds/",
+      "featured": true
+    },
     {
       "id": "f551513e7b2f",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "\"Single positivity\" encourages young women to embrace independence, but this cultural approval comes with an expiration date. A new study reveals that as single women age, they face renewed societal pressure to settle down and find a partner.",
       "keyPoints": [],
       "url": "https://www.psypost.org/singlehood-is-increasingly-celebrated-among-women-but-the-pressure-to-couple-up-persists/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e92fe64f5af3",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2609.02984v1 Announce Type: new Abstract: The conventional approach to machine learning, that is, collecting data, training models, and performing inference in a single location, faces fundamental limitations, including scalability and privacy, that restrict its applicability. To address these challenges, recent research has explored collaborative learning approaches, including federated learning and decentralized learning, where individual agents perform training and inference locally, with limited collaboration. Most collaborative learning research focuses on Euclidean data with regula",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.02984",
-      "featured": false
-    },
-    {
-      "id": "4789c8e6b389",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "Modern Transformers Are Implicit Hybrids: From Functional Differentiation to Principled Hybrid Architecture Design",
-      "titleKo": "",
-      "summary": "arXiv:2609.02986v1 Announce Type: new Abstract: Hybrid architectures combining Full Attention (FA) and Linear Attention (LA) are increasingly prominent, yet their allocation remains heuristic. We seek an evidence-grounded basis in head-level functional organization learned by RoPE-based Transformers. Behavioral probes do not yield a complete taxonomy, so we propose two intervention metrics: RoPE Frequency Importance Score (RFIS), measuring how each frequency affects a head's attention distribution, and RoPE Positional Dependence (RPD), isolating dependence on rotary positional modulation. On Q",
-      "aiSummary": "arXiv:2609.02986v1 Announce Type: new Abstract: Hybrid architectures combining Full Attention (FA) and Linear Attention (LA) are increasingly prominent, yet their allocation remains heuristic. We seek an evidence-grounded basis in head-level functional organization learned by RoPE-based Transformers. Behavioral probes do not yield a complete taxonomy, so we propose two intervention metrics: RoPE Frequency Importance Score (RFIS), measuring how each frequency affects a head's attention distribution, and RoPE Positional Dependence (RPD), isolating dependence on rotary positional modulation. On Q",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.02986v1 Announce Type: new Abstract: Hybrid architectures combining Full Attention (FA) and Linear Attention (LA) are increasingly prominent, yet their allocation remains heuristic. We seek an evidence-grounded basis in head-level functional organization learned by RoPE-based Transformers. Behavioral probes do not yield a complete taxonomy, so we propose two intervention metrics: RoPE Frequency Importance Score (RFIS), measuring how each frequency affects a head's attention distribution, and RoPE Positional Dependence (RPD), isolating dependence on rotary positional modulation. On Q",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.02986",
       "featured": false
     }
   ]
