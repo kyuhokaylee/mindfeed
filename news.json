@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-05T10:21:37.079744+00:00",
+  "updated": "2026-09-05T13:48:01.479879+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "6a3b76081d8f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Watching violent online pornography is linked to poorer sexual health",
+      "titleKo": "",
+      "summary": "Young adults who frequently watch physically violent online pornography report lower empathy, more acceptance of violence against women, and increased difficulties with sexual function, according to a large survey conducted in Spain.",
+      "aiSummary": "Young adults who frequently watch physically violent online pornography report lower empathy, more acceptance of violence against women, and increased difficulties with sexual function, according to a large survey conducted in Spain.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Young adults who frequently watch physically violent online pornography report lower empathy, more acceptance of violence against women, and increased difficulties with sexual function, according to a large survey conducted in Spain.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/watching-violent-online-pornography-is-linked-to-poorer-sexual-health/",
+      "featured": true
+    },
+    {
+      "id": "32951343d7c6",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists map the brain pathway that links social isolation to increased alcohol consumption",
+      "titleKo": "",
+      "summary": "Researchers have identified a specific brain circuit that drives increased alcohol intake following social isolation. The findings provide a biological mechanism for how a negative social environment changes what the brain treats as a valuable reward.",
+      "aiSummary": "Researchers have identified a specific brain circuit that drives increased alcohol intake following social isolation. The findings provide a biological mechanism for how a negative social environment changes what the brain treats as a valuable reward.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers have identified a specific brain circuit that drives increased alcohol intake following social isolation. The findings provide a biological mechanism for how a negative social environment changes what the brain treats as a valuable reward.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-map-the-brain-pathway-that-links-social-isolation-to-increased-alcohol-consumption/",
+      "featured": false
+    },
+    {
+      "id": "8c1e7c134701",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Brain damage reveals how a specific region generates mind-wandering",
+      "titleKo": "",
+      "summary": "Damage to the ventromedial prefrontal cortex hinders a person's ability to let their mind wander. A new small study suggests this brain region is necessary for generating the internal thoughts and memories that distract us from the present.",
+      "aiSummary": "Damage to the ventromedial prefrontal cortex hinders a person's ability to let their mind wander. A new small study suggests this brain region is necessary for generating the internal thoughts and memories that distract us from the present.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Damage to the ventromedial prefrontal cortex hinders a person's ability to let their mind wander. A new small study suggests this brain region is necessary for generating the internal thoughts and memories that distract us from the present.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/brain-damage-reveals-how-a-specific-region-generates-mind-wandering/",
+      "featured": false
+    },
     {
       "id": "b416c55179ae",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A new study indicates that over half the risk for postpartum psychosis is driven by genetics. The findings provide evidence that the condition is a biological vulnerability rather than just a psychological reaction to childbirth.",
       "keyPoints": [],
       "url": "https://www.psypost.org/over-half-the-risk-for-postpartum-psychosis-is-tied-to-genetics-large-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f551513e7b2f",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A recent study finds that people with psychotic spectrum disorders who have a history of aggression are significantly less accurate at recognizing emotions than non-aggressive patients or healthy individuals, often misidentifying negative social cues as positive ones.",
       "keyPoints": [],
       "url": "https://www.psypost.org/individuals-with-psychotic-spectrum-disorder-are-less-successful-in-recognizing-the-emotions-of-others/",
-      "featured": false
-    },
-    {
-      "id": "2f6343396b72",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Treatment-resistant depression linked to reduced brain entropy",
-      "titleKo": "",
-      "summary": "Patients with treatment-resistant depression show a widespread loss of complexity in their resting brain activity. A recent brain imaging study suggests this reduced neural entropy could serve as a biological marker for the severe, chronic illness.",
-      "aiSummary": "Patients with treatment-resistant depression show a widespread loss of complexity in their resting brain activity. A recent brain imaging study suggests this reduced neural entropy could serve as a biological marker for the severe, chronic illness.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Patients with treatment-resistant depression show a widespread loss of complexity in their resting brain activity. A recent brain imaging study suggests this reduced neural entropy could serve as a biological marker for the severe, chronic illness.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/brain-imaging-reveals-reduced-neural-complexity-in-treatment-resistant-depressio/",
-      "featured": false
-    },
-    {
-      "id": "a8921605ab42",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "Equation Recast for Canonical Operator Learning Across Parametric PDEs",
-      "titleKo": "",
-      "summary": "arXiv:2609.02982v1 Announce Type: new Abstract: Learning solution operators across broad parameter ranges can require substantial coverage of both input functions and physical parameters, particularly for purely data-driven parametric models. In addition, the resulting models may fail silently outside the training distribution. We introduce equation recast, which reformulates parametric operator learning as the learning of a single canonical operator. Parameter-induced operator variations are derived analytically from the governing equation and absorbed into effective sources, enabling zero-sh",
-      "aiSummary": "arXiv:2609.02982v1 Announce Type: new Abstract: Learning solution operators across broad parameter ranges can require substantial coverage of both input functions and physical parameters, particularly for purely data-driven parametric models. In addition, the resulting models may fail silently outside the training distribution. We introduce equation recast, which reformulates parametric operator learning as the learning of a single canonical operator. Parameter-induced operator variations are derived analytically from the governing equation and absorbed into effective sources, enabling zero-sh",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.02982v1 Announce Type: new Abstract: Learning solution operators across broad parameter ranges can require substantial coverage of both input functions and physical parameters, particularly for purely data-driven parametric models. In addition, the resulting models may fail silently outside the training distribution. We introduce equation recast, which reformulates parametric operator learning as the learning of a single canonical operator. Parameter-induced operator variations are derived analytically from the governing equation and absorbed into effective sources, enabling zero-sh",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.02982",
-      "featured": false
-    },
-    {
-      "id": "ce4e221c8bef",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "From Euclidean to Graph-Structured Data: A Survey of Collaborative Learning",
-      "titleKo": "",
-      "summary": "arXiv:2609.02984v1 Announce Type: new Abstract: The conventional approach to machine learning, that is, collecting data, training models, and performing inference in a single location, faces fundamental limitations, including scalability and privacy, that restrict its applicability. To address these challenges, recent research has explored collaborative learning approaches, including federated learning and decentralized learning, where individual agents perform training and inference locally, with limited collaboration. Most collaborative learning research focuses on Euclidean data with regula",
-      "aiSummary": "arXiv:2609.02984v1 Announce Type: new Abstract: The conventional approach to machine learning, that is, collecting data, training models, and performing inference in a single location, faces fundamental limitations, including scalability and privacy, that restrict its applicability. To address these challenges, recent research has explored collaborative learning approaches, including federated learning and decentralized learning, where individual agents perform training and inference locally, with limited collaboration. Most collaborative learning research focuses on Euclidean data with regula",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.02984v1 Announce Type: new Abstract: The conventional approach to machine learning, that is, collecting data, training models, and performing inference in a single location, faces fundamental limitations, including scalability and privacy, that restrict its applicability. To address these challenges, recent research has explored collaborative learning approaches, including federated learning and decentralized learning, where individual agents perform training and inference locally, with limited collaboration. Most collaborative learning research focuses on Euclidean data with regula",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.02984",
       "featured": false
     }
   ]
