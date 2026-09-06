@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-06T18:58:38.091098+00:00",
+  "updated": "2026-09-06T21:14:03.385984+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "31b4d4fa1cc3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "The psychological effects of padel and pickleball, according to science",
+      "titleKo": "",
+      "summary": "Wondering if the pickleball hype is real? A new systematic review confirms the sport boosts happiness and social integration, while padel research largely analyzes competitive stress and mental fatigue in athletes.",
+      "aiSummary": "Wondering if the pickleball hype is real? A new systematic review confirms the sport boosts happiness and social integration, while padel research largely analyzes competitive stress and mental fatigue in athletes.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Wondering if the pickleball hype is real? A new systematic review confirms the sport boosts happiness and social integration, while padel research largely analyzes competitive stress and mental fatigue in athletes.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-psychological-effects-of-padel-and-pickleball-according-to-science/",
+      "featured": true
+    },
+    {
+      "id": "33762afc1aa7",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Scientists reveal the hidden instructions that build the human brain",
+      "titleKo": "",
+      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
+      "aiSummary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
+      "featured": false
+    },
     {
       "id": "d71766d05616",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new mouse study indicates the common artificial sweetener aspartame could exacerbate stroke-related brain damage. The sweetener suppresses protective cellular signals and increases oxidative stress, leading to higher rates of brain cell death.",
       "keyPoints": [],
       "url": "https://www.psypost.org/common-artificial-sweetener-aspartame-makes-brain-cells-more-vulnerable-to-stroke-damage-mouse-study-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a436ded141b6",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validation protocol. Plans cite the exact public records they used, and an executor validates only the record",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.03340",
-      "featured": false
-    },
-    {
-      "id": "47a9e0f1faab",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Comedy is funnier when it is easier to process, new psychology study finds",
-      "titleKo": "",
-      "summary": "A new study in the Journal of Experimental Social Psychology reveals that jokes, memes, and punchlines are significantly funnier when they are easy to process. This cognitive fluency helps our brains quickly make sense of unexpected humour.",
-      "aiSummary": "A new study in the Journal of Experimental Social Psychology reveals that jokes, memes, and punchlines are significantly funnier when they are easy to process. This cognitive fluency helps our brains quickly make sense of unexpected humour.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study in the Journal of Experimental Social Psychology reveals that jokes, memes, and punchlines are significantly funnier when they are easy to process. This cognitive fluency helps our brains quickly make sense of unexpected humour.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/comedy-is-funnier-when-it-is-easier-to-process-new-psychology-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "f369ca0439f6",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "A longer exhale may push your brain toward bolder decisions",
-      "titleKo": "",
-      "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-      "aiSummary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
       "featured": false
     }
   ]
