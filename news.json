@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-06T16:48:28.026418+00:00",
+  "updated": "2026-09-06T18:58:38.091098+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d71766d05616",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Common artificial sweetener aspartame makes brain cells more vulnerable to stroke damage, mouse study suggests",
+      "titleKo": "",
+      "summary": "A new mouse study indicates the common artificial sweetener aspartame could exacerbate stroke-related brain damage. The sweetener suppresses protective cellular signals and increases oxidative stress, leading to higher rates of brain cell death.",
+      "aiSummary": "A new mouse study indicates the common artificial sweetener aspartame could exacerbate stroke-related brain damage. The sweetener suppresses protective cellular signals and increases oxidative stress, leading to higher rates of brain cell death.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new mouse study indicates the common artificial sweetener aspartame could exacerbate stroke-related brain damage. The sweetener suppresses protective cellular signals and increases oxidative stress, leading to higher rates of brain cell death.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/common-artificial-sweetener-aspartame-makes-brain-cells-more-vulnerable-to-stroke-damage-mouse-study-suggests/",
+      "featured": true
+    },
+    {
+      "id": "a436ded141b6",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+      "titleKo": "",
+      "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
+      "aiSummary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
+      "featured": false
+    },
     {
       "id": "374a99b6574e",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study finds that taking the antidepressant escitalopram in the days leading up to menstruation reduces irritability, anger, and impulsive behavioral responses in women suffering from severe premenstrual symptoms.",
       "keyPoints": [],
       "url": "https://www.psypost.org/escitalopram-reduces-impulsivity-and-anger-in-women-with-severe-premenstrual-irritability/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c9570e9fff43",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-      "featured": false
-    },
-    {
-      "id": "33762afc1aa7",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Scientists reveal the hidden instructions that build the human brain",
-      "titleKo": "",
-      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
-      "aiSummary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-      "featured": false
-    },
-    {
-      "id": "5335e4a60de7",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "People with unfulfilled romantic needs form stronger attachments to fictional characters",
-      "titleKo": "",
-      "summary": "Singles and people unhappy in their romantic relationships are more likely to develop strong emotional and physical attractions to fictional characters, suggesting one-sided media crushes can serve as a substitute for unfulfilled real-world needs.",
-      "aiSummary": "Singles and people unhappy in their romantic relationships are more likely to develop strong emotional and physical attractions to fictional characters, suggesting one-sided media crushes can serve as a substitute for unfulfilled real-world needs.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Singles and people unhappy in their romantic relationships are more likely to develop strong emotional and physical attractions to fictional characters, suggesting one-sided media crushes can serve as a substitute for unfulfilled real-world needs.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/people-with-unfulfilled-romantic-needs-form-stronger-attachments-to-fictional-ch/",
       "featured": false
     }
   ]
