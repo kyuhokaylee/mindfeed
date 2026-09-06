@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-06T04:02:30.907937+00:00",
+  "updated": "2026-09-06T09:14:01.327927+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e92fe64f5af3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "25일 전 / 25d ago",
+      "title": "What It’s Like to Be…a Mail Carrier",
+      "titleKo": "",
+      "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+      "featured": true
+    },
+    {
+      "id": "13ff983ba277",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "39일 전 / 39d ago",
+      "title": "What It’s Like to Be…a Hotshot",
+      "titleKo": "",
+      "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+      "featured": false
+    },
+    {
+      "id": "260b38219872",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "Scientists find a weak spot in one of the deadliest brain cancers",
+      "titleKo": "",
+      "summary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer cells more vulnerable to radiation. The strategy works by restoring activity of PP2A, an enzyme that glioblastoma cells appear to suppress. Human testing will be needed to determine whether the approach is safe and effective.",
+      "aiSummary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer cells more vulnerable to radiation. The strategy works by restoring activity of PP2A, an enzyme that glioblastoma cells appear to suppress. Human testing will be needed to determine whether the approach is safe and effective.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer cells more vulnerable to radiation. The strategy works by restoring activity of PP2A, an enzyme that glioblastoma cells appear to suppress. Human testing will be needed to determine whether the approach is safe and effective.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
+      "featured": false
+    },
     {
       "id": "58d89a841759",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A new clinical trial suggests the weight-loss drug semaglutide could help treat alcohol use disorder. While it didn't eliminate laboratory-assessed cravings, the medication significantly reduced heavy drinking days and overall alcohol-related problems in treatment-seeking adults.",
       "keyPoints": [],
       "url": "https://www.psypost.org/semaglutide-might-reduce-how-much-people-with-alcohol-use-disorder-drink-when-they-do-drink/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0bb12380ac86",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Young adults who frequently watch physically violent online pornography report lower empathy, more acceptance of violence against women, and increased difficulties with sexual function, according to a large survey conducted in Spain.",
       "keyPoints": [],
       "url": "https://www.psypost.org/watching-violent-online-pornography-is-linked-to-poorer-sexual-health/",
-      "featured": false
-    },
-    {
-      "id": "32951343d7c6",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Scientists map the brain pathway that links social isolation to increased alcohol consumption",
-      "titleKo": "",
-      "summary": "Researchers have identified a specific brain circuit that drives increased alcohol intake following social isolation. The findings provide a biological mechanism for how a negative social environment changes what the brain treats as a valuable reward.",
-      "aiSummary": "Researchers have identified a specific brain circuit that drives increased alcohol intake following social isolation. The findings provide a biological mechanism for how a negative social environment changes what the brain treats as a valuable reward.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers have identified a specific brain circuit that drives increased alcohol intake following social isolation. The findings provide a biological mechanism for how a negative social environment changes what the brain treats as a valuable reward.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/scientists-map-the-brain-pathway-that-links-social-isolation-to-increased-alcohol-consumption/",
-      "featured": false
-    },
-    {
-      "id": "8c1e7c134701",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Brain damage reveals how a specific region generates mind-wandering",
-      "titleKo": "",
-      "summary": "Damage to the ventromedial prefrontal cortex hinders a person's ability to let their mind wander. A new small study suggests this brain region is necessary for generating the internal thoughts and memories that distract us from the present.",
-      "aiSummary": "Damage to the ventromedial prefrontal cortex hinders a person's ability to let their mind wander. A new small study suggests this brain region is necessary for generating the internal thoughts and memories that distract us from the present.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Damage to the ventromedial prefrontal cortex hinders a person's ability to let their mind wander. A new small study suggests this brain region is necessary for generating the internal thoughts and memories that distract us from the present.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/brain-damage-reveals-how-a-specific-region-generates-mind-wandering/",
-      "featured": false
-    },
-    {
-      "id": "b416c55179ae",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Over half the risk for postpartum psychosis is tied to genetics, large study finds",
-      "titleKo": "",
-      "summary": "A new study indicates that over half the risk for postpartum psychosis is driven by genetics. The findings provide evidence that the condition is a biological vulnerability rather than just a psychological reaction to childbirth.",
-      "aiSummary": "A new study indicates that over half the risk for postpartum psychosis is driven by genetics. The findings provide evidence that the condition is a biological vulnerability rather than just a psychological reaction to childbirth.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study indicates that over half the risk for postpartum psychosis is driven by genetics. The findings provide evidence that the condition is a biological vulnerability rather than just a psychological reaction to childbirth.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/over-half-the-risk-for-postpartum-psychosis-is-tied-to-genetics-large-study-finds/",
       "featured": false
     }
   ]
