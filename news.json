@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-06T13:30:05.804139+00:00",
+  "updated": "2026-09-06T16:48:28.026418+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "374a99b6574e",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Escitalopram reduces impulsivity and anger in women with severe premenstrual irritability",
+      "titleKo": "",
+      "summary": "A new study finds that taking the antidepressant escitalopram in the days leading up to menstruation reduces irritability, anger, and impulsive behavioral responses in women suffering from severe premenstrual symptoms.",
+      "aiSummary": "A new study finds that taking the antidepressant escitalopram in the days leading up to menstruation reduces irritability, anger, and impulsive behavioral responses in women suffering from severe premenstrual symptoms.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study finds that taking the antidepressant escitalopram in the days leading up to menstruation reduces irritability, anger, and impulsive behavioral responses in women suffering from severe premenstrual symptoms.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/escitalopram-reduces-impulsivity-and-anger-in-women-with-severe-premenstrual-irritability/",
+      "featured": true
+    },
+    {
+      "id": "c9570e9fff43",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Free-to-play video games carry heavy financial costs for a vulnerable minority of teens",
+      "titleKo": "",
+      "summary": "A new study shows that just 10% of adolescent gamers account for over 60% of in-game purchases. These heavy spenders are significantly more likely to exhibit symptoms of gaming and gambling disorders, regardless of their family's wealth.",
+      "aiSummary": "A new study shows that just 10% of adolescent gamers account for over 60% of in-game purchases. These heavy spenders are significantly more likely to exhibit symptoms of gaming and gambling disorders, regardless of their family's wealth.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study shows that just 10% of adolescent gamers account for over 60% of in-game purchases. These heavy spenders are significantly more likely to exhibit symptoms of gaming and gambling disorders, regardless of their family's wealth.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/free-to-play-video-games-carry-heavy-financial-costs-for-a-vulnerable-minority-of-teens/",
+      "featured": false
+    },
     {
       "id": "0b47ec09d9d2",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "New research explores how our personalities influence the way we cope with nightmares. The study reveals that extroverts prefer to talk about their bad dreams, while other traits are linked to unique strategies like rewriting dream endings.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-personality-traits-shape-the-way-we-cope-with-nightmares/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2e9f867df043",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Singles and people unhappy in their romantic relationships are more likely to develop strong emotional and physical attractions to fictional characters, suggesting one-sided media crushes can serve as a substitute for unfulfilled real-world needs.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-with-unfulfilled-romantic-needs-form-stronger-attachments-to-fictional-ch/",
-      "featured": false
-    },
-    {
-      "id": "a436ded141b6",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-      "titleKo": "",
-      "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
-      "aiSummary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-      "featured": false
-    },
-    {
-      "id": "84a3d0138885",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "New injectable treatment helps the brain rebuild after stroke",
-      "titleKo": "",
-      "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right conditions.",
-      "aiSummary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right conditions.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right conditions.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
       "featured": false
     }
   ]
