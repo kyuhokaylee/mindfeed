@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-08T18:25:55.776113+00:00",
+  "updated": "2026-09-08T21:43:24.043804+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8b7a7a3b6aa1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists show that virtual reality illusions can physically cool down your real body",
+      "titleKo": "",
+      "summary": "By tricking the brain into seeing a left hand operating on the right side of the body in virtual reality, researchers discovered they could trigger a physical drop in skin temperature in a person's actual left hand.",
+      "aiSummary": "By tricking the brain into seeing a left hand operating on the right side of the body in virtual reality, researchers discovered they could trigger a physical drop in skin temperature in a person's actual left hand.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "By tricking the brain into seeing a left hand operating on the right side of the body in virtual reality, researchers discovered they could trigger a physical drop in skin temperature in a person's actual left hand.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/virtual-reality-illusions-can-physically-cool-down-your-real-body/",
+      "featured": true
+    },
     {
       "id": "a091d1f3c977",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Researchers found that altering a small group of dopamine-producing neurons in fruit flies fragments their sleep. This sleep deprivation prevents the insects from forming long-term memories, highlighting a crucial neural link between rest and learning.",
       "keyPoints": [],
       "url": "https://www.psypost.org/disrupting-specific-dopamine-neurons-in-fruit-flies-erases-long-term-memories-by-ruining-sleep/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "dddbd2ef8f8d",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-      "featured": false
-    },
-    {
-      "id": "5c889f3d4032",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Researchers find AI spontaneously develops a sense of facial beauty without training",
-      "titleKo": "",
-      "summary": "New research shows that artificial neural networks can spontaneously develop a sense of facial beauty without any prior training. This discovery suggests that aesthetic preferences might stem from the basic ways our brains process visual information.",
-      "aiSummary": "New research shows that artificial neural networks can spontaneously develop a sense of facial beauty without any prior training. This discovery suggests that aesthetic preferences might stem from the basic ways our brains process visual information.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "New research shows that artificial neural networks can spontaneously develop a sense of facial beauty without any prior training. This discovery suggests that aesthetic preferences might stem from the basic ways our brains process visual information.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/artificial-intelligence-spontaneously-develops-a-sense-of-facial-beauty-without/",
       "featured": false
     }
   ]
