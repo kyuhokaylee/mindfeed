@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-08T21:43:24.043804+00:00",
+  "updated": "2026-09-08T23:57:51.143879+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "1069855909be",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Cognitive biases and emotional triggers make AI-generated images highly deceptive",
+      "titleKo": "",
+      "summary": "Emotionally charged AI images are flooding Facebook, and users are falling for them. Researchers found that synthetic pictures bypass critical thinking by exploiting our deepest cognitive biases and driving massive, unwarranted engagement.",
+      "aiSummary": "Emotionally charged AI images are flooding Facebook, and users are falling for them. Researchers found that synthetic pictures bypass critical thinking by exploiting our deepest cognitive biases and driving massive, unwarranted engagement.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Emotionally charged AI images are flooding Facebook, and users are falling for them. Researchers found that synthetic pictures bypass critical thinking by exploiting our deepest cognitive biases and driving massive, unwarranted engagement.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/cognitive-biases-and-emotional-triggers-make-ai-generated-images-highly-deceptive/",
+      "featured": true
+    },
     {
       "id": "8b7a7a3b6aa1",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "By tricking the brain into seeing a left hand operating on the right side of the body in virtual reality, researchers discovered they could trigger a physical drop in skin temperature in a person's actual left hand.",
       "keyPoints": [],
       "url": "https://www.psypost.org/virtual-reality-illusions-can-physically-cool-down-your-real-body/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a091d1f3c977",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2609.04461v1 Announce Type: new Abstract: Foundation models are beginning to reshape brain-signal analysis by moving the field beyond task-specific decoding pipelines toward reusable models pretrained on broad neural datasets. Magnetoencephalography (MEG) is a compelling but still underdeveloped target for this shift: it captures human cortical dynamics at millisecond resolution while offering stronger spatial interpretability than EEG, making it especially valuable for source-resolved studies of perception, language, cognition, and clinical brain function. Yet MEG foundation models rema",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.04461",
-      "featured": false
-    },
-    {
-      "id": "db53477a0482",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Popular brain supplement linked to shorter lifespan in men",
-      "titleKo": "",
-      "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
-      "aiSummary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
       "featured": false
     }
   ]
