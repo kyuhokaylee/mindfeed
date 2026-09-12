@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-12T10:27:29.722428+00:00",
+  "updated": "2026-09-12T13:56:46.005911+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "347ec26bb37f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "How anxiety and face gender shape emotional processing in children",
+      "titleKo": "",
+      "summary": "A recent study reveals how the developing brain processes facial expressions based on gender and emotion, finding that elevated anxiety alters how children react to threatening faces.",
+      "aiSummary": "A recent study reveals how the developing brain processes facial expressions based on gender and emotion, finding that elevated anxiety alters how children react to threatening faces.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study reveals how the developing brain processes facial expressions based on gender and emotion, finding that elevated anxiety alters how children react to threatening faces.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-anxiety-and-face-gender-shape-emotional-processing-in-children/",
+      "featured": true
+    },
     {
       "id": "b9c6a5f4b7c7",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent study reveals that engaging in multiple romantic or sexual relationships—whether consensually or through infidelity—does not compromise sexual health. In fact, non-monogamous individuals reported similar, or even slightly better, sexual functioning than strictly monogamous people.",
       "keyPoints": [],
       "url": "https://www.psypost.org/having-multiple-partners-does-not-compromise-sexual-health-large-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8c9052226ff4",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2609.10559v1 Announce Type: new Abstract: To address the challenges of behavioral multimodality, limited semantic utilization, and long-term error accumulation in vessel trajectory prediction, this paper proposes M3-Former, a multimodal trajectory prediction framework enhanced by large language models (LLMs). The proposed framework incorporates vessel static attributes and navigational intent as semantic priors for long-term trajectory modeling. Specifically, a unified multimodal representation space is constructed, in which static semantic information is encoded by a pre-trained LLM and",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.10559",
-      "featured": false
-    },
-    {
-      "id": "e743e43f4919",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Halo: Improving forecast accuracy through heteroscedastic estimation",
-      "titleKo": "",
-      "summary": "arXiv:2609.10589v1 Announce Type: new Abstract: Heteroscedastic forecasting, where a network estimates a scale parameter alongside a location parameter, is normally motivated by uncertainty quantification. This paper shows it also improves the point estimate, in contrast to reported negative results for heteroscedastic estimation outside time series. Halo is a modification that reuses an existing deep forecaster's architecture, giving it a second output for the scale of its implied distribution and training it under the matching negative log likelihood. Adapting three state-of-the-art models -",
-      "aiSummary": "arXiv:2609.10589v1 Announce Type: new Abstract: Heteroscedastic forecasting, where a network estimates a scale parameter alongside a location parameter, is normally motivated by uncertainty quantification. This paper shows it also improves the point estimate, in contrast to reported negative results for heteroscedastic estimation outside time series. Halo is a modification that reuses an existing deep forecaster's architecture, giving it a second output for the scale of its implied distribution and training it under the matching negative log likelihood. Adapting three state-of-the-art models -",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.10589v1 Announce Type: new Abstract: Heteroscedastic forecasting, where a network estimates a scale parameter alongside a location parameter, is normally motivated by uncertainty quantification. This paper shows it also improves the point estimate, in contrast to reported negative results for heteroscedastic estimation outside time series. Halo is a modification that reuses an existing deep forecaster's architecture, giving it a second output for the scale of its implied distribution and training it under the matching negative log likelihood. Adapting three state-of-the-art models -",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.10589",
       "featured": false
     }
   ]
