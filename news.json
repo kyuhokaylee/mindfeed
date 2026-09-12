@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-12T05:32:00.356962+00:00",
+  "updated": "2026-09-12T10:27:29.722428+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "b9c6a5f4b7c7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Having multiple partners does not compromise sexual health, large study finds",
+      "titleKo": "",
+      "summary": "A recent study reveals that engaging in multiple romantic or sexual relationships—whether consensually or through infidelity—does not compromise sexual health. In fact, non-monogamous individuals reported similar, or even slightly better, sexual functioning than strictly monogamous people.",
+      "aiSummary": "A recent study reveals that engaging in multiple romantic or sexual relationships—whether consensually or through infidelity—does not compromise sexual health. In fact, non-monogamous individuals reported similar, or even slightly better, sexual functioning than strictly monogamous people.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study reveals that engaging in multiple romantic or sexual relationships—whether consensually or through infidelity—does not compromise sexual health. In fact, non-monogamous individuals reported similar, or even slightly better, sexual functioning than strictly monogamous people.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/having-multiple-partners-does-not-compromise-sexual-health-large-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "8c9052226ff4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "16시간 전 / 16h ago",
+      "title": "Semaglutide may protect against psychiatric disorders independent of weight loss",
+      "titleKo": "",
+      "summary": "New research suggests that higher doses of the weight-loss drug semaglutide might lower the risk of developing certain mental health conditions. Surprisingly, this psychiatric benefit appears to be independent of how much weight a person actually loses.",
+      "aiSummary": "New research suggests that higher doses of the weight-loss drug semaglutide might lower the risk of developing certain mental health conditions. Surprisingly, this psychiatric benefit appears to be independent of how much weight a person actually loses.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research suggests that higher doses of the weight-loss drug semaglutide might lower the risk of developing certain mental health conditions. Surprisingly, this psychiatric benefit appears to be independent of how much weight a person actually loses.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/semaglutide-may-protect-against-psychiatric-disorders-independent-of-weight-loss/",
+      "featured": false
+    },
+    {
+      "id": "9af69dac58af",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "59일 전 / 59d ago",
+      "title": "What It’s Like to Be…an Airport CEO",
+      "titleKo": "",
+      "summary": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
+      "aiSummary": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract? And what did a missing freight elevator teach her about leadership? [buzzsprout episode='19294751' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serv",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-airport-ceo/",
+      "featured": false
+    },
     {
       "id": "fc7d853f8a19",
       "tag": "ai",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy may leave $f_{\\min}$ unchanged for many expansions. We introduce Probabilistic Focal Search (PFS), which follows the FS guided choice with probability $p$ and expands a minimum-$f$ OPEN node with probability $1-p$. The latter branch encourages the lower bound to advance, enlarging FOCAL and admitting",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.10584",
-      "featured": true
+      "featured": false
     },
     {
       "id": "28a16cca7a55",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2609.10589v1 Announce Type: new Abstract: Heteroscedastic forecasting, where a network estimates a scale parameter alongside a location parameter, is normally motivated by uncertainty quantification. This paper shows it also improves the point estimate, in contrast to reported negative results for heteroscedastic estimation outside time series. Halo is a modification that reuses an existing deep forecaster's architecture, giving it a second output for the scale of its implied distribution and training it under the matching negative log likelihood. Adapting three state-of-the-art models -",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.10589",
-      "featured": false
-    },
-    {
-      "id": "698eb1b63b8e",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Zero-shot rib design: merging training-free generative prior with topology optimization",
-      "titleKo": "",
-      "summary": "arXiv:2609.10643v1 Announce Type: new Abstract: Natural load-bearing patterns such as leaf venation, trabecular bone, and spider webs achieve high stiffness per unit mass, yet classical topology optimizers rarely reach such geometries, and few let engineers express structural design intent through natural language. This work treats a frozen text-to-image diffusion model as a training-free source of design knowledge and distills it into the physics loop of density-based topology optimization via score distillation sampling, so that a text prompt becomes an explicit, machine-interpretable repres",
-      "aiSummary": "arXiv:2609.10643v1 Announce Type: new Abstract: Natural load-bearing patterns such as leaf venation, trabecular bone, and spider webs achieve high stiffness per unit mass, yet classical topology optimizers rarely reach such geometries, and few let engineers express structural design intent through natural language. This work treats a frozen text-to-image diffusion model as a training-free source of design knowledge and distills it into the physics loop of density-based topology optimization via score distillation sampling, so that a text prompt becomes an explicit, machine-interpretable repres",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.10643v1 Announce Type: new Abstract: Natural load-bearing patterns such as leaf venation, trabecular bone, and spider webs achieve high stiffness per unit mass, yet classical topology optimizers rarely reach such geometries, and few let engineers express structural design intent through natural language. This work treats a frozen text-to-image diffusion model as a training-free source of design knowledge and distills it into the physics loop of density-based topology optimization via score distillation sampling, so that a text prompt becomes an explicit, machine-interpretable repres",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.10643",
-      "featured": false
-    },
-    {
-      "id": "6685fc41cfb3",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "Byzantine-Robust Federated Fire Detection with a Rotating Coordinator",
-      "titleKo": "",
-      "summary": "arXiv:2609.10647v1 Announce Type: new Abstract: We study the application of federated learning (FL) to indoor fire detection. Such fire-detection systems use edge cameras that record sensitive footage which cannot easily be collected at a central server. Existing federated solutions leave three practical obstacles unaddressed: limited uplink bandwidth, Byzantine (malicious or faulty) clients, and unconditional trust in a single, permanently fixed aggregation server. Our main contributions address all three. In particular, we provide (i) a curated indoor fire-detection dataset assembled from ei",
-      "aiSummary": "arXiv:2609.10647v1 Announce Type: new Abstract: We study the application of federated learning (FL) to indoor fire detection. Such fire-detection systems use edge cameras that record sensitive footage which cannot easily be collected at a central server. Existing federated solutions leave three practical obstacles unaddressed: limited uplink bandwidth, Byzantine (malicious or faulty) clients, and unconditional trust in a single, permanently fixed aggregation server. Our main contributions address all three. In particular, we provide (i) a curated indoor fire-detection dataset assembled from ei",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.10647v1 Announce Type: new Abstract: We study the application of federated learning (FL) to indoor fire detection. Such fire-detection systems use edge cameras that record sensitive footage which cannot easily be collected at a central server. Existing federated solutions leave three practical obstacles unaddressed: limited uplink bandwidth, Byzantine (malicious or faulty) clients, and unconditional trust in a single, permanently fixed aggregation server. Our main contributions address all three. In particular, we provide (i) a curated indoor fire-detection dataset assembled from ei",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.10647",
-      "featured": false
-    },
-    {
-      "id": "cb6ab1ae339e",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "17시간 전 / 17h ago",
-      "title": "Pulling Illusion in Individuals with Neurological Disorders",
-      "titleKo": "",
-      "summary": "arXiv:2609.10566v1 Announce Type: new Abstract: The pulling illusion induced by asymmetric vibration stimuli has attracted attention for its potential applications in rehabilitation and sensory assessment. However, the underlying mechanism of the pulling illusion remains unclear. This study addressed the central question of whether peripheral vibrotactile sensitivity alone is sufficient for the illusion to emerge or whether processing beyond basic vibration detection is also required. Neurological disorders can involve impairments at different levels of the nervous system, providing an opportu",
-      "aiSummary": "arXiv:2609.10566v1 Announce Type: new Abstract: The pulling illusion induced by asymmetric vibration stimuli has attracted attention for its potential applications in rehabilitation and sensory assessment. However, the underlying mechanism of the pulling illusion remains unclear. This study addressed the central question of whether peripheral vibrotactile sensitivity alone is sufficient for the illusion to emerge or whether processing beyond basic vibration detection is also required. Neurological disorders can involve impairments at different levels of the nervous system, providing an opportu",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.10566v1 Announce Type: new Abstract: The pulling illusion induced by asymmetric vibration stimuli has attracted attention for its potential applications in rehabilitation and sensory assessment. However, the underlying mechanism of the pulling illusion remains unclear. This study addressed the central question of whether peripheral vibrotactile sensitivity alone is sufficient for the illusion to emerge or whether processing beyond basic vibration detection is also required. Neurological disorders can involve impairments at different levels of the nervous system, providing an opportu",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.10566",
       "featured": false
     }
   ]
