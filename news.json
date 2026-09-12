@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-12T13:56:46.005911+00:00",
+  "updated": "2026-09-12T16:56:21.262540+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4b50eeb514cf",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Different video game genres alter brain activity and enhance cognition in unique ways",
+      "titleKo": "",
+      "summary": "A longitudinal study reveals that playing fast-paced action games and turn-based strategy games can enhance memory and attention. Brain scans indicate that action games lead to stronger and longer-lasting structural changes in the brain’s neural networks.",
+      "aiSummary": "A longitudinal study reveals that playing fast-paced action games and turn-based strategy games can enhance memory and attention. Brain scans indicate that action games lead to stronger and longer-lasting structural changes in the brain’s neural networks.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A longitudinal study reveals that playing fast-paced action games and turn-based strategy games can enhance memory and attention. Brain scans indicate that action games lead to stronger and longer-lasting structural changes in the brain’s neural networks.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/different-video-game-genres-alter-brain-activity-and-enhance-cognition-in-unique/",
+      "featured": true
+    },
+    {
+      "id": "1197ae426fe5",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Tracking brain waves reveals a surprising twist in how different generations form social bonds",
+      "titleKo": "",
+      "summary": "Getting to know someone can ease loneliness, but new research shows it physically alters brain alignment in surprising ways. When people of different generations make art together, their neural synchronization takes a completely unexpected path.",
+      "aiSummary": "Getting to know someone can ease loneliness, but new research shows it physically alters brain alignment in surprising ways. When people of different generations make art together, their neural synchronization takes a completely unexpected path.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Getting to know someone can ease loneliness, but new research shows it physically alters brain alignment in surprising ways. When people of different generations make art together, their neural synchronization takes a completely unexpected path.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/tracking-brain-waves-reveals-a-surprising-twist-in-how-different-generations-form-social-bonds/",
+      "featured": false
+    },
+    {
+      "id": "7f06fc82e535",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "3시간 전 / 3h ago",
+      "title": "Scientists find Ozempic may slow aging itself",
+      "titleKo": "",
+      "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
+      "aiSummary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
+      "featured": false
+    },
     {
       "id": "347ec26bb37f",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A recent study reveals how the developing brain processes facial expressions based on gender and emotion, finding that elevated anxiety alters how children react to threatening faces.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-anxiety-and-face-gender-shape-emotional-processing-in-children/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b9c6a5f4b7c7",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-      "featured": false
-    },
-    {
-      "id": "3044b286db92",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "12시간 전 / 12h ago",
-      "title": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
-      "titleKo": "",
-      "summary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems. People with ADHD had nearly double the odds of constipation, 58% higher odds of irritable bowel syndrome, and more than four times the odds of encopresis.",
-      "aiSummary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems. People with ADHD had nearly double the odds of constipation, 58% higher odds of irritable bowel syndrome, and more than four times the odds of encopresis.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems. People with ADHD had nearly double the odds of constipation, 58% higher odds of irritable bowel syndrome, and more than four times the odds of encopresis.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
-      "featured": false
-    },
-    {
-      "id": "ad41d86d686b",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "How a parent’s motivation influences their child’s writing skills",
-      "titleKo": "",
-      "summary": "When parents help their children with writing activities because they genuinely enjoy the process, children develop more positive attitudes toward the subject. These positive feelings are linked to better handwritten stories and improved grammar in the classroom.",
-      "aiSummary": "When parents help their children with writing activities because they genuinely enjoy the process, children develop more positive attitudes toward the subject. These positive feelings are linked to better handwritten stories and improved grammar in the classroom.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "When parents help their children with writing activities because they genuinely enjoy the process, children develop more positive attitudes toward the subject. These positive feelings are linked to better handwritten stories and improved grammar in the classroom.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/how-a-parent-s-motivation-influences-their-child-s-writing-skills/",
-      "featured": false
-    },
-    {
-      "id": "fb9d9f5a1a3a",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "17시간 전 / 17h ago",
-      "title": "M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction",
-      "titleKo": "",
-      "summary": "arXiv:2609.10559v1 Announce Type: new Abstract: To address the challenges of behavioral multimodality, limited semantic utilization, and long-term error accumulation in vessel trajectory prediction, this paper proposes M3-Former, a multimodal trajectory prediction framework enhanced by large language models (LLMs). The proposed framework incorporates vessel static attributes and navigational intent as semantic priors for long-term trajectory modeling. Specifically, a unified multimodal representation space is constructed, in which static semantic information is encoded by a pre-trained LLM and",
-      "aiSummary": "arXiv:2609.10559v1 Announce Type: new Abstract: To address the challenges of behavioral multimodality, limited semantic utilization, and long-term error accumulation in vessel trajectory prediction, this paper proposes M3-Former, a multimodal trajectory prediction framework enhanced by large language models (LLMs). The proposed framework incorporates vessel static attributes and navigational intent as semantic priors for long-term trajectory modeling. Specifically, a unified multimodal representation space is constructed, in which static semantic information is encoded by a pre-trained LLM and",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.10559v1 Announce Type: new Abstract: To address the challenges of behavioral multimodality, limited semantic utilization, and long-term error accumulation in vessel trajectory prediction, this paper proposes M3-Former, a multimodal trajectory prediction framework enhanced by large language models (LLMs). The proposed framework incorporates vessel static attributes and navigational intent as semantic priors for long-term trajectory modeling. Specifically, a unified multimodal representation space is constructed, in which static semantic information is encoded by a pre-trained LLM and",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.10559",
       "featured": false
     }
   ]
