@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-13T11:30:32.306355+00:00",
+  "updated": "2026-09-13T15:59:06.712325+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "17f323d3c2e6",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "A 20-minute workout protects memory after sleep loss just as well as a 90-minute nap",
+      "titleKo": "",
+      "summary": "A sleepless night severely impairs your ability to form new memories. But a recent study shows that a 20-minute workout or a 90-minute nap can both protect memory after sleep loss, using completely different brain mechanisms.",
+      "aiSummary": "A sleepless night severely impairs your ability to form new memories. But a recent study shows that a 20-minute workout or a 90-minute nap can both protect memory after sleep loss, using completely different brain mechanisms.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A sleepless night severely impairs your ability to form new memories. But a recent study shows that a 20-minute workout or a 90-minute nap can both protect memory after sleep loss, using completely different brain mechanisms.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-20-minute-workout-protects-memory-after-sleep-loss-just-as-well-as-a-90-minute-nap/",
+      "featured": true
+    },
+    {
+      "id": "2441098fd659",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "How personality and social context shape adolescent loneliness",
+      "titleKo": "",
+      "summary": "A new study tracking the daily habits of teenagers reveals that while spending time alone is linked to momentary isolation, young people with maladaptive personality traits tend to experience chronic loneliness regardless of their social surroundings.",
+      "aiSummary": "A new study tracking the daily habits of teenagers reveals that while spending time alone is linked to momentary isolation, young people with maladaptive personality traits tend to experience chronic loneliness regardless of their social surroundings.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study tracking the daily habits of teenagers reveals that while spending time alone is linked to momentary isolation, young people with maladaptive personality traits tend to experience chronic loneliness regardless of their social surroundings.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-personality-and-social-context-shape-adolescent-loneliness/",
+      "featured": false
+    },
+    {
+      "id": "98d13ecf4ff8",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2시간 전 / 2h ago",
+      "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+      "titleKo": "",
+      "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating Alzheimer’s.",
+      "aiSummary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating Alzheimer’s.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating Alzheimer’s.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
+      "featured": false
+    },
     {
       "id": "c957c76869b1",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Abrupt cuts to federal science funding are threatening the American research workforce. A new survey indicates that early career scientists face severe professional disruptions, pushing many to consider leaving the country or abandoning research entirely.",
       "keyPoints": [],
       "url": "https://www.psypost.org/federal-science-funding-cuts-push-young-u-s-researchers-to-consider-moving-abroad/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "85df43fa5a58",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, translating natural-language problem descriptions into correct QUBO formulations remains difficult, requiring the identification of binary variables, constraints, objective functions, penalty terms, and suitable penalty weights. This process is time-consuming and often demands substantial domain expertis",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.10629",
-      "featured": false
-    },
-    {
-      "id": "458aa7786a98",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "1시간 전 / 1h ago",
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "titleKo": "",
-      "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across symbolic, structural, and conceptual levels. The framework integrates three complementary solvers: (1) a deterministic rule discovery module that induces atomic transformations through geometric, color, and object-based analysis; (2) a pattern-composition engine that reconstructs outputs via block m",
-      "aiSummary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across symbolic, structural, and conceptual levels. The framework integrates three complementary solvers: (1) a deterministic rule discovery module that induces atomic transformations through geometric, color, and object-based analysis; (2) a pattern-composition engine that reconstructs outputs via block m",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across symbolic, structural, and conceptual levels. The framework integrates three complementary solvers: (1) a deterministic rule discovery module that induces atomic transformations through geometric, color, and object-based analysis; (2) a pattern-composition engine that reconstructs outputs via block m",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.10654",
-      "featured": false
-    },
-    {
-      "id": "7b44d166e5e2",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "1시간 전 / 1h ago",
-      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "titleKo": "",
-      "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report FID, trainable parameters, runtime, and GPU memory, then validate trends with extended-budget DDPM runs (20 epochs; ranks 4/8/16) and a Tiny DiT backbone (10 epochs; ranks 4/8/16). Results show moderate ranks are most efficient: rank 4 achieves the best DDPM FID (124.1380), rank 8",
-      "aiSummary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report FID, trainable parameters, runtime, and GPU memory, then validate trends with extended-budget DDPM runs (20 epochs; ranks 4/8/16) and a Tiny DiT backbone (10 epochs; ranks 4/8/16). Results show moderate ranks are most efficient: rank 4 achieves the best DDPM FID (124.1380), rank 8",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report FID, trainable parameters, runtime, and GPU memory, then validate trends with extended-budget DDPM runs (20 epochs; ranks 4/8/16) and a Tiny DiT backbone (10 epochs; ranks 4/8/16). Results show moderate ranks are most efficient: rank 4 achieves the best DDPM FID (124.1380), rank 8",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.10656",
-      "featured": false
-    },
-    {
-      "id": "5c16a0ecfa9d",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
-      "titleKo": "",
-      "summary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.",
-      "aiSummary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
       "featured": false
     }
   ]
