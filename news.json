@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-13T05:51:11.547582+00:00",
+  "updated": "2026-09-13T11:30:32.306355+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c957c76869b1",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Federal science funding cuts push young U.S. researchers to consider moving abroad",
+      "titleKo": "",
+      "summary": "Abrupt cuts to federal science funding are threatening the American research workforce. A new survey indicates that early career scientists face severe professional disruptions, pushing many to consider leaving the country or abandoning research entirely.",
+      "aiSummary": "Abrupt cuts to federal science funding are threatening the American research workforce. A new survey indicates that early career scientists face severe professional disruptions, pushing many to consider leaving the country or abandoning research entirely.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Abrupt cuts to federal science funding are threatening the American research workforce. A new survey indicates that early career scientists face severe professional disruptions, pushing many to consider leaving the country or abandoning research entirely.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/federal-science-funding-cuts-push-young-u-s-researchers-to-consider-moving-abroad/",
+      "featured": true
+    },
     {
       "id": "85df43fa5a58",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study challenges the idea that autism impairs empathy. While both groups read emotions similarly overall, autistic individuals are actually more accurate than non-autistic people at tracking the emotional valence of other autistic adults.",
       "keyPoints": [],
       "url": "https://www.psypost.org/autistic-individuals-might-be-somewhat-better-at-reading-emotions-of-other-autistic-people/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e92fe64f5af3",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
-      "featured": false
-    },
-    {
-      "id": "e3e8b6b98261",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3일 전 / 3d ago",
-      "title": "Your personality may be more genetic than scientists realized",
-      "titleKo": "",
-      "summary": "More than 1,200 genetic variants have been linked to the Big Five personality traits, and many of the same variants are also associated with health, longevity, careers, income, and everyday habits. The findings reveal a surprisingly wide genetic connection between personality and life outcomes while showing that environment still plays a powerful role.",
-      "aiSummary": "More than 1,200 genetic variants have been linked to the Big Five personality traits, and many of the same variants are also associated with health, longevity, careers, income, and everyday habits. The findings reveal a surprisingly wide genetic connection between personality and life outcomes while showing that environment still plays a powerful role.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "More than 1,200 genetic variants have been linked to the Big Five personality traits, and many of the same variants are also associated with health, longevity, careers, income, and everyday habits. The findings reveal a surprisingly wide genetic connection between personality and life outcomes while showing that environment still plays a powerful role.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm",
       "featured": false
     }
   ]
