@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-19T05:37:57.928570+00:00",
+  "updated": "2026-09-19T10:41:20.679425+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "423be953e61d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Musical compatibility often outshines personality matching in romantic couples",
+      "titleKo": "",
+      "summary": "A recent study suggests that romantic couples share musical tastes much more than personality traits or personal values. Additionally, having similar music preferences is modestly linked to better relationship quality and increased tenderness.",
+      "aiSummary": "A recent study suggests that romantic couples share musical tastes much more than personality traits or personal values. Additionally, having similar music preferences is modestly linked to better relationship quality and increased tenderness.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study suggests that romantic couples share musical tastes much more than personality traits or personal values. Additionally, having similar music preferences is modestly linked to better relationship quality and increased tenderness.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/musical-compatibility-often-outshines-personality-matching-in-romantic-couples/",
+      "featured": true
+    },
     {
       "id": "02190923410b",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new study of 95 countries reveals that higher education—not wealth—makes individuals globally more culturally similar to Western nations. This raises concerns about the accuracy of psychological research that relies heavily on university students.",
       "keyPoints": [],
       "url": "https://www.psypost.org/why-relying-on-university-students-skews-global-psychological-research/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e92fe64f5af3",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "A sweeping new study of nearly 8,700 brain scans found that subtle structural differences in people taking antidepressants are mostly explained by the severity of their illness and their age, rather than the medications themselves.",
       "keyPoints": [],
       "url": "https://www.psypost.org/do-antidepressants-actually-alter-brain-structure-a-massive-neuroscience-study-weighs-in/",
-      "featured": false
-    },
-    {
-      "id": "7fc063023d7e",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Lithium supplementation does not slow cognitive decline in Alzheimer’s disease, meta-analysis finds",
-      "titleKo": "",
-      "summary": "A new meta-analysis reveals that common lithium treatments do not slow memory loss in older adults with Alzheimer’s disease or mild cognitive impairment, despite previous laboratory research suggesting the mineral might have neuroprotective benefits.",
-      "aiSummary": "A new meta-analysis reveals that common lithium treatments do not slow memory loss in older adults with Alzheimer’s disease or mild cognitive impairment, despite previous laboratory research suggesting the mineral might have neuroprotective benefits.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new meta-analysis reveals that common lithium treatments do not slow memory loss in older adults with Alzheimer’s disease or mild cognitive impairment, despite previous laboratory research suggesting the mineral might have neuroprotective benefits.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/lithium-supplementation-does-not-slow-cognitive-decline-in-alzheimers-disease-meta-analysis-finds/",
       "featured": false
     }
   ]
