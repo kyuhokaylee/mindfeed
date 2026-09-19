@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-19T20:23:13.353331+00:00",
+  "updated": "2026-09-19T22:49:04.400615+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c96717e2246d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Screen time and cognitive skills often predict each other over time, but the pattern varies by child",
+      "titleKo": "",
+      "summary": "How does using screens to calm an upset child relate to their developing mind? New research suggests the answer depends on the child, showing that media habits and cognitive skills often forecast each other in a continuous loop.",
+      "aiSummary": "How does using screens to calm an upset child relate to their developing mind? New research suggests the answer depends on the child, showing that media habits and cognitive skills often forecast each other in a continuous loop.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "How does using screens to calm an upset child relate to their developing mind? New research suggests the answer depends on the child, showing that media habits and cognitive skills often forecast each other in a continuous loop.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/screen-time-and-cognitive-skills-often-predict-each-other-over-time-but-the-pattern-varies-by-child/",
+      "featured": true
+    },
     {
       "id": "b08a83fa8eb5",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "New research reveals that believing in conspiracy theories directly reduces people's faith in societal fairness, eroding the perception that resources are distributed based on merit, equality, or need.",
       "keyPoints": [],
       "url": "https://www.psypost.org/conspiracy-theories-erode-public-faith-in-a-fair-society/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ac76205e2d71",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
-      "featured": false
-    },
-    {
-      "id": "5acac545e713",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Watering plants lowers blood pressure and anxiety in older adults",
-      "titleKo": "",
-      "summary": "New research shows that just 10 minutes of watering indoor plants can lower blood pressure and induce a state of alert relaxation in older adults, offering a simple way to boost mental and physical well-being.",
-      "aiSummary": "New research shows that just 10 minutes of watering indoor plants can lower blood pressure and induce a state of alert relaxation in older adults, offering a simple way to boost mental and physical well-being.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "New research shows that just 10 minutes of watering indoor plants can lower blood pressure and induce a state of alert relaxation in older adults, offering a simple way to boost mental and physical well-being.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/watering-plants-lowers-blood-pressure-and-anxiety-in-older-adults/",
       "featured": false
     }
   ]
