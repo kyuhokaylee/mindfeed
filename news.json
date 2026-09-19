@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-19T00:03:46.244634+00:00",
+  "updated": "2026-09-19T05:37:57.928570+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "02190923410b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "5시간 전 / 5h ago",
+      "title": "Why relying on university students skews global psychological research",
+      "titleKo": "",
+      "summary": "A new study of 95 countries reveals that higher education—not wealth—makes individuals globally more culturally similar to Western nations. This raises concerns about the accuracy of psychological research that relies heavily on university students.",
+      "aiSummary": "A new study of 95 countries reveals that higher education—not wealth—makes individuals globally more culturally similar to Western nations. This raises concerns about the accuracy of psychological research that relies heavily on university students.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study of 95 countries reveals that higher education—not wealth—makes individuals globally more culturally similar to Western nations. This raises concerns about the accuracy of psychological research that relies heavily on university students.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/why-relying-on-university-students-skews-global-psychological-research/",
+      "featured": true
+    },
+    {
+      "id": "e92fe64f5af3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "38일 전 / 38d ago",
+      "title": "What It’s Like to Be…a Mail Carrier",
+      "titleKo": "",
+      "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+      "featured": false
+    },
+    {
+      "id": "13ff983ba277",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "52일 전 / 52d ago",
+      "title": "What It’s Like to Be…a Hotshot",
+      "titleKo": "",
+      "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+      "featured": false
+    },
     {
       "id": "0282087faccd",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Unlike in neurotypical kids, screen time does not appear to hinder language development in young autistic children. Instead, a new study suggests that frequent shared book reading at home is a key driver of stronger communication skills.",
       "keyPoints": [],
       "url": "https://www.psypost.org/screen-time-isnt-linked-to-language-delays-in-autistic-children-large-u-s-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0bb12380ac86",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "A new meta-analysis reveals that common lithium treatments do not slow memory loss in older adults with Alzheimer’s disease or mild cognitive impairment, despite previous laboratory research suggesting the mineral might have neuroprotective benefits.",
       "keyPoints": [],
       "url": "https://www.psypost.org/lithium-supplementation-does-not-slow-cognitive-decline-in-alzheimers-disease-meta-analysis-finds/",
-      "featured": false
-    },
-    {
-      "id": "9e2255b49ac4",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Weight-loss drug semaglutide accelerates recovery from brain inflammation in mice",
-      "titleKo": "",
-      "summary": "The diabetes and weight-loss medication semaglutide can accelerate the resolution of brain inflammation. By mapping cellular changes in mice, researchers discovered how the drug engages specific brainstem neurons to protect against pathways associated with cognitive decline.",
-      "aiSummary": "The diabetes and weight-loss medication semaglutide can accelerate the resolution of brain inflammation. By mapping cellular changes in mice, researchers discovered how the drug engages specific brainstem neurons to protect against pathways associated with cognitive decline.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The diabetes and weight-loss medication semaglutide can accelerate the resolution of brain inflammation. By mapping cellular changes in mice, researchers discovered how the drug engages specific brainstem neurons to protect against pathways associated with cognitive decline.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/weight-loss-drug-semaglutide-accelerates-recovery-from-brain-inflammation-in-mic/",
-      "featured": false
-    },
-    {
-      "id": "c7507f8fed96",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "14시간 전 / 14h ago",
-      "title": "Randomized SVD Approximations for Spectral Co-Clustering of Word-Document Matrices",
-      "titleKo": "",
-      "summary": "arXiv:2609.19243v1 Announce Type: new Abstract: Spectral co-clustering is a useful tool for discovering latent structure in word-document matrices, but its reliance on singular value decomposition (SVD) can make standard formulations expensive on high-dimensional data. This paper presents two randomized approximations for normalized spectral co-clustering of bipartite text data when the numbers of document and word clusters may differ. The first method uses randomized SVD through random projection, while the second combines partial SVD with element-wise random sampling. Across real-world and s",
-      "aiSummary": "arXiv:2609.19243v1 Announce Type: new Abstract: Spectral co-clustering is a useful tool for discovering latent structure in word-document matrices, but its reliance on singular value decomposition (SVD) can make standard formulations expensive on high-dimensional data. This paper presents two randomized approximations for normalized spectral co-clustering of bipartite text data when the numbers of document and word clusters may differ. The first method uses randomized SVD through random projection, while the second combines partial SVD with element-wise random sampling. Across real-world and s",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.19243v1 Announce Type: new Abstract: Spectral co-clustering is a useful tool for discovering latent structure in word-document matrices, but its reliance on singular value decomposition (SVD) can make standard formulations expensive on high-dimensional data. This paper presents two randomized approximations for normalized spectral co-clustering of bipartite text data when the numbers of document and word clusters may differ. The first method uses randomized SVD through random projection, while the second combines partial SVD with element-wise random sampling. Across real-world and s",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.19243",
-      "featured": false
-    },
-    {
-      "id": "04de75fdd3f7",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "14시간 전 / 14h ago",
-      "title": "A Mathematical Model of Motivated Emotional Mind - Cognitive Embodied System",
-      "titleKo": "",
-      "summary": "arXiv:2609.20437v1 Announce Type: new Abstract: This article presents a mathematical model of the Motivated Emotional Mind cognitive architecture developed for embodied intelligent systems. Such a system learns to maintain its homeostasis through a generalized form of reinforcement learning based on its internal motivations, termed motivated learning (ML). The principal contribution of this article is a rigorous formalization of the re-entrant loop integrating feedforward processing, lateral interactions, and feedback pathways, together with the representational selection mechanisms that gover",
-      "aiSummary": "arXiv:2609.20437v1 Announce Type: new Abstract: This article presents a mathematical model of the Motivated Emotional Mind cognitive architecture developed for embodied intelligent systems. Such a system learns to maintain its homeostasis through a generalized form of reinforcement learning based on its internal motivations, termed motivated learning (ML). The principal contribution of this article is a rigorous formalization of the re-entrant loop integrating feedforward processing, lateral interactions, and feedback pathways, together with the representational selection mechanisms that gover",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.20437v1 Announce Type: new Abstract: This article presents a mathematical model of the Motivated Emotional Mind cognitive architecture developed for embodied intelligent systems. Such a system learns to maintain its homeostasis through a generalized form of reinforcement learning based on its internal motivations, termed motivated learning (ML). The principal contribution of this article is a rigorous formalization of the re-entrant loop integrating feedforward processing, lateral interactions, and feedback pathways, together with the representational selection mechanisms that gover",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.20437",
       "featured": false
     }
   ]
