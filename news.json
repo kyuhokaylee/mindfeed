@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-19T14:16:07.610223+00:00",
+  "updated": "2026-09-19T17:53:08.340037+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "f293f3e62734",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Learning about the opposing party’s vaccination rate influences health choices",
+      "titleKo": "",
+      "summary": "Public health campaigns often broadcast low vaccination rates to encourage people to get their shots. A recent experiment suggests this strategy might backfire, showing that people adjust their healthcare decisions based on the behavior of opposing political groups.",
+      "aiSummary": "Public health campaigns often broadcast low vaccination rates to encourage people to get their shots. A recent experiment suggests this strategy might backfire, showing that people adjust their healthcare decisions based on the behavior of opposing political groups.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Public health campaigns often broadcast low vaccination rates to encourage people to get their shots. A recent experiment suggests this strategy might backfire, showing that people adjust their healthcare decisions based on the behavior of opposing political groups.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/learning-about-the-opposing-party-s-vaccination-rate-influences-health-choices/",
+      "featured": true
+    },
+    {
+      "id": "26d67dd20284",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Mass shootings and suicides share an unsettling seasonal rhythm, new study finds",
+      "titleKo": "",
+      "summary": "A recent study reveals that mass shootings and suicide deaths share a synchronized seasonal rhythm in the U.S. Both peak in mid-summer, suggesting these violent events may be driven by similar underlying psychological forces and environmental triggers.",
+      "aiSummary": "A recent study reveals that mass shootings and suicide deaths share a synchronized seasonal rhythm in the U.S. Both peak in mid-summer, suggesting these violent events may be driven by similar underlying psychological forces and environmental triggers.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent study reveals that mass shootings and suicide deaths share a synchronized seasonal rhythm in the U.S. Both peak in mid-summer, suggesting these violent events may be driven by similar underlying psychological forces and environmental triggers.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/mass-shootings-and-suicides-share-an-unsettling-seasonal-rhythm-new-study-finds/",
+      "featured": false
+    },
     {
       "id": "458b0acb1154",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A massive new study of U.S. veterans reveals that the risk of developing amyotrophic lateral sclerosis (ALS) varies significantly depending on military branch and rank, with officers and Air Force veterans facing the highest rates.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-research-links-specific-military-branches-and-officer-ranks-to-elevated-als-risk/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9ea33ba49c45",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2609.19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require grounding observed data in source evidence, interpreting it through a quantitative physics model, and linking it to a biological mechanism. To address this challenge, we introduce BioPhys-Bridge, a novel benchmark dataset for evidence-grounded scientific reasoning over biophysical literature. Each case contains evidence blocks, stable evidence IDs, quantitative values, units, equations, assumptions",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2609.19180",
-      "featured": false
-    },
-    {
-      "id": "eaed800cba3f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-      "titleKo": "",
-      "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what researchers expect LLMs to do, and what they count as successful performance. We systematically map 14,767 papers introducing or updating evaluation resources from arXiv submissions between January 2022 and August 2026. Using staged screening and automated full-text coding, we examin",
-      "aiSummary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what researchers expect LLMs to do, and what they count as successful performance. We systematically map 14,767 papers introducing or updating evaluation resources from arXiv submissions between January 2022 and August 2026. Using staged screening and automated full-text coding, we examin",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what researchers expect LLMs to do, and what they count as successful performance. We systematically map 14,767 papers introducing or updating evaluation resources from arXiv submissions between January 2022 and August 2026. Using staged screening and automated full-text coding, we examin",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.19182",
-      "featured": false
-    },
-    {
-      "id": "05816b74e135",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "17시간 전 / 17h ago",
-      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-      "titleKo": "",
-      "summary": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This position paper argues that the field now needs a Foundation Model Operating System (FMOS) -- a system l",
-      "aiSummary": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This position paper argues that the field now needs a Foundation Model Operating System (FMOS) -- a system l",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This position paper argues that the field now needs a Foundation Model Operating System (FMOS) -- a system l",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2609.19203",
       "featured": false
     }
   ]
