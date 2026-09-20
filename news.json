@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-20T00:53:14.494300+00:00",
+  "updated": "2026-09-20T05:56:29.014761+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4e12f8dd66e7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Esketamine-induced dissociation is tied to better outcomes in treatment-resistant depression",
+      "titleKo": "",
+      "summary": "Patients with treatment-resistant depression who experienced feelings of unreality during subcutaneous esketamine therapy were more likely to see their depression symptoms improve, suggesting dissociation may be tied to the drug's effectiveness rather than just a side effect.",
+      "aiSummary": "Patients with treatment-resistant depression who experienced feelings of unreality during subcutaneous esketamine therapy were more likely to see their depression symptoms improve, suggesting dissociation may be tied to the drug's effectiveness rather than just a side effect.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Patients with treatment-resistant depression who experienced feelings of unreality during subcutaneous esketamine therapy were more likely to see their depression symptoms improve, suggesting dissociation may be tied to the drug's effectiveness rather than just a side effect.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/esketamine-induced-dissociation-is-tied-to-better-outcomes-in-treatment-resistant-depression/",
+      "featured": true
+    },
+    {
+      "id": "11fb2febe6b2",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "18시간 전 / 18h ago",
+      "title": "Scientists find that “perfect” systems may be surprisingly fragile",
+      "titleKo": "",
+      "summary": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability compared with completely uniform systems. The discovery could help researchers design more resilient technologies and explain why natural systems are so rarely perfectly uniform.",
+      "aiSummary": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability compared with completely uniform systems. The discovery could help researchers design more resilient technologies and explain why natural systems are so rarely perfectly uniform.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability compared with completely uniform systems. The discovery could help researchers design more resilient technologies and explain why natural systems are so rarely perfectly uniform.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
+      "featured": false
+    },
     {
       "id": "984a099d09fe",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A new study reveals that powerful, happy childhood scent memories are encoded by neurons generated just after birth. As we age, the brain reorganizes how it stores these smells, shifting from reward centers to deeper emotional networks.",
       "keyPoints": [],
       "url": "https://www.psypost.org/memories-of-childhood-scents-associated-with-joy-are-encoded-by-neurons-generated-shortly-after-birth/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c96717e2246d",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related changes, while the amino acid D-serine improved cognition, hinting at a potentially intriguing new target for healthy aging.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
-      "featured": false
-    },
-    {
-      "id": "dbcb64b9739b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "14시간 전 / 14h ago",
-      "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
-      "titleKo": "",
-      "summary": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest each year but could add up over time.",
-      "aiSummary": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest each year but could add up over time.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest each year but could add up over time.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
-      "featured": false
-    },
-    {
-      "id": "70084831ffcc",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
-      "titleKo": "",
-      "summary": "Scientists discovered that brain-cell axons may not be smooth tubes as textbooks have shown for more than a century, but instead naturally resemble strings of tiny pearls. Those pearl-like structures can change with neural activity and may help control how quickly electrical signals travel through the brain.",
-      "aiSummary": "Scientists discovered that brain-cell axons may not be smooth tubes as textbooks have shown for more than a century, but instead naturally resemble strings of tiny pearls. Those pearl-like structures can change with neural activity and may help control how quickly electrical signals travel through the brain.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists discovered that brain-cell axons may not be smooth tubes as textbooks have shown for more than a century, but instead naturally resemble strings of tiny pearls. Those pearl-like structures can change with neural activity and may help control how quickly electrical signals travel through the brain.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
       "featured": false
     }
   ]
