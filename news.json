@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-19T22:49:04.400615+00:00",
+  "updated": "2026-09-20T00:53:14.494300+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "984a099d09fe",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Memories of childhood scents associated with joy are encoded by neurons generated shortly after birth",
+      "titleKo": "",
+      "summary": "A new study reveals that powerful, happy childhood scent memories are encoded by neurons generated just after birth. As we age, the brain reorganizes how it stores these smells, shifting from reward centers to deeper emotional networks.",
+      "aiSummary": "A new study reveals that powerful, happy childhood scent memories are encoded by neurons generated just after birth. As we age, the brain reorganizes how it stores these smells, shifting from reward centers to deeper emotional networks.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that powerful, happy childhood scent memories are encoded by neurons generated just after birth. As we age, the brain reorganizes how it stores these smells, shifting from reward centers to deeper emotional networks.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/memories-of-childhood-scents-associated-with-joy-are-encoded-by-neurons-generated-shortly-after-birth/",
+      "featured": true
+    },
     {
       "id": "c96717e2246d",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "How does using screens to calm an upset child relate to their developing mind? New research suggests the answer depends on the child, showing that media habits and cognitive skills often forecast each other in a continuous loop.",
       "keyPoints": [],
       "url": "https://www.psypost.org/screen-time-and-cognitive-skills-often-predict-each-other-over-time-but-the-pattern-varies-by-child/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b08a83fa8eb5",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists discovered that brain-cell axons may not be smooth tubes as textbooks have shown for more than a century, but instead naturally resemble strings of tiny pearls. Those pearl-like structures can change with neural activity and may help control how quickly electrical signals travel through the brain.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
-      "featured": false
-    },
-    {
-      "id": "e2d2de837bec",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "Hidden “immune organ” in the skull may help fight brain cancer",
-      "titleKo": "",
-      "summary": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
-      "aiSummary": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
       "featured": false
     }
   ]
