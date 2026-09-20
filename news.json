@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-20T18:36:53.177864+00:00",
+  "updated": "2026-09-20T21:21:45.962137+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5bb2b0ab3245",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Scientists trace the nerve pathway that links digestion to memory",
+      "titleKo": "",
+      "summary": "A new small study in rats reveals that the digestive tract communicates with the brain during meals to help remember where food was found, a process that can be disrupted by an early-life junk food diet.",
+      "aiSummary": "A new small study in rats reveals that the digestive tract communicates with the brain during meals to help remember where food was found, a process that can be disrupted by an early-life junk food diet.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new small study in rats reveals that the digestive tract communicates with the brain during meals to help remember where food was found, a process that can be disrupted by an early-life junk food diet.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-the-gut-helps-the-brain-remember-where-you-ate/",
+      "featured": true
+    },
     {
       "id": "e96bb6fbb6f1",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A comprehensive review of 60 years of research reveals that people who participate in protests are driven more by social connections and political interest than by personal grievances, anger, or mistrust of the government.",
       "keyPoints": [],
       "url": "https://www.psypost.org/why-do-people-protest-six-decades-of-research-points-to-social-connections-over-personal-grievances/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "82e1659b55f5",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "New research reveals that believing in conspiracy theories directly reduces people's faith in societal fairness, eroding the perception that resources are distributed based on merit, equality, or need.",
       "keyPoints": [],
       "url": "https://www.psypost.org/conspiracy-theories-erode-public-faith-in-a-fair-society/",
-      "featured": false
-    },
-    {
-      "id": "ac76205e2d71",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Direct self-reports outperform implicit bias tests in predicting race-related behavior",
-      "titleKo": "",
-      "summary": "Can implicit bias tests predict how people actually behave? A new adversarial collaboration finds that while indirect tests capture a tiny fraction of hidden bias, traditional self-report surveys are vastly superior at predicting race-related decisions.",
-      "aiSummary": "Can implicit bias tests predict how people actually behave? A new adversarial collaboration finds that while indirect tests capture a tiny fraction of hidden bias, traditional self-report surveys are vastly superior at predicting race-related decisions.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Can implicit bias tests predict how people actually behave? A new adversarial collaboration finds that while indirect tests capture a tiny fraction of hidden bias, traditional self-report surveys are vastly superior at predicting race-related decisions.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/direct-self-reports-outperform-implicit-bias-tests-in-predicting-race-related-behavior/",
       "featured": false
     }
   ]
