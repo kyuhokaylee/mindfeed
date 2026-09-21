@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-20T21:21:45.962137+00:00",
+  "updated": "2026-09-21T00:01:29.098629+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "1890f8974aff",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "People with low implicit self-worth are quicker to notice subtle facial cues of anger and disgust",
+      "titleKo": "",
+      "summary": "People with hidden doubts about their self-worth are quicker to spot subtle facial expressions of anger and disgust. New research shows that unconscious self-esteem strongly influences how we perceive social cues and navigate relationships.",
+      "aiSummary": "People with hidden doubts about their self-worth are quicker to spot subtle facial expressions of anger and disgust. New research shows that unconscious self-esteem strongly influences how we perceive social cues and navigate relationships.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People with hidden doubts about their self-worth are quicker to spot subtle facial expressions of anger and disgust. New research shows that unconscious self-esteem strongly influences how we perceive social cues and navigate relationships.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/people-with-low-implicit-self-worth-are-quicker-to-notice-subtle-facial-cues-of-anger-and-disgust/",
+      "featured": true
+    },
     {
       "id": "5bb2b0ab3245",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A new small study in rats reveals that the digestive tract communicates with the brain during meals to help remember where food was found, a process that can be disrupted by an early-life junk food diet.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-the-gut-helps-the-brain-remember-where-you-ate/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e96bb6fbb6f1",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "How does using screens to calm an upset child relate to their developing mind? New research suggests the answer depends on the child, showing that media habits and cognitive skills often forecast each other in a continuous loop.",
       "keyPoints": [],
       "url": "https://www.psypost.org/screen-time-and-cognitive-skills-often-predict-each-other-over-time-but-the-pattern-varies-by-child/",
-      "featured": false
-    },
-    {
-      "id": "b08a83fa8eb5",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Conspiracy theories appear to erode public faith in meritocracy",
-      "titleKo": "",
-      "summary": "New research reveals that believing in conspiracy theories directly reduces people's faith in societal fairness, eroding the perception that resources are distributed based on merit, equality, or need.",
-      "aiSummary": "New research reveals that believing in conspiracy theories directly reduces people's faith in societal fairness, eroding the perception that resources are distributed based on merit, equality, or need.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "New research reveals that believing in conspiracy theories directly reduces people's faith in societal fairness, eroding the perception that resources are distributed based on merit, equality, or need.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/conspiracy-theories-erode-public-faith-in-a-fair-society/",
       "featured": false
     }
   ]
