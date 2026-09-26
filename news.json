@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-26T19:44:54.241186+00:00",
+  "updated": "2026-09-26T22:35:38.207531+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4bd09e11d9d5",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Suicidal behaviors are more heritable than depression, new twin study finds",
+      "titleKo": "",
+      "summary": "A new analysis of young adult twins suggests that suicidal behaviors are highly heritable. While they share moderate genetic overlap with major depression, the unique environmental factors triggering these behaviors remain largely distinct.",
+      "aiSummary": "A new analysis of young adult twins suggests that suicidal behaviors are highly heritable. While they share moderate genetic overlap with major depression, the unique environmental factors triggering these behaviors remain largely distinct.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new analysis of young adult twins suggests that suicidal behaviors are highly heritable. While they share moderate genetic overlap with major depression, the unique environmental factors triggering these behaviors remain largely distinct.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/suicidal-behaviors-are-more-heritable-than-depression-new-twin-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "74c12f5f2a3c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Negative feelings about life are more common among teens on Instagram and TikTok",
+      "titleKo": "",
+      "summary": "A new survey of American teenagers suggests that negative online experiences vary wildly by platform, with TikTok and Instagram users reporting much higher rates of sleep disruption and negative social comparison than those using YouTube.",
+      "aiSummary": "A new survey of American teenagers suggests that negative online experiences vary wildly by platform, with TikTok and Instagram users reporting much higher rates of sleep disruption and negative social comparison than those using YouTube.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new survey of American teenagers suggests that negative online experiences vary wildly by platform, with TikTok and Instagram users reporting much higher rates of sleep disruption and negative social comparison than those using YouTube.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/negative-feelings-about-life-are-more-common-among-teens-on-instagram-and-tiktok/",
+      "featured": false
+    },
     {
       "id": "1c4ec5f08c0e",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Tending to indoor hydroponic gardens may help cancer patients improve their mental health and quality of life. A recent study found that growing salad greens at home eased depression symptoms and encouraged healthier eating habits among patients.",
       "keyPoints": [],
       "url": "https://www.psypost.org/indoor-gardening-improves-mental-health-and-quality-of-life-for-cancer-patients/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a0005bd09701",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "A major analysis suggests Phelan-McDermid syndrome, a genetic disorder closely linked to autism, may affect about 1 in 7,300 people and more than 45,000 Americans. Researchers warn that thousands of cases may remain hidden because genetic testing is often not performed, even as targeted treatments move into clinical trials.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm",
-      "featured": false
-    },
-    {
-      "id": "0a60ca87cc71",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "More REM sleep linked to lower risk of 83 diseases",
-      "titleKo": "",
-      "summary": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases. People who spent more time in REM sleep had lower risks of 83 conditions, including dementia, heart failure, and Parkinson’s disease, while more deep sleep was associated with lower risks of conditions such as type 2 diabetes and major depression.",
-      "aiSummary": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases. People who spent more time in REM sleep had lower risks of 83 conditions, including dementia, heart failure, and Parkinson’s disease, while more deep sleep was associated with lower risks of conditions such as type 2 diabetes and major depression.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases. People who spent more time in REM sleep had lower risks of 83 conditions, including dementia, heart failure, and Parkinson’s disease, while more deep sleep was associated with lower risks of conditions such as type 2 diabetes and major depression.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
-      "featured": false
-    },
-    {
-      "id": "93d18ec9fa7a",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "1일 전 / 1d ago",
-      "title": "When what you see doesn’t make sense, your brain does something remarkable",
-      "titleKo": "",
-      "summary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the brain turns many specialized inputs into one unified view of the world.",
-      "aiSummary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the brain turns many specialized inputs into one unified view of the world.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the brain turns many specialized inputs into one unified view of the world.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
       "featured": false
     }
   ]
