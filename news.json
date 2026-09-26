@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-26T01:21:39.610004+00:00",
+  "updated": "2026-09-26T07:23:18.891828+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e92fe64f5af3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "45일 전 / 45d ago",
+      "title": "What It’s Like to Be…a Mail Carrier",
+      "titleKo": "",
+      "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+      "featured": true
+    },
+    {
+      "id": "13ff983ba277",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "59일 전 / 59d ago",
+      "title": "What It’s Like to Be…a Hotshot",
+      "titleKo": "",
+      "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+      "featured": false
+    },
     {
       "id": "0bb12380ac86",
       "tag": "behav",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War. Fifty nations had taken part in the conflict that saw genocide and the first use of nuclear weapons. An estimated 50 million lives were lost and another 19–28 million died in the aftermath from disease and famine. Borders had been redrawn across Europe. The Nuremberg trials had concluded on the international stage but were still underway in U.S. military courts. The United Nations was still in its infancy. Expansions to the Geneva Convention to protec",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9af69dac58af",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2402.16763",
-      "featured": false
-    },
-    {
-      "id": "7cd6d4575b19",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Scientists identify the nose-to-brain circuit that makes slow breathing calming",
-      "titleKo": "",
-      "summary": "New research shows that slow nasal breathing directly reduces anxiety by activating a specific nose-to-brain circuit, while fast breathing worsens it. The findings, published in PNAS, suggest the physical rhythm of airflow acts as an emotional dial.",
-      "aiSummary": "New research shows that slow nasal breathing directly reduces anxiety by activating a specific nose-to-brain circuit, while fast breathing worsens it. The findings, published in PNAS, suggest the physical rhythm of airflow acts as an emotional dial.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "New research shows that slow nasal breathing directly reduces anxiety by activating a specific nose-to-brain circuit, while fast breathing worsens it. The findings, published in PNAS, suggest the physical rhythm of airflow acts as an emotional dial.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/scientists-identify-the-nose-to-brain-circuit-that-makes-slow-breathing-calming/",
-      "featured": false
-    },
-    {
-      "id": "ebf38f06597a",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Midlife belly fat is linked to elevated Alzheimer’s biomarkers decades later",
-      "titleKo": "",
-      "summary": "Tracking body fat over a 35-year period reveals that excess belly fat in midlife is linked to a higher risk of Alzheimer’s disease decades later. However, the relationship reverses in old age as cognitive decline alters metabolism.",
-      "aiSummary": "Tracking body fat over a 35-year period reveals that excess belly fat in midlife is linked to a higher risk of Alzheimer’s disease decades later. However, the relationship reverses in old age as cognitive decline alters metabolism.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Tracking body fat over a 35-year period reveals that excess belly fat in midlife is linked to a higher risk of Alzheimer’s disease decades later. However, the relationship reverses in old age as cognitive decline alters metabolism.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/midlife-belly-fat-is-linked-to-elevated-alzheimer-s-biomarkers-decades-later/",
       "featured": false
     }
   ]
