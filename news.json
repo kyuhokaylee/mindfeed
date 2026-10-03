@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-03T17:51:22.204254+00:00",
+  "updated": "2026-10-03T20:52:43.078414+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "449458ee5266",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Conscientiousness outshines cognitive ability in predicting leadership among West Point cadets",
+      "titleKo": "",
+      "summary": "While test scores predict classroom success for West Point cadets, a new meta-analysis reveals that the personality trait of conscientiousness is the best indicator of future military leadership performance.",
+      "aiSummary": "While test scores predict classroom success for West Point cadets, a new meta-analysis reveals that the personality trait of conscientiousness is the best indicator of future military leadership performance.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "While test scores predict classroom success for West Point cadets, a new meta-analysis reveals that the personality trait of conscientiousness is the best indicator of future military leadership performance.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/conscientiousness-outshines-cognitive-ability-in-predicting-leadership-among-wes/",
+      "featured": true
+    },
+    {
+      "id": "078fa1b7bbad",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Hormone therapy before frozen embryo transfer is tied to larger babies but not to differences in early childhood IQ",
+      "titleKo": "",
+      "summary": "Children conceived through frozen embryo transfers using hormone therapy show similar early childhood intelligence scores to those conceived via natural cycles, according to a new study, despite a higher rate of unusually large babies.",
+      "aiSummary": "Children conceived through frozen embryo transfers using hormone therapy show similar early childhood intelligence scores to those conceived via natural cycles, according to a new study, despite a higher rate of unusually large babies.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Children conceived through frozen embryo transfers using hormone therapy show similar early childhood intelligence scores to those conceived via natural cycles, according to a new study, despite a higher rate of unusually large babies.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/hormone-therapy-before-frozen-embryo-transfer-is-tied-to-larger-babies-but-not-to-differences-in-early-childhood-iq/",
+      "featured": false
+    },
     {
       "id": "21b591ab91db",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A recent brain imaging study reveals that the reward system is hyper-connected to other social networks in autistic individuals. This heightened integration correlates with social communication differences and overlaps with specific genetic and chemical markers.",
       "keyPoints": [],
       "url": "https://www.psypost.org/brain-scans-reveal-hyper-connected-reward-networks-in-autistic-individuals/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ac88111463bc",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2610.00035v1 Announce Type: new Abstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaningful intervention, while demographic information introduces an additional risk of unfair predictions. This study investigates a multi-objective framework that combines reinforcement learning-based multiple instance learning (RL-MIL), adversarial debiasing, and preference-conditioned hypernetworks for student-at-risk prediction. MIL represents each student as a bag of weakly labeled interactions, whi",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.00035",
-      "featured": false
-    },
-    {
-      "id": "bd24141d704b",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "21시간 전 / 21h ago",
-      "title": "Field closure, ice neurons, and when a dendrite is a motif",
-      "titleKo": "",
-      "summary": "arXiv:2610.00184v1 Announce Type: new Abstract: Dendritic silhouettes are cheap. Pond ice neurons, diffusion-limited aggregates, wiring-minimizing arbors, and biological neurons can share a branching statistic because they share a growth instability, not because they are functionally similar. We take that observation as a modeling constraint. The ice neuron only structurally resembles a biological neuron. A biological neuron carries an internal state and a field that it helps generate, letting geometry, dynamics, and field co-sculpt one another. In our construction, the ice neuron is the zero-",
-      "aiSummary": "arXiv:2610.00184v1 Announce Type: new Abstract: Dendritic silhouettes are cheap. Pond ice neurons, diffusion-limited aggregates, wiring-minimizing arbors, and biological neurons can share a branching statistic because they share a growth instability, not because they are functionally similar. We take that observation as a modeling constraint. The ice neuron only structurally resembles a biological neuron. A biological neuron carries an internal state and a field that it helps generate, letting geometry, dynamics, and field co-sculpt one another. In our construction, the ice neuron is the zero-",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.00184v1 Announce Type: new Abstract: Dendritic silhouettes are cheap. Pond ice neurons, diffusion-limited aggregates, wiring-minimizing arbors, and biological neurons can share a branching statistic because they share a growth instability, not because they are functionally similar. We take that observation as a modeling constraint. The ice neuron only structurally resembles a biological neuron. A biological neuron carries an internal state and a field that it helps generate, letting geometry, dynamics, and field co-sculpt one another. In our construction, the ice neuron is the zero-",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.00184",
-      "featured": false
-    },
-    {
-      "id": "2d95392c5126",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Curious people tend to have more of the experiences linked to cognitive reserve, study finds",
-      "titleKo": "",
-      "summary": "A new study suggests that curious people build more \"cognitive reserve\" through higher education and mentally stimulating hobbies. However, this curiosity didn't translate into higher scores on cognitive tests among the healthy adults studied.",
-      "aiSummary": "A new study suggests that curious people build more \"cognitive reserve\" through higher education and mentally stimulating hobbies. However, this curiosity didn't translate into higher scores on cognitive tests among the healthy adults studied.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A new study suggests that curious people build more \"cognitive reserve\" through higher education and mentally stimulating hobbies. However, this curiosity didn't translate into higher scores on cognitive tests among the healthy adults studied.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/curious-people-tend-to-have-more-of-the-experiences-linked-to-cognitive-reserve-study-finds/",
       "featured": false
     }
   ]
