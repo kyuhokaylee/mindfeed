@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-03T20:52:43.078414+00:00",
+  "updated": "2026-10-03T23:41:12.197085+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2d5e0fc794bc",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Americans often fail to notice when Democrats and Republicans are moving in the same direction",
+      "titleKo": "",
+      "summary": "We often overestimate how divided our political opponents are from us. New research shows that highlighting shared trajectories of opinion change can soften partisan animosity, provided we don't dwell on today’s existing political gaps.",
+      "aiSummary": "We often overestimate how divided our political opponents are from us. New research shows that highlighting shared trajectories of opinion change can soften partisan animosity, provided we don't dwell on today’s existing political gaps.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "We often overestimate how divided our political opponents are from us. New research shows that highlighting shared trajectories of opinion change can soften partisan animosity, provided we don't dwell on today’s existing political gaps.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/americans-often-fail-to-notice-when-democrats-and-republicans-are-moving-in-the-same-direction/",
+      "featured": true
+    },
     {
       "id": "449458ee5266",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "While test scores predict classroom success for West Point cadets, a new meta-analysis reveals that the personality trait of conscientiousness is the best indicator of future military leadership performance.",
       "keyPoints": [],
       "url": "https://www.psypost.org/conscientiousness-outshines-cognitive-ability-in-predicting-leadership-among-wes/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "078fa1b7bbad",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2610.00009v1 Announce Type: new Abstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inner product at a learned frequency. A natural follow-up question is: which filter shape works best, and why? We test five hypotheses about filter properties -- DC suppression, Nyquist suppression, bandwidth, centre frequency, and multi-scale coverage -- using a controlled ablation on character-level language modelling (TinyShakespeare, 6-layer GPT). Our main findings are: (1) DC and Nyqui",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.00009",
-      "featured": false
-    },
-    {
-      "id": "df66031c4f45",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "21시간 전 / 21h ago",
-      "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
-      "titleKo": "",
-      "summary": "arXiv:2610.00035v1 Announce Type: new Abstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaningful intervention, while demographic information introduces an additional risk of unfair predictions. This study investigates a multi-objective framework that combines reinforcement learning-based multiple instance learning (RL-MIL), adversarial debiasing, and preference-conditioned hypernetworks for student-at-risk prediction. MIL represents each student as a bag of weakly labeled interactions, whi",
-      "aiSummary": "arXiv:2610.00035v1 Announce Type: new Abstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaningful intervention, while demographic information introduces an additional risk of unfair predictions. This study investigates a multi-objective framework that combines reinforcement learning-based multiple instance learning (RL-MIL), adversarial debiasing, and preference-conditioned hypernetworks for student-at-risk prediction. MIL represents each student as a bag of weakly labeled interactions, whi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.00035v1 Announce Type: new Abstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaningful intervention, while demographic information introduces an additional risk of unfair predictions. This study investigates a multi-objective framework that combines reinforcement learning-based multiple instance learning (RL-MIL), adversarial debiasing, and preference-conditioned hypernetworks for student-at-risk prediction. MIL represents each student as a bag of weakly labeled interactions, whi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.00035",
       "featured": false
     }
   ]
