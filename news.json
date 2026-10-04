@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-04T05:22:07.098148+00:00",
+  "updated": "2026-10-04T12:07:18.468662+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "92304fc0518d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Study of 2.5 million children finds no link between MMR vaccine and autism",
+      "titleKo": "",
+      "summary": "Evaluating the health records of over 2.5 million children, researchers found no evidence that receiving the measles, mumps, and rubella vaccine before age two increases the risk of a childhood autism diagnosis.",
+      "aiSummary": "Evaluating the health records of over 2.5 million children, researchers found no evidence that receiving the measles, mumps, and rubella vaccine before age two increases the risk of a childhood autism diagnosis.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Evaluating the health records of over 2.5 million children, researchers found no evidence that receiving the measles, mumps, and rubella vaccine before age two increases the risk of a childhood autism diagnosis.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/study-of-2-5-million-children-finds-no-link-between-mmr-vaccine-and-autism/",
+      "featured": true
+    },
+    {
+      "id": "2cd9da7e2ae3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Psychologists identify “collective anti-mattering” as a key driver of modern political grievances",
+      "titleKo": "",
+      "summary": "New research shows that feeling your social group is ignored by society triggers deep anger and anxiety. These emotions can lead to political mobilization, a desire for strong leaders, and support for punitive policies.",
+      "aiSummary": "New research shows that feeling your social group is ignored by society triggers deep anger and anxiety. These emotions can lead to political mobilization, a desire for strong leaders, and support for punitive policies.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research shows that feeling your social group is ignored by society triggers deep anger and anxiety. These emotions can lead to political mobilization, a desire for strong leaders, and support for punitive policies.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/psychologists-identify-collective-anti-mattering-as-a-key-driver-of-modern-political-grievances/",
+      "featured": false
+    },
     {
       "id": "2d5e0fc794bc",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "We often overestimate how divided our political opponents are from us. New research shows that highlighting shared trajectories of opinion change can soften partisan animosity, provided we don't dwell on today’s existing political gaps.",
       "keyPoints": [],
       "url": "https://www.psypost.org/americans-often-fail-to-notice-when-democrats-and-republicans-are-moving-in-the-same-direction/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "449458ee5266",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2610.00002v1 Announce Type: new Abstract: We introduce reverse Item Response Theory (IRT) to pharmacogenomic drug-response analysis by treating cancer types as latent \"subjects\" with resistance ability and drugs as \"items\" with evasion difficulty. Applied to 242,036 drug sensitivity measurements from the Genomics of Drug Sensitivity in Cancer (GDSC2) database, the model estimates cancer-type-level in-vitro resistance and drug-level broad activity on a shared latent scale. Validation across four missingness regimes demonstrates that reverse IRT better recovers the full-data latent ranking",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.00002",
-      "featured": false
-    },
-    {
-      "id": "d2c65251eae0",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "21시간 전 / 21h ago",
-      "title": "How Far is Adam from Natural Gradient Descent?",
-      "titleKo": "",
-      "summary": "arXiv:2610.00004v1 Announce Type: new Abstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unresolved questions. We study Adam's full update rule, including momentum, as a diagonal empirical Fisher approximation subject to diagonal truncation, empirical label substitution, and temporal lag. Using the scale-invariant $\\gamma(\\Delta\\theta)$ metric, we measure Adam's geometric deviation from true NGD across four loss landscapes: well-conditioned linear regression, ill-conditioned linear regression, logistic regression",
-      "aiSummary": "arXiv:2610.00004v1 Announce Type: new Abstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unresolved questions. We study Adam's full update rule, including momentum, as a diagonal empirical Fisher approximation subject to diagonal truncation, empirical label substitution, and temporal lag. Using the scale-invariant $\\gamma(\\Delta\\theta)$ metric, we measure Adam's geometric deviation from true NGD across four loss landscapes: well-conditioned linear regression, ill-conditioned linear regression, logistic regression",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.00004v1 Announce Type: new Abstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unresolved questions. We study Adam's full update rule, including momentum, as a diagonal empirical Fisher approximation subject to diagonal truncation, empirical label substitution, and temporal lag. Using the scale-invariant $\\gamma(\\Delta\\theta)$ metric, we measure Adam's geometric deviation from true NGD across four loss landscapes: well-conditioned linear regression, ill-conditioned linear regression, logistic regression",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.00004",
-      "featured": false
-    },
-    {
-      "id": "f1c5eae6b95f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "21시간 전 / 21h ago",
-      "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
-      "titleKo": "",
-      "summary": "arXiv:2610.00009v1 Announce Type: new Abstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inner product at a learned frequency. A natural follow-up question is: which filter shape works best, and why? We test five hypotheses about filter properties -- DC suppression, Nyquist suppression, bandwidth, centre frequency, and multi-scale coverage -- using a controlled ablation on character-level language modelling (TinyShakespeare, 6-layer GPT). Our main findings are: (1) DC and Nyqui",
-      "aiSummary": "arXiv:2610.00009v1 Announce Type: new Abstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inner product at a learned frequency. A natural follow-up question is: which filter shape works best, and why? We test five hypotheses about filter properties -- DC suppression, Nyquist suppression, bandwidth, centre frequency, and multi-scale coverage -- using a controlled ablation on character-level language modelling (TinyShakespeare, 6-layer GPT). Our main findings are: (1) DC and Nyqui",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.00009v1 Announce Type: new Abstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inner product at a learned frequency. A natural follow-up question is: which filter shape works best, and why? We test five hypotheses about filter properties -- DC suppression, Nyquist suppression, bandwidth, centre frequency, and multi-scale coverage -- using a controlled ablation on character-level language modelling (TinyShakespeare, 6-layer GPT). Our main findings are: (1) DC and Nyqui",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.00009",
       "featured": false
     }
   ]
