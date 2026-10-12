@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-11T21:46:58.083931+00:00",
+  "updated": "2026-10-12T01:06:55.532566+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "58c7a391b002",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "5일 전 / 5d ago",
+      "title": "Frontiers: A Roundtable Discussion on the I-Frame vs. S-Frame Debate",
+      "titleKo": "",
+      "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+      "featured": true
+    },
+    {
+      "id": "e92fe64f5af3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "61일 전 / 61d ago",
+      "title": "What It’s Like to Be…a Mail Carrier",
+      "titleKo": "",
+      "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+      "featured": false
+    },
     {
       "id": "d970ad019621",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A metabolic byproduct of gut bacteria can damage the blood-brain barrier and drive the formation of Alzheimer's-related proteins. Elevated levels of the chemical correlate with worse cognitive decline in humans and accelerate neurodegeneration in animal models.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-chemical-produced-by-gut-bacteria-may-accelerate-alzheimer-s-disease/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "61207e1d22aa",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Mail-in ballots are usually discussed as a way to boost turnout. New research suggests they may also help voters make better choices, with mail voters more likely to pick the candidate aligned with their stated preferences.",
       "keyPoints": [],
       "url": "https://www.psypost.org/does-voting-by-mail-make-for-better-choices-a-2020-election-study-suggests-it-might/",
-      "featured": false
-    },
-    {
-      "id": "9613c5f063d2",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Pregnant women with a history of childhood neglect show stronger inflammatory reactions to stress",
-      "titleKo": "",
-      "summary": "A history of childhood neglect or abuse may be reflected in how the body handles stress during pregnancy. In a new study, affected women showed stronger inflammatory responses to a stress test, linked in turn to more pregnancy complications.",
-      "aiSummary": "A history of childhood neglect or abuse may be reflected in how the body handles stress during pregnancy. In a new study, affected women showed stronger inflammatory responses to a stress test, linked in turn to more pregnancy complications.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A history of childhood neglect or abuse may be reflected in how the body handles stress during pregnancy. In a new study, affected women showed stronger inflammatory responses to a stress test, linked in turn to more pregnancy complications.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/pregnant-women-with-a-history-of-childhood-neglect-show-stronger-inflammatory-reactions-to-stress/",
-      "featured": false
-    },
-    {
-      "id": "48b710c69e4f",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "4시간 전 / 4h ago",
-      "title": "High cognitive ability in women predicts workplace victimization",
-      "titleKo": "",
-      "summary": "Highly intelligent women often face a hidden social penalty in the workplace. A new study reveals that female employees with high cognitive ability are perceived as more hostile, leading to fewer supportive interactions with their colleagues.",
-      "aiSummary": "Highly intelligent women often face a hidden social penalty in the workplace. A new study reveals that female employees with high cognitive ability are perceived as more hostile, leading to fewer supportive interactions with their colleagues.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Highly intelligent women often face a hidden social penalty in the workplace. A new study reveals that female employees with high cognitive ability are perceived as more hostile, leading to fewer supportive interactions with their colleagues.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/highly-competent-women-face-hidden-social-penalties-in-the-workplace/",
       "featured": false
     }
   ]
