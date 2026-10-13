@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-13T17:27:50.609559+00:00",
+  "updated": "2026-10-13T22:29:23.315979+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e56d4dac088b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "4시간 전 / 4h ago",
+      "title": "How partisan hatred shapes American views of the Black Lives Matter protests and January 6",
+      "titleKo": "",
+      "summary": "Americans evaluate major political events through a deeply polarized lens. A new study finds that intense dislike of political opponents and differing beliefs about what threatens democracy warp how the public remembers the Black Lives Matter protests and January 6.",
+      "aiSummary": "Americans evaluate major political events through a deeply polarized lens. A new study finds that intense dislike of political opponents and differing beliefs about what threatens democracy warp how the public remembers the Black Lives Matter protests and January 6.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Americans evaluate major political events through a deeply polarized lens. A new study finds that intense dislike of political opponents and differing beliefs about what threatens democracy warp how the public remembers the Black Lives Matter protests and January 6.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-partisan-hatred-shapes-american-views-of-the-black-lives-matter-protests-and/",
+      "featured": true
+    },
     {
       "id": "dafc1c89b5dc",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Using genetic test results to guide antidepressant prescriptions did not improve depression symptoms after 3 months in a large clinical trial. But by 6 months, more patients in the gene-guided group had reached remission.",
       "keyPoints": [],
       "url": "https://www.psypost.org/a-large-trial-of-genotype-guided-antidepressant-prescribing-finds-no-early-benefit-but-higher-remission-later/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0ba142e431ae",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Spiritual doubts are linked to higher anxiety in college students, but a new study finds that cultivating patience for everyday annoyances—like traffic and long lines—can independently predict a reduction in generalized anxiety over time.",
       "keyPoints": [],
       "url": "https://www.psypost.org/everyday-patience-may-reduce-anxiety-even-during-spiritual-crises/",
-      "featured": false
-    },
-    {
-      "id": "e9962c7221d3",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "9시간 전 / 9h ago",
-      "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
-      "titleKo": "",
-      "summary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with a simple amino acid called D-serine improved memory and learning, offering a potential new approach to age-related cognitive decline.",
-      "aiSummary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with a simple amino acid called D-serine improved memory and learning, offering a potential new approach to age-related cognitive decline.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with a simple amino acid called D-serine improved memory and learning, offering a potential new approach to age-related cognitive decline.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
       "featured": false
     }
   ]
