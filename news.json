@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-17T08:26:26.068700+00:00",
+  "updated": "2026-10-17T12:50:57.881970+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e02e4199ecee",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Scientists identify DNA regions tied to binge eating, including one near a well-known obesity gene",
+      "titleKo": "",
+      "summary": "Binge eating and anorexia are genetically linked to opposite ends of the body weight spectrum, but a study of more than 1.2 million people found both share genetic ties to depression, anxiety, and schizophrenia.",
+      "aiSummary": "Binge eating and anorexia are genetically linked to opposite ends of the body weight spectrum, but a study of more than 1.2 million people found both share genetic ties to depression, anxiety, and schizophrenia.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Binge eating and anorexia are genetically linked to opposite ends of the body weight spectrum, but a study of more than 1.2 million people found both share genetic ties to depression, anxiety, and schizophrenia.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/scientists-identify-dna-regions-tied-to-binge-eating-including-one-near-a-well-known-obesity-gene/",
+      "featured": true
+    },
+    {
+      "id": "69bb3ea5e1b3",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "How public opinion on transgender bathroom access shifted between 2016 and 2022",
+      "titleKo": "",
+      "summary": "Public opinion on transgender bathroom access has grown more conservative since 2016. A new study reveals how Americans weigh competing arguments about safety and discrimination, and why conflicted voters increasingly support restrictive policies.",
+      "aiSummary": "Public opinion on transgender bathroom access has grown more conservative since 2016. A new study reveals how Americans weigh competing arguments about safety and discrimination, and why conflicted voters increasingly support restrictive policies.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Public opinion on transgender bathroom access has grown more conservative since 2016. A new study reveals how Americans weigh competing arguments about safety and discrimination, and why conflicted voters increasingly support restrictive policies.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-public-opinion-on-transgender-bathroom-access-shifted-between-2016-and-2022/",
+      "featured": false
+    },
+    {
+      "id": "b881771203d7",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Nostalgia for a party’s past cuts both ways when it comes to support for political violence",
+      "titleKo": "",
+      "summary": "Nostalgia for a party’s past doesn’t mean the same thing to every partisan. Partisans who felt nostalgic reported more support for violence if their passion was obsessive, but less if it was harmonious.",
+      "aiSummary": "Nostalgia for a party’s past doesn’t mean the same thing to every partisan. Partisans who felt nostalgic reported more support for violence if their passion was obsessive, but less if it was harmonious.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Nostalgia for a party’s past doesn’t mean the same thing to every partisan. Partisans who felt nostalgic reported more support for violence if their passion was obsessive, but less if it was harmonious.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/nostalgia-for-a-partys-past-cuts-both-ways-when-it-comes-to-support-for-political-violence/",
+      "featured": false
+    },
     {
       "id": "ebb941f564e7",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "An enzyme called GRK2 clumps up and damages cellular powerhouses in the brains of mice with Alzheimer's disease. Newly developed chemical compounds that prevent or eliminate these clumps helped preserve memory and slow brain cell death in the animals.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-compounds-target-clumping-enzyme-to-protect-brain-cells-in-alzheimer-s-model/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d60e78e900be",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Getting less than four hours of sleep severely reduces physical endurance, but not because your muscles tire out faster. A new study shows that sleep deprivation forces the brain to inefficiently rewire its neural networks, triggering premature physical exhaustion.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-sleep-loss-rewires-brain-networks-to-induce-premature-physical-exhaustion/",
-      "featured": false
-    },
-    {
-      "id": "031e2b943905",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Psilocybin therapy has mostly reached the well-off. A small Oregon study tested a cheaper group model for low-income patients",
-      "titleKo": "",
-      "summary": "Most psychedelic research has drawn well-off participants. In a first-of-its-kind Oregon study, 19 low-income adults with depression completed group psilocybin therapy, and their average depression scores fell by more than half.",
-      "aiSummary": "Most psychedelic research has drawn well-off participants. In a first-of-its-kind Oregon study, 19 low-income adults with depression completed group psilocybin therapy, and their average depression scores fell by more than half.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Most psychedelic research has drawn well-off participants. In a first-of-its-kind Oregon study, 19 low-income adults with depression completed group psilocybin therapy, and their average depression scores fell by more than half.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/psilocybin-therapy-has-mostly-reached-the-well-off-a-small-oregon-study-tested-a-cheaper-group-model-for-low-income-patients/",
-      "featured": false
-    },
-    {
-      "id": "78a4ecde65a7",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "FlowBudget: Training-Free Sampling-Budget Estimation for Flow Matching Models",
-      "titleKo": "",
-      "summary": "arXiv:2610.20636v1 Announce Type: new Abstract: Sampling from continuous flow-based generators such as flow matching models requires numerical ODE or SDE integration, making inference cost depend on the number of function evaluations (NFEs). In practice, the sampling budget is inherited from prior work or selected through expensive FID-versus-NFE sweeps, using FID to assess image-generation quality, requiring sample generation and evaluation at multiple budgets. This makes sampling-budget selection dependent on repeated empirical evaluation. We therefore ask a complementary question to solver ",
-      "aiSummary": "arXiv:2610.20636v1 Announce Type: new Abstract: Sampling from continuous flow-based generators such as flow matching models requires numerical ODE or SDE integration, making inference cost depend on the number of function evaluations (NFEs). In practice, the sampling budget is inherited from prior work or selected through expensive FID-versus-NFE sweeps, using FID to assess image-generation quality, requiring sample generation and evaluation at multiple budgets. This makes sampling-budget selection dependent on repeated empirical evaluation. We therefore ask a complementary question to solver ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.20636v1 Announce Type: new Abstract: Sampling from continuous flow-based generators such as flow matching models requires numerical ODE or SDE integration, making inference cost depend on the number of function evaluations (NFEs). In practice, the sampling budget is inherited from prior work or selected through expensive FID-versus-NFE sweeps, using FID to assess image-generation quality, requiring sample generation and evaluation at multiple budgets. This makes sampling-budget selection dependent on repeated empirical evaluation. We therefore ask a complementary question to solver ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.20636",
-      "featured": false
-    },
-    {
-      "id": "042b54f1d25c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "16시간 전 / 16h ago",
-      "title": "Expanding Attention: A Taylor-Series Route to Linear-Time Transformers with a Fixed Number of Recurrent States",
-      "titleKo": "",
-      "summary": "arXiv:2610.20637v1 Announce Type: new Abstract: We expand the exponential kernel of attention into a truncated Taylor series of $n$ terms and factorize each term into a tensor-power inner product, which collapses the causal history into exactly $n$ recurrent states, each updated by one rank-one outer product per token and independent of context length $N$. The recursion is lossless with respect to the truncated kernel ($2.2 \\times 10^{-16}$ in float64), and the states are additive across chunks ($5.7 \\times 10^{-14}$), so prefill admits a parallel scan. Measured exponents are $t \\propto N^{2.2",
-      "aiSummary": "arXiv:2610.20637v1 Announce Type: new Abstract: We expand the exponential kernel of attention into a truncated Taylor series of $n$ terms and factorize each term into a tensor-power inner product, which collapses the causal history into exactly $n$ recurrent states, each updated by one rank-one outer product per token and independent of context length $N$. The recursion is lossless with respect to the truncated kernel ($2.2 \\times 10^{-16}$ in float64), and the states are additive across chunks ($5.7 \\times 10^{-14}$), so prefill admits a parallel scan. Measured exponents are $t \\propto N^{2.2",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.20637v1 Announce Type: new Abstract: We expand the exponential kernel of attention into a truncated Taylor series of $n$ terms and factorize each term into a tensor-power inner product, which collapses the causal history into exactly $n$ recurrent states, each updated by one rank-one outer product per token and independent of context length $N$. The recursion is lossless with respect to the truncated kernel ($2.2 \\times 10^{-16}$ in float64), and the states are additive across chunks ($5.7 \\times 10^{-14}$), so prefill admits a parallel scan. Measured exponents are $t \\propto N^{2.2",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.20637",
       "featured": false
     }
   ]
