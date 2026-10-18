@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-18T05:37:28.872000+00:00",
+  "updated": "2026-10-18T10:45:05.664389+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "77d25f92ec5c",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Psychopathy is the strongest predictor of frequent and malicious gossip among dark personality traits",
+      "titleKo": "",
+      "summary": "New research into the Dark Tetrad of personality indicates that psychopathy is the strongest predictor of both frequent and malicious gossip, while Machiavellianism is uniquely linked to gossiping across a wide range of strategic social goals.",
+      "aiSummary": "New research into the Dark Tetrad of personality indicates that psychopathy is the strongest predictor of both frequent and malicious gossip, while Machiavellianism is uniquely linked to gossiping across a wide range of strategic social goals.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "New research into the Dark Tetrad of personality indicates that psychopathy is the strongest predictor of both frequent and malicious gossip, while Machiavellianism is uniquely linked to gossiping across a wide range of strategic social goals.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/psychopathy-is-the-strongest-predictor-of-frequent-and-malicious-gossip-among-dark-personality-traits/",
+      "featured": true
+    },
     {
       "id": "79faf3f582e1",
       "tag": "behav",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "13ff983ba277",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Scientists have uncovered a surprising cause of age-related cognitive decline involving brain cells previously thought to be entirely beneficial. As these cells become dysfunctional, they can produce abnormal amounts of myelin, disrupting nerve fibers and potentially contributing to worsening memory and thinking skills.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
-      "featured": false
-    },
-    {
-      "id": "e02e4199ecee",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Scientists identify DNA regions tied to binge eating, including one near a well-known obesity gene",
-      "titleKo": "",
-      "summary": "Binge eating and anorexia are genetically linked to opposite ends of the body weight spectrum, but a study of more than 1.2 million people found both share genetic ties to depression, anxiety, and schizophrenia.",
-      "aiSummary": "Binge eating and anorexia are genetically linked to opposite ends of the body weight spectrum, but a study of more than 1.2 million people found both share genetic ties to depression, anxiety, and schizophrenia.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Binge eating and anorexia are genetically linked to opposite ends of the body weight spectrum, but a study of more than 1.2 million people found both share genetic ties to depression, anxiety, and schizophrenia.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/scientists-identify-dna-regions-tied-to-binge-eating-including-one-near-a-well-known-obesity-gene/",
       "featured": false
     }
   ]
