@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-18T17:56:26.796432+00:00",
+  "updated": "2026-10-18T20:28:39.210969+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "3510c2ba499a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "A single dose of psilocybin eased depression within days, but its edge over placebo faded within a year",
+      "titleKo": "",
+      "summary": "A single dose of psilocybin eased depression within days in a small Swedish trial, outperforming an active placebo for more than three months on patients’ self-ratings. By one year, however, the placebo group had largely caught up.",
+      "aiSummary": "A single dose of psilocybin eased depression within days in a small Swedish trial, outperforming an active placebo for more than three months on patients’ self-ratings. By one year, however, the placebo group had largely caught up.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A single dose of psilocybin eased depression within days in a small Swedish trial, outperforming an active placebo for more than three months on patients’ self-ratings. By one year, however, the placebo group had largely caught up.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/a-single-dose-of-psilocybin-eased-depression-within-days-but-its-edge-over-placebo-faded-within-a-year/",
+      "featured": true
+    },
+    {
+      "id": "58c7a391b002",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "11일 전 / 11d ago",
+      "title": "Frontiers: A Roundtable Discussion on the I-Frame vs. S-Frame Debate",
+      "titleKo": "",
+      "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+      "featured": false
+    },
     {
       "id": "70953d47b05e",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "A nationwide Finnish study tracked 2,083 young people referred for gender care for as long as 25 years. Specialist psychiatric care rates rose among those who later transitioned medically, though critics dispute what the findings mean.",
       "keyPoints": [],
       "url": "https://www.psypost.org/does-medical-transition-help-young-transgender-peoples-mental-health-a-finnish-study-sparks-a-battle-over-the-answer/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e92fe64f5af3",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. Yet benchmark items produce far more information than the scores we typically extract from them: a full transcript of how each model solved the task. We investigate whether these transcripts can be used to assess model capabilities even after benchmark scores have saturated. We simulate saturation re",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.20667",
-      "featured": false
-    },
-    {
-      "id": "04373c7136bb",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-      "titleKo": "",
-      "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluations and, for gradient-based proposals, value-gradient computations. Sparse guidance reduces this cost by guiding only a subset of timesteps, but commonly used schedules are fixed heuristics whose effectiveness can vary substantially across tasks. We propose VISTA, a training-free method that automatic",
-      "aiSummary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluations and, for gradient-based proposals, value-gradient computations. Sparse guidance reduces this cost by guiding only a subset of timesteps, but commonly used schedules are fixed heuristics whose effectiveness can vary substantially across tasks. We propose VISTA, a training-free method that automatic",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluations and, for gradient-based proposals, value-gradient computations. Sparse guidance reduces this cost by guiding only a subset of timesteps, but commonly used schedules are fixed heuristics whose effectiveness can vary substantially across tasks. We propose VISTA, a training-free method that automatic",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.20669",
-      "featured": false
-    },
-    {
-      "id": "a4cf394b6937",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Weaker inputs to a key emotion hub are linked to more depressive symptoms in healthy young adults",
-      "titleKo": "",
-      "summary": "Young adults with weaker incoming connections to the subgenual anterior cingulate cortex, a small region that helps regulate emotion, tended to report more depressive symptoms, according to brain scans of 890 healthy volunteers.",
-      "aiSummary": "Young adults with weaker incoming connections to the subgenual anterior cingulate cortex, a small region that helps regulate emotion, tended to report more depressive symptoms, according to brain scans of 890 healthy volunteers.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Young adults with weaker incoming connections to the subgenual anterior cingulate cortex, a small region that helps regulate emotion, tended to report more depressive symptoms, according to brain scans of 890 healthy volunteers.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/weaker-inputs-to-a-key-emotion-hub-are-linked-to-more-depressive-symptoms-in-healthy-young-adults/",
       "featured": false
     }
   ]
