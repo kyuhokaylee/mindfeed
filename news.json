@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-24T07:04:29.937729+00:00",
+  "updated": "2026-10-24T12:32:56.628806+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "4b883151a8ae",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Psychopathy scores run a bit higher among Americans still living in their home state, study finds",
+      "titleKo": "",
+      "summary": "Americans who still live in the state where they grew up score slightly higher on psychopathy than those who moved away, according to a study of nearly 4,000 adults. The gap was small but persisted in the strictest comparisons.",
+      "aiSummary": "Americans who still live in the state where they grew up score slightly higher on psychopathy than those who moved away, according to a study of nearly 4,000 adults. The gap was small but persisted in the strictest comparisons.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Americans who still live in the state where they grew up score slightly higher on psychopathy than those who moved away, according to a study of nearly 4,000 adults. The gap was small but persisted in the strictest comparisons.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/psychopathy-scores-run-a-bit-higher-among-americans-still-living-in-their-home-state-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "6edc0f92f56b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Psychologists showed extreme metal fans a series of disgusting images, and their reactions stood out",
+      "titleKo": "",
+      "summary": "People who love extreme metal music report feeling less disgusted by gruesome artworks, album covers, and gross photos than nonfans do. They also tend to find the grotesque art and album covers funnier.",
+      "aiSummary": "People who love extreme metal music report feeling less disgusted by gruesome artworks, album covers, and gross photos than nonfans do. They also tend to find the grotesque art and album covers funnier.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "People who love extreme metal music report feeling less disgusted by gruesome artworks, album covers, and gross photos than nonfans do. They also tend to find the grotesque art and album covers funnier.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/psychologists-showed-extreme-metal-fans-a-series-of-disgusting-images-and-their-reactions-stood-out/",
+      "featured": false
+    },
     {
       "id": "79faf3f582e1",
       "tag": "behav",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4b785d485fb5",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2610.30207v1 Announce Type: new Abstract: Estimating distributed neural sources from M/EEG measurements is an ill-posed inverse problem where principled uncertainty quantification remains challenging. The usual conditional Gaussian posterior covariance does not explicitly distinguish uncertainty along likelihood-visible source directions from uncertainty that is invisible to the measurements. We propose a spectral framework based on the singular value structure of the prior-preconditioned forward operator, which provides an exact, interpretable decomposition of the posterior covariance i",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.30207",
-      "featured": false
-    },
-    {
-      "id": "1b359c38b5e6",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "14시간 전 / 14h ago",
-      "title": "Prediction Is Not Calibration: Item Parameter Recovery and Representation Coupling in Knowledge Tracing",
-      "titleKo": "",
-      "summary": "arXiv:2610.30211v1 Announce Type: new Abstract: Knowledge tracing (KT) models can estimate item parameters through an item response decoder trained solely for next-response prediction, yet predictive accuracy does not guarantee parameter recovery. We study 2PL, GPCM, and NRM decoders paired with LSTM, Transformer, and DKVMN encoders. Response-model derivatives show why discrimination and option slope updates depend directly on the scale and spread of estimated ability. Affine logit identities show how item-dependent shifts and rescaling in estimated ability are absorbed into item parameters wi",
-      "aiSummary": "arXiv:2610.30211v1 Announce Type: new Abstract: Knowledge tracing (KT) models can estimate item parameters through an item response decoder trained solely for next-response prediction, yet predictive accuracy does not guarantee parameter recovery. We study 2PL, GPCM, and NRM decoders paired with LSTM, Transformer, and DKVMN encoders. Response-model derivatives show why discrimination and option slope updates depend directly on the scale and spread of estimated ability. Affine logit identities show how item-dependent shifts and rescaling in estimated ability are absorbed into item parameters wi",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.30211v1 Announce Type: new Abstract: Knowledge tracing (KT) models can estimate item parameters through an item response decoder trained solely for next-response prediction, yet predictive accuracy does not guarantee parameter recovery. We study 2PL, GPCM, and NRM decoders paired with LSTM, Transformer, and DKVMN encoders. Response-model derivatives show why discrimination and option slope updates depend directly on the scale and spread of estimated ability. Affine logit identities show how item-dependent shifts and rescaling in estimated ability are absorbed into item parameters wi",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.30211",
-      "featured": false
-    },
-    {
-      "id": "ff67a6ca99f4",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "14시간 전 / 14h ago",
-      "title": "AI Mindmeld: A Latent Interconnect Protocol",
-      "titleKo": "",
-      "summary": "arXiv:2610.30215v1 Announce Type: new Abstract: LLMs can act as scientific agents using tools to consult specialists and run experiments. Yet specialist information must enter their context, generally as text, images, audio or video: a bottleneck between models with rich, high-dimensional representations. We advocate direct representation exchange: a mindmeld conveying many properties, including information an LLM would not think to request. It should be extensible to new specialists, flexible across questions and tasks, and compositional across independently connected specialists without join",
-      "aiSummary": "arXiv:2610.30215v1 Announce Type: new Abstract: LLMs can act as scientific agents using tools to consult specialists and run experiments. Yet specialist information must enter their context, generally as text, images, audio or video: a bottleneck between models with rich, high-dimensional representations. We advocate direct representation exchange: a mindmeld conveying many properties, including information an LLM would not think to request. It should be extensible to new specialists, flexible across questions and tasks, and compositional across independently connected specialists without join",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.30215v1 Announce Type: new Abstract: LLMs can act as scientific agents using tools to consult specialists and run experiments. Yet specialist information must enter their context, generally as text, images, audio or video: a bottleneck between models with rich, high-dimensional representations. We advocate direct representation exchange: a mindmeld conveying many properties, including information an LLM would not think to request. It should be extensible to new specialists, flexible across questions and tasks, and compositional across independently connected specialists without join",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.30215",
       "featured": false
     }
   ]
