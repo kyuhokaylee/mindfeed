@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-24T01:26:23.950020+00:00",
+  "updated": "2026-10-24T07:04:29.937729+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "79faf3f582e1",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "8일 전 / 8d ago",
+      "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+      "titleKo": "",
+      "summary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "aiSummary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+      "featured": true
+    },
     {
       "id": "4b785d485fb5",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A papal election may offer Catholics more than a new leader. A daily survey study suggests practicing American Catholics felt their lives were slightly more meaningful after Pope Leo XIV’s election, a pattern that held through the study’s end.",
       "keyPoints": [],
       "url": "https://www.psypost.org/american-catholics-reported-a-greater-sense-of-meaning-in-life-after-pope-leo-xivs-election-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "13ff983ba277",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2610.30215v1 Announce Type: new Abstract: LLMs can act as scientific agents using tools to consult specialists and run experiments. Yet specialist information must enter their context, generally as text, images, audio or video: a bottleneck between models with rich, high-dimensional representations. We advocate direct representation exchange: a mindmeld conveying many properties, including information an LLM would not think to request. It should be extensible to new specialists, flexible across questions and tasks, and compositional across independently connected specialists without join",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.30215",
-      "featured": false
-    },
-    {
-      "id": "60a3a128b12a",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "arXiv – q-bio.NC",
-      "time": "14시간 전 / 14h ago",
-      "title": "The medium is the message: How neurometabolic entanglement generates conscious experience",
-      "titleKo": "",
-      "summary": "arXiv:2610.30217v1 Announce Type: new Abstract: Most neuroscientific accounts of consciousness assume that conscious experience is constituted by the information conveyed between neurons. The physical-chemical details of the metabolic and physiological processes that convey this information are correspondingly presumed to be relevant only insofar as they support the organization of information processes. We describe an alternative perspective that denies this presumed independence of the processing of neural information and the metabolic-physiological details of these processes. We call this a",
-      "aiSummary": "arXiv:2610.30217v1 Announce Type: new Abstract: Most neuroscientific accounts of consciousness assume that conscious experience is constituted by the information conveyed between neurons. The physical-chemical details of the metabolic and physiological processes that convey this information are correspondingly presumed to be relevant only insofar as they support the organization of information processes. We describe an alternative perspective that denies this presumed independence of the processing of neural information and the metabolic-physiological details of these processes. We call this a",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.30217v1 Announce Type: new Abstract: Most neuroscientific accounts of consciousness assume that conscious experience is constituted by the information conveyed between neurons. The physical-chemical details of the metabolic and physiological processes that convey this information are correspondingly presumed to be relevant only insofar as they support the organization of information processes. We describe an alternative perspective that denies this presumed independence of the processing of neural information and the metabolic-physiological details of these processes. We call this a",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.30217",
       "featured": false
     }
   ]
