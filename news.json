@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-24T12:32:56.628806+00:00",
+  "updated": "2026-10-24T16:29:26.620409+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "af711f1b28e4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Emotional struggles are linked to vulnerable narcissism but not grandiose narcissism, meta-analysis finds",
+      "titleKo": "",
+      "summary": "A meta-analysis of 26 studies involving more than 12,000 adults found that vulnerable narcissism was moderately linked to difficulty managing emotions, while grandiose narcissism showed virtually no connection.",
+      "aiSummary": "A meta-analysis of 26 studies involving more than 12,000 adults found that vulnerable narcissism was moderately linked to difficulty managing emotions, while grandiose narcissism showed virtually no connection.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A meta-analysis of 26 studies involving more than 12,000 adults found that vulnerable narcissism was moderately linked to difficulty managing emotions, while grandiose narcissism showed virtually no connection.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/emotional-struggles-are-linked-to-vulnerable-narcissism-but-not-grandiose-narcissism-meta-analysis-finds/",
+      "featured": true
+    },
+    {
+      "id": "cfd9bdfc270b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "The psychology behind Taylor Swift’s billion-dollar media empire",
+      "titleKo": "",
+      "summary": "The intense, one-sided connections fans feel toward Taylor Swift and their fear of missing out strongly predict whether they will attend her concerts and movies, highlighting how the psychological need for social belonging drives massive consumer behaviors.",
+      "aiSummary": "The intense, one-sided connections fans feel toward Taylor Swift and their fear of missing out strongly predict whether they will attend her concerts and movies, highlighting how the psychological need for social belonging drives massive consumer behaviors.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "The intense, one-sided connections fans feel toward Taylor Swift and their fear of missing out strongly predict whether they will attend her concerts and movies, highlighting how the psychological need for social belonging drives massive consumer behaviors.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-psychology-behind-taylor-swift-s-billion-dollar-media-empire/",
+      "featured": false
+    },
+    {
+      "id": "107efa17e315",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "15시간 전 / 15h ago",
+      "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+      "titleKo": "",
+      "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.",
+      "aiSummary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+      "featured": false
+    },
     {
       "id": "4b883151a8ae",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Americans who still live in the state where they grew up score slightly higher on psychopathy than those who moved away, according to a study of nearly 4,000 adults. The gap was small but persisted in the strictest comparisons.",
       "keyPoints": [],
       "url": "https://www.psypost.org/psychopathy-scores-run-a-bit-higher-among-americans-still-living-in-their-home-state-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6edc0f92f56b",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Researchers expected university graduates to view Big Tech more favorably. Instead, a six-country survey found education was linked mainly to ambivalence, with highly educated right-leaning respondents increasingly likely to see the companies as both beneficial and harmful.",
       "keyPoints": [],
       "url": "https://www.psypost.org/college-educated-people-arent-big-techs-biggest-fans-theyre-its-most-conflicted-study-suggests/",
-      "featured": false
-    },
-    {
-      "id": "e54bf5fc2033",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Chest vibrations paired with meditation appears to alter brain wiring in trauma survivors",
-      "titleKo": "",
-      "summary": "Combining mindfulness meditation with a gentle buzzing device on the chest can physically alter brain pathways related to body awareness. The combination therapy helps trauma survivors feel more grounded and connected to their physical forms.",
-      "aiSummary": "Combining mindfulness meditation with a gentle buzzing device on the chest can physically alter brain pathways related to body awareness. The combination therapy helps trauma survivors feel more grounded and connected to their physical forms.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Combining mindfulness meditation with a gentle buzzing device on the chest can physically alter brain pathways related to body awareness. The combination therapy helps trauma survivors feel more grounded and connected to their physical forms.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/chest-vibrations-paired-with-meditation-alter-brain-wiring-in-trauma-survivors/",
-      "featured": false
-    },
-    {
-      "id": "174725f8477d",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "14시간 전 / 14h ago",
-      "title": "MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs",
-      "titleKo": "",
-      "summary": "arXiv:2610.30206v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) language models scale model capacity efficiently by activating a small subset of parameters per token. However, in long-context inference, memory remains a major bottleneck because the KV cache grows linearly with sequence length. Existing KV cache compression methods reduce this cost for dense transformers, but overlook a problem specific to MoE: KV eviction can change which experts are selected during answer generation, degrading the generation quality. We propose MoEZip, a routing-aware KV cache compression for sparse ",
-      "aiSummary": "arXiv:2610.30206v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) language models scale model capacity efficiently by activating a small subset of parameters per token. However, in long-context inference, memory remains a major bottleneck because the KV cache grows linearly with sequence length. Existing KV cache compression methods reduce this cost for dense transformers, but overlook a problem specific to MoE: KV eviction can change which experts are selected during answer generation, degrading the generation quality. We propose MoEZip, a routing-aware KV cache compression for sparse ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.30206v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) language models scale model capacity efficiently by activating a small subset of parameters per token. However, in long-context inference, memory remains a major bottleneck because the KV cache grows linearly with sequence length. Existing KV cache compression methods reduce this cost for dense transformers, but overlook a problem specific to MoE: KV eviction can change which experts are selected during answer generation, degrading the generation quality. We propose MoEZip, a routing-aware KV cache compression for sparse ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.30206",
-      "featured": false
-    },
-    {
-      "id": "95453513745f",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "14시간 전 / 14h ago",
-      "title": "Spectral Uncertainty Decomposition for Sparse Bayesian Learning",
-      "titleKo": "",
-      "summary": "arXiv:2610.30207v1 Announce Type: new Abstract: Estimating distributed neural sources from M/EEG measurements is an ill-posed inverse problem where principled uncertainty quantification remains challenging. The usual conditional Gaussian posterior covariance does not explicitly distinguish uncertainty along likelihood-visible source directions from uncertainty that is invisible to the measurements. We propose a spectral framework based on the singular value structure of the prior-preconditioned forward operator, which provides an exact, interpretable decomposition of the posterior covariance i",
-      "aiSummary": "arXiv:2610.30207v1 Announce Type: new Abstract: Estimating distributed neural sources from M/EEG measurements is an ill-posed inverse problem where principled uncertainty quantification remains challenging. The usual conditional Gaussian posterior covariance does not explicitly distinguish uncertainty along likelihood-visible source directions from uncertainty that is invisible to the measurements. We propose a spectral framework based on the singular value structure of the prior-preconditioned forward operator, which provides an exact, interpretable decomposition of the posterior covariance i",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.30207v1 Announce Type: new Abstract: Estimating distributed neural sources from M/EEG measurements is an ill-posed inverse problem where principled uncertainty quantification remains challenging. The usual conditional Gaussian posterior covariance does not explicitly distinguish uncertainty along likelihood-visible source directions from uncertainty that is invisible to the measurements. We propose a spectral framework based on the singular value structure of the prior-preconditioned forward operator, which provides an exact, interpretable decomposition of the posterior covariance i",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.30207",
       "featured": false
     }
   ]
