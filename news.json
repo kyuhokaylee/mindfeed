@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-25T05:54:02.769559+00:00",
+  "updated": "2026-10-25T11:05:04.576609+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "ec909613f697",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Your body makes its own cannabis-like chemicals as you run, and neuroscience research finds they keep rising all the way to the marathon finish line, a possible clue to the runner’s high",
+      "titleKo": "",
+      "summary": "Most research on the runner’s high has looked at workouts under an hour. New research on marathoners and ultramarathoners found the body’s cannabis-like chemicals remain active through hours of running.",
+      "aiSummary": "Most research on the runner’s high has looked at workouts under an hour. New research on marathoners and ultramarathoners found the body’s cannabis-like chemicals remain active through hours of running.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Most research on the runner’s high has looked at workouts under an hour. New research on marathoners and ultramarathoners found the body’s cannabis-like chemicals remain active through hours of running.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/your-body-makes-its-own-cannabis-like-chemicals-as-you-run-and-neuroscience-research-finds-they-keep-rising-all-the-way-to-the-marathon-finish-line-a-possible-clue-to-the-runners-high/",
+      "featured": true
+    },
     {
       "id": "58c7a391b002",
       "tag": "behav",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
       "keyPoints": [],
       "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e92fe64f5af3",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2610.30151v1 Announce Type: new Abstract: Every interaction between AI agents begins with a handshake: the initiating agent must locate its counterpart, learn what it can do, and establish a session before the first useful message can be sent. Surveys of agent communication protocols name handshake overhead as an efficiency criterion, yet none report measurements. This paper presents the first empirical, phase-decomposed benchmark of the handshake in three major agent protocols: MCP (in both its 2025 initialize and 2026 discover eras), A2A, and ACP. Using each protocol's official SDK, we",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.30151",
-      "featured": false
-    },
-    {
-      "id": "46bea01e4fcb",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "18시간 전 / 18h ago",
-      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
-      "titleKo": "",
-      "summary": "arXiv:2610.30157v1 Announce Type: new Abstract: AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged: CLI (Command Line Interface), where agents execute shell commands directly, and MCP (Model Context Protocol), a structured JSON-RPC protocol providing governed, typed tool access. This paper presents a comparative analysis across 14 evaluation dimensions, supported by worked examples, security assessment against established compliance frameworks, and economic modeling. Our analysis indicates that",
-      "aiSummary": "arXiv:2610.30157v1 Announce Type: new Abstract: AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged: CLI (Command Line Interface), where agents execute shell commands directly, and MCP (Model Context Protocol), a structured JSON-RPC protocol providing governed, typed tool access. This paper presents a comparative analysis across 14 evaluation dimensions, supported by worked examples, security assessment against established compliance frameworks, and economic modeling. Our analysis indicates that",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.30157v1 Announce Type: new Abstract: AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged: CLI (Command Line Interface), where agents execute shell commands directly, and MCP (Model Context Protocol), a structured JSON-RPC protocol providing governed, typed tool access. This paper presents a comparative analysis across 14 evaluation dimensions, supported by worked examples, security assessment against established compliance frameworks, and economic modeling. Our analysis indicates that",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.30157",
       "featured": false
     }
   ]
