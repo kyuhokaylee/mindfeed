@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-25T18:49:53.343036+00:00",
+  "updated": "2026-10-25T21:34:52.381114+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "79faf3f582e1",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "10일 전 / 10d ago",
+      "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+      "titleKo": "",
+      "summary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "aiSummary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+      "featured": true
+    },
     {
       "id": "2e41e6ce0fd4",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Young adults who worry about rejection tend to fear death more, a study of 640 Italians found. That fear was tied to more anxiety and related symptoms, but mainly among those who see death as final.",
       "keyPoints": [],
       "url": "https://www.psypost.org/young-adults-who-fear-rejection-also-tend-to-fear-death-more-psychology-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7738d12e1b6f",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "The intense, one-sided connections fans feel toward Taylor Swift and their fear of missing out strongly predict whether they will attend her concerts and movies, highlighting how the psychological need for social belonging drives massive consumer behaviors.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-psychology-behind-taylor-swift-s-billion-dollar-media-empire/",
-      "featured": false
-    },
-    {
-      "id": "107efa17e315",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "15시간 전 / 15h ago",
-      "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-      "titleKo": "",
-      "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.",
-      "aiSummary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
       "featured": false
     }
   ]
