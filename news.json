@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-25T15:53:31.924498+00:00",
+  "updated": "2026-10-25T18:49:53.343036+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "2e41e6ce0fd4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Young adults who fear rejection also tend to fear death more, psychology study finds",
+      "titleKo": "",
+      "summary": "Young adults who worry about rejection tend to fear death more, a study of 640 Italians found. That fear was tied to more anxiety and related symptoms, but mainly among those who see death as final.",
+      "aiSummary": "Young adults who worry about rejection tend to fear death more, a study of 640 Italians found. That fear was tied to more anxiety and related symptoms, but mainly among those who see death as final.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Young adults who worry about rejection tend to fear death more, a study of 640 Italians found. That fear was tied to more anxiety and related symptoms, but mainly among those who see death as final.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/young-adults-who-fear-rejection-also-tend-to-fear-death-more-psychology-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "7738d12e1b6f",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "How the menstrual cycle might alter ADHD symptoms in women taking stimulant medication",
+      "titleKo": "",
+      "summary": "A new study reveals that ADHD symptoms peak in severity during menstruation for women taking stimulant medications. The findings suggest that natural hormonal fluctuations alter attention and mood, highlighting a need for highly personalized treatment plans.",
+      "aiSummary": "A new study reveals that ADHD symptoms peak in severity during menstruation for women taking stimulant medications. The findings suggest that natural hormonal fluctuations alter attention and mood, highlighting a need for highly personalized treatment plans.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A new study reveals that ADHD symptoms peak in severity during menstruation for women taking stimulant medications. The findings suggest that natural hormonal fluctuations alter attention and mood, highlighting a need for highly personalized treatment plans.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-the-menstrual-cycle-alters-adhd-symptoms-in-women-taking-stimulants/",
+      "featured": false
+    },
+    {
+      "id": "13ff983ba277",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "89일 전 / 89d ago",
+      "title": "What It’s Like to Be…a Hotshot",
+      "titleKo": "",
+      "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+      "featured": false
+    },
     {
       "id": "51ab3f846440",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "Which face looks like the right leader may depend on how a political issue makes you feel. Republicans still favored dominant-looking leaders more than Democrats did, but the effects of anger and fear appeared similar across both parties.",
       "keyPoints": [],
       "url": "https://www.psypost.org/anger-and-fear-nudge-voters-toward-different-kinds-of-leader-faces-study-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5e0844e4acfa",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
-      "featured": false
-    },
-    {
-      "id": "4b883151a8ae",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Psychopathy scores run a bit higher among Americans still living in their home state, study finds",
-      "titleKo": "",
-      "summary": "Americans who still live in the state where they grew up score slightly higher on psychopathy than those who moved away, according to a study of nearly 4,000 adults. The gap was small but persisted in the strictest comparisons.",
-      "aiSummary": "Americans who still live in the state where they grew up score slightly higher on psychopathy than those who moved away, according to a study of nearly 4,000 adults. The gap was small but persisted in the strictest comparisons.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Americans who still live in the state where they grew up score slightly higher on psychopathy than those who moved away, according to a study of nearly 4,000 adults. The gap was small but persisted in the strictest comparisons.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/psychopathy-scores-run-a-bit-higher-among-americans-still-living-in-their-home-state-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "6edc0f92f56b",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Psychologists showed extreme metal fans a series of disgusting images, and their reactions stood out",
-      "titleKo": "",
-      "summary": "People who love extreme metal music report feeling less disgusted by gruesome artworks, album covers, and gross photos than nonfans do. They also tend to find the grotesque art and album covers funnier.",
-      "aiSummary": "People who love extreme metal music report feeling less disgusted by gruesome artworks, album covers, and gross photos than nonfans do. They also tend to find the grotesque art and album covers funnier.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "People who love extreme metal music report feeling less disgusted by gruesome artworks, album covers, and gross photos than nonfans do. They also tend to find the grotesque art and album covers funnier.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/psychologists-showed-extreme-metal-fans-a-series-of-disgusting-images-and-their-reactions-stood-out/",
-      "featured": false
-    },
-    {
-      "id": "79faf3f582e1",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "8일 전 / 8d ago",
-      "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
-      "titleKo": "",
-      "summary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
-      "aiSummary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
       "featured": false
     }
   ]
