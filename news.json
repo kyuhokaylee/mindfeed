@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-29T23:11:37.350886+00:00",
+  "updated": "2026-10-30T05:17:16.003625+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e92fe64f5af3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "79일 전 / 79d ago",
+      "title": "What It’s Like to Be…a Mail Carrier",
+      "titleKo": "",
+      "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+      "featured": true
+    },
     {
       "id": "13cd562216a9",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Most research on social media and depression has focused on teenagers. A new analysis of more than 183,000 American adults suggests the link extends across the adult lifespan and has held steady for over a decade.",
       "keyPoints": [],
       "url": "https://www.psypost.org/social-media-use-ranks-among-the-top-predictors-of-depression-in-a-study-of-183000-adults/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "13ff983ba277",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges such as insufficient data and class imbalance. In our work, we propose a comprehensive data generation strategy to overcome these limitations. First, we apply various data generation techniques, including traditional augmentation methods, CutMix, MixUp, and synthetic image generation using Deep Convolu tional Generative Adversarial Networks (DCGANs), to create new data samples. S",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.35984",
-      "featured": false
-    },
-    {
-      "id": "e88d32f555f2",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "1시간 전 / 1h ago",
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "titleKo": "",
-      "summary": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with",
-      "aiSummary": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.36077",
       "featured": false
     }
   ]
