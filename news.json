@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-31T19:50:08.771810+00:00",
+  "updated": "2026-10-31T23:14:42.706417+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "bbcc2129377b",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Narcissistic parents tend to lean on their children for emotional support, and that is linked to depression later on",
+      "titleKo": "",
+      "summary": "When parents cross emotional boundaries and rely on their children as surrogate partners, those children face a higher risk of adult depression. A new cross-cultural study explores the mechanism linking parental vulnerable narcissism to this childhood emotional enmeshment.",
+      "aiSummary": "When parents cross emotional boundaries and rely on their children as surrogate partners, those children face a higher risk of adult depression. A new cross-cultural study explores the mechanism linking parental vulnerable narcissism to this childhood emotional enmeshment.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "When parents cross emotional boundaries and rely on their children as surrogate partners, those children face a higher risk of adult depression. A new cross-cultural study explores the mechanism linking parental vulnerable narcissism to this childhood emotional enmeshment.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-parental-narcissism-links-to-depression-in-adult-children-across-cultures/",
+      "featured": true
+    },
+    {
+      "id": "a7efca50d8fb",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "A policy-focused TikTok improved opinions of Kamala Harris, but trendier campaign clips did not, experiment finds",
+      "titleKo": "",
+      "summary": "A recent experiment reveals that while trendy TikTok videos encourage social media sharing, traditional policy-focused advertisements are far more effective at improving a political candidate's favorability rating among voters.",
+      "aiSummary": "A recent experiment reveals that while trendy TikTok videos encourage social media sharing, traditional policy-focused advertisements are far more effective at improving a political candidate's favorability rating among voters.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent experiment reveals that while trendy TikTok videos encourage social media sharing, traditional policy-focused advertisements are far more effective at improving a political candidate's favorability rating among voters.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/the-limits-of-viral-politics-how-tiktok-shaped-voter-views-of-kamala-harris/",
+      "featured": false
+    },
     {
       "id": "074a945c8ea8",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "People at the political extremes tend to feel more confident about their science knowledge than moderates. But checked against a science quiz, extreme liberals who got their information online were the least likely to overrate themselves.",
       "keyPoints": [],
       "url": "https://www.psypost.org/extreme-liberals-who-rely-on-traditional-sources-are-the-most-likely-to-overrate-their-science-knowledge/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "353582a5fd4f",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as arithmetic, counting, and date comparison. Letting the model think first fixes most of these errors, but costs seconds per decision instead of milliseconds. To pay for thinking only where it helps, ThinkJev builds a fast and a slow system from one open hybrid-thinking model that can answer directly o",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.37732",
-      "featured": false
-    },
-    {
-      "id": "2d01dc796cc4",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "22시간 전 / 22h ago",
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "titleKo": "",
-      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem statements, context, progress, and other information for 12,151 problems. The benchmark contains 200 p",
-      "aiSummary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem statements, context, progress, and other information for 12,151 problems. The benchmark contains 200 p",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem statements, context, progress, and other information for 12,151 problems. The benchmark contains 200 p",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.37739",
-      "featured": false
-    },
-    {
-      "id": "219a5586cd78",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "22시간 전 / 22h ago",
-      "title": "Moment-Guided Optimizers for Noisy Deep Learning: MGO-SC as a Simple Consistency Gate for Adam-Style Updates",
-      "titleKo": "",
-      "summary": "arXiv:2610.37712v1 Announce Type: new Abstract: Adaptive optimizers are widely used in deep learning, yet their behavior can degrade under heavy stochasticity and label noise where the sign and magnitude of gradients can be unstable. We study MGO-SC (Moment-Guided Optimizer with Sign-Consistency), a lightweight modification of Adam-style methods that derives a coordinate-wise consistency gate from the magnitude of a sign exponential moving average (EMA): coordinates whose gradient sign is stable are trusted, while coordinates whose sign fluctuates are down-weighted. We show that the naive form",
-      "aiSummary": "arXiv:2610.37712v1 Announce Type: new Abstract: Adaptive optimizers are widely used in deep learning, yet their behavior can degrade under heavy stochasticity and label noise where the sign and magnitude of gradients can be unstable. We study MGO-SC (Moment-Guided Optimizer with Sign-Consistency), a lightweight modification of Adam-style methods that derives a coordinate-wise consistency gate from the magnitude of a sign exponential moving average (EMA): coordinates whose gradient sign is stable are trusted, while coordinates whose sign fluctuates are down-weighted. We show that the naive form",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.37712v1 Announce Type: new Abstract: Adaptive optimizers are widely used in deep learning, yet their behavior can degrade under heavy stochasticity and label noise where the sign and magnitude of gradients can be unstable. We study MGO-SC (Moment-Guided Optimizer with Sign-Consistency), a lightweight modification of Adam-style methods that derives a coordinate-wise consistency gate from the magnitude of a sign exponential moving average (EMA): coordinates whose gradient sign is stable are trusted, while coordinates whose sign fluctuates are down-weighted. We show that the naive form",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.37712",
       "featured": false
     }
   ]
