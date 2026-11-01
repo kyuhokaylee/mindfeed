@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-01T18:23:38.400611+00:00",
+  "updated": "2026-11-01T22:39:40.717698+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "cd5037551fdf",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "Inflammation briefly dampens pleasure and the desire to socialize, placebo-controlled study finds",
+      "titleKo": "",
+      "summary": "Inflammation may do more than make people feel sick. In a placebo-controlled study, triggering inflammation in healthy women reduced their desire to socialize and ability to feel pleasure, even after accounting for sickness symptoms.",
+      "aiSummary": "Inflammation may do more than make people feel sick. In a placebo-controlled study, triggering inflammation in healthy women reduced their desire to socialize and ability to feel pleasure, even after accounting for sickness symptoms.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Inflammation may do more than make people feel sick. In a placebo-controlled study, triggering inflammation in healthy women reduced their desire to socialize and ability to feel pleasure, even after accounting for sickness symptoms.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/inflammation-briefly-dampens-pleasure-and-the-desire-to-socialize-placebo-controlled-study-finds/",
+      "featured": true
+    },
+    {
+      "id": "79faf3f582e1",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "17일 전 / 17d ago",
+      "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+      "titleKo": "",
+      "summary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "aiSummary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+      "featured": false
+    },
+    {
+      "id": "58c7a391b002",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "26일 전 / 26d ago",
+      "title": "Frontiers: A Roundtable Discussion on the I-Frame vs. S-Frame Debate",
+      "titleKo": "",
+      "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+      "featured": false
+    },
     {
       "id": "0a682b99603f",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "People who support online public shaming and digital vigilantism are often motivated by the pleasure of seeing others suffer and a desire to boost their own moral status, according to a recent psychological survey.",
       "keyPoints": [],
       "url": "https://www.psypost.org/the-psychological-motives-driving-internet-justice-and-public-shaming/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3f93b7c5a305",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Patients who received a single dose of mebufotenin improved more on a standard depression scale than those who received a low comparator dose, with most assessed as ready to leave the clinic within two hours.",
       "keyPoints": [],
       "url": "https://www.psypost.org/single-dose-of-psychedelic-nasal-spray-reduced-treatment-resistant-depression-symptoms-for-eight-weeks/",
-      "featured": false
-    },
-    {
-      "id": "7dccfff7140f",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "3시간 전 / 3h ago",
-      "title": "Analysis of FDA reports finds Prozac’s sexual side effects vary widely, with some emerging years into treatment",
-      "titleKo": "",
-      "summary": "A recent study combining public health databases and computer simulations suggests that the sexual side effects of a common antidepressant involve specific sensory disruptions. The drug might also interact with proteins that regulate cellular stress and inflammation.",
-      "aiSummary": "A recent study combining public health databases and computer simulations suggests that the sexual side effects of a common antidepressant involve specific sensory disruptions. The drug might also interact with proteins that regulate cellular stress and inflammation.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A recent study combining public health databases and computer simulations suggests that the sexual side effects of a common antidepressant involve specific sensory disruptions. The drug might also interact with proteins that regulate cellular stress and inflammation.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/computer-models-reveal-new-clues-about-antidepressant-side-effects/",
-      "featured": false
-    },
-    {
-      "id": "13ff983ba277",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "95일 전 / 95d ago",
-      "title": "What It’s Like to Be…a Hotshot",
-      "titleKo": "",
-      "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
-      "aiSummary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
-      "featured": false
-    },
-    {
-      "id": "2b5e3d26593f",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "14시간 전 / 14h ago",
-      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
-      "titleKo": "",
-      "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
-      "aiSummary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
       "featured": false
     }
   ]
