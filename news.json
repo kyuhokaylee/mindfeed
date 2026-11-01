@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-01T05:30:23.539850+00:00",
+  "updated": "2026-11-01T12:59:56.141532+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "08dd965a1c89",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Your teenage mental health may say something about your vote at 40, study finds",
+      "titleKo": "",
+      "summary": "A large 28-year study in Norway reveals that mental health issues starting in adolescence predict distinct adult voting habits. Researchers found early anxiety or disruptive behaviors are linked to specific ideologies and lower trust in government by midlife.",
+      "aiSummary": "A large 28-year study in Norway reveals that mental health issues starting in adolescence predict distinct adult voting habits. Researchers found early anxiety or disruptive behaviors are linked to specific ideologies and lower trust in government by midlife.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A large 28-year study in Norway reveals that mental health issues starting in adolescence predict distinct adult voting habits. Researchers found early anxiety or disruptive behaviors are linked to specific ideologies and lower trust in government by midlife.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-adolescent-mental-health-predicts-adult-political-views/",
+      "featured": true
+    },
+    {
+      "id": "237d06c597c6",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Reading for pleasure is linked to better brain health across the lifespan",
+      "titleKo": "",
+      "summary": "From early childhood to old age, people who read for pleasure tend to show better cognitive performance and mental well-being. Cambridge researchers argue that reading and book clubs could be low-cost ways to support brain health.",
+      "aiSummary": "From early childhood to old age, people who read for pleasure tend to show better cognitive performance and mental well-being. Cambridge researchers argue that reading and book clubs could be low-cost ways to support brain health.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "From early childhood to old age, people who read for pleasure tend to show better cognitive performance and mental well-being. Cambridge researchers argue that reading and book clubs could be low-cost ways to support brain health.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/reading-for-pleasure-is-linked-to-better-brain-health-across-the-lifespan/",
+      "featured": false
+    },
     {
       "id": "bbcc2129377b",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "When parents cross emotional boundaries and rely on their children as surrogate partners, those children face a higher risk of adult depression. A new cross-cultural study explores the mechanism linking parental vulnerable narcissism to this childhood emotional enmeshment.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-parental-narcissism-links-to-depression-in-adult-children-across-cultures/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a7efca50d8fb",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet additional expert copies compete with token-related buffers for limited GPU memory. We present LRMoE, a memory-aware MoE training system that jointly recalibrates backward demand and balances the retained workload. During forward execution, it plans retention quotas and expert placement under resource constraints while p",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2610.37720",
-      "featured": false
-    },
-    {
-      "id": "b01adb6a6c07",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "22시간 전 / 22h ago",
-      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-      "titleKo": "",
-      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We construct a family of localized posteriors by weighting observation likelihoods according to their proximity to a target context. Gaussian localization weights incorporate context uncertainty through covariance inflation, with reflection at domain boundaries and an optional correction for uneven context sa",
-      "aiSummary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We construct a family of localized posteriors by weighting observation likelihoods according to their proximity to a target context. Gaussian localization weights incorporate context uncertainty through covariance inflation, with reflection at domain boundaries and an optional correction for uneven context sa",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We construct a family of localized posteriors by weighting observation likelihoods according to their proximity to a target context. Gaussian localization weights incorporate context uncertainty through covariance inflation, with reflection at domain boundaries and an optional correction for uneven context sa",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.37731",
-      "featured": false
-    },
-    {
-      "id": "9889211209b2",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "22시간 전 / 22h ago",
-      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-      "titleKo": "",
-      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as arithmetic, counting, and date comparison. Letting the model think first fixes most of these errors, but costs seconds per decision instead of milliseconds. To pay for thinking only where it helps, ThinkJev builds a fast and a slow system from one open hybrid-thinking model that can answer directly o",
-      "aiSummary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as arithmetic, counting, and date comparison. Letting the model think first fixes most of these errors, but costs seconds per decision instead of milliseconds. To pay for thinking only where it helps, ThinkJev builds a fast and a slow system from one open hybrid-thinking model that can answer directly o",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as arithmetic, counting, and date comparison. Letting the model think first fixes most of these errors, but costs seconds per decision instead of milliseconds. To pay for thinking only where it helps, ThinkJev builds a fast and a slow system from one open hybrid-thinking model that can answer directly o",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2610.37732",
       "featured": false
     }
   ]
