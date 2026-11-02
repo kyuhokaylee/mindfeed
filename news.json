@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-01T22:39:40.717698+00:00",
+  "updated": "2026-11-02T02:15:04.108248+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "13ff983ba277",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "96일 전 / 96d ago",
+      "title": "What It’s Like to Be…a Hotshot",
+      "titleKo": "",
+      "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+      "featured": true
+    },
+    {
+      "id": "2b5e3d26593f",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "2일 전 / 2d ago",
+      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+      "titleKo": "",
+      "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
+      "aiSummary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+      "featured": false
+    },
     {
       "id": "cd5037551fdf",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Inflammation may do more than make people feel sick. In a placebo-controlled study, triggering inflammation in healthy women reduced their desire to socialize and ability to feel pleasure, even after accounting for sickness symptoms.",
       "keyPoints": [],
       "url": "https://www.psypost.org/inflammation-briefly-dampens-pleasure-and-the-desire-to-socialize-placebo-controlled-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "79faf3f582e1",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "Most workers in a new study took the money. But the higher someone scored on a measure of grandiose narcissism, the more likely they were to want the title instead — even when both jobs carried identical authority.",
       "keyPoints": [],
       "url": "https://www.psypost.org/narcissistic-employees-will-work-harder-for-a-title-than-for-a-raise-study-finds/",
-      "featured": false
-    },
-    {
-      "id": "f3270eb35258",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "1시간 전 / 1h ago",
-      "title": "Study finds the “bowing effect” on attractiveness is cultural, not universal",
-      "titleKo": "",
-      "summary": "Japanese raters scored bowing faces up to 28 points higher on a 100-point attractiveness scale than static ones, while American raters barely moved.",
-      "aiSummary": "Japanese raters scored bowing faces up to 28 points higher on a 100-point attractiveness scale than static ones, while American raters barely moved.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Japanese raters scored bowing faces up to 28 points higher on a 100-point attractiveness scale than static ones, while American raters barely moved.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/study-finds-the-bowing-effect-on-attractiveness-is-cultural-not-universal/",
-      "featured": false
-    },
-    {
-      "id": "5fa09c70784d",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Single dose of psychedelic nasal spray reduced treatment-resistant depression symptoms for eight weeks",
-      "titleKo": "",
-      "summary": "Patients who received a single dose of mebufotenin improved more on a standard depression scale than those who received a low comparator dose, with most assessed as ready to leave the clinic within two hours.",
-      "aiSummary": "Patients who received a single dose of mebufotenin improved more on a standard depression scale than those who received a low comparator dose, with most assessed as ready to leave the clinic within two hours.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Patients who received a single dose of mebufotenin improved more on a standard depression scale than those who received a low comparator dose, with most assessed as ready to leave the clinic within two hours.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/single-dose-of-psychedelic-nasal-spray-reduced-treatment-resistant-depression-symptoms-for-eight-weeks/",
       "featured": false
     }
   ]
