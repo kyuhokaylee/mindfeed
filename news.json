@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-07T18:35:20.356376+00:00",
+  "updated": "2026-11-07T22:36:53.981084+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "262d51873ca8",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "1시간 전 / 1h ago",
+      "title": "Subtle mood changes in late life may follow early Alzheimer’s brain changes, study suggests",
+      "titleKo": "",
+      "summary": "Does brain pathology spark low mood, or the other way around? In older adults without memory problems, buildup of the Alzheimer’s-related protein tau tended to come first, followed by small increases in depressive symptoms.",
+      "aiSummary": "Does brain pathology spark low mood, or the other way around? In older adults without memory problems, buildup of the Alzheimer’s-related protein tau tended to come first, followed by small increases in depressive symptoms.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Does brain pathology spark low mood, or the other way around? In older adults without memory problems, buildup of the Alzheimer’s-related protein tau tended to come first, followed by small increases in depressive symptoms.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/subtle-mood-changes-in-late-life-may-follow-early-alzheimers-brain-changes-study-suggests/",
+      "featured": true
+    },
+    {
+      "id": "d30ecb27ecd4",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "New study identifies daily communication and personal mindset as key predictors of marital sexual activity",
+      "titleKo": "",
+      "summary": "Married couples in South Korea report higher rates of sexual inactivity than their American counterparts, according to a large survey. The research highlights how work hours, income, and communication styles relate to intimacy in different cultural environments.",
+      "aiSummary": "Married couples in South Korea report higher rates of sexual inactivity than their American counterparts, according to a large survey. The research highlights how work hours, income, and communication styles relate to intimacy in different cultural environments.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Married couples in South Korea report higher rates of sexual inactivity than their American counterparts, according to a large survey. The research highlights how work hours, income, and communication styles relate to intimacy in different cultural environments.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/sexual-inactivity-rates-differ-between-married-couples-in-the-united-states-and/",
+      "featured": false
+    },
     {
       "id": "56866c5ec812",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Who calls a psychedelic helpline? An analysis of nearly five years of calls and texts found that psilocybin dominated, cannabis showed up often, and most callers whose setting was recorded were going through it alone.",
       "keyPoints": [],
       "url": "https://www.psypost.org/what-25000-conversations-with-a-psychedelic-helpline-show-about-who-seeks-help/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "22de65b53677",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "arXiv:2611.06953v1 Announce Type: new Abstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R^2$ fell from 0.859 on a random split to 0.113 when steel families were held out. Empirical coverage",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2611.06953",
-      "featured": false
-    },
-    {
-      "id": "159387fefb7c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
-      "titleKo": "",
-      "summary": "arXiv:2611.06956v1 Announce Type: new Abstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches across branches, exchange findings by re-prefilling text summaries, and flatten or drop cross-branch dependencies during reinforcement learning (RL). We introduce Octopus, a single-model multi-agent RL framework in which all threads share one backbone and coordinate over a GPU-resident",
-      "aiSummary": "arXiv:2611.06956v1 Announce Type: new Abstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches across branches, exchange findings by re-prefilling text summaries, and flatten or drop cross-branch dependencies during reinforcement learning (RL). We introduce Octopus, a single-model multi-agent RL framework in which all threads share one backbone and coordinate over a GPU-resident",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2611.06956v1 Announce Type: new Abstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches across branches, exchange findings by re-prefilling text summaries, and flatten or drop cross-branch dependencies during reinforcement learning (RL). We introduce Octopus, a single-model multi-agent RL framework in which all threads share one backbone and coordinate over a GPU-resident",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2611.06956",
-      "featured": false
-    },
-    {
-      "id": "4b9000e85392",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "Uncertainty calibration in Bayesian M/EEG source imaging",
-      "titleKo": "",
-      "summary": "arXiv:2611.06979v1 Announce Type: new Abstract: M/EEG source imaging requires accurate localization and reliable uncertainty estimates, yet posterior credible regions are rarely assessed for empirical calibration. We present a simulation-based framework for uncertainty quantification and calibration of empirical Bayesian inverse methods with closed-form conditional Gaussian posterior summaries. We compare Bayesian minimum norm (BMN) with sLORETA depth weighting and sparse Bayesian learning (SBL) with sparse basis field expansions (S-FLEX). S-FLEX allows retained coefficients to contribute nonz",
-      "aiSummary": "arXiv:2611.06979v1 Announce Type: new Abstract: M/EEG source imaging requires accurate localization and reliable uncertainty estimates, yet posterior credible regions are rarely assessed for empirical calibration. We present a simulation-based framework for uncertainty quantification and calibration of empirical Bayesian inverse methods with closed-form conditional Gaussian posterior summaries. We compare Bayesian minimum norm (BMN) with sLORETA depth weighting and sparse Bayesian learning (SBL) with sparse basis field expansions (S-FLEX). S-FLEX allows retained coefficients to contribute nonz",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2611.06979v1 Announce Type: new Abstract: M/EEG source imaging requires accurate localization and reliable uncertainty estimates, yet posterior credible regions are rarely assessed for empirical calibration. We present a simulation-based framework for uncertainty quantification and calibration of empirical Bayesian inverse methods with closed-form conditional Gaussian posterior summaries. We compare Bayesian minimum norm (BMN) with sLORETA depth weighting and sparse Bayesian learning (SBL) with sparse basis field expansions (S-FLEX). S-FLEX allows retained coefficients to contribute nonz",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2611.06979",
       "featured": false
     }
   ]
