@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-07T22:36:53.981084+00:00",
+  "updated": "2026-11-08T02:13:29.210083+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "e240865fec9a",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "People prefer slightly protruding jaws over perfectly straight facial profiles",
+      "titleKo": "",
+      "summary": "A recent survey reveals that everyday people prefer facial profiles with slightly protruding upper jaws over perfectly neutral alignments, highlighting a gap between clinical geometric ideals and actual public aesthetic tastes.",
+      "aiSummary": "A recent survey reveals that everyday people prefer facial profiles with slightly protruding upper jaws over perfectly neutral alignments, highlighting a gap between clinical geometric ideals and actual public aesthetic tastes.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A recent survey reveals that everyday people prefer facial profiles with slightly protruding upper jaws over perfectly neutral alignments, highlighting a gap between clinical geometric ideals and actual public aesthetic tastes.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/public-prefers-slightly-protruding-jaws-over-perfectly-straight-facial-profiles/",
+      "featured": true
+    },
     {
       "id": "262d51873ca8",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Does brain pathology spark low mood, or the other way around? In older adults without memory problems, buildup of the Alzheimer’s-related protein tau tended to come first, followed by small increases in depressive symptoms.",
       "keyPoints": [],
       "url": "https://www.psypost.org/subtle-mood-changes-in-late-life-may-follow-early-alzheimers-brain-changes-study-suggests/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d30ecb27ecd4",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "Research across two vastly different cultures reveals that our urge to punish rule-breakers balances a dual desire: to compensate victims for their exact losses and to impose extra penalties that deter future harms.",
       "keyPoints": [],
       "url": "https://www.psypost.org/why-humans-punish-a-study-of-two-distinct-societies-reveals-a-shared-sense-of-ju/",
-      "featured": false
-    },
-    {
-      "id": "98ca58be595c",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.LG",
-      "time": "19시간 전 / 19h ago",
-      "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
-      "titleKo": "",
-      "summary": "arXiv:2611.06953v1 Announce Type: new Abstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R^2$ fell from 0.859 on a random split to 0.113 when steel families were held out. Empirical coverage",
-      "aiSummary": "arXiv:2611.06953v1 Announce Type: new Abstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R^2$ fell from 0.859 on a random split to 0.113 when steel families were held out. Empirical coverage",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2611.06953v1 Announce Type: new Abstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R^2$ fell from 0.859 on a random split to 0.113 when steel families were held out. Empirical coverage",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2611.06953",
       "featured": false
     }
   ]
