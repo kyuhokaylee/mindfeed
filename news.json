@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-12T00:22:14.542024+00:00",
+  "updated": "2026-11-12T08:06:18.927366+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "8216327f3523",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "7시간 전 / 7h ago",
+      "title": "Bedroom temperature may be a hidden drag on productivity, study suggests",
+      "titleKo": "",
+      "summary": "On nights when people’s bedrooms were warmer than usual, they slept slightly worse and felt a bit less focused and productive the next day, according to a study that tracked Austrian adults with wearables and bedroom sensors.",
+      "aiSummary": "On nights when people’s bedrooms were warmer than usual, they slept slightly worse and felt a bit less focused and productive the next day, according to a study that tracked Austrian adults with wearables and bedroom sensors.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "On nights when people’s bedrooms were warmer than usual, they slept slightly worse and felt a bit less focused and productive the next day, according to a study that tracked Austrian adults with wearables and bedroom sensors.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/bedroom-temperature-may-be-a-hidden-drag-on-productivity-study-suggests/",
+      "featured": true
+    },
     {
       "id": "a9e3a6fea157",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "A recent study tracking emerging adult bisexual women in Chile found that insecure attachment styles predict lower future well-being, highlighting the need to look beyond psychological distress when evaluating mental health.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-insecure-attachment-shapes-mental-health-in-young-bisexual-women/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "26a8449a7c8e",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes. We introduce TopicScope, a framework for training causal topic classifiers on SAE features that assign a topic to every token, so that the label can change partway through a response. We train three detector architectures on synthetic multi-topic conversations covering seven topics. Across Gemma-3 ",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2611.12935",
-      "featured": false
-    },
-    {
-      "id": "1a11aecb3878",
-      "tag": "ai",
-      "tagLabel": "AI 연구 / AI Research",
-      "source": "arXiv – cs.AI",
-      "time": "4시간 전 / 4h ago",
-      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-      "titleKo": "",
-      "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these limitations, we propose LandslideFM, the first unified foundation model that connects visual perception tasks with contextual interpretation of landslides. Specifically, LandslideFM adapts to multiple visual tasks via a Source-Agreement Graduated Trust semi-supervised learning framework that leverages ",
-      "aiSummary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these limitations, we propose LandslideFM, the first unified foundation model that connects visual perception tasks with contextual interpretation of landslides. Specifically, LandslideFM adapts to multiple visual tasks via a Source-Agreement Graduated Trust semi-supervised learning framework that leverages ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these limitations, we propose LandslideFM, the first unified foundation model that connects visual perception tasks with contextual interpretation of landslides. Specifically, LandslideFM adapts to multiple visual tasks via a Source-Agreement Graduated Trust semi-supervised learning framework that leverages ",
-      "keyPoints": [],
-      "url": "https://arxiv.org/abs/2611.12936",
       "featured": false
     }
   ]
