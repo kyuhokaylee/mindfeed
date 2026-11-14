@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-14T02:08:11.308453+00:00",
+  "updated": "2026-11-14T09:59:31.531858+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "5866b496a8d2",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "8시간 전 / 8h ago",
+      "title": "Forcing yourself to smile can actually make you miserable",
+      "titleKo": "",
+      "summary": "Smiling may not always make you happier, and new research suggests that forcing yourself to smile repeatedly could actually make you feel worse. In a University of Florida study involving more than 1,100 participants, researchers discovered that while a single artificial smile can provide a small mood boost, repeatedly faking smiles can erase that benefit or even reverse it.",
+      "aiSummary": "Smiling may not always make you happier, and new research suggests that forcing yourself to smile repeatedly could actually make you feel worse. In a University of Florida study involving more than 1,100 participants, researchers discovered that while a single artificial smile can provide a small mood boost, repeatedly faking smiles can erase that benefit or even reverse it.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Smiling may not always make you happier, and new research suggests that forcing yourself to smile repeatedly could actually make you feel worse. In a University of Florida study involving more than 1,100 participants, researchers discovered that while a single artificial smile can provide a small mood boost, repeatedly faking smiles can erase that benefit or even reverse it.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025536.htm",
+      "featured": true
+    },
     {
       "id": "5600f11992ac",
       "tag": "psych",
@@ -16,7 +32,7 @@
       "aiSummaryEn": "Do you believe there’s one perfect person out there for you? Most young women in a Turkish interview study did, and many said movies, TV dramas, and social media keep reinforcing that idea.",
       "keyPoints": [],
       "url": "https://www.psypost.org/young-women-widely-believe-that-each-person-has-a-single-ideal-romantic-partner-destined-for-them-turkish-study-finds/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0dd64d9a31e5",
@@ -304,22 +320,6 @@
       "aiSummaryEn": "",
       "keyPoints": [],
       "url": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
-      "featured": false
-    },
-    {
-      "id": "8a3c635f5991",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Regret is rare among transgender youth who began hormone therapy, according to largest study of its kind",
-      "titleKo": "",
-      "summary": "Most people who began hormone therapy as teenagers at a U.S. gender clinic and answered a follow-up survey said starting treatment had been the right decision, according to a cohort study published in JAMA Pediatrics. Even among former patients who eventually stopped taking hormones, more than four out of five still reported that starting treatment [&#8230;]",
-      "aiSummary": "Most people who began hormone therapy as teenagers at a U.S. gender clinic and answered a follow-up survey said starting treatment had been the right decision, according to a cohort study published in JAMA Pediatrics. Even among former patients who eventually stopped taking hormones, more than four out of five still reported that starting treatment [&#8230;]",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Most people who began hormone therapy as teenagers at a U.S. gender clinic and answered a follow-up survey said starting treatment had been the right decision, according to a cohort study published in JAMA Pediatrics. Even among former patients who eventually stopped taking hormones, more than four out of five still reported that starting treatment [&#8230;]",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/regret-is-rare-among-transgender-youth-who-began-hormone-therapy-according-to-largest-study-of-its-kind/",
       "featured": false
     }
   ]
