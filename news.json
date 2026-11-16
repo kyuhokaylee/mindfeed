@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-15T21:35:25.915326+00:00",
+  "updated": "2026-11-16T01:43:11.578591+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "d7679583535d",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "2시간 전 / 2h ago",
+      "title": "Republicans experience worse mental health in Democratic neighborhoods, study finds",
+      "titleKo": "",
+      "summary": "A large national study finds that Republicans living in heavily Democratic neighborhoods report higher rates of anxiety, depression, and loneliness. Democrats, however, show similar mental health regardless of their neighborhood's political makeup.",
+      "aiSummary": "A large national study finds that Republicans living in heavily Democratic neighborhoods report higher rates of anxiety, depression, and loneliness. Democrats, however, show similar mental health regardless of their neighborhood's political makeup.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "A large national study finds that Republicans living in heavily Democratic neighborhoods report higher rates of anxiety, depression, and loneliness. Democrats, however, show similar mental health regardless of their neighborhood's political makeup.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/republicans-experience-worse-mental-health-in-democratic-neighborhoods/",
+      "featured": true
+    },
+    {
+      "id": "fbe41c3f7cde",
+      "tag": "neuro",
+      "tagLabel": "신경과학 / Neuroscience",
+      "source": "ScienceDaily Mind",
+      "time": "1일 전 / 1d ago",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "titleKo": "",
+      "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+      "aiSummary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+      "keyPoints": [],
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+      "featured": false
+    },
     {
       "id": "98dcaf244a5e",
       "tag": "psych",
@@ -16,7 +48,7 @@
       "aiSummaryEn": "Among more than 1,300 Taiwanese adolescents living in poverty, those facing more material hardship reported poorer family relationships and more psychological distress. Family ties appeared to be the most consistent link between deprivation and adolescents’ well-being.",
       "keyPoints": [],
       "url": "https://www.psypost.org/family-ties-emerge-as-a-key-link-between-poverty-and-teen-well-being-in-taiwanese-study/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "30082b22de5c",
@@ -288,38 +320,6 @@
       "aiSummaryEn": "In a 14-day diary study of 106 cohabiting couples, people were accurate, on average, about how much they helped their partner’s goals but tended to underestimate how much they got in the way.",
       "keyPoints": [],
       "url": "https://www.psypost.org/people-tend-to-underestimate-how-much-they-get-in-the-way-of-their-partners-goals/",
-      "featured": false
-    },
-    {
-      "id": "83739eb73100",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "5시간 전 / 5h ago",
-      "title": "Scientists created a Doctor Octopus-inspired brain interface for controlling robotic arms",
-      "titleKo": "",
-      "summary": "Researchers built a brain-computer interface that reads touch-triggered brainwaves, allowing users to direct extra robotic arms while their biological hands remain fully occupied.",
-      "aiSummary": "Researchers built a brain-computer interface that reads touch-triggered brainwaves, allowing users to direct extra robotic arms while their biological hands remain fully occupied.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Researchers built a brain-computer interface that reads touch-triggered brainwaves, allowing users to direct extra robotic arms while their biological hands remain fully occupied.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/scientists-created-a-doctor-octopus-inspired-brain-interface-for-controlling-robotic-arms/",
-      "featured": false
-    },
-    {
-      "id": "096351e3e558",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "3시간 전 / 3h ago",
-      "title": "Scientists find a simple daily routine linked to less pain and depression",
-      "titleKo": "",
-      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.",
-      "aiSummary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
       "featured": false
     }
   ]
