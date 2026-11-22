@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-22T02:58:16.396866+00:00",
+  "updated": "2026-11-22T11:04:33.645969+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "c91ba8daea88",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "방금 전 / Just now",
+      "title": "Massive field experiment suggests classroom phone bans modestly improve college grades",
+      "titleKo": "",
+      "summary": "Classroom phone bans are not a silver bullet for education, according to a recent large-scale field experiment. Still, locking devices away during lectures modestly lifted grades for lower-performing students without hurting overall student well-being.",
+      "aiSummary": "Classroom phone bans are not a silver bullet for education, according to a recent large-scale field experiment. Still, locking devices away during lectures modestly lifted grades for lower-performing students without hurting overall student well-being.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Classroom phone bans are not a silver bullet for education, according to a recent large-scale field experiment. Still, locking devices away during lectures modestly lifted grades for lower-performing students without hurting overall student well-being.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/massive-field-experiment-suggests-classroom-phone-bans-modestly-improve-college-grades/",
+      "featured": true
+    },
+    {
+      "id": "79faf3f582e1",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "38일 전 / 38d ago",
+      "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+      "titleKo": "",
+      "summary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "aiSummary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+      "featured": false
+    },
+    {
+      "id": "58c7a391b002",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "46일 전 / 46d ago",
+      "title": "Frontiers: A Roundtable Discussion on the I-Frame vs. S-Frame Debate",
+      "titleKo": "",
+      "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+      "featured": false
+    },
     {
       "id": "cd879e08ff86",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "As mice learn to self-administer cocaine, the brain networks driving the habit undergo constant remodeling. A new study reveals that the brain continually swaps out individual neurons to maintain the addictive behavior.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-brain-cell-networks-expand-and-shrink-as-cocaine-habits-form/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e92fe64f5af3",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a determinantal point process (DPP), where the likelihood encodes item quality, and the embedding geometry encodes repulsion between similar outputs. Exact inference over all strings is intractable, so we propose PoolDPP: draw a finite candidate pool from a tractable proposal, importance-weight the candidates toward the t",
       "keyPoints": [],
       "url": "https://arxiv.org/abs/2611.25003",
-      "featured": false
-    },
-    {
-      "id": "a2597cf926c0",
-      "tag": "neuro",
-      "tagLabel": "신경과학 / Neuroscience",
-      "source": "ScienceDaily Mind",
-      "time": "2일 전 / 2d ago",
-      "title": "Is free will an illusion? New brain research reveals a surprising twist",
-      "titleKo": "",
-      "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
-      "aiSummary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
-      "keyPoints": [],
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
-      "featured": false
-    },
-    {
-      "id": "848be17ae6b8",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "방금 전 / Just now",
-      "title": "Psychiatrists reveal unusual case in which 71-year-old farmer asked to be tied with ropes to calm his severe anxiety",
-      "titleKo": "",
-      "summary": "Doctors in New Delhi describe an elderly patient whose anxiety episodes drove him to seek physical restraint for relief. A literature search turned up no comparable case in older adults.",
-      "aiSummary": "Doctors in New Delhi describe an elderly patient whose anxiety episodes drove him to seek physical restraint for relief. A literature search turned up no comparable case in older adults.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Doctors in New Delhi describe an elderly patient whose anxiety episodes drove him to seek physical restraint for relief. A literature search turned up no comparable case in older adults.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/psychiatrists-reveal-unusual-case-in-which-71-year-old-farmer-asked-to-be-tied-with-ropes-to-calm-his-severe-anxiety/",
-      "featured": false
-    },
-    {
-      "id": "b0f1b418f83b",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "2시간 전 / 2h ago",
-      "title": "Antagonistic and impulsive traits are linked to cyberbullying, trolling, and catfishing on Instagram",
-      "titleKo": "",
-      "summary": "Maladaptive personality traits may help explain who engages in harmful behavior online. Among Instagram-using students in Iran, antagonism and impulsivity were tied to cyberbullying and trolling, while negative emotionality was tied to Instagram addiction.",
-      "aiSummary": "Maladaptive personality traits may help explain who engages in harmful behavior online. Among Instagram-using students in Iran, antagonism and impulsivity were tied to cyberbullying and trolling, while negative emotionality was tied to Instagram addiction.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Maladaptive personality traits may help explain who engages in harmful behavior online. Among Instagram-using students in Iran, antagonism and impulsivity were tied to cyberbullying and trolling, while negative emotionality was tied to Instagram addiction.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/antagonistic-and-impulsive-traits-are-linked-to-cyberbullying-trolling-and-catfishing-on-instagram/",
       "featured": false
     }
   ]
