@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-21T22:57:28.211288+00:00",
+  "updated": "2026-11-22T02:58:16.396866+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "cd879e08ff86",
+      "tag": "psych",
+      "tagLabel": "심리학 / Psychology",
+      "source": "PsyPost",
+      "time": "3시간 전 / 3h ago",
+      "title": "How brain cell networks expand and shrink as cocaine habits form",
+      "titleKo": "",
+      "summary": "As mice learn to self-administer cocaine, the brain networks driving the habit undergo constant remodeling. A new study reveals that the brain continually swaps out individual neurons to maintain the addictive behavior.",
+      "aiSummary": "As mice learn to self-administer cocaine, the brain networks driving the habit undergo constant remodeling. A new study reveals that the brain continually swaps out individual neurons to maintain the addictive behavior.",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "As mice learn to self-administer cocaine, the brain networks driving the habit undergo constant remodeling. A new study reveals that the brain continually swaps out individual neurons to maintain the addictive behavior.",
+      "keyPoints": [],
+      "url": "https://www.psypost.org/how-brain-cell-networks-expand-and-shrink-as-cocaine-habits-form/",
+      "featured": true
+    },
+    {
+      "id": "e92fe64f5af3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "102일 전 / 102d ago",
+      "title": "What It’s Like to Be…a Mail Carrier",
+      "titleKo": "",
+      "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+      "featured": false
+    },
+    {
+      "id": "13ff983ba277",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "116일 전 / 116d ago",
+      "title": "What It’s Like to Be…a Hotshot",
+      "titleKo": "",
+      "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+      "featured": false
+    },
     {
       "id": "4b2ae857fa2c",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A manager who talks about their own fairness and compassion can inspire employees or come across as self-righteous. New research across 254 workplace pairs and a controlled experiment suggests the difference lies in whether the boss also credits others.",
       "keyPoints": [],
       "url": "https://www.psypost.org/new-study-finds-bosses-who-brag-about-their-own-good-deeds-risk-disgusting-their-employees/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a5e7c6eee967",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Maladaptive personality traits may help explain who engages in harmful behavior online. Among Instagram-using students in Iran, antagonism and impulsivity were tied to cyberbullying and trolling, while negative emotionality was tied to Instagram addiction.",
       "keyPoints": [],
       "url": "https://www.psypost.org/antagonistic-and-impulsive-traits-are-linked-to-cyberbullying-trolling-and-catfishing-on-instagram/",
-      "featured": false
-    },
-    {
-      "id": "8a1dbff0df57",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "4시간 전 / 4h ago",
-      "title": "Prolonged mask exposure changes how we process facial emotions",
-      "titleKo": "",
-      "summary": "A longitudinal study reveals that people adapt to reading emotions on mask-covered faces over time. The findings show improvements in identifying occluded expressions of fear and happiness, highlighting the adaptability of human social cognition.",
-      "aiSummary": "A longitudinal study reveals that people adapt to reading emotions on mask-covered faces over time. The findings show improvements in identifying occluded expressions of fear and happiness, highlighting the adaptability of human social cognition.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "A longitudinal study reveals that people adapt to reading emotions on mask-covered faces over time. The findings show improvements in identifying occluded expressions of fear and happiness, highlighting the adaptability of human social cognition.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/people-adapt-to-reading-masked-facial-expressions-over-time/",
-      "featured": false
-    },
-    {
-      "id": "79faf3f582e1",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "36일 전 / 36d ago",
-      "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
-      "titleKo": "",
-      "summary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
-      "aiSummary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
-      "featured": false
-    },
-    {
-      "id": "58c7a391b002",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "45일 전 / 45d ago",
-      "title": "Frontiers: A Roundtable Discussion on the I-Frame vs. S-Frame Debate",
-      "titleKo": "",
-      "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
-      "aiSummary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
       "featured": false
     }
   ]
