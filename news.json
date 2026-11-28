@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-28T01:23:21.241426+00:00",
+  "updated": "2026-11-28T10:01:44.668438+00:00",
   "total": 20,
   "articles": [
+    {
+      "id": "58c7a391b002",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "52일 전 / 52d ago",
+      "title": "Frontiers: A Roundtable Discussion on the I-Frame vs. S-Frame Debate",
+      "titleKo": "",
+      "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen? Is it through interventions focused on influencing individual behavior while maintaining freedom of choice? Is it by changing policies and laws, and thereby the systems, that individuals operate within? Is it a combination of the two? Is the distinction between an individual- or systems-focus a helpful one? Or, is the world too messy and complex? How should applied behavioral scientists navigate the financial and political influences on the work ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+      "featured": true
+    },
+    {
+      "id": "e92fe64f5af3",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "108일 전 / 108d ago",
+      "title": "What It’s Like to Be…a Mail Carrier",
+      "titleKo": "",
+      "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages? And what does a mail carrier learn about us from our mail? [buzzsprout episode='19556309' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist serves as a dis",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+      "featured": false
+    },
+    {
+      "id": "13ff983ba277",
+      "tag": "behav",
+      "tagLabel": "행동과학 / Behavioral Science",
+      "source": "Behavioral Scientist",
+      "time": "122일 전 / 122d ago",
+      "title": "What It’s Like to Be…a Hotshot",
+      "titleKo": "",
+      "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "aiSummaryKo": "",
+      "aiSummaryEn": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up close? And where does a crew go when the fire threatens to overrun them? [buzzsprout episode='19534994' player='true'] View the episode transcript About What It's Like to Be... In each episode of What It's Like to Be..., bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes. Behavioral Scientist ",
+      "keyPoints": [],
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+      "featured": false
+    },
     {
       "id": "bf05464a6a4f",
       "tag": "psych",
@@ -16,7 +64,7 @@
       "aiSummaryEn": "A new longitudinal study tracks how verbal hostility at home disrupts family communication and increases the risk of depressive symptoms in teenagers over a one-year period.",
       "keyPoints": [],
       "url": "https://www.psypost.org/how-emotional-abuse-and-family-dynamics-shape-teen-depression-over-time/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bbebb31e64bb",
@@ -272,54 +320,6 @@
       "aiSummaryEn": "Most people assume fond memories of an ex threaten a current romance while sweet memories with a present partner are pure upside. New psychology research suggests the emotional math is far stranger — especially early in a relationship.",
       "keyPoints": [],
       "url": "https://www.psypost.org/reminiscing-about-an-ex-isnt-always-bad-for-your-love-life-a-psychology-experiment-found-it-left-dating-adults-happier-with-their-partner/",
-      "featured": false
-    },
-    {
-      "id": "05e17c33cfc5",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "6시간 전 / 6h ago",
-      "title": "A child’s early test scores aren’t just an academic milestone — psychology researchers discovered they are linked to how their mother’s physical health holds up",
-      "titleKo": "",
-      "summary": "Watching your child tackle homework might feel like it's strictly about their future. But a psychology study tracking 11,000 kids found their learning skills may be closely tied to your own midlife health.",
-      "aiSummary": "Watching your child tackle homework might feel like it's strictly about their future. But a psychology study tracking 11,000 kids found their learning skills may be closely tied to your own midlife health.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Watching your child tackle homework might feel like it's strictly about their future. But a psychology study tracking 11,000 kids found their learning skills may be closely tied to your own midlife health.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/a-childs-early-test-scores-arent-just-an-academic-milestone-psychology-researchers-discovered-they-are-linked-to-how-their-mothers-physical-health-holds-up/",
-      "featured": false
-    },
-    {
-      "id": "8215cb6cac7f",
-      "tag": "psych",
-      "tagLabel": "심리학 / Psychology",
-      "source": "PsyPost",
-      "time": "8시간 전 / 8h ago",
-      "title": "Smartphone ownership at age 12 linked to higher risk of eating disorder symptoms two years later",
-      "titleKo": "",
-      "summary": "Adolescents who own a personal smartphone at age 12 face a higher risk of eating disorder symptoms two years later, according to a national study of nearly 9,000 U.S. youth published in JAMA Network Open.",
-      "aiSummary": "Adolescents who own a personal smartphone at age 12 face a higher risk of eating disorder symptoms two years later, according to a national study of nearly 9,000 U.S. youth published in JAMA Network Open.",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "Adolescents who own a personal smartphone at age 12 face a higher risk of eating disorder symptoms two years later, according to a national study of nearly 9,000 U.S. youth published in JAMA Network Open.",
-      "keyPoints": [],
-      "url": "https://www.psypost.org/smartphone-ownership-at-age-12-linked-to-higher-risk-of-eating-disorder-symptoms-two-years-later/",
-      "featured": false
-    },
-    {
-      "id": "79faf3f582e1",
-      "tag": "behav",
-      "tagLabel": "행동과학 / Behavioral Science",
-      "source": "Behavioral Scientist",
-      "time": "42일 전 / 42d ago",
-      "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
-      "titleKo": "",
-      "summary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
-      "aiSummary": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
-      "aiSummaryKo": "",
-      "aiSummaryEn": "We had a lively debate and discussion during the event. Thank you to all those who were able to attend live. If you weren't able to make it, you can view the recording here . (The link is the same as the registration link. After you register/login, you’ll be taken to the video.) Watch the recording * * * What do you think? What are your perspectives on the debate? Has the i-frame vs. s-frame debate influenced your work? Where do you agree, and where do you disagree? What related questions are you grappling with? Where do you think the applied behavioral science goes next? Share your perspectiv",
-      "keyPoints": [],
-      "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
       "featured": false
     }
   ]
